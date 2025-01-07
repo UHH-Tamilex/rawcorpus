@@ -1,0 +1,521 @@
+[pm logo]
+
+------------------------------------------------------------------------
+
+vaLaiyApati (Remnants of Tamil Works lost over the years- II) in Tamil script, Unicode/utf-8 format  aimperuṅ kāppiyaṅkaḷuḷ nāṉkāvatāṉa "vaḷaiyāpati" (maṟaintu pōṉa tamiḻ nūlkaḷ - II)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Acknowledgement:
+Our Sincere thanks go to the following persons for their assistance in
+the preparation of this work.
+Etext Preparation (input, proof-reading) & Introductory Notes: Mr.
+Periannan Chandrasekaran, Atlanta, GA. USA
+Web version: K. Kalyanasundaram, Lausanne, Switzerland
+This page was first put up on April 9, 2000.
+This webpage presents the Etext in Tamil script in Unicode encoding
+(utf-8 format).
+© Project Madurai, 1998-2021.
+Project Madurai is an open, voluntary, worldwide initiative devoted to
+the preparation
+of electronic texts of tamil literary works and to distribute them free
+on the Internet.
+Details of Project Madurai are available at the website
+https://www.projectmadurai.org/
+You are welcome to freely distribute this file, provided this header
+page is kept intact.
+
+------------------------------------------------------------------------
+
+aimperuṅ kāppiyaṅkaḷuḷnāṉkāvatāṉa vaḷaiyāpati
+
+The following transcription scheme is used to represent letters that are
+foreign to pure Tamil:
+g='k, j='c, D(.d)='ṭ, d('dh')='t, b='p, f='v, h=·, s=^c, S(sh/.s)=~c
+muṉṉurai
+periyaṇṇaṉ cantiracēkaraṉ, aṭlāṇṭā, amerikkā.
+aimperuṅ kāppiyaṅkaḷuḷ kaṭaici iraṇṭāṉa vaḷaiyāpatiyum kuṇṭalakēciyum kiṭaikkavillai
+yeṉṟu paṭittu avaṟṟil oṉṟum kiṭaikkavillaiyē eṉṟu varuntum palarukkum
+vaḷaiyāpatiyil maturait tiṭṭattiṉ kīḻ valaiyil ēṟṟuvataṟku eṉṉa irukkiṟateṉṟu aiyam
+eḻalām. ām, vaḷaiyāpatiyil oṉṟu kūṭak kiṭṭāmaṟ pōkavillai.
+mutalil aimperuṅkāppiyaṅkaḷ eṉṉum karuttu evvaḷavu toṉmaiyāṉatu eṉṟu kāṇpōm.
+cekkōculōvākiyat tamiḻp pēraṟiñarāṉa kamil cuvele'pil "Companion Studies to
+the History of Tamil Literature" (1992) eṉṉum tam nūlil colkiṟār (pak.70):
+"tamiḻ ilakkiyattil "aimperuṅkāppiyaṅkaḷ" eṉṉum toṭarai mutalil āṇṭavar mayilainātar
+āvar; avar coṟṟoṭarait tamiḻ ilakkaṇa nūlāṉa naṉṉūliṉ 387-ām nūṟpāviṉ uraiyil
+āḷkiṟār; āyiṉum avar ententa nūlkaḷ atil aṭaṅkumeṉak kuṟippiṭavillai; 19-ām
+nuṟṟāṇṭiṉ toṭakkattil eḻunta kantappaiyariṉ tiruttaṇikait tala purāṇattokaiyil oṉṟāṉa
+tiruttaṇikai yulāviṉ 11:526-7 ām ceyyuḷiltāṉ av vaimperuṅ kāppiyaṅkaḷum yāvai
+eṉa niraikkap paṭukiṟatu!"
+vaḷaiyāpati eṉṉum peruṅkāppiyam muḻutum kiṭaittilatu. atu ceṉṟa 19-ām nūṟṟāṇṭiṉ
+piṟpakutivarai tolaiyāmal muḻutum iruntataṟkuc cāṉṟukaḷ uḷḷaṉa. makāmakōpāttiyāya
+ṭākṭar u.vē.cāmināta aiyar avarkaḷ tiruvāvaṭutuṟai ātīṉa maṭattiṉ nūlakattiṟkut tām
+ceṉṟapōtu vaḷaiyāpatiyiṉ cuvaṭi yaṉṟait tam kaṇṇālē kaṇṭatākavum appōtu paḻaṅ
+cuvaṭikaḷaik kākkum muyaṟciyil īṭupaṭātatāl ataip puṟakkaṇittuviṭṭatākavum
+piṟkālattil avaipōlum cuvaṭikaḷaik kākkum viruppōṭu mīṇṭum aṅkuc ceṉṟapōtu atu
+kāṇavillaiyeṉavum “eṉ carittiram” nūlil kuṟippiṭṭuḷḷār.
+vaḷaiyāpatiyiṉ āciriyar, iyaṟṟap paṭṭa kālam, akkāviyat talaivaṉ peyar, kāviyattiṉ katai
+eṉpaṉa yātoṉṟum namakku ippōtu teriyavillai. ikkāviyattiṉ cila ceyyuḷkaḷ maṭṭumē
+kiṭaittuḷḷaṉa. ippōtu 72 ceyyuḷkaḷtām namakkuk kiṭṭiyuḷḷaṉa.
+anta 72 ceyyuḷkaḷil 66 ceyyuḷkaḷ 14-ām nūṟṟāṇṭil tōṉṟiya puṟattiraṭṭu eṉṉum
+tokainūlilum, 3 ceyyuḷkaḷ cilampiṉ aṭiyārkku nallār uraiyil mēṟkōḷākavum, 2
+ceyyuḷkaḷ yāpparuṅkalam eṉṉum ilakkaṇa nūliṉ peyarteriyāta ōr aṟiñarāl iyaṟṟappaṭṭa
+viruttiyuraiyil mēṟkōḷākavum, iḷampūraṇariṉ tolkāppiya uraiyil mēṟkōḷāk
+kāṇappaṭuvatum kaṭavuḷ vāḻttuc ceyyuḷeṉṟu karutappaṭuvatumākiya eñciya 1 ceyyuḷ
+nacciṉārkkiṉiyar uraiyil mēṟkōḷākavum kiṭṭiṉa.
+itu camaṇa camaya nūl eṉpatil aiyamillai. vaḷaiyāpati taṉiyaḻakuḷḷa nūleṉṟum oṭṭakkūttarum
+avvāṟu karutiyatākavum takkayākap paraṇiyiṉ paḻaiya uraiyāciriyar kūṟukiṟār.
+vaḷaiyāpatiyiṉ kālam:
+vaiyāpurip piḷḷai avarkaḷ virutta yāppil iyaṟṟap paṭṭa nūlkaḷil itu mikap paḻaiyatu
+eṉṟu cāṟṟi atu ki.pi. 10-ām nuṟṟāṇṭiṉ muṟpātiyatāka irukkalām eṉṟu colvār.
+āṉāl, mu.aruṇācalam avarkaḷō atu ki.pi. 9-ām nūṟṟāṇṭiṉ muṟpātiyatākumeṉac
+colvār.
+vaḷaiyāpatiyiṉ katai:
+vaḷaiyāpatiyiṉ kataiyaip paṟṟi namakku uṟutiyāka ētum teriyavillai. ataip paṟṟic cila
+karuttukaḷ eḻutap paṭṭuḷḷaṉa. avaṟṟai nām iṅkē kāṇpōm.
+kamil cuvelepil avarkaḷiṉ mēṟcuṭṭiya nūliṉiṉṟu cila ceytikaḷait tarukiṟēṉ.
+vaiciyapurāṇam colluvatu:
+cila aṟiñarkaḷ 1855-il cūṭāmaṇip pulavar eḻutiya vāṇikapurāṇam eṉappaṭukiṉṟa vaiciya
+purāṇam eṉṉum nūliṉ 35-ām paṭalattil vaḷaiyāpatiyiṉ katai collap paṭṭiruppatākak
+karutukiṟārkaḷ. āṉāl a·tu aiyappāṭṭiṟkuriyatē.
+ataṉ paṭi:
+vairavāṇipa makari*cik kōttirattaic cērntavaṉum civa aṉpiṉaṉum ākiya navakōṭi nārāyaṇac
+ceṭṭi eṉpāṉukku iraṇṭu maṉaiviyar iruntaṉar; avaruḷ orutti avaṉuṭaiya vaiciyac
+cātiyiṉaḷ; maṟṟorutti piṟitoru cātiyiṉaḷ. vēṟṟuc cātikkāriyai maṇantatai etirttu
+navakōṭi nārāyaṇac ceṭṭiyiṉ cātiyiṉar avaṉai otukkam (excommunication) ceyya
+accuṟuttavum, avaṉ taṉṉuṭaiya iraṇṭām maṉaiviyai vīṭṭai viṭṭu veḷiyēṟṟiviṭukiṟāṉ,
+avaḷ karuppamāka iruntapōtum.
+antac ceṭṭiyum vīṭṭai viṭṭuc ceṉṟu kaṭaṟpayaṇattai mēṟkoṇṭu mēlum perumporuḷ
+īṭṭit tirumpit taṉ mutal maṉaiyāḷuṭaṉ iṉpamāka illaṟam naṭattukiṉṟāṉ. cila mātaṅkaṭ
+kaḻittu avaṉ iraṇṭām maṉaivi oru makaṉai īntāḷ; avaṉai vaḷarttum varukiṟāḷ; āṉāl
+avaṉuṭaiya viḷaiyāṭṭut tuṇaip paiyaṉkaḷ avaṉait takappaṉ peyar teriyātavaṉeṉṟu eḷḷit
+tuṉpuṟuttukiṉṟaṉar. kāḷiyiṉ oru vaṭivamākiya nāḷi yeṉṉun teyvattiṉ mītu
+aṉpukoṇṭa avaṉ tāy oruvaḻiyāka avaṉ tantaiyiṉ peyarai avaṉukkut terivikkiṟāḷ.
+anta makaṉum taṉ tantaiyait tēṭic ceṉṟu tantaic ceṭṭiyiṉ muṉ tāṉṟāṉ avaṉāṟ kaiviṭap
+paṭṭa maṉaiviyiṉ makaṉeṉṟu collit tōṉṟukiṟāṉ. tantaiyō avaṉai nampāmal avaṉ kūṟṟai
+maṟuttu avaṉait turattukiṟāṉ. avaṉ mīṇṭum vantu tantaiyai vītikku iḻuttuk kāḷiyaik
+kariyāka (cāṭciyāka) aḻaikkiṟāṉ. appōtu avaṉ tāyiṉ kaṟpai niṟuvumāṟu kēṭkap
+paṭavum avaṉ tāy kāḷiyiṉ utaviyāl ceṭṭiccātip periyavarkaḷiṭam taṉ kaṟpiṉ uṇmaiyai
+nilaināṭṭukiṟāḷ. tantaiyum appaiyaṉait taṉ makaṉāka ēṟṟu avaṉukku vīravāṇipaṉ eṉṉum
+peyarum iṭṭu avaṉai vāṇikaṉākat toḻil toṭakkavum utavukiṟāṉ.
+vaiciyapurāṇamāṉatu “pañcakāviyaṅkaḷ” eṉṉum talaippil mēṟkaṇṭa ceytiyai 49 ceyyuḷkaḷil
+kūṟiviṭṭu “itutāṉ vaira vāṇikaṉ vaḷaiyāpati eṉṉum kataiyiṉ curukkam” eṉṟu
+colkiṟatu. āṉāl vaḷaiyāpati yeṉṉum peyar appāṭalkaḷil kāṇavē yillai. “aṟiñar
+mu.aruṇacālam colvatupōl kāppiyaṅkaḷ itupōlum cātāraṇak kataikaḷaik karuvākak
+koḷvatillai” eṉṟu cuvelepil colluvār. kataiyiṉ talaivaṉ caiva ainteḻuttait taṉ
+iṟaivaṇakka mantiramāka mēṟkoḷkiṟāṉ; kāḷiyum oru maiyamāṉa pāttirattai vakikkiṟāḷ.
+āṉāl vaḷaiyāpatiyiṉ kiṭaittuḷḷa ceyyuḷkaḷō akkāviyam oru camaṇa nūleṉṟu ēṟakkuṟaiya
+muḻuvuṟutiyuṭaṉ terivikkiṉṟaṉa. ākavē vaiciya purāṇattiṟ colliyuḷḷa katai tamiḻc
+caiva vaiciyac ceṭṭiyār pārampariyattil iruntu tōṉṟiyateṉṟum ataṟkum vaḷaiyāpatikkum
+yātoru toṭarpum illaiyeṉṟum collalām.
+vaḷaiyāpati kāṭṭavarāyaṉ kataiyaip purāṇavaṭivil colliyateṉṟu karuttut terivikkap
+paṭukiṟatu; malaiyāḷattilum tamiḻilum vaḻaṅkum kāṭṭavarāyaṉ eṉṉum caivac cevivaḻik
+kataiyiṉ karu cāti varampai mīṟi maṇappatāl ēṟpaṭum tīya viḷaivukaḷē, ātalāl atu camaṇak
+kāviyattiṉ kataiyāka irukkumeṉpatu aiyattiṟ kuriyatē.
+kiṭṭiyuḷḷa ceyyuḷkaḷ colvatu:
+mēṟcuṭṭiya nūlil kamil cuvelepil colkiṟār: “namakkuk kiṭaittuḷḷa vaḷaiyāpatic
+ceyyuḷkaḷai vaittup pārttāl, avaṟṟiṟ pātiyil ulakavāḻkkaiyiṉ iṉpaṅkaḷai maṟuttut
+tuṟavaṟattaip pōṟṟuvatu terikiṟatu; peṇkaḷiṉmēl kuṟippāka veṟuppuk kāṭṭukiṟatu;
+kaṟpu oṉṟaimaṭṭumē pōṟṟuvatākat terikiṟatu. pala ceyyuḷkaḷ tirukkuṟaḷai
+etirolikkiṉṟaṉa. vaḷaiyāpatiyiṉ collāṭciyum naṭaiyum mika uyarnta tarattiṉa. atai
+aṭiyārkku nallārum uṇarntār eṉpatu avar cilappatikārattiṉ uraiyil vaḷaiyāpatiyai
+mēṟkōḷ kāṭṭuyuḷḷatilum atil annūlaip pukaḻvatilum teṟṟeṉat terikiṟatu.
+“peṇmaṟuppu, ciṟṟiṉpat tuṟavu, pulāl uṇṇāmai, ulakiṉ nilaiyāmai - ākiyavaiyum iṉṉa
+piṟa kūṟukaḷiliruntum oṉṟu teḷivu: vaḷaiyāpatiyiṉ āciriyar oru kaṟṟut tuṟaipōkiya
+tiṟammikka camaṇat tuṟaviyar āvar ”
+mayilai cīṉi. vēṅkaṭacāmi avarkaḷuṭaiya “maṟaintu pōṉa tamiḻ nūlkaḷ” eṉṉum nūl itaṟkup
+peritum utaviyatu. annūlai emakku iraval tantu pērutavi ceyta ·ū^cṭaṉ viṇkalaviyaṟ
+poṟiyāḷar tamiḻp pēraṟiñar nākamāṇikkam kaṇēcaṉ avarkaḷukku nām kaṭamaippaṭṭuḷḷōm.
+mārccu 19, 2000, pe.cantiracēkaraṉ
+aṭlāṇṭā, amerikkā.
+
+------------------------------------------------------------------------
+
+vaḷaiyāpatiyiṟ kiṭaittuḷḷa ceyyuḷkaḷ
+
+kaṭavuḷ vāḻttu
+[iḷampūraṉar tolkāppiya uraiyil ceyyuḷiyal:98-am nūṟpāvukkum, yāpparuṅkala
+viruttiyuraiyāciriyar 37-ām nūṟpāvukkum eṭutta nūṟpeyaraik kuṟippiṭāmal itai
+mēṟkōḷākak kāṭṭukiṟaṉar; nacciṉārkkiṉiyar tolkāppiyam ceyyuḷiyal 148-ām
+nūṟpāviṉ uraiyil itaik kāṭṭi vaḷaiyāpatic ceyyuḷeṉṟu colvatāl itu vaḷaiyāpati
+eṉṟu teḷikiṟatu]
+ulakam mūṉṟum oruṅkuṭaṉ ēttumāṇ
+ṭilaka māya tilaṟaṟi vaṉaṭi
+vaḻuvil neñcoṭu vālitiṉ āṟṟavum
+toḻuval tolviṉai nīṅkuka eṉ(ṟu)yāṉ.
+puṟat tiraṭṭil tokukkap paṭṭa 66 ceyyuḷkaḷ piṉvarumāṟu:
+1.
+viṉaipala valiyi ṉālē vēṟuvē(ṟu) yākkai yāki
+naṉipala piṟavi taṉṉuḷ tuṉpuṟūum nallu yirkku
+maṉitariṉ ariya(tu) ākum tōṉṟutal, tōṉṟi ṉālum
+iṉiyavai nukara eytum celvamum aṉṉa tēyām.
+2.
+uyarkuṭi naṉiyuḷ tōṉṟal ūṉamil yākkai yātal
+mayar(vu)aṟu kalvi kēḷvit taṉmaiyāl valla rātal
+peri(tu)uṇar aṟivē yātal pēraṟam kōṭal eṉṟāṅ(ku)
+ari(tu)ivai peṟutal ēṭā peṟṟavar makkaḷ eṉpār.
+3.
+nāṭum ūrum naṉipukaḻn(tu) ēttalum
+pī(ṭu)u ṟummaḻai peykeṉap peytalum
+kūṭal āṟṟavar nallatu kūṟuṅkāl
+pāṭu cālmiku pattiṉik(ku) āvatē.
+4.
+paḷḷa mutunīrp paḻakiṉum mīṉiṉam
+veḷḷam putiyatu kāṇiṉ virup(pu)uṟūum
+kaḷaviḻ kōtaiyar kāmaṉo(ṭu) āyiṉum
+uḷḷam piṟitāy urukalum koḷnī.
+5.
+uṇṭiyuḷ kāp(pu)uṇ(ṭu) uṟuporuḷ kāppuṇṭu
+kaṇṭa viḻupporuḷ kalvikkuk kāppuṇṭu
+peṇṭiraik kāppa(tu) ilameṉṟu ñālattuk
+kaṇṭu moḻintaṉar kaṟ(ṟu)aṟin tōrē.
+6.
+ettuṇai āṟṟuḷ iṭumaṇal nīrttuḷi
+puṟpaṉi ukka marat(tu)ilai nuṇmayir
+attuṉai yumpiṟar añcoli ṉārmaṉam
+pukkaṉam eṉṟu potiyaṟaip paṭṭār.
+7.
+taṉippeyal taṇtuḷi tāmarai yiṉmēl
+vaḷippeṟu māttirai niṉṟaṟ(ṟu) oruvaṉ
+aḷippavaṉ kāṇum ciṟuvarai allāl
+tuḷakkilar nillār tuṇaivaṉaik kaiyār.
+8.
+poṟaiyilā aṟivu pōkap puṇarvilā iḷamai mēvat
+tuṟaiyilā vacaṉa vāvi tukililāk kōlat tūymai
+naṟaiyilā mālai kalvi nalamilāp pulamai naṉṉīrc
+ciṟaiyilā nakaram pōlum cēyilāc celva maṉṟē.
+9.
+ākkap paṭukkum; aruntaḷaivāyp peyvikkum;
+pōkkap paṭukkum; pulainakarat(tu) uyppikkum;
+kākkap paṭuvaṉa intiriyam aintiṉum
+nāk(ku)alla(tu) illai naṉipēṇum āṟē.
+10.
+tāram nallitan tāṅkit talainiṉmiṉ
+ūrum nāṭum uvattal orutalai
+vīra veṉṟi viṟalmiku viṇṇavar
+cīriṉ ēttic ciṟap(pu)etir koḷpavē.
+11.
+peṇṇiṉ ākiya pērañar pūmiyuḷ
+eṇṇam mikkavar eṇṇiṉum eṇṇilār
+piṉṉi niṉṟa peruviṉai mēlvarum
+eṉṉa(tu) āyiṉum ētilpeṇ nīkkumiṉ.
+12.
+poyyaṉ miṉ;puṟam kūṟaṉmiṉ; yāraiyum
+vaiyaṉ miṉ;vaṭi(vu) allaṉa collinīr
+uyyaṉ miṉ;uyir koṉ(ṟu)uṇṭu vāḻumnāḷ
+ceyyaṉ miṉ;ciṟi yāroṭu tīyaṉmiṉ.
+13.
+kaḷḷaṉ miṉ,kaḷa(vu) āyiṉa yāvaiyum;
+koḷḷaṉ miṉ,kolai kūṭi varumaṟam;
+eḷḷaṉ miṉ,ilar eṉṟeṇṉi yāraiyum;
+naḷḷaṉ miṉpiṟar peṇṇoṭu naṇṇaṉmiṉ.
+14.
+tuṟṟaḷa vākat tokuttu viralvaitta(tu)
+eṟṟuk(ku)a·(tu) eṉṉiṉ ituvataṉ kāraṇam
+aṟṟamil tāṉam eṉaippala āyiṉum
+tuṟṟaviḻ ovvāt tuṇi(vu)eṉṉum āṟē.
+15.
+āṟṟu miṉ,aruḷ āruyir māṭṭelām;
+tūṟṟu miṉṉaṟan tōmnaṉi tuṉṉaṉmiṉ
+māṟṟu miṉkaḻi māyamum māṉamum
+pōṟṟu miṉporu ḷāivai koṇṭunīr.
+16.
+poruḷaip poruḷāp potintōmpal cellā(tu)
+aruḷaip poruḷā aṟamceytal vēṇṭum
+aruḷaip poruḷā aṟamceytu vāṉkaṇ
+iruḷiyal peytāta(tu) eṉṉō namaraṅkāḷ.
+17.
+takā(tu)uyir kolvāṉiṉ mikāmaiilai pāvam
+avāvilaiyiṉ uṇpāṉ pulālperukal vēṇṭum
+pukāvalai vilaṅkāyp porutupiṟa ūṉkoṉ(ṟu)
+avāvilaiyil viṟpāṉu māṇṭarukal vēṇṭum.
+18.
+piṟavik kaṭalakat(tu) ārāyn(tu) uṇariṉ
+teṟuvatiṟ kuṟṟam illārkaḷum illai
+aṟavakai yōrā viṭakku micaivōr
+kuṟai(vu)iṉṟit tamcuṟṟam tiṉṟaṉar āvar.
+19.
+uyirkaḷ ōmpumiṉ ūṉviḻain(tu) uṇṇaṉmiṉ
+ceyirkaḷ nīṅkumiṉ ceṟṟam ikan(tu)orīik
+katikaḷ nalluruk kaṇṭaṉar kaitoḻu
+matikaḷ pōla maṟuvilir tōṉṟuvīr.
+20.
+poruḷaṭu pōkam puṇartal uṟiṉum
+aruḷutal cāṉṟa aruntavam ceymmiṉ
+iruḷil katicceṉ(ṟu) iṉiivaṇ vārīr
+teruḷutal uṟiṉum teruṇmiṉ atuvē.
+21.
+tavattiṉ mēluṟai tavat(tu)iṟai taṉak(ku)ala(tu) aritē
+mayakku nīṅkutal maṉamoḻi yaṭumeyiṟ ceṟital
+uvattal kaytalo(ṭu) ilātupal vakaiuyirk(ku) aruḷai
+nayattu nīṅkutal poruḷtaṉai aṉaiyatum aṟinī.
+22.
+eṇṇiṉṟi yētuṇiyum; evvaḻi yāṉum ōṭum;
+uḷniṉ(ṟu) urukkum; uravōrurai kōṭal iṉṟām
+naṇṇiṉṟi yēyum; nayavārai nayantu niṟkum;
+kaṇṇiṉṟu kāmam naṉikāmuṟu vārai vīḻkkum.
+23.
+cāṉṟōr uvarppat taṉiniṉṟu paḻippa kāṇār;
+āṉ(ṟu)āṅ(ku) amainta kuravarmoḻi kōṭal īyār;
+vāṉtāṅki niṉṟa pukaḻmācu paṭuppar; kāmaṉ
+tāntāṅki viṭṭa kaṇaimeyppaṭum āyi ṉakkāl.
+24.
+māeṉ(ṟu) uraittu maṭalēṟupa maṉṟu tōṟum;
+yaeṉ(ṟu) erukkiṉ iṇarcuṭupa; puṉmai koṇṭē
+pēyeṉ(ṟu) eḻuntu piṟarārppavum niṟpa; kāma
+nōynaṉ(ku) eḻuntu naṉikāḻk koḷvatāyi ṉakkāl.
+25.
+nakkē vilāi ṟuvar;nāṇuvar; nāṇūm vēṇṭār;
+pukkē kiṭappar; kaṉavumniṉai kaiyu mēṟpar;
+tuṟṟūṇ maṟappar; aḻuvar;naṉi tuñcal illār;
+naṟṟōḷ mikaipe ritunāṭaṟi tuṉpam ākkum.
+26.
+aracoṭu naṭṭavar āḷpa virutti
+aravoṭu naṭṭavar āṭṭiyum uṇpar
+purivalai muṉkaip puṉaiyiḻai nallār
+virakilar eṉṟu viṭuttaṉar muṉṉē.
+27.
+pīṭil ceytika ḷāṟkaḷa viṟpiṟar
+vīṭil palporuḷ koṇṭa payaṉeṉak
+kūṭik kāloṭu kaikaḷaip paṟṟivait(tu)
+ōṭal iṉṟi ulaiyak kuṟaikkumē.
+28.
+poyyiṉ nīṅkumiṉ; poyyiṉmai pūṇṭukoṇ(ṭu)
+aiyam iṉṟi aṟaneṟi āṟṟumiṉ;
+vaikal vētaṉai van(tu)uṟal oṉ(ṟu)iṉṟik
+kauvai ilula(ku) eytutal kaṇṭatē.
+29.
+kalvi iṉmaiyum kaipporuḷ pōkalum
+nallil cellalka ḷālnali(vu) uṇmaiyum
+poyyil poyyaṭu kūṭutaṟ(ku) ākutal
+aiyam illai atukaṭin(tu) ōmpumiṉ.
+30.
+ula(ku)uṭaṉ viḷaṅkavuyar cīrttinilai koḷḷiṉ
+nilaiyilkati nāṉkiṉiṭai niṉṟutaṭu māṟum
+alakiltuyar añciṉuyir añcavarum vañcak
+kolaioḻimiṉ eṉṟunaṉi kūṟiṉar aṟintār.
+31.
+veḷḷa maṟavi viṟalvēntar tīttāyam
+kaḷvareṉ(ṟu) ivvāṟiṟ kaikarappat tīrntakalum
+uḷḷil uṟuporuḷai oṭṭā(tu) oḻintavar
+eḷḷum peruntuyarnōy evva mikappavē.
+32.
+oḻinta piṟavaṟaṉ uṇṭeṉpār uṭka
+aḻintu piṟaravām vampap poruḷai
+iḻantu ciṟitāṉum eytā(tu) oḻintār
+aḻintu peruntuyarnōyk kallāp pilarē.
+33.
+iṉmai iḷivām uṭaimai uyirk(ku)accam
+maṉṉal ciṟitāy mayakkam peritākip
+puṉmai uṟukkum puraiyil arumporuḷait
+tuṉṉā(tu) oḻintār tuṟavō viḻumitē.
+34.
+īṇṭal aritāyk keṭutal eḷitāki
+nāṇṭal ciṟitāy naṭukkam palatarūum
+māṇpil iyaṟkai maruvil arumporuḷai
+vēṇṭā(tu) oḻintār viṟalō viḻumitē.
+35.
+illeṉiṉ vāḻkkaiyum illaiuṇ ṭāyviṭiṉ
+kolvar kayavar koḷappaṭṭum vīṭuvar
+illaiyuṇ ṭāyviṭiṉ immai maṟumaikkum
+pulleṉṟu kāṭṭum puṇarvatu maṉṟē.
+36.
+vēṟkaṇ maṭavār viḻai(vu)oḻiya yāmviḻaiyak
+kōṟkaṇ neṟikāṭṭak kolkūṟ(ṟu) uḻaiyatā
+nāṟpa(tu) ikantām naraittūtum vanta(tu)iṉi
+nīttal tuṇivām nilaiyā(tu) iḷamaiyē.
+37.
+iḷamaiyum nilaiyāvāl iṉpamum niṉṟavalla
+vaḷamaiyum a·tēyāl vaikalum tuṉpaveḷḷam
+uḷaveṉa niṉaiyātē celkatik(ku) eṉṟumeṉṟum
+viḷainilam uḻuvārpōl vittunīr ceytukoṇmiṉ.
+38.
+maṟṟum toṭarppā(ṭu) evaṉkol piṟap(pu)aṟukkal
+uṟṟārk(ku) uṭampu mikaiyavai uḷvaḻip
+paṟṟā viṉaiyāyp palapala yōṉikaḷ
+aṟṟāy uḻalu maṟuttaṟ karitē.
+39.
+uṟṟa utiram oḻippāṉ kaliṅkattai
+maṟṟatu tōyttuk kaḻuvutal eṉṉokkum
+paṟṟiṉāṉ ākiya pāvattai mīṭṭum
+paṟṟoṭu niṉṟu paṟaik(ku)uṟum āṟē.
+40.
+tāṉam ceytilam tavamum aṉṉatē
+kāṉam tōynila viṟkaḻi veytiṉam
+nāṉam tōykuḻal namak(ku)uytal uṇṭō
+māṉamtīr koḷkaiyār māṟṟampoy allavāl.
+41.
+paruvantu cālap palarkoleṉ(ṟu) eṇṇi
+oruvantam uḷḷat(tu) uvattal oḻimiṉ
+veruvanta tuṉpam viṭukkum tiṟalōṉ
+oruvaṉ ulakiṟ(ku) uḷaṉeṉṉum āṟē.
+42.
+uyttoṉṟi yērtan tuḻavuḻutu āṟṟavum
+vittiṉṟip paiṅkūḻ viḷaikkuṟal eṉṉokkum
+yuyttavam illāṉ poruḷaṭu pōkaṅkaṭ
+keyttuḻan tētāṉ iṭarppaṭu māṟē.
+43.
+cennelaṅ karumpiṉo(ṭu) ikalum tīñcuvaik
+kaṉṉalam karumputāṉ kamukaik kāynteḻum
+iṉṉavai kāṇkilaṉ eṉṟu pūkamum
+muṉṉiya mukilkaḷāṉ mukampu taikkumē.
+44.
+kulantarum kalvi koṇarntu muṭikkum
+alanta kiḷaikaḷ aḻipaci tīrkkum
+nilampaka vempiya nīḷcuram pōkip
+pulampil poruḷtarap puṉkaṇmai uṇṭō.
+45.
+keṭṭēm ituven nilaiyeṉṟu cārtaṟkaṇ
+naṭṭavar allār naṉimiku pavarcuṟṟam
+peṭṭatu collip peri(tu)ikaḻn(tu) āṟṟavum
+eṭṭavan tōriṭat(tu) ēkiniṟpavē.
+46.
+teṇṇīr parantu ticaitoṟum pōykkeṭṭa
+eṇṇeykoṇ(ṭu) īṭṭaṟ(ku) ivaṟutal eṉokkum
+peṇmaṉam pētit(tu) oruppaṭuppeṉ eṉṉum
+eṇṇil oruvaṉ iyal(pu)eṇṇum āṟē.
+47.
+nīṇmukai kaiyāṟ kiḻittatu mokkuṟu
+māṇviṉaip pāvai maṟainiṉṟu kēṭkuṟiṟ
+pēṇalum aṉpum piṟan(tu)uḻip pētucey(tu)
+āṇaippeṇ ṇaiya vaṇaikkuṟu māṟē.
+48.
+antakaṉ antakaṟ(ku) āṟu colalokkum
+muntucey kuṟṟam keṭuppāṉ muḻuvatum
+naṉ(ku)aṟi(vu) illāṉ atuvaṟi yātavaṟ(ku)
+iṉpuṟu vīṭṭiṉ neṟicollu māṟē.
+49.
+yāṟoṭi yāḻñeli kōṉila vārkoṭip
+pāṟoṭu pattiṉi māpōl oḻukeṉṟu
+kūṟiṉaḷ kūtti mutirntāḷ makaṭkivai
+vēṟōr iṭattu veḷippaṭa naṉṟām.
+50.
+āykuraṅ kañciṟai vaṇṭiṉam pōlkeṉṟu
+pāyiram iṉṟip payiṟṟi moḻintaṉaḷ
+mēvarum vāṉporuḷ tantuniṉ tōṇampi
+yāravar aṭaintavark kavaiyum puraipa.
+51.
+vāri perukap perukiya kātalai
+vāri curuṅkac curuṅki viṭutaliṉ
+māri perukap peruki aṟavaṟum
+vārpuṉal āṟṟiṉ vakaiyum puraipa.
+52.
+eṅṅaṉam ākiya(tu) ipporuḷ apporuṭ(ku)
+aṅṅaṉam ākiya aṉpiṉar ātaliṉ
+eṅṅaṉam paṭṭaṉaṉ pāṇmakaṉ pāṇmakaṟ(ku)
+aṅṅaṉam ākiya yāḻum puraipa.
+53.
+karaṇam palaceytu kaiyuṟ(ṟu) avarkaṭ
+karaṇa meṉumilar āṟṟiṟ kalantu
+tiraṇi upāyattiṟ ṟiraṇporuḷ kōṭaṟ
+karaṇi ñelikōl amaivara oppa.
+54.
+nāṭoṟum nāṭoṟum nantiya kātalai
+nāṭoṟum nāṭoṟum naiya oḻukaliṉ
+nāṭoṟum nāṭoṟum nanti uyar(vu)eyti
+nāṭoṟum tēyum nakaimati oppa.
+55.
+vaṉappilar āyiṉum vaṉmaiyi lōrai
+niṉaittavar mēvara niṟpamaik kāvartām
+kaṉaittuṭaṉ vaṇṭoṭu tēṉiṉam ārppap
+puṉattiṭaip pūtta pūṅkoṭi oppa,
+56.
+taṅkaṇ piṟanta kaḻiaṉpi ṉārkaḷai
+vaṇkaṇmai ceytu valiya viṭutaliṉ
+iṉporuḷ ēṟṟi eḻaniṉṟa vāṇikark(ku)
+aṅkaṇ parappakat tāḻkala moppa.
+57.
+otta poruḷāṉ uṟuticey vārkaḷai
+ettiṟat tāṉum vaḻipaṭ(ṭu) oḻukaliṉ
+paittara alkulpoṟ pāvaiyi ṉallavar
+pattiṉip peṇṭir paṭiyum puraipa.
+58.
+vīporu ḷaṉai akaṉṟu piṟaṉumōr
+māporu ḷāṉpakkam māṇa nayattaliṉ
+mēypulam pullaṟa maṟṟōṟ pulampuku
+māvum puraipa malaraṉṉa kaṇṇār.
+59.
+nuṇporu ḷāṉai nukarntiṭṭu vāṉporuḷ
+naṉkuṭai yāṉai nayantaṉar kōṭaliṉ
+vampiḷa meṉmulai vāḷneṭuṅ kaṇṇavar
+kompiṭai vāḻuṅ kuraṅkum puraipa.
+60.
+muruk(ku)alar pōṟcivan(tu) oḷḷiya rēṉum
+parukkara ṭillavar pakkam niṉaiyār
+aruppiḷa meṉmulai amco lavartām
+varicciṟai vaṇṭiṉ vakaiyum puraipa.
+61.
+makkḷ payantu maṉaiyaṟam āṟṟutal
+takka(tu) aṟintār talaimaik kuṇameṉpa
+pait(tu)ara(vu) alkul paṭiṟ(ṟu)urai yāroṭu
+tuyttuk kaḻippatu tōṟṟamoṉ(ṟu) iṉṟē.
+62.
+nakainaṉi tītu tuṉinaṉṟi yārkkum
+pakainaṉi tītu paṇintī yārōṭum
+ivaimiku poruḷeṉ(ṟu) iṟattal ilarē
+vakaimiku vāṉula(ku) eytivāḻ pavarē.
+63.
+peṇṭir matiyār peruṅkiḷai tāṉatu
+koṇṭa virakar kuṟippiṉiṉ a·kupa
+veṇṭaṟai niṉṟu veṟukkai ilarāyiṉ
+maṇṭiṉar pōvartam makkaḷum oṭṭār.
+64.
+collavai collār curuṅkupu cūḻntuṇar
+nallavai yārum naṉmatip pārallar
+kalviyum kaipporuḷ illār payiṟṟiya
+pulleṉṟu pōtalai meyyeṉṟu koḷnī.
+65.
+toḻumakaṉ āyiṉum tuṟṟuṭai yāṉaip
+paḻumaram cūḻnta paṟavaiyiṉ cūḻpa
+viḻumiya rēṉum veṟukkai ulantāl
+paḻumaram vīḻnta paṟavaiyiṉ pōpa.
+66.
+poruḷil kulaṉum poṟaimaiil nōṉpum
+aruḷil aṟaṉum amaic(cu)il aracum
+iruḷiṉuḷ iṭṭa iruṇmaiyi teṉṟē
+maruḷil pulavar maṉamkoṇ(ṭu) uraippa.
+cilappatikāram aṭiyārkku nallār uraiyil mēṟkōḷāka varuvaṉa:
+67.
+[cilampu: kaṉāttiṟam: 13-kku]
+tukkan tuṭaikkun tukaḷaṟu kāṭciya
+nikkanta vēṭat(tu) iruṭi kaṇaṅkaḷai
+okka aṭivīḻn(tu) ulakiyal ceytapiṉ
+akkatai yāḻkoṇ(ṭu) amaivarap paṇṇi.
+68.
+[cilampu: kaṉāttiṟam: 14-kku]
+paṇṇāṟ ṟiṟattiṟ paḻutiṉṟi mēmpaṭṭa
+toṇṇūṟ(ṟu) aṟuvakaik kōvaiyum vallavaṉ
+viṇṇā(ṟu) iyaṅkum viṟalavar āyiṉum
+kaṇṇāṟi nōkkik kaṭunakai ceyvāṉ.
+69.
+[cilampu: āycciyarkuravai: 3-kku]
+aṉṟaip pakaṟkaḻin tāḷiṉ ṟirāppakaṟ
+kaṉṟiṉ kuralum kaṟavai maṇikaṟaṅkak
+koṉṟaip paḻakkuḻaṟ kōvalar āmpalu
+moṉṟal curumpu narampeṉa ārppavum.
+yāpparuṅkala uraiyāciriyar mēṟkōḷākak kāṭṭuvaṉa:
+[yāpparuṅ kalam: 93-ām nūṟpāviṟku]
+70.
+nīla niṟattaṉavāy neykaṉintu pōtaviḻntu
+kōlam kuyiṉṟa kuḻalvāḻi neñcē
+kōlam kuyiṉṟa kuḻalum koḻuñcikaiyum
+kālak kaṉaleriyiṉ vēmvāḻi neñcē
+kālak kaṉaleriyiṉ vēvaṉa kaṇṭālum
+cāla mayaṅkuva(tu) eṉvāḻi neñcē.
+71.
+vittakar ceyta viḷaṅku muṭikavittār
+mattaka māṇpaḻital kāṇvāḻi neñcē
+mattaka māṇpaḻital kaṇṭāl mayaṅkātē
+uttama naṉṉeṟikkaṇ nilvāḻi neñcē
+uttama naṉṉeṟikkaṇ niṉ(ṟu)ūkkañ ceytiyēṟ
+citti paṭartal teḷivāḻi neñcē.
+vaḷaiyāpatiyiṟ kiṭṭiyuḷḷa ceyyuḷkaḷiṉ tokai muṟṟiṟṟu.
+-----------
+
+------------------------------------------------------------------------
+
+This webpage was last revised on 11 August 2021.
+Feel free to send the corrections by email to the webmaster
+(pmadurai@gmail.com).

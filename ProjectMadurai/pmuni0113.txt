@@ -1,0 +1,3342 @@
+[]
+
+------------------------------------------------------------------------
+
+vaTamalai nikaNTu (of Iswara Bharathi, in Tamil Script, unicode format)
+
+vaṭa malai nikaṇṭu
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Etext Preparation & Proof Reading : Mr. & Mrs.V. Devarajan, Durham, NC,
+USA
+PDF and Web version: Dr. K. Kalyanasundaram, Lausanne, Switzerland
+
+This webpage presents the Etext in Tamil script but in Unicode encoding.
+To view the Tamil text correctly you need to set up the following:
+i). You need to have Unicode fonts containing Tamil Block (Latha,
+Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on
+your computer
+and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
+XP).
+ii)Use a browser that is capable of handling UTF-8 based pages
+(Netscape 6, Internet Explorer 5) with the Unicode Tamil font chosen as
+the default font for the UTF-8 char-set/encoding view.
+. In case of difficulties send an email request to kalyan@geocities.com
+or kumar@vt.edu
+
+© Project Madurai 1999 - 2004
+Project Madurai is an open, voluntary, worldwide initiative devoted to
+preparation of
+electronic texts of tamil literary works and to distribute them free on
+the Internet.
+Details of Project Madurai are available at the website
+
+http://www.projectmadurai.org/
+You are welcome to freely distribute this file, provided this header
+page is kept intact.
+
+------------------------------------------------------------------------
+
+vaṭa malai nikaṇṭu tokuppu : īsvara pārati
+
+------------------------------------------------------------------------
+
+The original work was compiled by Iswara Bharati, son of Chidambara
+Bharati in the Kollam year 876, corresponding to 1700.A.D. It was called
+"iraiyUr vadamalai nikaNtu". Although it contained three chapters as
+mentioned in the dedication stanzas, only the second chapter is
+available in manuscript and is secured in Dr. U.V.Swaminatha Iyer
+Library.
+It was due to the devoted efforts of late Dr. U.V.Swaminatha Iyer, who
+is revered as tamiḻt tāttā, that this manuscript was collected and
+preserved.
+The source of this text is the edition published by Dr. U.V.Swaminatha
+Iyer Library, edited by Tiru. R.Nagaswamy in 1983. This pmadurai file
+contains only the original verses (moolam) and not the meaning and notes
+included in the printed book.
+
+------------------------------------------------------------------------
+
+pāyiram
+
+kāppup pāyiram
+
+kollameṇṇūṟ ṟeḻupattā ṟeṉakkaṇitap
+
+pāvāṇar kuṟitta vāṇṭiṉ
+malkiyacīr vikkirama varuṭattā
+
+vaṇimūla vaḷañcēr nāḷi
+ṉellainakar vaṭivukanta vēymuttaip
+
+paṇintulaki ṉeṭunā ṇiṟkap
+palkalaitēr vaṭamalainaṉ ṉikaṇṭiṉaiyī
+
+cura kaviñaṉ pakarntiṭṭāṉē.
+pārpukaḻ tirunel vēliyam pativā
+ḻaiṅkarat torukōṭ ṭāṉaiyai vaṭivēṟ
+ciṅkan taṉṉaic ciṟappuṭa ṉīṉṟa
+piṭivaṭi vuṭaiya peṇkoṭi pākat
+taṭikaḷ cempoṉ ṉaṭikaḷai vaṇaṅki
+orupeya roruporuḷ uraikkuṅ kāṇṭamum
+oruporuḷ palapeyar ōtuṅ kāṇṭamum
+palapeyark kūṭṭat torupeyark kāṇṭamum
+coṟporuṭ kāṇṭat tokaimūṉ ṟākki
+īṭṭupukaḻ iraiyūr vaṭamalai nikaṇṭeṉa
+nāṭṭiṉaṉ maṭacai naṉṉakar vāḻum
+citampara pārati cēytiṉa mumaiyāḷ
+patampaṇi yīcura pārati tāṉē.
+kāppup pāyiram muṟṟum.
+kaṇṇaṉuṅ kaṇṇaṉaik kātta nelvēlik
+kaṇṇaṉuñ centamiḻk kāppā kuvarē.
+tikkaṉ puṟupeyar nūlceyyavaṭi vāḷukanta
+nakkaṉ pukaḻnellai nāyaka-mukkaṇṇiṟai
+cāratitā ṉevavvulakan tantōṉcen nāviṉiṟcēr
+pāratitāḷ vāḻttiniṉaip pām.
+
+uyir varukkat tokutiyil akara varukkam
+
+aruḷerum peyarciva cattiyi ṉuṭaṉē
+karuṇaiyiṉ peyaruṅ karutappeṟumē. ....1
+aṉanta ṉeṉṉum peyarcivaṉu mātavaṉum
+ciṉantavir arukaṉu nāliru teyvamum
+cēṭaṉum eṉavē ceppuvar pulavar. ....2
+arampai yeṉumpeyar teyvappeṇ peyarum
+vāḻaiyiṉ peyarum vaḻaṅkap peṟumē. ....3
+ariyeṉum peyarnit tiraiyumiru cuṭarum
+pariyuñ ciṅkamum pakaiyun tēraiyum
+poṉṉum kāṟṟum purantaraṉu mālum
+cenneṟ katirum kiḷiyum kāntiyum
+tērum aimmaiyuñ cēkum variyum
+kūrmaiyu niṟamum kūṟṟum vaṇṭum
+vēyum paṉṟiyum viciyum pukaiyum
+pāyaluñ cilampiṉ paralum cōlaiyum
+kaṇṇil variyum kaṭalum urakamum
+eṇṇiya tikiriyum ikaliyar vāḷum
+takarum valiyum ariciyum kuraṅkum
+pukaru neruppum puraiyuñ cayaṉamum
+eṟitaru muracamum eṇpaṭaik kalamum
+kuṟitaru paccaiyum kūṟiya matuvum
+aritalum nāṟpā ṉeḻu peyarāmē. ....4
+aṇṭa reṉumpeyar viṇṭalat tamararum
+iṭaiyarum pakaiñarum iyampuvar pulavar. ....5
+alari yeṉumpeya ralarkkaṇai aintum
+iraviyu malarumōr maramu nīrāviyun
+tēṉīyum aḻakum ceppap peṟumē. ....6
+aruṇa ṉeṉumpeya rarukkaṉum avaṉtērp
+pākaṉum putaṉum pakarntaṉar pulavar. ....7
+aḷakka reṉumpeyar cēṟum uppaḷamum
+kaṭalum puṭaviyuṅ kārttikai nāḷumām. ....8
+anta meṉumpeya raruneṟi yuṭaṉē
+orunāḷ mīṉum uṟukavip poruḷum
+kāṭum kaṉakamum kaiyum pātiyum
+kaṇṇā ṭiyumeṉak karutuvar pulavar. ....9
+aṇaṅkaṉeṉum peyarē ācaiyum aḻakum
+varuttamum kolaiyum maiyaṉōyum
+teyvamun teyvattu vamaicol mātumām. ....10
+aṅkata meṉupeya raravun tōḷaṇiyum
+vacaipukal kavitaiyum vaḻaṅkap peṟumē. ....11
+arava meṉupeya rōcaiyum pāmpu
+cilampum eṉavē ceppuvar pulavar. ....12
+aṇṭa meṉumpeyar muṭṭaiyum vicumpumām. ....13
+ampara meṉumpeya rāṭaiyum vicumpum
+kaṭalu meṉavē karutappeṟumē. ....14
+añcaṉa meṉumpeyar karumai niṟamum
+oruticai yāṉaiyu meḻutukaṇ maiyumām. ....15
+aṅki yeṉumpeya raṉalum caṭṭaiyum. ....16
+ayameṉum peyarē aṟalum kutiraiyum
+kuḷamum irumpum takaruṅ kūṟuvar. ....17
+aḷaka meṉupeyar puṉalu mayirum
+mayirkkuḻaṟ ciyumeṉa vakuttaṉar pulār. ....18
+aḷaṟeṉum peyarē narakamum cēṟumām. ....19
+antari yeṉumpeyar turkkaiyum umaiyumām. ....20
+alkal eṉum peyar taṅkalu nāḷum
+karuṅkalum iravum ciṟumaiyum colluvar. ....21
+anti yeṉumpeyar pālaiyāḻt tiṟattōr
+ōcaip peyaru mālaiyum iravumām. ....22
+aṭuppeṉum peyarē yiyama ṉāḷum
+accap peyarumut tāṉamu māmē. ....23
+aṟuvai yeṉumpeyar cittirai nāḷum
+tūcum eṉavē collap peṟumē. ....24
+aṉṟil eṉumpeyar mūla nāḷumōr
+puḷḷum eṉavē pukaṉṟaṉar pulavar. ....25
+akiyeṉum peyarē aravum irumpumām. ....26
+aṇuveṉum peyarē nuṇmaiyum uyirum
+mantirap peyarum vaḻaṅkap peṟumē. ....27
+akaluḷ eṉum peyar ūru nāṭum
+parappum eṉavē pakarap peṟumē. ....28
+avanti yeṉum peyar kiḷiyiṉ peyarum
+uñcēṉai nakaramum uraittaṉar pulavar. ....29
+aruppam eṉumpeyar ūrppotup peyarum
+cōlaiyiṉ peyarum nōyum kāṭumām. ....30
+aṭaiyeṉum peyarē ilaiyiṉ peyarum
+aṭuttalum kaṉamum appamum vaḻiyumām. ....31
+aruvi yeṉumpeyar malaiccār natiyun
+tiṉaittāḷ peyarum ceppap peṟumē. ....32
+ayiri yeṉumpeyar nuṇmaṇaṟ peyaru
+mīṉmuḷ ḷarittiṭu karuviyum viḷampuvar. ....33
+aṇaiyeṉum peyarē mettaiyum cayaṉamum
+ceykaraip peyarum ceppap perumē. ....34
+akameṉum peyarmarap potuvum cayilamum
+illamu maṉamum iṭamum pāvamum
+aintiṇaip poruḷu ṭaṉuḷḷu māmē. ....35
+aṅkaṇam eṉumpeyar tūmpu vāyilu
+muṉṟiluñ cēṟum moḻintaṉar pulavar. ....36
+araca ṉeṉumpeyar viyāḻamu maṉṉaṉum. ....37
+aṉṉai yeṉumpeyar muṉpiṟan tāḷun
+tāyum tuṇaiviyum cāṟṟap peṟumē. ....38
+ammai yeṉumpeyar tāyu maṟupiṟappum
+yāppiṉōr vaṉappum iyampap peṟumē. ....39
+aṇiyeṉum peyarē aḻakum perumaiyum
+paṭaiyiṉa tuṟuppum ilakkaṇa aṇiyum
+pūṇum oppaṉaiyum pukaṉṟaṉar pulavar. ....40
+arattam eṉumpeyar arattamum civappum
+arakkum kaṭampu marattavuṟ palamumām. ....41
+aṭiyeṉum peyarē mutaṉmaiyum kāluṅ
+kavitaiyiṉ pātamum ceṇṭum veḷiyumām. ....42
+aralaiyeṉum peyar aruṅkaṉi vitaiyum
+mālum kaḻalaiyiṉ peyarum vaḻaṅkuvar. ....43
+aṉṉameṉum peyar cōṟum ōtimamumām. ....44
+akkāra meṉṉum peyarcaruk karaiyum
+puṭavaiyum eṉavē pukaṉṟaṉar pulavar. ....45
+aḻaṉam eṉumpeyar aṉalum piṇamumām. ....46
+aṇiye ṉumpeya raṉpum naṟavamum
+koṭaiyum vaṇṭiṉ peyarum kūṟuvar. ....47
+ariṭṭam eṉumpeyar piṟaviyiṟ kuṟṟamum
+kaḷḷum kākkaiyum karutap peṟumē. ....48
+atteṉum peyarē acaiccollum civappum
+icaippun tuṉṉamum araippaṭ ṭikaiyumām. ....49
+akkeṉum peyarē caṅkiṉ maṇiyum
+ēṟṟiṉ murippum elumpum iyampuvar. ....50
+arākam eṉumpeyar pāḻaiyāḻt tiṟamum
+cenniṟap peyaru muṭukiyaṟ kavitaiyum
+ācaiyiṉ peyaru māmeṉa vaḻaṅkuvar. ....51
+aṉantam eṉumpeyar poṉṉum ākāyamum
+aḷaviṉ maipporuṭ peyaru māmē. ....52
+alaṅkal eṉumpeyar acaivum toṭaiyalum
+ilaṅkalum taḷirum iyampuvar pulavar. ....53
+arattai yeṉumpeyar kuṟiñci yāḻicaiyum
+tuṉpamum eṉṉac colluvar pulavar. ....54
+aṭaleṉum peyarē camarum pelamum
+veṉṟiyum eṉavē viḷampap peṟumē. ....55
+ayileṉum peyarē vēluṅ kūrmaiyum
+ārtaliṉ peyaru māku meṉpa. ....56
+araṇam eṉumpeyar kāvaṟ kāṭum
+vēluṅ kāvalum matilum kavacamum. ....57
+ampaṇa meṉṉum peyarmarak kalamum
+katalit taṇṭum nīrppantalun tūmpum
+āmaiyiṉ peyaru māmeṉap pukaluvar. ....58
+aḷittal eṉumpeyar koṭuttalum kāttalum
+ceṟivum eṉavē ceppuvar pulavar. ....59
+accam eṉumpeyar akattiyum payamumām. ....60
+aruṇam eṉum peyar cemmaṟi yāṭum
+māṉum elumiccuñ civappum vaḻaṅkuka. ....61
+antam eṉumpeyar aḻaku muṭivumām. ....62
+ampal eṉumpeyar paḻimoḻi yuṭaṉē
+cilaraṟintu tammuṭ puṟaṅkūṟal ceppuvar. ....63
+alareṉum peyarpaḻi moḻiyum pūvum
+palararin talartūṟ ṟutalum pakaruvar. ....64
+araṟṟal eṉumpeyar aḻukaiyum olittalum. ....65
+añcali eṉumpeyar añcalit tiṟaiñcalum
+vāvaṟ paṟavaiyum vakuttaṉar pulavar. ....66
+alakeṉum peyarē nuḷampum cōtiṭamum
+neṟkati rātiyum palakaṟaip peyarum
+makiḻiṉ paralum pulvāyun tuṭaippamum. ....67
+alli yeṉum peyar kācai maramum
+veḷḷām palumaka vitaḻum viḷampuvar. ....68
+atameṉum peyarpā tāḷamum kīḻum
+iṟaṅkutaṟ peyarum iyampuvar pulavar. ....69
+arameṉum peyarē palaporuḷ vaṭiviṉ
+arukum arāvum karuviyu māmē. ....70
+akaittal eṉumpeyar aṟuttalum olittalum
+īrttalum eṉavē iyampap peṟumē. ....71
+aciyeṉum peyarē avamatic cirippum
+vacitaru vāḷum paṭaikkalap potuvumām. ....72
+amarar eṉumpeyar aṭupaṭai vīrarum
+tēvarum eṉavē ceppuvar pulavar. ....73
+antaṇar eṉumpeyar aṟavōr peyarum
+pūcurar peyarum pukaluvar pulavar. ....74
+aḷḷeṉum peyarē kātum kūrmaiyum
+varipat tirumpum vaṉmaiyum ceṟivumām. ....75
+alameṉum peyarē amaivum kalappaiyum. ....76
+ayireṉum peyarē carukkaraip peyarum
+nuṇmaṇaṟ peyarum nuṇmaiyum nuvaluvar. ....77
+aṇṭacam eṉumpeyar aravum tavaḷaiyum
+naṇṭu mutalaiyu māmaiyu mīṉum
+uṭumpum ōntiyum palliyum araṇaiyum
+paṟavaiyum ippiyum pakarntaṉar pulavar. ....78
+aṟṟam eṉumpeyar maṟaivum avakācamu
+muṭivum eṉavē moḻiyap peṟumē. ....79
+aruccuṉam eṉumpeyar marutuvum veḷuppumām ....80
+atti yeṉumpeya ratavu miyāṉaiyum
+uvariyum elumpum uraikkap peṟumē. ....81
+antil eṉumpeyar acaiccollu miṭamumām. ....82
+ammeṉum peyarē acaiccollu maḻakum
+puṉaliṉ peyarum pukalap peṟumē. ....83
+ampeṉum peyarē mēkamum puṉalum
+kaṇaiyu mūṅkiluṅ karutap peṟumē. ....84
+akaḷam eṉumpeyar tāḻiyum miṭāvumām. ....85
+aṅkāraka meṉumpeyar pūcu vaṉavum
+neruppum eṉavē nikaḻttuvar pulavar. ....86
+añareṉum peyarē aṟivilōr peyarum
+tukkamum eṉavē colluvar pulavar. ....87
+antakar eṉum peyar kuruṭaruṅ kūṟṟumām. ....88
+arakkeṉum peyarē matuvilōr vikaṟpamum
+civappuñ ceṉṉiṟa meḻukum ceppuvar. ....89
+akaval eṉumpeyar kūttumāci riyappāvum. ....90
+araṅkam eṉumpeyar āṟṟiṭaik kuṟaiyum
+pōriṭam vaṭṭā ṭiṭamum capaiyum
+kūttā ṭumiṭap peyaruṅ kūṟuvar. ....91
+aṉṉal eṉumpeyar nākamum cēṟumām. ....92
+aḻuṅkal eṉumpeyar āra vāramum
+iraṅkalum kēṭum icaikkap peṟumē. ....93
+aṟaleṉum peyarē nīru nīrttiraiyum
+viḻavum nuṇmaṇalum viḷampuvar pulavar. ....94
+aḷaiyeṉum peyarē tayirum vaṉmīkavum
+ummaiyum pāḷiyum mōriṉmaip peyarumām. ....95
+aṅkam eṉumpeyar uṭalum uṟuppum
+āṟaṅkamum kaṭṭilum elumpu māmē. ....96
+aḻuva meṉumpeyar turukkamum parappum
+nāṭum eṉavē naviṉṟaṉar pulavar. ....97
+aṟukeṉum peyarē yāḷiyum ciṅkamum
+puliyum yāṉaiyum pulliṉōr vikaṟpumām. ....98
+attiri yeṉumpeyar malaiyum kutiraiyum
+kaḻutaiyum oṭṭakap peyarum karutuvar. ....99
+aṟaiyeṉum peyarmalai muḻaiyum pāṟaiyum
+ciṟṟilum moḻiyum ceppap peṟumē. ....100
+arileṉum peyarciṟu tūṟum piṇakkamum
+kuṟṟamum paralum kūṟuvar pulavar. ....101
+avaleṉum peyarnīr nilaiyum paḷḷamum
+muḷaiyu neṟpeṟu ciṟṟuṇṭiyu moḻikuvar. ....102
+aṇṇai yeṉumpeyar aṟivilōṉ peyarum
+pēyiṉ peyarum pēcap peṟumē. ....103
+akappā veṉumpeyar matiḷumuḷ ḷuyarattup
+poruntiya mēṭaiyiṉ peyarum pulampuvar. ....104
+acame ṉumpeyar puruvai yāṭum
+mūvāṭṭai nelliṉ peyaru moḻikuvar. ....105
+acaṉi yeṉumpeyar vaccirā yutamum
+iṭiyiṉ peyarum iyampap peṟumē. ....106
+alleṉum peyarē iravum iruḷumām. ....107
+aritam eṉumpeyar pacumaiyum ticaiyum
+pacumpuṟ ṟaraiyum pakarap peṟumē. ....108
+akaṭeṉum peyarē vayiṟum puṟamumām. ....109
+amaral eṉumpeyar miṭaitalum polivumām. ....110
+arukal eṉumpeyar karuṅkaluñ cārtalum. ....111
+aṭutal eṉumpeyar aṭartalum kolaiyum
+palaporuḷ pākap paṭuttaliṉ peyarumām. ....112
+avirtal eṉumpeyar pīṟalum oḷiyumām. ....113
+ampi yeṉumpeyar teppamum tōṇiyum
+nīrmē lōṭu vaṉavu nikaḻttuvar. ....114
+antara meṉumpeyar pēta muṭivum
+viṇṇi ṉiṭamum viḷampap peṟumē. ....115
+aṅkā rakaṉeṉum peyarutā caṉaṉum
+cevvāyp peyarum ceppap peṟumē. ....116
+aṭareṉum peyarē aimai vaṭivum
+neruṅkutaṟ peyaru nikaḻttap peṟumē. ....117
+araṅkeṉum peyarē maṉaiyiṉ vikaṟpamum
+capaiyum vaṭṭā ṭiṭamumō riṭamumām. ....118
+ayaṉa meṉumpeyar āṇṭiṟ pātiyum
+vaḻiyum eṉavē vakuttaṉar pulavar. ....119
+amalai yeṉumpeyar umaiyavaḷ peyarum
+āra vāra mumcapaip peyarumām. ....120
+alavaṉ eṉumpeyar naṇṭum pūñaiyum
+nilavuṅ kaṭaka rāciyum nikaḻttuvar. ....121
+araceṉum peyarōr taruvu maṉṉaṉum
+rācciyap peyarum iyampap peṟumē. ....122
+aṟikkai eṉumpeyar aṟitaliṉ peyarum
+paṟṟu vittaliṉ peyarum pakaruvar. ....123
+atareṉum peyarē puḻutiyum vaḻiyum
+nuṇmaṇaṟ peyaru nuvalap peṟumē. ....124
+arunta veṉumpeyar arumaiyum pocittalum. ....125
+attaṉ eṉumpeyar īcaṉum kuruvum
+tantaiyum eṉavē cāṟṟiṉar pulavar. ....126
+aṉittiyam eṉumpeyar nilaiyāmai poyyumām. ....127
+aṇṇal eṉumpeyar talaivaṉum perumaiyum. ....128
+accutaṉ eṉumpeyar amutiṟai peyaruṅ
+kaṇṇaṉum acōkamar kaṭavuḷ peyarumām. ....129
+aṉuveṉum peyarē toṭarcciyum kavuḷumām. ....130
+amutam eṉumpeyar muttiyum perumaiyum
+puṉalum payacum pulava ruṇavuṭaṉ
+mēkamum eṉavē viḷampuvar pulavar. ....131
+amparam eṉumpeyar ampuṭaṉ āṉaiyiṟ
+piṟakā lumeṉap pēcuvar pulavar. ....132
+alaiyeṉum peyarē kaṭalum kaṭaṟṟiraip
+peyarum eṉavē pēcap peṟumē. ....133
+arāval eṉumpeyar puraitalum kuṟukalum. ....134
+araṇi yeṉumpeyar tīkkaṭai kōlum
+kavacamu matilum karutap peṟumē. ....135
+aṟpam eṉumpeyar ciṟumaiyum nāyumām. ....136
+aḻukkā ṟeṉumpeyar poṟāmaiyiṉ peyarum
+maṉakkōṭ ṭattiṉ peyarum vaḻaṅkuvar. ....137
+aṉaṅkam eṉumpeyar mallikaip peyarum
+iruvāṭ ciyumeṉa iyampuvar pulavar. ....138
+acaiyeṉum peyarī racaikaḷum acaiccollum. ....139
+amuteṉum peyarē pālum iṉkataiyum
+teyva vuṇaviṉ vikaṟpamum ceppuvar. ....140
+acōka meṉumpeya racōkiṉ taruvum
+iṉpamum eṉavē iyampap peṟumē. ....141
+acaittal eṉum peyar acaittaliṉ peyarum
+kaṭṭutaṟ peyarum karutuvar pulavar. ....142
+-----
+akara varukkam muṟṟum.
+
+ākāra varukkam
+
+āti yeṉumpeya rāṉṟiru nāmamu
+mātavaṉum oṟṟiyil vaitta poruḷum
+arukaṉu mutalu nērōṭalu māmē. ....143
+āral eṉumpeyar aṅkā rakaṉum
+kārttikai nāḷum kaṭimatil uṟuppum
+orumīṉ peyarum uraittaṉar pulavar. ....144
+āvaṇam eṉumpeyar teruvum aṅkāṭiyum
+aṭimai yōlaiyum puṉarpū camumām. ....145
+āṭi yeṉumpeyar mātatti loṉṟum
+nāṭi luttirāṭamum kaṇṇā ṭiyumām. ....146
+ācai yeṉumpeyar ticaiyum kātalum
+poṉṉum eṉavē pukaṉṟaṉar pulavar. ....147
+āḻi yeṉumpeyar nēmip puḷḷum
+kaṭalum vaṭṭa vaṭivun tērkkālum
+cakkirā yutamu mōtiramuṅ karaiyumām. ....148
+ālam eṉumpeyar aṟalum viṭamum
+āla maramum malarntiṭu pūvumām. ....149
+ācāra meṉṉum peyarnal loḻukkamum
+tūciṉ peyarum maḻaippeyaruñ colluvar. ....150
+ārvam eṉumpeyar viruppoṭu narakumām. ....151
+āṟeṉum peyarē vaḻiyum natiyumōr
+eṇṇum eṉavē iyampuvar pulavar. ....152
+ālaiyam eṉumpeyar tēvar kōyilum
+nakaramum yāṉaik kūṭamum naviluvar. ....153
+ārai eṉumpeyar kottaḷippāy puricaiyām
+nīrceṟi yāraiyiṉ peyaru nikaḻttuvar. ....154
+āṭavar eṉumpeyar āṇpāṟ potuvum
+iḷaiñar peyarum iyampap peṟumē. ....155
+ārvala reṉumpeyar aṉpuṭai yōṉum
+kaṇavaṉum eṉavē karutuvar pulavar. ....156
+āka meṉumpeyar tēkamu mārpumām. ....157
+ākāra meṉumpeyar acaṉamu neyyun
+tēkamum eṉavē ceppap peṟumē. ....158
+āmpal eṉumpeyar āṉaiyuṅ kumutamum
+icaiyiṉ kuḻalum kaḷḷu mūṅkilum
+oliyiṉ peyarum uraittaṉar pulavar. ....159
+āram eṉumpeyar atti maramum
+aṇikalap potuvun taraḷamu mālaiyum
+cantaṉa mumaṇi vaṭamum patakkamum. ....160
+āṭal eṉumpeyar veṉṟiyu naṭaṉamum
+uraiyā ṭalumeṉa vuraittaṉar pulavar. ....161
+ārppeṉum peyarē āravā rittalum
+amaruñ cirippum ākum eṉpa. ....162
+āreṉum peyarē yāttiyum kūrmaiyum
+tērāḻi yuṟuppu niṟaivum ceppuvar. ....163
+āceṉum peyarē aṟpamum kuṟṟamum
+meypuku karuviyum viraivumōr kaviyumām. ....164
+āṟṟa leṉumpeyar āṇmaiyu mikutiyum
+poṟumaiyum cumattalum pelamum poyyāmaiyum
+ñāṉamum uṇṭāk kutalum naviluvar. ....165
+āṭeṉum peyarē yāṭṭiṉ vikaṟpamum
+mēṭavi rāciyum veṉṟiyum viḷampuvar. ....166
+ākulam eṉumpeyar catta voliyuṭaṉ
+varuttamum eṉavē vaḻaṅkap peṟumē. ....167
+ārta leṉumpeyar uṇṭalum niṟaitalum
+aṇitaliṉ peyaru māku meṉpa. ....168
+āṇaiyeṉum peyari lāñcaṉaiyu muṇmaiyum
+cattiya vacaṉamum ēvalum cāṟṟuvar. ....169
+āciṉi yeṉumpeyar māvayi rattoṭu
+palāviṉōr vikaṟpamum vicumpum pakaruvar. ....170
+ākkam eṉumpeyar aṉpuceya milāpam
+pākkiya viyalpum payilpūn tiruvumām. ....171
+āri eṉumpeyar aḻakum katavumām. ....172
+āṇam eṉumpeyar aṉpum kuḻampumām. ....173
+āku veṉumpeyar eliyiṉ vikaṟpamum
+mūṭikap peyarum moḻiyap peṟumē. ....174
+ātit tiyareṉum peyarviṇ ṇavarum
+cūriyar peyarum colluvar pulavar. ....175
+āvaraṇam eṉumpeyar araṇamu maṟaivum
+caṭṭaiyuṅ kavacamum taṭaiyum tukilumām. ....176
+ātaṉ eṉumpeyar aṟivilōṉ peyarum
+cīvaṉum eṉavē ceppap peṟumē. ....177
+āṅkeṉum peyarē yavviṭap peyarum
+acaiccoṟ peyarum uvamaiyu māmē. ....178
+āyam eṉumpeya rarivaiyar kūṭṭamum
+ātā yattoṭu kavaṟṟiṉ ṟāyamumām. ....179
+āyal eṉumpeyar āytalum varuttamum. ....180
+āytal eṉumpeyar tērtalu nuṇukkamum. ....181
+ālal eṉumpeyar naṭaṉamum oliyumām. ....182
+āleṉum peyarē yacaiccolum puṉalum
+paḻamarap peyarum pakaruvar pulavar. ....183
+āṉi eṉumpeyar keṭutaliṉ peyarum
+mātatti loṉṟu mūlanāṭ peyarumām. ....184
+āṉakam eṉumpeyar tuntumip peyarum
+paṭakamum eṉavē pakarntaṉar pulavar. ....185
+āṉiyam eṉumpeyar nāḷum poḻutumām. ....186
+ācukam eṉumpeyar ampum kāṟṟumām. ....187
+āvi eṉumpeyar vāviyum uyirum
+pukaiyu nāṟṟamu mūccum pukaluvar. ....188
+āveṉum peyarē irakkak kuṟippum
+uyirum pacuvum uraikkap peṟumē. ....189
+āṭakam eṉumpeyar tuvaraiyum poṉṉumām. ....190
+āmpiram eṉumpeyar tēmāp peyarum
+puḷimāp peyarum puḷippum pukaluvar. ....191
+āriyar eṉumpeyar aṟivuṭai yōrum
+āriya tēcat tavaru māmē. ....192
+āṇi yeṉappeyar eḻuttāṇiyum aḻakum
+āṇi māṉavikaṟpamum cayaṉamu māmē. ....193
+------
+ākāra varukkam muṟṟum.
+
+ikara varukkam
+
+iravi eṉumpeyar eḻuñcū riyaṉuṭaṉ
+malaiyum vāṇikat toḻilum vaḻaṅkuvar. ....194
+iruḷeṉum peyarē karumaiyu mayakkamum
+narakamun timiramu naviṉṟaṉar pulavar. ....195
+iralai yeṉumpeyar māṉi ṉēṟum
+acupatiyu mūtuṅ kompu māmē. ....196
+iṟaiyeṉum peyarē civaṉum illiṟappum
+talaimaiyun talaivaṉ peyarun taṅkalum
+puḷḷiṟa kuṅkai varaiyum ciṟumaiyum
+kuṭiyiṟaip peyarum collum kūṟuvar. ....197
+iṭiyeṉum peyarē neṉmā mutalum
+uṟuti vārttaiyum acaṉiyum ōtuvar. ....198
+iṟāleṉum peyarkārt tikaiyum iṭapamum
+tēṉkū ṭumoru mīṉuñ ceppuvar. ....199
+iṟumpeṉum peyarē tāmaraip pūvum
+malaiyum kāṭum vaḻaṅkap peṟumē. ....200
+ilañci yeṉumpeyar makiḻamarap peyarum
+koppuḷun taṭākamum kūṟuvar pulavar. ....201
+iṭaiyeṉum peyare iṭamum nukappum
+naṭuvum eṉavē navilap peṟumē. ....202
+ikuḷai yeṉumpeyar cuṟṟamum pāṅkiyum. ....203
+iratam eṉupeyar tērum iṉcuvaiyum
+araināṇ puṇarcci pāta ratamumām. ....204
+ilampaka meṉumpeya ratti yāyamum
+nutalaṇip peyarun toṭaiyalu nuvalum. ....205
+intaṉam eṉumpeyar icaiyum kāṭṭamum
+neruppiṭu kalaṉu nikaḻttuvar pulavar. ....206
+iḷiyeṉum peyarō ricaiyum yāḻnarampum
+ikaḻcciyil varukkap peyarum iyampuvar. ....207
+ilaiyam eṉumpeyar kūttiṉ vikaṟpamum
+kūttiṉ peyaruṅ kēṭuṅ kūṟuvar. ....208
+iṟaivai yeṉumpeyar ēṇinīrp puṭṭilām. ....209
+iḻukkam eṉumpeyar piḻaittal pollāṅkumām. ....210
+iṟappeṉum peyarē yiṟattalum mikutiyum
+naṭattalu milli ṟappum naviluvar. ....211
+ilāṅkali yeṉumpeyar teṉṉa maramum
+kalappaip peyarum veṇkāntaḷum karutuvar. ....212
+ikuttal eṉumpeyar koṭuttalum vīḻttalum
+cekuttalu mavirtalum iḷaittalum ceppuvar. ....213
+illeṉum peyarē yillai yeṉṟalum
+irāciyu maṉaiviyu maṉaiyum iṭamumām. ....214
+irāci yeṉumpeya rōcaiyuṅ kūṭṭamum. ....215
+irāciya meṉumpeyar yōṉiyum maṟaivumām. ....216
+ipameṉum peyarē marattiṉ kompum
+yāṉaiyiṉ peyarum iyampuvar pulavar. ....217
+ikaleṉum peyarē pelamum camaramum
+pakaiyum eṉavē pakarap peṟumē. ....218
+iṭameṉum peyariṭap puṟamum vicālamum
+iṭaṅkaḷiṉ vikaṟpamum celvamum iyampuvar. ....219
+iṭakka reṉumpeyar kuṭattiṉ peyarum
+maṟaittiṭu vārttaiyum vaḻaṅkap peṟumē. ....220
+itaḻeṉum peyarpū viṉitaḻu mataramum
+paṉaimaṭal pōlavum pakarap peṟumē. ....221
+iyameṉum peyarē yuraiyum ōcaiyum
+vāttiyap peyarum vaḻaṅkap peṟumē. ....222
+irupiṟap peṉumpeya reyiṟum paṟavaiyum
+pārppeṉum cātiyum nilavum pakaruvar. ....223
+iruceṉum peyarē paṇṭiyuḷ irumpum
+cevvaiyum eṉavē ceppuvar pulavar. ....224
+ivartal eṉumpeyar ēṟalum virumpalum. ....225
+ivaṟal eṉumpeyar ōcaiyu maṟappumām. ....226
+iḻumeṉa leṉumpeyar iṉimaiyum oliyumām. ....227
+iṟattal eṉumpeyar mikuttalum kaṭattalum
+maraṇamum eṉavē vaḻaṅkap peṟumē. ....228
+iṟutta leṉumpeyar taṅkalum iyampalum
+oṭittalum eṉavē yuraittaṉar pulavar. ....229
+iḷamai yeṉumpeyar taṇmaiyum kāmamum
+iḷamaiyiṉ paruvamu miyampap peṟumē. ....230
+irati yeṉumpeyar mataṉaṉ ṟēviyum
+pittaḷaip peyarum piṭiyā ṉaiyumām. ....231
+ikkeṉum peyarē matuvum karumpumām. ....232
+iṟumpū teṉumpeyar malaiyum aticayamum
+ciṟutūṟum kuḻaiyun takaimaiyum ceppuvar. ....233
+iṭaṅka reṉumpeyar kuṭamum tūrttarum
+mutalaiyu meṉavē moḻintaṉar pulavar. ....234
+-------
+ikara varukkam muṟṟum.
+
+īkāra varukkam
+
+īḻa meṉumpeyar poṉṉiṉ peyarum
+ciṅkaḷa tēcamu naṟavuñ ceppuvar. ....235
+īkai yeṉumpeyar īṅkaiyum koṭuttalum
+poṉṉum eṉavē pukaṉṟaṉar pulavar. ....236
+īṭeṉum peyarē pelamum kuḻaivum
+perumaiyu muvamaiyum pēcuvar pulavar. ....237
+īmam eṉumpeya reriyiṭu kalaṉum
+mayāṉamum viṟakum vaḻaṅkap peṟumē. ....238
+īṇṭeṉum peyarē yivviṭap peyarum
+īṅkaiyiṉ peyarum iyampuvar pulavar. ....239
+īra meṉumpeyar aṉpuṅ kuḷircciyum
+pakuttalum eṉavē pakarap peṟumē. ....240
+īṉṟā ṉeṉumpeyar piramaṉum pitāvumām. ....241
+-----
+īkāra varukkam muṟṟum.
+
+ukara varukkam
+
+uṭuveṉum peyarē yoḷivāṉ mīṉum
+pakaḻiyum amput talaiyoṭu nāvāy
+naṭattiya marakkalak kōlu naviluvar. ....242
+uttira meṉumpeya rorunā ḷuṭaṉē
+cittira māḷikai cērnta tōruṟuppē. ....243
+utti yeṉum peya rurakap poṟiyuṭaṉ
+tiruviṉu ṟuppoṭu nuṇmaip poruḷumām. ....244
+uttira meṉumpeyar mēlum vaṭakkum
+maṟuvārt taiyumeṉa vaḻaṅkappeṟumē. ....245
+ulavai yeṉumpeyar marattiṉ kōṭum
+vilaṅkiṉ maruppuṅ kāṟṟun taḻaiyumām. ....246
+unti yeṉumpeyar nīrumnīrc cuḻiyum
+tēriṉ ṟaṭṭum nāpiyum kaṭalum
+peṇkaḷ viḷaiyāṭalu natiyum pēcuvar. ....247
+uppeṉum peyarē makaḷir viḷaiyāṭalum
+kaṭalum iṉimaiyum kaṭalviḷaiyu varumām. ....248
+uṟaiyeṉum peyarē nīrttuḷi mutalān
+tuḷiyu nīrnōy tolaittiṭu maruntum
+perumaiyum pālum piraiyum viḻumamum
+veṇkalap peyarum iṭaiccolu muṇavum
+ūḻiyuṅ kāramum uvarnīru nīḷamum
+paṭaiyuṟai yuṭaṉē naṉṉila vūrum
+eṇkuṟit tiṟuti yeyvatum iyampuvar. ....249
+ulakeṉum peyaruyarn tōrum pūmiyum
+ticaiyu mākāyamu nāṭuñ ceppuvar. ....250
+ulakkai yeṉumpeya rōṇa nāḷu
+murōṅkalu meṉavē yuraittaṉar pulavar. ....251
+uṟuva ṉeṉumpeyar acōkamar kaṭavuḷum
+iruṭiyu meṉavē yiyampap peṟumē. ....252
+uṟaiyuḷ eṉumpeya rūru nāṭum
+vīṭṭiṉ peyarum viḷampuvar pulavar. ....253
+uyavai yeṉumpeyar kāṉai yāṟuṅ
+kākkaṇaṅ karuviḷaip peyaruṅ karutuvar. ....254
+uḻaiyeṉum peyarē yāḻi ṉarampum
+iṭamum māṉum iyampuvar pulavar. ....255
+umpal eṉumpeyar vilaṅkiṉāṇ peyaruṅ
+kuṭivaḻit tōṉṟalum yāṉaiyuṅ kūṟuvar. ....256
+uvāveṉum peyariṉai yōṉum yāṉaiyum
+īruvā viṉpeyar tāṉum viḷampuvar. ....257
+uṇṭai yeṉumpeyar paṭaiyiṉa tuṟuppum
+tiraṇṭa vaṭiviṉ peyaruñ ceppuvar. ....258
+uḷaiyeṉum peyarē parikka ṭivāḷat
+taṇima yirāyavu maḵṟiṇai mayirum
+āṇpāṉ mayiroṭu catta voliyumām. ....259
+uṭaiyeṉum peyarē celvamum kūṟaiyum
+kuṭaivēlu muṭaimaip peyarum kūṟuvar. ....260
+uṇarveṉum peyarē uḷattiṉ teḷivum
+ñāṉamu meṉavē navilap peṟumē. ....261
+uraiyeṉum peyarē catta voliyum
+tēytalu moḻiyuñ ceppuvar pulavar. ....262
+uvaḷaka meṉumpeyar matilum paḷḷamum
+āya rūrumōr pakkamum vāviyum. ....263
+uyireṉum peyarē cīvaṉuṅ kāṟṟumām. ....264
+uṟaḻveṉum peyariṭai yīṭu muvamaiyum
+puṇarvum ceṟivum pukalap peṟumē. ....265
+urutta leṉumpeyar tōṉṟutal ciṉamumām. ....266
+ukkam eṉumpeya riṭaiyiṉ pakkamum
+viciṟiyu miṭapap peyarum viḷampuvar. ....267
+umpa reṉumpeyar uyarnila mēṭaiyum
+tēvarum vicumpum ceppap peṟumē. ....268
+urameṉum peyarē yūkkamum ñāṉamum
+pelamu marumamum pēcuvar pulavar. ....269
+uruveṉum peyarē niṟamum vaṭivamum
+aṭṭaiyiṉ peyaru māku meṉpa. ....270
+uvappeṉum peyarē yuyaramu makiḻcciyum. ....271
+uṟavi yeṉumpeyar uyirnilaik kaḷamum
+nīrūṟṟum uṟavum eṟumpum uṇarttuvar. ....272
+uṟuppeṉum peyarē yuṭalu maṅkamum
+paṭaiyiṉa tuṟuppum pakarntaṉar pulavar. ....273
+uṭaleṉum peyarē yuṭampum poruḷumām. ....274
+uvaṇam eṉumpeyar kaḻukum paruntumām. ....275
+uḷartal eṉumpeyar utaṟalum varuṭalum. ....276
+uḷḷa meṉumpeyar neñcamu niṉaivumām. ....277
+uḻappeṉum peyarē valiyu muccākamum. ....278
+uḷḷa meṉumpeyar muyaṟciyiṉ peyarum
+neñciṉ peyaru nikaḻttuvar pulavar. ....279
+uṟukaṇ eṉumpeyar nōyum tuṉpamum
+miṭiyum payamum viḷampap peṟumē. ....280
+uñaṟṟeṉum peyarē vaḻukkuṭaṉ oḷirṭciyun
+tāḷāṇ maiyumeṉac cāṟṟiṉar pulavar. ....281
+uṟati yeṉumpeyar kalviyum naṉmaiyum. ....282
+--------
+ukara varukkam muṟṟum.
+
+ūkāra varukkam
+
+ūkka meṉumpeya ruḷḷattiṉ mikutiyum
+pelamu muccākamum pēcap peṟumē. ....283
+ūḻeṉum peyarē pakaiyum paḻamaiyum
+marapum veyilum vitiyum vaḻaṅkuvar. ....284
+ūtiya meṉumpeyar lāpamum kalviyum. ....285
+ūḻtta leṉumpeyar pataṉaḻivuñ cevviyum
+niṉaittalum eṉavē nikaḻttap peṟumē. ....286
+ūci yeṉumpeyar eḻuttāṇiyuñ cūriyum. ....287
+ūṟeṉum peyarē tīṇṭalun tīmaiyum
+kolaiyum iṭaiyūṟuṅ kūṟap peṟumē. ....288
+ūṟṟeṉum peyarē yūṟṟi ṉuṭaṉē
+ūṉṟiya kōlum uraittaṉar pulavar. ....289
+ūrti yeṉumpeyar vimāṉamun tērum
+yāṉaiyum pariyum civikaiyum pāṇṭilum. ....290
+---
+ūkāra varukkam muṟṟum.
+
+ekara varukkam
+
+eṉṟūḻ eṉumpeyar iraviyum veyilum
+kōṭaik kālamum kūṟappeṟumē. ....291
+elleṉum peyarē yiraviyum oḷiyum
+iruḷu mikaḻcciyum iyampuvar periyōr. ....292
+eliyeṉum peyarē yeliyiṉ vikaṟpamum
+pūra nāḷoṭu matuvum pukaluvar. ....293
+eruvai yeṉum peyar koṟukkaiyuṭaṉē
+kaḻukun tāmpirap peyarum karutuvar. ....294
+eṟuḻeṉum peyarē taṇṭā yutamum
+pelamu meṉavē pēcap peṟumē. ....295
+ekkar eṉumpeyar coritalum kuvitalum. ....296
+ekiṉa meṉṉumpeyar puḷimāvu maṉṉamum
+kāvarimāvu nīrnāyum puḷiyiṉṟaruvum pukalappeṟumē. ....297
+eḵkeṉum peyarē vēluṅ kūrmaiyum
+urukku meṉavē yuraittaṉar pulavar. ....298
+eḷta leṉumpeyar ikaḻtalu nakaiyumām. ....299
+eṟṟeṉum peyarē yirakkamum eṟitalum
+aṭittalum ettaṉmait teṉṟalu māmē. ....300
+eṟṟutal eṉumpeyar eṟitalum puṭaittalum. ....301
+eṇṇeṉum peyarē yeḷḷu milakkamuñ
+cotiṭap peyarum vicāramu meḷimaiyum. ....302
+eḻileṉum peyarē yiḷamaiyu maḻakumām. ....303
+ellai yeṉumpeyar aḷavaiyum iraviyum. ....304
+-----
+ekara varukkam muṟṟum.
+
+ēkāra varukkam
+
+ēlvai yeṉumpeyar vāviyum poḻutumām. ....305
+ēmam eṉumpeyar iṉpamum veṇṇīṟuñ
+cēmamum poṉṉumē māppu mayakkum
+kāvalum iravuṅ karutuvar pulavar. ....306
+ēṟeṉum peyariṭi yēṟṟiṉ peyarum
+vilaṅki ṉāṇpāṟ peyaru miṭapamum
+acupatip peyaru māku meṉpa. ....307
+ēṉal eṉumpeyar tiṉaitiṉaip puṉamumām. ....308
+ēṉāti yeṉumpeyar mayirviṉai yōṉum
+mantirit tantirip peyarum vaḻaṅkuka. ....309
+ēnta leṉumpeyar perumaiyu muyaramum
+talaivaṉum eṉavē cāṟṟiṉar pulavar. ....310
+ēti yeṉumpeyar āyutap potuvum
+vāḷum eṉavē vakuttaṉar pulavar. ....311
+ētam eṉumpeyar kuṟṟamum tuṉpamum. ....312
+ēṇi yeṉumpeyar ellaiyu mulakamu
+māṉuṅ kaṇṇē ṇiyumē vaḻaṅkuvar. ....313
+ēṅkal eṉumpeyar oliyum iraṅkalum
+ēṅkutaṟ peyarum iyampuvar pulavar. ....314
+ēṟṟal eṉumpeyar etirntupōr ceytalum
+kōṭaliṉ peyaruṅ kūṟuvar pulavar. ....315
+ēreṉum peyarē yaḻakumuḻu peṟṟamum
+uḻavuṭai yōṉum uraikkap peṟumē. ....316
+ēṉaiyeṉum peyariṭaic collum oliyumām. ....317
+ēvaleṉum peyar viyaṅkōḷum vaṟumaiyum. ....318
+ēla meṉumpeya rēlavi kaṟpamum
+mayirccān tumeṉa vaḻaṅkuvar pulavar. ....319
+----
+ēkāra varukkam muṟṟum.
+
+aikāra varukkam
+
+aiyam eṉumpeyar piccaikoḷ kalaṉum
+piccaiyum veṇṇeyuñ cantē kamumām. ....320
+aiyai yeṉumpeyar umaiyum turkkaiyum
+aruntavap peṇṇum aracāḷum kāḷiyum
+putalviyum eṉṉap pukaṉṟaṉar pulavar. ....321
+aiyeṉum peyarē kuruvum aracaṉum
+eḻilum irumalu miṭaiccolluṅ kōḻaiyum
+talaivaṉum tāramum cāṟṟap peṟumē. ....322
+aiyaṉ eṉumpeyar kuruvuñ cāttuṉun
+tantaiyu mutalvaṉu mantaṇaṇ peyarumām. ....323
+aiteṉum peyarē noytum viraivumām. ....324
+---
+aikāra varukkam muṟṟum.
+
+okara varukkam
+
+oḷiyeṉum peyarē yoṇcuṭa rōṉum
+vituvum kaṉalum viḷakkoṭu kīrttiyum
+kēṭṭai yumoḷip piṉiṭamuṅ kiraṇamum. ....325
+oliyeṉum peyarē ōcaiyum kāṟṟum
+iṭiyu meṉavē yiyampap peṟumē. ....326
+oḻukka meṉumpeyar vaḻiyum kulamum
+ācā ramumeṉa aṟiyap peṟumē. ....327
+oliyal eṉumpeyar oṇpuṉal yāṟuma
+ṇilluñ carumamum uṭutta āṭaiyumām. ....328
+oḷivaṭṭa meṉumpeyar cakkarā yutamum
+kaṇṇā ṭiyumeṉak karutuvar pulavar. ....329
+oṇmai yeṉumpeyar naṉmaiyu maḻakum
+mikutiyum oḻuṅku maṟivum viḷampuvar. ....330
+otukka meṉumpeyar maṟaivum naṭaiyumām. ....331
+oṉṟeṉum peyarō reṇṇu muttiyumām. ....332
+ollai yeṉumpeyar ciṟupoḻutum viraivum
+tollaiyum eṉavē colluvar pulavar. ....333
+otuṅkal eṉumpeyar otuṅkutal naṭaiyumām. ....334
+------
+okara varukkam muṟṟum.
+
+ōkāra varukkam
+
+ōṇa meṉumpeyar mātava ṉāḷum
+varupuṉal yāṟum vakuttaṉar pulavar. ....335
+ōrai yeṉumpeyar arivaiyar kūṭṭamum
+avarviḷai yāṭalum viḷaiyāṭu kalaṉum
+irāciyiṉ potuvu miṭaiccol lumāmē. ....336
+ōṅka leṉumpeya ruyaramu malaiyum
+mēṭu mūṅkilun talaivaṉum viḷampuvar. ....337
+ōṭai yeṉumpeyar vāviyiṉ peyarum
+yāṉai nutalaṇi paṭṭamum kiṭaṅkum
+orukoṭip peyarum uraittaṉar pulavar. ....338
+otai yeṉumpeyar catta voliyum
+puricaiyuḷ ḷuyarvum poruntiya mēṭaiyum
+natiyum nakaramum navilap peṟumē. ....339
+ōri yeṉumpeyar mucuvum nariyum
+arivaiyar mayiroḻit tellā mayirum
+koṭaitaru moruvaḷḷal peyaruṅ kūṟuvar. ....340
+ōviyareṉum peyar cittira kārarum
+ciṟpanūl viṉaiñarum ceppap peṟumē. ....341
+ōṭṭa meṉumpeyar mēlutaṭum tōlviyum
+ōṭutaṟ peyarum uraittaṉar pulavar. ....342
+ōtaṉam eṉumpeyar uṇavum cōṟumām. ....343
+ōveṉum peyarē nīrttakai katavum
+nīkkamum irakkak kuṟippiṉ vārttaiyumām. ....344
+ōtimam eṉumpeyar aṉṉamum veṟpum
+kavari māviṉ peyaruṅ karutuvar. ....345
+ōti yeṉumpeyar veṟpu maṉaṉamum
+peṇpāṉ mayiru maṟivum pūñaiyum
+ottiyu meṉavē yuraikkap peṟumē. ....346
+oḷiyeṉum peyar yāṉaik kūṭṭamum
+oḻuṅku meṉavē yuraittaṉar pulavar. ....347
+----
+ōkāra varukkam muṟṟum.
+
+kakaravarukkat tokuti kakara akara varukkam
+
+kalaiyeṉum peyarē kalviyu nūlu
+māṉi ṉēṟu makara virāciyum
+matiyiṉ paṅku marattiṉ cuvaṭu
+māṇmukap peyaruṅ kāla nuṭpamum
+puṭaivai yuñcekumē kalaiyum pukaluvar. ....348
+kaṉali yeṉumpeyar kaṉalu marukkaṉum
+paṉṟiyu meṉavē pakarap peṟumē. ....349
+karameṉum peyarē kaiyuṅ kaḻutaiyum
+kiraṇamu nañcuṅ kuṭiyiṟaip peyarumām. ....350
+kaḻiyeṉum peyarē kālaik kālamu
+mikutiyuṅ kaḻimukap peyarum viḷampuvar. ....351
+kaviyeṉum peyarē kavival lōṉum
+kutirai vāyppey karuviyuṅ kuraṅkum
+veḷḷiyuṅ kavitai vikaṟpamum viḷampuvar. ....352
+kavaiyeṉum peyarē kavaruṅ kāṭum
+eḷḷiḷaṅ kāyu māyiliya nāḷumām. ....353
+kaṇaiyeṉum peyarē yampun tiraṭciyum
+pūra nāḷum pukalap peṟumē. ....354
+kaḷiṟeṉum peyarē yatta nāḷum
+eḷḷum cuṟāmuta livaṟṟi ṉāṇpālum
+yāṉaiyum pukalvari ṉituṇarn tōrē. ....355
+kaḷva ṉeṉumpeyar kaṭaka virāciyuṅ
+karuniṟat tavaṉoṭu kaḷiṟu ñeṇṭuñ
+cōraṉu mukavuñ colluvar pulavar. ....356
+kaṉṉi yeṉumpeyar peṇṇu miḷamaiyu
+maḻivilāp poruḷuṅ kumari yāṟum
+kaṟṟāḻai yiṉoṭu kaṉṉi yirāciyun
+turkkaiyu meṉavē collap peṟumē. ....357
+kaḷḷeṉum peyartēṉ matuvuṅ kaḷavumām. ....358
+kaliyeṉum peyarē kaṭaiyukap peyarum
+valiyu moliyum valiyōṉ peyarumām. ....359
+kaṇameṉum peyarē kāla nuṭpamum
+uṭuvuṅ kūṭṭamum nōyum vaṭṭamum
+tiraṭciyiṉ peyariṉ vikaṟpamuñ ceppuvar. ....360
+kaṉṉa leṉumpeyar karakamuṅ karumpum
+nāḻikai vaṭṭamu nāḻikaip peyarum
+carukkaraip peyaruṅ kuppamuñ cāṟṟuvar. ....361
+kaṭikai yeṉumpeyar katavoṭu tāḷun
+tuṇṭamum nāḻikaip peyaruñ colluvar. ....362
+kaṭiyeṉum peyarē kāvalum viraivum
+accamuṅ kūrmaiyum varaivuñ ciṟappum
+viḷakkamum putuvaiyu maṇamu muṭukalum
+pēyu neṟkarippum pēcuvar pulavar. ....363
+kaḻuteṉum peyarē kāvaṟ paraṇum
+vaṇṭum pēyum vaḻaṅkap peṟumē. ....364
+kammeṉum peyarē kakaṉamum piramaṉum
+talaivaṉum veḷuppum pulaṉum vāyuvum
+cuvarkkamum puttiyuñ colluvar pulavar. ....365
+kayameṉum peyarē kaḷiṟum āḻamuṅ
+kuḷamum puṉaluṅ kuṟaivumōr nōyumām. ....366
+kamala meṉumpeyar tāmarai puṉalumām. ....367
+kavanta meṉumpeyar talaikuṟai piṇamum
+nīrum pēyu nikaḻttuvar pulavar. ....368
+kaṉameṉum peyarē mēkamum pāramum
+tēkamum aṭaikoṭut taluñcem poṉṉum
+muṭṭiya vaṇṭiliṉ mulaikkaṉa mumāmē. ....369
+karaka meṉumpeyar ālāṅ kaṭṭiyum
+kaṅkaiyun tuḷiyuṅ kamaṇṭala mumāmē. ....370
+kantara meṉumpeyar kaḻuttu mēkamum
+malaimuḻai yumeṉa vaḻaṅkap peṟumē. ....371
+kakaṉa meṉumpeyar kāṭuñ cēṉaiyum
+vicumpu meṉavē viḷampap peṟumē. ....372
+kaḻaiyeṉum peyarē karumpu mūṅkilum
+puṇarta nāṭpeyarum pukalap peṟumē. ....373
+kayiṉi yeṉumpeyar anta nāḷum
+vitavaiyu meṉavē viḷampap peṟumē. ....374
+kaṭameṉum peyarē yāṉait tiraḷum
+maṟṟataṉ koṭiṟu matamum kāṉamum
+yākkai yumaruñ curappeyaruṅ kayiṟum
+nītiyuṅ kumpamu neṭumanac cāralum
+etirppai kaṭaṉkuṭa muḻavu miyampuvar. ....375
+kavalai yeṉumpeyar kavarpaṭu vaḻiyum
+tuṉpamuñ centiṉaip peyarumōr koṭiyumām. ....376
+kaṭaka meṉumpeyar kaṅkaṇap peyarum
+vaṭṭa vaṭivu malaiyiṉ pakkamum
+paṭaivī ṭumeṉap pakarntaṉar pulavar. ....377
+kaṭci yeṉumpeyar kāṭuṅ kūṭum
+kiṭappiṭa mumeṉak kiḷattuvar pulavar. ....378
+kaṇṭaka meṉumpeyar vāḷuñ curikaiyum
+muḷḷuṅ kāṉamu moḻiyap peṟumē. ....379
+kaṇiyeṉum peyarē maruta naṉṉilamum
+vēṅkai maramum viḷampuvar pulavar. ....380
+kaṅkeṉum peyarkarun tiṉaivaram parukumām. ....381
+kaḷameṉum peyarkaḷā maramuṅ kaḻuttum
+karuniṟa mumpōrk kaḷamum viṭamumām. ....382
+kaṭaiyeṉum peyarē katavu muṭivum
+iṭamu meṉavē yiyampap peṟumē. ....383
+kaṟaiyeṉum peyarē karumaiyu muraluṅ
+kuruti mācuṅ kuṭiyiṟaip peyarumām. ....384
+kaṇṭa meṉumpeyar kariyiṉ kaccaiyun
+tuṇṭamu meypuku karuviyum vāḷuṅ
+kaṇṭa carkkaraiyun tēcamuṅ kaḻuttum
+iṭutiraip peyarum iyampuvar pulavar. ....385
+katuppeṉum peyarē yirupāṉ mayirum
+koṭiṟum vilaṅkiṉ ṟiraḷuṅ kūṟuvar. ....386
+kanteṉum peyarē paṇṭi yuḷirumpum
+kampamum tiraṭci yākkaiyiṉ mūṭṭum
+ātāra nilaiyum kāykku maramumām. ....387
+kaṭippa meṉumpeyar kātaṇip potuvum
+aṇikalac ceppum accu maṇiyum
+vācciyat toṉṟum patakka meṉavē
+pakarntaṉar pulavar. ....388
+kaṉṟeṉum peyarē yorucār vilaṅkiṉatu
+kaṉṟum iḷamarak kaṉṟum ciṟumaiyum
+kaivaḷai vikaṟpamuṅ karutap peṟumē. ....389
+kalāpa meṉumpeyar mēkalaip peyarum
+maṇivaṭap peyaru mayiliṟaku māmē. ....390
+karaṇṭa meṉumpeya raṇikalac ceppum
+nīrkkāk kaiyumeṉa nikaḻttuvar pulavar. ....391
+karaṇa meṉumpeyar meykkūttiṉ vikaṟpamum
+kalaviyuṅ kaṇitamum pulaṉuṅ karutuvar. ....392
+kalleṉum peyarē yaruviyu mōcaiyum
+malaiyuṅ kaṟpotup peyarum vaḻaṅkupa. ....393
+kavikai yeṉumpeyar kuṭaiyuṅ koṭaiyumām. ....394
+kaṇicci yeṉumpeyar maḻuvun taṟikaiyun
+tōṭṭiyu muḷiyuñ colluvar pulavar. ....395
+kataiyeṉum peyarē kāraṇac collun
+taṇṭā yutamoṭu vārttaiyuñ cāṟṟuvar. ....396
+kacca meṉumpeyar purōcak kayiṟum
+marakkālu maḷavum vaḻaṅkap peṟumē. ....397
+kataveṉum peyarē kapāṭamum kāvalum. ....398
+kaṟuppeṉum peyarē karumaiyum ciṉamum
+veṟuttiṭu ciṉakkuṟip pumeṉa viḷampuvar. ....399
+kampalai yeṉumpeyar naṭukkamu maccamun
+tuṉpamuñ catta voliyuñ colluvar. ....400
+kampam eṉumpeyar naṭukkamum tūṇumām. ....401
+kaṇṭū veṉumpeyar kāñcoṟi tiṉavumām. ....402
+kanta meṉumpeyar maṇamu maimpulaṉum
+kiḻaṅku meṉavē kiḷattuvar pulavar. ....403
+kaṟaṅkeṉum peyarē kāṟṟāṭi vaṭṭamum
+kaḻaluñ catta voliyum colluvar. ....404
+kañaṟa leṉumpeyar polivum ciṟumaiyum. ....405
+kariṇi yeṉumpeyar kaṭakarip peyarum
+piṭiyiṉ peyarum pēcuvar pulavar. ....406
+katali yeṉumpeyar kāṟṟā ṭiyuṭaṉē
+vāḻaiyun tuvacamum tēṟṟā maramumām. ....407
+kaṭavu ḷeṉumpeyar naṉmaiyun teyvamum
+muṉivaṉ peyaru moḻiyap peṟumē. ....408
+kaṇakkeṉum peyarē kalaikaḷiṉ vikaṟpamum
+eṇṇiṉ peyarum iyampuvar pulavar. ....409
+kaccai yeṉumpeyar kavacamum kayiṟum
+taḻumpu meṉavē cāṟṟiṉar pulavar. ....410
+kayileṉum peyarpū ṇiṉkaṭaip puṇarvum
+piṭarttalai peyarum pēcap peṟumē ....411
+kañca meṉumpeyar kamalamun tāḷamum
+veṇkalacamum appa vikaṟpamuṅ kañcāvum
+kaṇṇā ṭiyumeṉak karutuvar pulavar. ....412
+kaliṅka meṉumpeyar ūrkkuruviyum puṭaivaiyum
+vāṉam pāṭiyum kaliṅka tēcamumām. ....413
+kantaruva meṉumpeyar peṇṇōṭu kutiraiyām. ....414
+cukameṉum peyarē puḷḷiṉ potuvum
+ampiṉ peyaru māku meṉpa. ....415
+kavaṭeṉum peyarē purōcak kayiṟum
+marattiṉ kavaṭu maṉakka paṭamumām. ....416
+karumai yeṉumpeyar kaṟuppum perumaiyum
+pelamum pulavōr pēcap peṟumē. ....417
+karēṇu veṉumpeyar kolaiyāṉai yiṉoṭu
+piṭiyā ṉaiyumeṉap pēcap peṟumē. ....418
+kaṉaitta leṉumpeyar olittaliṉ peyarum
+tiraṇṭa viruḷiṉ peyaruñ ceppuvar. ....419
+kaṭaippiṭi yeṉumpeyar maṟappilā tavaṉum
+tēṟṟamu meṉavē ceppap peṟumē. ....420
+kaṭṭaḷai yeṉumpeyar iṭṭikai yiyaṟṟalun
+tattuva vikaṟpamu niṟaiyaṟi karuviyum
+piṟaviṉa oppum ōrirāciyum pēcuvar. ....421
+kaṇṭa leṉumpeyar kaitainīr muḷḷiyām ....422
+karaital eṉumpeyar olittal kūvutalumām. ....423
+kataḻveṉum peyarē ciṟappum vēkamumām. ....424
+kaḷiyeṉum peyarē kaḷippoṭu kuḻampumām. ....425
+kattikai yeṉum peyar ciṟukoṭip peyarum
+toṭaiyal vikaṟpamum vācantiyum colluvar. ....426
+kantuka meṉumpeyar kutiraiyum pantumām. ....427
+kappaṇa meṉumpeyar kaivēl vikaṟpamum
+irumpiṉiṟ purintiṭu neruñcimuṭ peyarumām. ....428
+kalāmeṉum peyarē koṭumaiyum ciṉamumām. ...429
+kariyeṉum peyarē kaḷiṟuñ cāṭciyum
+iruntaiyu meṉavē yiyampuvar pulavar. ....430
+karīra meṉumpeyar miṭāvum akattiyum
+tantiyiṉ pallaṭip peyaruñ cāṟṟuvar. ....431
+kaṉaveṉum peyarē kaṉāvu mayakkamum. ....432
+kaṭṭa leṉumpeyar kaḷaitalum piṇittalum
+taṭuttalu meṉavē cāṟṟiṉar pulavar. ....433
+kanta ṉeṉumpeyar murukaṉum arukaṉum. ....434
+kaḷari yeṉumpeyar pōrkkaḷamum kāṭum
+karumañ ceyyiṭamuṅ karutuvar pulavar. ....435
+kaṟaṅka leṉumpeyar cuḻaṟṟutalu moliyum
+vaḷaitaṭip peyarum vaḻaṅkap peṟumē. ....436
+kaṟpaka meṉumpeyar kaṟpaka taruvum
+corkkamum piramaṉ vāḻnāḷuñ colluvar. ....437
+kaṭuttal eṉumpeyar uvamaiyum viraivumām. ....438
+katava meṉumpeyark kapāṭamum kāvalum. ....439
+kariyava ṉeṉumpeyar kaṇṇaṉin tiraṉuṭaṉ
+caṉiyiṉ peyarum cāṟṟap peṟumē. ....440
+karileṉum peyarē koṭumaiyuṅ kuṟṟamum
+kāḻttalu meṉavē karutuvar pulavar. ....441
+kaluḻi yeṉumpeyar kāṉi yāṟum
+kalaṅkiya nīruṅ karutap peṟumē. ....442
+kavaṉa meṉumpeyar kāṭuṅ kalakkamum
+viraivu meṉavē viḷampuvar pulavar. ....443
+kaḻitta leṉumpeyar mikutaluñ cātalum
+kaṭattalu meṉavē karutap peṟumē. ....444
+kaḻaleṉum peyarē kaḻaṅkuñ ceruppum
+kāluṅ kālaṇip peyaruṅ karutuvar. ....445
+kaḻuma leṉumpeyar mayakkamum paṟṟum
+niṟaiviṉ peyaru nikaḻttuvar pulavar. ....446
+kayameṉum peyarē meṉmaiyum perumaiyum
+kaḷaviṉ peyaruṅ karutap peṟumē. ....447
+kaḷapa meṉumpeyar yāṉaik kaṉṟum
+kalavaiyuñ cāntum karutap peṟumē. ....448
+kampuḷ eṉumpeyar campaṅ kōḻiyuñ
+caṅkiṉ peyaruñ cāṟṟap peṟumē. ....449
+kaṇṇeṉum peyarē kaṇuvu mūṅkilum
+iṭattiṉ peyarum viḻiyu miyampuvar. ....450
+karuvi yeṉumpeyar kavacamum yāḻum
+palaviṉaip peyarun toṭarpu mīṭṭamun
+tuṇaikkā raṇamun tukilu māyutamum
+kacaiyum palliyap peyaruṅ kalaṇaiyun
+tokutiyu meṉavē colluvar pulavar. ....451
+kaṭuveṉum peyarē kaṭumarap peyarum
+viṭamum kaṭuttalum viḷampap peṟumē. ....452
+kaḻaṅkeṉum peyarē vēla ṉāṭaluṅ
+koṭiyiṉ kaḻaluṅ kūṟuvar pulavar. ....453
+kalameṉum peyarō reṇṇumā paraṇamum
+uṇkala marakkala maṭkalam yāvumām. ....454
+kañca ṉeṉumpeyar piramaṉuṅ kuṟaḷaṉum. ....455
+kavvai yeṉumpeyar kavalaiyun tuṉpamum
+āra vārattiṉ peyaru māmē. ....456
+karaiyeṉum peyarnīrk karaiyuñ cērkkaiyiṉ
+colliṉ peyaruñ collap peṟumē. ....457
+kaṇṇuta leṉumpeyar kaṟaimiṭaṟ ṟiṟaiyaiyum
+niṉaittaliṉ peyaru nikaḻttuvar pulavar. ....458
+kakara varukkam muṟṟum.
+
+kakara ākāra varukkam
+kāri yeṉumpeyar caṉiyuñ cāttaṉuṅ
+karumaiyuṅ kākamuṅ karikku ruviyum
+vaṭukak kaṭavuḷun teyvēn tiraṉum
+kaṭuvumōr vaḷḷaluṅ karutap peṟumē. ....459
+kāla meṉumpeyar viṭiyaṟ kālamum
+viṭinta piṟkālamu mukkā lamumām. ....460
+kāleṉum peyarē kāṟṟuṅ kūṟṟun
+tāḷum poḻutun taṟiyu maḷavaiyum
+vaḻiyun tēri ṉuruḷum vāykkālum
+pelamu malarkkāmpu miṭamum piḷḷaiyum
+muḷaiyu meṉavē moḻintaṉar pulavar. ....461
+kāḷa meṉumpeyar karumaiyu nañcum
+ūtu ciṉṉattiṉ varukkamu muraippar. ....462
+kāreṉum peyarē mārik kālamum
+kaṟuviya karumaṅ kaṭaimuṭi vaḷavum
+tavirāc ciṉamu nīruṅ karuṅkuraṅkum
+uḻaviṉ paruvamu mēkamuṅ kūntaluṅ
+karumaiyu miruḷum veḷḷāṭuṅ karutuvar. ....463
+kāñci yeṉumpeyar kāñci naṉṉakaramum
+mēkalaip peyarumōr paṇṇumōr maramumām. ...464
+kāṇṭai yeṉumpeyar kaṟpā ḻiyiṉoṭu
+tavattō riṭamuñ cāṟṟap peṟumē. ....465
+kāntāra meṉumpeya ricaiyuṅ kāṭumām. ....466
+kāmara meṉumpeya ricaip potuppeyarum
+atta nāḷu mōricaiyu maṭuppumām. ....467
+kāḷai yeṉumpeyar pālaik katipaṉum
+iḷamaiyōṉ peyaru merutum iyampuvar. ....468
+kāya meṉumpeyar kaṟiyiṉ karippum
+ākamum vicumpum peruṅkā yamumām. ....469
+kāttira meṉumpeyar kaḷiṟṟiṉ muṟkālum
+ākkaiyuṅ kaṉamum kōpa mumāmē. ....470
+kāceṉum peyarē maṇiyiṉ kōvaiyum
+kuṟṟamuṅ kāciṉ vikaṟpamum kūṟuvar. ....471
+kāvi yeṉumpeyar kaḷḷum kuvaḷaiyum
+kāvik kalluṅ karutap peṟumē. ....472
+kāḻaka meṉumpeyar karuniṟan tūcumām. ....473
+kāṉa meṉumpeyar kāṭu micaiyumām. ....474
+kākuḷi yeṉumpeyar manta vicaiyoṭu
+nāciyi ṉeḻumoli tavicu naviluvar. ....475
+kāṉa leṉumpeyar kaṭaṟkaraic cōlaiyum
+malaicār cōlaippeyaru nalloḷiyum
+pēyttērp peyarum pēcap peṟumē. ....476
+kāveṉum peyarē kāṭimalarc cōlaiyum
+tulāmuṅ kāttalun tōṭcumaip peyarumām. ....477
+kācai yeṉumpeyar puṟpiṭip peyarum
+nāṇalum kācai maramu naviluvar. ....478
+kāṇa meṉumpeyar poṉṉum poṟkācum
+pariyū ṇuñcekku mōrkaṭ centumām. ....479
+kāmpu eṉumpeyar malarkkāmpu mūṅkilum
+paṭṭiṉ vikaṟpamum pakarap peṟumē. ....480
+kāḻeṉum peyarē maṇiyiṉ kōvaiyu
+marattiṉ vayiramum vitaiyum paralumām. ....481
+kāḻiya reṉumpeyar kaṭaṟkaḻip paratarum
+īraṅ kōliyar peyarum iyampuvar. ....482
+kāṉeṉum peyarē kāṭu maṇamumām. ....483
+kāppa, eṉumpeyar veṇṇīruṅ kāvalum
+tūcuṅ katavum colluvar pulavar. ....484
+kāta leṉumpeyar viruppamuṅ kōṟalum. ....485
+kālili yeṉumpeya raruṇaṉum caṉiyum
+pāmpu meṉavē pakarap peṟumē. ....486
+kāṇṭa meṉumpeyar kāṭun tīrttamun
+tūcu nūṉmuṭivum paṭaikkalap potuvum
+ampuṅ kōlu maṇikalac ceppum
+kutirai yuṅkamaṇ ṭalamu miyampuvar. ....487
+kātai yeṉumpeyar kataiyoṭu collumām. ....488
+kāma ṉeṉumpeyar kaṇaivēḷ peyarum
+aintaru viṟaivaṉ peyaru māmē. ....489
+kāma reṉumpeyar kaṭṭa ḻakuṭaṉē
+viruppamu meṉavē viḷampuvar pulavar. ....490
+kāma meṉumpeyar virakamum viruppum. ....491
+kakara ākāra varukkam muṟṟum.
+
+kakara ikara varukkam
+
+kiṭakkai yeṉumpeyar kiḷarpuvip peyarum
+cayaṉamu meṉṉac cāṟṟap peṟumē. ....492
+kiḻamai yeṉumpeyar kuṇamu murimaiyum
+vāramu meṉavē vaḻaṅkuvar pulavar. ....493
+kiḷaiyeṉum peyarē mūṅkilum cuṟṟamum
+kiḷaittalu mōrpaṇ peyaruṅ kiḷattuvar. ....494
+kiṭṭi yeṉumpeyar talaiyīṟ ṟāvum
+tāḷamu meṉavē cāṟṟuvar pulavar. ....495
+kiṉṉara meṉumpeyar kiṉṉara mituṉamum
+yāḻiṉ peyaru nīrppaṟavaiyu māntaiyum. ....496
+kiṭukeṉum peyarē tērmarac cuṟṟum
+paricaiyu meṉavē pakarap peṟumē. ....497
+kiḷareṉum peyarē kiḷartteḻu kiraṇamum
+kōṭṭu malarppūn tātuṅ kūṟuvar. ....498
+kiñcuka meṉumpeyar muṇmuruk kuṭaṉē
+ceṉṉiṟap peyaruñ ceppap peṟumē. ....499
+kiḷḷai yeṉumpeyar kiḷiyuṅ kutiraiyum. ....500
+kiruṭṭiṉa ṉeṉumpeyar kēcavaṉ peyarum
+aruccaṉaṉ peyaru māku meṉpa. ....501
+kiruttima meṉumpeyar toḻiluñ carumamum
+pūtamum poyyum pukalap peṟumē. ....502
+kimpuri yeṉumpeyar kirīṭa vikaṟpamum
+kaḷiṟṟiṉ maruppiṉ pūṇuṅ karutuvar. ....503
+kiḻiyeṉum peyarē kiḻipaṭu tukilum
+irunitip peyaru meḻutu paṭamumām. ....504
+kiruṭṭi yeṉumpeyar paṉṟiyiṉ peyarum
+ōrīṟ ṟāvum uraikkap peṟumē. ....505
+kakara ikara varukkam muṟṟum.
+
+kakara īkāra varukkam
+
+kīra meṉumpeyar kiḷiyum pālumām. ....506
+kīca kameṉum peyar mūṅkiluṅ kuraṅkumām. ....507
+kīta meṉumpeyar icaiyuṭaṉ vaṇṭumām. ....508
+kīlāla meṉumpeyar nīruṅ kāṭiyum
+utiramu meṉavē yuraikkap peṟumē. ....509
+kīḻeṉum peyarē kiḻakkuṅ kīḻmaiyum
+kīḻppaṭu cātiyu miṭamuṅ kiḷattuvar. ....510
+kakara īkāra varukkam muṟṟum.
+
+kakara ukara varukkam
+
+kuruti yeṉumpeyar kucaṉum civappum
+utiramu meṉavē yuraikkap peṟumē. ....511
+kulameṉum peyari rēvatiyuṅ kūṭṭamum
+varuṇa vikaṟpamu maṉaiyuṅ kōyilum. ....512
+kumpa meṉumpeyar kumpa virāciyum
+veṅkiri neṟṟiyuṅ kuṭamum viḷampuvar. ....513
+kumpi yeṉumpeyar yāṉaiyum cēṟum
+nirayamu meṉavē nikaḻttap peṟumē. ....514
+kumuta meṉumpeyar mikumpē rōcaiyum
+aṭuppu neytalu mōrticai yāṉaiyumām. ....515
+kuṇṭeṉum peyarē kutirai āṇpeyarum
+āḻamum kolaiyun tāḻvu māmē. ....516
+kuyileṉum peyarē kōkilamun tuḷaiyum
+uraiyuṅ karumukiṟ peyarum ōtuvar. ....517
+kuvalaiya meṉumpeyar kuvaḷaiyum puviyumām. ....518
+kumari yeṉumpeyar aḻivilā mātarum
+umaiyun turkkaiyu maḻivilāp poruḷum
+catta mātākkaḷiṟ cāṟṟu mōraṇaṅkum
+kaṟṟā ḻaiyumōr natiyuṅ karutuvar. ....519
+kurukeṉum peyarē kollulai mūkkum
+kōḻiyuṅ kaivaḷai yuṅkuruk kattiyum
+nārai peyarōṭu mūla nāḷum
+puḷḷiṉ potuvum veṇmaiyum iḷamaiyum. ...520
+kuṉṟeṉum peyarē varuṇa ṉāḷum
+ciṟumalaip peyarperu malaiyuñ ceppuvar ....521
+kuruveṉum peyarē kuravaṉu niṟamum
+aracaṉum viyāḻamum pāramum perumaiyum
+tāḷatti ṉirumāt tiraiyumōr nōyumām. ....522
+kuṭiyeṉum peyarē kōttira vikaṟpamum
+kulattiṉ peyarumūrp potuvum puruvamum. ....523
+kuṟiñci yeṉumpeyar malaiccārpu nilamum
+annila yāḻumōr maramu māmē. ....524
+kuvaṭeṉum peyarmarak kōṭuñ cayilamum
+malaiyi ṉucciyum vaḻaṅkap peṟumē. ....525
+kuṟumpoṟai yeṉumpeyar kuṟiñci yūrum
+kāṭu meṉavē karutuvar pulavar. ....526
+kuṭiñai yeṉumpeyar kūkaiyum yāṟum
+puṭpotup peyarum pukalap peṟumē. ....527
+kuḷameṉum peyarē nutalum poykaiyum
+carukkaraip peyaruñ cāṟṟuvar pulavar. ....528
+kuḻaiyeṉum peyarē cēṟun tuvāramum
+taḷiṟuṅ kuṇṭalap peyaruñ cāṟṟuvar. ....529
+kuṭameṉum peyarē kumpamum pacuvum
+koṭṭik kaikaḷ kuvittāṭu kūttum
+nakara makkāramu navilap peṟumē. ....530
+kuṇuṅka reṉumpeyar tōṟkaru viyaruṭaṉ
+pulaiñaru meṉavē pukaṉṟaṉar pulavar. ....531
+kuñca meṉumpeyar kuṟaḷaic collum
+nāḻiyuṅ kuṟaḷu navilap peṟumē. ....532
+kuraleṉum peyarē vācik kōvaiyum
+kiṇkiṇi mālaiyum kiḷarneṟ katirum
+kōtaiyar mayirum yāḻnaram piloṉṟum
+puḷḷiṉ ciṟakum pukaṉṟaṉar pulavar. ....533
+kuṇileṉum peyarkava ṇuṅkuṟun taṭiyuṅ
+kaṭippeṉum paṇaiyuṅ karutap peṟumē. ....534
+kuḷireṉum peyarē kuṭamuḻavum ñeṇṭum
+kuḷircciyu milaimūk kariyuṅ karuviyuṅ
+kavaṇu maḻuvuṅ karutap peṟumē. ....535
+kuraiyeṉum peyarē kutiraip peyarum
+oliyumiṭaic collu muraikkap peṟumē. ....536
+kulaiyeṉum peyarkāyk kottuñ ceykaraiyum
+ampiṉ kutaiyum viṟkutaiyu māmē. ....537
+kuyyeṉum peyarē kuḷirmaṇap pukaiyuṭaṉ
+kaṟikarit taliṉpeyar tāṉuṅ karutuvar. ....538
+kuṭampai yeṉumpeyar muṭṭaiyum kūṭumām. ....539
+kuñci yeṉumpeyar kuṉṟiyiṉ putalum
+paṟavai yiḷamaiyu māṇpāṉ mayirumām. ....540
+kuḻaleṉum peyarē tuḷaiyuṭaip poruḷum
+icaiyiṉ kuḻalum irupāṉ mayirumām. ....541
+kumpaca ṉeṉumpeyar centamiḻ muṉiyum
+turōṇā cāriyaṉ peyaruñ colluvar. ....542
+kuṭumi yeṉumpeyar malaiyi ṉucciyum
+veṉṟiyu māṇpāṉ mayirum viḷampuvar. ....543
+kuyameṉum peyarē yiḷamaiyu mulaiyuṅ
+koṭuvā ḷeṉavuṅ kūṟappeṟumē. ....544
+kuṭṭa meṉumpeyar kuḷamu māḻamun
+toḻunō yeṉavuñ colluvar pulavar. ....545
+kuṇameṉum peyarē kumpamu miyalpuṅ
+kayiṟuṅ kuṇattiṉ vikaṟpamum karutuvar. ....546
+kullai yeṉumpeyar veṭciyun tuḷaciyum
+kañcā viṉpeya rataṉaiyuṅ karutuvar. ....547
+kutti yeṉumpeyar aṭakkamu maṇṇumām . ....548
+kupēra ṉeṉumpeyar vayiccira vaṇaṉōṭu
+matiyiṉ peyarum vaḻaṅkap peṟumē. ....549
+kuṟaḷeṉum peyarē kuṟaḷartam peyarum
+pāriṭap peyarum kuṟumaiyum pakaruvar. ....550
+kuṟaṭeṉum peyarē tiṇṇaiyum palakaiyum. ....551
+kuṟṟa leṉumpeyar kōṟalum paṟittalum. ....552
+kunta meṉumpeyar kuruntamum viyātiyum
+kaivēl kutiraip peyaruṅ karutuvar. ....553
+kuyiṟal eṉumpeyar kūvalum kuṭaitalum
+ceṟitalum ceytalum ceppap peṟumē. ....554
+kuvaveṉum peyarē kuvitalun tiraṭciyum
+perumaiyu meṉavē pēcap peṟumē. ....555
+kuyyam eṉumpeyar yōṉiyu maṟaivumām. ....556
+kuraṅkeṉum peyarē vaḷaivum vāṉaramum
+mirukap potuviṉ peyarum viḷampuvar. ....557
+nakara ukara varukkam muṟṟum.
+
+kakara ūkāra varukkam
+
+kūṟṟeṉum peyarē kūṟṟaṉum vārttaiyum. ....558
+kūṉiyeṉumpeyar kuṭumpamuṅ kūṭṭamum
+pēyuñ cēṉait talaivaṉum pēcuvar. ....559
+kūṭa meṉumpeyar malaiyiṉ kuvaṭum
+kūṭṭamu maṟaivu maṉavañ caṉaiyum
+kollaṉ cammaṭ ṭiyaiyuṅ kūṟuvar. ....560
+kūla meṉumpeyar pākalum pakavum
+varampum vilaṅkiṉ vālu nīrkkaraiyum
+teruvum palapaṇṭa mumaṅkā ṭiyumām. ....561
+kūḷiya reṉumpeyar pūtakaṇa vīrarum
+kolaittiṟa lōrunaṭ pāḷaruṅ kūṟuvar. ....562
+kūntaleṉum peyar mayiliṉ ṟōkaiyum
+kōtaiyar kuḻaluṅ kūṟap peṟumē. ....563
+kūvira meṉumpeyar tēriṉ koṭiñciyun
+tēru meṉavē ceppuvar pulavar. ....564
+kūtta ṉeṉumpeya ruyiriṉ peyarum
+naṭippōṉ peyaru navilap peṟumē. ....565
+kūḻeṉum peyarē palavakai yuṇavum
+neṟpayir mutalavuṅ kaṉakamu nikaḻttuvar. ....566
+kūreṉum peyarē kūrmaiyu mikutiyum. ....567
+kūra leṉumpeyar mātartam mayirum
+puḷḷiṉ ciṟakum pukalap peṟumē. ....568
+kūḻai yeṉum peyar koṭumpaṭai yuṟuppum
+puṭciṟaku peṇpāṉ mayirum pukaluvar. ....569
+nakara ūkāra varukkam muṟṟum.
+
+kakara ekara varukkam
+
+keḻuvuta leṉumpeyar mayakkamum paṟṟumām ....570
+ketiyeṉum peyarpara ketinaṭai viraivumām. ....571
+kakara ekara varukkam muṟṟum.
+
+kakara ēkāra varukkam
+
+kēṭaka meṉumpeyar ūrpotup peyarum
+paricaiyum palakaiyum pakarntaṉar pulavar. ....572
+kēca meṉumpeyar peṇpāṉ mayirum
+āṇpāṉ mayiru maḵṟiṇai mayirumām. ....573
+kēḻeṉum peyarē niṟamum oḷiyum
+uvamaiyu meṉavē yuraittaṉar pulavar. ....574
+kēcara meṉumpeyar makiḻamarap peyarum
+pūntātu meṉavē pukalap peṟumē. ....575
+kētu veṉum peyar oṉpāṉ kirakamum
+tuvacamu neruppuñ colluvar pulavar. ....576
+kēvala meṉumpeyar taṉimaiyu muttiyum. ....577
+kēṭṭai yeṉumpeyar purantara ṉāḷum
+acaiccoṟ peyaru mūtēviyu māmē. ....578
+kēḷvi yeṉumpeyar kalviyum ceviyumām. ....579
+kēkaya meṉumpeyar mayilumōr paṇṇum
+akaṇa māviṉ peyaru māmē. ....580
+kakara ēkāra varukkam muṟṟum.
+kakara aikāra varukkam
+kaiyeṉum peyaralaṅ karittaluñ ciṟumaiyum
+tāṉaiyi ṉuṟuppum taṅkaiyum ceṅkaiyum
+oḻukkamu miṭamuṅ kuṟṟamuñ cārpumām. ....581
+kaitta leṉumpeyar kaippuñ ciṉamumām. ....582
+kaikkiḷai yeṉumpeya rorutalaik kāmamum
+icaiyiṉ vikaṟpamu miyampap peṟumē. ....583
+kakara aikāra varukkam muṟṟum.
+
+kakara okara varukkam
+
+koṭiṟeṉum peyaracurar kuruvi ṉāḷuṅ
+kavuḷiyiṉ peyaruṅ karuvip paṟṟumām. ....584
+kokkeṉum peyarē kutiraiyu mūlamum
+pēkamuñ cennāyu māmaramum pēcuvar. ....585
+koṉṉeṉum peyarē ōracaic collum
+perumaiyuṅ kālamum vaṟitu maccamum
+payaṉi lātatum pakaruvar pulavar. ....586
+koṟṟi yeṉumpeyar kōviḷaṅ kaṉṟum
+turkkaiyuṅ kottiyuñ collap peṟumē. ....587
+koṇmū veṉumpeyar mēkamā kāyamumām. ....588
+kontaḷa meṉumpeyar kōtaiyar mayirum
+kuruḷaiyuṅ karuṅkuḻaṟ kottu māmē. ....589
+koṭiya ṉeṉumpeyar koṭiyavaṉ peyarum
+kētuviṉ peyaruṅ kiḷarttap perumē. ....590
+kommai yeṉumpeyar koṅkaiyum pelamum
+iḷamaiyum aṅkai kuvittuk koṭṭalum
+vaṭṭa vaṭivun tiṭarum vaḻaṅkuvar. ....591
+koṇṭai yeṉumpeyar irantaiyiṉ kaṉiyum
+mayirmuṭip peyarum vaḻaṅkap peṟumē. ....592
+koṟṟa meṉumpeyar araciyaṟ peyarum
+veṟṟiyiṉ peyarum viḷampuvar pulavar. ....593
+kolleṉum peyarkolai yēvalu macaiccollum
+aiyamum varuttamum ceṅkollum karuṅkollum. .... 594
+koṭiyeṉum peyarē yoḻuṅkum valliyum
+tuvacamuṅ kākkaiyiṉ peyaruñ colluvar. ....595
+kakara okara varukkam muṟṟum.
+
+kakara ōkāra varukkam
+
+kōṭai yeṉumpeyar mēṟṟicaik kāṟṟum
+kutiraiyum veyilum veṇkāntaḷuṅ kūṟuvar. ....596
+kōveṉum peyarē kulicamun talaivaṉum
+ampum pūmiyum aṟaluṅ kiraṇamum
+cuvarkkamum viḻiyuñcūḻ perunticaiyum
+malaiyum patavum vāṉamu mirakkamum
+kuṟippiṉ vārttaiyuṅ kūṟuvar pulavar. ....597
+kōḷeṉum peyarē yoṉpāṉ kirakamum
+valiyuṅ koḷkaiyuṅ kolaiyu miṭaiyūṟum
+kuṟaḷaiyiṉ puṉcolluṅ kūṟap peṟumē. ....598
+kōla meṉumpeyar koḻuntu nīrōṭṭamum
+pākkum pīrkkum paṉṟiyu maḻakum
+irantaiyum irantaik kaṉikkum iyampuvar. ....599
+kōṭṭa meṉumpeyar kōyilu nāṭum
+kōṭṭamum vaḷaivum uṇkalaṉu māṉkoṭṭilum
+kuravu maṉakkōṭṭa mumeṉak kūṟuvar. ....600
+kōttira meṉumpeyar kuṭiyu malaiyum
+puvaṉiyu meṉavē pukaṉṟaṉar pulavar. ....601
+kōṭeṉum peyarē malaiyiṉ kuvaṭum
+vārpuṉaṟ karaiyum vilaṅkiṉ maruppum
+marattiṉ paṇaiyu mūtuṅ kompum
+caṅkiṉ peyaruñ cāṟṟap peṟumē. ....602
+kōca meṉumpeyar matiluṟuppu muṭṭaiyum
+pottakamum poruḷ poruntu peṭṭakamum
+āṇkuṟip peyaru māku meṉpa. ....603
+kōṭṭi yeṉumpeyar kōpura vāyilum
+īṭṭu palacapaiyu miyampap peṟumē. ....604
+kōtai yeṉumpeyar maṭantaiyar kuḻaluñ
+cēraṉu muṭumpuñ ciṟanta kaikkaṭṭiyum
+mālaiyuṅ kāṟṟiṉ peyarum vaḻaṅkuvar. ....604
+kōṇeṉum peyarē vaḷaivum kūṉumām. ....606
+kōṭaka meṉumpeyar muṭiyiṉa tuṟuppum
+kutiraiyum putumaiyuṅ kūṟap peṟumē. ....607
+kōra meṉumpeyar koṭumaiyum vaṭṭilum
+cōḻaṉ kutiraiyuñ collap peṟumē. ....608
+kōcika meṉumpeyar paṭṭum kūṟaiyum
+cāmavēta mumeṉac cāṟṟuvar pulavar. ....609
+kōṭika meṉumpeyar kūṟaiyiṉ peyarum
+pūviṉ ṟaṭṭum pukalap peṟumē. ....610
+kōṭara meṉumpeyar kuraṅkum kutiraiyum
+marattiṉ kōṭum eṭṭimarac ceṟivumām. ....611
+kōkula meṉumpeyar kuyiloṭu kuraṅkum
+palliyu meṉavē pakarntaṉar pulavar. ....612
+kōḷi yeṉumpeyar koḷiñci maramum
+antiyāl pūvātu kāykku maramumām. ....613
+kōḻi yeṉumpeyar cōḻa ṉuṟaiyūrum
+āṇṭalaip puḷḷu māmeṉa vuraippar. ....614
+kōṇa meṉumpeyar kutiraiyu mūkkum
+aṅkuca muṅkūṉ vāḷu māmē. ....615
+kōṭi yeṉumpeyar tūcum putumaiyum
+ōreṇ peyaru muraikkap peṟumē. ....616
+kōṇa leṉumpeyar kūṉalum vaḷaitalum
+māṟupaṭu kuṇattiṉ peyarum vaḻaṅkum. ....617
+kōleṉum peyarē yāḻi ṉarampum
+ampun tulāmun tūrikaik kōlum
+añcaṉak kallu maḷantiṭu kōlum
+kutirai mattikaiyun tiraṭciyu mīṭṭiyum
+iṟaimuṟai naṭattal vāṭkōlu miyampuvar. ....618
+kakara ōkāra varukkam muṟṟum.
+
+kakara oḷakāra varukkam
+
+keḷacika meṉumpeya rōri caiyuṭaṉ
+kūkaiyum cuṭarnilait taṇṭum paṭṭumām. ....619
+koḷavai yeṉumpeyar kaḷḷum tuṉpamum
+eḷḷilaṅ kāyum paḻiccolu mōcaiyum. ....620
+keḷanti yeṉumpeyar pāṇṭava raṉṉaiyum
+arunta vappeṇ peyaru māmē. ....621
+keḷaṭa meṉumpeya rorutē cattuṭaṉ
+ōrukoṭip peyaru muraikkap peṟumē. ....622
+kakara aukāra varukkam muṟṟum.
+------
+kakara varukkam muṟṟum.
+
+3vatu cakara varukkat tokuti 
+
+cakara varukkam
+
+campu veṉumpeyar caṅkaraṉ ṟirumāl
+nāṉmuka ṉāvaṉa riyumōr pulluñ
+cūriyaṉ peyaruñ collap peṟumē. ....623
+catti yeṉumpeyar vēlum pelamum
+umaiyun tuvacamuṅ kuṭaimuṟ kāramum. ....624
+camaṉeṉum peyarē yiyamaṉu naṭuvumām. ....625
+catiyeṉum peyarē tāḷa vottuṭaṉ
+urōkiṇip peyaruṅ kaṟpāṭ ṭiyumām. ....626
+canti yeṉumpeya rantip poḻutu
+mūṅkiluñ catukkamu moḻiyap peṟumē. ....627
+cariyeṉum peyarkai vaḷaiyum vaḻiyumām. ....628
+caraṇa meṉumpeyar tāḷuṅ karamuñ
+cārpu meṉavē cāṟṟuvar pulavar. ....629
+caṭaiyeṉum peyarkō ṭīramum vērumām. ....630
+caviyeṉum peyarē yaḻakum pelamum
+maṇikkōvai vaṭamu moḷiyum vaḻaṅkum. ....631
+carameṉum peyarē taṉimaṇi vaṭamum
+ampuñ camarum koṟukkac ciyumām. ....632
+calākai yeṉumpeyar cavaḷap peyarōṭu
+nārā camunaṉ maṇiyu naviṉṟaṉar. ....633
+cakuṉi yeṉumpeyar nimittam pārppavaṉum
+paṟavaiyiṉ potuvum pakarap peṟumē. ....634
+cattira meṉumpeyar aṉṉa cālaiyum
+kaiviṭāp paṭaiyuṅ kaviṉpeṟu kuṭaiyum
+kuṭaiyiṉ tirumpum vēḷviyum kūṟuvar. ....635
+caṭameṉum peyarē poyyuñ carīramum
+koṭumaiyu meṉavē kūṟap peṟumē. ....636
+cakunta meṉumpeyar puḷḷiṉ potuvum
+kaḻuku meṉavē karutuvar pulavar. ....637
+cakuṉa meṉumpeyar puṭpotup peyarum
+nimittamum kiḻaṅku nikaḻttap peṟumē. ....638
+caṭila meṉumpeyar caṭaiyu nerukkamum ....639
+cakkiri yeṉumpeyar tarāpati yaravuṭaṉ
+mikkacīr mukuntaṉ cekkāṉ kuyavaṉām. ....640
+caciyeṉum peyarē matiyum kaṟpūramum
+intiraṉ maṉaiviyum veṇmaiyu miyampuvar. ....641
+caṅka meṉumpeya raṉpuñ capaiyum
+veṉṟiyuṅ kaviñaru mōreṇ peyarum
+kaṇaikkāl caṅkiṉ peyaruṅ karutuvar. ....642
+caṇṭaṉeṉumpeyar cūriyaṉ yamaṉuṭaṉ
+napuñcakaṉ peyaru navilap peṟumē. ....643
+cakkara meṉumpeyar cutari caṉamum
+cakkara yūkamum cakatalap peyarum
+tēri ṉuruḷum perumaiyum piṟappum
+nēmip puḷḷuṅ kaṭalum cakaṭamum
+vaṭṭamun tikiri varaiyuñ ceppuvar. ....644
+cattiya meṉumpeyar capatamu meyyumām. ....645
+canta meṉumpeyar niṟamuma pirāmamuñ
+cāntamu miṉampeṟu kavitaiyuñ cāṟṟuvar. ....646
+calameṉum peyarē poyyuṅ kōpamum
+puḷḷiṉ peyaru naṭukkamum pukaluvar. ....647
+cayameṉum peyarē carukkarai veṉṟiyām. ....648
+carapa meṉumpeyar cimpuḷvarai yāṭumām. ....649
+carāva meṉumpeyar viḷakkiṉ takaḷiyum
+calākaiyu meṉavē cāṟṟiṉar pulavar. ....650
+camaḻtta leṉumpeya raḻittalu nāṇamum ....651
+cayintava meṉumpeyar kalaiyum kutiraiyum
+intup piṉpeyar tāṉu miyampuvar. ....652
+cakameṉum peyarē puḷḷiṉ ciṟakum
+ilaiyumō rilakkamu miyampap peṟumē. ....653
+cakara akara varukkam muṟṟum.
+
+cakara ākāra varukkam
+
+cāṉṟā reṉumpeyar cārpuḷeṉum peyarum
+arukkaṉu miruka cīriṭamu māṉē. ....654
+cātaka meṉumpeyar pūtamuñ caṉaṉamum
+vāṉam pāṭip puḷḷum vaḻaṅkuvar. ....655
+cāmi yeṉumpeyar talaivaṉu maracaṉum
+kuravaṉum viyāḻamuṅ kūṟuvar pulavar. ....656
+cāma meṉumpeyar paccai niṟamum
+yāmamu miravumōr vētamu miyampuvar. ....657
+cāṉu veṉumpeyar malaiyiṉ pakkamum
+malaiyu muḻantāṭ peyarum vaḻaṅkum. ....658
+cāra leṉumpeyar malaiyiṉ pakkamum
+maruta yāḻttiṟat tōrōcaiyum vaḻaṅkum. ....659
+cāṉaki yeṉumpeyar cītaiyu mūṅkilum. ....660
+cāmpa leṉappeyar paḻampūvum cāmparum
+muṟṟuta leṉavu moḻiyappeṟumē. ....661
+cāla meṉumpeyar āccāra maramum
+matiluñ cāḷarap peyarum valaiyumām. ....662
+cālēka meṉṉum peyarpū varumpum
+vātā yaṉamum vakukkap peṟumē. ....663
+cāti yeṉumpeyar pirampun tēṟalum
+tēṉum tēkkuñ ciṟucaṇ pakamum
+cātiyiṉ vikaṟpamuñ cāṟṟap peṟumē. ....664
+cāṟeṉum peyarē tāḻamarak kulaiyum
+vēriyu muyartiru viḻāvumāmē. ....665
+cāli yeṉumpeyar neṟpotup peyarum
+vēriyu maruntatip peyarum viḷampuvar. ....666
+cārṅka meṉumpeyar viṟpotup peyarum
+māyōṉ cilaiyum vakuttu raittaṉarē. ...667
+cāpa meṉumpeyar capittalum cilaiyumām. ...668
+cāka meṉumpeyar cākiṉi vikaṟpamum
+tēṉīp peyarum veḷḷāṭun tēkkumām. ...669
+cākiṉi yeṉumpeyar taḻaittiṭu cēmpoṭu
+kīraiyiṉ vikaṟpamum kiḷattap peṟumē. ...670
+cāraṅka meṉumpeyar māṉum vaṇṭumām. ...671
+cārikai yeṉumpeyar cūṟaiyum cuṅkamum
+nākaṇa vāyppuṭ peyaru naviluvar. ...672
+cāya leṉappeyar meyppāṭ ṭiṉaḻakum
+mēṉmaiyu meṉavē viḷampap peṟumē. ....673
+cākara meṉumpeyar tuyiloḻin tiṭutalum
+ēḻkaṭaṟ peyarum iyampuvar pulavar. ....674
+cālai yeṉumpeyar kutiraip pantiyum
+aṟappuṟa maṭamum aracartaṅ kōyilum
+vaḻinaṭaic cālaiyum vaḻaṅkap peṟumē. ....675
+cālpeṉum peyarcāṉ ṟāṇmaiyu miyalpumām. ....676
+cānta meṉumpeyar cantaṉamum poṟumaiyum ....677
+cāmpu veṉumpeyar paṟaiyoṭu poṉṉumām. ....678
+cārpeṉum peyarē cārtalu miṭamumām. ....679
+cātta ṉeṉumpeyar ayyaṉum arukaṉum
+puttaṉu meṉavē pukaluvar pulavar. ....680
+cāta meṉumpeyar meymaiyum pūtamum. ....681
+cāleṉum peyarē yuḻaviṉ cālum
+nīrpey pacāṉamu nikaḻttuvar pulavar. ....682
+cakara ākāra varukkam muṟṟum.
+
+cakara ikara varukkam
+
+civaiyeṉum peyarē navaiyilā vumaiyuṭaṉ
+kolla ṉulaiyum perum nariyumām. ....683
+citameṉum peyarē ceyamuṟap paṭutalum
+ñāṉamum veḷuppum vāṉ mīṉumām. ....684
+cinteṉum peyarē nīruṅ kaṭalum
+natiyuṅ kuṟaḷum yāppiṉ muccīrum
+ōrtēca mumeṉa vuraittaṉar pulavar. ....685
+citareṉum peyarē cīlait tuṇiyun
+tuvalaiyu muṟiyum vaṇṭuñ colluvar. ....686
+cimaiya meṉumpeyar cikaramuṅ kuṭumiyum. ....687
+cilaiyeṉum peyarē malaiyum pāṟaiyum
+villu meṉavē viḷampuvar pulavar. ....688
+ciṉaiyeṉum peyarē ceḻumarak kōṭuṅ
+karuviṉ peyaru muṭṭaiyu muṟuppumām. ....689
+cilīmuka meṉumpeyar ampum vaṇṭum
+mulaikkaṇiṉ peyaru moḻiyap peṟumē. ....690
+cimili yeṉumpeyar uṟiyuṅ kīḻvīṭum
+kuṭumiyu meṉavē kūṟuvar pulavar. ....691
+cikka meṉumpeyar cīppuṅ kuṭumiyum
+uṟiyu meṉavē yuraittaṉar pulavar. ....692
+cintura meṉumpeyar tilakamum veṭciyum
+cenniṟap poruḷkaḷuñ ceṅkuṭaip peyarum
+matakarip peyarpuḷi māvum vaḻaṅkum. ....693
+ciraka meṉumpeyar karakamum vaṭṭiluñ
+ceṉṉiyiṟ kōṭuñ ceppap peṟumē. ....694
+citalai yeṉumpeyar celloṭu tuṇiyumām. ....695
+cikaṇṭi yeṉumpeyar pālaiyāḻt tiṟattiṉ
+ōcaiyum aliyu mayilu māmē. ....696
+cilli yeṉappeyar ciḷvīṭum vaṭṭamum
+tēruru ḷuñciṟu kīraiyum ceppuvar. ....697
+ciṟai yeṉumpeyarē puḷḷi ṉiṟakum
+kāvalu mōrpā liṭamum karaiyumām. ....698
+civappeṉum peyarē cemmaiyum ciṉamum
+ciṉakkuṟip pumeṉac ceppuvar pulavar. ....699
+cillai yeṉumpeyar pakaṇṭaip puḷḷum
+ciḷvīṭuṅ kilukilup paiyuñ ceppuvar. ....700
+cikari yeṉumpeyar malaiyu meliyum
+karunā raiyuṅ kōpuramuṅ karutuvar. ....701
+citta meṉumpeyar tiṭamum uḷamumām. ....702
+cittira ṉeṉumpeyar cittira kāraṉun
+taccaṉu meṉavē cāṟṟap peṟumē. ....703
+cikiyeṉum peyarē mayilum kētuvum
+neruppu nūpuramu nikaḻttap peṟumē. ....704
+cittira meṉumpeyar cittira kavitaiyum
+meypōṟ poyyai yuraittalu maḻakum
+tuṇitta palaporu ḷumati cayamuñ
+ceycol vaṭivuṅ kāṭumā maṇakkumām. ....705
+cittira pāṉu veṉumpeyar neruppuñ
+cūriyaṉ peyaru mōrāṇṭuñ colluvar. ....706
+cilampeṉum peyarē malaiyu mōcaiyum
+paripurap peyarum pakarntaṉar pulavar. ....707
+cikara meṉumpeyar tiraiyun tivalaiyu
+malaiyi ṉucciyum ceṉṉiyuṅ
+kavari māviṉ peyaruṅ karutuvar. ....708
+cikaḻikai yeṉumpeyar mayirmuṭip peyarum
+mālaiyiṉ peyarum vaḻaṅkap peṟumē. ....709
+citaṭa ṉeṉumpeyar kuruṭaṉu mūṭaṉum. ....710
+cirameṉum peyarneṭuṅ kālamuñ ceṉṉiyum. ....711
+civameṉum peyarē muttiyum perumaiyum
+kuṟuṇiyiṉ peyaruṅ kūvap peṟumē. ....712
+citteṉum peyarē ceyamum ñāṉamumām. ....713
+cakara ikara varukkam muṟṟum.
+
+cakara īkāra varukkam
+
+cītam eṉumpeyar mēkamum pālum
+kuḷircciyum puṉaluṅ kūṟuvar pulavar. ....714
+cīva ṉeṉumpeyar viyāḻamu muyirum. ....715
+cīru ḷeṉumpeyar celvamuñ cempum
+īyamu meṉavē iyampap peṟumē. ....716
+cīvaṉi yeṉumpeyar cevvaḻi yāḻttiṟat
+tōricaip peyaru muyirtaru maruntumām. ....717
+cīreṉum peyarē celvamuṅ kīrttiyum
+pāramu maḻakum pakarntiṭu cīrmaiyum
+tāḷa vottun taṭiyuṅ kāttaṇṭuñ
+coṟcīr eṉavuñ colluvar pulavar. ....718
+cīppeṉum peyarē kataviṉ ṟāḻum
+mayirvār cīppum vaḻaṅkap peṟumē. ....719
+cīkara meṉumpeyar tiraiyun tivalaiyum
+kavari māvuṅ karutuvar pulavar. ....720
+cīla meṉumpeya roḻukkamuṅ kuṇamum
+tarumamu meṉavē cāṟṟuvar pulavar. ....721
+cītai yeṉumpeyar uḻupaṭaic cālum
+irāmaṉ ṟēviyu miyampap peṟumē. ....722
+cakara īkāra varukkam muṟṟum.
+
+cakara ukara varukkam
+
+cuntari yeṉumpeyar umaiyun turkkaiyum
+cūraṉu meṉavē colluvar pulavar. ....723
+cukkai yeṉumpe yarvāṉ mīṉoṭu
+mālaiyu meṉavē vakuttaṉar pulavar. ....724
+cuciyeṉum peyarē kōṭaik kālamum
+cuttamuṅ kaṉaliṉ peyaruñ colluvar. ....725
+cutaiyeṉum peyarē cuṇṇac cāntum
+maṟikaṭa lamutamum putalviyum vaḻaṅkuvar. ....726
+cuṭareṉum peyarē cūriyaṉ matikaṉal
+viḷakku moḷiyum viḷampap peṟumē. ....727
+cuvaveṉum peyarcuvark kattiṉ peyarum
+puḷḷiṉ mūkkuñ cuṇṭaṉum pukaluvar. ....728
+cuṇṭa ṉeṉumpeyar cūraṉuñ cataiyamum. ....729
+cummai yeṉumpeyar ūrppotup peyarum
+neṉmutaṟ pōrum niṟainta nīrnāṭuñ
+cumaiyōṭu catta voliyuñ colluvar. ....730
+cuvaleṉum peyarē tōḷiṉ mēlum
+mēṭuṅ kurakatak kucaiyiṉ mayirum
+piṭarttalaip peyarum pēcap peṟumē. ....731
+curuṅkai yeṉumpeyar karanta kaṟpaṭaiyum
+nuḻaivāy talumeṉa nuvalap peṟumē. ....732
+curiya leṉumpeyar āṇpāṉ mayirum
+peṇpāl mayirum pēcuvar pulavar. ....733
+curaiyeṉum peyarē yuṭṭuḷai vaṭivum
+āviṉ mulaiyum naṟavum alāpumām. ....734
+cuṭikai yeṉumpeyar cuṭṭiyu makuṭamum
+ucciyu meṉavē moḻiyap peṟumē. ....735
+curikai yeṉumpeya ruṭaivā ḷuṭaṉē
+meypuku karuviyum viḷampuvar pulavar. ....736
+cukameṉum peyarē yiṉpamuṅ kiḷiyumām. ....737
+curarkuru veṉumpeyar tēvar mantiriyum
+intiraṉ peyarum iyampap peṟumē. ....738
+cuvēta meṉumpeyar veṇmaiyum veyarvumām. ....739
+cuvāmi yeṉumpeyar murukaṉum viyāḻamum
+kuruvun talaivaṉuṅ kūṟuvar pulavar. ....740
+curuti yeṉumpeyar vētamum oliyumām. ....741
+curameṉum peyarē vaḻiyuṅ kāṭum
+aruneṟip peyarum pālai nilamumām. ....742
+cakara ukara varukkam muṟṟum.
+
+cakara ūkāra varukkam
+
+cūra ṉeṉumpeyar cūriyaṉ peyarum
+tīraṉu marukaṉu nāyaiyuñ ceppuvar. ....743
+cūreṉum peyarē teyvamu nōyum
+vañcamu mañcā maiyumē vaḻaṅkum. ....744
+cūḻi yeṉumpeyar karimuka paṭāmum
+vāviyu meṉavē vakutturait taṉarē. ....745
+cūtaka meṉumpeyar piṟappiṉ peyarum
+ācū cappeyar tāṉu māmē. ....746
+cūttira meṉumpeyar nūṟpā vakavalum
+nūṟkum veṇṇūlum nuvalpal poṟiyumām. ....747
+cūta ṉeṉumpeyar cūtāṭu pavaṉum
+cūtu cēruḷattaṉum tērppā kaṉumām. ....748
+cūta meṉumpeyar paratā rattoṭu
+māmara meṉavum vaḻaṅkuvar pulavar. ....749
+cūḻa஦ laṉumpeyar vicāramu miṭamumām. ....750
+cakā ūkāra varukkam muṟṟum.
+
+cakara ekara varukkam
+
+cevvi yeṉumpeyar poḻutum paruvamum. ....751
+celleṉum peyarē yiṭiyu mēkamum
+muṉṉilai yēvaluñ citalu moḻintaṉar. ....752
+centeṉum peyarē cīvaṉuñ civappum
+ōriyu maṇuvum narakatti loṉṟumām. ....753
+ceppa meṉumpeyar naṭunilaip peyarum
+teruvuñ cevvaiyu neñcamuñ ceppuvar. ....754
+cempula meṉumpeyar vaṉpālai nilamum
+poruka ḷamumeṉap pukaṉṟaṉar pulavar. ....755
+ceyya leṉumpeyar cēṟu moḻukkamum
+kāvalu meṉavē karutap peṟumē. ....756
+cemma leṉumpeyar cīvaṉum ceyiṉaṉum
+talaivaṉuñ ciṟuvaṉum vīraṉum perumaiyum
+paḻampū vumeṉap pakarntaṉar pulavar. ....757
+cevili yeṉumpeyar muṉpiṟan tāḷum
+vaḷarnta kaittāyum vakuttaṉar pulavar. ....758
+ceḻumai yeṉumpeyar vaḷamaiyum koḻuppum
+vaṉappu māṭcimaiyum vaḻaṅkuvar pulavar. ....759
+ceṭiyeṉum peyarē yoḷiyuñ ceṟivum
+pāvamuṅ kuṇamiṉ maippeyarum pakarntaṉar. ....760
+cetteṉum peyarē cemmaiyu muvamaiyum
+acaiccolu muṟuppuṅ karuttuñ cantēkamum. ....761
+ceṭṭi yeṉumpeyar murukaṉ peyarum
+vaṇikaṉu meṉavē vaḻaṅkap peṟumē. ....762
+ceccai yeṉumpeyar veḷḷāṭ ṭēṟoṭu
+veṭci ceñcāttum viḷampuvar pulavar. ....763
+ceviyeṉum peyarē kēḷviyuṅ kātumām. ....764
+cemmai yeṉumpeyar civappuñ cevvaiyum. ....765
+ceppeṇum peyarpaṇic ceppuñ ceppalum. ....766
+ceyyeṉum peyarē ceytoḻiṟ peyarum
+oḻukkamu meṉavē yuraikkap peṟumē. ....767
+ceyireṉum peyarē ciṉamum kuṟṟamum. ....768
+cakara ekara varukkam muṟṟum.
+
+cakara ēkāra varukkam
+
+cēyeṉum peyarē civappuñ cevvēḷum
+cevvāyk kirakamum ciṟuvaṉu nīḷamum
+tūramu miḷamaiyuñ colluvar pulavar. ....769
+cēṭi yeṉumpeyar viñcaiyar nakaramum
+cilatiyu meṉavē ceppap peṟumē. ....770
+cēkkai yeṉumpeyar mulaiyum cayaṉamum
+vilaṅku tuyiliṭamum viḷampuvar pulavar. ....771
+cēṭaṉe ṉumpeyar aṉantaṉum pāṅkaṉum
+iḷaiyōṉ peyaruṭa ṉaṭimaiyu miyampuvar. ....772
+cē஦ṇuṉum peyarē yakalamu nīḷamum
+uyaramu meṉavē yuraikkap peṟumē. ....773
+cēṭeṉum peyarē ciṟappu naṉmaiyum
+aḻakun tiraṭciyu miḷamaiyu māmē. ....774
+cētaka meṉumpeyar cēṟu cenniṟamumām. ....775
+cēva leṉumpeyar puḷḷi ṉāṇpālum
+kāvaluñ cēṟuñ cāvalum karutuvar. ....776
+cēvaka meṉumpeyar yāṉai tuyiliṭamum
+vīramu meṉavē viḷampuvar pulavar. ....777
+cētāra meṉappeyar tēmāvum veṭciyum
+poṉṉiṉ peyarum pukaṉṟaṉar pulavar. ....778
+cakara ēkāra varukkam muṟṟum.
+cakara aikāra varukkam
+caiva meṉumpeyar purāṇatti loṉṟum
+civacama yattiṉ vikaṟpamum ceppuvar. ....779
+cakara aikāra varukkam muṟṟum.
+
+cakara okara varukkam
+
+colleṉum peyarē kīrttiyum vārttaiyum
+nellum palkalaip peyaru nikaḻttuvar. ....780
+corkka meṉumpeyar cuvarkkamu mulaiyumām. ....781
+cakara okara varukkam muṟṟum.
+
+cakara ōkāra varukkam
+
+cōti yeṉumpeya rorunāḷ mīṉum
+arukaṉum araṉum ātittaṉum viḷakkum
+tārā kaṇamum viḷampuvar pulavar. ....782
+cakara ōkāra varukkam muṟṟum.
+
+cakara oḷakāra varukkam
+
+ceḷari yeṉumpeyar caḷiyuṅ kaṉṉaṉum
+imayaṉuṅ kaṇṇaṉum yamuṉai natiyumām. ....783
+ceḷariya meṉumpeyar vīramum kaḷavumām ....784
+cakara oḷakāra varukkam muṟṟum.
+cakara varukkat tokuti muṟṟum.
+
+4 vatu ñakara varukkat tokuti 
+
+ñakara akara varukkam
+
+ñamali yeṉumpeyar nāyum mayilum
+kaḷḷu meṉavē karutap peṟumē. ....785
+ñakara akara varukkam muṟṟum.
+
+ñakara ākāra varukkam
+
+ñāḷi yeṉumpeyar naṟavu nāyumām. ....786
+ñāṭpeṉum peyarē pāramum kūṭṭamum
+ceruvu meṉavē ceppuvar pulavar. ....787
+ñāṉa meṉumpeyar kalviyu maṟivun
+tattuva nūluñ cāṟṟap peṟumē. ....788
+ñāṅka reṉumpeyar pakkamu mēlum
+vēlu meṉavē viḷampap peṟumē. ....789
+ñakara ākāra varukkam muṟṟum.
+
+ñakara ekara varukkam
+
+ñeḷḷa leṉumpeyar teruvu mēṉmaiyum
+paḷḷamu meṉavē pakarntaṉar pulavar. ....790
+ñerē leṉumpeyar viraivu moliyumām. ....791
+ñemirta leṉumpeyar muṟitalum parattalum. ....792
+ñekiḻi yeṉumpeyar neruppuṟu viṟakum
+tīyuṭaṉ aṉaṟpoṟi cilampu māmē. ....793
+ñakara ekara varukkam muṟṟum.
+
+ñakara okara varukkam
+
+ñoḷka leṉumpeyar noypaṭu vaṉavum
+iḷaittalu maccak kuṟippōṭu cōmpumām. ....794
+ñakara okara varukkam muṟṟum.
+ñakara varukkat tokuti muṟṟum.
+
+5 vatu takara varukkat tokuti 
+
+takara akara varukkam
+
+taraṇi yeṉumpeyar tarukatir iraviyum
+nilamuñ cayilamu nikaḻttuvar pulavar. ....795
+tamameṉum peyarē rākuvu miruḷumām. ....796
+taṇṭeṉum peyarē taṭiyu mituṉamuñ
+civikaiyiṉ peyarum cerumiku tāṉaiyum
+varampum vīṇaiyuṅ kuḻāyum vaḻaṅkuvar. ....797
+taḻaleṉum peyarē kiḷikaṭi karuviyum
+neruppu meṉavē nikaḻttuvar pulavar. ....798
+taṇṇaṭai yeṉumpeyar maruta nilavūrum
+nāṭu meṉavē navilap peṟumē. ....799
+taṇṭa meṉumpeyar taṇṭā yutamum
+cēṉaiyum yāṉai celvaḻiyun teṇṭittalum. ....800
+taṭameṉum peyarē malaiyum poykaiyum
+perumaiyu makalamu malaiyaṭi vaḻiyum
+vaḷaivuṅ kuḷakkaraip peyarum vaḻaṅkuvar. ....801
+taṭiyeṉum peyarē taṉuvu mulakkaiyum
+tacaiyu muṭumpun taṇṭā yutamum
+vayaloṭu miṉṉum vakuttaṉar pulavar. ....802
+taṉañceya ṉeṉumpeyar cavviya cāciyum
+meyyiṉ māruta vikaṟpatti ṉoṉṟum
+neruppu meṉavē nikaḻttuvar pulavar. ....803
+taḷima meṉumpeyar cayaṉamu mettaiyum
+aḻakiṉ peyaru māku meṉpa. ....804
+tattai yeṉumpeyar muṉpiṟan tāḷum
+kiḷiyu meṉavē kiḷattuvar pulavar. ....805
+taṉuveṉum peyarē caṭamum ciṟumaiyum
+villiṉ peyaru mōrirāciyum viḷampuvar. ....806
+taḷaiyeṉum peyarē tamiḻnūṟ pātamu
+malarmukai muṟukku māṇpāṉ mayirum
+toṭaroṭu cilampun toṭaiyaluñ colluvar. ....807
+taṉameṉum peyarcan taṉamum poṉṉum
+muttiṟap poruḷu mulaiyumāṉ kaṉṟumām. ....808
+taviceṉum peyarē mettaiyun taṭukkum
+palakaiyum pīṭamum pakarntaṉar pulavar. ....809
+taḷameṉum peyarē tāḻiyum cāntamum
+paṭaiyum pūvitaḻp peyarum pakarntaṉar. ....810
+taṇṇa meṉumpeyar tarittaṭā maḻuvum
+orukaṭ paṟaiyu muraikkap peṟumē. ....811
+taṭṭai yeṉumpeyar karaṭikaip paṟaiyum
+kiḷikaṭi kuruviyun tiṉaittāḷu muṇṭamum
+mūṅkilu meṉavē moḻintaṉar pulavar. ....812
+tampa meṉumpeyar meypuku karuviyum
+kampamum paṟṟuk kōṭuṅ karutuvar. ....813
+taṇmai yeṉumpeyar tāḻvum eḷimaiyum
+kuḷircciyum pulavōr kūṟappeṟumē. ....814
+takaṭeṉum peyarē aimai vaṭivum
+ilaiyu meṉavē yiyampuvar pulavar. ....815
+tarāveṉum peyarē caṅkum matukamum. ....816
+taruma rāca ṉeṉumpeyar yamaṉum
+arukaṉum puttaṉum pāṇṭu maintaṉumām. ....817
+taṭṭeṉum peyarē naṭuvaṭ ṭērum
+tirikaiyum paricaiyum pakuttalum taṭuttalum
+vaṭṭamum pūttaṭṭu mutalavum vaḻaṅkum. ....818
+taṉmai yeṉumpeyar taṉmai yiṉiṭamum
+iyalpu meṉavē iyampuvar pulavar. ....819
+taḷiyeṉum peyarē tuḷiyum kōyilum
+taḷanaṭat tiyacamart talamum pukaluvar. ....820
+takaiyeṉum peyarē perumaiyu maḻakum
+aṉpum paṇpu miyalpu māmē. ....821
+taputa leṉumpeyar cātalum kēṭumām. ....822
+tamiḻeṉum peyarē tamiḻiṉ vikaṟpamum
+nīrmaiyu miṉimaiyu nikaḻttiṉar pulavar. ....823
+taṉṉa meṉumpeyar ciṟumaiyāṉ kaṉṟumām. ....824
+tapaṉa ṉeṉumpeyar taḻalu marukkaṉum. ....825
+talameṉum peyarē paccai niṟamum
+ilaiyum puviyum iyampuvar pulavar. ....826
+tacumpeṉum peyarē kuṭamu miṭāvumām. ....827
+taṭṭa leṉpeya rottaṟutta liṉuṭaṉē
+taṭuttaliṉ peyaruñ cāṟṟap peṟumē. ....828
+talaiyeṉum peyarē iṭamum ceṉṉiyum
+vicumpu mutaṉmaiyum viḷampap peṟumē. ....829
+tavaveṉum peyarē mikutiyum kuṟaivumām. ....830
+tanteṉum peyarē cāttirap peyarum
+nūliṉ peyaru nuvalap peṟumē. ....831
+takaimai yeṉumpeyar aḻakum perumaiyum
+iyalpu meṉavē yiyampap peṟumē. ....832
+taṉiyeṉum peyarop piṉmaip peyarun
+taṉimaiyiṉ peyaruñ cāṟṟap peṟumē. ....833
+taṉṉai yeṉumpeyar muṉpiṟan tāṉum
+aṉṉaiyum ceviliyu māku meṉpa. ....834
+takara akara varukkam muṟṟum.
+
+takara ākāra varukkam
+
+tāṇu veṉumpeyar caṅkaraṉ peyarum
+tūṇu malaiyu nilaiyuñ colliya
+āvu riñcutaṟip peyaru māvē. ....835
+tāti yeṉumpeyar aṭimaiyum paraṇiyum. ....836
+tāla meṉumpeyar kūttaṟ kamukoṭu
+ñālamum paṉaiyu muṇkalamu nāvumām. ....837
+tārai yeṉumpeyar vaḻiyum viḻiyum
+oḻuṅkuñ ciṉṉamu muraikkap peṟumē. ....838
+tāma meṉumpeyar tārum pūvum
+maṇivaṭap peyaru nakaramuṅ kayiṟum
+oḷiyuṅ koṉṟaiyu miruppiṭap potuvumām. ....839
+tāra meṉumpeyar tarāvum nāvum
+vallicaip peyarum vāḻkkait tuṇaiviyum
+arumpaṇṭap peyarum yāḻnarampi loṉṟum
+veḷḷiyu meṉavē viḷampap peṟumē. ....840
+tāṉai yeṉumpeyar cēṉaiyun tukilum
+āyutap potuvu māku meṉpa. ....841
+tāreṉum peyarpūn tāmamu malarum
+māviṉuk kaṇiyuṅ kiṇkiṇi mālaiyum
+oḻuṅkōṭu tūcip paṭaiyaiyu muraippar. ....842
+tāḻeṉum peyarē kataviṭu tāḻum
+patamu muyaṟciyum pakarap peṟumē. ....843
+tā஦ṟuṉum peyarmarak kulaiyu maḷavum
+viṟkutaip peyaru muṭkōlum viḷampuvar. ....844
+tāteṉum peyarē yeḻuvakait tātum
+poṉmuta lēḻum puvimuta laintum
+kāvik kalluṅ karutap peṟumē. ....845
+tāṇṭava meṉumpeyar tāvalum kūttumām. ....846
+tāṉa meṉupeyar tarumak koṭaiyum
+palvakai yutaviyu matamu nīrāṭaluñ
+cuvarkkamum pulavōr collap peṟumē. ....847
+tāḻai yeṉumpeyar nāḷi kēramum
+kaitaiyiṉ peyaruṅ karutap peṟumē. ....848
+tāveṉum peyarē pakaiyum keṭutalum
+pelamum varuttamum tāṇṭutaṟ peyarumām. ....849
+tāmpeṉum peyarē tāmaṇik kayiṟumām. ....850
+tāpara meṉumpeyar maramuṭaṉ malaipōl
+niṟpaṉa yāvaiyu muṭampu nikaḻttuvar. ....851
+tāci yeṉumpeya riyama ṉāḷum
+toḻumpu ceypeṇṇiṉ peyaruñ colvar. ....852
+tāṭeṉum peyarē talaimaiyum valiyumām. ....853
+tāḷi yeṉumpeyar tāḷip putalum
+paṉaiyu meṉavē pakarntaṉar pulavar. ....854
+takara ākāra varukkam muṟṟum.
+
+takara ikara varukkam
+
+tiṅka ḷeṉumpeyar matiyu mātamumām. ....855
+tikaiyeṉum peyarē ticaiyuñ cuṇaṅkumām. ....856
+titiyeṉum peyarnilai pēṟum pakkamum
+kāttalu meṉavē karutuvar pulavar. ....857
+tiṇaiyeṉum peyarē kulamum oḻukkamum
+aintiṇaip peyaru māku meṉpa. ....858
+tiṭṭai yeṉumpeyar tiṇṇaiyu muralum
+mēṭu meṉavē viḷampuvar pulavar. ....859
+tikiri yeṉumpeyar tērun tērāḻiyum
+malaiyu mūṅkilum vaṭṭa vaṭivum
+cakkaramu nēmip puḷḷum cāṟṟuvar. ....860
+tilameṉum peyarē yeḷḷu mañcāṭiyum. ....861
+tiruveṉum peyarē ciṟappum celvamum
+kamalaiyu meṉavē karutap peṟumē. ....862
+tirital eṉumpeya rulāvuṅ keṭalumām. ....863
+tiḷait taleṉupeya raṉupavap peyarum
+niṟaiviṉ peyarum neruṅkutaṟ peyarumām. ....864
+takara ikara varukkam muṟṟum.
+takara īkāra varukkam
+tīyeṉum peyarē tīmaiyum kaṉalum
+narakamum eṉavē navilap peṟumē. ....865
+tīviṉai eṉumpeyar pāvamum koṭumaiyum ....866
+tīrtta meṉumpeyar tiruviḻā vuṭaṉē
+puṇṇiya tīrttap peyarum pukaluvar. ....867
+tīrtta ṉeṉumpeyar tēvaṉum kuruvumām. ....868
+takara īkāra varukkam muṟṟum.
+
+takara ukara varukkam
+
+tuṇaṅkaṟa leṉṉum peyartiru viḻāvum
+iruḷu meṉavē yiyampuvar pulavar. ....869
+tuṭiyeṉum peyarē kāla nuṭpamum
+ciṟṟēla mumēḻ mātar niruttamum
+ciṟupaṟai yuṅkū tāḷamum ceppuvar. ....870
+tutti yeṉumpeyar mulaiyiṉ cuṇaṅkum
+pāmpiṉ paṭattiṉ poṟiyumōr putalumām. ....871
+tuṇṭa meṉumpeyar cāraip pāmpum
+kaṇṭamu mukamu mūkkuṅ karutavar. ....872
+turutti yeṉumpeyar āṟṟiṭaik kuṟaiyum
+carumamu meṉavē cāṟṟuvar pulavar. ....873
+tukaḷeṉum peyarnuṇ poṭiyuṅ kuṟṟamum. ....874
+tuvakkeṉum peyarē tōlum piṇakkumām. ....875
+tutta meṉumpeyar yāḻi ṉarampum
+eḻuvakai yiṉōrvi kaṟpamum vayiṟum
+pālumōr maruntum pakarap peṟumē. ....876
+tuppeṉum peyarē tuṇaikkā raṇamum
+arakku māyutamum pelamum pavaḷamum
+neyyum polivum aṉupavap peyarumām. ....877
+turōṇa meṉumpeyar tumpaiyuñ cimpuḷum
+patakkoṭu kākamuñ cilaiyum pakaruvar. ....878
+tuṇiyeṉum peyarē tuṇṭamuñ cīraiyum
+cōtināṭ peyarum colluvar pulavar. ....879
+tumpi yeṉumpeyar curaiyum yāṉaiyum
+vaṇṭu matuvum vaḻaṅkap peṟumē. ....880
+tuḷiyeṉum peyarmaḻait tuḷipeṇ ṇāmaiyām. ....881
+tuñca leṉappeyar nilaipēṟu muṟakkamum
+maraṇamu meṉavē vaḻaṅkap peṟumē. ....882
+tuṇaiyeṉum peyarē yuḻavum cakāyamum
+uvamaiyu muvamaiyum uraittaṉar pulavar. ....883
+tumpeṉum peyarē tōṭuñ cimpuḷum. ....884
+tuvaiyeṉum peyarpiṇ ṇākkum iṟaicciyum
+parukuva puḷiṅkaṟip peyarum pakaruvar. ....885
+tuṉiyeṉum peyarē pulavi nīṭutalum
+kōpamum variyuṅ kūṟuvar pulavar. ....886
+tuṉṉa leṉumpeyar kuṟukaluñ ceṟivumām. ....887
+tuṇaṅkai yeṉumpeyar tiruviḻā vuṭaṉē
+meykkūt teṉavum viḷampuvar pulavar. ....888
+tuḷumpa leṉumpeya ralaitalun timiṟalum. ....889
+tuṇita leṉumpeyar tuṇipaṭaṟ peyarum
+teḷivu meṉavē ceppap peṟumē. ....890
+takara ukara varukkam muṟṟum.
+
+takara ūkāra varukkam
+
+tūmpeṉum peyarē yuṭṭuḷai vaṭivum
+nīrnuḻai yiṭamu marakkālu mūṅkilum. ....891
+tūceṉum peyarē tūcip paṭaiyum
+purōcaik kayiṟum puṭavaiyu miyāṉaiyum. ....892
+tūveṉum peyarē cuciyu miṟaicciyum
+paṟṟuk kōṭum pakarap peṟumē. ....893
+tūriya meṉumpeyar pēreru tuṭaṉē
+muracamu meṉavē moḻiyap peṟumē. ....894
+tūkkeṉum peyarē yuṟiyun tulāmum
+kūttu mārāytaluṅ kūṟucoṟ kalaiyumām. ....895
+tūṅka leṉumpeyar tuyilum cōmpuṅ
+kuṟaivun tantiyuṅ kūttiṉ peyarumām. ....896
+takā ūkāra varukkam muṟṟum.
+
+takara ekara varukkam
+
+teyveṉum peyarē kolaiyun teyvamum. ....897
+teṉṉeṉum peyarē teṟku maḻakum
+kaṟpuṭa ṉicaiyu milāṅkalip peyarumām. ....898
+tevveṉum peyarē pakaiyuñ camarumām. ....899
+teviṭṭa leṉumpeyar niṟaitalu moliyum
+kāṉṟalu maṭaittiṭaṟ peyaruṅ karutuvar. ....900
+teyva meṉumpeyar puttēḷum vācamu஡m. ....901
+takara ekara varukkam muṟṟum.
+
+takara ēkāra varukkam
+
+tēḷeṉum peyarē terukkā luṭaṉē
+viruccika rāciyum aṉuṭamum viḷampuvar. ....902
+tēcika ṉeṉumpeyar kuruvum vaṇikaṉum
+tēcān tiriyaiyuñ ceppap peṟumē. ....903
+tēmeṉum peyarē tittippum vācamum
+tēcamun ticaiyu miṭamuñ ceppuvar. ....904
+tēcika meṉumpeyar ticaiccollu moḷiyum
+arum poṉṉuṅ kūttiṉ vikaṟpum aḻakumām. ....905
+tērtal eṉumpeyar koḷkaiyiṉ peyarum
+ārāy talumē yākum eṉpa. ....906
+tēṉeṉum peyarē vaṇṭu matuvumām. ....907
+takara ēkāra varukkam muṟṟum.
+
+takara aikāra varukkam
+
+taitta leṉumpeyar tuṉṉattiṉ peyarum
+taittiṭu toḻiluñ cāṟṟap peṟumē. ....908
+taiya leṉumpeyar peṇṇuṭa ṉaḻakumām. ....909
+taiyeṉum peyarē pūca nāḷum
+makara mātattiṉ peyarum vaḻaṅkum. ....910
+takara aikāra varukkam muṟṟum.
+
+takara okara varukkam
+
+toḻuveṉum peyarē yirēvati nāḷum
+uḻalait toḻuvu muraittaṉar pulavar. ....911
+toṭuveṉum peyarē tōṭṭamum vañcamum
+maruta nilamum vaḻaṅkap peṟumē. ....912
+toyyi leṉumpeyar cēṟum iṉpamum
+tuyiru mulaimēṟ ṟoyyilu muḻuvumām. ....913
+totteṉum peyarpūṅ kottun toḻumpumām....914
+toṟuveṉum peyarē tōḻamu niraiyum
+tokutiyu meṉavē colluvar pulavar. ....915
+toṭiyeṉum peyarkai vaḷaiyu mōrpalamum
+kaṅkaṇap peyaruṅ karutap peṟumē. ....916
+toṅka leṉum peyarpīlik kuñcamum
+veṇkuṭaip peyaru mālaiyun tūkkamum. ....917
+toṇṭai yeṉumpeyar yāṉait tutikkaiyum
+ātoṇṭai yiṉoṭu kōvaiyu māmē. ....918
+toṇṭeṉum peyarē toḻumpum paḻamaiyum
+oṉpatu nuḻaivaḻip peyaru mōtuvar. ....919
+toṭṭa leṉumpeyar tōṇṭutaṟ peyarum
+toṭutaṟ peyarum uṇavum colluvar. ....920
+toṭuttal eṉumpeyar piṇittalum vaḷaittalum
+paṟṟuta leṉavum pakarap peṟumē. ....921
+toḻuti yeṉumpeyar puḷḷoliyuṅ kūṭṭamum....922
+takara okara varukkam muṟṟum.
+
+takara ōkāra varukkam
+
+tōṇi yeṉumpeyari rēvati nāḷum
+nīruñ cēṟu meyila tuṟuppum
+teppamu mōṭamum pakaḻiyuñ ceppuvar. ....923
+tōṭṭi yeṉumpeyar aṅkucap paṭaiyum
+katavu meṉa karutap peṟumē. ....924
+tōṉṟa leṉumpeyar cutaṉu nātaṉumām. ....925
+tōleṉum peyarē tōlviyum yāṉaiyum
+kēṭakap palakaiyuṅ kiḷattiṭu carumamum
+iyāppiṉōr vaṉappum iyampuvar pulavar. ....926
+tōṟṟa meṉumpeyar ēṟṟamum piṟappum
+āṟṟalum uṇṭāk kutalum uyarcciyun
+tōṉṟutaṟ peyarum collap peṟumē. ....927
+tōṭeṉum peyarē paṉaimaṭal pōlavum
+pūvi ṉitaḻum tokutiyum pukaluvar. ....928
+tōḷeṉum peyarē tuṇaiyum puyamumām. ....929
+tōrai yeṉumpeyar mūṅki lariciyum
+kaivarai yōṭunel vikaṟpamum karutuvar. ....930
+takara ōkāra varukkam muṟṟum.
+
+takara oḷakāra varukkam
+
+teḷavai yeṉumpeyar tāyumuṉ piṟantāḷu
+mūtēviyuñ cāṟṟap peṟumē. ....931
+takara oḷakāra varukkam muṟṟum.
+takara varukkat tokuti muṟṟum.
+
+6 vatu nakara varukkat tokuti
+
+nakara akara varukkam
+
+nanti yeṉum peyar īcaṉu miṭapamum
+ciṟupē rikaiyoṭu cekkāṉ peyarumām. ....932
+nalameṉum peyarē nallupa kāramum
+cukamum viruccika rāciyum colluvar. ....933
+navameṉum peyarē yoṉpatuṅ kēṇmaiyum
+putumaiyuṅ kārkā lamumeṉap pukaluvar. ....934
+naṭaiyeṉum peyarē vaḻiyu moḻukkamum. ....935
+nakameṉum peyarē marappotup peyarum
+uciru malaiyum uraikkap peṟumē. ....936
+navira meṉumpeyar malaiyi ṉucciyum
+malaiyum puṉmaiyum vakuttaṉar pulavar. ....937
+nayantō ṉeṉumpeyar naṭpuṭai yōṉum
+kaṇavaṉu meṉavē karutap peṟumē. ....938
+nakaiyeṉum peyarē makiḻcciyum oḷiyum
+eyiṟum cirippum iyampuvar pulavar. ....939
+navireṉum peyarē yāṇpāṉ mayirum
+takkēci yicaiyu marutayāḻt tiṟamum
+vāḷā yutamum vaḻaṅkap peṟumē. ....940
+naṉaiyeṉum peyarē pūviṉ mukaiyum
+naṟavu meṉavē naviluvar pulavar. ....941
+naviya meṉumpeyar maḻuvum kuṭāriyum. ....942
+nayameṉum peyarē naṉmaiyuñ cukamumām. ....943
+naraiyeṉum peyarē āṉi ṉēṟum
+veṇṇiṟak kutiraiyu mikupeṟu nāraiyum
+kavariyun tavaḷa niṟamum karutuvar. ....944
+naḷiyeṉum peyarē cītamuñ ceṟivum
+perumaiyu muraippar peritu ṇarntērē. ....945
+naranta meṉumpeyar nārattai maramum
+kattū riyumeṉak karutap peṟumē. ....946
+nanteṉum peyarē nattaiyuñ caṅkumām. ....947
+naṭalai yeṉumpeyar vañcamum poyyumām. ....948
+nanta leṉumpeyar ākkamum kēṭumām. ....949
+nakareṉum peyarē nakaramum vīṭumām. ....950
+natta meṉumpeyar nakariṉ keṭutiyum
+iravum paṇilamu miruḷum iyampuvar. ....951
+naṉṟeṉum peyarē naṉmaiyum peritumām. ....952
+naṭṭa meṉumpeyar naṭaṉamum kēṭumām. ....953
+navilal eṉumpeyar paṇṇutal collutal. ....954
+nakka leṉumpeyar nakaiyun tiṉṟalum. ....955
+nakka ṉeṉumpeyar civaṉum arukkaṉum
+niṉmā ṇiyumeṉa nikaḻttuvar pulavar. ....956
+naṉpeṉum peyarē akalamun teḷivumām. ....957
+nayaṉeṉum peyarē iṉpamum makiḻvum
+payaṉu naṉmaiyum pakarap peṟumē. ....958
+nakara akara varukkam muṟṟum.
+
+nakara ākāra varukkam
+
+nāḻi yeṉumpeyar uṭṭuḷai vaṭivum
+aḷakku nāḻiyum pūraṭ ṭātiyum
+nāḻikaip peyaru naviṉṟaṉar pulavar. ....959
+nāka meṉumpeyar naṉmata yāṉaiyum
+veṟpuṅ kaṭavuḷa rulakuṅ kāriyamum
+orumarap peyarum kuraṅkum pāmpum
+naṟṟūcum puṉṉaip peyaru naviluvar. ....960
+nāvitaṉ eṉumpeyar pūra nāḷum
+kārttikai nāḷu mayirviṉai ñaṉumām. ....961
+nāñcil eṉumpeyar kalappaip paṭaiyum
+eyilu ṟuppumeṉa viyampap peṟumē. ....962
+nāṭṭa meṉumpeyar nayaṉamum vāḷum
+paṇṇiṉ vikaṟpamum pakarap peṟumē. ....963
+nāri yeṉumpeyar naṟavum paṉṉāṭaiyum
+peṇṇuñ cilaināṇ peyarum pēcuvar. ....964
+nāppaṇ eṉumpeyar naṭuvaṭ ṭērum
+naṭuvu meṉavē navilap peṟumē. ....965
+nāṉa meṉumpeyar ñāṉamum pācamum
+pūcu vaṉavum puṉalā ṭutalum
+kattū riyumeṉak karutap peṟumē. ....966
+nāṭi yeṉumpeyar nāḻikai narampumām. ....967
+nākeṉum peyarē yīṉā viḷamaiyum
+iḷamarak kaṉṟum caṅkum nattaiyum
+orucār vilaṅkiṉ peṇpālu mōtuvar. ....968
+nā஦ṇuṉum peyarē mātar maṅkalamum
+pūṇu milaccaiyuṅ kayiṟum pukaluvar. ....969
+nāreṉum peyarē aṉpum kayiṟumām. ....970
+nāṟutal eṉumpeyar uṇṭātal maṇamumām. ....971
+nāṉmukaṉ eṉumpeyar arukaṉum piramaṉum. ....972
+nakara ākāra varukkam muṟṟum.
+
+nakara ikara varukkam
+
+niṟaiyeṉum peyartulā rācip peyarum
+tulaiyu nīrccālu maḻiyā nilaimaiyum. ....973
+niciyeṉum peyarē kaṅkuṟ poḻutum
+mañcaḷum poṉṉum vakukkap peṟumē. ....974
+nitampa meṉumpeyar malaiyiṉ pakkamum
+alkuliṉ peyaru māku meṉpa. ....975
+niyamam eṉumpeyar niyatiyu nakaramum
+teruvum aṅkāṭiyun tēvarā laiyamum
+niccayap peyarum nikaḻttuvar pulavar. ....976
+nirumitta leṉṉum peyarā rāytalum
+paṭaittalu meṉavē pakarntaṉar pulavar. ....977
+niṟameṉum peyarē niṟaṅkaḷu mārpum
+kāntiyu meṉavē karutuvar pulavar. ....978
+nirappu eṉumpeyar kuṟaipāṭum vaṟumaiyum. ....979
+niḻaṟṟa leṉumpeyar niḻaṟceya luṭaṉē
+nuṇukka meṉavē nuvaṉṟaṉar pulavar. ....980
+nakara ikara varukkam muṟṟum.
+
+nakara īkāra varukkam
+
+nīli yeṉumpeyar pālaik kiḻattiyum
+karuniṟa mumoru putaluṅ karutuvar. ....981
+nīreṉum peyarē nīrmaiyum puṉalum
+pūrāṭa nāḷum pukalap peṟumē. ....982
+nīpa meṉumpeyar uttiraṭ ṭātiyum
+nimittamum kaṭampu nikaḻttuvar pulavar. ....983
+nīvi yeṉumpeyar āṭaiyun tuṭaittalum
+neruṅkiya koycakap peyaru nikaḻttuvar. ....984
+nakara īkāra varukkam muṟṟum.
+
+nakara ukara varukkam
+
+nutaleṉum peyarē neṟṟiyum puruvamum. ....985
+nuṇaṅka leṉumpeyar nuṇmaiyun tēmalum. ....986
+nuṉiyeṉum peyarē nuṇmaiyum nuṉiyumām. ....987
+nuṇavai yeṉumpeyar nuṇpiṇ ṭiyiṉuṭaṉ
+eṇṇō laiyumeṉa iyampap peṟumē. ....988
+nuvaṇai yeṉum peyar tiṉaiyiṉ piṇṭiyum
+nūlu nuṇmaiyu nuvaṉṟaṉar pulavar. ....989
+nakara ukara varukkam muṟṟum.
+
+nakara ūkāra varukkam
+
+nūlō reṉumpeya rantaṇa ruṭaṉē
+mantiri yarpeyar pulavōrum vaḻaṅkuvar. ....990
+nūḻi leṉumpeyar yāṉaiyuṅ kōṟalum
+koṭiyiṉ peyarum koṭikkoṟ ṟāṉum
+poṭiyiṉ peyarum pukaṉṟaṉar pulavar. ....991
+nūleṉum peyarē vēta nūloṭu
+cāttira vikaṟpamum tantum pēcuvar. ....992
+nūṇa meṉumpeyar kuṟaivu niccayamumām. ....993
+nakara ūkāra varukkam muṟṟum.
+
+nakara ekara varukkam
+
+neṟiyeṉum peyarē nītiyum vaḻiyumām. ....994
+neṟṟi yeṉumpeyar neṭumpaṭai yuṟuppum
+nutalu meṉavē nuvaṉṟaṉar pulavar. ....995
+neytaliṉ peyarōr nilamum kaṭalum
+neytaṟ pūvoṭu cāppaṟai nikaḻttuvar. ....996
+nakara ekara varukkam muṟṟum.
+
+nakara ēkāra varukkam
+
+nēttira meṉappeyar paṭṭiṉ vikaṟpamum
+kaṇṇu meṉavē karutap peṟumē. ....997
+nēya meṉumpeyar neyyum eṇṇeyum
+aṉpiṉ peyaru māmeṉa vuraippar. ....998
+nēmi yeṉumpeyar tikiriyum vaṇṭilum
+pūmiyum puṇariyum pukalap peṟumē. ....999
+nēreṉum peyarē koṭuttalum pātiyum
+taṉimaiyum nikarum nuṭpamuṭaṉ parañcamamu
+mikutiyun talaippaṭal vilaiyu māmē. ....1000
+nakara ēkāra varukkam muṟṟum.
+
+nakara okara varukkam
+
+nocci yeṉumpeyar cintu vāramum
+ciṟṟūru matilum eyil kāttalumām. ....1001
+noṭiyeṉum peyarkai noṭiyum vārttaiyum. ....1002
+noṟileṉum peyarē nuṭakkamum viraivum
+oṭukkamu meṉavē yuraikkap peṟumē. ....1003
+nakara okara varukkam muṟṟum.
+
+nakara ōkāra varukkam
+
+nōṉāmai yeṉṉum peyarpo ṟāmaiyum
+tavampaṇṇā maiyuñ cāṟṟuvar pulavar. ....1004
+nōkkeṉum peyarē yaḻakum viḻiyumām. ....1005
+nōṟṟa leṉumpeyar poṟaiyum tavamumām. ....1006
+nōṉā reṉumpeyar tavamil lōruṭaṉ
+pakaiñartam peyarum pakarntaṉar pulavar. ....1007
+nakara ōkāra varukkam.
+
+nakara oḷakāra varukkam
+
+neḷaviya meṉumpeyar marakkalap peyarum
+māṉu meṉavē vaḻaṅkap peṟumē. ....1008
+nakara oḷakāra varukkam muṟṟum.
+nakara varukkat tokuti muṟṟum.
+
+7 vatu pakara varukkat tokuti 
+
+pakara akara varukkam
+
+pakuti yeṉumpeyar parivē ṭattuṭaṉ
+vaṭṭa vaṭivu miraviyu nēmiyum. ....1009
+pakaleṉum peyarpakaṟ pōtum pirivum
+naṭuvum paraṇi nāḷum iyampuvar. ....1010
+paccai yeṉumpeyar pacumaiyum putaṉum
+tōlum ilāpamu marakata maṇiyumām. ....1011
+paṅkeṉum peyarē pakuttalum caṉiyum
+muṭamum pātiyum moḻintaṉar pulavar. ....1012
+pakka meṉumpeya raruku miṟakun
+titiyu maṇmaiyuñ ceppap peṟumē. ....1013
+patameṉum peyarē pātamum cōṟum
+varicaiyum viḻāvum vaḻiyum vārttaiyum
+uṇavu mīramuñ celviyuñ cēmamum
+poḻutu meṉavē pukaṉṟaṉar pulavar. ....1014
+paṇiyeṉum peyarē paṇamuṭaip pāmpum
+toḻilun toḻilpaṭu kalaṉuñ colluvar. ....1015
+payameṉum peyarē pālum calilamu
+maccamuma mutumi lāpamu māmē. ....1016
+paravai yeṉumpeyar parappuṅ kaṭalumām. ....1017
+payōtara meṉumpeyar mēkamu mulaiyumām. ....1018
+paṉiyeṉum peyarē tuṉpamu naṭukkamum
+accamuṅ kuḷircciyu mimamu māmē. ....1019
+pakava ṉeṉumpeyar paramaṉu mālum
+piramaṉum arukaṉum kuruvum puttaṉum. ....1020
+paṇṇava ṉeṉumpeyar muṉiyum tēvaṉum
+kuruvun tiṟalōṉ peyaruṅ kūṟuvar. ....1021
+pacuveṉum peyarveṇ peṟṟamu muyirumām. ....1022
+paṭiyeṉum peyarē pakaiyum kuṇamum
+puvaṉamu mulakamum pukalap peṟumē. ....1023
+paṭappai yeṉumpeyar nāṭu nakaramum
+tōṭṭamum pacuniraip peyaruñ colluvar. ....1024
+paṭṭeṉum peyarē paṭṭiṉ vikaṟpamum
+ciṟṟūrp peyarum tukiluñ ceppuvar. ....1025
+paḷḷi yeṉumpeyar tavattō riṭamum
+tuyiṟalum pāyaluñ ciṟṟūrp peyarum
+kōyiliṉ peyaruṅ kūṟap peṟumē. ....1026
+paṭṭa meṉumpeyar mēmpaṭu pataviyum
+vaḻiyuṅ kavari māvun tukilum
+vāyilu matakari mukapa ṭāmum
+vilaṅku tuyiliṭamum paṭamum viḷampuvar. ....1027
+patukkai yeṉumpeyar pāṟaiyu mēṭum
+ciṟutū ṟumeṉac ceppuvar pulavar. ....1028
+patalai yeṉumpeyar malaiyun tāḻiyum
+orukaṭ paranta vāyppaṟaiyu mōtuvar. ....1029
+paṇaiyeṉum peyarē paruttalu ḻūṅkilum
+maruta nilamum vayalu muracamum
+kutiraiyiṉ pantiyu marattiṉ kompumām. ....1030
+paṇṇai yeṉumpeyar vayalum vāviyum
+capaiyu makaḷir viḷaiyā ṭiṭamum
+vilaṅku tuyiliṭamum viḷampuvar pulavar. ....1031
+paṭuveṉum peyarē marattiṉ kulaiyum
+matuvum naṉmaiyum vāviyu māmē. ....1032
+payampeṉum peyarē pakaṭupaṭu kuḻiyum
+nīrnilaip peyaru nikaḻttiṉar pulavar. ....1033
+paṅka meṉumpeyar cēṟum tukilum
+piṉṉamun tīviṉaip peyarum pēcuvar. ....1034
+paricu meṉpeyar kaṇaippaṭaik kalamum
+puricai yuḷḷuyarnta nilamum akaḻiyum
+mēṭaiyu meṉavē viḷampuvar pulavar. ....1035
+paṇavai yeṉumpeyar paraṇuṅ kaḻutumām. ....1036
+paṭaiyeṉum peyarē parimāk kalaṉaiyum
+āyutap potuvu maṭarkoṭuñ cēṉaiyum
+kaṇpaṭai yuṭaṉē kalappaiyuṅ karutuvar. ....1037
+palameṉum peyarē paḻamum kiḻaṅkum
+cēṉaiyum lāpamum niṟaiyum ceppuvar. ....1038
+paṅki yeṉumpeyar āṇpāṉ mayirum
+aḵṟiṇaip potuviṉ peyaru māmē. ....1039
+paṇṭa meṉumpeyar paṇṇi kārattuṭaṉ
+viṇṭoḷir poṉṉum viḷampap peṟumē. ....1040
+paṭalikai yeṉṉum peyarperum pīrkkum
+kaimaṇi vaṭṭamum pūttaṭṭiṉ peyarumām. ....1041
+paṭaṅkeṉ peyarperuṅ koṭiyu mēṟkaṭṭiyum. ....1042
+paṭalai yeṉumpeyar vācik kōvaiyum
+paṭartalun toṭaiyalum parantavāyp paṟaiyumām.....1043
+paṇṇeṉum peyarē parimāk kalaṉaiyum
+pāṭṭiṉ paṇṇum pakarap peṟumē. ....1044
+paṟaiyeṉ peyarpuḷḷi ṉiṟakum paṇaiyum
+vacaṉamu meṉavē vaḻaṅkap peṟumē. ....1045
+pakaḻi yeṉumpeyar pakaḻik kutaiyum
+kaṇaiyu meṉavē karutap peṟumē. ....1046
+parameṉum peyarē parimāk kalaṉaiyum
+meyyu meypuku karuviyum pāramum
+muṉpu mēlu moḻintaṉar pulavar. ....1047
+paḻaṅkaṇe ṉumpeya rōcaiyum tuṉpamum. ....1048
+paṭiṟeṉum peyarē poyyoṭu kaḷavumām. ....1049
+panta meṉumpeyar cīriṉ toṭarcciyum
+aḻakum tiraṭciyum kiḷaiyoṭu kaṭṭumām. ....1050
+pattira meṉumpeya raḻakum naṉmaiyum
+curikaiyum ciṅkā caṉamum puḷḷiṟakum
+ilaiyu meṉavē iyampap peṟumē. ....1051
+paliyeṉum peyarē tēva pūcaiyum
+piccaiyum palittalum pēcuvar pulavar. ....1052
+pariyeṉum peyarē pātu kāttalum
+paruttiyuñ cumattaluṅ kutiraiyum perumaiyum. ....1053
+pakaṭeṉum peyarē perumaiyu merutum
+erumai yāṇpeyarun tōṇiyuṅ kaḷiṟumām. ....1054
+pataṅka meṉumpeyar viṭṭiṟ paṟavaiyum
+puṭpotup peyarum pukalap peṟumē. ....1055
+payaleṉum peyarcciṟ ṟāḷum paḷḷamum
+pantiyu meṉavē pakaruvar pulavar. ....1056
+paṇila meṉumpeyar calañcalap peyarum
+caṅkiṉ peyaruñ cāṟṟuvar pulavar. ....1057
+pappeṉum peyarē parappum uvamaiyum. ....1058
+panteṉum peyarkan tukamum kaṭṭum
+nīrtūvuñ ciṟutu ruttiyum nikaḻttuvar. ....1059
+pavaṉa meṉumpeyar pāruṅ kāṟṟum
+irāciyum kōyilu nāṭu millamumām. ....1060
+paṭameṉum peyarē pāmpiṉ paṇamum
+cittirap paṭamum cilaiyum koṭiyumām. ....1061
+paṟampeṉum peyarē malaiyu mulaiyumām. ....1062
+parata reṉumpeyar taṉavaiciyar pērum
+neytaṉila mākkaḷu nikaḻttap peṟumē. ....1063
+pavameṉum peyarē pāvamum piṟappumām. ....1064
+paṇṇal eṉumpeyar collu nerukkamum
+paruttiyiṉ peyarum pakarap peṟumē. ....1065
+payireṉum peyarē yoliyum paiṅkūḻum
+vitantu kaṭṭiya vaḻakkum puṭkuralum
+vilaṅkiṉ kuralum viḷampuvar pulavar. ....1066
+paṭareṉum peyarē pariyum nōyum
+vīraru niṉaittalu naṭaiyum viḷampuvar. ....1067
+pavittira meṉumpeyar taruppaiyuñ cuciyumām. ....1068
+paṭiva meṉumpeyar vaṭivamu nōṉpumām. ....1069
+paṭutta leṉumpeya roliyu muṇṭātalum
+pūttalu miṉmaip peyarum pukaluvar. ....1070
+patiyeṉum peyarē kaṇavaṉum nākamum
+talaivaṉu meṉavē cāṟṟap peṟumē. ....1071
+patti yeṉpeyar vaḻipāṭu moḻuṅkum
+aṭaippatu muṟaimaiyu māmeṉa viyampuvar. ....1072
+parittal eṉumpeyar aṟuttalum veṭṭalum
+iraṅkalu maṉpum icaikkap peṟumē. ....1073
+pañca meṉumpeyar aintuñ ciṟumaiyum. ....1074
+paṉuva leṉumpeyar ceyyuḷum nūlumām. ....1075
+parāka meṉpeyar malarttātuvu mirēṇuvum. ....1076
+palla meṉumpeyar pāṇamum karaṭiyum
+kaṇakkilōr kuṇippum karutap peṟumē. ....1077
+pattiri yeṉumpeyar paṟavaiyum pariyumām. ....1078
+paṭṭikai yeṉumpeyar paṇaiyu mīramum
+kaccu meṉavē karutap peṟumē. ....1079
+pariveṉum peyarē yiṉpamun tuṉpamum
+aṉpu mitaṉpeya rāmeṉa viyampuvar. ....1080
+paṟpa meṉumpeyar patumamun tūḷumām. ....1081
+paraṇi yeṉumpeyar taruma ṉāḷum
+aḻuntiṭu kalaṉu matakarip peyarumām. ....1082
+paṉaiyeṉum peyarē pōntaiyiṉ taruvum
+anuṭanāṭ peyaru māku meṉpa. ....1083
+paṇameṉum peyarē pāmpiṉ paṭamum
+aravuñ cempoṟ kācu māmē. ....1084
+pakara akara varukkam muṟṟum.
+
+pakara ākāra varukkam
+
+pārati yeṉumpeyar paṉuva lāṭṭiyum
+tōṇiyu meṉavē collap peṟumē. ....1085
+pāṇṭi leṉumpeya riṭapa rāciyum
+cakaṭamu mūṅkilun tāṅkuṟu civikaiyum
+kāḷaiyuṅ kaṭṭilum viḷakkiṉ ṟakaḷiyum
+vaṭṭamu meṉavē vaḻaṅkap peṟumē. ....1086
+paraṇi yeṉumpeyar patiyoṭu cērnta
+cōlaiyu nāṭuṅ kāṭu nīrum
+pāṭaṟ palliyamum pāṭṭumō ricaiyum
+kaiyum poḻutu nīṭṭittaluṅ karutuvar. ....1087
+pārā vāra meṉumpeyar kaṭalum
+kaṭaṟkaraip peyaruṅ karutap peṟumē. ....1088
+pāceṉum peyarē pacumaiyu mūṅkilum. ....1089
+pāreṉum peyarē tēriṉ parappum
+urōkiṇip peyarum puvaṉiyu muraippar. ....1090
+pāmpeṉum peyarē paṉṉaka vikaṟpamum
+varampiṉ peyarum vaḻaṅkap peṟumē. ....1091
+pāri yeṉumpeyar pāriṉ peyaruṅ
+kaṭṭiliṉ peyarunal lāṭaiyu munnīrum
+maṉaivi peyarumōr vaḷḷalu māmē. ....1092
+pāṭi yeṉumpeyar ūru nāṭum
+nakara mumpaṭai vīṭu naviluvar. ....1093
+pāṉal eṉumpeyar karuniṟak kuvaḷaiyum
+maruta nilamum vayalum vaḻaṅkum. ....1094
+pātti yeṉumpeyar pakuttalum vīṭum
+ciṟuceyyu meṉṉac ceppuvar pulavar. ....1095
+pāḻi yeṉumpeyar tavattōr cālaiyum
+nakaramum pelamum naṇṇala rūrum
+paṭukkaiyum pāyalum pāḻpaṭu poruḷum
+malaimuḻai vilaṅku tuyiliṭamu māmē. ....1096
+pāleṉum peyarē pakuttalum pakkamum
+kīramum iyalpum iṭamuṅ kiḷattuvar. ....1097
+pācaṉa meṉumpeyar pāṇṭamuñ cuṟṟamum
+uṇkalap peyarum uraikkap peṟumē. ....1098
+pāṭeṉum peyarē pakkamum paṭutalum
+perumaiyuñ catta voliyum pēcuvar. ....1099
+pālikai yeṉumpeyar paṭṭavāḷ muṭṭum
+ataramum vaṭṭap peyaru māmē. ....1100
+pākeṉum peyarē pākkiṉ peyarum
+pakuttalum kuḻampum pālum pākaṉum
+carukkaraip peyaruñ cāṟṟap peṟumē. ....1101
+pāḷita meṉum peyar kaṇṭa carkkaraiyum
+kuḻampum paṭṭā ṭaiyumē kūṟuvar. ....1102
+pāṇameṉum peyar paṭṭiṉ vikaṟpamum
+ampum pavaḷa vaṇṇak kuṟiñciyumām. ....1103
+pāka meṉumpeyar pātiyum piccaiyum
+nāvalar kavitaip pākamum naviluvar. ....1104
+pāka leṉumpeyar palāviṉ taruvum
+ḻūvakaik kāra valliyu moḻikuvar. ....1105
+pātiri yeṉumpeyar pātiri maramum
+mūṅkilu meṉavē moḻiyap peṟumē. ....1106
+pāla meṉuleṉum peyar neṟṟiyu maḻuvum
+nīriṭaip parappukaṟ pālamu nikaḻttuvar. ....1107
+pāva meṉumpeyar pāvakap peyarun
+tīviṉaip peyarum ceppap peṟumē. ....1108
+pāymā veṉumpeyar pariyoṭu puliyumām. ....1109
+pākkeṉum peyarcem paḻukkāyp peyarum
+etirkā lattaip pakariṭaic collumām. ....1110
+pāṭala meṉumpeyar civappum pātiriyum
+kutiraiyu meṉavē kūṟap peṟumē. ....1111
+pātteṉum peyarē paruttūṇ peyarum
+aṭiciṟ peyaroṭu kañciyu māmē. ....1112
+pāra meṉumpeyar kavacamum poṟaiyum
+kalaṉaiyum pārum nīriṉ karaiyum
+vaṉpā ramumarak kalamum vaḻaṅkum. ....1113
+pāveṉum peyarē parattalum paṉuvalum. ....1114
+pālai yeṉumpeyar pālai nilamum
+annilap pāṭalum piriva turaittalum
+poruṇmēṟ piritalum puṇarntuṭaṉ pōtalum
+puṉarpū camumōr maramum pukaluvar. ....1115
+pārtta leṉṉum peyarparap putalum
+tōṟṟutaṟ peyaruñ collap peṟumē. ....1116
+pāvai yeṉumpeyar cittirap pāvaiyum
+tirumaka ḷāṭaluñ ceppuvar pulavar. ....1117
+pāyaca meṉumpeyar pāṟcōṟ ṟiṉuṭaṉē
+pāṟkuṟaṇ ṭiyeṉ peyartāṉum pakaruvar. ....1118
+pakara ākāra varukkam muṟṟum.
+
+pakara ikara varukkam
+
+piḷḷai yeṉumpeyar vaṭukak kaṭavuḷuṅ
+kārip puḷḷuṭa ṉiḷamarak kaṉṟum
+makaviṉ peyarum vakutturait taṉarē. ....1119
+pitā veṉumpeyar civaperumāṉ peyarum
+piramaṉ peyarum tātaitaṉ peyarum
+perunā raippuṭ peyarum pēcuvar. ....1120
+picita meṉumpeyar nīṟum pulālum
+vēmpiṉ peyarum viḷampuvar pulavar. ....1121
+picca meṉumpeyar pīlik kuṭaiyum
+āṇpāṉ mayirum veṇkuṭaiyu māmē. ....1122
+piciyeṉum peyarē pēcutaṟ poruḷum
+poyyuñ cōṟum pukalap peṟumē. ....1123
+piṇṭi yeṉumpeyar neṉmā mutalavum
+acōka maramum piṇṇākku māmē. ....1124
+piraca meṉumpeyar tēṉīp peyarum
+tēṉiṉ peyaru miṟāluñ ceppuvar. ....1125
+piṟaṅka leṉumpeyar perumaiyu niṟaivum
+malaiyu muyaramum vakukkap peṟumē. ....1126
+piṇaiyeṉum peyarē vilaṅkiṉ peṇpālum
+viruppamu māṉum viḷampuvar pulavar. ....1127
+piṇimuka meṉumpeyar puṭpotup peyaruṭaṉ
+mayilu maṉṉamum vakuttu raittaṉarē. ....1128
+piṅkala meṉumpeyar ceṅkaṉa kattoṭu
+poṉṉi ṉiṟamum pukaṉṟaṉar pulavar. ....1129
+piṉṉai yeṉumpeyar piṟṟaip poḻutum
+taṅkaiyuṅ kaṇṇaṉ maṉaiviyuñ cāṟṟuvar. ....1130
+piṇṭa meṉumpeyar piccaiyun tiraṭciyum
+tēkamu meṉṉac ceppuvar pulavar. ....1131
+pirama meṉumpeyar civaṉu māyaṉum
+piramaṉum iraviyu matiyuṅ kaṉalum
+mantiramum vētamum muttit tarumamum
+vēḷviyu muṉivarum viḷampap peṟumē. ....1132
+pippila meṉumpeyar tippili aracumām. ....1133
+pilavaṅka meṉpeyar tēraiyuṅ kuraṅkumām. ....1134
+pitireṉum peyarē teṉpulat teyvamum
+noṭittalum tivalaiyuṅ kiḷiyiṉ vikaṟpamum
+kataiyu meṉavē karutap peṟumē. ....1135
+pittikai yeṉumpeyar kavartta lattuṭaṉē
+kottaviḻ karumukaip peyaruṅ kūṟuvar. ....1136
+piṟaḻta leṉumpeyar peyartalum oḷirtalum. ....1137
+piciṉa meṉumpeyar poyyaṉuṅ kōḷaṉum. ....1138
+pakara ikara varukkam muṟṟum.
+pakara aikāra varukkam
+paiyeṉum peyarē pacumai niṟamum
+pāmpiṉ paṭamum kūṟaiyiṉ vikaṟpumām. ....1139
+paiyuḷ eṉumpeyar nōyum ciṟumaiyum. ....1140
+paitta leṉumpeyar pacuttalu muṉivumām. ....1141
+pakara aikāra varukkam muṟṟum.
+
+pakara okara varukkam
+
+poṟiyeṉum peyarē poṭitteḻu nuṇ
+ciṟukala ṉōṭu marakkalam celvam
+ilāñciṉai tiruvum aimpulaṉu mōtiramu
+meḻuttumām. ....1142
+poṉṉeṉum peyarē poṟiyuṅ kaṉakamum
+aḻakum viyāḻamum tiruvuṅ kupēraṉum
+irumpu meṉavē yiyampuvar pulavar. ....1143
+poḻileṉum peyarē yulakamuñ cōlaiyum
+perumaiyu meṉavē pēcap peṟumē. ....1144
+poṟaiyeṉum peyarē pūmiyum poṟumaiyum
+tuṟukal luṭaṉē malaiyuñ colluvar. ....1145
+poṅka reṉumpeyar marattiṉ kōṭum
+poruppum ilava maramum pukaluvar. ....1146
+poruṭṭeṉum peyarē poruppu mokkuḷum
+paṅkayap poṉṉiṟak koṭṭaiyum pakaruvar. ....1147
+poruna reṉumpeyar porupaṭai vīrarum
+koṟṟavar peyarum kūttartam peyarum
+tiṇṇiyōr peyarum ceppap peṟumē. ....1148
+pokileṉum peyarē puṭpotup peyarum
+koppuḷu mukaiyuṅ kūṟap peṟumē. ....1149
+pomma leṉumpeyar polivuñ cōṟumām. ....1150
+poṅka leṉumpeyar mikutiyuṅ kotittalum. ....1151
+poytta leṉumpeyar makaḷir viḷaiyāṭalum
+poyttiṭu collum pukalap peṟumē. ....1152
+pottaka meṉumpeyar cittirap paṭāmum
+tirumuṟaip peyaruñ ceppuvar pulavar. ....1153
+poyyeṉum peyarē pontum poymaiyum. ....1154
+poccāp peṉumpeyar maṟavi pollāṅkumām.....1155
+pakara okara varukkam muṟṟum.
+
+pakara ōkāra varukkam
+
+pōki yeṉumpeyar purantaraṉ peyarum
+pāmpiṉ peyarum pakarap peṟumē. ....1156
+pōreṉum peyarē neṉmutaṟ cummaiyum
+cataiya nāḷoṭu camaru māmē. ....1157
+pōkkeṉum peyarē yiṉamarak kaṉṟum
+vaḻiyuṅ kuṟṟamum pōtalum poyyumām. ....1158
+pōtaka meṉumpeya rappa varukkamum
+matakarik kaṉṟoṭu marattiṉ kaṉṟum
+iḷamaiyum ñāṉamu miyampap peṟumē. ....1159
+pōka meṉumpeyar pōka vikaṟpamum
+pāmpiṉa tuṭampum pakarap peṟumē. ....1160
+pōrvai yeṉumpeyar tōliṉ peyarum
+cālikaip peyaroṭu pōrttaluñ cāṟṟuvar. ....1161
+pōta meṉumpeyar ñāṉamum tōṇiyum. ....1162
+pakara ōkāra varukkam muṟṟum.
+
+pakara oḷakāra varukkam
+
+peḷava meṉumpeyar kaṭalum kaṇuvum.
+pakara oḷakāra varukkam muṟṟum.
+pakara varukkat tokuti muṟṟum.
+
+8 vatu makara varukkat tokuti  
+
+makara akara varukkam
+
+maṉṉa ṉeṉumpeya ruttiraṭ ṭātiyum
+maṉṉavaṉ peyarum vakuttaṉar pulavar. ....1164
+matiyeṉum peyarē muṉṉilai yacaiccolum
+uṭupatip peyaru muṇarvu mātamumām. ....1165
+marakkā leṉumpeyar mātava ṉāṭalum
+cōti nāḷu maḷavaiyuñ colluvar. ....1166
+mayilai yeṉumpeyar malariru vāṭciyum
+mīṉa rāciyum mīṉpotup peyarumām. ....1167
+maṭaṅka leṉumpeya riṭiyu maṟaliyum
+muṭaṅkalu noyuṭa ṉūḻiyuñ ciṅkamum. ....1168
+maṟali yeṉumpeyar maṟappu maḻukkāṟum
+kūṟṟaṉu meṉavē kūṟuvar pulavar. ....1169
+maruḷeṉum peyarē mayakkattiṉ peyarum
+kuṟiñci yāḻttiṟamum pēyuṅ kūṟuvar. ....1170
+mañceṉum peyarē valimaiyu miḷamaiyum
+mēkamum paṇiyum vēḻattiṉ mutukum
+eḻilu meṉavē yiyampiṉar pulavar. ....1171
+mataṉeṉum peyarē māṭcimaip peyarum
+aṉaṅkaṉum pelamu maḻaku māmē. ....1172
+maṇṭali yeṉumpeyar nāyum pūñaiyum
+maṇṭali yaravum vaḻaṅkap peṟumē. ....1173
+maṇṭala meṉumpeyar nāṭuṅ kutiraiyum
+vaṭṭamuṅ kutiraic cāriyum vaḻaṅkum. ....1174
+maṉṟa meṉpeyar ampalamum vācamum. ....1175
+mantira meṉumpeyar kutiraip pantiyum
+kōyilum vicāramu matavu millamum
+iṟaiyavar nāma veḻuttu māmē. ....1176
+maṟava reṉumpeyar vaṉacarar peyarum
+paṭaivīrar peyarum pakarap peṟumē. ....1177
+maḷḷar eṉum peyar vaṉcamar vīrarum
+tiṇṇiyōr peyaru marutanila mākkaḷum. ....1178
+matalai yeṉumpeyar marakkalap peyarum
+putalvar peyarum koṭuṅkaip pāvum
+koṉṟaiyum tūṇum cārpiṉa vaiyumām. ....1179
+maṭai yeṉumpeyar maṇippaṇip pūṭṭum
+puṉaliṉ maṭaiyum aṭicilum pukaluvar. ....1180
+maṭṭeṉum peyarē yaḷavu matuvumām. ....1181
+maṉaveṉum peyarē maṇippotup peyarum
+akku maṇiyiṉ peyaru māmē. ....1182
+maṇiyeṉum peyarē vaṉappu naṉmaiyum
+karuniṟa mutava maṇiyuṅ kaṇṭaiyum
+icaiyu meṉavē yiyampap peṟumē. ....1183
+matuka meṉumpeyar vaṇṭun tarāvum
+iruppaiyu maṭṭi maturamum iyampuvar. ....1184
+maṭiyeṉum peyarē vayiṟut tāḻaiyum
+cōmpum puṭaivaiyun tuṉpa nōyumām. ....1185
+maṉṟa leṉumpeyar maṇamum kalyāṇamum
+pālaiyāḻt tiṟamum pakarap peṟumē. ....1186
+mattikai yeṉumpeyar mālaiyiṉ peyarum
+cammaṭṭi yiṉōṭu cuṭarnilait taṇṭumām. ....1187
+mal leṉumpeyarē māyō ṉāṭalum
+vaḷamum pelamum vakutturait taṉarē. ....1188
+mallikai yeṉumpeyar mālatip putalum
+cuṭarnilait taṇṭuñ colluvar pulavar. ....1189
+maṟameṉum peyarē pāvamum koṭumaiyum
+ciṉamu meṉavē ceppap peṟumē. ....1190
+mañcari yeṉumpeyar malarppūṅ kottum
+mālaiyun taḷirum vakuttaṉar pulavar. ....1191
+makara meṉumpeyar malarppūn tātum
+kaṟavu makara virāciyuñ colluvar. ....1192
+mantāra meṉumpeya raintaru viloṉṟum
+cemparat taiyumeṉac ceppuvar pulavar. ....1193
+matteṉum peyarē tayirkaṭai taṟimutaṉ
+mattiṉ vikaṟpamu mattu muṇarttuvar. ....1194
+malla leṉumpeyar valimaiyum vaḷamumām. ....1195
+maṭameṉum peyarē muṉivar vācamum
+aṟiyāmai yuñcattira maṉaiyu meṉmaiyum. ....1196
+makaṉeṉum peyarē maintaṉ perumaiyum
+makimaiyiṟ ciṟantōṉ peyarum vaḻaṅkum. ....1197
+maṇameṉum peyarē kalyāṇamum vācamum
+kūṭṭamu meṉavē kūṟap peṟumē. ....1198
+maṟaiyeṉum peyarman tiramum vētamum
+paricaiyu maṟaivum rāciyap peyarumām. ....1199
+makameṉum peyarmaka nāḷuṭaṉ yākamām. ....1200
+maṭaleṉum peyarpaṉai maṭalpōl vaṉavum
+pūvi ṉitaḻu mōrnūlum pukaluvar. ....1201
+mattaka meṉumpeyar neṟṟiyun talaiyumām. ....1202
+maṇṇeṉum peyarē muḻaviṉ mārccaṉaiyum
+alaṅkarittalu nalla vaṉiyu māmē. ....1203
+matuveṉum peyarē vacanta kālamum
+iṉimaiyu naṟavoṭu tēṉu miyampuvar. ....1204
+marapeṉum peyarē paḻamaiyum iyalpumām. ....1205
+maṟaleṉum peyarē mayakkamum kūṟṟumām. ....1206
+marumāṉ eṉumpeyar vaḻittōṉ ṟaluṭaṉē
+marumakaṉ peyarum vaḻaṅkap peṟumē. ....1207
+mayaleṉum peyarē mayakkamum ceṟṟaiyum
+pēyiṉ peyarum pēcuvar pulavar. ....1208
+malaita leṉumpeyar maṟuttalum porutalum
+cūṭalu meṉavē collap peṟumē. ....1209
+maruta meṉumpeyar maruta nilamum
+annilap pāṭalum vayalumōr maramumām. ....1210
+maṅku leṉumpeyar mēkamum vicumpum
+iruḷu meṉavē iyampuvar pulavar. ....1211
+maṉṉeṉum peyarē acaiccolum vēntaṉum
+nilaipēṟu mikutip peyaru nikaḻttuvar. ....1212
+malartal eṉumpeyar etirtalun tōṉṟalum
+malartaliṉ peyarum vakuttaṉar pulavar. ....1213
+makaranta meṉṉum peyarmalart tēṉum
+naṟavum pūntātu navilap peṟumē. ....1214
+mataveṉum peyarē vaṉmaiyu mikutiyum. ....1215
+matameṉum peyarkari matamum cerukkumām. ....1216
+maṉaiyeṉum peyarē maṉaiviyum vīṭumām. ....1217
+marunteṉum peyarē maruntiṉ vikaṟpamum
+amara ruṇaviṉ peyaru māmē. ....1218
+manti yeṉumpeyar vaṇṭum ātittaṉum
+kuraṅkiṉ vikaṟpamum kūṟap peṟumē. ....1219
+maṉṟa veṉumpeyar tēṟṟamum iṭaiccolum
+maruvu meṉavē vaḻaṅkap peṟumē. ....1220
+makara akara varukkam muṟṟum.
+
+makara ākāra varukkam
+
+māleṉum peyartiru māloṭu matimakaṉ
+kāriniṟa valāriyuṅ kāṟṟoṭu cōḻaṉum
+kaṇkuttip pāmpum karumaiyum perumaiyum
+mayakkamum viruppum kaṇṇē ṇiyumākum. ....1221
+māveṉum peyaroru maramu maḻaittalum
+tiruvuṅ kutiraiyum celvamum kaṟuppum
+vilaṅkiṉ potuvum viḷainilamu maḻakum
+vaṇṭu mōrilakkamum perumai niṟamum
+neṉmā mutalavu nikaḻttap peṟumē. ....1222
+mālai yeṉumpeya roḻukkamu miyalpum
+natiyum iravum malarāṉ maṇiyāṟ
+collāṟ poṉṉāṟ ṟoṭuttiṭu toṭaiyumām....1223
+māṉeṉum peyarē makara virāciyum
+vilaṅkiṉ potuvuṭa ṉuḻaiyaiyum viḷampuvar. ....1224
+māri yeṉumpeyar maḻaiyu mēkamum
+vaṭukiyu matuvu maraṇamum vaḻaṅkum. ....1225
+mātira meṉumpeyar ticaiyum yāṉaiyum
+malaiyu meṉavē vaḻaṅkap peṟumē. ....1226
+mātava meṉumpeyar vaḷartavap peyarum
+iḷavēṉiṟ peyaru matuvu miyampuvar. ....1227
+mārkka meṉumpeyar vaḻiyun teruvum
+camaiya vikaṟpamuñ cāṟṟap peṟumē. ....1228
+māṭa meṉumpeyar maṉaiyum uḻuntumām. ....1229
+māḻai yeṉumpeyaru lōkak kaṭṭiyum
+poṉṉu maḻakum puḷimāvum ōlaiyum
+tiraṇṭa vaṭivum ceppuvar pulavar. ....1230
+māceṉum peyarē mēkamum aḻukkum
+ciṟumaiyuṅ kuṟṟamum ceppap peṟumē. ....1231
+māta reṉumpeya riṭaiccolu maḻakum
+kātalum arivaiyar peyarum karutuvar. ....1232
+mānta leṉumpeyar marittalum kuṭittalum
+uṇṭalu meṉavē yuraittaṉar pulavar. ....1233
+māya ṉeṉumpeyar mātavaṉ peyarum
+karuniṟa muṭaiyōṉ peyarum karutuvar. ....1234
+māyta leṉumpeyar maṟaitalum maraṇamum. ....1235
+māruti yeṉumpeyar anumaṉ peyarum
+vīmaṉ pitāviṉ peyarum viḷampuvar. ....1236
+māya meṉumpeyar vañcaṉaip peyarum
+poyyuṅ karuniṟap peyarum pukaluvar. ....1237
+māyai yeṉumpeyar māyamum cattiyum. ....1238
+māṭeṉum peyarē taṉamum pakkamum
+maṇiyuñ celvamu niraiyum vaḻaṅkum. ....1239
+mālikai yeṉumpeyar matuvu māliyum. ....1240
+māṉuta leṉumpeyar mayakkamu muvamaiyum
+ilaccaiyu meṉavē iyampuvar pulavar. ....1241
+māṉa meṉumpeyar laccaiyu maḷavum
+vimāṉamuṅ kuṟṟamum perumaiyum viḷampuvar. ....1242
+makara ākāra varukkam muṟṟum.
+
+makara ikara varukkam
+
+micaiyeṉum peyarē mīmicaic collum
+uṇavuṭaṉ mēṭu muraikkap peṟumē. ....1243
+miccai yeṉumpeyar miṭittalum poyttalum
+aṟiviṉ maippeyar tāṉu māmē. ....1244
+mitavai yeṉumpeyar teppamuñ cōṟumām. ....1245
+makara ikara varukkam muṟṟum.
+
+makara īkāra varukkam
+
+mīṉeṉum peyarē vāṉmī ṉōṭu
+maccamum cittirai nāḷum vaḻaṅkum. ....1246
+mīḷi yeṉumpeyar miṭalum perumaiyum
+talaivaṉum viṟalōṉ peyaruñ cāṟṟuvar. ....1247
+mīkkū ṟeṉumpeyar coṟcela vuṭaṉē
+kīrttip peyaruṅ kiḷattap peṟumē. ....1248
+makara īkāra varukkam muṟṟum.
+
+makara ukara varukkam
+
+muṟameṉum peyarē viyākamuñ cuḷakumām. ....1249
+muṟikuḷa meṉumpeyar pūrāṭa nāḷum
+uṭaikuḷap peyaru muraittaṉar pulavar. ....1250
+muraceṉum peyarē muraciṉ vikaṟpamum
+uttiraṭ ṭātiyu muraikkap peṟumē. ....1251
+muṉiyeṉum peyartava muṉivaṉ peyarum
+tantiyiṉ kaṉṟun taṉuvi rāciyum
+villum pulavōr viḷampap peṟumē. ....1252
+mutalai yeṉpeyar ceṅkiṭaiyu miṭaṅkarum
+mayiliṟakiṉ mutaṉ muḷḷum vaḻaṅkum. ....1253
+murampeṉum peyarē mēṭum pāṟaiyum
+paralaṭut tuyarnta nilamum pakaruvar. ....1254
+muḷaiyeṉum peyarē mūṅkilum cutaṉum
+aṅkurat tiṉpeyar tāṉu māmē. ....1255
+muṟuva leṉumpeyar tantamu mukaiyumām. ....1256
+muṉṉa leṉumpeyar neñcamu niṉaivumām. ....1257
+muṉaiyeṉum peyarē muraṇpeṟu pakaiyum
+kūrmaiyum veṟuppum kūṟuvar pulavar. ....1258
+muraṇeṉum peyarē pelamum pakaiyumām. ....1259
+murukeṉum peyarē murukak kaṭavuḷum
+iḷamaiyum viḻāvu meḻilum vācamum
+matuvu melumiccum vaḻaṅkap peṟumē. ....1260
+muṟaiyeṉum peyarē muṟaippeyar vikaṟpamum
+iyalpum pottakap peyarum iyampuvar. ....1261
+muṭalai yeṉumpeyar tiraṇṭa vaṭivum
+perumaiyu meṉṉap pēcuvar pulavar. ....1262
+muṉṉa meṉumpeyar muṟkā lattoṭu
+ciṅkamum kuṟippum cīkkiramu māmē. ....1263
+muṭaṅka leṉumpeyar maṭaṅkalun tāḻaiyum
+mūṅkilu nōyu moḻiyap peṟumē. ....1264
+mutta meṉumpeyar ataramum piriyamum
+muttu maruta nilamu moḻikuvar. ....1265
+muṇṭacu meṉumpeyar muḷḷuṭai mūlamum
+kamalamum tāḻaiyum kaḷḷunīr muḷḷiyum
+neṟṟiyu meṉavē nikaḻttap peṟumē. ....1266
+mullai yeṉumpeyar mullai naṉṉilamum
+mallikaip peyarum veṟṟiyuṅ kaṟpumām. ....1267
+muṭiyeṉum peyarmayir muṭiyum talaiyum
+makuṭamu meṉavē vaḻaṅkuvar pulavar. ....1268
+mucci yeṉpeyar mayirmuṭiyu mucciyum. ....1269
+muṟṟeṉum peyarē muḻutum vaḷaittalum. ....1270
+muṟṟa leṉumpeyar cūḻpōtalum veṟuttalum
+mutumaiyu muṭiviṉ peyaru moḻikuvar. ....1271
+muḷari yeṉumpeyar viṟakuñ ciṟumaiyum
+kamalamum kāṭum kaṉalum muṇmaramummām. ....1272
+makara ukara varukkam muṟṟum.
+
+makara ūkāra varukkam
+
+mūtirai yeṉumpeyar mukkaṇṇaṉ peyarum
+ātirai nāḷu māmeṉa navilvar. ....1273
+mūla meṉumpeyar kiḻaṅku mōrnāḷum
+mutalu nimittamum vēru moḻintaṉar. ....1274
+mūra leṉumpeyar muṟuvalum tantamum
+cōṟu meṉavē colluvar pulavar. ....1275
+mūri yeṉumpeyar muraṇum perumaiyum
+erumaiyu miṭapamuñ cōmpu nerivumām. ....1276
+mūca leṉumpeyar moyttaluñ cāvumām. ....1277
+mūḻi yeṉumpeyar vāviyuñ cēṟum
+akappaiyiṉ peyaru māku meṉpa. ....1278
+mūḻai yeṉumpeyar akappaiyuñ cēṟumām. ....1279.
+makara ūkāra varukkam muṟṟum.
+
+makara ekara varukkam
+
+meyyeṉum peyarē meymaiyum ñāṉamum
+caṭamum oṟṟeḻuttum meypporuḷum cāṟṟuvar. ....1280
+mettai yeṉumpeyar caṭṭaiyu maṇaiyumām. ....1281
+makara ekara varukkam muṟṟum.
+
+makara ēkāra varukkam
+
+mētai yeṉumpeyar aṟivum putaṉum
+iṟaicciyu meṉavē yiyampuvar pulavar. ....1282
+mēleṉum peyarē mēlpāl ticaiyum
+iṭamum vicumpu miyalpuḷōr peyarumām. ....1283
+mēkkeṉum peyarē mēlu mēṟṟicaiyumām. ....1284
+mēṉi yeṉumpeyar niṟaivum vaṭivumām. ....1285
+makara ēkāra varukkam muṟṟum.
+
+makara aikāra varukkam
+
+maiyeṉum peyarē mēṭa virāciyum
+āṭuṅ kuṟṟamum añcaṉamum kaṟuppum
+mēkamu meṉavē viḷampuvar pulavar. ....1286
+mainta ṉeṉumpeyar tiṟalōṉ peyarum
+putalvaṉ peyarum pukalap peṟumē. ....1287
+makara aikāra varukkam muṟṟum.
+
+makara okara varukkam
+
+mokku ḷeṉumpeyar pūviṉ mukuḷamum
+kumiḻiyu meṉavē kūṟuvar pulavar. ....1288
+moyyeṉum peyarpōrk kaḷamum yāṉaiyum
+vaṇṭuṅ kūṭṭamum vakukkap peṟume. ....1289
+moympeṉum peyarē pelamum puyamumām. ....1290
+makara okara varukkam muṟṟum.
+makara ōkāra varukkam
+mōṭeṉum peyarē uyaramum perumaiyum
+vayiṟu meṉavē vakuttaṉar pulavar. ....1291
+makara ōkāra varukkam muṟṟum.
+
+makara oḷakāra varukkam
+
+meḷali yeṉumpeyar caṭaiyum kirīṭamum. ....1292
+makara oḷakāra varukkam muṟṟum.
+8 vatu makara varukkat tokuti muṟṟum.
+
+9 vatu yakara varukkat tokuti  
+
+yakara akara varukkam
+
+yavaṉa reṉumpeyar cōṉakar peyarum
+cittira kārartam peyarum ceppuvar. ....1293
+yakara akara varukkam muṟṟum.
+
+yakara ākāra varukkam
+
+yāma meṉumpeyar iravum teṟkum
+cāmamu meṉavē cāṟṟap peṟumē. ....1294
+yāḻeṉum peyarē vīṇaik karuviyum
+ātirai nāḷum acupatip peyarum
+mituṉa rāciyum viḷampuvar pulavar. ....1295
+yāṇa reṉumpeya raḻakum putumaiyum
+naṉmaiyum yāḻpayi ṉallōr peyarum
+taccaru meṉavē cāṟṟap peṟumē. ....1296
+yāppeṉum peyarē kavitaiyum kaṭṭumām. ....1297
+yāṉa meṉumpeyar ūrtiyiṉ vikaṟpamum
+marakkāl peyarum vaḻaṅkap peṟumē. ....1298
+yāṉu veṉumpeyar naṉmaiyu maḻakumām. ....1299
+yakara ākāra varukkam muṟṟum
+
+yakara ūkāra varukkam
+
+yūpa meṉumpeyar paṭaiyiṉ tuṟuppum
+kapantamum vēḷvit taṟiyuṅ karutuvar. ....1300
+yūka meṉumpeya ruṭporu ḷuṇarttalum
+kōṭṭā ṉuṅkaruṅ kuraṅkun tarukkamum
+uṭaṟkuṟai yumeṉa vuraikkap peṟumē. ....1301
+yakara ūkāra varukkam muṟṟum.
+
+yakara ōkāra varukkam
+
+yōka meṉumpeyar upāyamu muyaṟciyum
+tiyāṉamuṅ kūṭṭamuñ celvamum ciṟappumām. ....1302
+yakara ōkāra varukkam muṟṟum.
+yakara varukkat tokuti muṟṟum.
+
+10 vatu vakara varukkat tokuti  
+
+vakara akara varukkam
+
+valavai yeṉumpeyar vañcap peṇṇoṭu
+veṟiyāṭ ṭāḷaṉum vallōṉ peyarumām. ....1303
+varuṭa meṉumpeyar maḻaiyum yāṇṭumām. ....1304
+vaṉṉi yeṉumpeyar orumarap peyarum
+neruppuṅ kiḷiyum pirama cāriyumām. ....1305
+vayaleṉum peyarē ceyyum veḷiyum
+maruta naṉṉilamum vaḻaṅkap peṟumē. ....1306
+vaciye ṉumpeyar vāḷum vaṭuvum
+vacikamuṅ kūrmaiyum vaḻaṅkap peṟumē. ....1307
+vaṭavai yeṉumpeyar vaṭavā vaṉalum
+kutiraip peṭṭaiyu matakarip piṭiyum
+peṇpā lerumaip peyarum pēcuvar. ....1308
+vayameṉum peyarē valimaiyum puṉalum
+puṭpotup peyarum pukaluvar pulavar. ....1309
+vaḻiyeṉum peyarē marapun toṭarcciyum
+tarumamu miṭamun taṉaiyaṉum naṭavaiyum. ....1310
+vañcaṉai yeṉumpeyar māyaiyum poyyum
+vañcakap peyarum vaḻaṅkap peṟumē. ....1311
+varaiyeṉum peyarē malaiyu mūṅkilum
+aḷavuṅ kaivaraiyu māku meṉpa. ....1312
+vacati yeṉumpeyar maṉaiyu mūrum
+ciṟappuṟu miṭamum ceppuvar pulavar. ....1313
+vayavaṉ eṉumpeyar valimāṉ kuruviyum
+viṟalōṉ kātalaṉ peyarum viḷampuvar. ....1314
+vayāveṉum peyarē varuttamum viruppamum
+nōyum karuppamum nuvaluvar pulavar. ....1315
+vaḷḷeṉum peyarē valli paṟṟirumpum
+kūrmaiyuṅ kātum vakirtalum kūṟuvar. ....1316
+vaṇṭeṉum peyarkai vaḷaiyum kuṟṟamum
+pūcamum curumpum puriyum veṇpaṇilamum
+mātar viḷaiyāṭalum ampum vaḻaṅkum. ....1317
+vaṭṭa meṉumpeyar pārā vaḷaiyamum
+paricaiyun tikiriyum paranta kaimaṇiyum
+vaṭṭa vaṭivun taṭākamu nīrccālun
+tukilu mūrkōḷuñ colluvar pulavar. ....1318
+vañci yeṉumpeyar mātumōr koṭiyum
+pāviṉ vikaṟpamum pōrmēṟ celavum
+maruta yāḻttiṟamum vakutturait taṉarē. ....1319
+vaṭukeṉum peyarē yintaḷa vicaiyum
+maruta yāḻttiṟamum vakutturait taṉarē. ....1320
+vañcaka meṉumpeyar vāḷuṅ kapaṭumām. ....1321
+vayira meṉumpeyar vaccira maṇiyum
+marattiṉ vayiramum vaccirā yutamum
+ciṉamum kūrmaiyum ceppuvar pulavar. ....1322
+vaṟiteṉum peyarē payaṉil vārttaiyum
+ciṟitum aṟiyāmaiyu marukaluñ ceppuvar. ....1323
+vampeṉum peyarē maṇamu miṭāvum
+nilaiyiṉ maiyu mulaikkaccum putumaiyum. ....1324
+vatuvai yeṉumpeyar maṇamum kaliyāṇamum. ....1325
+vaḻaṅka leṉumpeya rulāvalu muraittalum
+koṭuttalu meṉavē yaṟaintaṉar pulavar. ....1326
+valitta leṉumpeyar niṉaittalum pēcalum. ....1327
+valampuri yeṉumpeyar calañcalap peyarum
+nantiyā vattamu navilap peṟumē. ....1328
+valava ṉeṉumpeyar veṟṟi yāḷaṉum
+tērppā kaṉumeṉac ceppuvar pulavar. ....1329
+vaḷḷa meṉpeyar marakkālum vaṭṭilum. ....1330
+vakkira meṉumpeyar maṭaṅkalum koṭumaiyum
+vaṭṭamu meṉavē vaḻaṅkap peṟumē. ....1331
+vacanta ṉeṉumpeyar mataṉun teṉkālumām. ....1332
+variyeṉum peyarneṟ potuvum vāriyum
+eḻuttuñ cuṇaṅku miṉṉicaip pāṭalum
+kuṭiyiṟaip peyarum cantit teruvum
+nīḷamu meṉavē nikaḻttuvar pulavar. ....1333
+vaṉameṉum peyarē yūrcūḻ cōlaiyum
+nīrun tuḻāyum kāṭu mikutiyum
+īramu meṉavē yiyampap peṟumē. ....1334
+vaṭaka meṉumpeyar vaṭaka vuṭaiyum
+tōliṉ peyarum collap peṟumē. ....1335
+vaṅka meṉumpeyar vaḻutuṇaip peyarum
+veḷḷī yattiṉoṭu tōṇiyum viḷampuvar. ....1336
+vacanta meṉumpeyar vacanta kālamum
+purantaraṉ māḷikai maṇamum pukaluvar. ....1337
+valli yeṉumpeyar koṭiyum āyppāṭiyum
+nikaḷamu meṉavē nikaḻttap peṟumē. ....1338
+valleṉum peyarē valimaiyum viraivum
+cūtu meṉavē colluvar pulavar. ....1339
+vaṭuveṉum peyarē kuṟṟamum ciṟumaiyum
+taḻumpuñ curumpoṭu cōmpuṅ kāyp
+piñcumām. ....1340
+vaṇṇa meṉumpeyar vaṭivu mōcaiyum
+niṟaṅkaḷiṉ vikaṟpamu nikaḻttap peṟumē. ....1341
+vayiṉeṉum peyarē vayiṟiṭa maṉaiyumām. ....1342
+vaṇmai yeṉumpeyar vaḷamaiyum koṭuttalum
+valimaiyum pukaḻum vāymaiyum vaḻaṅkum. ....1343
+vacuveṉum peyarē poṉṉum kaṉalum
+eṇvakai yamararum pacuviṉ kaṉṟumām. ....1344
+valameṉum peyarē kaṉamum veṟṟiyum
+iṭamum valappāṟ peyaru miyampuvar. ....1345
+vaṉmai yeṉumpeyar vaṉmaiyuṅ kāṭum
+viraivu meṉavē viḷampuvar pulavar. ....1346
+vaḷameṉum peyarē vaṉappum palavakai
+vaḷamum pataviyum vaḻaṅkap peṟumē. ....1347
+vaḷḷi yeṉpeyar kaivaḷaiyuṅ koṭiyumām. ....1348
+vaṭka leṉumpeyar nāṇamum kēṭumām. ....1349
+varaital eṉumpeyar nīkkamum koḷalumām. ....1350
+vaṭameṉum peyarāla maramum kayiṟum
+maṇivaṭap peyarum vaḻaṅkuvar pulavar. ....1351
+vayamā veṉumpeyar vāciyum yāṉaiyum
+ciṅkamum puliyum ceppap peṟumē. ....1352
+vakara akara varukkam muṟṟum.
+
+vakara ākāra varukkam
+
+vāra meṉpeyar malaiccārpum pakuttalum
+kaṭalu nīrkkarai yuṅkaru ēḻkiḻamaiyum
+purivuṟu maṉpaiyum pukaluvar pulavar. ....1353
+vāṉeṉum peyarē vāṉamum perumaiyum
+mēkamum maḻaiyum viḷampap peṟumē. ....1354
+vāruṇa meṉumpeyar nīruṅ kaṭalum
+mēṟku meṉavē viḷampuvar pulavar. ....1355
+vāṭai yeṉpeyar vaṭakāṟṟum vītiyum
+ciṟṟūrp peyaraiyuñ ceppap peṟumē. ....1356
+vāri yeṉumpeyar kaṭalu nīr mikutiyum
+nīrum viḷaivuṅ kataviṉ vikaṟpamum
+matiliṉ cuṟṟum varupuṉal maṭaiyum
+vāytaluñ celva varattum vaḻiyum
+āṉai paṭukku miṭamu māmē. ....1357
+vāmaṉa meṉumpeyar kuṟaḷumōr camayamum
+ticainilaik kuñcarat toṉṟum ceppuvar. ....1358
+vāṉa meṉumpeyar maḻaiyu mākāyamum
+ularmarap peyarataṉ kaṉiyaiyu muṇarttuvar. ....1359
+vāṇi yeṉumpeyar vārttaiyiṉ peyarum
+pārati peyarum pakaḻiyu naṭamumām. ....1360
+vāca meṉumpeyar puḷḷiṉ ciṟakum
+pūviṉ maṇamum puṭaivaiyiṉ peyarum
+iruppiṭa mumeṉa viyampuvar pulavar. ....1361
+vāyi leṉpeyar aimpulaṉu mētuvum
+kataviṉ vikaṟpamum iṭamum karutuvar. ....1362
+vāṉi yeṉumpeyar cēṉaiyum tuvacamum
+mēṟkaṭṭi yumeṉa viḷampap peṟumē. ....1363
+vāḷeṉum peyarē vāḷā yutamum
+oḷiyu meṉavē yuraittaṉar pulavar. ....1364
+vāleṉum peyarē perumaiyuñ cuttamum
+vilaṅkiṉ vālum veṇmai niṟamumām. ....1365
+vāraṇam eṉumpeyar matakarip peyarum
+caṅkum kavacamum taṭuttalum kōḻiyum
+kaṭalu meṉavē karutap peṟumē. ....1366
+vāṅkal leṉumpeyar vaḷaittaluṅ
+
+koḷalumām. ....1367
+vāci yeṉumpeyar kuḻalicai vikaṟpamum
+kutiraiyiṉ peyarum kūṟap peṟumē. ....1368
+vāli yeṉumpeya ralāyutaṉ peyarum
+kiṭkintai yaracaṉ peyarum kiḷattuvar. ....1369
+vāta meṉumpeyar tarkkamum kāṟṟumām. ....1370
+vāma meṉpeya riṭappālu maḻakum
+kuṟaḷu mōrcamaiyap peyaruṅ kūṟuvar. ....1371
+vāreṉum peyarmulaik kaccu neṭumaiyu
+nīru nērmaiyum vakirtalum nikaḻttuvar. ....1372
+vāyeṉum peyarvaru vāyum vāymaiyum
+vāytalum vāyiṉ peyaru miṭamumām. ....1373
+vākai yeṉumpeya roḻukkamum tavamum
+tarumak karumamuñ cālpu mikutiyum
+āḷviṉai mutalāñ ceykai nalamum
+kaivala mutalāṅ kalvi āṇmaiyum
+oruvari loruvar veṉṟiyumōr maramum
+paṇpu mikaiyum pakarap peṟumē. ....1374
+vāḻi yeṉumpeyar vāḻkaveṉ collum
+iṭaiccoliṉ peyarum iyampuvar pulavar. ....1375
+vakara ākāra varukkam muṟṟum.
+
+vakara ikara varukkam
+
+viṇṭeṉum peyarē mēkamum mūṅkilum
+māyaṉum kāṟṟum malaiyum viḷampuvar. ....1376
+vicumpeṉum peyarē viṇṇuñ cuvarkkamum
+mēkamun ticaiyum viḷampap peṟumē. ....1377
+vicaiya meṉumpeyar veṉṟiyi ṉoṭucark
+karaiyuṅ katirmaṇ ṭalamuṅ karutuvar. ....1378
+viḻaveṉum peyarē mituṉa rāciyum
+utcavap peyaru muraikkap peṟumē. ....1379
+viṭameṉum peyarē nañcun tēḷum
+orumarap peyaru muraittaṉar pulavar. ....1380
+viṭareṉum peyarē veṟpiṉ muḻaiyum
+kamarun tavattō riṭamum kāṭumām. ....1381
+viḷaveṉum peyarē viḷamaramum kamarumām. ....1382
+viṭaṅka meṉumpeyar vītik koṭiyum
+āṇmaiyu maḻakum koṭuṅkaiyu maṉaiyiṉ
+mukaṭu meṉavē moḻintaṉar pulavar. ....1383
+viṭalai yeṉumpeyar viṟalōṉ peyarum
+talaivaṉ peyarum cāṟṟuvar pulavar. ....1384
+viḻaintō ṉeṉumpeyar vēṭṭō ṉ peyarum
+koṇkaṉu meṉavē kūṟap peṟumē. ....1385
+vilōta meṉumpeyar peṇpāṉ mayirum
+miyirccuru ḷummeṉa vaḻaṅkuvar pulavar. ....1386
+viṟaleṉum peyarē veṉṟiyum palamumām. ....1387
+vitappeṉum peyarē mikutiyum pelamumām. ....1388
+viṟappeṉum peyarē yaccamum pelamum
+ceṟivu meṉavē ceppuvar pulavar. ....1389
+viyappeṉum peyarciṉak kuṟippuñ ciṉamum
+aticayap peyaru māku meṉpa. ....1390
+viḻaicceṉum peyarē viruppu nalliḷamaiyum
+puṇarcci yaṉupōkap peyarum pukaluvar. ....1391
+viṭaiyeṉum peyaretir moḻiyu merutu
+mēvutaṟ peyarum iyampuvar pulavar. ....1392
+vinta meṉpeyar tāmaraiyu mōrkiriyumām. ....1393
+vimma leṉumpeyar olittalum aḻukaiyum. ....1394
+viyaleṉum peyarē perumaiyum akalamum. ....1395
+vipula meṉumpeyar perumaiyum akalamum. ....1396
+villeṉum peyarē mūla nāḷum
+oḷiyum vārcilaiyu muraikkap peṟumē. ....1397
+vitiyeṉum peyarē piramaṉun toḻilum
+iyalpumūḻ muṟaiyu miyampap peṟumē. ....1398
+virukō taraṉeṉum peyaryama rāyaṉum
+vīmaṉ peyarum viḷampap peṟumē. ....1339
+vitta meṉumpeyar aṟivum kaṉakamum
+paḻittalu meṉavē pakarap peṟumē. ....1400
+viḷiveṉum peyarē vītalum kēṭumām. ....1401
+virutti yeṉumpeyar virittiṭu poruḷum
+taṉṟoḻi lilāpamum ākkattiṉ peyarumām. ....1402
+vipūti yeṉumpeyar celvamu nīṟum
+koṭumaiyun tacaiyuṅ kuṟṟamu narakumām. ....1403
+viṭapa meṉumpeyar marakkompuṅ kāḷaiyum
+iṭapa rāciyum iyampuvar pulavar. ....1404
+viḷari yeṉumpeyar vēṭkaiyiṉ mikutiyum
+iḷamaiyum yāḻilōr narampum yāḻumām. ....1405
+viḻuma meṉumpeyar cīrmaiyum ciṟappum
+iṭumpaiyu meṉavē yiyampap peṟumē. ....1406
+viḷareṉum peyarē veḷuppu miḷamaiyuṅ
+koḻuppu meṉavē kūṟuvar pulavar. ....1407
+viṇṇeṉum peyarē vicumpu mēkamumām. ....1408
+viraiyeṉum peyarē cāntum tūmamum
+maṇamu meṉavē vaḻaṅkap peṟumē. ....1409
+viyāḷa meṉumpeyar aravum puliyumām. ....1410
+vilaṅkeṉum peyarē mirukamun taḷaiyumām. ....1411
+vināyaka ṉeṉumpeyar viṟaṟkari mukaṉum
+arukaṉum puttaṉu māku meṉpa. ....1412
+vakara ikara varukkam muṟṟum.
+
+vakara īkāra varukkam
+
+vīrai yeṉumpeyar virikaṭaṟ peyaroṭu
+tuyaraiyu morumarap peyaraiyuñ colluvar. ....1413
+vīti yeṉumpeyar nērō ṭutalun
+teruvu meṉavē ceppap peṟumē. ....1414
+vīyeṉum peyarē vītalu nīkkamum
+pūvum puḷḷiṉ potuvu māmē. ....1415
+vīca leṉumpeyar eṟitalum koṭaiyumām. ....1416
+vītal eṉumpeyar keṭutalum cātalum. ....1417
+vakara īkāra varukkam muṟṟum.
+
+vakara ekara varukkam
+
+veḷḷai yeṉumpeyar veḷiṟum veṇpāvum
+veḷḷāṭ ṭēṟum veṇmaiyu matuvum
+pelatē vaṉumveṇ caṅkum pēcuvar. ....1418
+veṟiyeṉum peyarē yaṇaṅkāṭṭu vaṭṭamum
+accamum pēyu maṇampeṟu nāṟṟamum
+āṭuṅ kalakamu nōyu māmē. ....1419
+veḷḷa meṉpeyar nīrmikutiyuṅ kaṭalum
+kaṭaṟṟiraip peyaru mōreṇṇuṅ karutuvar. ....1420
+vetireṉum peyarē ceviṭaṉu mūṅkilum. ....1421
+veṟukkai yeṉumpeyar vipavamum kaṉakamum
+veṟuttalum pulavōr viḷampap peṟumē. ....1422
+veḷileṉum peyarē vēḻat tampamum
+aṇilum pāṭaiyum tayirkaṭai taṟiyumām. ....1423
+veṭiyeṉum peyarē yaccamum veḷiyum
+parimaḷap pukaiyum pakarap peṟumē. ....1424
+vemmai yeṉumpeyar viruppu muṭṭiṇamum
+viraivu meṉavē viḷampap peṟumē. ....1425
+veḷḷi leṉumpeyar viḷavum pāṭaiyum. ....1426
+veyyō ṉeṉumpeyar viruppiṉaṉ peyarum
+iraviyuṅ koṭiyōṉ peyaru miyampuvar. ....1427
+veḷḷi yeṉumpeyar acurar mantiriyum
+iracatap peyaru miyampuvar pulavar. ....1428
+vakara ekara varukkam muṟṟum.
+
+vakara ēkāra varukkam
+
+vēḷeṉum peyarē vēṟkuma rēcaṉum
+vilvēḷuñ caḻukki vēntaru māmē. ....1429
+vēṭṭuva ṉeṉumpeyar vēṭaṉu makamum
+kuḻavic ciṟupuṭ peyaruṅ kūṟuvar. ....1430
+vēlai yeṉumpeyar kaṭaluṭaṉ kaṭaṟkarai
+poḻutu meṉavē pukaṉṟaṉar pulavar. ....1431
+vēṇi yeṉumpeyar vicumpuṅ kōṭīramum. ....1432
+vēḷvi yeṉumpeyar vēḷvik kuṇṭamum
+koṭuttalum yākamum kuṟaivil pūcaṉaiyum
+makānāṭ peyarum vaḻaṅkuvar pulavar. ....1433
+vēli yeṉumpeyar ūruṅ kāvalum
+viḷainila mumpayir vēliyu matilumām. ....1434
+vēyta leṉumpeyar vēyuḷ cūṭutalumām. ....1435
+vētikai yeṉumpeyar palakaiyun tiṇṇaiyum. ....1436
+vēḷāḷa reṉpeyar taṉavaciyar pērum
+tiyākiyar peyaruṭaṉ ciṟanta kārāḷarum. ....1437
+vēṅkai yeṉumpeyar puliyumōr taruvum
+poṉṉu meṉavē pukaṉṟaṉar pulavar. ....1438
+vēleṉum peyarē marattiṉ vikaṟpamum
+paṭaikkalap potuvum vēṟpaṭaiyum pakaruvar. ....1439
+vēḷāṇmai yeṉumpeyar meyyum koṭaiyumām. ....1440
+vēyeṉum peyarē yoṟṟu mūṅkilum
+uṭṭuḷai vaṭivu muraittaṉar pulavar.
+vēṇu veṉumpeya ruṭṭuḷaip poruḷum
+mūṅkilum villum vāḷu moḻikuvar. ....1441
+vēḻa meṉumpeyar vēḻap pūcciyuṅ
+karumpu mūṅkiluṅ koṟukkacciyum yāṉaiyum. ....1442
+vēcari yeṉumpeyar kōvēṟu kaḻutaiyum
+mūtēvi yūrtiyum moḻiyap peṟumē. ....1444
+vēnta ṉeṉumpeyar viyāḻamu maracaṉum
+cantiraṉ peyarum tarukati riraviyum
+intiraṉ peyaru miyampuvar pulavar. ....1445
+vēlā valaya meṉumpeyar kaṭalum
+pūmiyu meṉavē pukaṉṟaṉar pulavar. ....1446
+vēreṉum peyarmara vērum veyarvumām. ....1447
+vētaṇṭa meṉpeyar veḷḷi malaiyum
+poruppiṉ potuvum pukalap peṟumē. ....1448
+vēla ṉeṉumpeyar cevvēḷ peyarum
+veṟiyāṭ ṭāḷaṉ peyaru miyampuvar. ....1449
+vakara ēkāra varukkam muṟṟum.
+
+vakara aikāra varukkam
+
+vaika leṉumpeyar taṅkalun tiṉamum
+pularik kālamum pukaṉṟaṉar pulavar. ....1450
+vaiyeṉum peyarē nelliṉ ṟāḷum
+kūrmaiyum pullum kūṟap peṟumē. ....1451
+vaiya meṉumpeyar urōkiṇi nāḷum
+āṉē ṟuñcakaṭa vūrtiyum civikaiyum
+pārun tērum pakarap peṟumē. ....1452
+vakara aikāra varukkam muṟṟum.
+10 vatu vakara varukkat tokuti muṟṟum.
+1452 cūttiraṅkaḷ.
+vaṭamalai nikaṇṭu muṟṟum.
+
+------------------------------------------------------------------------
+
+This page was first put up on June 21, 2001
+Please send your comments and corrections to the Webmaster(s) of this
+site

@@ -1,0 +1,227 @@
+[pm logo]
+
+------------------------------------------------------------------------
+
+pazaya rAmAyaNam
+Remnants of Tamil Works lost over the years- I
+in Tamil script, Unicode/utf-8 format
+maṟaintu pōṉa tamiḻ nūlkaḷ - I
+paḻaiya irāmāyaṇam
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Acknowledgement:
+Our Sincere thanks go to the following persons for their assistance in
+the preparation of this work.
+Etext Preparation (input, proof-reading) & Introductory Notes: Mr.
+Periannan Chandrasekaran, Atlanta, GA. USA
+Web version: K. Kalyanasundaram, Lausanne, Switzerland
+This page was first put up on April 9, 2000
+This webpage presents the Etext in Tamil script in Unicode encoding
+(utf-8 format).
+© Project Madurai, 1998-2021.
+Project Madurai is an open, voluntary, worldwide initiative devoted to
+the preparation
+of electronic texts of tamil literary works and to distribute them free
+on the Internet.
+Details of Project Madurai are available at the website
+https://www.projectmadurai.org/
+You are welcome to freely distribute this file, provided this header
+page is kept intact.
+
+------------------------------------------------------------------------
+
+paḻaiya irāmāyaṇam
+
+The following transcription scheme is used to represent letters that are
+foreign to pure Tamil:
+g='k, j='c, D(.d)='ṭ, d('dh')='t, b='p, f='v, h=·, s=^c, S(sh/.s)=~c
+[mūlam : mayilai cīṉi. vēṅkaṭacāmiyiṉ “maṟaintu pōṉa tamiḻ nūlkaḷ”
+muṉṉuraiyum arumpatak kuṟippum taṭṭalum: periyaṇṇaṉ cantiracēkaraṉ,
+aṭlāṇṭā, amerikkā. tamiḻakam: īrōṭu]
+muṉṉurai: kampa irāmāyaṇattiṟkum muṉpē cila tamiḻ irāmāyaṇaṅkaḷ iruntaṉa eṉpataṟkut
+tiṇṇiya cāṉṟukaḷ uḷḷaṉa. caṅkak kālattilēyē tamiḻil irāmāyaṇam iruntatu eṉpatu
+puṟanāṉūṟṟiṉ 378-ām pāṭaliliruntum aka nāṉūṟṟiṉ 70-ām pāṭaliliruntum vālmīki
+irāmāyaṇattil illāta nikaḻccikaḷaik kuṟippiṭuvatiṉiṉṟu terikiṟatu eṉṟu perkkeli
+palkalait tamiḻ-vaṭamoḻip pērāciriyar 'cār'c ·ārṭṭu (George Hart) “The Poems of
+Ancient Tamil: their milieu and their Sanskrit counterparts”, (1975)
+eṉṉum nūlil nuvalkiṟār.
+puṟanāṉūṟṟiṉ cāṉṟu (kuraṅkukaḷum aṇikalaṉum):
+puṟanāṉūṟṟiṉ 378-ām pāṭalil aracaṉiṭamiruntu aṇikalaṉkaḷaip paricil peṟṟa pāṇarkaḷ
+avaṟṟai aṇintukoḷḷum ceytiyai nakaiccuvaiyākac collumpōtu pulavar ūṉpoti
+pacuṅkuṭaiyār kīḻakkaṇṭavāṟu pāṭuvār:
+“...
+ilampā(ṭu) iḻantaeṉ irum pēr okkal
+viralceṟi marapiṉa cevittoṭak kunarum
+cevittoṭar marapiṉa viraṟceṟik kunarum
+araik(ku)amai marapiṉa miṭaṟṟuyāk kunarum
+miṭaṟ(ṟu)amai marapiṉa araikkuyāk kunarum
+kaṭunteṟal irāmaṉ uṭaṉpuṇar cītaiyai
+valittakai arakkaṉ vauviya ñāṉṟai
+nilañcēr mataraṇi kaṇṭa kuraṅkiṉ
+cemmukap peruṅkiḷai iḻaippolin tāaṅ(ku)
+aṟāa arunakai iṉitupeṟ(ṟu) ikumē
+...” [puṟanāṉūṟu: 378:13-21]
+“... [cōḻaṉ iḷañcēṭceṉṉi īnta paricilāl] vaṟumaiyai iḻanta eṉ periya cuṟṟattār avaṉ
+koṭutta aṇikalaṉkaḷil viralukku aṇiya vēṇṭiyataik kātilum kātukku aṇiyavēṇṭiyatai
+viralilum iṭaikku aṇivataik kaḻuttilum aṇintukoṇṭatu perum valimaiyai uṭaiya
+irāmaṉiṉ taṉ tuṇaiyākiya cītaiyai irāvaṇaṉ vauvic ceṉṟapōtu cītai nilattil vīci
+yeṟintirunta nakaikaḷaik kaṇṭeṭuttavuṭaṉ kuraṅkukaḷ avvaṇikalaṉkaḷil etai enta
+uṟuppiṉmītu aṇivateṉṟu teriyāmal taṅkaḷ uṭampiṉmēl māṟi māṟi aṇintukoṇṭataip pōl
+vēṭikkaiyāka iruntatu” eṉṟu colkiṟār.
+vālmīkiyilō (4:6) kuraṅkukaḷ cītaiyiṉ nakaikaḷaik kaṇṭupiṭikkum kāṭcic cittirikkap
+paṭavēyillai; māṟākac cukkirīvaṉ irāmaṉiṭam cītaiyiṉ aṇikalaṉkalaik kāṭṭi avai cītai
+irāvaṇaṉāṟ kaṭattap paṭumpōtu tāṉum nāṉku kuraṅkukaḷum nilattil iruppataik kaṇṭu cītai
+avaṟṟaik kīḻē vīciyatāka maṭṭumē colkiṟāṉ.
+akanāṉūṟṟiṉ cāṉṟu (irāmaṉ avitta ālamaram):
+akanāṉūṟṟiṉ 70-am pāṭal maturait tamiḻk kūttaṉār kaṭuvaṉ maḷḷaṉār pāṭiya neytal
+tiṇaip pāṭalākum. atil talaiviyiṭaṉ kātal toṭarpāka ūrār pēcuvataip paṟṟit
+talaiviyiṭam collumpōtu kīḻkkaṇṭavāṟu kuṟippiṭuvatākap pulavar pāṭuvār:
+“...
+nammoṭu puṇarnta kēṇmai muṉṉē
+alarvāyp peṇṭir ampal tūṟṟap
+palarum āṅ(ku)aṟintaṉar maṉṉē; iṉiyē
+vatuvai kūṭiya piṉṟai....
+...
+veṉvēṟ kavuriyar tolmutu kōṭi
+muḻaṅkuirum pauvam iraṅkum muṉtuṟai
+velpōr irāmaṉ arumaṟaik(ku) avitta
+palvīḻ ālam pōla
+oliavin taṉ(ṟu)iv aḻuṅkal ūrē”. (akanāṉūṟu:70:5-17)
+a·tāvatu, “uṉṉait tirumaṇam ceytukoḷḷummuṉ avarukkum uṉakkum irunta kātalaip paṟṟi
+ūrp peṇkaḷ ūrār palarum aṟiyumāṟu alar (kicukicu!) pēcic ceytiyaip parappiṉar.
+āṉāl, tirumaṇam āṉa piṉṉarō [nilaimai vēṟu];
+veṟṟi tarum vēl ēntiya kauriyar kulattup pāṇṭiyarukkuriya mikap paḻamaiyāṉa
+taṉu*ckōṭiyil muḻaṅkum peruṅ kaṭal alaivīcum tuṟaiyil veṟṟiyaṉṟi vēṟētum aṟiyāta
+irāmaṉ taṉ ilaṅkaip paṭaiyeṭuppup paṟṟi ārāyvataṟkāka ōr āla marattaṭiyiṉ aṭiyil
+amarntiruntāṉ; appōtu amaitiyai vēṇṭi āla marattil amarntirunta paṟavaikaḷai
+oliyeḻuppāmal irukkac ceytatupōl, ūr amaitiyākiviṭṭatu!” eṉṟāḷ.
+mēṟkaṇṭavāṟu taṉu*ckōṭi nikaḻcci vālmīki irāmāyaṇattil illai; atil vēṟumātiri
+uḷḷatu.
+mēṟcuṭṭiya atē nūlil ·ārṭṭuc cāṟṟuvār: “vālmīkiyiṉ vaṭamoḻi irāmāyaṇattait tamiḻ
+irāmāyaṇattōṭu oppiṭumpōtu tamiḻatu kavittuvam niṟaintiruppatu teḷivākiṟatu;
+atilum akanāṉūṟṟu nikaḻcci iṉṉum kavittuvam nirampi yuḷḷatu eṉṟu emakkut
+tōṉṟukiṟatu.
+“vaṭamoḻiyil (6:21) irāmaṉ ilaṅkaiyiṉmēl paṭaiyeṭukkum muṉ kaṭalukku vaṇakkam
+celuttiviṭṭuk karaiyil taruppaippuṟ paṭukkaiyil mūṉṟu pakalum mūṉṟu iravum
+paṭuttuṟaṅkiyapiṉ mīṇṭum kaṭalai vaṇaṅkukiṟāṉ; appōtum kaṭal aṭaṅki iṇaṅkātirukkavum
+taṉ villil nāṉmukaṉ koṭutta ampait (piramāttiram) toṭuttu atai vaṟaṇṭupōmāṟu
+accuṟuttavum kaṭal irāmaṉiṉ viruppattiṟku iṇaṅkukiṟatu.
+“avvāṟu vaṭamoḻiyil kaṟpaṉaiyō oppaṉaiyō iṉṟi akkāṭci cittirikkap paṭṭirukkac
+caṅkakkāla irāmāyaṇattilō irāmaṉ uṟaṅkumpōtu ālamarattai amaitiyākkik kaṭalai muḻaṅkac
+ceytu kaṭaliṉ aṭaṅkāmaiyai tamiḻp pulavaṉ aḻakiya muraṇkāṭṭi veḷikkoṇarkiṟāṉ.
+“attakaiya vēṟupāṭukaḷaik kāṇumpōtum tamiḻp pulavarkaḷ taṅkaḷ avaiyiṉarkku
+irāmāyaṇattaip paṟṟi nalla paḻakkam uḷḷatākak karutip pāṭiyuḷḷataik kāṇumpōtum caṅkak
+kālattilēyē tamiḻakattil tamiḻil ōr irāmāyaṇam iruntirukkavēṇṭum eṉṟu
+tōṉṟukiṟatu. akkālattil irunta tamiḻp pulavarkaḷiṉ pēreṇṇikkaiyaiyaik karutumpōtum
+tamiḻk kavitaiyiṉ uyarnta nilaiyai eṇṇumpōtum atu etirpārkkavēṇṭiya voṉṟē.”
+· ārṭṭut toṭarkiṟār: “ antap paḻaiya irāmāyaṇattiṉ cila pakutikaḷ
+piḻaittiruntirukkalām. mayilai cīṉi vēṅkaṭacāmi “maṟainta pōṉa tamiḻnūlkaḷ” eṉṉum
+nūlil oru paḻaiya irāmāyaṇattiṉiṉṟum nāṉku ceyyuḷkaḷaik kāṭṭiyuḷḷār; appakutikaḷ
+iraṇṭu paḻantokai nūlkaḷiṉ uraiyil iruntataṉāl kākkappaṭṭaṉa. āṉāl avai caṅkak kālat
+tokai nūlkaḷaip pōl toṉmaiyāṉavaiyā eṉṟu nammāl tuṇiya muṭiyavillai.”
+intap paḻaiya irāmāyaṇattiṉ āciriyar peyarum kālamum teriyavillai; āṉāl itu kampa
+irāmāyaṇattiṟkum mikavum muntiyatu eṉpatu uṟuti; ēṉeṉil akavaṟpākkaḷ kampaṉukkum
+pala nūṟṟāṇṭukaḷ muṉpē vaḻakku arukippōyiṉa.
+eṉavē inta ariya ceyyuḷkaḷ kiṭṭiyatu namatu perumpēṟeṉṟu makiḻntu avaṟṟaic
+cuvaittup pōṟṟip pātukāppōmāka. namakkuk kiṭṭiyuḷḷa tamiḻnūlkaḷukku iṉimēlum
+yātōr iṭukkaṇum nērātavāṟu kavaṉamāka iruttal iṉṟiyamaiyātatu. iṉṉum pallāyirak
+kaṇakkāṉa ōlaic cuvaṭikaḷ intiyāvilum airōppāvilum patippuk kāṇāmal uḻalvatu nam
+ellārkkum āṟṟaviyalāta tuyar aḷikkum ceytiyē. nām poruḷutaviyum aṟiñar utaviyum
+tiraṭṭi avaṟṟaik kāppatu nam kaṭamai.
+
+------------------------------------------------------------------------
+
+paḻaiya irāmāyaṇam mayilai cīṉi.vēṅkaṭacāmi:
+
+akavaṟpāviṉāl iyaṟṟappaṭṭa paḻaiya irāmāyāṇam oṉṟu iruntateṉpatu, āciriyamālai eṉṉum
+tokainūliliruntu terikiṟatu. āciriyamālai, āciriyap pākkaḷiṉāl āṉa
+nūlkaḷiliruntu cila pāṭalkaḷ tokukkappaṭṭa ceyyuḷaik koṇṭa nūl. āciriya mālaiyum
+iṟantupaṭṭup pōṉa nūlē. atiliruntu cila ceyyuḷkaḷaip puṟattiraṭṭu eṉṉum
+tokainūlil cērttuḷḷaṉar.
+āciriyamālaiyil tokukkap paṭṭirunta paḻaiya irāmāyaṇac ceyyuḷkaḷil aintu ceyyuḷkaḷ
+puṟattiraṭṭil cērkkap paṭṭuḷḷaṉa. avai kīḻē varumāṟu:
+“māmutu tātai ēvaliṉ ūrtuṟantu
+kāṉuṟai vāḻkkaiyil kalanta irāmaṉ
+māa iralai vēṭṭam pōkit
+talaimakaḷ pirinta taṉimaiyaṉ taṉātu
+cuṟṟamum cēṇiṭai atuvē muṟṟiyatu
+nañcukaṟai paṭutta puṉmiṭaṟ(ṟu) iṟaivaṉ
+ulakupoti uruvamoṭu tokaiit talaināḷ
+veṇkōṭṭuk kuṉṟam eṭutta mīḷi
+vaṉtōḷ āṇtakai ūrē aṉṟē
+colmuṟai maṟantaṉam vāḻi
+villum uṇ(ṭu)avaṟ(ku) annāḷ āṅkē.
+arumpatak kuṟippu:
+tātai = tantai; iralai = māṉ; vēṭṭam = vēṭṭai; miṭaṟu = kaḻuttu; nañcu...iṟaivaṉ =
+nañcuṇṭa...civaṉ; veṇkōṭṭuk kuṉṟam = paṉi paṭarnta ucciyaik koṇṭa imayam; mīḷi = valiya
+āṭavaṉ (irāvaṇaṉ). irāmaṉ māyamaṉ vēṭṭaiyāl cītaiyaip pirintatum, civaṉ amarntirunta
+imayattai irāvaṇaṉ eṭukka muyaṉṟatum pāṭappaṭukiṉṟaṉa.
+-----------
+mātark keṇṭai varippuṟat tōṟṟamum
+nīlak kuvaḷai niṟaṉum pāḻpaṭa
+ilaṅkai akaḻi mūṉṟum arakkiyar
+karuṅkā ṉeṭumaḻaik kaṇṇum viḷim(pu)aḻintu
+perunīr ukuttaṉa mātō vatuvak
+kuraṅkutoḻil āṇṭa irāmaṉ
+alaṅkutaṭa(ṟu) oḷvāḷ akaṉṟa ñāṉṟē.
+arumpatak kuṟippu:
+alaṅku = miṉṉukiṉṟa; taṭaṟu = uṟai
+-------------
+irucuṭar vaḻaṅkāp perumū(tu) ilaṅkai
+neṭuntōḷ irāmaṉ kaṭanta ñāṉṟai
+eṇ(ku)iṭai miṭainta paiṅkaṇ cēṉaiyiṟ
+paccai pōrtta palapuṟat taṇṇaṭai
+eccār maruṅkiṉum eyiṟpuṟat(tu) iṟuttaliṉ
+kaṭalcūḻ araṇam pōṉṟa
+uṭalciṉa vēntaṉ muṟṟiya ūrē.”
+arumpatak kuṟippu:
+ñāṉṟu = kālam; eṇku miṭainta = karaṭikaḷ kalanta (cukkirīvaṉ cēṉaiyil 'cāmpavāṉ
+mutaliya karaṭikaḷ iruntaṉa). eyil = matil
+mēṟkaṇṭa ceyyuḷkaḷ tolkāppiyam:puṟattiṇai:12-ām cūttira uraiyil
+nacciṉārkkiṉiyarālum mēṟkōḷ kāṭṭap paṭṭuḷḷaṉa.
+--------
+“mēlatu vāṉattu mūvā nakarum
+kīḻatu nākar nāṭum puṭaiyaṉa
+ticaikāp pāḷar tēyak kuṟumpum
+koḷḷai cāṟṟik kavarntumuṉ tanta
+palvēṟu viḻuniti ellām avvaḻik
+kaṇnutal vāṉavaṉ kātaliṉ irunta
+kuṉ(ṟu)ēntu taṭakkai aṉaittum toḻiluṟat
+tōlāt tuppiṉ tāḷniḻal vāḻkkai
+valampaṭu maḷḷarkku vīci vakuttaṉaṉ
+mālai veṇkuṭai arakkar kōvē.
+arumpatak kuṟippu:
+tōlā = tōlviyaṭaiyāta; tuppu = valimai; maḷḷar = vīrar;
+irāvaṇaṉ tāṉ cērtta celvattait taṉ vīrarkku vakuttu aḷittatu collappaṭṭuḷḷatu.
+-----------
+irupāl cēṉaiyum naṉimaruṇṭu nōkka
+muṭukiyal peruvicai aravukkaṭum koṭpiṉ
+eṇticai maruṅkiṉum eṇniṟaintu tōṉṟiṉum
+orutaṉi aṉumaṉ kaiakaṉṟu parappiya
+vaṉmaram tuṇipaṭa vēṟupala nōṉpaṭai
+vaḻaṅki akampaṉtōḷ paṭaiyāka ōcci
+āṅka,
+aṉumaṉ aṅkaiyiṉ aḻuttaliṉ taṉātu
+vaṉtalai uṭalpukkuk kuḷippa mukamkarin(tu)
+uyirpōku cenneṟi peṟāmaiyiṉ
+poruḷakattu niṉṟaṉa neṭumcēṇ poḻutē.
+kaṭalum malaiyum nērpaṭak kiṭanta
+maṇṇa vaḷāka nuṇveyil tukaḷiṉum
+noytāl amma tāṉē i·(tu)avaṉ
+kuṟittaṉa neṭiyāṉ kollō moytava
+vāṅkucilai irāmaṉ tampi āṅ(ku)avaṉ
+aṭipoṟai āṟṟiṉ allatu
+muṭipoṟai āṟṟalaṉ paṭipoṟai kuṟittē.”
+mēṟkaṇṭa ceyyuḷai nacciṉārkkiṉiyar tolkāppiyam:poruḷ:puṟattiṇai:21-ām cūttirattiṉ
+“kaṭṭil nītta pāl” eṉpataṉ uraiyil mēṟkōḷkāṭṭiyuḷḷār.
+paḻaiya irāmāyaṇam- kiṭṭiyuḷḷa ceyyuḷkaḷiṉ tokai muṟṟiṟṟu.
+-----------
+
+------------------------------------------------------------------------
+
+This webpage was last revised on 11 August 2021.
+Feel free to send the corrections by email to the webmaster
+(pmadurai@gmail.com).
