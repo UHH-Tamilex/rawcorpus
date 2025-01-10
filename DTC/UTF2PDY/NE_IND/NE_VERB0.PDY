@@ -1,0 +1,1659 @@
+<HTML>
+<HEAD>
+<TITLE>Various List of Verb forms in AN_neytal</TITLE>
+</HEAD>
+
+<BODY>
+<FONT FACE="Times3">
+
+<H3>STATISTICS</H3>
+
+<UL>
+<li>Anthology name: Akan��u (Neytal subset) (=AN, neytal; =NE)
+<li>Anthology length: 658 lines
+<li>Number of "v.r.": 215 occ. (of 116 distinct elements)
+<li>Density of "v.r.": 215/658 = 33%
+<li>Number of "ceyyum" type PE (peyar eccam): 86 occ. (of 70 distinct elements)
+<li>Density of "ceyyum" type PE: 86/658 = 13.1 %
+<li>Number of "ceyta" type PE (peyar eccam): 140 occ. (of 100 distinct elements)
+<li>Density of "ceyta" type PE: 140/658 =  21.3 %
+</UL>
+
+
+<HR>
+<H3>List of Lists</H3>
+<UL>
+<li>Verbal roots: <A HREF="#_vr">215 words</A> (and vocab. = 116)
+<li>Peyar Eccam (ceyyum type) <A HREF="#_pe1">86 words</A> (and vocab. = 70)
+<li>Peyar Eccam (ceyta type) <A HREF="#_pe2">140 words</A> (and vocab. = 100)
+<li>Negative Peyar Eccam (Model: ceyy�tu) <A HREF="#_PEneg">20 words</A> (and vocab. = 19)
+<li>Comparative Peyar Eccam (Model: ceyta��a) <A HREF="#_PEcomp">9 words</A> (and vocab. = 7)
+<HR>
+<li>Vi�ai Eccam type 1 (ceytu): 200 words (and vocabulary = 129)
+<ul>
+<li>Vi�ai Eccam type 1a: <A HREF="#_VE1a">88 words</A> (and vocab. = 59)
+<li>Vi�ai Eccam type 1b: <A HREF="#_VE1b">109 words</A> (and vocab. = 67)
+<li>Vi�ai Eccam type 1c: <A HREF="#_VE1c">2 words</A> (and vocab. = 2)
+</ul>
+<li>Vi�ai Eccam type 2 (ceyy�/ceyy�): <A HREF="#_VE2">2 words</A> (and vocab. = 1)
+<li>Vi�ai Eccam type 3 (ceypu): <A HREF="#_VE3">8 words</A> (and vocab. = 7)
+<li>Vi�ai Eccam type 4 (ceyte�a): <A HREF="#_VE4">4 words</A> (and vocab. = 4)
+<li>Vi�ai Eccam type 5 (ceyyiyar): <A HREF="#_VE5">1 words</A> (and vocab. = 1)
+<li>Vi�ai Eccam type 6 (ceyyiya): <A HREF="#_VE6">2 words</A> (and vocab. = 2)
+<li>Vi�ai Eccam type 7 (ceyi�): <A HREF="#_VE7">15 words</A> (and vocab. = 13)
+<li>Vi�ai Eccam type 8 (ceya):183 words (and vocabulary = 92)
+<ul>
+<li>Vi�ai Eccam type 8a: <A HREF="#_VE8a">159 words</A> (and vocab. = 72)
+<li>Vi�ai Eccam type 8b: <A HREF="#_VE8b">24 words</A> (and vocab. = 20)
+</ul>
+<li>Negative Vi�ai Eccam (ceyy�tu): <A HREF="#_VEneg">16 words</A> (and vocab. = 13)
+<li>Comparative Vi�ai Eccam (ceyt��ku): <A HREF="#_VEcomp">1 words</A> (and vocab. = 1)
+</UL>
+
+<HR>
+<H3>HOW THIS FILE WAS MADE</H3>
+
+<UL>
+<li>Open Eva's file Akamindex.doc (dated 6 april 2004)
+<li>Select everything
+<li>Start "BlocNote" (NotePad)
+<li>Paste, and save in UTF8 text format (NeEvaLst.utf)
+<li>apply UTF_2pdy.bat and obtin a new file  (NeEvaLst.pdy)
+<li>run the dos command: [find "v.r." NeEvaLst.pdy &gt; ne_vr.pdy
+<li>"slightly" edit the result and make it into an hyperlinked file
+<BR>(for instance make a search and replace of *.[0-9]* by ^J&lt;BR&gt;@*.?*, etc.
+<li>interprete the statistics .......... (there seems to be 215 v.r. = verbal roots)
+<li>Do the same with other categories
+</UL>
+
+<HR>
+
+<H3><A NAME="_vr">LIST of verbal roots</A> found by Eva in AN neytal</H3>
+<OL>
+<li> akal		DED2 8: 3. to leave; to widen - v.r. 
+<BR><A HREF="akam370.htm">[370-3]</A> 
+<BR><A HREF="akam380.htm">[380-4]</A>
+<li> aci               DED2 37: 4. to move - v.r. 
+<BR><A HREF="akam040.htm">[40-5]</A> 
+<BR><A HREF="akam340.htm">[340-22]</A>
+<li>[a�ai-kari	v.r. 
+<BR><A HREF="akam010.htm">[10-11]</A> 
+<BR><A HREF="akam030.htm">[30-7]</A> 
+<BR><A HREF="akam060.htm">[60-9]</A> 
+<BR><A HREF="akam080.htm">[80-7]</A> 
+<BR><A HREF="akam130.htm">[130-4]</A> 
+<BR><A HREF="akam280.htm">[280-3]</A>]
+<li>a�i		4. to adorn - v.r. 
+<BR><A HREF="akam020.htm">[20-9]</A> 
+<BR><A HREF="akam100.htm">[100-9]</A> 
+<BR><A HREF="akam210.htm">[210-4]</A> 
+<BR><A HREF="akam320.htm">[320-3]</A> 
+<BR><A HREF="akam320.htm">[320-10]</A>
+<li> amar		DED2: 161: 4. to abide - v.r. 
+<BR><A HREF="akam320.htm">[320-9v]</A>
+<li>ami		DED2 161: 4. to become still - v.r. 
+<BR><A HREF="akam400.htm">[400-5]</A>
+<li> ayar		DED2 39: 4. to immerse oneself - v.r. 
+<BR><A HREF="akam320.htm">[320-4]</A>
+<li> aruntu	DED2 368: 5. to eat - v.r. 
+<BR><A HREF="akam120.htm">[120-2]</A> 
+<BR><A HREF="akam360.htm">[360-16]</A>
+<li>ari		ind. = DED2 228(a): ari 11. to grind - v.r. 
+<BR><A HREF="akam100.htm">[100-1]</A> ??
+<li> [alku�u	+ v.r. of u�u 
+<BR><A HREF="akam040.htm">[40-5]</A> 
+<BR><A HREF="akam290.htm">[290-5]</A>]
+<li> avi�		TL (= DED2 12: to become lose?): 4. to open (refl./tr.) - v.r. 
+<BR><A HREF="akam080.htm">[80-11]</A> 
+<BR><A HREF="akam090.htm">[90-3]</A>
+<li> a�i		4. to perish - v.r. 
+<BR><A HREF="akam190.htm">[190-13]</A> 
+<BR><A HREF="akam290.htm">[290-9]</A>
+<li> a�i		DED2 314: 4. to know - v.r. 
+<BR><A HREF="akam020.htm">[20-12]</A> 
+<BR><A HREF="akam140.htm">[140-9]</A> 
+<BR><A HREF="akam320.htm">[320-14]</A>
+<li> ��u		DED2 347: 5. to dance, play - v.r. 
+<BR><A HREF="akam100.htm">[100-9]</A> 
+<BR><A HREF="akam260.htm">[260-4]</A> 
+<BR><A HREF="akam370.htm">[370-15]</A>
+<li> �y		DED2 363: 4. to select - v.r. 
+<BR><A HREF="akam280.htm">[280-4]</A> 
+<BR><A HREF="akam330.htm">[330-14]</A>
+<li> �r		DED2 368: 4. to become full - v.r. 
+<BR><A HREF="akam040.htm">[40-3]</A> 
+<BR><A HREF="akam150.htm">[150-14]</A> 
+<BR><A HREF="akam180.htm">[180-6]</A> 
+<BR><A HREF="akam300.htm">[300-4]</A>
+<li> iku		TL (not DED): 6. to break - v.r. 
+<BR><A HREF="akam400.htm">[400-12]</A>
+<li> i�u		DED2 442: 6. to place - v.r. 
+<BR><A HREF="akam020.htm">[20-7]</A>
+<li> imir		DED2 466: 4. to sound, hum - v.r. 
+<BR><A HREF="akam170.htm">[170-2]</A> 
+<BR><A HREF="akam250.htm">[250-3]</A> 
+<BR><A HREF="akam280.htm">[280-13]</A> 
+<BR><A HREF="akam340.htm">[340-18]</A>
+<li> ila�ku	DED2 829: 5. to shine - v.r. 
+<BR><A HREF="akam200.htm">[200-1]</A> 
+<BR><A HREF="akam350.htm">[350-10]</A>
+<li> ivar		DED2 3730: 4. to climb - v.r. 
+<BR><A HREF="akam130.htm">[130-9]</A>
+<li> i�i		DED2 502: 4. to fall --- v.r. 
+<BR><A HREF="akam350.htm">[350-13]</A> 
+<BR><A HREF="akam360.htm">[360-14]</A>
+<li>u�ai		DED2 946: 4. intr. to break --- v.r. 
+<BR><A HREF="akam010.htm">[10-9]</A> 
+<BR><A HREF="akam200.htm">[200-8]</A> 
+<BR><A HREF="akam310.htm">[310-16]</A>
+<li> u�		DED2 600: 7. to eat --- v.r. 
+<BR><A HREF="akam380.htm">[380-4]</A>
+<li> umi�		DED2 636: 4. to shoot --- v.r. 
+<BR><A HREF="akam210.htm">[210-3]</A>
+<li> uyar		4. to be high --- v.r. 
+<BR><A HREF="akam160.htm">[160-14]</A> 
+<BR><A HREF="akam190.htm">[190-6]</A> 
+<li>u��u 		5. to remember --- v.r. 
+<BR><A HREF="akam220.htm">[220-10]</A>
+<li> u�u		DED2 710 (711?): 6. to have --- v.r. 
+<BR><A HREF="akam040.htm">[40-5]</A> 
+<BR><A HREF="akam170.htm">[170-13]</A> 
+<BR><A HREF="akam210.htm">[210-2]</A> 
+<BR><A HREF="akam230.htm">[230-1]</A> 
+<BR><A HREF="akam290.htm">[290-5]</A> 
+<li>e�u		DED2 851(a): 4. to rise --- v.r. 
+<BR><A HREF="akam150.htm">[150-3]</A>
+<li>[e�utarum	+ v.r. of taru 
+<BR><A HREF="akam150.htm">[150-3]</A>]
+<li> e�i		DED2 859: 4. to throw --- v.r. 
+<BR><A HREF="akam210.htm">[210-2]</A> 
+<BR><A HREF="akam350.htm">[350-2]</A> 
+<BR><A HREF="akam350.htm">[350-10]</A>
+<li> e� 		DED2 668: 8. to say --- v.r. 
+<BR><A HREF="akam110.htm">[110-13]</A> 
+<BR><A HREF="akam170.htm">[170-12]</A> 
+<BR><A HREF="akam190.htm">[190-15]</A>
+<li> �ntu		DED2 870: 5. to be eminent --- v.r. 
+<BR><A HREF="akam230.htm">[230-13]</A> 
+<BR><A HREF="akam350.htm">[350-8]</A>
+<li> �mu�u	TL: 6. to be delighted, to be confused --- v.r. 
+<BR><A HREF="akam210.htm">[210-2]</A>
+<li> �r		TL (not DED): 4. to resemble --- v.r. 
+<BR><A HREF="akam180.htm">[180-14]</A> 
+<BR><A HREF="akam290.htm">[290-15]</A> 
+<BR><A HREF="akam290.htm">[290-16]</A> 
+<BR><A HREF="akam320.htm">[320-6]</A>
+<li> o�u�ku	5. to be restrined --- v.r. 
+<BR><A HREF="akam160.htm">[160-1]</A>
+<li> oy		DED2 984: 4. to carry --- v.r. 
+<BR><A HREF="akam030.htm">[30-5]</A> 
+<BR><A HREF="akam310.htm">[310-14]</A>
+<li>olku		DED2 1004: 5. to become weak - v.r. 
+<BR><A HREF="akam250.htm">[250-2]</A> 
+<BR><A HREF="akam390.htm">[390-7]</A>
+<li> oli		DED2 997: 4.? to sprout --- v.r. 
+<BR><A HREF="akam350.htm">[350-12]</A> 
+<li> ��ku		DED2 1033: 5. to become high --- v.r. 
+<BR><A HREF="akam020.htm">[20-5]</A> 
+<BR><A HREF="akam200.htm">[200-9]</A> 
+<BR><A HREF="akam320.htm">[320-1]</A>
+<li>ka�/k��	DED2 1159: 13. to see --- v.r. 
+<BR><A HREF="akam150.htm">[150-12]</A> 
+<BR><A HREF="akam220.htm">[220-7]</A> 
+<BR><A HREF="akam250.htm">[250-4]</A>
+<li> kata�		DED2 1188: 4. to hasten - v.r. 
+<BR><A HREF="akam140.htm">[140-5]</A> 
+<BR><A HREF="akam180.htm">[180-4]</A>
+<li> kama�	DED2 1247: 4. to be fragrant --- v.r. 
+<BR><A HREF="akam010.htm">[10-12]</A> 
+<BR><A HREF="akam170.htm">[170-5]</A> 
+<BR><A HREF="akam250.htm">[250-4]</A> 
+<BR><A HREF="akam260.htm">[260-8]</A>
+<li> kavar		DED2 1326: 4. to seize --- v.r. 
+<BR><A HREF="akam130.htm">[130-10]</A>
+<li> kuvi		DED2 1741: 4./11. to heap --- v.r. 
+<BR><A HREF="akam240.htm">[240-11]</A>
+<li>ko�u		DED2 2053: 11. to give - v.r. 
+<BR><A HREF="akam050.htm">[50-13]</A>
+<li>ko�		DED2 2151: 2. to take --- v.r. 
+<BR><A HREF="akam250.htm">[250-5]</A> 
+<BR><A HREF="akam300.htm">[300-3]</A> 
+<BR><A HREF="akam370.htm">[370-14]</A>
+<li> koy		DED2 2119: 1. to pluck --- v.r. 
+<BR><A HREF="akam270.htm">[270-8]</A>
+<li> c�y		DED2 2456: 11. to bend - v.r. 
+<BR><A HREF="akam220.htm">[220-18]</A>
+<li> c�l		DED2 2470: 3. to be worthy --- v.r. 
+<BR><A HREF="akam280.htm">[280-5]</A>
+<li> curi		DED2 2684: 4. to wind --- v.r. 
+<BR><A HREF="akam390.htm">[390-5]</A>
+<li> ce�i		DED2 1980: 4. to be tight --- v.r. 
+<BR><A HREF="akam040.htm">[40-15]</A> 
+<BR><A HREF="akam300.htm">[300-7]</A>
+<li> c�r		DED2 2814: 4. intr. to join --- v.r. 
+<BR><A HREF="akam050.htm">[50-11]</A> 
+<BR><A HREF="akam290.htm">[290-9]</A>
+<li> tatar 		DED2 2322: 4. to be squashed --- v.r. 
+<BR><A HREF="akam390.htm">[390-3v]</A>
+<li> tati		DED2 3315: 4. to be densely packed --- v.r. 
+<BR><A HREF="akam180.htm">[180-3]</A>
+<li> taru/t�	DED2 3098: 13. to give --- v.r. 
+<BR><A HREF="akam060.htm">[60-14]</A>
+<li> t��ku		DED2 3153: 5. to endure --- v.r. 
+<BR><A HREF="akam400.htm">[400-10]</A>
+<li> tira�		DED2 3245: 2. to become round --- v.r. 
+<BR><A HREF="akam280.htm">[280-12]</A>
+<li>tu�cu		DED2 3291: 5. to sleep --- v.r. 
+<BR><A HREF="akam360.htm">[360-12]</A>
+<li>tuyal		DED2 3376(b): 5. to swing --- v.r. 
+<BR><A HREF="akam370.htm">[370-11]</A> 
+<BR><A HREF="akam400.htm">[400-20]</A>
+<li> te�		DED2 3433: 9. to become clear --- v.r. 
+<BR><A HREF="akam290.htm">[290-13]</A> 
+<BR><A HREF="akam340.htm">[340-24]</A>
+<li> to�u		DED2 3525: 1. to worship --- v.r. 
+<BR><A HREF="akam310.htm">[310-3]</A>
+<li>[to�utaku	+ v.r. taku 
+<BR><A HREF="akam310.htm">[310-3]</A>]
+<li> t���u		5. to appear --- v.r. 
+<BR><A HREF="akam310.htm">[310-12]</A>
+<li> na�u�ku	5. to shiver --- v.r. 
+<BR><A HREF="akam320.htm">[320-11]</A>
+<li>[nalampe�u	+ v.r. pe�u 
+<BR><A HREF="akam280.htm">[280-2]</A>]
+<li> n��u		5. to be fragrant --- v.r. 
+<BR><A HREF="akam130.htm">[130-8]</A> 
+<BR><A HREF="akam150.htm">[150-11]</A> 
+<BR><A HREF="akam160.htm">[160-6]</A> 
+<BR><A HREF="akam180.htm">[180-10]</A>
+<li> n��u		DED2 3692: 5. to prolong --- v.r. 
+<BR><A HREF="akam150.htm">[150-5]</A> 
+<BR><A HREF="akam400.htm">[400-26]</A>
+<li> nu�a�ku	5. to become fine --- v.r. 
+<BR><A HREF="akam300.htm">[300-2]</A>
+<li> neki�		DED2 2923: 4. to become loose --- v.r. 
+<BR><A HREF="akam260.htm">[260-14]</A>
+<li> n�r		DED2 3770?: 11. to resemble --- v.r. (
+<BR><A HREF="akam180.htm">[180-14]</A>) (
+<BR><A HREF="akam290.htm">[290-16]</A>)
+<li> n��		8. to endure --- v.r. 
+<BR><A HREF="akam030.htm">[30-6]</A> 
+<BR><A HREF="akam400.htm">[400-14]</A>
+<li> paku		DED2 3808: 6. to be split --- v.r. 
+<BR><A HREF="akam160.htm">[160-7]</A>
+<li> pa�u	DED2 3852/3853?: 6. to happen --- v.r. 
+<BR><A HREF="akam020.htm">[20-2]</A> 
+<BR><A HREF="akam080.htm">[80-6]</A> 
+<BR><A HREF="akam170.htm">[170-9]</A> 
+<BR><A HREF="akam200.htm">[200-8]</A> 
+<BR><A HREF="akam210.htm">[210-12]</A> 
+<BR><A HREF="akam270.htm">[270-5]</A> 
+<BR><A HREF="akam310.htm">[310-15]</A> 
+<BR><A HREF="akam330.htm">[330-17]</A> 
+<BR><A HREF="akam390.htm">[390-2]</A>
+<li>pa�ar		(DED2 3844?): 4. to set out; to think of --- v.r. 
+<BR><A HREF="akam210.htm">[210-6]</A>
+<li> pa�i		DED2 3888: 4. to be humble --- v.r. 
+<BR><A HREF="akam220.htm">[220-2]</A> 
+<BR><A HREF="akam310.htm">[310-4]</A>
+<li> payil		DED2 3942: 3. to become dense --- v.r. 
+<BR><A HREF="akam210.htm">[210-5]</A>
+<li> p��u		DED2 4065: 5. to sing --- v.r. 
+<BR><A HREF="akam030.htm">[30-2]</A> 
+<BR><A HREF="akam040.htm">[40-2]</A> 
+<BR><A HREF="akam050.htm">[50-1]</A> 
+<BR><A HREF="akam260.htm">[260-4]</A> 
+<BR><A HREF="akam350.htm">[350-5]</A> 
+<BR><A HREF="akam400.htm">[400-25]</A>
+<li> p�y		DED2 4087: 4. to spring - DED2 4088: 4. to spread --- v.r. 
+<BR><A HREF="akam160.htm">[160-18]</A> 
+<BR><A HREF="akam240.htm">[240-10]</A>
+<li> p��u		DED2 4020: 5. to be scattered - v.r. 
+<BR><A HREF="akam300.htm">[300-7]</A>
+<li> pu�ar		DED2 4160(b): 4. intr. to unite --- v.r. 
+<BR><A HREF="akam030.htm">[30-3]</A> 
+<BR><A HREF="akam080.htm">[80-5]</A> 
+<BR><A HREF="akam260.htm">[260-6]</A>
+<li> pular		DED2 4305: 4. to dawn - v.r. 
+<BR><A HREF="akam100.htm">[100-15]</A>
+<li> p���u		DED2 4361: 5. to fasten --- v.r. 
+<BR><A HREF="akam300.htm">[300-6]</A>
+<li> peyar		DED2 4409: 4. to move --- v.r. 
+<BR><A HREF="akam330.htm">[330-7]</A>
+<li> po�ku	DED2 4469: 5. to foam --- v.r. 
+<BR><A HREF="akam190.htm">[190-9]</A>
+<li> poti		DED2 4509: 4. to bundle --- v.r. 
+<BR><A HREF="akam160.htm">[160-13]</A>
+<li> p�l		DED2 4597: 3. to be similar --- v.r. 
+<BR><A HREF="akam150.htm">[150-8]</A> 
+<BR><A HREF="akam170.htm">[170-4]</A> 
+<BR><A HREF="akam230.htm">[230-2]</A>
+<li> ma�i		DED2 4652: 4.? to droop - v.r. 
+<BR><A HREF="akam050.htm">[50-11]</A> 
+<BR><A HREF="akam170.htm">[170-11]</A>
+<li> maya�ku	DED2 4706: 5. to be confused --- v.r. 
+<BR><A HREF="akam250.htm">[250-1]</A>
+<li> mar�u	= maruvu? DED2 4722: 5. to join together - v.r. 
+<BR><A HREF="akam280.htm">[280-7]</A>
+<li> malku	to increase --- v.r. 
+<BR><A HREF="akam250.htm">[250-2]</A>
+<li> mali		DED2 4729: 4. to be much --- v.r. 
+<BR><A HREF="akam200.htm">[200-1]</A> 
+<BR><A HREF="akam300.htm">[300-17v]</A> 
+<BR><A HREF="akam400.htm">[400-20]</A>
+<li> mi�ai		TL (DED 3977?): 4. to be set close - v.r. 
+<BR><A HREF="akam270.htm">[270-12]</A>
+<li> mu�a�ku	DED2 4919: 5. to bend --- v.r. 
+<BR><A HREF="akam220.htm">[220-17]</A>
+<li> mutir		DED2 4954: 4. to ripen --- v.r. 
+<BR><A HREF="akam010.htm">[10-3]</A>
+<li> muyal	DED2 4067: 3. to make an effort - v.r. 
+<BR><A HREF="akam140.htm">[140-11]</A>
+<li> mu�a�ku	5. to thunder --- v.r. 
+<BR><A HREF="akam070.htm">[70-14]</A> 
+<BR><A HREF="akam220.htm">[220-12]</A>
+<li> melku	5. to become soft - v.r. 
+<BR><A HREF="akam290.htm">[290-5]</A>
+<li> m�y		DED2 5093: 4. to graze --- v.r. 
+<BR><A HREF="akam150.htm">[150-7]</A> 
+<BR><A HREF="akam200.htm">[200-7]</A>
+<li> va�i		DED2 5223: 4. to trickle; to be clear - v.r. 
+<BR><A HREF="akam350.htm">[350-7]</A>
+<li> va�ar		DED2 5236: 4. to curve --- v.r. 
+<BR><A HREF="akam390.htm">[390-5]</A>
+<li> varu		DED2 5270: 13. to come --- v.r. 
+<BR><A HREF="akam190.htm">[190-3]</A> 
+<BR><A HREF="akam360.htm">[360-6]</A>
+<li> va�a�ku	DED2 5292: 5. to roam --- v.r. 
+<BR><A HREF="akam260.htm">[260-13]</A>
+<li> v��ku	DED2 5335: 5. to bend; to drag --- v.r. 
+<BR><A HREF="akam130.htm">[130-12]</A> 
+<BR><A HREF="akam270.htm">[270-6]</A> 
+<BR><A HREF="akam320.htm">[320-1]</A> 
+<BR><A HREF="akam390.htm">[390-10]</A>
+<li>v�y		DED2 5350: 4. to be fit; to surpass - v.r. 
+<BR><A HREF="akam370.htm">[370-1]</A>?
+<li> v�r		DED2 5356: 4. to overflow --- v.r. 
+<BR><A HREF="akam300.htm">[300-6]</A>
+<li> v�		DED2 5372: 4. to live --- v.r. 
+<BR><A HREF="akam390.htm">[390-11]</A>
+<li> viri		DED2 5411: 4. to expand --- v.r. 
+<BR><A HREF="akam100.htm">[100-12]</A> 
+<BR><A HREF="akam280.htm">[280-11]</A> 
+<BR><A HREF="akam310.htm">[310-12]</A> 
+<li> viri		DED2 5417: 12. hurry --- v.r. 
+<BR><A HREF="akam190.htm">[190-14]</A>
+<li> vi�a�ku	DED2 5496(a): 5. to shine --- v.r. 
+<BR><A HREF="akam080.htm">[80-11]</A>
+<li> vi�ai		DED2 5437: 4. to ripen --- v.r. 
+<BR><A HREF="akam390.htm">[390-1]</A>
+<li> v��ku		DED2 5448(a): 5. to swell --- v.r. 
+<BR><A HREF="akam400.htm">[400-10]</A>
+<li> v�		DED2 5430: 4. to descend --- v.r. 
+<BR><A HREF="akam020.htm">[20-6]</A> 
+<BR><A HREF="akam380.htm">[380-6]</A>
+<li> [veruvaru	+ v.r. varu 
+<BR><A HREF="akam360.htm">[360-6]</A>]
+<li> vel		DED2 5493: 3. to overcome --- v.r. 
+<BR><A HREF="akam070.htm">[70-15]</A>
+<li>v�y		DED2 5532: 4. to cover - v.r. 
+<BR><A HREF="akam200.htm">[200-2]</A> 
+<BR><A HREF="akam230.htm">[230-14]</A> 
+<BR><A HREF="akam240.htm">[240-14]</A> 
+<BR><A HREF="akam390.htm">[390-13]</A>
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_pe1">LIST of peyar eccam forms of ceyyum type</A> found by Eva in AN neytal</H3>
+<OL>
+<li> akavum	pey. 
+<BR><A HREF="akam120.htm">[120-15]</A>
+<li> ac�am	pey. 
+<BR><A HREF="akam170.htm">[170-9]</A>
+<li> ayarum	pey. 
+<BR><A HREF="akam240.htm">[240-9]</A> 
+<li> aruntum	pey. 
+<BR><A HREF="akam120.htm">[120-2v]</A> 
+<li> alamarum	pey. 
+<BR><A HREF="akam270.htm">[270-11]</A>
+<li> �kum		pey. 
+<BR><A HREF="akam160.htm">[160-7]</A>
+<li>�m		pey. 
+<BR><A HREF="akam400.htm">[400-13]</A>
+<li> ��um		pey. 
+<BR><A HREF="akam090.htm">[90-2]</A>
+<li> �rkkum	pey. 
+<BR><A HREF="akam040.htm">[40-5]</A>
+<li> i��um	pey. 
+<BR><A HREF="akam380.htm">[380-6]</A>
+<li>iyalum	pey. 
+<BR><A HREF="akam390.htm">[390-9]</A>
+<li> ira�kum	pey. 
+<BR><A HREF="akam070.htm">[70-14]</A> 
+<BR><A HREF="akam400.htm">[400-25]</A>
+<li>[i�itarum	+ pey. of taru 
+<BR><A HREF="akam350.htm">[350-13]</A>]
+<li>[u�aitarum 	+ pey. of taru 
+<BR><A HREF="akam010.htm">[10-9]</A> 
+<BR><A HREF="akam200.htm">[200-8]</A> 
+<BR><A HREF="akam310.htm">[310-16]</A>]
+<li> uya�kum 	pey. 
+<BR><A HREF="akam060.htm">[60-11]</A> 
+<BR><A HREF="akam270.htm">[270-14]</A>
+<li> uyirkkum	pey. 
+<BR><A HREF="akam140.htm">[140-5]</A>
+<li> u�arum	pey. 
+<BR><A HREF="akam320.htm">[320-9]</A>
+<li> u�aikkum	pey. 
+<BR><A HREF="akam080.htm">[80-12]</A>
+<li> u�aiyum	pey. 
+<BR><A HREF="akam260.htm">[260-12]</A>
+<li> e��um	pey. 
+<BR><A HREF="akam190.htm">[190-3]</A>
+<li> e��um	pey. 
+<BR><A HREF="akam210.htm">[210-13]</A>
+<li> olikkum	pey. 
+<BR><A HREF="akam160.htm">[160-16]</A>
+<li> �mpum	pey. 
+<BR><A HREF="akam160.htm">[160-8]</A>
+<li> �rum		pey. 
+<BR><A HREF="akam310.htm">[310-6]</A>
+<li> ka�ukkum	pey. 
+<BR><A HREF="akam140.htm">[140-11]</A>
+<li> kama�um	pey. 
+<BR><A HREF="akam070.htm">[70-2]</A>
+<li> karakkum	pey. 
+<BR><A HREF="akam050.htm">[50-13]</A>
+<li> ka�avum	pey. 
+<BR><A HREF="akam170.htm">[170-12]</A>
+<li>ki�arum	pey. 
+<BR><A HREF="akam170.htm">[170-7]</A>
+<li> ku�a�um	pey. 
+<BR><A HREF="akam260.htm">[260-13]</A>
+<li> k�um		pey. 
+<BR><A HREF="akam310.htm">[310-13]</A>
+<li> k���um	pey. 
+<BR><A HREF="akam070.htm">[70-12]</A> 
+<li> ko�kum	pey. 
+<BR><A HREF="akam020.htm">[20-16]</A> 
+<BR><A HREF="akam220.htm">[220-12]</A> 
+<BR><A HREF="akam340.htm">[340-10]</A>
+<li> ko�ukkum	pey. 
+<BR><A HREF="akam060.htm">[60-6]</A> 
+<li>ko��um	pey. 
+<BR><A HREF="akam060.htm">[60-12]</A>
+<li> citikkum	pey. 
+<BR><A HREF="akam090.htm">[90-2]</A>
+<li> ce�ikkum	pey. 
+<BR><A HREF="akam220.htm">[220-17]</A>
+<li> c�kkum	pey. 
+<BR><A HREF="akam040.htm">[40-16]</A> 
+<BR><A HREF="akam360.htm">[360-17]</A>
+<li> tatumpum	pey. 
+<BR><A HREF="akam040.htm">[40-13]</A>
+<li> tapukkum	pey. 
+<BR><A HREF="akam130.htm">[130-10]</A>
+<li>tarum		pey. 
+<BR><A HREF="akam010.htm">[10-9]</A> 
+<BR><A HREF="akam200.htm">[200-8]</A> 
+<BR><A HREF="akam310.htm">[310-16]</A> 
+<BR><A HREF="akam350.htm">[350-13]</A>
+<li> ta�arum	pey. 
+<BR><A HREF="akam170.htm">[170-7v]</A>
+<li> t�am		pey. 
+<BR><A HREF="akam360.htm">[360-18]</A>
+<li> tu�cum	pey. 
+<BR><A HREF="akam030.htm">[30-11]</A>
+<li>[tuyalvarum	+ pey. of varu 
+<BR><A HREF="akam400.htm">[400-20]</A>]
+<li> t��kum	pey. 
+<BR><A HREF="akam340.htm">[340-23]</A>
+<li> te�iyum��u	pey. 
+<BR><A HREF="akam220.htm">[220-22]</A>
+<li> t�yum	pey. 
+<BR><A HREF="akam270.htm">[270-6]</A>
+<li> t���um	pey. 
+<BR><A HREF="akam100.htm">[100-10]</A> 
+<BR><A HREF="akam310.htm">[310-10]</A> 
+<li> naralum	pey. 
+<BR><A HREF="akam290.htm">[290-7]</A>
+<li> na�aitta	pey. pa. 
+<BR><A HREF="akam150.htm">[150-9]</A>
+<li> nu�a�kum	pey. 
+<BR><A HREF="akam110.htm">[110-18]</A>
+<li> nuvalum	pey. 
+<BR><A HREF="akam390.htm">[390-9v]</A>
+<li> pakarum	pey. 
+<BR><A HREF="akam320.htm">[320-4]</A>
+<li> pakukkum	pey. 
+<BR><A HREF="akam010.htm">[10-12]</A> 
+<BR><A HREF="akam070.htm">[70-4]</A> 
+<BR><A HREF="akam280.htm">[280-13]</A>
+<li> pa�arum	pey. 
+<BR><A HREF="akam390.htm">[390-2]</A>
+<li>[pa�artarum	+ pey. of taru 
+<BR><A HREF="akam210.htm">[210-6]</A>]
+<li> paruvarum	pey. 
+<BR><A HREF="akam150.htm">[150-13]</A>
+<li> pa�ikkum	pey. 
+<BR><A HREF="akam220.htm">[220-10]</A>
+<li> p�kum	pey. 
+<BR><A HREF="akam140.htm">[140-4]</A> 
+<BR><A HREF="akam390.htm">[390-3]</A>
+<li> p�kkum	pey. 
+<BR><A HREF="akam030.htm">[30-5]</A>
+<li> malarum	pey. 
+<BR><A HREF="akam150.htm">[150-11]</A>
+<li> ma�akkum	pey. 
+<BR><A HREF="akam200.htm">[200-6]</A>
+<li> m�ntum	pey. 
+<BR><A HREF="akam100.htm">[100-17]</A>
+<li> miliyum	pey. 
+<BR><A HREF="akam270.htm">[270-3]</A>
+<li> varikkum	pey. 
+<BR><A HREF="akam070.htm">[70-9]</A>
+<li> varuntum	pey. 
+<BR><A HREF="akam090.htm">[90-7]</A>
+<li> va�a�kum	pey. 
+<BR><A HREF="akam080.htm">[80-1]</A> 
+<BR><A HREF="akam150.htm">[150-7]</A> 
+<BR><A HREF="akam170.htm">[170-11]</A>
+<li> v�m		pey. 
+<BR><A HREF="akam400.htm">[400-13]</A>?
+<li> v��kum	pey. 
+<BR><A HREF="akam140.htm">[140-13]</A>
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_pe2">LIST of peyar eccam forms of ceyta type</A> found by Eva in AN neytal</H3>
+<OL>
+<li> acitta	pey. p.a. 
+<BR><A HREF="akam100.htm">[100-9]</A>
+<li> aciiya	pey. p.a. 
+<BR><A HREF="akam190.htm">[190-1]</A>
+<li> a�aiiya           pey. p.a. 
+<BR><A HREF="akam360.htm">[360-4]</A>
+<li> a�inta	pey. p.a. 
+<BR><A HREF="akam120.htm">[120-7]</A>
+<li> ama��a	pey. p.a. 
+<BR><A HREF="akam180.htm">[180-5]</A>
+<li> aminta	pey. p.a. 
+<BR><A HREF="akam100.htm">[100-1]</A>
+<li> ayarnta	pey. p.a. 
+<BR><A HREF="akam330.htm">[330-5]</A>
+<li> arumpiya	pey. p.a. 
+<BR><A HREF="akam030.htm">[30-13]</A> 
+<BR><A HREF="akam150.htm">[150-2]</A> 
+<BR><A HREF="akam230.htm">[230-4]</A>
+<li> alkiya		pey. p.a. 
+<BR><A HREF="akam400.htm">[400-3]</A>
+<li>[avintirunta	+ pey. p.a. of iru 
+<BR><A HREF="akam100.htm">[100-5]</A>] 
+<li> a�itta		pey. p.a. 
+<BR><A HREF="akam130.htm">[130-8]</A>
+<li> a�untiya	pey. p.a. 
+<BR><A HREF="akam140.htm">[140-12]</A>
+<li> a�utta		pey. p.a. 
+<BR><A HREF="akam220.htm">[220-5]</A>
+<li> �kiya		pey. p.a. 
+<BR><A HREF="akam090.htm">[90-4]</A>
+<li> �ynta		pey. p.a. 
+<BR><A HREF="akam020.htm">[20-15]</A> 
+<BR><A HREF="akam190.htm">[190-16]</A> 
+<BR><A HREF="akam220.htm">[220-20]</A>
+<li> [i�ampa�utta	 + pey. p.a. of pa�uttu]
+<li> iya��iya	pey. p.a. 
+<BR><A HREF="akam180.htm">[180-6]</A>
+<li> iyinta           pey. p.a. 
+<BR><A HREF="akam360.htm">[360-7]</A>
+<li> irunta		pey. p.a. 
+<BR><A HREF="akam100.htm">[100-5]</A> 
+<BR><A HREF="akam190.htm">[190-7]</A> 
+<BR><A HREF="akam230.htm">[230-3]</A> 
+<BR><A HREF="akam280.htm">[280-4]</A>
+<li> irunta�am	pey. p.a. 
+<BR><A HREF="akam110.htm">[110-9]</A>
+<li> i�inta		pey. p.a. 
+<BR><A HREF="akam110.htm">[110-16]</A>
+<li>[i�aiko��a	+ pey. p.a. of ko� 
+<BR><A HREF="akam180.htm">[180-11]</A>]
+<li> i�ai�ciya	pey. p.a. 
+<BR><A HREF="akam110.htm">[110-15]</A>
+<li> ���iya		pey. p.a. 
+<BR><A HREF="akam060.htm">[60-9]</A>
+<li> ukka		pey. p.a. 
+<BR><A HREF="akam300.htm">[300-3]</A>
+<li> u��a		pey. p.a. 
+<BR><A HREF="akam320.htm">[320-13]</A>
+<li> utirtta	pey. p.a. 
+<BR><A HREF="akam230.htm">[230-6]</A> 
+<BR><A HREF="akam380.htm">[380-4v]</A>
+<li>utirnta	pey. p.a. 
+<BR><A HREF="akam380.htm">[380-4]</A>
+<li> u�anta	pey. p.a. 
+<BR><A HREF="akam240.htm">[240-5]</A> 
+<BR><A HREF="akam250.htm">[250-2]</A> 
+<li> u��iya		pey. p.a. 
+<BR><A HREF="akam240.htm">[240-2]</A>
+<li> u��a		pey. p.a. 
+<BR><A HREF="akam020.htm">[20-11]</A> 
+<BR><A HREF="akam400.htm">[400-4]</A>
+<li> �tiya		pey. p.a. 
+<BR><A HREF="akam170.htm">[170-6]</A>
+<li> �rnta		pey. p.a. 
+<BR><A HREF="akam330.htm">[330-11]</A>
+<li> �tta		pey. p.a. 
+<BR><A HREF="akam010.htm">[10-2]</A>
+<li> etiriya	pey. p.a. 
+<BR><A HREF="akam010.htm">[10-1]</A>
+<li> e�inta		pey. p.a. 
+<BR><A HREF="akam120.htm">[120-10]</A>
+<li> o��iya	pey. p.a. 
+<BR><A HREF="akam400.htm">[400-8]</A>
+<li> ��kiya	pey. p.a. 
+<BR><A HREF="akam120.htm">[120-14]</A>
+<li> kalitta	pey. p.a. 
+<BR><A HREF="akam070.htm">[70-11]</A> 
+<BR><A HREF="akam080.htm">[80-7]</A> 
+<li> kavitta	pey. p.a. 
+<BR><A HREF="akam070.htm">[70-15]</A>
+<li> ka�aitta	pey. p.a. 
+<BR><A HREF="akam150.htm">[150-8]</A>
+<li> k���iya	pey. p.a. 
+<BR><A HREF="akam240.htm">[240-6]</A>
+<li> ki�itta		pey. p.a. 
+<BR><A HREF="akam340.htm">[340-21]</A>
+<li> ku�itta	pey. p.a. 
+<BR><A HREF="akam110.htm">[110-21]</A>
+<li> ku�ainta	pey. p.a. 
+<BR><A HREF="akam160.htm">[160-13]</A>
+<li> ku��iya	pey. p.a. 
+<BR><A HREF="akam190.htm">[190-13]</A>
+<li> k��iya	pey. p.a. 
+<BR><A HREF="akam070.htm">[70-8]</A>
+<li> ke��iya	pey. p.a. 
+<BR><A HREF="akam130.htm">[130-4]</A>
+<li> ko��a		pey. p.a. 
+<BR><A HREF="akam180.htm">[180-11]</A> 
+<BR><A HREF="akam290.htm">[290-16]</A>
+<li> ko��a		pey. p.a. 
+<BR><A HREF="akam010.htm">[10-10v]</A>
+<li> ceyta		pey. p.a. 
+<BR><A HREF="akam140.htm">[140-2]</A> 
+<BR><A HREF="akam260.htm">[260-14]</A> 
+<BR><A HREF="akam360.htm">[360-19]</A>
+<li> ce��a		pey. p.a. 
+<BR><A HREF="akam040.htm">[40-17]</A> 
+<BR><A HREF="akam330.htm">[330-8]</A>
+<li> colliya	pey. p.a. 
+<BR><A HREF="akam300.htm">[300-9]</A>
+<li> �ୟu		DED2 2920: time (particle for forming temporal cluse with pey. p.a.) 
+<BR><A HREF="akam150.htm">[150-14]</A>
+<li> ta�anta	pey. p.a. 
+<BR><A HREF="akam150.htm">[150-14]</A>
+<li> tatinta 	pey. p.a. 
+<BR><A HREF="akam370.htm">[370-10]</A>
+<li> tanta		pey. p.a. 
+<BR><A HREF="akam020.htm">[20-1]</A> 
+<BR><A HREF="akam080.htm">[80-5]</A> 
+<BR><A HREF="akam130.htm">[130-9]</A> 
+<BR><A HREF="akam320.htm">[320-2]</A> 
+<BR><A HREF="akam340.htm">[340-16]</A> 
+<BR><A HREF="akam400.htm">[400-21]</A>
+<li> ti�anta	pey. p.a. 
+<BR><A HREF="akam130.htm">[130-12]</A>
+<li> tu�anta	pey. p.a. 
+<BR><A HREF="akam060.htm">[60-5]</A> 
+<BR><A HREF="akam270.htm">[270-5]</A>
+<li> tu�aiiya	pey. p.a. 
+<BR><A HREF="akam320.htm">[320-8]</A>
+<li> tokutta	pey. p.a. 
+<BR><A HREF="akam030.htm">[30-8]</A>
+<li> to�utta	pey. p.a. 
+<BR><A HREF="akam020.htm">[20-5]</A>
+<li> navi��a	pey. p.a. 
+<BR><A HREF="akam160.htm">[160-11]</A>
+<li> nika�ttiya	pey. p.a. 
+<BR><A HREF="akam340.htm">[340-17]</A>
+<li> ni��a		pey. p.a. 
+<BR><A HREF="akam180.htm">[180-13]</A> 
+<BR><A HREF="akam310.htm">[310-1]</A> 
+<BR><A HREF="akam390.htm">[390-15]</A>
+<li> ni�ainta	pey. p.a. 
+<BR><A HREF="akam380.htm">[380-8]</A>
+<li> nu�ainta	pey. p.a. 
+<BR><A HREF="akam350.htm">[350-6]</A> 
+<li> neki�nta	pey. p.a. 
+<BR><A HREF="akam250.htm">[250-13]</A> 
+<BR><A HREF="akam270.htm">[270-4v]</A>
+<li> ne�itta	pey. p.a. 
+<BR><A HREF="akam150.htm">[150-1]</A>
+<li> no�utta 	pey. p.a. 
+<BR><A HREF="akam340.htm">[340-14]</A>
+<li> puka�nta	pey. p.a. 
+<BR><A HREF="akam250.htm">[250-8]</A>
+<li> pu�arnta	pey. p.a. 
+<BR><A HREF="akam070.htm">[70-5]</A>
+<li> putitta	pey. p.a. 
+<BR><A HREF="akam160.htm">[160-5]</A>
+<li>[pu�a�ko�utta + pey. p.a. of ko�u 
+<BR><A HREF="akam130.htm">[130-13]</A>]
+<li> pu�ainta	pey. p.a. 
+<BR><A HREF="akam390.htm">[390-6]</A>
+<li> p���a		pey. p.a. 
+<BR><A HREF="akam100.htm">[100-2]</A>
+<li> peyarnta	pey. p.a. 
+<BR><A HREF="akam110.htm">[110-20]</A>
+<li> potinta	pey. p.a. 
+<BR><A HREF="akam130.htm">[130-3]</A>
+<li> poruta	pey. p.a. 
+<BR><A HREF="akam210.htm">[210-2]</A>
+<li> polinta	pey. p.a. 
+<BR><A HREF="akam080.htm">[80-11]</A> 
+<BR><A HREF="akam370.htm">[370-14]</A> 
+<BR><A HREF="akam390.htm">[390-16]</A>
+<li> p�kiya	pey. p.a. 
+<BR><A HREF="akam100.htm">[100-16]</A> 
+<BR><A HREF="akam290.htm">[290-2]</A> 
+<BR><A HREF="akam350.htm">[350-3]</A> 
+<BR><A HREF="akam380.htm">[380-3]</A>
+<li> p��nta	pey. p.a. 
+<BR><A HREF="akam320.htm">[320-11]</A>
+<li> ma�utta         pey. p.a. 
+<BR><A HREF="akam100.htm">[100-6]</A> 
+<BR><A HREF="akam330.htm">[330-15]</A> 
+<BR><A HREF="akam340.htm">[340-19]</A>
+<li> malarnta	pey. p.a. 
+<BR><A HREF="akam170.htm">[170-4]</A> 
+<BR><A HREF="akam230.htm">[230-1]</A> 
+<BR><A HREF="akam270.htm">[270-1]</A> 
+<BR><A HREF="akam290.htm">[290-14]</A>
+<li> mୟa	pey. p.a. 
+<BR><A HREF="akam190.htm">[190-17]</A>
+<li> mukanta	pey. p.a. 
+<BR><A HREF="akam220.htm">[220-16]</A> 
+<BR><A HREF="akam300.htm">[300-1]</A>
+<li> mu�itta	pey. p.a. 
+<BR><A HREF="akam220.htm">[220-6]</A>
+<li> mu�aiiya	pey. p.a. 
+<BR><A HREF="akam400.htm">[400-7]</A>
+<li> m�kiya	pey. p.a. 
+<BR><A HREF="akam350.htm">[350-11]</A>
+<li> y�tta		pey. p.a. 
+<BR><A HREF="akam220.htm">[220-7]</A>
+<li> vanta		pey. p.a. 
+<BR><A HREF="akam040.htm">[40-7]</A> 
+<BR><A HREF="akam210.htm">[210-8]</A> 
+<BR><A HREF="akam310.htm">[310-14]</A> 
+<BR><A HREF="akam360.htm">[360-9]</A> 
+<BR><A HREF="akam400.htm">[400-19]</A>
+<li> varuntiya	pey. p.a. 
+<BR><A HREF="akam110.htm">[110-8]</A>
+<li> valanta	pey. p.a. 
+<BR><A HREF="akam030.htm">[30-1]</A>
+<li>va�artta	pey. p.a. 
+<BR><A HREF="akam310.htm">[310-8]</A>
+<li> va�arnta	pey. p.a. 
+<BR><A HREF="akam310.htm">[310-8v]</A>
+<li> virinta	pey. p.a. 
+<BR><A HREF="akam240.htm">[240-13]</A>
+<li> ver�iya	pey. p.a. 
+<BR><A HREF="akam040.htm">[40-14]</A> 
+<BR><A HREF="akam140.htm">[140-9]</A>
+<li> v�ynta	pey. p.a. 
+<BR><A HREF="akam280.htm">[280-2]</A> 
+<BR><A HREF="akam370.htm">[370-5]</A>
+<li> vitta		pey. p.a. 
+<BR><A HREF="akam060.htm">[60-13]</A>
+<li> vikiya	pey. p.a. 
+<BR><A HREF="akam060.htm">[60-3]</A>
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_PEneg">LIST of negative peyar eccam forms</A> found by Eva in AN neytal</H3>
+<P><B>NB (ERRATA, Eva): I had to add many items with final -�, which Eva classified as negative abs. (see below)</B>
+
+<OL>
+<LI> �k�	PE_neg. 
+<BR><A HREF="akam220.htm">[220-9]</A>
+<LI> ���		PE_NEG.? 
+<BR><A HREF="akam100.htm">[100-8]</A>
+<LI> u�ar�	PE_neg. 
+<BR><A HREF="akam200.htm">[200-3]</A>
+<LI> ke��a		PE_NEG. 
+<BR><A HREF="akam220.htm">[220-3]</A>
+<LI> citiy�	PE_neg. 
+<BR><A HREF="akam110.htm">[110-19]</A> 
+<BR><A HREF="akam220.htm">[220-21]</A>
+<LI> cell�	PE_neg. 
+<BR><A HREF="akam340.htm">[340-6]</A>
+<LI> tak�		PE_NEG. 
+<BR><A HREF="akam390.htm">[390-3]</A>
+<LI> ta�av�	PE_NEG. 
+<BR><A HREF="akam290.htm">[290-10]</A>
+<LI> tu�c�		PE_NEG. 
+<BR><A HREF="akam270.htm">[270-11]</A>
+<LI> t�y�	PE_neg. 
+<BR><A HREF="akam370.htm">[370-5]</A> 
+<LI> n�l�	PE_neg. 
+<BR><A HREF="akam220.htm">[220-14]</A>
+<LI> pi�aiy�	PE_neg. 
+<BR><A HREF="akam360.htm">[360-11]</A>
+<LI> pu�ar�	PE_neg. 
+<BR><A HREF="akam270.htm">[270-13]</A>
+<LI> p���	PE_neg. 
+<BR><A HREF="akam300.htm">[300-13v]</A>
+<LI> ma���	PE_neg. 
+<BR><A HREF="akam030.htm">[30-13]</A>
+<LI> ma�av�	PE_neg. 
+<BR><A HREF="akam290.htm">[290-11]</A>
+<LI> m���	PE_neg. 
+<BR><A HREF="akam220.htm">[220-15]</A>
+<LI> varutt�	PE_neg. 
+<BR><A HREF="akam090.htm">[90-6]</A>
+<LI> vi�aiy�	PE_neg. 
+<BR><A HREF="akam400.htm">[400-22]</A>
+</OL>
+
+<H3><A NAME="_PEcomp">LIST of comparative peyar eccam forms</A> found by Eva in AN neytal</H3>
+<OL>
+<LI>a�arnta��a	PE_COMP. 
+<BR>280.1
+<LI>olitta��a	PE_COMP. 
+<BR>100.14
+<LI>ka��a��a	PE_COMP. 
+<BR>10.2 
+<BR>400.15, 
+<BR>400.16
+<LI>ka�inta��a	PE_COMP. 
+<BR>400.14
+<LI>p�ynta��a	PE_COMP. 
+<BR>400.13
+<LI>mukitta��a	PE_COMP. 
+<BR>240.11
+<LI>v�rnta��a	PE_COMP. 
+<BR>400.9
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_VE1a">LIST vi�ai eccam forms (type 1a)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> amarntu	VE1a. 
+<BR><A HREF="akam190.htm">[190-5]</A> 
+<BR><A HREF="akam220.htm">[220-14]</A>
+<li> amittu	VE1a. 
+<BR><A HREF="akam030.htm">[30-10]</A>
+<li> ayarntu	VE1a. 
+<BR><A HREF="akam330.htm">[330-2]</A>
+<li> [ariyu��u	+ VE1a. of u�u 
+<BR><A HREF="akam100.htm">[100-1]</A>]
+<li> alittu	VE1a. 
+<BR><A HREF="akam180.htm">[180-6]</A>
+<li>avi�ntu	VE1a. 
+<BR><A HREF="akam400.htm">[400-23]</A> 
+<li> a�intu	VE1a. 
+<BR><A HREF="akam210.htm">[210-5]</A>
+<li> �yntu	VE1a. 
+<BR><A HREF="akam340.htm">[340-3]</A> 
+<li> ikantu	VE1a. 
+<BR><A HREF="akam330.htm">[330-17]</A>
+<li> i��u	VE1a. 
+<BR><A HREF="akam080.htm">[80-2v]</A> 
+<BR><A HREF="akam400.htm">[400-18]</A>?
+<li> iyintu	VE1a. 
+<BR><A HREF="akam220.htm">[220-1]</A> 
+<BR><A HREF="akam400.htm">[400-8]</A>
+<li> i�aittu	VE1a. 
+<BR><A HREF="akam110.htm">[110-7]</A>
+<li> i�antu	VE1a. 
+<BR><A HREF="akam400.htm">[400-2]</A>
+<li> 㭟u	VE1a. 
+<BR><A HREF="akam160.htm">[160-5]</A>
+<li> u�uttu	VE1a. 
+<BR><A HREF="akam200.htm">[200-3]</A>
+<li> u��u	VE1a. 
+<BR><A HREF="akam110.htm">[110-12]</A> 
+<BR><A HREF="akam360.htm">[360-5]</A>
+<li> uruttu	VE1a. 
+<BR><A HREF="akam150.htm">[150-3]</A>
+<li> u�antu	VE1a. 
+<BR><A HREF="akam190.htm">[190-1]</A> 
+<BR><A HREF="akam280.htm">[280-8v]</A> 
+<li> u�utu	VE1a. 
+<BR><A HREF="akam280.htm">[280-8]</A>
+<li> etirko��u	VE1a. 
+<BR><A HREF="akam300.htm">[300-15]</A>
+<li> e�untu	VE1a. 
+<BR><A HREF="akam040.htm">[40-2]</A> 
+<BR><A HREF="akam310.htm">[310-15]</A> 
+<BR><A HREF="akam400.htm">[400-25]</A>
+<li> e��u	VE1a. 
+<BR><A HREF="akam090.htm">[90-8]</A> 
+<li> ka��u	VE1a. 
+<BR><A HREF="akam110.htm">[110-14]</A> 
+<BR><A HREF="akam400.htm">[400-23]</A>
+<li> kalu�ntu	VE1a. 
+<BR><A HREF="akam300.htm">[300-9v]</A>
+<li>kavi�ntu	VE1a. 
+<BR><A HREF="akam300.htm">[300-9]</A>
+<li> kurittu	VE1a. 
+<BR><A HREF="akam310.htm">[310-15]</A>
+<li> ku��u	VE1a. 
+<BR><A HREF="akam330.htm">[330-1]</A>
+<li>[kito�utu	+ VE1a. of to�u 
+<BR><A HREF="akam240.htm">[240-8]</A>]
+<li> ko��u	VE1a. 
+<BR><A HREF="akam010.htm">[10-8]</A> 
+<BR><A HREF="akam020.htm">[20-12]</A> 
+<BR><A HREF="akam250.htm">[250-9]</A> 
+<BR><A HREF="akam280.htm">[280-12]</A> 
+<BR><A HREF="akam380.htm">[380-5]</A>
+<li> ci�antu	
+<BR><A HREF="akamVE1a.htm">[VE1a-160]</A>
+<BR><A HREF="akam.htm">[@ -18]</A> 
+<BR><A HREF="akam170.htm">[170-6]</A>
+<li> ceytu	VE1a. 
+<BR><A HREF="akam040.htm">[40-9]</A>
+<li> ce��u	VE1a. 
+<BR><A HREF="akam050.htm">[50-9]</A> 
+<BR><A HREF="akam310.htm">[310-11v]</A>
+<li> corintu	VE1a. 
+<BR><A HREF="akam060.htm">[60-5]</A>
+<li> tu�antu	VE1a. 
+<BR><A HREF="akam370.htm">[370-14]</A>
+<li> terintu	VE1a. 
+<BR><A HREF="akam280.htm">[280-6]</A>
+<li>to�utu	VE1a. 
+<BR><A HREF="akam240.htm">[240-8]</A>
+<li> nayantu	VE1a. 
+<BR><A HREF="akam400.htm">[400-2]</A>
+<li> ni��u	VE1a. 
+<BR><A HREF="akam130.htm">[130-1]</A> 
+<BR><A HREF="akam330.htm">[330-7]</A>
+<li> nivantu	VE1a. 
+<BR><A HREF="akam330.htm">[330-17]</A>
+<li> ni�aintu	VE1a. 
+<BR><A HREF="akam150.htm">[150-5]</A> 
+<BR><A HREF="akam180.htm">[180-8]</A>
+<li> no��u	VE1a. 
+<BR><A HREF="akam230.htm">[230-7]</A>
+<li> pa�intu	VE1a. 
+<BR><A HREF="akam330.htm">[330-3]</A>
+<li> payi��u	VE1a. 
+<BR><A HREF="akam050.htm">[50-6]</A>
+<li> p�yntu	VE1a. 
+<BR><A HREF="akam260.htm">[260-2]</A> 
+<BR><A HREF="akam340.htm">[340-20v]</A>
+<li> pukku	VE1a. 
+<BR><A HREF="akam280.htm">[280-9]</A>
+<li> pucittu	VE1a. 
+<BR><A HREF="akam400.htm">[400-4]</A>
+<li> pu�arntu	VE1a. 
+<BR><A HREF="akam250.htm">[250-5]</A> 
+<BR><A HREF="akam330.htm">[330-3]</A>
+<li> purintu	VE1a. 
+<BR><A HREF="akam400.htm">[400-4v]</A>
+<li> pulantu	VE1a. 
+<BR><A HREF="akam150.htm">[150-12]</A>
+<li> peyarntu	VE1a. 
+<BR><A HREF="akam280.htm">[280-7]</A>
+<li> porutu	VE1a. 
+<BR><A HREF="akam130.htm">[130-8]</A>
+<li> ma�antu	VE1a. 
+<BR><A HREF="akam180.htm">[180-12]</A>
+<li> ma�aittu	VE1a. 
+<BR><A HREF="akam160.htm">[160-5]</A>
+<li> mukantu	VE1a. 
+<BR><A HREF="akam030.htm">[30-2]</A>
+<li> muntu�uttu	VE1a. 
+<BR><A HREF="akam310.htm">[310-3]</A>
+<li> muya��u	VE1a. 
+<BR><A HREF="akam220.htm">[220-6]</A>
+<li> melintu	VE1a. 
+<BR><A HREF="akam120.htm">[120-11]</A>
+<li> vantu	VE1a. 
+<BR><A HREF="akam030.htm">[30-14]</A> 
+<BR><A HREF="akam100.htm">[100-3]</A> 
+<BR><A HREF="akam110.htm">[110-9]</A> 
+<BR><A HREF="akam180.htm">[180-4]</A> 
+<BR><A HREF="akam190.htm">[190-16]</A> 
+<BR><A HREF="akam250.htm">[250-7]</A> 
+<BR><A HREF="akam290.htm">[290-10]</A> 
+<BR><A HREF="akam310.htm">[310-4]</A> 
+<BR><A HREF="akam320.htm">[320-12]</A> 
+<BR><A HREF="akam340.htm">[340-1]</A> 
+<BR><A HREF="akam380.htm">[380-1]</A> 
+<li> vi��u	VE1a. 
+<BR><A HREF="akam340.htm">[340-22]</A>
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_VE1b">LIST vi�ai eccam forms (type 1b)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> acii	VE1b. 
+<BR><A HREF="akam020.htm">[20-3]</A> 
+<BR><A HREF="akam120.htm">[120-11]</A> 
+<BR><A HREF="akam190.htm">[190-15]</A>
+<li> a�ci	VE1b. 
+<BR><A HREF="akam160.htm">[160-9]</A>
+<li> alki	VE1b. 
+<BR><A HREF="akam330.htm">[330-1]</A>
+<li> �ki	VE1b. 
+<BR><A HREF="akam050.htm">[50-5]</A> 
+<BR><A HREF="akam090.htm">[90-10]</A>
+<li> ���i	VE1b. 
+<BR><A HREF="akam280.htm">[280-3]</A>
+<li> ��i	VE1b. 
+<BR><A HREF="akam020.htm">[20-8]</A> 
+<BR><A HREF="akam110.htm">[110-6]</A> 
+<BR><A HREF="akam370.htm">[370-4]</A>
+<li> ira�ki	VE1b. 
+<BR><A HREF="akam330.htm">[330-7]</A>
+<li> u�akki	VE1b. 
+<BR><A HREF="akam210.htm">[210-5]</A>
+<li> u��i	VE1b. 
+<BR><A HREF="akam210.htm">[210-7]</A>
+<li> eyti	VE1b. 
+<BR><A HREF="akam330.htm">[330-9]</A>
+<li> ��ki	VE1b. 
+<BR><A HREF="akam120.htm">[120-8]</A>
+<li> �tti	VE1b. 
+<BR><A HREF="akam240.htm">[240-8]</A>
+<li> ��i	VE1b. 
+<BR><A HREF="akam180.htm">[180-2]</A> 
+<BR><A HREF="akam190.htm">[190-2]</A>
+<li> o�ukki	VE1b. 
+<BR><A HREF="akam230.htm">[230-14]</A>
+<li> otu�ki	VE1b. ?
+<li> or�i	VE1b. 
+<BR><A HREF="akam290.htm">[290-15]</A>
+<li> olki	VE1b. 
+<BR><A HREF="akam390.htm">[390-7]</A>
+<li> �ppi	VE1b. 
+<BR><A HREF="akam020.htm">[20-2]</A>
+<li> �mpi	VE1b. 
+<BR><A HREF="akam360.htm">[360-12]</A>
+<li> ka�aii	VE1b. 
+<BR><A HREF="akam080.htm">[80-10]</A> 
+<BR><A HREF="akam180.htm">[180-4]</A>
+<li> kala�ki	VE1b. 
+<BR><A HREF="akam250.htm">[250-12]</A>
+<li> kavi�i	VE1b. 
+<BR><A HREF="akam070.htm">[70-10]</A>
+<li> ka�ippi	VE1b. 
+<BR><A HREF="akam120.htm">[120-4]</A> 
+<BR><A HREF="akam200.htm">[200-10]</A> 
+<BR><A HREF="akam340.htm">[340-2]</A>
+<li> k���i	VE1b. 
+<BR><A HREF="akam160.htm">[160-10]</A> 
+<BR><A HREF="akam380.htm">[380-7]</A>
+<li> kuvii	VE1b. 
+<BR><A HREF="akam110.htm">[110-7]</A>
+<li> ku��i	VE1b. 
+<BR><A HREF="akam030.htm">[30-6]</A>
+<li> k�i	VE1b. 
+<BR><A HREF="akam110.htm">[110-3]</A> 
+<BR><A HREF="akam110.htm">[110-22]</A> 
+<BR><A HREF="akam150.htm">[150-4]</A> 
+<li> ke��i	VE1b. 
+<BR><A HREF="akam010.htm">[10-11v]</A> 
+<BR><A HREF="akam020.htm">[20-4]</A>
+<li> ke��i	VE1b. 
+<BR><A HREF="akam180.htm">[180-12]</A>
+<li> ko��i	VE1b. 
+<BR><A HREF="akam320.htm">[320-1]</A>
+<li> c���i	VE1b. 
+<BR><A HREF="akam030.htm">[30-10]</A> 
+<BR><A HREF="akam140.htm">[140-3]</A> 
+<BR><A HREF="akam390.htm">[390-1]</A>
+<li> c���i	VE1b. 
+<BR><A HREF="akam180.htm">[180-7]</A>
+<li> c�rtti	VE1b. 
+<BR><A HREF="akam160.htm">[160-4]</A> 
+<li> ta�ki	VE1b. 
+<BR><A HREF="akam300.htm">[300-19]</A>
+<li> ta��i	VE1b. 
+<BR><A HREF="akam290.htm">[290-6]</A> 
+<BR><A HREF="akam400.htm">[400-10]</A>
+<li> t�kki	VE1b. 
+<BR><A HREF="akam190.htm">[190-11]</A>
+<li> tirutti	VE1b. 
+<BR><A HREF="akam300.htm">[300-7]</A>
+<li> t���i	VE1b. 
+<BR><A HREF="akam120.htm">[120-2]</A>
+<li> tuva��i	VE1b. 
+<BR><A HREF="akam030.htm">[30-4]</A> 
+<li> tu�aii	VE1b. 
+<BR><A HREF="akam080.htm">[80-5]</A> 
+<BR><A HREF="akam180.htm">[180-10]</A>
+<li> t�kki	VE1b. 
+<BR><A HREF="akam040.htm">[40-6]</A>
+<li> t��ki	VE1b. 
+<BR><A HREF="akam020.htm">[20-6]</A> 
+<BR><A HREF="akam040.htm">[40-6v]</A>
+<li> tii	VE1b. 
+<BR><A HREF="akam020.htm">[20-9]</A> 
+<BR><A HREF="akam060.htm">[60-10]</A> 
+<BR><A HREF="akam370.htm">[370-1]</A>
+<li> nacii	VE1b. 
+<BR><A HREF="akam170.htm">[170-5]</A> 
+<li> n�kki	VE1b. 
+<BR><A HREF="akam250.htm">[250-6]</A> 
+<BR><A HREF="akam310.htm">[310-1]</A> 
+<BR><A HREF="akam350.htm">[350-10]</A> 
+<BR><A HREF="akam360.htm">[360-13]</A> 
+<BR><A HREF="akam380.htm">[380-1]</A>
+<li> n��ki	VE1b. 
+<BR><A HREF="akam050.htm">[50-1]</A> 
+<li> n�nti	VE1b. 
+<BR><A HREF="akam050.htm">[50-7]</A> 
+<BR><A HREF="akam080.htm">[80-2]</A> 
+<BR><A HREF="akam360.htm">[360-14]</A> 
+<BR><A HREF="akam400.htm">[400-18]</A>
+<li> n�vi	VE1b. 
+<BR><A HREF="akam100.htm">[100-1]</A> 
+<BR><A HREF="akam240.htm">[240-10]</A> 
+<BR><A HREF="akam300.htm">[300-7]</A>
+<li> n�kki	VE1b. 
+<BR><A HREF="akam110.htm">[110-4]</A> 
+<BR><A HREF="akam110.htm">[110-23]</A> 
+<BR><A HREF="akam150.htm">[150-3]</A> 
+<BR><A HREF="akam180.htm">[180-8]</A> 
+<BR><A HREF="akam180.htm">[180-14]</A> 
+<BR><A HREF="akam270.htm">[270-7]</A> 
+<BR><A HREF="akam340.htm">[340-3]</A> 
+<BR><A HREF="akam390.htm">[390-12]</A>
+<li> payi��i	VE1b. 
+<BR><A HREF="akam220.htm">[220-2]</A>
+<li> pa��i	VE1b. 
+<BR><A HREF="akam110.htm">[110-24]</A>
+<li> pa�aii	VE1b. 
+<BR><A HREF="akam170.htm">[170-7v]</A>
+<li> p�r���i	VE1b. 
+<BR><A HREF="akam070.htm">[70-3]</A> 
+<BR><A HREF="akam200.htm">[200-9]</A> 
+<BR><A HREF="akam210.htm">[210-9]</A>
+<li> pi�i��i	VE1b. 
+<BR><A HREF="akam040.htm">[40-15]</A>
+<li> p���i	VE1b. 
+<BR><A HREF="akam400.htm">[400-11]</A>
+<li> peruki	VE1b. 
+<BR><A HREF="akam400.htm">[400-6]</A>
+<li> porunti	VE1b. 
+<BR><A HREF="akam110.htm">[110-15]</A>
+<li> p�ki	VE1b. 
+<BR><A HREF="akam210.htm">[210-4]</A> 
+<BR><A HREF="akam400.htm">[400-16]</A>
+<li> ma�uki	VE1b. 
+<BR><A HREF="akam220.htm">[220-2]</A>
+<li> m���i	VE1b. 
+<BR><A HREF="akam210.htm">[210-11]</A>
+<li> muya�ki	VE1b. 
+<BR><A HREF="akam100.htm">[100-3]</A> 
+<BR><A HREF="akam150.htm">[150-5]</A>
+<li> mu�aii	VE1b. 
+<BR><A HREF="akam040.htm">[40-11]</A>
+<li> varunti	VE1b. 
+<BR><A HREF="akam140.htm">[140-14]</A>
+<li> v��ki	VE1b. 
+<BR><A HREF="akam030.htm">[30-7]</A> 
+<BR><A HREF="akam160.htm">[160-3]</A> 
+<BR><A HREF="akam380.htm">[380-5]</A>
+<li> vir�i	VE1b. 
+<BR><A HREF="akam130.htm">[130-7]</A>
+<li> vi�aii	VE1b. 
+<BR><A HREF="akam300.htm">[300-15]</A>
+<li> v�ci	VE1b. 
+<BR><A HREF="akam030.htm">[30-9]</A> 
+<BR><A HREF="akam140.htm">[140-6]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE1c">LIST vi�ai eccam forms (type 1c)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> �ey	VE1c. 
+<BR><A HREF="akam300.htm">[300-6v]</A>
+<li> c�ay	VE1c. 
+<BR><A HREF="akam250.htm">[250-10]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE2">LIST vi�ai eccam forms (type 2)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> ko��a		(ERRATA EVA who thought this as negative
+<BR><A HREF="akam260.htm">[260-9]</A> 
+<BR><A HREF="akam360.htm">[360-8]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE3">LIST vi�ai eccam forms (type 3)</A> found by Eva in AN neytal</H3>
+<OL>
+<li>a�upu	VE3. 
+<BR><A HREF="akam040.htm">[40-8]</A>
+<li> i�ipu	VE3. 
+<BR><A HREF="akam330.htm">[330-14]</A>
+<li> �rpu	VE3. 
+<BR><A HREF="akam330.htm">[330-14]</A>
+<li> k���upu	VE3. 
+<BR><A HREF="akam340.htm">[340-17]</A>
+<li>[kiya�upu	+ VE3. of a�u 
+<BR><A HREF="akam040.htm">[40-8]</A>]
+<li> c�rpu	VE3. 
+<BR><A HREF="akam110.htm">[110-15]</A> 
+<BR><A HREF="akam190.htm">[190-7]</A>
+<li> p�ypu	VE3. 
+<BR><A HREF="akam340.htm">[340-20]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE4">LIST vi�ai eccam forms (type 4)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> e�inte�a	VE4. 
+<BR><A HREF="akam190.htm">[190-12]</A>
+<li> ce��e�a	VE4. 
+<BR><A HREF="akam300.htm">[300-5]</A> 
+<li> pa��e�a	VE4. 
+<BR><A HREF="akam290.htm">[290-4]</A> 
+<li> v�ytte�a	VE4. 
+<BR><A HREF="akam070.htm">[70-1]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE5">LIST vi�ai eccam forms (type 5)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> cel�iyar	VE5. 
+<BR><A HREF="akam300.htm">[300-5]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE6">LIST vi�ai eccam forms (type 6)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> takiiya	VE6. 
+<BR><A HREF="akam330.htm">[330-8]</A>
+<LI> pa�aiiya	?VE6. 
+<BR><A HREF="akam170.htm">[170-7v]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE7">LIST vi�ai eccam forms (type 7)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> iruppi�	VE7. 
+<BR><A HREF="akam280.htm">[280-10]</A>
+<LI> u�i�		VE7. 
+<BR><A HREF="akam160.htm">[160-9]</A>
+<LI> k��i�		VE7. 
+<BR><A HREF="akam060.htm">[60-12]</A>
+<LI> celi�		VE7. 
+<BR><A HREF="akam030.htm">[30-15]</A> 
+<BR><A HREF="akam120.htm">[120-13]</A> 
+<BR><A HREF="akam370.htm">[370-8]</A>
+<LI> c�ppi�	VE7. 
+<BR><A HREF="akam340.htm">[340-13]</A>
+<LI> colli�		VE7. 
+<BR><A HREF="akam050.htm">[50-10]</A>
+<LI> ta�ki�	VE7. 
+<BR><A HREF="akam110.htm">[110-13]</A>
+<LI> t���i�	VE7. 
+<BR><A HREF="akam300.htm">[300-14]</A>
+<LI> piriyi�	VE7. 
+<BR><A HREF="akam300.htm">[300-11]</A>
+<LI> pu�ari�	VE7. 
+<BR><A HREF="akam230.htm">[230-9]</A>
+<LI> peyari�	VE7. 
+<BR><A HREF="akam360.htm">[360-9]</A>
+<LI> pe�i�		VE7. 
+<BR><A HREF="akam300.htm">[300-22]</A>
+<LI> mu�aiyi�	VE7. 
+<BR><A HREF="akam020.htm">[20-7]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE8a">LIST vi�ai eccam forms (type 8a)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> akala		VE8. 
+<BR><A HREF="akam360.htm">[360-13]</A> 
+<BR><A HREF="akam400.htm">[400-3]</A>
+<LI> a�aiya		VE8. 
+<BR><A HREF="akam150.htm">[150-5]</A>
+<LI>[a�ittaka	+ VE8. of taku 
+<BR><A HREF="akam020.htm">[20-9]</A>]
+<LI> ayara		VE8. 
+<BR><A HREF="akam180.htm">[180-3]</A> 
+<BR><A HREF="akam300.htm">[300-6]</A>
+<LI> ariya		VE8. 
+<BR><A HREF="akam330.htm">[330-14]</A>
+<LI> aviya		VE8. 
+<BR><A HREF="akam260.htm">[260-5]</A>
+<LI> avi�a		VE8. 
+<BR><A HREF="akam150.htm">[150-9]</A>
+<LI> [a�itaka 	2 + VE8. of taku 
+<BR><A HREF="akam040.htm">[40-7]</A>]
+<LI> a�iya		VE8. 
+<BR><A HREF="akam030.htm">[30-2]</A>
+<LI> a�iya		VE8. 
+<BR><A HREF="akam110.htm">[110-3]</A>
+<LI>[a�pu�a	+ VE8. of u�u 
+<BR><A HREF="akam290.htm">[290-7]</A>]
+<LI> �ka		VE8. 
+<BR><A HREF="akam110.htm">[110-9]</A> 
+<BR><A HREF="akam230.htm">[230-13]</A> 
+<BR><A HREF="akam350.htm">[350-8]</A> 
+<BR><A HREF="akam390.htm">[390-12]</A>
+<LI> iriya		VE8. 
+<BR><A HREF="akam190.htm">[190-8]</A> 
+<BR><A HREF="akam310.htm">[310-15]</A>
+<LI>[i�pu�a	+ VE8. of u�u 
+<BR><A HREF="akam300.htm">[300-20]</A> 
+<BR><A HREF="akam330.htm">[330-3]</A>]
+<LI> i�aiya	VE8. 
+<BR><A HREF="akam040.htm">[40-8]</A>
+<LI> u�a		VE8. 
+<BR><A HREF="akam290.htm">[290-14]</A>
+<LI> u�a�ka	VE8. 
+<BR><A HREF="akam300.htm">[300-2]</A>
+<LI> u�a		VE8. 
+<BR><A HREF="akam200.htm">[200-10]</A> 
+<BR><A HREF="akam230.htm">[230-16]</A> 
+<BR><A HREF="akam260.htm">[260-10]</A> 
+<BR><A HREF="akam290.htm">[290-7]</A> 
+<BR><A HREF="akam300.htm">[300-19]</A> 
+<BR><A HREF="akam300.htm">[300-20]</A> 
+<BR><A HREF="akam330.htm">[330-3]</A>
+<LI> �ta		VE8. 
+<BR><A HREF="akam260.htm">[260-2]</A>
+<LI> etirko�a	VE8. 
+<BR><A HREF="akam350.htm">[350-13]</A>
+<LI> eyta		VE8. 
+<BR><A HREF="akam110.htm">[110-9]</A>
+<LI> e�a		VE8. 
+<BR><A HREF="akam090.htm">[90-4]</A> 
+<BR><A HREF="akam220.htm">[220-1]</A>
+<LI> e��a		irr. VE8. of e�? 
+<BR><A HREF="akam110.htm">[110-23]</A> 
+<BR><A HREF="akam380.htm">[380-2]</A>
+<LI> e�a	VE8. 
+<BR><A HREF="akam020.htm">[20-14]</A> 
+<BR><A HREF="akam020.htm">[20-16]</A> 
+<BR><A HREF="akam050.htm">[50-12]</A> 
+<BR><A HREF="akam050.htm">[50-14]</A> 
+<BR><A HREF="akam060.htm">[60-11]</A> 
+<BR><A HREF="akam070.htm">[70-1]</A> 
+<BR><A HREF="akam090.htm">[90-13]</A> 
+<BR><A HREF="akam110.htm">[110-14]</A> 
+<BR><A HREF="akam110.htm">[110-17]</A> 
+<BR><A HREF="akam110.htm">[110-19]</A> 
+<BR><A HREF="akam110.htm">[110-22]</A> 
+<BR><A HREF="akam140.htm">[140-7]</A> 
+<BR><A HREF="akam150.htm">[150-1]</A> 
+<BR><A HREF="akam150.htm">[150-4]</A> 
+<BR><A HREF="akam150.htm">[150-11]</A> 
+<BR><A HREF="akam150.htm">[150-13]</A> 
+<BR><A HREF="akam160.htm">[160-16]</A> 
+<BR><A HREF="akam170.htm">[170-14]</A> 
+<BR><A HREF="akam190.htm">[190-12]</A> 
+<BR><A HREF="akam200.htm">[200-3]</A> 
+<BR><A HREF="akam200.htm">[200-8]</A> 
+<BR><A HREF="akam220.htm">[220-19]</A> 
+<BR><A HREF="akam230.htm">[230-10]</A> 
+<BR><A HREF="akam230.htm">[230-12]</A> 
+<BR><A HREF="akam260.htm">[260-13]</A> 
+<BR><A HREF="akam290.htm">[290-4]</A> 
+<BR><A HREF="akam290.htm">[290-6]</A> 
+<BR><A HREF="akam300.htm">[300-5]</A> 
+<BR><A HREF="akam300.htm">[300-8]</A> 
+<BR><A HREF="akam300.htm">[300-11]</A> 
+<BR><A HREF="akam300.htm">[300-18]</A> 
+<BR><A HREF="akam320.htm">[320-4]</A> 
+<BR><A HREF="akam340.htm">[340-8]</A> 
+<BR><A HREF="akam340.htm">[340-11]</A> 
+<BR><A HREF="akam350.htm">[350-12]</A> 
+<BR><A HREF="akam360.htm">[360-13]</A> 
+<BR><A HREF="akam380.htm">[380-7]</A> 
+<BR><A HREF="akam390.htm">[390-9]</A> 
+<BR><A HREF="akam390.htm">[390-11]</A> 
+<BR><A HREF="akam390.htm">[390-14]</A> 
+<BR><A HREF="akam400.htm">[400-2]</A>
+<LI> �mu�a	VE8. 
+<BR><A HREF="akam300.htm">[300-19]</A>
+<LI> o�iya		VE8. 
+<BR><A HREF="akam370.htm">[370-13]</A>
+<LI> k��a		VE8. 
+<BR><A HREF="akam160.htm">[160-17]</A>
+<LI>[k��vara	+ VE8. 
+<BR><A HREF="akam250.htm">[250-4]</A>] 
+<LI>kali�a		VE8. 
+<BR><A HREF="akam310.htm">[310-5]</A>
+<LI> kalu�a	VE8. 
+<BR><A HREF="akam010.htm">[10-5]</A> 
+<BR><A HREF="akam120.htm">[120-6]</A> 
+<BR><A HREF="akam310.htm">[310-5v]</A>
+<LI> ki�ara		VE8. 
+<BR><A HREF="akam260.htm">[260-1]</A>
+<LI> k�mpa	VE8. 
+<BR><A HREF="akam040.htm">[40-1]</A> 
+<BR><A HREF="akam150.htm">[150-10]</A> 
+<BR><A HREF="akam350.htm">[350-1]</A>
+<LI> k�a		VE8. 
+<BR><A HREF="akam300.htm">[300-19]</A>
+<LI> ko�a		VE8. 
+<BR><A HREF="akam100.htm">[100-3]</A> 
+<BR><A HREF="akam340.htm">[340-3]</A> 
+<BR><A HREF="akam350.htm">[350-13]</A>
+<LI> citiya	VE8. 
+<BR><A HREF="akam120.htm">[120-8]</A> 
+<BR><A HREF="akam160.htm">[160-3]</A> 
+<BR><A HREF="akam320.htm">[320-12]</A> 
+<BR><A HREF="akam380.htm">[380-5]</A>
+<LI> ce�iya		VE8. 
+<BR><A HREF="akam060.htm">[60-14]</A> 
+<BR><A HREF="akam260.htm">[260-5]</A>
+<LI> c�ra		VE8. 
+<BR><A HREF="akam040.htm">[40-4]</A> 
+<BR><A HREF="akam250.htm">[250-7]</A> 
+<BR><A HREF="akam260.htm">[260-7]</A>
+<LI> tatiya	VE8. 
+<BR><A HREF="akam220.htm">[220-4]</A>
+<LI> tavira		VE8. 
+<BR><A HREF="akam190.htm">[190-14]</A>
+<LI> ta�ara		VE8. 
+<BR><A HREF="akam040.htm">[40-6]</A>
+<LI> t�a		VE8. 
+<BR><A HREF="akam180.htm">[180-7]</A>
+<LI> t�ra		VE8. 
+<BR><A HREF="akam110.htm">[110-8]</A> 
+<BR><A HREF="akam140.htm">[140-13]</A> 
+<BR><A HREF="akam340.htm">[340-1]</A>
+<LI>[tuyalvara	+ VE8. of varu 
+<BR><A HREF="akam370.htm">[370-11]</A>]
+<LI> t域a		VE8. 
+<BR><A HREF="akam070.htm">[70-6]</A>
+<LI> toliya	VE8. 
+<BR><A HREF="akam270.htm">[270-10]</A> 
+<BR><A HREF="akam340.htm">[340-8]</A>
+<LI> t���a		VE8. 
+<BR><A HREF="akam260.htm">[260-6]</A>
+<LI> na�u�ka	VE8. 
+<BR><A HREF="akam060.htm">[60-1]</A>
+<LI> n��a		VE8. 
+<BR><A HREF="akam400.htm">[400-22]</A>
+<LI> ni�pa		VE8. 
+<BR><A HREF="akam050.htm">[50-4]</A>
+<LI> n��ka		VE8. 
+<BR><A HREF="akam320.htm">[320-7]</A>
+<LI> pa�a		VE8. 
+<BR><A HREF="akam190.htm">[190-2]</A> 
+<BR><A HREF="akam210.htm">[210-3]</A> 
+<BR><A HREF="akam240.htm">[240-12]</A> 
+<BR><A HREF="akam330.htm">[330-4]</A> 
+<BR><A HREF="akam370.htm">[370-10]</A> 
+<BR><A HREF="akam400.htm">[400-6]</A> 
+<BR><A HREF="akam400.htm">[400-16]</A>
+<LI> pariya	VE8. 
+<BR><A HREF="akam330.htm">[330-14v]</A>
+<LI> p�r���a	VE8. 
+<BR><A HREF="akam310.htm">[310-7]</A>
+<LI> pura�a 	VE8. 
+<BR><A HREF="akam390.htm">[390-5]</A>
+<LI> p��a		VE8. 
+<BR><A HREF="akam350.htm">[350-7]</A>
+<LI> pe�a		VE8. 
+<BR><A HREF="akam390.htm">[390-6]</A>
+<LI> porunta	VE8. 
+<BR><A HREF="akam190.htm">[190-11]</A>
+<LI> p�la		VE8. 
+<BR><A HREF="akam030.htm">[30-8]</A> 
+<BR><A HREF="akam070.htm">[70-16]</A> 
+<BR><A HREF="akam120.htm">[120-1]</A> 
+<BR><A HREF="akam220.htm">[220-8]</A> 
+<BR><A HREF="akam220.htm">[220-14]</A> 
+<BR><A HREF="akam300.htm">[300-11]</A> 
+<BR><A HREF="akam330.htm">[330-16]</A> 
+<BR><A HREF="akam360.htm">[360-7]</A> 
+<BR><A HREF="akam370.htm">[370-15]</A> 
+<LI> malka	VE8. 
+<BR><A HREF="akam030.htm">[30-9]</A>
+<LI> malara	VE8. 
+<BR><A HREF="akam080.htm">[80-8]</A>
+<LI> ma�uka	VE8. 
+<BR><A HREF="akam260.htm">[260-1]</A>
+<LI>[ma�uppa�a	+ VE8. of pa�u 
+<BR><A HREF="akam210.htm">[210-3]</A>]
+<LI> ma�uka	VE8. 
+<BR><A HREF="akam300.htm">[300-3]</A>
+<LI> ma�aiya	VE8. 
+<BR><A HREF="akam360.htm">[360-3]</A>
+<LI> mika		VE8. 
+<BR><A HREF="akam110.htm">[110-11]</A> 
+<BR><A HREF="akam180.htm">[180-1]</A> 
+<BR><A HREF="akam380.htm">[380-11]</A>
+<LI> mociya	VE8.? 
+<BR><A HREF="akam400.htm">[400-10]</A>
+<LI> vara		VE8. 
+<BR><A HREF="akam330.htm">[330-3]</A>
+<LI> vi�a		VE8. 
+<BR><A HREF="akam150.htm">[150-1]</A> 
+<BR><A HREF="akam150.htm">[150-2]</A>
+<LI> vila�ka	VE8. 
+<BR><A HREF="akam210.htm">[210-12]</A>
+<LI> vi�aiy��a	VE8. 
+<BR><A HREF="akam250.htm">[250-5]</A>
+<LI> v��a		VE8. 
+<BR><A HREF="akam340.htm">[340-12]</A>
+<LI>[ve�ippa�a	+ VE8. of pa�u 
+<BR><A HREF="akam330.htm">[330-4]</A>]
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE8b">LIST vi�ai eccam forms (type 8b)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> alippa	VE8b. 
+<BR><A HREF="akam190.htm">[190-9]</A>
+<LI> a�ippa	VE8b. 
+<BR><A HREF="akam190.htm">[190-12]</A>
+<LI> a�uppa	VE8b. 
+<BR><A HREF="akam080.htm">[80-9]</A>
+<LI> �rppa	VE8b. 
+<BR><A HREF="akam350.htm">[350-12]</A>
+<LI>irippa	VE8b. 
+<BR><A HREF="akam400.htm">[400-4]</A>
+<LI> ukappa	VE8b. 
+<BR><A HREF="akam120.htm">[120-3]</A>
+<LI>u�uppa	VE8b. 
+<BR><A HREF="akam010.htm">[10-5v]</A>
+<LI> oppa	VE8b. 
+<BR><A HREF="akam030.htm">[30-6]</A> 
+<BR><A HREF="akam100.htm">[100-10]</A>
+<LI> olippa	VE8b. 
+<BR><A HREF="akam030.htm">[30-7]</A> 
+<BR><A HREF="akam040.htm">[40-2]</A> 
+<BR><A HREF="akam260.htm">[260-3]</A> 
+<BR><A HREF="akam400.htm">[400-11]</A>
+<LI> karappa	VE8b. 
+<BR><A HREF="akam260.htm">[260-8]</A>
+<LI> k�ppa	VE8b. 
+<BR><A HREF="akam130.htm">[130-6]</A>
+<LI> kurippa	VE8b. 140. 9
+<LI> ceppa	VE8b. 
+<BR><A HREF="akam330.htm">[330-10]</A>
+<LI> ta�appa	VE8b. 
+<BR><A HREF="akam050.htm">[50-7]</A>
+<LI> tu�appa	VE8b. 
+<BR><A HREF="akam360.htm">[360-5]</A>
+<LI> te�irppa	VE8b. 
+<BR><A HREF="akam140.htm">[140-6]</A>
+<LI> nivappa	VE8b. 
+<BR><A HREF="akam240.htm">[240-3]</A> 
+<BR><A HREF="akam350.htm">[350-4]</A>
+<LI> n�ppa	VE8b. 
+<BR><A HREF="akam350.htm">[350-4v]</A>
+<LI> ma�appa	VE8b. 
+<BR><A HREF="akam260.htm">[260-4]</A>
+<LI> varippa	VE8b. 
+<BR><A HREF="akam250.htm">[250-3]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VEneg">Negative vi�ai eccam forms</A> found by Eva in AN neytal</H3>
+<P><B>NB (ERRATA, Eva): I had to remove many items with final -�, which I view as peyar eccam (see above)</B>
+<OL>
+<LI> ��tu		VE_neg. 
+<BR><A HREF="akam120.htm">[120-8]</A> 
+<BR><A HREF="akam210.htm">[210-10]</A> 
+<LI> u��atu	VE_neg. 
+<BR><A HREF="akam140.htm">[140-2]</A>
+<LI> e���tu	VE_neg. 
+<BR><A HREF="akam020.htm">[20-14]</A> 
+<BR><A HREF="akam050.htm">[50-8]</A>
+<LI> �v�tu		VE_neg. 
+<BR><A HREF="akam350.htm">[350-7]</A>
+<LI> karav�tu	VE_neg. 
+<BR><A HREF="akam160.htm">[160-15]</A>
+<LI> ka�a��tu	VE_neg. 
+<BR><A HREF="akam170.htm">[170-1]</A>
+<LI> k��tu	VE_neg. 
+<BR><A HREF="akam170.htm">[170-1]</A>
+<LI> cell�tu	VE_neg. 
+<BR><A HREF="akam120.htm">[120-12]</A>
+<LI> t��k�tu	VE_neg. 
+<BR><A HREF="akam300.htm">[300-10]</A>
+<LI> nill�tu	VE_neg. 
+<BR><A HREF="akam110.htm">[110-20]</A> 
+<BR><A HREF="akam180.htm">[180-9]</A>
+<LI> n��k�tu	VE_neg. 
+<BR><A HREF="akam260.htm">[260-11]</A> 
+<LI> miciy�tu     VE_neg. 
+<BR><A HREF="akam290.htm">[290-5]</A>
+<LI> mo�iy�tu	VE_neg. 
+<BR><A HREF="akam170.htm">[170-2]</A>
+</OL>
+
+<HR>
+
+<H3><A NAME="_VEcomp">Comparative vi�ai eccam forms</A> found by Eva in AN neytal</H3>
+<OL>
+<li> ni����ku	VE1a. 
+<BR><A HREF="akam370.htm">[-12]</A>
+</OL>
+
+</BODY>
+</HTML>

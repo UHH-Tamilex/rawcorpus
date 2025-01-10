@@ -1,0 +1,1661 @@
+<HTML>
+<HEAD>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type>
+<TITLE>Various List of Verb forms in AN_neytal</TITLE>
+</HEAD>
+
+<BODY>
+<FONT FACE="URW Palladio UNI">
+
+
+<H3>HOW THIS FILE WAS MADE</H3>
+
+<UL>
+<li>Open Eva's file Akamindex.doc (dated 6 april 2004)
+<li>Select everything
+<li>Start "BlocNote" (NotePad)
+<li>Paste, and save in UTF8 text format (NeEvaLst.utf)
+<li>apply UTF_2pdy.bat and obtin a new file  (NeEvaLst.pdy)
+<li>run the dos command: [find "v.r." NeEvaLst.pdy &gt; ne_vr.pdy
+<li>"slightly" edit the result and make it into an hyperlinked file
+<BR>(for instance make a search and replace of *.[0-9]* by ^J&lt;BR&gt;@*.?*, etc.
+<li>interprete the statistics .......... (there seems to be 215 v.r. = verbal roots)
+<li>Do the same with other categories
+</UL>
+
+<HR>
+<H3>STATISTICS</H3>
+
+<UL>
+<li>Anthology name: Akanāṉūṟu (Neytal subset) (=AN, neytal; =NE)
+<li>Anthology length: 658 lines
+<li>Number of "v.r.": 215 occ. (of 116 distinct elements)
+<li>Density of "v.r.": 215/658 = 33%
+<li>Number of "ceyyum" type PE (peyar eccam): 86 occ. (of 70 distinct elements)
+<li>Density of "ceyyum" type PE: 86/658 = 13.1 %
+<li>Number of "ceyta" type PE (peyar eccam): 140 occ. (of 100 distinct elements)
+<li>Density of "ceyta" type PE: 140/658 =  21.3 %
+</UL>
+
+
+<HR>
+<H3>List of Lists</H3>
+<UL>
+<li>Verbal roots: <A HREF="#_vr">215 words</A> (and vocab. = 116)
+<li>Peyar Eccam (ceyyum type) <A HREF="#_pe1">86 words</A> (and vocab. = 70)
+<li>Peyar Eccam (ceyta type) <A HREF="#_pe2">140 words</A> (and vocab. = 100)
+<li>Negative Peyar Eccam (Model: ceyyātu) <A HREF="#_PEneg">20 words</A> (and vocab. = 19)
+<li>Comparative Peyar Eccam (Model: ceytaṉṉa) <A HREF="#_PEcomp">9 words</A> (and vocab. = 7)
+<HR>
+<li>Viṉi Eccam type 1 (ceytu): 200 words (and vocabulary = 129)
+<ul>
+<li>Viṉi Eccam type 1a: <A HREF="#_VE1a">88 words</A> (and vocab. = 59)
+<li>Viṉi Eccam type 1b: <A HREF="#_VE1b">109 words</A> (and vocab. = 67)
+<li>Viṉi Eccam type 1c: <A HREF="#_VE1c">2 words</A> (and vocab. = 2)
+</ul>
+<li>Viṉi Eccam type 2 (ceyyū/ceyyā): <A HREF="#_VE2">2 words</A> (and vocab. = 1)
+<li>Viṉi Eccam type 3 (ceypu): <A HREF="#_VE3">8 words</A> (and vocab. = 7)
+<li>Viṉi Eccam type 4 (ceyteṉa): <A HREF="#_VE4">4 words</A> (and vocab. = 4)
+<li>Viṉi Eccam type 5 (ceyyiyar): <A HREF="#_VE5">1 words</A> (and vocab. = 1)
+<li>Viṉi Eccam type 6 (ceyyiya): <A HREF="#_VE6">2 words</A> (and vocab. = 2)
+<li>Viṉi Eccam type 7 (ceyiṉ): <A HREF="#_VE7">15 words</A> (and vocab. = 13)
+<li>Viṉi Eccam type 8 (ceya):183 words (and vocabulary = 92)
+<ul>
+<li>Viṉi Eccam type 8a: <A HREF="#_VE8a">159 words</A> (and vocab. = 72)
+<li>Viṉi Eccam type 8b: <A HREF="#_VE8b">24 words</A> (and vocab. = 20)
+</ul>
+<li>Negative Viṉi Eccam (ceyyātu): <A HREF="#_VEneg">16 words</A> (and vocab. = 13)
+<li>Comparative Viṉi Eccam (ceytāṅku): <A HREF="#_VEcomp">1 words</A> (and vocab. = 1)
+</UL>
+
+<HR>
+
+<H3><A NAME="_vr">LIST of verbal roots</A> found by Eva in AN neytal</H3>
+<OL>
+<li> akal		DED2 8: 3. to leave; to widen - v.r. 
+<BR>@370.3 
+<BR>@380.4
+<li> aci               DED2 37: 4. to move - v.r. 
+<BR>@40.5 
+<BR>@340.22
+<li>[aṭi-kari	v.r. 
+<BR>@10.11 
+<BR>@30.7 
+<BR>@60.9 
+<BR>@80.7 
+<BR>@130.4 
+<BR>@280.3]
+<li>aṇi		4. to adorn - v.r. 
+<BR>@20.9 
+<BR>@100.9 
+<BR>@210.4 
+<BR>@320.3 
+<BR>@320.10
+<li> amar		DED2: 161: 4. to abide - v.r. 
+<BR>@320.9v
+<li>ami		DED2 161: 4. to become still - v.r. 
+<BR>@400.5
+<li> ayar		DED2 39: 4. to immerse oneself - v.r. 
+<BR>@320.4
+<li> aruntu	DED2 368: 5. to eat - v.r. 
+<BR>@120.2 
+<BR>@360.16
+<li>ari		ind. = DED2 228(a): ari 11. to grind - v.r. 
+<BR>@100.1 ??
+<li> [alkuṟu	+ v.r. of uṟu 
+<BR>@40.5 
+<BR>@290.5]
+<li> aviḻ		TL (= DED2 12: to become lose?): 4. to open (refl./tr.) - v.r. 
+<BR>@80.11 
+<BR>@90.3
+<li> aḻi		4. to perish - v.r. 
+<BR>@190.13 
+<BR>@290.9
+<li> aṟi		DED2 314: 4. to know - v.r. 
+<BR>@20.12 
+<BR>@140.9 
+<BR>@320.14
+<li> āṭu		DED2 347: 5. to dance, play - v.r. 
+<BR>@100.9 
+<BR>@260.4 
+<BR>@370.15
+<li> āy		DED2 363: 4. to select - v.r. 
+<BR>@280.4 
+<BR>@330.14
+<li> ār		DED2 368: 4. to become full - v.r. 
+<BR>@40.3 
+<BR>@150.14 
+<BR>@180.6 
+<BR>@300.4
+<li> iku		TL (not DED): 6. to break - v.r. 
+<BR>@400.12
+<li> iṭu		DED2 442: 6. to place - v.r. 
+<BR>@20.7
+<li> imir		DED2 466: 4. to sound, hum - v.r. 
+<BR>@170.2 
+<BR>@250.3 
+<BR>@280.13 
+<BR>@340.18
+<li> ilaṅku	DED2 829: 5. to shine - v.r. 
+<BR>@200.1 
+<BR>@350.10
+<li> ivar		DED2 3730: 4. to climb - v.r. 
+<BR>@130.9
+<li> iḻi		DED2 502: 4. to fall --- v.r. 
+<BR>@350.13 
+<BR>@360.14
+<li>uṭi		DED2 946: 4. intr. to break --- v.r. 
+<BR>@10.9 
+<BR>@200.8 
+<BR>@310.16
+<li> uṇ		DED2 600: 7. to eat --- v.r. 
+<BR>@380.4
+<li> umiḻ		DED2 636: 4. to shoot --- v.r. 
+<BR>@210.3
+<li> uyar		4. to be high --- v.r. 
+<BR>@160.14 
+<BR>@190.6 
+<li>uḷḷu 		5. to remember --- v.r. 
+<BR>@220.10
+<li> uṟu		DED2 710 (711?): 6. to have --- v.r. 
+<BR>@40.5 
+<BR>@170.13 
+<BR>@210.2 
+<BR>@230.1 
+<BR>@290.5 
+<li>eḻu		DED2 851(a): 4. to rise --- v.r. 
+<BR>@150.3
+<li>[eḻutarum	+ v.r. of taru 
+<BR>@150.3]
+<li> eṟi		DED2 859: 4. to throw --- v.r. 
+<BR>@210.2 
+<BR>@350.2 
+<BR>@350.10
+<li> eṉ 		DED2 668: 8. to say --- v.r. 
+<BR>@110.13 
+<BR>@170.12 
+<BR>@190.15
+<li> ēntu		DED2 870: 5. to be eminent --- v.r. 
+<BR>@230.13 
+<BR>@350.8
+<li> ēmuṟu	TL: 6. to be delighted, to be confused --- v.r. 
+<BR>@210.2
+<li> ēr		TL (not DED): 4. to resemble --- v.r. 
+<BR>@180.14 
+<BR>@290.15 
+<BR>@290.16 
+<BR>@320.6
+<li> oṭuṅku	5. to be restrined --- v.r. 
+<BR>@160.1
+<li> oy		DED2 984: 4. to carry --- v.r. 
+<BR>@30.5 
+<BR>@310.14
+<li>olku		DED2 1004: 5. to become weak - v.r. 
+<BR>@250.2 
+<BR>@390.7
+<li> oli		DED2 997: 4.? to sprout --- v.r. 
+<BR>@350.12 
+<li> ōṅku		DED2 1033: 5. to become high --- v.r. 
+<BR>@20.5 
+<BR>@200.9 
+<BR>@320.1
+<li>kaṇ/kāṇ	DED2 1159: 13. to see --- v.r. 
+<BR>@150.12 
+<BR>@220.7 
+<BR>@250.4
+<li> kataḻ		DED2 1188: 4. to hasten - v.r. 
+<BR>@140.5 
+<BR>@180.4
+<li> kamaḻ	DED2 1247: 4. to be fragrant --- v.r. 
+<BR>@10.12 
+<BR>@170.5 
+<BR>@250.4 
+<BR>@260.8
+<li> kavar		DED2 1326: 4. to seize --- v.r. 
+<BR>@130.10
+<li> kuvi		DED2 1741: 4./11. to heap --- v.r. 
+<BR>@240.11
+<li>koṭu		DED2 2053: 11. to give - v.r. 
+<BR>@50.13
+<li>koḷ		DED2 2151: 2. to take --- v.r. 
+<BR>@250.5 
+<BR>@300.3 
+<BR>@370.14
+<li> koy		DED2 2119: 1. to pluck --- v.r. 
+<BR>@270.8
+<li> cāy		DED2 2456: 11. to bend - v.r. 
+<BR>@220.18
+<li> cāl		DED2 2470: 3. to be worthy --- v.r. 
+<BR>@280.5
+<li> curi		DED2 2684: 4. to wind --- v.r. 
+<BR>@390.5
+<li> ceṟi		DED2 1980: 4. to be tight --- v.r. 
+<BR>@40.15 
+<BR>@300.7
+<li> cēr		DED2 2814: 4. intr. to join --- v.r. 
+<BR>@50.11 
+<BR>@290.9
+<li> tatar 		DED2 2322: 4. to be squashed --- v.r. 
+<BR>@390.3v
+<li> tati		DED2 3315: 4. to be densely packed --- v.r. 
+<BR>@180.3
+<li> taru/tā	DED2 3098: 13. to give --- v.r. 
+<BR>@60.14
+<li> tāṅku		DED2 3153: 5. to endure --- v.r. 
+<BR>@400.10
+<li> tiraḷ		DED2 3245: 2. to become round --- v.r. 
+<BR>@280.12
+<li>tuñcu		DED2 3291: 5. to sleep --- v.r. 
+<BR>@360.12
+<li>tuyal		DED2 3376(b): 5. to swing --- v.r. 
+<BR>@370.11 
+<BR>@400.20
+<li> teḷ		DED2 3433: 9. to become clear --- v.r. 
+<BR>@290.13 
+<BR>@340.24
+<li> toḻu		DED2 3525: 1. to worship --- v.r. 
+<BR>@310.3
+<li>[toḻutaku	+ v.r. taku 
+<BR>@310.3]
+<li> tōṉṟu		5. to appear --- v.r. 
+<BR>@310.12
+<li> naṭuṅku	5. to shiver --- v.r. 
+<BR>@320.11
+<li>[nalampeṟu	+ v.r. peṟu 
+<BR>@280.2]
+<li> nāṟu		5. to be fragrant --- v.r. 
+<BR>@130.8 
+<BR>@150.11 
+<BR>@160.6 
+<BR>@180.10
+<li> nīṭu		DED2 3692: 5. to prolong --- v.r. 
+<BR>@150.5 
+<BR>@400.26
+<li> nuṇaṅku	5. to become fine --- v.r. 
+<BR>@300.2
+<li> nekiḻ		DED2 2923: 4. to become loose --- v.r. 
+<BR>@260.14
+<li> nēr		DED2 3770?: 11. to resemble --- v.r. (
+<BR>@180.14) (
+<BR>@290.16)
+<li> nōṉ		8. to endure --- v.r. 
+<BR>@30.6 
+<BR>@400.14
+<li> paku		DED2 3808: 6. to be split --- v.r. 
+<BR>@160.7
+<li> paṭu	DED2 3852/3853?: 6. to happen --- v.r. 
+<BR>@20.2 
+<BR>@80.6 
+<BR>@170.9 
+<BR>@200.8 
+<BR>@210.12 
+<BR>@270.5 
+<BR>@310.15 
+<BR>@330.17 
+<BR>@390.2
+<li>paṭar		(DED2 3844?): 4. to set out; to think of --- v.r. 
+<BR>@210.6
+<li> paṇi		DED2 3888: 4. to be humble --- v.r. 
+<BR>@220.2 
+<BR>@310.4
+<li> payil		DED2 3942: 3. to become dense --- v.r. 
+<BR>@210.5
+<li> pāṭu		DED2 4065: 5. to sing --- v.r. 
+<BR>@30.2 
+<BR>@40.2 
+<BR>@50.1 
+<BR>@260.4 
+<BR>@350.5 
+<BR>@400.25
+<li> pāy		DED2 4087: 4. to spring - DED2 4088: 4. to spread --- v.r. 
+<BR>@160.18 
+<BR>@240.10
+<li> pāṟu		DED2 4020: 5. to be scattered - v.r. 
+<BR>@300.7
+<li> puṇar		DED2 4160(b): 4. intr. to unite --- v.r. 
+<BR>@30.3 
+<BR>@80.5 
+<BR>@260.6
+<li> pular		DED2 4305: 4. to dawn - v.r. 
+<BR>@100.15
+<li> pūṭṭu		DED2 4361: 5. to fasten --- v.r. 
+<BR>@300.6
+<li> peyar		DED2 4409: 4. to move --- v.r. 
+<BR>@330.7
+<li> poṅku	DED2 4469: 5. to foam --- v.r. 
+<BR>@190.9
+<li> poti		DED2 4509: 4. to bundle --- v.r. 
+<BR>@160.13
+<li> pōl		DED2 4597: 3. to be similar --- v.r. 
+<BR>@150.8 
+<BR>@170.4 
+<BR>@230.2
+<li> maṭi		DED2 4652: 4.? to droop - v.r. 
+<BR>@50.11 
+<BR>@170.11
+<li> mayaṅku	DED2 4706: 5. to be confused --- v.r. 
+<BR>@250.1
+<li> marūu	= maruvu? DED2 4722: 5. to join together - v.r. 
+<BR>@280.7
+<li> malku	to increase --- v.r. 
+<BR>@250.2
+<li> mali		DED2 4729: 4. to be much --- v.r. 
+<BR>@200.1 
+<BR>@300.17v 
+<BR>@400.20
+<li> miṭi		TL (DED 3977?): 4. to be set close - v.r. 
+<BR>@270.12
+<li> muṭaṅku	DED2 4919: 5. to bend --- v.r. 
+<BR>@220.17
+<li> mutir		DED2 4954: 4. to ripen --- v.r. 
+<BR>@10.3
+<li> muyal	DED2 4067: 3. to make an effort - v.r. 
+<BR>@140.11
+<li> muḻaṅku	5. to thunder --- v.r. 
+<BR>@70.14 
+<BR>@220.12
+<li> melku	5. to become soft - v.r. 
+<BR>@290.5
+<li> mēy		DED2 5093: 4. to graze --- v.r. 
+<BR>@150.7 
+<BR>@200.7
+<li> vaṭi		DED2 5223: 4. to trickle; to be clear - v.r. 
+<BR>@350.7
+<li> vaṇar		DED2 5236: 4. to curve --- v.r. 
+<BR>@390.5
+<li> varu		DED2 5270: 13. to come --- v.r. 
+<BR>@190.3 
+<BR>@360.6
+<li> vaḻaṅku	DED2 5292: 5. to roam --- v.r. 
+<BR>@260.13
+<li> vāṅku	DED2 5335: 5. to bend; to drag --- v.r. 
+<BR>@130.12 
+<BR>@270.6 
+<BR>@320.1 
+<BR>@390.10
+<li>vāy		DED2 5350: 4. to be fit; to surpass - v.r. 
+<BR>@370.1?
+<li> vār		DED2 5356: 4. to overflow --- v.r. 
+<BR>@300.6
+<li> vāḻ		DED2 5372: 4. to live --- v.r. 
+<BR>@390.11
+<li> viri		DED2 5411: 4. to expand --- v.r. 
+<BR>@100.12 
+<BR>@280.11 
+<BR>@310.12 
+<li> viri		DED2 5417: 12. hurry --- v.r. 
+<BR>@190.14
+<li> viḷaṅku	DED2 5496(a): 5. to shine --- v.r. 
+<BR>@80.11
+<li> viḷi		DED2 5437: 4. to ripen --- v.r. 
+<BR>@390.1
+<li> vīṅku		DED2 5448(a): 5. to swell --- v.r. 
+<BR>@400.10
+<li> vīḻ		DED2 5430: 4. to descend --- v.r. 
+<BR>@20.6 
+<BR>@380.6
+<li> [veruvaru	+ v.r. varu 
+<BR>@360.6]
+<li> vel		DED2 5493: 3. to overcome --- v.r. 
+<BR>@70.15
+<li>vēy		DED2 5532: 4. to cover - v.r. 
+<BR>@200.2 
+<BR>@230.14 
+<BR>@240.14 
+<BR>@390.13
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_pe1">LIST of peyar eccam forms of ceyyum type</A> found by Eva in AN neytal</H3>
+<OL>
+<li> akavum	pey. 
+<BR>@120.15
+<li> acāam	pey. 
+<BR>@170.9
+<li> ayarum	pey. 
+<BR>@240.9 
+<li> aruntum	pey. 
+<BR>@120.2v 
+<li> alamarum	pey. 
+<BR>@270.11
+<li> ākum		pey. 
+<BR>@160.7
+<li>ām		pey. 
+<BR>@400.13
+<li> āṭum		pey. 
+<BR>@90.2
+<li> ārkkum	pey. 
+<BR>@40.5
+<li> iṭūum	pey. 
+<BR>@380.6
+<li>iyalum	pey. 
+<BR>@390.9
+<li> iraṅkum	pey. 
+<BR>@70.14 
+<BR>@400.25
+<li>[iḻitarum	+ pey. of taru 
+<BR>@350.13]
+<li>[uṭitarum 	+ pey. of taru 
+<BR>@10.9 
+<BR>@200.8 
+<BR>@310.16]
+<li> uyaṅkum 	pey. 
+<BR>@60.11 
+<BR>@270.14
+<li> uyirkkum	pey. 
+<BR>@140.5
+<li> uḷarum	pey. 
+<BR>@320.9
+<li> uṟikkum	pey. 
+<BR>@80.12
+<li> uṟiyum	pey. 
+<BR>@260.12
+<li> eṇṇum	pey. 
+<BR>@190.3
+<li> eṉṉum	pey. 
+<BR>@210.13
+<li> olikkum	pey. 
+<BR>@160.16
+<li> ōmpum	pey. 
+<BR>@160.8
+<li> ōrum		pey. 
+<BR>@310.6
+<li> kaṭukkum	pey. 
+<BR>@140.11
+<li> kamaḻum	pey. 
+<BR>@70.2
+<li> karakkum	pey. 
+<BR>@50.13
+<li> kaṉavum	pey. 
+<BR>@170.12
+<li>kiḷarum	pey. 
+<BR>@170.7
+<li> kuḻaṟum	pey. 
+<BR>@260.13
+<li> kūum		pey. 
+<BR>@310.13
+<li> kūṭṭum	pey. 
+<BR>@70.12 
+<li> koṭkum	pey. 
+<BR>@20.16 
+<BR>@220.12 
+<BR>@340.10
+<li> koṭukkum	pey. 
+<BR>@60.6 
+<li>koṉṉum	pey. 
+<BR>@60.12
+<li> citikkum	pey. 
+<BR>@90.2
+<li> ceṟikkum	pey. 
+<BR>@220.17
+<li> cēkkum	pey. 
+<BR>@40.16 
+<BR>@360.17
+<li> tatumpum	pey. 
+<BR>@40.13
+<li> tapukkum	pey. 
+<BR>@130.10
+<li>tarum		pey. 
+<BR>@10.9 
+<BR>@200.8 
+<BR>@310.16 
+<BR>@350.13
+<li> taḷarum	pey. 
+<BR>@170.7v
+<li> tāam		pey. 
+<BR>@360.18
+<li> tuñcum	pey. 
+<BR>@30.11
+<li>[tuyalvarum	+ pey. of varu 
+<BR>@400.20]
+<li> tūṅkum	pey. 
+<BR>@340.23
+<li> teḷiyumāṟu	pey. 
+<BR>@220.22
+<li> tōyum	pey. 
+<BR>@270.6
+<li> tōṉṟum	pey. 
+<BR>@100.10 
+<BR>@310.10 
+<li> naralum	pey. 
+<BR>@290.7
+<li> naṉitta	pey. pa. 
+<BR>@150.9
+<li> nuṭaṅkum	pey. 
+<BR>@110.18
+<li> nuvalum	pey. 
+<BR>@390.9v
+<li> pakarum	pey. 
+<BR>@320.4
+<li> pakukkum	pey. 
+<BR>@10.12 
+<BR>@70.4 
+<BR>@280.13
+<li> paṭarum	pey. 
+<BR>@390.2
+<li>[paṭartarum	+ pey. of taru 
+<BR>@210.6]
+<li> paruvarum	pey. 
+<BR>@150.13
+<li> paṉikkum	pey. 
+<BR>@220.10
+<li> pōkum	pey. 
+<BR>@140.4 
+<BR>@390.3
+<li> pōkkum	pey. 
+<BR>@30.5
+<li> malarum	pey. 
+<BR>@150.11
+<li> maṟakkum	pey. 
+<BR>@200.6
+<li> māntum	pey. 
+<BR>@100.17
+<li> miliyum	pey. 
+<BR>@270.3
+<li> varikkum	pey. 
+<BR>@70.9
+<li> varuntum	pey. 
+<BR>@90.7
+<li> vaḻaṅkum	pey. 
+<BR>@80.1 
+<BR>@150.7 
+<BR>@170.11
+<li> vām		pey. 
+<BR>@400.13?
+<li> vāṅkum	pey. 
+<BR>@140.13
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_pe2">LIST of peyar eccam forms of ceyta type</A> found by Eva in AN neytal</H3>
+<OL>
+<li> acitta	pey. p.a. 
+<BR>@100.9
+<li> aciiya	pey. p.a. 
+<BR>@190.1
+<li> aṭiiya           pey. p.a. 
+<BR>@360.4
+<li> aṇinta	pey. p.a. 
+<BR>@120.7
+<li> amaṉṟa	pey. p.a. 
+<BR>@180.5
+<li> aminta	pey. p.a. 
+<BR>@100.1
+<li> ayarnta	pey. p.a. 
+<BR>@330.5
+<li> arumpiya	pey. p.a. 
+<BR>@30.13 
+<BR>@150.2 
+<BR>@230.4
+<li> alkiya		pey. p.a. 
+<BR>@400.3
+<li>[avintirunta	+ pey. p.a. of iru 
+<BR>@100.5] 
+<li> aḻitta		pey. p.a. 
+<BR>@130.8
+<li> aḻuntiya	pey. p.a. 
+<BR>@140.12
+<li> aṟutta		pey. p.a. 
+<BR>@220.5
+<li> ākiya		pey. p.a. 
+<BR>@90.4
+<li> āynta		pey. p.a. 
+<BR>@20.15 
+<BR>@190.16 
+<BR>@220.20
+<li> [iṭampaṭutta	 + pey. p.a. of paṭuttu]
+<li> iyaṟṟiya	pey. p.a. 
+<BR>@180.6
+<li> iyinta           pey. p.a. 
+<BR>@360.7
+<li> irunta		pey. p.a. 
+<BR>@100.5 
+<BR>@190.7 
+<BR>@230.3 
+<BR>@280.4
+<li> iruntaṉam	pey. p.a. 
+<BR>@110.9
+<li> iḻinta		pey. p.a. 
+<BR>@110.16
+<li>[iṟikoṇṭa	+ pey. p.a. of koḷ 
+<BR>@180.11]
+<li> iṟiñciya	pey. p.a. 
+<BR>@110.15
+<li> īṭṭiya		pey. p.a. 
+<BR>@60.9
+<li> ukka		pey. p.a. 
+<BR>@300.3
+<li> uṇṭa		pey. p.a. 
+<BR>@320.13
+<li> utirtta	pey. p.a. 
+<BR>@230.6 
+<BR>@380.4v
+<li>utirnta	pey. p.a. 
+<BR>@380.4
+<li> uḻanta	pey. p.a. 
+<BR>@240.5 
+<BR>@250.2 
+<li> uḷḷiya		pey. p.a. 
+<BR>@240.2
+<li> uṟṟa		pey. p.a. 
+<BR>@20.11 
+<BR>@400.4
+<li> ūtiya		pey. p.a. 
+<BR>@170.6
+<li> ūrnta		pey. p.a. 
+<BR>@330.11
+<li> ūḻtta		pey. p.a. 
+<BR>@10.2
+<li> etiriya	pey. p.a. 
+<BR>@10.1
+<li> eṟinta		pey. p.a. 
+<BR>@120.10
+<li> oṉṟiya	pey. p.a. 
+<BR>@400.8
+<li> ōṅkiya	pey. p.a. 
+<BR>@120.14
+<li> kalitta	pey. p.a. 
+<BR>@70.11 
+<BR>@80.7 
+<li> kavitta	pey. p.a. 
+<BR>@70.15
+<li> kaṉitta	pey. p.a. 
+<BR>@150.8
+<li> kāṭṭiya	pey. p.a. 
+<BR>@240.6
+<li> kiḻitta		pey. p.a. 
+<BR>@340.21
+<li> kuṟitta	pey. p.a. 
+<BR>@110.21
+<li> kuṟinta	pey. p.a. 
+<BR>@160.13
+<li> kuṉṟiya	pey. p.a. 
+<BR>@190.13
+<li> kūṭiya	pey. p.a. 
+<BR>@70.8
+<li> keḻīiya	pey. p.a. 
+<BR>@130.4
+<li> koṇṭa		pey. p.a. 
+<BR>@180.11 
+<BR>@290.16
+<li> koṉṟa		pey. p.a. 
+<BR>@10.10v
+<li> ceyta		pey. p.a. 
+<BR>@140.2 
+<BR>@260.14 
+<BR>@360.19
+<li> ceṉṟa		pey. p.a. 
+<BR>@40.17 
+<BR>@330.8
+<li> colliya	pey. p.a. 
+<BR>@300.9
+<li> ñāṉṟu		DED2 2920: time (particle for forming temporal cluse with pey. p.a.) 
+<BR>@150.14
+<li> taṇanta	pey. p.a. 
+<BR>@150.14
+<li> tatinta 	pey. p.a. 
+<BR>@370.10
+<li> tanta		pey. p.a. 
+<BR>@20.1 
+<BR>@80.5 
+<BR>@130.9 
+<BR>@320.2 
+<BR>@340.16 
+<BR>@400.21
+<li> tiṟanta	pey. p.a. 
+<BR>@130.12
+<li> tuḻanta	pey. p.a. 
+<BR>@60.5 
+<BR>@270.5
+<li> tuḻiiya	pey. p.a. 
+<BR>@320.8
+<li> tokutta	pey. p.a. 
+<BR>@30.8
+<li> toṭutta	pey. p.a. 
+<BR>@20.5
+<li> naviṉṟa	pey. p.a. 
+<BR>@160.11
+<li> nikaḻttiya	pey. p.a. 
+<BR>@340.17
+<li> niṉṟa		pey. p.a. 
+<BR>@180.13 
+<BR>@310.1 
+<BR>@390.15
+<li> niṉinta	pey. p.a. 
+<BR>@380.8
+<li> nuḻinta	pey. p.a. 
+<BR>@350.6 
+<li> nekiḻnta	pey. p.a. 
+<BR>@250.13 
+<BR>@270.4v
+<li> neṟitta	pey. p.a. 
+<BR>@150.1
+<li> noṭutta 	pey. p.a. 
+<BR>@340.14
+<li> pukaḻnta	pey. p.a. 
+<BR>@250.8
+<li> puṇarnta	pey. p.a. 
+<BR>@70.5
+<li> putitta	pey. p.a. 
+<BR>@160.5
+<li>[puṟaṅkoṭutta + pey. p.a. of koṭu 
+<BR>@130.13]
+<li> puṉinta	pey. p.a. 
+<BR>@390.6
+<li> pūṇṭa		pey. p.a. 
+<BR>@100.2
+<li> peyarnta	pey. p.a. 
+<BR>@110.20
+<li> potinta	pey. p.a. 
+<BR>@130.3
+<li> poruta	pey. p.a. 
+<BR>@210.2
+<li> polinta	pey. p.a. 
+<BR>@80.11 
+<BR>@370.14 
+<BR>@390.16
+<li> pōkiya	pey. p.a. 
+<BR>@100.16 
+<BR>@290.2 
+<BR>@350.3 
+<BR>@380.3
+<li> pōḻnta	pey. p.a. 
+<BR>@320.11
+<li> maṭutta         pey. p.a. 
+<BR>@100.6 
+<BR>@330.15 
+<BR>@340.19
+<li> malarnta	pey. p.a. 
+<BR>@170.4 
+<BR>@230.1 
+<BR>@270.1 
+<BR>@290.14
+<li> māṉṟa	pey. p.a. 
+<BR>@190.17
+<li> mukanta	pey. p.a. 
+<BR>@220.16 
+<BR>@300.1
+<li> muṭitta	pey. p.a. 
+<BR>@220.6
+<li> muṉiiya	pey. p.a. 
+<BR>@400.7
+<li> mūḻkiya	pey. p.a. 
+<BR>@350.11
+<li> yātta		pey. p.a. 
+<BR>@220.7
+<li> vanta		pey. p.a. 
+<BR>@40.7 
+<BR>@210.8 
+<BR>@310.14 
+<BR>@360.9 
+<BR>@400.19
+<li> varuntiya	pey. p.a. 
+<BR>@110.8
+<li> valanta	pey. p.a. 
+<BR>@30.1
+<li>vaḷartta	pey. p.a. 
+<BR>@310.8
+<li> vaḷarnta	pey. p.a. 
+<BR>@310.8v
+<li> virinta	pey. p.a. 
+<BR>@240.13
+<li> verīiya	pey. p.a. 
+<BR>@40.14 
+<BR>@140.9
+<li> vēynta	pey. p.a. 
+<BR>@280.2 
+<BR>@370.5
+<li> vitta		pey. p.a. 
+<BR>@60.13
+<li> vikiya	pey. p.a. 
+<BR>@60.3
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_PEneg">LIST of negative peyar eccam forms</A> found by Eva in AN neytal</H3>
+<P><B>NB (ERRATA, Eva): I had to add many items with final -ā, which Eva classified as negative abs. (see below)</B>
+
+<OL>
+<LI> ākā	PE_neg. 
+<BR>@220.9
+<LI> ōṭā		PE_NEG.? 
+<BR>@100.8
+<LI> uṇarā	PE_neg. 
+<BR>@200.3
+<LI> keṭāa		PE_NEG. 
+<BR>@220.3
+<LI> citiyā	PE_neg. 
+<BR>@110.19 
+<BR>@220.21
+<LI> cellā	PE_neg. 
+<BR>@340.6
+<LI> takā		PE_NEG. 
+<BR>@390.3
+<LI> taṇavā	PE_NEG. 
+<BR>@290.10
+<LI> tuñcā		PE_NEG. 
+<BR>@270.11
+<LI> tēyā	PE_neg. 
+<BR>@370.5 
+<LI> nōlā	PE_neg. 
+<BR>@220.14
+<LI> piḻiyā	PE_neg. 
+<BR>@360.11
+<LI> puṇarā	PE_neg. 
+<BR>@270.13
+<LI> pēṇā	PE_neg. 
+<BR>@300.13v
+<LI> maṇṇā	PE_neg. 
+<BR>@30.13
+<LI> maṇavā	PE_neg. 
+<BR>@290.11
+<LI> māṟā	PE_neg. 
+<BR>@220.15
+<LI> varuttā	PE_neg. 
+<BR>@90.6
+<LI> viḷiyā	PE_neg. 
+<BR>@400.22
+</OL>
+
+<H3><A NAME="_PEcomp">LIST of comparative peyar eccam forms</A> found by Eva in AN neytal</H3>
+<OL>
+<LI>aṭarntaṉṉa	PE_COMP. 
+<BR>280.1
+<LI>olittaṉṉa	PE_COMP. 
+<BR>100.14
+<LI>kaṇṭaṉṉa	PE_COMP. 
+<BR>10.2 
+<BR>400.15, 
+<BR>400.16
+<LI>kaḻintaṉṉa	PE_COMP. 
+<BR>400.14
+<LI>pāyntaṉṉa	PE_COMP. 
+<BR>400.13
+<LI>mukittaṉṉa	PE_COMP. 
+<BR>240.11
+<LI>vārntaṉṉa	PE_COMP. 
+<BR>400.9
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_VE1a">LIST viṉi eccam forms (type 1a)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> amarntu	VE1a. 
+<BR>@190.5 
+<BR>@220.14
+<li> amittu	VE1a. 
+<BR>@30.10
+<li> ayarntu	VE1a. 
+<BR>@330.2
+<li> [ariyuṟṟu	+ VE1a. of uṟu 
+<BR>@100.1]
+<li> alittu	VE1a. 
+<BR>@180.6
+<li>aviḻntu	VE1a. 
+<BR>@400.23 
+<li> aḻintu	VE1a. 
+<BR>@210.5
+<li> āyntu	VE1a. 
+<BR>@340.3 
+<li> ikantu	VE1a. 
+<BR>@330.17
+<li> iṭṭu	VE1a. 
+<BR>@80.2v 
+<BR>@400.18?
+<li> iyintu	VE1a. 
+<BR>@220.1 
+<BR>@400.8
+<li> iḻittu	VE1a. 
+<BR>@110.7
+<li> iṟantu	VE1a. 
+<BR>@400.2
+<li> īṉṟu	VE1a. 
+<BR>@160.5
+<li> uṭuttu	VE1a. 
+<BR>@200.3
+<li> uṇṭu	VE1a. 
+<BR>@110.12 
+<BR>@360.5
+<li> uruttu	VE1a. 
+<BR>@150.3
+<li> uḻantu	VE1a. 
+<BR>@190.1 
+<BR>@280.8v 
+<li> uḻutu	VE1a. 
+<BR>@280.8
+<li> etirkoṇṭu	VE1a. 
+<BR>@300.15
+<li> eḻuntu	VE1a. 
+<BR>@40.2 
+<BR>@310.15 
+<BR>@400.25
+<li> eṉṟu	VE1a. 
+<BR>@90.8 
+<li> kaṇṭu	VE1a. 
+<BR>@110.14 
+<BR>@400.23
+<li> kaluḻntu	VE1a. 
+<BR>@300.9v
+<li>kaviḻntu	VE1a. 
+<BR>@300.9
+<li> kurittu	VE1a. 
+<BR>@310.15
+<li> kuṟṟu	VE1a. 
+<BR>@330.1
+<li>[kitoḻutu	+ VE1a. of toḻu 
+<BR>@240.8]
+<li> koṇṭu	VE1a. 
+<BR>@10.8 
+<BR>@20.12 
+<BR>@250.9 
+<BR>@280.12 
+<BR>@380.5
+<li> ciṟantu	
+<BR>@VE1a.160
+<BR>@.18 
+<BR>@170.6
+<li> ceytu	VE1a. 
+<BR>@40.9
+<li> ceṉṟu	VE1a. 
+<BR>@50.9 
+<BR>@310.11v
+<li> corintu	VE1a. 
+<BR>@60.5
+<li> tuṟantu	VE1a. 
+<BR>@370.14
+<li> terintu	VE1a. 
+<BR>@280.6
+<li>toḻutu	VE1a. 
+<BR>@240.8
+<li> nayantu	VE1a. 
+<BR>@400.2
+<li> niṉṟu	VE1a. 
+<BR>@130.1 
+<BR>@330.7
+<li> nivantu	VE1a. 
+<BR>@330.17
+<li> niṉintu	VE1a. 
+<BR>@150.5 
+<BR>@180.8
+<li> noṇṭu	VE1a. 
+<BR>@230.7
+<li> paṇintu	VE1a. 
+<BR>@330.3
+<li> payiṉṟu	VE1a. 
+<BR>@50.6
+<li> pāyntu	VE1a. 
+<BR>@260.2 
+<BR>@340.20v
+<li> pukku	VE1a. 
+<BR>@280.9
+<li> pucittu	VE1a. 
+<BR>@400.4
+<li> puṇarntu	VE1a. 
+<BR>@250.5 
+<BR>@330.3
+<li> purintu	VE1a. 
+<BR>@400.4v
+<li> pulantu	VE1a. 
+<BR>@150.12
+<li> peyarntu	VE1a. 
+<BR>@280.7
+<li> porutu	VE1a. 
+<BR>@130.8
+<li> maṇantu	VE1a. 
+<BR>@180.12
+<li> maṟittu	VE1a. 
+<BR>@160.5
+<li> mukantu	VE1a. 
+<BR>@30.2
+<li> muntuṟuttu	VE1a. 
+<BR>@310.3
+<li> muyaṉṟu	VE1a. 
+<BR>@220.6
+<li> melintu	VE1a. 
+<BR>@120.11
+<li> vantu	VE1a. 
+<BR>@30.14 
+<BR>@100.3 
+<BR>@110.9 
+<BR>@180.4 
+<BR>@190.16 
+<BR>@250.7 
+<BR>@290.10 
+<BR>@310.4 
+<BR>@320.12 
+<BR>@340.1 
+<BR>@380.1 
+<li> viṭṭu	VE1a. 
+<BR>@340.22
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_VE1b">LIST viṉi eccam forms (type 1b)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> acii	VE1b. 
+<BR>@20.3 
+<BR>@120.11 
+<BR>@190.15
+<li> añci	VE1b. 
+<BR>@160.9
+<li> alki	VE1b. 
+<BR>@330.1
+<li> āki	VE1b. 
+<BR>@50.5 
+<BR>@90.10
+<li> āṭṭi	VE1b. 
+<BR>@280.3
+<li> āṭi	VE1b. 
+<BR>@20.8 
+<BR>@110.6 
+<BR>@370.4
+<li> iraṅki	VE1b. 
+<BR>@330.7
+<li> uḻakki	VE1b. 
+<BR>@210.5
+<li> uḷḷi	VE1b. 
+<BR>@210.7
+<li> eyti	VE1b. 
+<BR>@330.9
+<li> ēṅki	VE1b. 
+<BR>@120.8
+<li> ētti	VE1b. 
+<BR>@240.8
+<li> ēṟi	VE1b. 
+<BR>@180.2 
+<BR>@190.2
+<li> oṭukki	VE1b. 
+<BR>@230.14
+<li> otuṅki	VE1b. ?
+<li> orīi	VE1b. 
+<BR>@290.15
+<li> olki	VE1b. 
+<BR>@390.7
+<li> ōppi	VE1b. 
+<BR>@20.2
+<li> ōmpi	VE1b. 
+<BR>@360.12
+<li> kaṭii	VE1b. 
+<BR>@80.10 
+<BR>@180.4
+<li> kalaṅki	VE1b. 
+<BR>@250.12
+<li> kaviṉi	VE1b. 
+<BR>@70.10
+<li> kaḻippi	VE1b. 
+<BR>@120.4 
+<BR>@200.10 
+<BR>@340.2
+<li> kāṭṭi	VE1b. 
+<BR>@160.10 
+<BR>@380.7
+<li> kuvii	VE1b. 
+<BR>@110.7
+<li> kuḻīi	VE1b. 
+<BR>@30.6
+<li> kūṟi	VE1b. 
+<BR>@110.3 
+<BR>@110.22 
+<BR>@150.4 
+<li> keṇṭi	VE1b. 
+<BR>@10.11v 
+<BR>@20.4
+<li> keḻīi	VE1b. 
+<BR>@180.12
+<li> koḷīi	VE1b. 
+<BR>@320.1
+<li> cāṟṟi	VE1b. 
+<BR>@30.10 
+<BR>@140.3 
+<BR>@390.1
+<li> cūṭṭi	VE1b. 
+<BR>@180.7
+<li> cērtti	VE1b. 
+<BR>@160.4 
+<li> taṅki	VE1b. 
+<BR>@300.19
+<li> taḻīi	VE1b. 
+<BR>@290.6 
+<BR>@400.10
+<li> tākki	VE1b. 
+<BR>@190.11
+<li> tirutti	VE1b. 
+<BR>@300.7
+<li> tīṇṭi	VE1b. 
+<BR>@120.2
+<li> tuvaṉṟi	VE1b. 
+<BR>@30.4 
+<li> tuḻii	VE1b. 
+<BR>@80.5 
+<BR>@180.10
+<li> tūkki	VE1b. 
+<BR>@40.6
+<li> tūṅki	VE1b. 
+<BR>@20.6 
+<BR>@40.6v
+<li> tii	VE1b. 
+<BR>@20.9 
+<BR>@60.10 
+<BR>@370.1
+<li> nacii	VE1b. 
+<BR>@170.5 
+<li> nīkki	VE1b. 
+<BR>@250.6 
+<BR>@310.1 
+<BR>@350.10 
+<BR>@360.13 
+<BR>@380.1
+<li> nīṅki	VE1b. 
+<BR>@50.1 
+<li> nīnti	VE1b. 
+<BR>@50.7 
+<BR>@80.2 
+<BR>@360.14 
+<BR>@400.18
+<li> nīvi	VE1b. 
+<BR>@100.1 
+<BR>@240.10 
+<BR>@300.7
+<li> nōkki	VE1b. 
+<BR>@110.4 
+<BR>@110.23 
+<BR>@150.3 
+<BR>@180.8 
+<BR>@180.14 
+<BR>@270.7 
+<BR>@340.3 
+<BR>@390.12
+<li> payiṟṟi	VE1b. 
+<BR>@220.2
+<li> paṟṟi	VE1b. 
+<BR>@110.24
+<li> paṟii	VE1b. 
+<BR>@170.7v
+<li> pārāṭṭi	VE1b. 
+<BR>@70.3 
+<BR>@200.9 
+<BR>@210.9
+<li> piḷiṟṟi	VE1b. 
+<BR>@40.15
+<li> pūṭṭi	VE1b. 
+<BR>@400.11
+<li> peruki	VE1b. 
+<BR>@400.6
+<li> porunti	VE1b. 
+<BR>@110.15
+<li> pōki	VE1b. 
+<BR>@210.4 
+<BR>@400.16
+<li> maṟuki	VE1b. 
+<BR>@220.2
+<li> māṟṟi	VE1b. 
+<BR>@210.11
+<li> muyaṅki	VE1b. 
+<BR>@100.3 
+<BR>@150.5
+<li> muṉii	VE1b. 
+<BR>@40.11
+<li> varunti	VE1b. 
+<BR>@140.14
+<li> vāṅki	VE1b. 
+<BR>@30.7 
+<BR>@160.3 
+<BR>@380.5
+<li> virīi	VE1b. 
+<BR>@130.7
+<li> viṉii	VE1b. 
+<BR>@300.15
+<li> vīci	VE1b. 
+<BR>@30.9 
+<BR>@140.6
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE1c">LIST viṉi eccam forms (type 1c)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> ēey	VE1c. 
+<BR>@300.6v
+<li> cāay	VE1c. 
+<BR>@250.10
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE2">LIST viṉi eccam forms (type 2)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> koḷāa		(ERRATA EVA who thought this as negative
+<BR>@260.9 
+<BR>@360.8
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE3">LIST viṉi eccam forms (type 3)</A> found by Eva in AN neytal</H3>
+<OL>
+<li>aṟupu	VE3. 
+<BR>@40.8
+<li> iḻipu	VE3. 
+<BR>@330.14
+<li> ūrpu	VE3. 
+<BR>@330.14
+<li> kūṭṭupu	VE3. 
+<BR>@340.17
+<li>[kiyaṟupu	+ VE3. of aṟu 
+<BR>@40.8]
+<li> cērpu	VE3. 
+<BR>@110.15 
+<BR>@190.7
+<li> pāypu	VE3. 
+<BR>@340.20
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE4">LIST viṉi eccam forms (type 4)</A> found by Eva in AN neytal</H3>
+<OL>
+<li> eṟinteṉa	VE4. 
+<BR>@190.12
+<li> ceṉṟeṉa	VE4. 
+<BR>@300.5 
+<li> paṭṭeṉa	VE4. 
+<BR>@290.4 
+<li> vāytteṉa	VE4. 
+<BR>@70.1
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE5">LIST viṉi eccam forms (type 5)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> celīiyar	VE5. 
+<BR>@300.5
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE6">LIST viṉi eccam forms (type 6)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> takiiya	VE6. 
+<BR>@330.8
+<LI> paṟiiya	?VE6. 
+<BR>@170.7v
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE7">LIST viṉi eccam forms (type 7)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> iruppiṉ	VE7. 
+<BR>@280.10
+<LI> uṟiṉ		VE7. 
+<BR>@160.9
+<LI> kāṇiṉ		VE7. 
+<BR>@60.12
+<LI> celiṉ		VE7. 
+<BR>@30.15 
+<BR>@120.13 
+<BR>@370.8
+<LI> cēppiṉ	VE7. 
+<BR>@340.13
+<LI> colliṉ		VE7. 
+<BR>@50.10
+<LI> taṅkiṉ	VE7. 
+<BR>@110.13
+<LI> tōṉṟiṉ	VE7. 
+<BR>@300.14
+<LI> piriyiṉ	VE7. 
+<BR>@300.11
+<LI> puṇariṉ	VE7. 
+<BR>@230.9
+<LI> peyariṉ	VE7. 
+<BR>@360.9
+<LI> peṟiṉ		VE7. 
+<BR>@300.22
+<LI> muṉiyiṉ	VE7. 
+<BR>@20.7
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE8a">LIST viṉi eccam forms (type 8a)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> akala		VE8. 
+<BR>@360.13 
+<BR>@400.3
+<LI> aṭiya		VE8. 
+<BR>@150.5
+<LI>[aṇittaka	+ VE8. of taku 
+<BR>@20.9]
+<LI> ayara		VE8. 
+<BR>@180.3 
+<BR>@300.6
+<LI> ariya		VE8. 
+<BR>@330.14
+<LI> aviya		VE8. 
+<BR>@260.5
+<LI> aviḻa		VE8. 
+<BR>@150.9
+<LI> [aḻitaka 	2 + VE8. of taku 
+<BR>@40.7]
+<LI> aḻiya		VE8. 
+<BR>@30.2
+<LI> aṟiya		VE8. 
+<BR>@110.3
+<LI>[aṉpuṟa	+ VE8. of uṟu 
+<BR>@290.7]
+<LI> āka		VE8. 
+<BR>@110.9 
+<BR>@230.13 
+<BR>@350.8 
+<BR>@390.12
+<LI> iriya		VE8. 
+<BR>@190.8 
+<BR>@310.15
+<LI>[iṉpuṟa	+ VE8. of uṟu 
+<BR>@300.20 
+<BR>@330.3]
+<LI> iṉiya	VE8. 
+<BR>@40.8
+<LI> uṇa		VE8. 
+<BR>@290.14
+<LI> uṇaṅka	VE8. 
+<BR>@300.2
+<LI> uṟa		VE8. 
+<BR>@200.10 
+<BR>@230.16 
+<BR>@260.10 
+<BR>@290.7 
+<BR>@300.19 
+<BR>@300.20 
+<BR>@330.3
+<LI> ūta		VE8. 
+<BR>@260.2
+<LI> etirkoḷa	VE8. 
+<BR>@350.13
+<LI> eyta		VE8. 
+<BR>@110.9
+<LI> eḻa		VE8. 
+<BR>@90.4 
+<BR>@220.1
+<LI> eṉṉa		irr. VE8. of eṉ? 
+<BR>@110.23 
+<BR>@380.2
+<LI> eṉa	VE8. 
+<BR>@20.14 
+<BR>@20.16 
+<BR>@50.12 
+<BR>@50.14 
+<BR>@60.11 
+<BR>@70.1 
+<BR>@90.13 
+<BR>@110.14 
+<BR>@110.17 
+<BR>@110.19 
+<BR>@110.22 
+<BR>@140.7 
+<BR>@150.1 
+<BR>@150.4 
+<BR>@150.11 
+<BR>@150.13 
+<BR>@160.16 
+<BR>@170.14 
+<BR>@190.12 
+<BR>@200.3 
+<BR>@200.8 
+<BR>@220.19 
+<BR>@230.10 
+<BR>@230.12 
+<BR>@260.13 
+<BR>@290.4 
+<BR>@290.6 
+<BR>@300.5 
+<BR>@300.8 
+<BR>@300.11 
+<BR>@300.18 
+<BR>@320.4 
+<BR>@340.8 
+<BR>@340.11 
+<BR>@350.12 
+<BR>@360.13 
+<BR>@380.7 
+<BR>@390.9 
+<BR>@390.11 
+<BR>@390.14 
+<BR>@400.2
+<LI> ēmuṟa	VE8. 
+<BR>@300.19
+<LI> oḻiya		VE8. 
+<BR>@370.13
+<LI> kāṇa		VE8. 
+<BR>@160.17
+<LI>[kāṇvara	+ VE8. 
+<BR>@250.4] 
+<LI>kaliḻa		VE8. 
+<BR>@310.5
+<LI> kaluḻa	VE8. 
+<BR>@10.5 
+<BR>@120.6 
+<BR>@310.5v
+<LI> kiḷara		VE8. 
+<BR>@260.1
+<LI> kūmpa	VE8. 
+<BR>@40.1 
+<BR>@150.10 
+<BR>@350.1
+<LI> kūṟa		VE8. 
+<BR>@300.19
+<LI> koḷa		VE8. 
+<BR>@100.3 
+<BR>@340.3 
+<BR>@350.13
+<LI> citiya	VE8. 
+<BR>@120.8 
+<BR>@160.3 
+<BR>@320.12 
+<BR>@380.5
+<LI> ceṟiya		VE8. 
+<BR>@60.14 
+<BR>@260.5
+<LI> cēra		VE8. 
+<BR>@40.4 
+<BR>@250.7 
+<BR>@260.7
+<LI> tatiya	VE8. 
+<BR>@220.4
+<LI> tavira		VE8. 
+<BR>@190.14
+<LI> taḷara		VE8. 
+<BR>@40.6
+<LI> tāḻa		VE8. 
+<BR>@180.7
+<LI> tīra		VE8. 
+<BR>@110.8 
+<BR>@140.13 
+<BR>@340.1
+<LI>[tuyalvara	+ VE8. of varu 
+<BR>@370.11]
+<LI> tūṟṟa		VE8. 
+<BR>@70.6
+<LI> toliya	VE8. 
+<BR>@270.10 
+<BR>@340.8
+<LI> tōṉṟa		VE8. 
+<BR>@260.6
+<LI> naṭuṅka	VE8. 
+<BR>@60.1
+<LI> nāṟa		VE8. 
+<BR>@400.22
+<LI> niṟpa		VE8. 
+<BR>@50.4
+<LI> nīṅka		VE8. 
+<BR>@320.7
+<LI> paṭa		VE8. 
+<BR>@190.2 
+<BR>@210.3 
+<BR>@240.12 
+<BR>@330.4 
+<BR>@370.10 
+<BR>@400.6 
+<BR>@400.16
+<LI> pariya	VE8. 
+<BR>@330.14v
+<LI> pārāṭṭa	VE8. 
+<BR>@310.7
+<LI> puraḷa 	VE8. 
+<BR>@390.5
+<LI> pūṇa		VE8. 
+<BR>@350.7
+<LI> peṟa		VE8. 
+<BR>@390.6
+<LI> porunta	VE8. 
+<BR>@190.11
+<LI> pōla		VE8. 
+<BR>@30.8 
+<BR>@70.16 
+<BR>@120.1 
+<BR>@220.8 
+<BR>@220.14 
+<BR>@300.11 
+<BR>@330.16 
+<BR>@360.7 
+<BR>@370.15 
+<LI> malka	VE8. 
+<BR>@30.9
+<LI> malara	VE8. 
+<BR>@80.8
+<LI> maḻuka	VE8. 
+<BR>@260.1
+<LI>[maṟuppaṭa	+ VE8. of paṭu 
+<BR>@210.3]
+<LI> maṟuka	VE8. 
+<BR>@300.3
+<LI> maṟiya	VE8. 
+<BR>@360.3
+<LI> mika		VE8. 
+<BR>@110.11 
+<BR>@180.1 
+<BR>@380.11
+<LI> mociya	VE8.? 
+<BR>@400.10
+<LI> vara		VE8. 
+<BR>@330.3
+<LI> viṭa		VE8. 
+<BR>@150.1 
+<BR>@150.2
+<LI> vilaṅka	VE8. 
+<BR>@210.12
+<LI> viḷiyāṭa	VE8. 
+<BR>@250.5
+<LI> vīṭa		VE8. 
+<BR>@340.12
+<LI>[veḷippaṭa	+ VE8. of paṭu 
+<BR>@330.4]
+</OL>
+
+<HR>
+
+<H3><A NAME="_VE8b">LIST viṉi eccam forms (type 8b)</A> found by Eva in AN neytal</H3>
+<OL>
+<LI> alippa	VE8b. 
+<BR>@190.9
+<LI> aḻippa	VE8b. 
+<BR>@190.12
+<LI> aṟuppa	VE8b. 
+<BR>@80.9
+<LI> ārppa	VE8b. 
+<BR>@350.12
+<LI>irippa	VE8b. 
+<BR>@400.4
+<LI> ukappa	VE8b. 
+<BR>@120.3
+<LI>uḻuppa	VE8b. 
+<BR>@10.5v
+<LI> oppa	VE8b. 
+<BR>@30.6 
+<BR>@100.10
+<LI> olippa	VE8b. 
+<BR>@30.7 
+<BR>@40.2 
+<BR>@260.3 
+<BR>@400.11
+<LI> karappa	VE8b. 
+<BR>@260.8
+<LI> kāppa	VE8b. 
+<BR>@130.6
+<LI> kurippa	VE8b. 140. 9
+<LI> ceppa	VE8b. 
+<BR>@330.10
+<LI> taṇappa	VE8b. 
+<BR>@50.7
+<LI> tuṟappa	VE8b. 
+<BR>@360.5
+<LI> teḷirppa	VE8b. 
+<BR>@140.6
+<LI> nivappa	VE8b. 
+<BR>@240.3 
+<BR>@350.4
+<LI> nīppa	VE8b. 
+<BR>@350.4v
+<LI> maṟappa	VE8b. 
+<BR>@260.4
+<LI> varippa	VE8b. 
+<BR>@250.3
+</OL>
+
+<HR>
+
+<H3><A NAME="_VEneg">Negative viṉi eccam forms</A> found by Eva in AN neytal</H3>
+<P><B>NB (ERRATA, Eva): I had to remove many items with final -ā, which I view as peyar eccam (see above)</B>
+<OL>
+<LI> āṉātu		VE_neg. 
+<BR>120.8 
+<BR>210.10 
+<LI> uḻāatu	VE_neg. 
+<BR>140.2
+<LI> eṉṉātu	VE_neg. 
+<BR>20.14 
+<BR>50.8
+<LI> ēvātu		VE_neg. 
+<BR>350.7
+<LI> karavātu	VE_neg. 
+<BR>160.15
+<LI> kaḻaṟātu	VE_neg. 
+<BR>170.1
+<LI> kūṟātu	VE_neg. 
+<BR>170.1
+<LI> cellātu	VE_neg. 
+<BR>120.12
+<LI> tāṅkātu	VE_neg. 
+<BR>300.10
+<LI> nillātu	VE_neg. 
+<BR>110.20 
+<BR>180.9
+<LI> nīṅkātu	VE_neg. 
+<BR>260.11 
+<LI> miciyātu     VE_neg. 
+<BR>290.5
+<LI> moḻiyātu	VE_neg. 
+<BR>170.2
+</OL>
+
+<HR>
+
+<H3><A NAME="_VEcomp">Comparative viṉi eccam forms</A> found by Eva in AN neytal</H3>
+<OL>
+<li> niṉṟāṅku	VE1a. 
+<BR>@370.12
+</OL>
+
+</BODY>
+</HTML>

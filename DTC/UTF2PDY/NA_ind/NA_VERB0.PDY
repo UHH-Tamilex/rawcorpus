@@ -1,0 +1,4040 @@
+<HTML>
+<HEAD>
+<TITLE>Various List of Verb forms in NA</TITLE>
+</HEAD>
+
+<BODY>
+<FONT FACE="Times3">
+
+<H3>STATISTICS</H3>
+
+<UL>
+<li>Anthology name: Na��i�ai (=NA)
+<li>Anthology length: 4180 lines
+<li>Number of "v.r.": 1564 occ. (of 343 distinct elements)
+<li>Density of "v.r.": 1564/4180 = 37.4 %
+<li>Number of "ceyyum" type PE (peyar eccam):  583 occ. (of  261 distinct elements)
+<li>Density of "ceyyum" type PE: 583/4180 = 13.9 %
+<li>Number of "ceyta" type PE (peyar eccam):  occ. (of  361 distinct elements)
+<li>Density of "ceyta" type PE: 858/4180 = 20.5 %
+</UL>
+
+
+<HR>
+<H3>List of Lists</H3>
+<UL>
+<li>Verbal roots: <A HREF="#_vr">1564 words</A> (and vocab. = 343)
+<li>Peyar Eccam (ceyyum type) <A HREF="#_pe1">583 words</A> (and vocab. = 261)
+<li>Peyar Eccam (ceyta type) <A HREF="#_pe2">858 words</A> (and vocab. = 361)
+<HR>
+<li>TO BE CONTINUED ...............
+</UL>
+
+<HR>
+<H3>HOW THIS FILE WAS MADE</H3>
+
+<UL>
+<li>Open Eva's 8 files NAindex1.doc upto NAindex8.doc (dated 2004)
+<li>Select everything
+<li>Start "BlocNote" (NotePad)
+<li>Paste, and save in UTF8 text format (NAind1.utf upto NAind8.utf)
+<li>apply UTF_2pdy.bat and obtin new files  (NAind1.pdy upto NAind8.pdy)
+<li>run the dos command: [find "v.r." NAind?.pdy &gt; NA_vr.pdy
+<li>"slightly" edit the result and make it into an hyperlinked file
+<BR>(for instance make a search and replace of *.[0-9]* by ^J&lt;BR&gt;@*.?*, etc.
+<li>interprete the statistics ... (there seems to be 710 occ. of 227 distinct v.r. (= verbal roots)
+<li>Do the same with other categories
+</UL>
+
+<HR>
+
+<H3><A NAME="_vr">LIST of verbal roots</A> found by Eva in KT</H3>
+<OL>
+<LI>akal	DED2 8: to depart; to widen - v.r. to widen 
+<BR><A HREF="^narr005.htm">[5-2]</A> 
+<BR><A HREF="^narr008.htm">[8-5]</A> 
+<BR><A HREF="^narr017.htm">[17-3]</A> 
+<BR><A HREF="^narr040.htm">[40-11]</A> 
+<BR><A HREF="^narr077.htm">[77-10]</A> 
+<BR><A HREF="^narr089.htm">[89-6]</A> 
+<BR><A HREF="^narr092.htm">[92-5]</A> 
+<BR><A HREF="^narr125.htm">[125-10]</A> 
+<BR><A HREF="^narr166.htm">[166-5]</A> 
+<BR><A HREF="^narr185.htm">[185-8]</A> 
+<BR><A HREF="^narr200.htm">[200-3]</A> 
+<BR><A HREF="^narr200.htm">[200-10]</A> 
+<BR><A HREF="^narr210.htm">[210-1]</A> 
+<BR><A HREF="^narr258.htm">[258-7]</A> 
+<BR><A HREF="^narr266.htm">[266-4]</A> 
+<BR><A HREF="^narr283.htm">[283-3]</A> 
+<BR><A HREF="^narr293.htm">[293-3]</A> 
+<BR><A HREF="^narr309.htm">[309-5]</A> 
+<BR><A HREF="^narr316.htm">[316-5]</A> 
+<BR><A HREF="^narr319.htm">[319-3]</A> 
+<BR><A HREF="^narr357.htm">[357-7]</A> 
+<BR><A HREF="^narr362.htm">[362-4]</A> 
+<BR><A HREF="^narr365.htm">[365-4]</A> 
+<BR><A HREF="^narr377.htm">[377-2]</A> 
+<BR><A HREF="^narr377.htm">[377-6]</A> 
+<BR><A HREF="^narr377.htm">[377-7]</A> 
+<BR><A HREF="^narr390.htm">[390-5]</A>
+<LI>aci		DED2 37: 4. to move - v.r. 
+<BR><A HREF="^narr020.htm">[20-4]</A> 
+<BR><A HREF="^narr074.htm">[74-8]</A> 
+<BR><A HREF="^narr076.htm">[76-4]</A>
+<LI>aci		DED2 39: 5.? to be weary = to rest - v.r. 
+<BR><A HREF="^narr106.htm">[106-4]</A> 
+<BR><A HREF="^narr258.htm">[258-7]</A>
+<LI>a�cu	DED2 55: 5. to fear - v.r. 
+<BR><A HREF="^narr014.htm">[14-9]</A> 
+<BR><A HREF="^narr033.htm">[33-7]</A> 
+<BR><A HREF="^narr076.htm">[76-4]</A> 
+<BR><A HREF="^narr083.htm">[83-9]</A> 
+<BR><A HREF="^narr085.htm">[85-6]</A> 
+<BR><A HREF="^narr099.htm">[99-3]</A> 
+<BR><A HREF="^narr154.htm">[154-6]</A> 
+<BR><A HREF="^narr298.htm">[298-5]</A> 
+<BR><A HREF="^narr319.htm">[319-5]</A> 
+<BR><A HREF="^narr352.htm">[352-3]</A> 
+<BR><A HREF="^narr353.htm">[353-11]</A> 
+<BR><A HREF="^narr383.htm">[383-7]</A> 
+<BR><A HREF="^narr387.htm">[387-7]</A> 
+<LI>a�u		DED2 79: 11. to be near - v.r. 
+<BR><A HREF="^narr278.htm">[278-2]</A> 
+<LI>a�u		DED2 76: 6. to kill; to cook - v.r. 
+<BR><A HREF="^narr039.htm">[39-9]</A> 
+<BR><A HREF="^narr154.htm">[154-9]</A> 
+<BR><A HREF="^narr175.htm">[175-9]</A> 
+<BR><A HREF="^narr329.htm">[329-2]</A> 
+<BR><A HREF="^narr369.htm">[369-10]</A> 
+<BR><A HREF="^narr369.htm">[369-11v]</A> 
+<BR><A HREF="^narr395.htm">[395-5]</A>
+<LI>a�a�ku	DED2 63: 5. to be still - v.r. 
+<BR><A HREF="^narr018.htm">[18-8]</A> 
+<BR><A HREF="^narr300.htm">[300-8]</A>
+<LI>a�ai	DED2 84: to set - v.r. 
+<BR><A HREF="^narr011.htm">[11-6]</A> 
+<BR><A HREF="^narr027.htm">[27-3]</A> 
+<BR><A HREF="^narr035.htm">[35-1]</A> 
+<BR><A HREF="^narr118.htm">[118-1]</A> 
+<BR><A HREF="^narr165.htm">[165-6]</A> 
+<BR><A HREF="^narr230.htm">[230-1]</A> (
+<BR><A HREF="^narr234.htm">[234-5]</A>) 
+<BR><A HREF="^narr243.htm">[243-2]</A> 
+<BR><A HREF="^narr308.htm">[308-8]</A> 
+<BR><A HREF="^narr385.htm">[385-2]</A>
+<LI>[a�a�ku�u	+ v.r. of u�u 
+<BR><A HREF="^narr282.htm">[282-5]</A>]
+<LI>a�i	4. to adorn - v.r. 
+<BR><A HREF="^narr009.htm">[9-6]</A> 
+<BR><A HREF="^narr010.htm">[10-5]</A> 
+<BR><A HREF="^narr040.htm">[40-7]</A> 
+<BR><A HREF="^narr046.htm">[46-5]</A> 
+<BR><A HREF="^narr052.htm">[52-4]</A> 
+<BR><A HREF="^narr071.htm">[71-2]</A> 
+<BR><A HREF="^narr080.htm">[80-6]</A> 
+<BR><A HREF="^narr138.htm">[138-9]</A> 
+<BR><A HREF="^narr141.htm">[141-10]</A> 
+<BR><A HREF="^narr147.htm">[147-1]</A> 
+<BR><A HREF="^narr181.htm">[181-11]</A> 
+<BR><A HREF="^narr221.htm">[221-6]</A> 
+<BR><A HREF="^narr229.htm">[229-7]</A> 
+<BR><A HREF="^narr245.htm">[245-2]</A> 
+<BR><A HREF="^narr270.htm">[270-5]</A> 
+<BR><A HREF="^narr296.htm">[296-4]</A> 
+<BR><A HREF="^narr302.htm">[302-1]</A> 
+<BR><A HREF="^narr304.htm">[304-7]</A> 
+<BR><A HREF="^narr305.htm">[305-1]</A> 
+<BR><A HREF="^narr307.htm">[307-3]</A> 
+<BR><A HREF="^narr319.htm">[319-9]</A> 
+<BR><A HREF="^narr334.htm">[334-4]</A> 
+<BR><A HREF="^narr337.htm">[337-7]</A> 
+<BR><A HREF="^narr344.htm">[344-1]</A> 
+<BR><A HREF="^narr362.htm">[362-4]</A> 
+<BR><A HREF="^narr391.htm">[391-5]</A> 
+<BR><A HREF="^narr399.htm">[399-3]</A>
+<LI>[a�inti�u	abs. + v.r. of i�u 
+<BR><A HREF="^narr395.htm">[395-7]</A>]
+<LI>atir		DED2 137(a): 4. to shake - v.r. 
+<BR><A HREF="^narr228.htm">[228-2]</A> 
+<BR><A HREF="^narr248.htm">[248-7]</A> 
+<LI>amar		DED2 161: 4. to abide - v.r. 
+<BR><A HREF="^narr071.htm">[71-7]</A> 
+<BR><A HREF="^narr267.htm">[267-6]</A>
+<LI>ami		DED2 162: 11. to effect - v.r. 
+<BR><A HREF="^narr362.htm">[362-1]</A> 
+<LI>ami		DED2 162: 4. to fit; to be close - v.r. 
+<BR><A HREF="^narr101.htm">[101-7]</A> 
+<BR><A HREF="^narr178.htm">[178-2]</A> 
+<BR><A HREF="^narr222.htm">[222-7]</A> 
+<BR><A HREF="^narr282.htm">[282-1]</A> 
+<BR><A HREF="^narr376.htm">[376-7]</A>
+<LI>ami	DED2 161: 4. to become still - v.r. 
+<BR><A HREF="^narr012.htm">[12-5]</A> 
+<BR><A HREF="^narr132.htm">[132-4]</A> 
+<BR><A HREF="^narr352.htm">[352-10]</A>
+<LI>ayar	4. to immerse oneself in; to drive a chariot (
+<BR><A HREF="^narr159.htm">[159-12]</A>) - v.r. 
+<BR><A HREF="^narr042.htm">[42-12]</A> 
+<BR><A HREF="^narr044.htm">[44-8]</A> 
+<BR><A HREF="^narr050.htm">[50-3]</A> 
+<BR><A HREF="^narr062.htm">[62-2]</A> 
+<BR><A HREF="^narr081.htm">[81-8]</A> 
+<BR><A HREF="^narr089.htm">[89-8]</A> 
+<BR><A HREF="^narr361.htm">[361-9]</A> 
+<BR><A HREF="^narr374.htm">[374-8]</A>
+<LI>ari		DED2 212: 4. to cut off - v.r. 
+<BR><A HREF="^narr021.htm">[21-7]</A> 
+<BR><A HREF="^narr195.htm">[195-6]</A> 
+<BR><A HREF="^narr210.htm">[210-1]</A> 
+<LI>alku 		DED2 317: 5. to abide, dwell - v.r. 
+<BR><A HREF="^narr008.htm">[8-1]</A> 
+<BR><A HREF="^narr017.htm">[17-3]</A>? 
+<BR><A HREF="^narr137.htm">[137-8]</A> 
+<BR><A HREF="^narr256.htm">[256-2v]</A> 
+<BR><A HREF="^narr346.htm">[346-5]</A> 
+<BR><A HREF="^narr356.htm">[356-5]</A>
+<LI>ala�ku 	DED2 240: 5. to sway - v.r. 
+<BR><A HREF="^narr118.htm">[118-1]</A> 
+<BR><A HREF="^narr185.htm">[185-8]</A> 
+<BR><A HREF="^narr243.htm">[243-3]</A> 
+<BR><A HREF="^narr292.htm">[292-1]</A> 
+<BR><A HREF="^narr359.htm">[359-2]</A>
+<LI>alamaru 	DED2 240: 13. to whirl - v.r. 
+<BR><A HREF="^narr083.htm">[83-8v]</A>
+<LI>ali		DED2 2374: 11. to slap - v.r. 
+<BR><A HREF="^narr204.htm">[204-5]</A> 
+<BR><A HREF="^narr044.htm">[44-2]</A> 
+<BR><A HREF="^narr065.htm">[65-3v]</A> 
+<BR><A HREF="^narr084.htm">[84-9]</A> 
+<BR><A HREF="^narr094.htm">[94-1]</A> 
+<BR><A HREF="^narr195.htm">[195-8]</A> 
+<BR><A HREF="^narr357.htm">[357-9]</A> 
+<BR><A HREF="^narr398.htm">[398-3]</A> 
+<LI>avir 		TL (not DED2): 4. to shine - v.r. 
+<BR><A HREF="^narr029.htm">[29-2]</A> 
+<BR><A HREF="^narr043.htm">[43-1]</A> 
+<BR><A HREF="^narr099.htm">[99-2]</A> 
+<BR><A HREF="^narr144.htm">[144-7]</A> 
+<BR><A HREF="^narr221.htm">[221-9]</A> 
+<BR><A HREF="^narr305.htm">[305-8]</A> 
+<BR><A HREF="^narr367.htm">[367-6]</A>'
+<LI>avi� 	TL: 4. to open (refl./tr.) (= DED2 12: to become loose?) - v.r. 
+<BR><A HREF="^narr020.htm">[20-2]</A> 
+<BR><A HREF="^narr042.htm">[42-11]</A> 
+<BR><A HREF="^narr074.htm">[74-6]</A> 
+<BR><A HREF="^narr214.htm">[214-4]</A> 
+<BR><A HREF="^narr260.htm">[260-9]</A> 
+<BR><A HREF="^narr321.htm">[321-9]</A> 
+<BR><A HREF="^narr327.htm">[327-7]</A> 
+<BR><A HREF="^narr367.htm">[367-9]</A>
+<LI>a�i		11. to destroy - v.r. 
+<BR><A HREF="^narr185.htm">[185-1]</A> 
+<BR><A HREF="^narr324.htm">[324-2]</A>
+<LI>a�i 		4. to perish - v.r. 
+<BR><A HREF="^narr089.htm">[89-4]</A> 
+<BR><A HREF="^narr094.htm">[94-1]</A> 
+<BR><A HREF="^narr138.htm">[138-4]</A> 
+<BR><A HREF="^narr175.htm">[175-2]</A> 
+<BR><A HREF="^narr177.htm">[177-10]</A> 
+<BR><A HREF="^narr241.htm">[241-3]</A> 
+<BR><A HREF="^narr247.htm">[247-3]</A> 
+<BR><A HREF="^narr308.htm">[308-7]</A> 
+<BR><A HREF="^narr347.htm">[347-5]</A>
+<LI>a�i 		DED2 314: 4. to know - v.r. 
+<BR><A HREF="^narr047.htm">[47-8]</A> 
+<BR><A HREF="^narr146.htm">[146-4]</A> 
+<BR><A HREF="^narr196.htm">[196-9]</A>
+<LI>a�u 		DED2 315: 6. to subside - v.r. 
+<BR><A HREF="^narr022.htm">[22-9]</A> 
+<BR><A HREF="^narr250.htm">[250-7v]</A> 
+<BR><A HREF="^narr363.htm">[363-5]</A>
+<LI>[a�pu�u 	+ v.r. u�u 
+<BR><A HREF="^narr389.htm">[389-11]</A>]
+<LI>�/�ku		DED2 333: 13. to become - v.r. 
+<BR><A HREF="^narr310.htm">[310-7v]</A>
+<LI>���u		DED2 347: 5. to drive away - v.r. 
+<BR><A HREF="^narr024.htm">[24-3]</A>
+<LI>��u	DED2 347: 5. to play, dance - v.r. 
+<BR><A HREF="^narr028.htm">[28-7]</A> 
+<BR><A HREF="^narr068.htm">[68-10]</A> 
+<BR><A HREF="^narr079.htm">[79-3]</A> 
+<BR><A HREF="^narr082.htm">[82-8]</A> 
+<BR><A HREF="^narr090.htm">[90-1]</A> 
+<BR><A HREF="^narr095.htm">[95-2]</A> 
+<BR><A HREF="^narr106.htm">[106-3]</A> 
+<BR><A HREF="^narr138.htm">[138-9]</A> 	
+<BR><A HREF="^narr156.htm">[156-10]</A> 
+<BR><A HREF="^narr178.htm">[178-1]</A> 
+<BR><A HREF="^narr222.htm">[222-4]</A> 
+<BR><A HREF="^narr233.htm">[233-3]</A> 
+<BR><A HREF="^narr262.htm">[262-2]</A> 
+<BR><A HREF="^narr282.htm">[282-8]</A> 
+<BR><A HREF="^narr307.htm">[307-3]</A> 
+<BR><A HREF="^narr324.htm">[324-7]</A> 
+<BR><A HREF="^narr329.htm">[329-7]</A> 
+<BR><A HREF="^narr338.htm">[338-9]</A> 
+<BR><A HREF="^narr353.htm">[353-3]</A> 
+<BR><A HREF="^narr354.htm">[354-2]</A> 
+<BR><A HREF="^narr379.htm">[379-11]</A> 
+<BR><A HREF="^narr395.htm">[395-6]</A>
+<LI>�y 	DED2 363: 4. to select - v.r. 
+<BR><A HREF="^narr060.htm">[60-11v]</A> 
+<BR><A HREF="^narr085.htm">[85-1]</A> 
+<BR><A HREF="^narr106.htm">[106-9]</A> 
+<BR><A HREF="^narr128.htm">[128-6]</A> 
+<BR><A HREF="^narr181.htm">[181-13]</A> 
+<BR><A HREF="^narr192.htm">[192-11]</A> 
+<BR><A HREF="^narr205.htm">[205-11]</A> 
+<BR><A HREF="^narr222.htm">[222-4]</A> *
+<BR><A HREF="^narr234.htm">[234-8]</A> 
+<BR><A HREF="^narr239.htm">[239-6]</A> 
+<BR><A HREF="^narr245.htm">[245-2]</A> 
+<BR><A HREF="^narr251.htm">[251-3]</A> 
+<BR><A HREF="^narr279.htm">[279-11]</A> 
+<BR><A HREF="^narr286.htm">[286-2]</A> 
+<BR><A HREF="^narr286.htm">[286-6]</A> 
+<BR><A HREF="^narr308.htm">[308-2]</A> 
+<BR><A HREF="^narr319.htm">[319-7]</A> 
+<BR><A HREF="^narr320.htm">[320-8]</A> 
+<BR><A HREF="^narr344.htm">[344-4]</A> 
+<BR><A HREF="^narr358.htm">[358-11]</A> 
+<BR><A HREF="^narr367.htm">[367-6]</A>' 
+<BR><A HREF="^narr371.htm">[371-7]</A>
+<LI>�r 	DED2 368: 4. to become full - v.r. 
+<BR><A HREF="^narr027.htm">[27-8]</A> 
+<BR><A HREF="^narr037.htm">[37-10]</A> 
+<BR><A HREF="^narr038.htm">[38-4]</A> 
+<BR><A HREF="^narr053.htm">[53-5]</A> 
+<BR><A HREF="^narr100.htm">[100-11]</A> 
+<BR><A HREF="^narr102.htm">[102-2]</A> 
+<BR><A HREF="^narr104.htm">[104-7]</A> 
+<BR><A HREF="^narr108.htm">[108-1]</A> 
+<BR><A HREF="^narr114.htm">[114-9]</A> 
+<BR><A HREF="^narr119.htm">[119-4]</A> 
+<BR><A HREF="^narr123.htm">[123-2]</A> 
+<BR><A HREF="^narr131.htm">[131-6]</A> 
+<BR><A HREF="^narr139.htm">[139-6]</A> 
+<BR><A HREF="^narr151.htm">[151-6]</A> 
+<BR><A HREF="^narr168.htm">[168-8v]</A> 
+<BR><A HREF="^narr216.htm">[216-7]</A> 
+<BR><A HREF="^narr269.htm">[269-2]</A> 
+<BR><A HREF="^narr288.htm">[288-8]</A> 
+<BR><A HREF="^narr293.htm">[293-2]</A> 
+<BR><A HREF="^narr323.htm">[323-5]</A> 
+<BR><A HREF="^narr344.htm">[344-2]</A> 
+<BR><A HREF="^narr364.htm">[364-3]</A> 
+<BR><A HREF="^narr378.htm">[378-9]</A> 
+<BR><A HREF="^narr382.htm">[382-4]</A> 
+<BR><A HREF="^narr393.htm">[393-3]</A>
+<LI>�		DED2 396: 4. to sink; to be overwhelmed - v.r. 
+<BR><A HREF="^narr256.htm">[256-9]</A> 
+<LI>ika� 		DED2 14: 4. to be negligent - v.r. 
+<BR><A HREF="^narr098.htm">[98-9]</A>
+<LI>iku 		TL (not DED2): 6. intr. to break - v.r. 
+<BR><A HREF="^narr111.htm">[111-8]</A> 
+<BR><A HREF="^narr121.htm">[121-10v]</A> 
+<BR><A HREF="^narr381.htm">[381-3]</A>
+<LI>i�i 		DED2 438: 11. to thunder; n. thunder - v.r./n. 
+<BR><A HREF="^narr065.htm">[65-8]</A> 
+<BR><A HREF="^narr074.htm">[74-2]</A> 
+<BR><A HREF="^narr159.htm">[159-3]</A> 
+<BR><A HREF="^narr238.htm">[238-11]</A> 
+<BR><A HREF="^narr248.htm">[248-7]</A> 
+<BR><A HREF="^narr344.htm">[344-10]</A>
+<LI>i�u 		DED2 442: 6. to place, put - v.r. 
+<BR><A HREF="^narr121.htm">[121-2]</A> 
+<BR><A HREF="^narr126.htm">[126-3]</A> 
+<BR><A HREF="^narr293.htm">[293-3]</A> 
+<BR><A HREF="^narr302.htm">[302-7]</A> 
+<BR><A HREF="^narr329.htm">[329-3]</A> 
+<BR><A HREF="^narr362.htm">[362-8]</A>
+<LI>imir 		DED2 466: 4. to sound, hum - v.r. 
+<BR><A HREF="^narr112.htm">[112-3]</A> 
+<BR><A HREF="^narr245.htm">[245-11]</A> 
+<BR><A HREF="^narr323.htm">[323-9]</A>
+<LI>imi� 		DED2 466: 5. to buzz - v.r. 
+<BR><A HREF="^narr067.htm">[67-8v]</A> 
+<BR><A HREF="^narr091.htm">[91-3]</A> 
+<BR><A HREF="^narr156.htm">[156-9]</A> 
+<BR><A HREF="^narr335.htm">[335-1v]</A> 
+<BR><A HREF="^narr378.htm">[378-11]</A> 
+<BR><A HREF="^narr392.htm">[392-2]</A>
+<LI>iya�ku 	DED2 469: 5. to stir - v.r. 
+<BR><A HREF="^narr322.htm">[322-6]</A>
+<LI>iyal 		DED2 469: 3./5. to move forward - v.r. 
+<BR><A HREF="^narr149.htm">[149-8]</A> 
+<BR><A HREF="^narr190.htm">[190-4]</A> 
+<BR><A HREF="^narr192.htm">[192-9]</A>
+<LI>ira�ku		DED2 473: 5. to feel pity; to be aggrieved - v.r. 
+<BR><A HREF="^narr341.htm">[341-8]</A>
+<LI>il	DED2 2559: not to be - v.r. 
+<BR><A HREF="^narr015.htm">[15-7]</A> 
+<BR><A HREF="^narr025.htm">[25-12]</A> 
+<BR><A HREF="^narr036.htm">[36-7]</A> 
+<BR><A HREF="^narr044.htm">[44-1]</A> 
+<BR><A HREF="^narr063.htm">[63-6]</A> 
+<BR><A HREF="^narr065.htm">[65-6]</A> 
+<BR><A HREF="^narr069.htm">[69-7]</A> 
+<BR><A HREF="^narr069.htm">[69-9]</A> 
+<BR><A HREF="^narr081.htm">[81-2]</A> 
+<BR><A HREF="^narr084.htm">[84-5]</A> 
+<BR><A HREF="^narr090.htm">[90-3]</A> 
+<BR><A HREF="^narr090.htm">[90-11]</A> 
+<BR><A HREF="^narr098.htm">[98-12]</A> 
+<BR><A HREF="^narr105.htm">[105-5]</A> 
+<BR><A HREF="^narr107.htm">[107-2]</A> 
+<BR><A HREF="^narr112.htm">[112-4]</A> 
+<BR><A HREF="^narr124.htm">[124-1]</A> 
+<BR><A HREF="^narr136.htm">[136-9]</A> 
+<BR><A HREF="^narr140.htm">[140-7]</A> 
+<BR><A HREF="^narr145.htm">[145-7]</A> 
+<BR><A HREF="^narr148.htm">[148-4]</A> 
+<BR><A HREF="^narr154.htm">[154-12]</A> 
+<BR><A HREF="^narr174.htm">[174-2]</A> 
+<BR><A HREF="^narr193.htm">[193-8]</A> 
+<BR><A HREF="^narr216.htm">[216-5]</A> 
+<BR><A HREF="^narr025.htm">[25-9]</A> 
+<BR><A HREF="^narr228.htm">[228-4]</A> 
+<BR><A HREF="^narr230.htm">[230-6]</A> 
+<BR><A HREF="^narr236.htm">[236-6]</A> 
+<BR><A HREF="^narr244.htm">[244-11]</A> 
+<BR><A HREF="^narr252.htm">[252-4]</A> 
+<BR><A HREF="^narr254.htm">[254-3]</A> 
+<BR><A HREF="^narr257.htm">[257-1]</A> 
+<BR><A HREF="^narr261.htm">[261-5]</A> 
+<BR><A HREF="^narr261.htm">[261-7]</A> 
+<BR><A HREF="^narr268.htm">[268-3v]</A> 
+<BR><A HREF="^narr275.htm">[275-8]</A> 
+<BR><A HREF="^narr281.htm">[281-1]</A> 
+<BR><A HREF="^narr302.htm">[302-8]</A> 
+<BR><A HREF="^narr305.htm">[305-6]</A> 
+<BR><A HREF="^narr309.htm">[309-7]</A> 
+<BR><A HREF="^narr331.htm">[331-9]</A> 
+<BR><A HREF="^narr335.htm">[335-6]</A> 
+<BR><A HREF="^narr346.htm">[346-5]</A> 
+<BR><A HREF="^narr350.htm">[350-9]</A> 
+<BR><A HREF="^narr352.htm">[352-2]</A> 
+<BR><A HREF="^narr353.htm">[353-1]</A> 
+<BR><A HREF="^narr356.htm">[356-6]</A> 
+<BR><A HREF="^narr363.htm">[363-4]</A> 
+<BR><A HREF="^narr376.htm">[376-12]</A> 
+<BR><A HREF="^narr380.htm">[380-12]</A> 
+<BR><A HREF="^narr384.htm">[384-6v]</A>
+<LI>ila�ku 	DED2 829: 5. to shine - v.r. 
+<BR><A HREF="^narr017.htm">[17-6]</A> 
+<BR><A HREF="^narr018.htm">[18-10]</A> 
+<BR><A HREF="^narr068.htm">[68-9]</A> 
+<BR><A HREF="^narr108.htm">[108-7]</A> 
+<BR><A HREF="^narr152.htm">[152-3]</A> 
+<BR><A HREF="^narr172.htm">[172-8]</A> 
+<BR><A HREF="^narr177.htm">[177-5]</A> 
+<BR><A HREF="^narr188.htm">[188-3]</A> 
+<BR><A HREF="^narr198.htm">[198-7]</A> 
+<BR><A HREF="^narr214.htm">[214-10]</A> 
+<BR><A HREF="^narr215.htm">[215-4]</A> 
+<BR><A HREF="^narr257.htm">[257-4]</A> 
+<BR><A HREF="^narr267.htm">[267-3]</A> 
+<BR><A HREF="^narr282.htm">[282-1]</A> 
+<BR><A HREF="^narr294.htm">[294-9]</A> 
+<BR><A HREF="^narr305.htm">[305-9]</A> 
+<BR><A HREF="^narr332.htm">[332-10]</A> CHECK
+<LI>ivar 		DED2 3730: 4. to climb - v.r. 
+<BR><A HREF="^narr002.htm">[2-6]</A> 
+<BR><A HREF="^narr187.htm">[187-9]</A> 
+<BR><A HREF="^narr197.htm">[197-2]</A> 
+<BR><A HREF="^narr242.htm">[242-2]</A>
+<LI>i�i 	DED2 502: 4. to fall - v.r. 
+<BR><A HREF="^narr007.htm">[7-3]</A> 
+<BR><A HREF="^narr017.htm">[17-2]</A> 
+<BR><A HREF="^narr028.htm">[28-5]</A> 
+<BR><A HREF="^narr031.htm">[31-9]</A> 
+<BR><A HREF="^narr093.htm">[93-2]</A> 
+<BR><A HREF="^narr107.htm">[107-5]</A> 
+<BR><A HREF="^narr111.htm">[111-8]</A> 
+<BR><A HREF="^narr114.htm">[114-12]</A> 	
+<BR><A HREF="^narr124.htm">[124-8]</A> 
+<BR><A HREF="^narr347.htm">[347-7]</A> 
+<BR><A HREF="^narr369.htm">[369-8]</A> 
+<BR><A HREF="^narr369.htm">[369-9]</A> 
+<BR><A HREF="^narr381.htm">[381-3]</A>
+<LI>[i�itaru 	+ v.r. of t� 
+<BR><A HREF="^narr031.htm">[31-9]</A> 
+<BR><A HREF="^narr114.htm">[114-12]</A>]
+<LI>i�a		DED2 515/514?: 12. to traverse - v.r. 
+<BR><A HREF="^narr127.htm">[127-2v]</A>? 
+<LI>i�a�ku 	DED2 516: 5. to come down - v.r. 
+<BR><A HREF="^narr209.htm">[209-4]</A>
+<LI>i�uku 		DED2 524: 5. to harden - v.r. 
+<BR><A HREF="^narr265.htm">[265-1]</A>
+<LI>���u		DED2 538: 5. to gather - v.r. 
+<BR><A HREF="^narr161.htm">[161-4]</A> 
+<BR><A HREF="^narr267.htm">[267-10]</A>
+<LI>� 		DED2 555: 8. to bring forth - v.r. 
+<BR><A HREF="^narr003.htm">[3-1]</A> 
+<BR><A HREF="^narr332.htm">[332-6]</A>
+<LI>uku		TL  (not DED2): 6. to languish - v.r. 
+<BR><A HREF="^narr368.htm">[368-8]</A>
+<LI>uku 		DED2 562: 6. to be shed - v.r. 
+<BR><A HREF="^narr140.htm">[140-1]</A> 
+<BR><A HREF="^narr343.htm">[343-5]</A> 
+<BR><A HREF="^narr345.htm">[345-1]</A> 
+<BR><A HREF="^narr384.htm">[384-5]</A>
+<LI>u�a�ku 	5. to dry - v.r. 
+<BR><A HREF="^narr037.htm">[37-2]</A> 
+<BR><A HREF="^narr101.htm">[101-3]</A> 
+<BR><A HREF="^narr267.htm">[267-4]</A>
+<LI>utir		4. intr. to drop off - v.r. 
+<BR><A HREF="^narr132.htm">[132-3]</A>
+<LI>[utirtaru 	+ v.r. taru 
+<BR><A HREF="^narr132.htm">[132-3]</A>]
+<LI>umi� 		DED2 636: 4. to shoot; to spit - v.r. 
+<BR><A HREF="^narr075.htm">[75-2]</A> 
+<BR><A HREF="^narr236.htm">[236-2]</A>
+<LI>uya�ku 	DED2 3793: 5. to become weak - v.r. 
+<BR><A HREF="^narr043.htm">[43-3]</A> 
+<BR><A HREF="^narr047.htm">[47-2]</A> 
+<BR><A HREF="^narr137.htm">[137-6]</A> 
+<BR><A HREF="^narr138.htm">[138-3]</A> 
+<BR><A HREF="^narr152.htm">[152-7]</A> 
+<BR><A HREF="^narr322.htm">[322-5v]</A>
+<LI>uyavu		5. to suffer --- v.r. 
+<BR><A HREF="^narr199.htm">[199-3]</A>
+<LI>ura�u		DED2 648: 5. to roar - v.r. 
+<BR><A HREF="^narr062.htm">[62-8]</A> 
+<LI>urukku	DED2 661: 5. tr. to melt --- v.r. 
+<BR><A HREF="^narr021.htm">[21-6]</A> 
+<BR><A HREF="^narr124.htm">[124-7]</A>
+<LI>uru� 		DED2 664(a): 2. to turn about - v.r. 
+<BR><A HREF="^narr270.htm">[270-4]</A>
+<LI>uri		DED2 365: 11. to grate --- v.r. 
+<BR><A HREF="^narr025.htm">[25-4]</A>
+<LI>uri		12. to tell, to talk --- v.r. 
+<BR><A HREF="^narr011.htm">[11-3]</A>? 
+<BR><A HREF="^narr134.htm">[134-10]</A>
+<LI>ulavu		DED2 2693: 5. to move - v.r. 
+<BR><A HREF="^narr031.htm">[31-11]</A>
+<LI>ula�u		DED2 674: 5. to dry up, wither - v.r. 
+<BR><A HREF="^narr066.htm">[66-2]</A>
+<LI>u�u		1. to plough --- v.r. 
+<BR><A HREF="^narr209.htm">[209-2]</A>
+<LI>u�ar		DED2 689: 4./5. to whiffle --- v.r. 
+<BR><A HREF="^narr319.htm">[319-2]</A>
+<LI>u�a�ku 	DED2 707: 5. to slumber - v.r. 
+<BR><A HREF="^narr221.htm">[221-11v]</A>
+<LI>u�u	DED2 710(711?): 6. to have - v.r. 
+<BR><A HREF="^narr021.htm">[21-6]</A> 
+<BR><A HREF="^narr031.htm">[31-9]</A> 
+<BR><A HREF="^narr048.htm">[48-8]</A> 
+<BR><A HREF="^narr048.htm">[48-9]</A> 
+<BR><A HREF="^narr055.htm">[55-3]</A> 
+<BR><A HREF="^narr060.htm">[60-7]</A> 
+<BR><A HREF="^narr081.htm">[81-10]</A> 
+<BR><A HREF="^narr090.htm">[90-10]</A> 
+<BR><A HREF="^narr124.htm">[124-7]</A> 
+<BR><A HREF="^narr133.htm">[133-7]</A> 
+<BR><A HREF="^narr164.htm">[164-3]</A> 
+<BR><A HREF="^narr164.htm">[164-9]</A> 
+<BR><A HREF="^narr204.htm">[204-10]</A> 
+<BR><A HREF="^narr216.htm">[216-3]</A> 
+<BR><A HREF="^narr216.htm">[216-4]</A> 
+<BR><A HREF="^narr247.htm">[247-4]</A> 
+<BR><A HREF="^narr253.htm">[253-8]</A> 
+<BR><A HREF="^narr275.htm">[275-4]</A> 
+<BR><A HREF="^narr300.htm">[300-3]</A> 
+<BR><A HREF="^narr313.htm">[313-1]</A> 
+<BR><A HREF="^narr326.htm">[326-6]</A> 
+<BR><A HREF="^narr336.htm">[336-7]</A> 
+<BR><A HREF="^narr345.htm">[345-3]</A> 
+<BR><A HREF="^narr348.htm">[348-10]</A> 
+<BR><A HREF="^narr363.htm">[363-4]</A> 
+<BR><A HREF="^narr366.htm">[366-2]</A> 
+<BR><A HREF="^narr379.htm">[379-9]</A> 
+<BR><A HREF="^narr396.htm">[396-7]</A> 
+<BR><A HREF="^narr399.htm">[399-5]</A> [CHECK]
+<LI>u�a� 		DED2 710: 4. to be close? - v.r. 
+<BR><A HREF="^narr225.htm">[225-1]</A> 
+<BR><A HREF="^narr287.htm">[287-1]</A>
+<LI>u�ai 	4. to stay - v.r. 
+<BR><A HREF="^narr004.htm">[4-5]</A> 
+<BR><A HREF="^narr052.htm">[52-7]</A> 
+<BR><A HREF="^narr064.htm">[64-4]</A> 
+<BR><A HREF="^narr083.htm">[83-2]</A> 
+<BR><A HREF="^narr101.htm">[101-5]</A> 
+<BR><A HREF="^narr141.htm">[141-5]</A> 
+<BR><A HREF="^narr155.htm">[155-6]</A> 
+<BR><A HREF="^narr162.htm">[162-1]</A> 
+<BR><A HREF="^narr181.htm">[181-1]</A> 
+<BR><A HREF="^narr181.htm">[181-2]</A> 
+<BR><A HREF="^narr183.htm">[183-4]</A> 
+<BR><A HREF="^narr201.htm">[201-1]</A> 
+<BR><A HREF="^narr294.htm">[294-5]</A> 
+<BR><A HREF="^narr303.htm">[303-3]</A> 
+<BR><A HREF="^narr337.htm">[337-10]</A> 
+<BR><A HREF="^narr343.htm">[343-10]</A>
+<LI>�tu 		DED2 741: 5. tr. to blow; tr. to fill oneself - v.r. 
+<BR><A HREF="^narr125.htm">[125-4]</A> 
+<BR><A HREF="^narr187.htm">[187-8]</A>
+<LI>�r		DED2 749: 4. intr. to creep; tr. to mount - v.r. 
+<BR><A HREF="^narr023.htm">[23-7]</A> 
+<BR><A HREF="^narr128.htm">[128-2]</A> 
+<BR><A HREF="^narr211.htm">[211-1]</A>
+<LI>� 		DED2 2736: 4. to age - v.r. 
+<BR><A HREF="^narr115.htm">[115-6]</A>
+<LI>[�u�u 	v.r. u�u 
+<BR><A HREF="^narr326.htm">[326-6]</A>]
+<LI>�u		5. to ooze --- v.r. 
+<BR><A HREF="^narr217.htm">[217-4]</A>
+<LI>ey		DED2 805: 1. to discharge arrows - v.r. 
+<BR><A HREF="^narr046.htm">[46-2]</A>
+<LI>e�u 		4. to rise - v.r. 
+<BR><A HREF="^narr067.htm">[67-11]</A> 
+<BR><A HREF="^narr084.htm">[84-8]</A> 
+<BR><A HREF="^narr162.htm">[162-3]</A> 
+<BR><A HREF="^narr179.htm">[179-1]</A> 
+<BR><A HREF="^narr205.htm">[205-2]</A> 
+<BR><A HREF="^narr207.htm">[207-11]</A> 
+<BR><A HREF="^narr225.htm">[225-8]</A>
+<LI>[e�utaru 	+ v.r. taru  
+<BR><A HREF="^narr162.htm">[162-3]</A>]
+<LI>e�utu 		DED2 853: 5. to draw, to write --- v.r. 
+<BR><A HREF="^narr177.htm">[177-9]</A> 
+<BR><A HREF="^narr379.htm">[379-6]</A> 
+<BR><A HREF="^narr385.htm">[385-7]</A>
+<LI>e�i 	DED2 859: 4. to throw - v.r. 
+<BR><A HREF="^narr006.htm">[6-8]</A> 
+<BR><A HREF="^narr013.htm">[13-6]</A> 
+<BR><A HREF="^narr045.htm">[45-3]</A> 
+<BR><A HREF="^narr101.htm">[101-8]</A> 
+<BR><A HREF="^narr106.htm">[106-2]</A> 
+<BR><A HREF="^narr125.htm">[125-9]</A> 
+<BR><A HREF="^narr127.htm">[127-2]</A> 
+<BR><A HREF="^narr132.htm">[132-10]</A> 
+<BR><A HREF="^narr203.htm">[203-5]</A> 
+<BR><A HREF="^narr211.htm">[211-6]</A> 
+<BR><A HREF="^narr228.htm">[228-7]</A> 
+<BR><A HREF="^narr229.htm">[229-4]</A> 
+<BR><A HREF="^narr285.htm">[285-11]</A> 
+<BR><A HREF="^narr299.htm">[299-7]</A> 
+<BR><A HREF="^narr303.htm">[303-11]</A> 
+<BR><A HREF="^narr304.htm">[304-3]</A> 
+<BR><A HREF="^narr388.htm">[388-3]</A>
+<LI>e� 	DED2 668: 8. to say - v.r. 
+<BR><A HREF="^narr022.htm">[22-11]</A> 
+<BR><A HREF="^narr199.htm">[199-4]</A> 
+<LI>�		short form of v.r. of �ku? 
+<BR><A HREF="^narr098.htm">[98-6]</A> 
+<LI>��ku 		DED2 878: 5. to lament - v.r. 
+<BR><A HREF="^narr145.htm">[145-5v]</A> 
+<BR><A HREF="^narr240.htm">[240-4]</A>
+<LI>�ntu 	DED2 870: 5. to be eminent - v.r. 
+<BR><A HREF="^narr006.htm">[6-3]</A> 
+<BR><A HREF="^narr017.htm">[17-5v]</A> 
+<BR><A HREF="^narr029.htm">[29-7]</A> 
+<BR><A HREF="^narr141.htm">[141-9]</A> 
+<BR><A HREF="^narr198.htm">[198-6]</A> 
+<BR><A HREF="^narr205.htm">[205-4]</A> 
+<BR><A HREF="^narr213.htm">[213-11]</A> 
+<BR><A HREF="^narr225.htm">[225-3]</A> 
+<BR><A HREF="^narr270.htm">[270-9]</A> 
+<BR><A HREF="^narr282.htm">[282-2]</A> 
+<BR><A HREF="^narr284.htm">[284-9]</A> 
+<BR><A HREF="^narr317.htm">[317-2]</A> 
+<BR><A HREF="^narr368.htm">[368-3]</A>
+<LI>�mu�u 	6. to have confusion/delight --- v.r. 
+<BR><A HREF="^narr273.htm">[273-2]</A>
+<LI>�y		4.? To be similar; to meet(?) --- v.r. 
+<BR><A HREF="^narr316.htm">[316-3]</A>
+<LI>�r	TL (not DED2): 4. to resemble --- v.r. 
+<BR><A HREF="^narr033.htm">[33-12]</A> 
+<BR><A HREF="^narr066.htm">[66-11]</A> 
+<BR><A HREF="^narr078.htm">[78-2]</A> 
+<BR><A HREF="^narr108.htm">[108-7]</A> 
+<BR><A HREF="^narr133.htm">[133-5]</A> 
+<BR><A HREF="^narr144.htm">[144-3]</A> 
+<BR><A HREF="^narr167.htm">[167-11]</A> 
+<BR><A HREF="^narr179.htm">[179-10]</A> 
+<BR><A HREF="^narr184.htm">[184-9]</A> 
+<BR><A HREF="^narr220.htm">[220-9]</A> 
+<BR><A HREF="^narr251.htm">[251-7]</A> 
+<BR><A HREF="^narr308.htm">[308-2]</A> 
+<BR><A HREF="^narr316.htm">[316-3]</A> 
+<BR><A HREF="^narr316.htm">[316-4]</A> 
+<BR><A HREF="^narr344.htm">[344-2]</A> 
+<BR><A HREF="^narr366.htm">[366-4]</A>
+<LI>�r 	TL (not DED2): 4. to rise --- v.r. 
+<BR><A HREF="^narr030.htm">[30-4]</A> 
+<BR><A HREF="^narr123.htm">[123-10v]</A> 
+<BR><A HREF="^narr160.htm">[160-4]</A> 
+<BR><A HREF="^narr167.htm">[167-10]</A> 
+<BR><A HREF="^narr237.htm">[237-10]</A> 
+<BR><A HREF="^narr240.htm">[240-2]</A> 
+<BR><A HREF="^narr335.htm">[335-1]</A>
+<LI>[�rtaru 	+ v.r. taru 
+<BR><A HREF="^narr030.htm">[30-4]</A>]
+<LI>o�ukku	5. to subjugate - v.r. 
+<BR><A HREF="^narr177.htm">[177-3]</A>
+<LI>o�u�ku 	5. to be restrined; to shrink --- v.r. 
+<BR><A HREF="^narr142.htm">[142-6]</A> 
+<BR><A HREF="^narr144.htm">[144-6]</A>''
+<LI>olku		DED2 1004: 5. to become weak - v.r. 
+<BR><A HREF="^narr252.htm">[252-1]</A>
+<LI>oli		DED2 997: 4.? to sprout - v.r. 
+<BR><A HREF="^narr002.htm">[2-2]</A> 
+<BR><A HREF="^narr006.htm">[6-10]</A> 
+<BR><A HREF="^narr128.htm">[128-6]</A> 
+<BR><A HREF="^narr139.htm">[139-7]</A> 
+<BR><A HREF="^narr141.htm">[141-12]</A> 
+<BR><A HREF="^narr197.htm">[197-6]</A> 
+<BR><A HREF="^narr260.htm">[260-8]</A>	 
+<BR><A HREF="^narr265.htm">[265-9]</A> 
+<BR><A HREF="^narr295.htm">[295-2]</A> 
+<BR><A HREF="^narr313.htm">[313-4]</A>
+<LI>oli		11. to sound - v.r. 
+<BR><A HREF="^narr077.htm">[77-7]</A> 
+<BR><A HREF="^narr113.htm">[113-9]</A>
+<LI>o�i 		DED2 1009: 4. to stay behind - v.r. 
+<BR><A HREF="^narr024.htm">[24-3]</A> 
+<BR><A HREF="^narr027.htm">[27-3]</A> 
+<BR><A HREF="^narr037.htm">[37-6]</A> 
+<BR><A HREF="^narr306.htm">[306-7]</A> 
+<BR><A HREF="^narr360.htm">[360-2]</A>
+<LI>o�uku		5. to be arranged in regular order --- v.r. 
+<BR><A HREF="^narr245.htm">[245-5]</A>
+<LI>o�uku		DED2 1010: 5. to flow - v.r. 
+<BR><A HREF="^narr110.htm">[110-12]</A>
+<LI>o�ir		DED2 1016: 4. to be resplendent - v.r. 
+<BR><A HREF="^narr105.htm">[105-2]</A> 
+<BR><A HREF="^narr221.htm">[221-9]</A>
+<LI>��ku 	DED2 1033: 5. to become high - v.r. 
+<BR><A HREF="^narr013.htm">[13-7]</A> 
+<BR><A HREF="^narr028.htm">[28-6]</A> 
+<BR><A HREF="^narr051.htm">[51-1]</A> 
+<BR><A HREF="^narr051.htm">[51-3]</A> 
+<BR><A HREF="^narr055.htm">[55-1]</A> 
+<BR><A HREF="^narr085.htm">[85-11]</A> 
+<BR><A HREF="^narr098.htm">[98-3]</A> 
+<BR><A HREF="^narr104.htm">[104-9]</A> 
+<BR><A HREF="^narr114.htm">[114-10]</A> 
+<BR><A HREF="^narr135.htm">[135-1]</A> 
+<BR><A HREF="^narr158.htm">[158-9]</A> 
+<BR><A HREF="^narr165.htm">[165-4]</A> 
+<BR><A HREF="^narr199.htm">[199-1]</A> 
+<BR><A HREF="^narr254.htm">[254-2]</A> 
+<BR><A HREF="^narr255.htm">[255-11]</A> 
+<BR><A HREF="^narr283.htm">[283-1]</A> 
+<BR><A HREF="^narr283.htm">[283-5]</A> 
+<BR><A HREF="^narr288.htm">[288-2]</A> 
+<BR><A HREF="^narr317.htm">[317-8]</A> 
+<BR><A HREF="^narr318.htm">[318-5]</A> 
+<BR><A HREF="^narr328.htm">[328-9]</A> 
+<BR><A HREF="^narr333.htm">[333-9]</A> 
+<BR><A HREF="^narr334.htm">[334-3]</A> 
+<BR><A HREF="^narr347.htm">[347-3]</A> 
+<BR><A HREF="^narr369.htm">[369-7]</A> 
+<BR><A HREF="^narr374.htm">[374-4]</A> 
+<BR><A HREF="^narr378.htm">[378-8]</A> 
+<BR><A HREF="^narr379.htm">[379-12]</A> 
+<BR><A HREF="^narr381.htm">[381-6]</A> 
+<BR><A HREF="^narr383.htm">[383-9]</A> 
+<BR><A HREF="^narr388.htm">[388-7]</A> [CHECK]
+<LI>�tu 		DED2 1052: 5. to recide - v.r. 
+<BR><A HREF="^narr237.htm">[237-9]</A>?
+<LI>�mpu 		DED2 1056: 5. tr. to protect; intr. to beware of - v.r. 
+<BR><A HREF="^narr039.htm">[39-9]</A>
+<LI>�r	DED2 1059: 4./11.? to regard, to know; to listen --- v.r. 
+<BR><A HREF="^narr062.htm">[62-7]</A> 
+<BR><A HREF="^narr090.htm">[90-2]</A>
+<LI>ka��u		DED2 1147: 5. to tie - v.r. 
+<BR><A HREF="^narr269.htm">[269-3]</A> 
+<BR><A HREF="^narr313.htm">[313-3]</A>
+<LI>ka�avu	DED2 1109?: 5. to urge; to ask --- v.r. 
+<BR><A HREF="^narr357.htm">[357-3v]</A> 
+<LI>ka�pa�u	6./11. to close one's eyes --- v.r. 
+<BR><A HREF="^narr198.htm">[198-4]</A>'
+<LI>k��	DED2 1159: 13. to see - v.r. 
+<BR><A HREF="^narr086.htm">[86-4]</A> 
+<BR><A HREF="^narr099.htm">[99-4]</A> 
+<BR><A HREF="^narr120.htm">[120-2]</A> 
+<BR><A HREF="^narr121.htm">[121-7]</A> 
+<BR><A HREF="^narr146.htm">[146-9]</A> 
+<BR><A HREF="^narr202.htm">[202-7]</A> *
+<BR><A HREF="^narr234.htm">[234-7]</A> 
+<BR><A HREF="^narr305.htm">[305-3]</A> 
+<LI>kata� 		DED2 1188: 4. to hasten - v.r. 
+<BR><A HREF="^narr149.htm">[149-7v]</A> 
+<BR><A HREF="^narr201.htm">[201-8]</A> 
+<BR><A HREF="^narr203.htm">[203-9]</A> 
+<BR><A HREF="^narr205.htm">[205-10]</A> 
+<BR><A HREF="^narr217.htm">[217-2]</A>
+<LI>kama� 	DED2 1247: 4. to be fragrant --- v.r. 
+<BR><A HREF="^narr052.htm">[52-3]</A> 
+<BR><A HREF="^narr062.htm">[62-6]</A> 
+<BR><A HREF="^narr078.htm">[78-4]</A> 
+<BR><A HREF="^narr085.htm">[85-9]</A> 
+<BR><A HREF="^narr100.htm">[100-4]</A> 
+<BR><A HREF="^narr104.htm">[104-2]</A> 
+<BR><A HREF="^narr117.htm">[117-4]</A> 
+<BR><A HREF="^narr123.htm">[123-6]</A> 
+<BR><A HREF="^narr131.htm">[131-8]</A> 
+<BR><A HREF="^narr167.htm">[167-9]</A> 
+<BR><A HREF="^narr190.htm">[190-4]</A> 
+<BR><A HREF="^narr203.htm">[203-7]</A> 
+<BR><A HREF="^narr248.htm">[248-1]</A> 
+<BR><A HREF="^narr259.htm">[259-2]</A> 
+<BR><A HREF="^narr261.htm">[261-8]</A> 
+<BR><A HREF="^narr267.htm">[267-5]</A> 
+<BR><A HREF="^narr273.htm">[273-8]</A> 
+<BR><A HREF="^narr282.htm">[282-7]</A> 
+<BR><A HREF="^narr283.htm">[283-2]</A> 
+<BR><A HREF="^narr290.htm">[290-8]</A> 
+<BR><A HREF="^narr301.htm">[301-9]</A> 
+<BR><A HREF="^narr304.htm">[304-10]</A> 
+<BR><A HREF="^narr308.htm">[308-6]</A> 
+<BR><A HREF="^narr313.htm">[313-7]</A> 
+<BR><A HREF="^narr322.htm">[322-8]</A> 
+<BR><A HREF="^narr339.htm">[339-10]</A> 
+<BR><A HREF="^narr361.htm">[361-1]</A> 
+<BR><A HREF="^narr368.htm">[368-6]</A> 
+<BR><A HREF="^narr388.htm">[388-8]</A> 
+<BR><A HREF="^narr396.htm">[396-5]</A> 
+<BR><A HREF="^narr399.htm">[399-2]</A> [CHECK]
+<LI>kari		DED2 1292: 4. to wear away - v.r. 
+<BR><A HREF="^narr081.htm">[81-6]</A>
+<LI>kala�ku	DED2 1303: 5. to be stirred up - v.r. 
+<BR><A HREF="^narr038.htm">[38-6]</A> 
+<BR><A HREF="^narr113.htm">[113-12]</A> 
+<BR><A HREF="^narr214.htm">[214-10]</A>
+<LI>kavar 		DED2 1326: 4. to seize - v.r. 
+<BR><A HREF="^narr060.htm">[60-6]</A> 
+<BR><A HREF="^narr194.htm">[194-9]</A> 
+<BR><A HREF="^narr200.htm">[200-8]</A> 
+<BR><A HREF="^narr240.htm">[240-3]</A> 
+<BR><A HREF="^narr256.htm">[256-3]</A> 
+<BR><A HREF="^narr256.htm">[256-10]</A> 
+<BR><A HREF="^narr307.htm">[307-1]</A> 
+<BR><A HREF="^narr384.htm">[384-5]</A>
+<LI>kavi 		DED2 1221: 4. intr. to cover, to overhang --- v.r. 
+<BR><A HREF="^narr325.htm">[325-1]</A>
+<LI>kavi		11. tr. to cover --- v.r. 
+<BR><A HREF="^narr161.htm">[161-7]</A> 
+<BR><A HREF="^narr185.htm">[185-5]</A>
+<LI>kavi�		DED2 1335: 4. to be turned bottom upwards --- v.r. 
+<BR><A HREF="^narr302.htm">[302-7]</A>
+<LI>kavi		DED2 1325: 11. to fork / DED2 1326: 11. to embrace - v.r. 
+<BR><A HREF="^narr121.htm">[121-3]</A> 
+<BR><A HREF="^narr384.htm">[384-2]</A>
+<LI>ka�i		DED2 1356: 4. to pass by --- v.r. 
+<BR><A HREF="^narr241.htm">[241-7]</A> 
+<BR><A HREF="^narr255.htm">[255-9]</A>
+<LI>ka�i		11. to remove --- v.r. 
+<BR><A HREF="^narr387.htm">[387-9]</A>
+<LI>ka�a�ku 	DED2 1386: 5. to sound --- v.r. 
+<BR><A HREF="^narr163.htm">[163-4]</A>
+<LI>ka�i		DED2 1408: 4. to melt --- v.r. 
+<BR><A HREF="^narr278.htm">[278-5]</A>
+<LI>ka�ai		DED2 1404: 4. to be intense - v.r. 
+<BR><A HREF="^narr051.htm">[51-4]</A> 
+<BR><A HREF="^narr053.htm">[53-6]</A> 
+<BR><A HREF="^narr158.htm">[158-4]</A> 
+<BR><A HREF="^narr219.htm">[219-7]</A> 
+<BR><A HREF="^narr228.htm">[228-3]</A> 
+<BR><A HREF="^narr289.htm">[289-5]</A> 
+<BR><A HREF="^narr348.htm">[348-8]</A> 
+<BR><A HREF="^narr383.htm">[383-7]</A>
+<LI>k� 		DED2 1416: 11. to guard, to keep - v.r. 
+<BR><A HREF="^narr038.htm">[38-8]</A> 
+<BR><A HREF="^narr354.htm">[354-3]</A>
+<LI>k�mu�u 	6. to desire --- v.r. 
+<BR><A HREF="^narr133.htm">[133-8]</A>
+<LI>k�y		DED2 1458: 4. to grow hot, shine,... - v.r. 
+<BR><A HREF="^narr060.htm">[60-11]</A> 
+<BR><A HREF="^narr258.htm">[258-3]</A> 
+<BR><A HREF="^narr279.htm">[279-8]</A>
+<LI>ki�ar		4. to emerge, to shine --- v.r. 
+<BR><A HREF="^narr041.htm">[41-7]</A> 
+<BR><A HREF="^narr055.htm">[55-4]</A> 
+<BR><A HREF="^narr066.htm">[66-4]</A> 
+<BR><A HREF="^narr070.htm">[70-3]</A> 
+<BR><A HREF="^narr129.htm">[129-7]</A> 
+<BR><A HREF="^narr181.htm">[181-4v]</A> 
+<BR><A HREF="^narr264.htm">[264-3]</A> 
+<BR><A HREF="^narr344.htm">[344-6]</A> 
+<BR><A HREF="^narr381.htm">[381-4]</A> 
+<BR><A HREF="^narr394.htm">[394-4]</A>
+<LI>kuru�		DED2 1794: 2. to curl --- v.r. 
+<BR><A HREF="^narr096.htm">[96-5v]</A>
+<LI>kulavu 	TL (not DED2): 5. to gleam - v.r. 
+<BR><A HREF="^narr386.htm">[386-3]</A>
+<LI>ku�ai		11. to mash ---  v.r. 
+<BR><A HREF="^narr229.htm">[229-9]</A>
+<LI>k�mpu 	DED2 1894: 5. to close - v.r. 
+<BR><A HREF="^narr230.htm">[230-2]</A> 
+<BR><A HREF="^narr280.htm">[280-2]</A> 
+<BR><A HREF="^narr335.htm">[335-5]</A> 
+<BR><A HREF="^narr380.htm">[380-8]</A>''
+<LI>k�r		DED2 1899: 4. to be in abundance - v.r.; n. abundance 
+<BR><A HREF="^narr065.htm">[65-5]</A> 
+<BR><A HREF="^narr109.htm">[109-6]</A> 
+<BR><A HREF="^narr186.htm">[186-4]</A> 
+<BR><A HREF="^narr262.htm">[262-5]</A> 
+<BR><A HREF="^narr292.htm">[292-9]</A>
+<LI>k��		DED2 1519: to crowd together, assemble --- v.r. 
+<BR><A HREF="^narr033.htm">[33-5]</A>
+<LI>ke�u 		DED2 1942: 5. to get lost --- v.r. 
+<BR><A HREF="^narr026.htm">[26-7]</A> 
+<BR><A HREF="^narr400.htm">[400-10]</A>
+<LI>[ke�uttuppa�u + v.r. of pa�u 
+<BR><A HREF="^narr182.htm">[182-5]</A>]
+<LI>[kiya�u 	+ v.r. a�u TL: to be broken-hearted 
+<BR><A HREF="^narr071.htm">[71-9]</A> 
+<BR><A HREF="^narr185.htm">[185-2]</A>]
+<LI>koy 		DED2 2119: 1. to pluck - v.r. 
+<BR><A HREF="^narr054.htm">[54-9]</A> 
+<BR><A HREF="^narr057.htm">[57-9]</A> 
+<BR><A HREF="^narr081.htm">[81-4]</A> 
+<BR><A HREF="^narr213.htm">[213-10]</A> 
+<BR><A HREF="^narr313.htm">[313-11]</A>
+<LI>kol		DED2 2132: 3. to kill; to fell; to boil --- v.r. 
+<BR><A HREF="^narr306.htm">[306-6]</A>
+<LI>ko� 	DED2 2151: 2. to take - v.r. 
+<BR><A HREF="^narr023.htm">[23-2]</A> 
+<BR><A HREF="^narr030.htm">[30-9]</A> 
+<BR><A HREF="^narr066.htm">[66-3]</A> 
+<BR><A HREF="^narr101.htm">[101-3]</A> 
+<BR><A HREF="^narr113.htm">[113-12]</A> 
+<BR><A HREF="^narr124.htm">[124-7]</A> 
+<BR><A HREF="^narr138.htm">[138-3]</A> 
+<BR><A HREF="^narr150.htm">[150-3]</A> 
+<BR><A HREF="^narr161.htm">[161-5]</A> 
+<BR><A HREF="^narr171.htm">[171-9]</A> 
+<BR><A HREF="^narr197.htm">[197-9]</A> 
+<BR><A HREF="^narr212.htm">[212-2]</A> 
+<BR><A HREF="^narr212.htm">[212-9]</A> 
+<BR><A HREF="^narr212.htm">[212-10]</A> 
+<BR><A HREF="^narr228.htm">[228-7]</A> 
+<BR><A HREF="^narr256.htm">[256-9]</A> 
+<BR><A HREF="^narr268.htm">[268-5]</A> 
+<BR><A HREF="^narr273.htm">[273-7]</A> 
+<BR><A HREF="^narr305.htm">[305-7]</A> 
+<BR><A HREF="^narr314.htm">[314-10]</A> 
+<BR><A HREF="^narr329.htm">[329-7]</A> 
+<BR><A HREF="^narr348.htm">[348-7]</A> 
+<BR><A HREF="^narr392.htm">[392-5]</A>
+<LI>c� 		DEDR 2426: 13. to be exhusted, to die --- v.r. 
+<BR><A HREF="^narr226.htm">[226-1]</A> 
+<BR><A HREF="^narr226.htm">[226-2]</A>
+<LI>c�l 		DEDR 2470: 3. to be worthy - v.r. 
+<BR><A HREF="^narr014.htm">[14-8v]</A> 
+<BR><A HREF="^narr185.htm">[185-7]</A> 
+<BR><A HREF="^narr208.htm">[208-1v]</A>
+<LI>cili		DEDR 1574: 11. to resound - v.r. 
+<BR><A HREF="^narr112.htm">[112-9]</A>
+<LI>[cu�arvi�u 	+ v.r. of vi�u 
+<BR><A HREF="^narr310.htm">[310-1]</A>]
+<LI>cu�u 		DEDR 2654: 6. to burn, to roast - v.r. 
+<BR><A HREF="^narr175.htm">[175-8]</A> 
+<BR><A HREF="^narr280.htm">[280-7]</A> 
+<BR><A HREF="^narr282.htm">[282-7]</A> 
+<BR><A HREF="^narr282.htm">[282-7]</A> 
+<BR><A HREF="^narr311.htm">[311-6]</A>
+<LI>curi 		DEDR 2684: 4. to wind - v.r. 
+<BR><A HREF="^narr280.htm">[280-7v]</A> 
+<BR><A HREF="^narr302.htm">[302-2]</A>
+<LI>cuvi		11.? to taste --- v.r. 
+<BR><A HREF="^narr271.htm">[271-5]</A>
+<LI>cu�al		DEDR 2698: to spin, roll, be tossed about --- v.r. 
+<BR><A HREF="^narr017.htm">[17-4]</A>
+<LI>cu�i		DEDR 2698(a): 11. to curve - v.r. 
+<BR><A HREF="^narr065.htm">[65-7]</A>
+<LI>cu��u		DEDR 2715: 5. to revolve; to tie around - v.r. 
+<BR><A HREF="^narr376.htm">[376-7]</A>
+<LI>c��u 		5. to wear --- v.r. 
+<BR><A HREF="^narr290.htm">[290-1]</A>
+<LI>c� 	DEDR 2698: 4. to surround --- v.r. 
+<BR><A HREF="^narr026.htm">[26-9]</A> 
+<BR><A HREF="^narr027.htm">[27-4]</A> 
+<BR><A HREF="^narr037.htm">[37-5]</A> 
+<BR><A HREF="^narr038.htm">[38-7]</A> 
+<BR><A HREF="^narr097.htm">[97-8]</A> 
+<BR><A HREF="^narr101.htm">[101-2]</A> 
+<BR><A HREF="^narr207.htm">[207-1]</A> 
+<BR><A HREF="^narr214.htm">[214-7]</A> *
+<BR><A HREF="^narr234.htm">[234-10]</A> 
+<BR><A HREF="^narr354.htm">[354-3]</A> 
+<BR><A HREF="^narr363.htm">[363-1]</A>
+<LI>c�		DEDR 2735: 4. to consider, to select --- v.r. 
+<BR><A HREF="^narr300.htm">[300-11]</A>
+<LI>cey 	DEDR 1957: 1. to make, do - v.r. 
+<BR><A HREF="^narr011.htm">[11-2]</A> 
+<BR><A HREF="^narr024.htm">[24-8]</A> 
+<BR><A HREF="^narr033.htm">[33-6]</A> 
+<BR><A HREF="^narr037.htm">[37-11]</A> 
+<BR><A HREF="^narr052.htm">[52-11]</A> 
+<BR><A HREF="^narr056.htm">[56-5]</A> 
+<BR><A HREF="^narr088.htm">[88-1]</A> 
+<BR><A HREF="^narr120.htm">[120-3]</A> 
+<BR><A HREF="^narr126.htm">[126-7]</A> 
+<BR><A HREF="^narr130.htm">[130-5]</A> 
+<BR><A HREF="^narr133.htm">[133-9]</A> 
+<BR><A HREF="^narr151.htm">[151-8v]</A> 
+<BR><A HREF="^narr152.htm">[152-4]</A> 
+<BR><A HREF="^narr179.htm">[179-3]</A> 
+<BR><A HREF="^narr202.htm">[202-5]</A> 
+<BR><A HREF="^narr202.htm">[202-9]</A> 
+<BR><A HREF="^narr204.htm">[204-8]</A> 
+<BR><A HREF="^narr210.htm">[210-6]</A> 
+<BR><A HREF="^narr214.htm">[214-8v]</A> 
+<BR><A HREF="^narr221.htm">[221-7]</A> 
+<BR><A HREF="^narr226.htm">[226-5]</A> 
+<BR><A HREF="^narr246.htm">[246-6]</A> 
+<BR><A HREF="^narr271.htm">[271-9]</A> 
+<BR><A HREF="^narr271.htm">[271-9]</A>' 
+<BR><A HREF="^narr274.htm">[274-4]</A> 
+<BR><A HREF="^narr284.htm">[284-5]</A> 
+<BR><A HREF="^narr296.htm">[296-3]</A> 
+<BR><A HREF="^narr297.htm">[297-1]</A> 
+<BR><A HREF="^narr313.htm">[313-2]</A> 
+<BR><A HREF="^narr349.htm">[349-5]</A> 
+<BR><A HREF="^narr366.htm">[366-9]</A> 
+<BR><A HREF="^narr394.htm">[394-3]</A>
+<LI>cel 	DEDR 2781: 2. to go - v.r. 
+<BR><A HREF="^narr002.htm">[2-3]</A> 
+<BR><A HREF="^narr005.htm">[5-7]</A> 
+<BR><A HREF="^narr044.htm">[44-11]</A> 
+<BR><A HREF="^narr078.htm">[78-5]</A> 
+<BR><A HREF="^narr107.htm">[107-4]</A> 
+<BR><A HREF="^narr117.htm">[117-5]</A> 
+<BR><A HREF="^narr151.htm">[151-8]</A> 
+<BR><A HREF="^narr157.htm">[157-3]</A> 
+<BR><A HREF="^narr163.htm">[163-5]</A> 
+<BR><A HREF="^narr187.htm">[187-6]</A> 
+<BR><A HREF="^narr197.htm">[197-12]</A> 
+<BR><A HREF="^narr202.htm">[202-10]</A> 
+<BR><A HREF="^narr204.htm">[204-11]</A> 
+<BR><A HREF="^narr212.htm">[212-3]</A> 
+<BR><A HREF="^narr212.htm">[212-3]</A>' 
+<BR><A HREF="^narr233.htm">[233-8]</A> 
+<BR><A HREF="^narr239.htm">[239-5]</A> 
+<BR><A HREF="^narr271.htm">[271-4]</A> 
+<BR><A HREF="^narr380.htm">[380-9]</A>
+<LI>ce�i 		DEDR 1980: 4. to be close, tight - v.r. 
+<BR><A HREF="^narr020.htm">[20-5]</A> 
+<BR><A HREF="^narr021.htm">[21-2]</A> 
+<BR><A HREF="^narr170.htm">[170-2]</A> 
+<BR><A HREF="^narr291.htm">[291-1]</A> 
+<BR><A HREF="^narr306.htm">[306-10]</A>
+<LI>c�r 	4. tr. to join - v.r. 
+<BR><A HREF="^narr027.htm">[27-9]</A> 
+<BR><A HREF="^narr033.htm">[33-2]</A> 
+<BR><A HREF="^narr113.htm">[113-3]</A> 
+<BR><A HREF="^narr140.htm">[140-3]</A> 
+<BR><A HREF="^narr187.htm">[187-2]</A> 
+<BR><A HREF="^narr204.htm">[204-1]</A> 
+<BR><A HREF="^narr260.htm">[260-3]</A> 
+<BR><A HREF="^narr260.htm">[260-4]</A> 
+<BR><A HREF="^narr336.htm">[336-11]</A> 
+<BR><A HREF="^narr382.htm">[382-4]</A>
+<LI>cori 	DEDR 2883: 4. to pour forth (T.V.G. explins it in 
+<BR><A HREF="^narr153.htm">[153-3]</A> as to polish) - v.r. 
+<BR><A HREF="^narr153.htm">[153-3]</A> 
+<BR><A HREF="^narr335.htm">[335-5]</A>
+<LI>c�r 		DEDR 2884: 4. to slip down --- v.
+<BR><A HREF="^narr00r.htm">[r-20]</A>
+<BR><A HREF="^narr.htm">[@ -9]</A>
+<LI>��l		DEDR 2912: 3. to hang; to decline - v.r. 
+<BR><A HREF="^narr014.htm">[14-8]</A>
+<LI>�eki� 		DEDR 2923: 5. to become loose, to be emaciated - v.r. 
+<BR><A HREF="^narr315.htm">[315-11]</A>
+<LI>taku 		DEDR 3005: 4./6. to fit  --- v.r. 
+<BR><A HREF="^narr021.htm">[21-12]</A> 
+<BR><A HREF="^narr080.htm">[80-6]</A>
+<LI>taki 		DEDR 3006: 4. to check, subdue --- v.r. 
+<BR><A HREF="^narr017.htm">[17-4]</A> 
+<BR><A HREF="^narr249.htm">[249-8]</A>
+<LI>tatar 		DEDR 2322: 4. to be squashed - v.r. 
+<BR><A HREF="^narr051.htm">[51-11v]</A> 
+<BR><A HREF="^narr161.htm">[161-3v]</A> 
+<BR><A HREF="^narr279.htm">[279-9v]</A>
+<LI>tati		TL (not DEDR) 4. to be densely packed - v.r. 
+<BR><A HREF="^narr379.htm">[379-3]</A>
+<LI>taru/t�	DEDR 3098: 13. to give, to bring - v.r. 
+<BR><A HREF="^narr030.htm">[30-7]</A> 
+<BR><A HREF="^narr056.htm">[56-2]</A> 
+<BR><A HREF="^narr063.htm">[63-10]</A> 
+<BR><A HREF="^narr143.htm">[143-2]</A> 
+<BR><A HREF="^narr146.htm">[146-2]</A> 
+<BR><A HREF="^narr273.htm">[273-10]</A> 
+<BR><A HREF="^narr290.htm">[290-1]</A> 
+<BR><A HREF="^narr316.htm">[316-9]</A> 
+<BR><A HREF="^narr360.htm">[360-4]</A>
+<LI>tapu 		DEDR 3068: 4. to come to an end - v.r. 
+<BR><A HREF="^narr018.htm">[18-7]</A> 
+<BR><A HREF="^narr256.htm">[256-1]</A>
+<LI>taya�ku 	TL (not DEDR): 5. to glitter - v.r. 
+<BR><A HREF="^narr215.htm">[215-6]</A> 
+<BR><A HREF="^narr299.htm">[299-3]</A>
+<LI>tali		TL (not DEDR): 5.(TL: 4.) to give away liberally, to offer --- v.r. 
+<BR><A HREF="^narr177.htm">[177-2]</A>
+<LI>tava� 		DEDR 3109?: 4. to cover - v.r. 
+<BR><A HREF="^narr154.htm">[154-4]</A> 
+<BR><A HREF="^narr163.htm">[163-5]</A>
+<LI>ta�a�ku 	not DEDR; TL: 5. to sound, resound (no ta�u�ku) - v.r. 
+<BR><A HREF="^narr007.htm">[7-5]</A> 
+<BR><A HREF="^narr093.htm">[93-10]</A> 
+<BR><A HREF="^narr298.htm">[298-3]</A> 
+<BR><A HREF="^narr371.htm">[371-9]</A> 
+<LI>ta�ar		DEDR 3127: 4. to slacken - v.r. 
+<BR><A HREF="^narr337.htm">[337-8]</A>
+<LI>ta�i 		DEDR 3435: 11. to drip - v.r. 
+<BR><A HREF="^narr209.htm">[209-2]</A> 
+<BR><A HREF="^narr309.htm">[309-5]</A> 
+<BR><A HREF="^narr316.htm">[316-9]</A>
+<LI>t� 	DEDR 3178: 4. to hang down - v.r. 
+<BR><A HREF="^narr036.htm">[36-3]</A> 
+<BR><A HREF="^narr078.htm">[78-4v]</A> 
+<BR><A HREF="^narr081.htm">[81-5]</A> 
+<BR><A HREF="^narr093.htm">[93-9]</A> 
+<BR><A HREF="^narr106.htm">[106-7]</A> 
+<BR><A HREF="^narr112.htm">[112-7]</A> 
+<BR><A HREF="^narr137.htm">[137-1]</A> 
+<BR><A HREF="^narr295.htm">[295-2]</A> 
+<BR><A HREF="^narr337.htm">[337-8v]</A> 
+<BR><A HREF="^narr356.htm">[356-1]</A>
+<LI>tika� 		DEDR 3200: 4. to glitter - v.r. 
+<BR><A HREF="^narr257.htm">[257-8]</A> 
+<BR><A HREF="^narr335.htm">[335-1]</A> 
+<BR><A HREF="^narr352.htm">[352-7]</A> 
+<BR><A HREF="^narr365.htm">[365-7]</A> 
+<BR><A HREF="^narr371.htm">[371-6]</A> 
+<BR><A HREF="^narr399.htm">[399-6]</A>
+<LI>tira� 		DEDR 3245: 2. to become round - v.r. 
+<BR><A HREF="^narr006.htm">[6-1]</A> 
+<BR><A HREF="^narr079.htm">[79-1]</A> 
+<BR><A HREF="^narr271.htm">[271-6]</A> 
+<BR><A HREF="^narr370.htm">[370-3]</A>
+<LI>tiri		4. intr. to turn, twist --- v.r. 
+<BR><A HREF="^narr037.htm">[37-10]</A> 
+<BR><A HREF="^narr097.htm">[97-8]</A> 
+<BR><A HREF="^narr146.htm">[146-2]</A> 
+<BR><A HREF="^narr220.htm">[220-4]</A>
+<LI>[tiritaru 	+ v.r. taru 
+<BR><A HREF="^narr146.htm">[146-2]</A>]
+<LI>tiruntu 	DEDR 3251: 5. to be perfect - v.r. 
+<BR><A HREF="^narr040.htm">[40-4]</A> 
+<BR><A HREF="^narr093.htm">[93-7]</A> 
+<BR><A HREF="^narr132.htm">[132-2]</A> 
+<BR><A HREF="^narr136.htm">[136-1]</A> 
+<BR><A HREF="^narr225.htm">[225-6]</A> 
+<BR><A HREF="^narr321.htm">[321-7]</A> 
+<BR><A HREF="^narr333.htm">[333-8]</A> 
+<BR><A HREF="^narr361.htm">[361-9]</A> 
+<BR><A HREF="^narr366.htm">[366-3]</A> 
+<BR><A HREF="^narr374.htm">[374-9]</A>
+<LI>tiri 		DEDR 3244: 4. to be wrinkled --- v.r. 
+<BR><A HREF="^narr022.htm">[22-5]</A>
+<LI>ti� 		DEDR 3263(a): 8. to eat --- v.r. 
+<BR><A HREF="^narr322.htm">[322-5]</A>
+<LI>t�r 	DEDR 3278: 11. tr. to end --- v.r. 
+<BR><A HREF="^narr167.htm">[167-6]</A> 
+<BR><A HREF="^narr201.htm">[201-6]</A>? 
+<BR><A HREF="^narr216.htm">[216-1]</A>
+<LI>t�r	4. intr. to end - v.r. 
+<BR><A HREF="^narr072.htm">[72-3]</A> 
+<BR><A HREF="^narr106.htm">[106-4]</A> 
+<BR><A HREF="^narr107.htm">[107-4]</A> 
+<BR><A HREF="^narr214.htm">[214-8]</A> 
+<BR><A HREF="^narr252.htm">[252-7]</A> 
+<BR><A HREF="^narr269.htm">[269-5]</A> 
+<BR><A HREF="^narr364.htm">[364-12]</A>
+<LI>tu�cu 		DEDR 3291: 5. to sleep - v.r. 
+<BR><A HREF="^narr057.htm">[57-3]</A> 
+<BR><A HREF="^narr125.htm">[125-12]</A> 
+<BR><A HREF="^narr162.htm">[162-11]</A> 
+<BR><A HREF="^narr222.htm">[222-8]</A> *
+<BR><A HREF="^narr234.htm">[234-9]</A> 
+<BR><A HREF="^narr262.htm">[262-3]</A>
+<LI>tu�i		DEDR 3305: 4. to resolve; to become clear - v.r. 
+<BR><A HREF="^narr245.htm">[245-4]</A> 
+<LI>tuti 		DEDR 3315: 4. to be dense - v.r. 
+<BR><A HREF="^narr157.htm">[157-5]</A>
+<LI>tuyal		DEDR 3376(b): 5. to swing - v.r. 
+<BR><A HREF="^narr020.htm">[20-4]</A> 
+<BR><A HREF="^narr046.htm">[46-7]</A> 
+<BR><A HREF="^narr090.htm">[90-5]</A> 
+<BR><A HREF="^narr225.htm">[225-5]</A> 
+<BR><A HREF="^narr262.htm">[262-2]</A>
+<LI>tu�a�ku 	DEDR 3359: 4. to sway --- v.r. 
+<BR><A HREF="^narr020.htm">[20-4]</A>
+<LI>tu�u 		DEDR 3367: 6. to be thick - v.r./adj. 
+<BR><A HREF="^narr104.htm">[104-3]</A> 
+<BR><A HREF="^narr206.htm">[206-3]</A> 
+<BR><A HREF="^narr211.htm">[211-7]</A> 
+<BR><A HREF="^narr243.htm">[243-2]</A> 
+<BR><A HREF="^narr308.htm">[308-6]</A> 
+<BR><A HREF="^narr386.htm">[386-2]</A>
+<LI>tu��u 		DEDR 3372: 5. to near - v.r. 
+<BR><A HREF="^narr205.htm">[205-5]</A> 
+<BR><A HREF="^narr387.htm">[387-5]</A>
+<LI>tu�ai 		TL (not DEDR): 4./5. to hasten - v.r. 
+<BR><A HREF="^narr126.htm">[126-5v]</A> 
+<BR><A HREF="^narr364.htm">[364-11]</A>
+<LI>t�kku		DEDR 3376(a): 5. to lift, to weigh - v.r. 
+<BR><A HREF="^narr074.htm">[74-8]</A> 
+<BR><A HREF="^narr162.htm">[162-10]</A>
+<LI>teri 		DEDR 3419: 4. to be clear, to understand - v.r. 
+<BR><A HREF="^narr012.htm">[12-3]</A> 
+<BR><A HREF="^narr167.htm">[167-6]</A> 
+<BR><A HREF="^narr323.htm">[323-10]</A>
+<LI>te� 	DEDR 3433: 9. to become clear - v.r./adj. 
+<BR><A HREF="^narr023.htm">[23-8]</A> 
+<BR><A HREF="^narr037.htm">[37-2]</A> 
+<BR><A HREF="^narr049.htm">[49-10]</A> 
+<BR><A HREF="^narr054.htm">[54-10]</A> 
+<BR><A HREF="^narr069.htm">[69-7]</A> 
+<BR><A HREF="^narr074.htm">[74-9]</A> 
+<BR><A HREF="^narr078.htm">[78-7]</A> 
+<BR><A HREF="^narr083.htm">[83-3]</A> 
+<BR><A HREF="^narr085.htm">[85-1]</A> 
+<BR><A HREF="^narr110.htm">[110-4]</A> 
+<BR><A HREF="^narr124.htm">[124-8]</A> 
+<BR><A HREF="^narr130.htm">[130-1]</A> 
+<BR><A HREF="^narr155.htm">[155-5]</A> 
+<BR><A HREF="^narr171.htm">[171-8]</A> 
+<BR><A HREF="^narr208.htm">[208-2]</A> 
+<BR><A HREF="^narr212.htm">[212-2]</A> 
+<BR><A HREF="^narr243.htm">[243-1]</A> 
+<BR><A HREF="^narr264.htm">[264-8]</A> 
+<BR><A HREF="^narr267.htm">[267-9]</A> 
+<BR><A HREF="^narr272.htm">[272-5]</A> 
+<BR><A HREF="^narr287.htm">[287-10]</A> 
+<BR><A HREF="^narr291.htm">[291-5]</A>' 
+<BR><A HREF="^narr303.htm">[303-8]</A> 
+<BR><A HREF="^narr305.htm">[305-7]</A> 
+<BR><A HREF="^narr321.htm">[321-2]</A> 
+<BR><A HREF="^narr339.htm">[339-11]</A> 
+<BR><A HREF="^narr356.htm">[356-1]</A> 
+<BR><A HREF="^narr363.htm">[363-2]</A> 
+<BR><A HREF="^narr378.htm">[378-2]</A> 
+<BR><A HREF="^narr391.htm">[391-10]</A> 
+<BR><A HREF="^narr398.htm">[398-10]</A>
+<LI>te�i		4. to become clear --- v.r. 
+<BR><A HREF="^narr245.htm">[245-6]</A>
+<LI>te�u 		DEDR 3440: 6. to scorch --- v.r. 
+<BR><A HREF="^narr275.htm">[275-5]</A> 
+<BR><A HREF="^narr305.htm">[305-4]</A> 
+<BR><A HREF="^narr306.htm">[306-7]</A>
+<LI>t�y		4. to dwindle - v.r. 
+<BR><A HREF="^narr012.htm">[12-2]</A> 
+<BR><A HREF="^narr284.htm">[284-10]</A>
+<LI>t�r		DEDR 3419: 4. to search, to investigate --- v.r. 
+<BR><A HREF="^narr276.htm">[276-2]</A>
+<LI>t��u		5. intr. to be clear; tr. to believe --- v.r. 
+<BR><A HREF="^narr097.htm">[97-4]</A>
+<LI>toku 		DEDR 3476: 6. intr. to gather - v.r. 
+<BR><A HREF="^narr343.htm">[343-5]</A>
+<LI>t�y		4. to be soaked - v.r. 
+<BR><A HREF="^narr191.htm">[191-1]</A> 
+<BR><A HREF="^narr279.htm">[279-4]</A>
+<LI>t�y 		DEDR 3556: 4. to touch --- v.r. 
+<BR><A HREF="^narr017.htm">[17-12]</A> 
+<BR><A HREF="^narr133.htm">[133-10]</A> 
+<BR><A HREF="^narr188.htm">[188-5]</A> 
+<BR><A HREF="^narr199.htm">[199-11]</A> 
+<BR><A HREF="^narr353.htm">[353-7]</A> 
+<BR><A HREF="^narr365.htm">[365-8]</A>
+<LI>t���u		5. to appear - v.r. 
+<BR><A HREF="^narr230.htm">[230-4]</A> 
+<BR><A HREF="^narr356.htm">[356-9]</A> 
+<LI>na�u	DEDR 3583: 6. to set up - v.r. 
+<BR><A HREF="^narr285.htm">[285-7]</A>
+<LI>na�u�ku 	5. to shiver - v.r. 
+<BR><A HREF="^narr100.htm">[100-12]</A> 
+<BR><A HREF="^narr262.htm">[262-4]</A> 
+<BR><A HREF="^narr287.htm">[287-6]</A> 
+<BR><A HREF="^narr367.htm">[367-2]</A>
+<LI>na��u 	5. to be situated - v.r. 
+<BR><A HREF="^narr318.htm">[318-4]</A>
+<LI>nampu	DEDR 3600: 5. to trust - v.r. 
+<BR><A HREF="^narr208.htm">[208-7v]</A> 
+<LI>naya	DEDR 3602: 4./12. to long for --- v.r. 
+<BR><A HREF="^narr086.htm">[86-8]</A> 
+<BR><A HREF="^narr244.htm">[244-3]</A> 
+<BR><A HREF="^narr265.htm">[265-6]</A>' 
+<BR><A HREF="^narr317.htm">[317-7]</A> 
+<BR><A HREF="^narr333.htm">[333-11]</A>
+<LI>[nayavaru	+ v.r. varu to induce longing (TL: to desire ardently) 
+<BR><A HREF="^narr333.htm">[333-11]</A>]
+<LI>naral 	DEDR 2904: 3. to call --- v.r. 
+<BR><A HREF="^narr000.htm">[0-2]</A> 
+<BR><A HREF="^narr062.htm">[62-1]</A>
+<LI>nalk�r 	DEDR 252: 4. to be poor - v.r. 
+<BR><A HREF="^narr090.htm">[90-9]</A> 
+<BR><A HREF="^narr093.htm">[93-8]</A> 
+<BR><A HREF="^narr135.htm">[135-6]</A> 
+<BR><A HREF="^narr178.htm">[178-3]</A>
+<LI>navil 	DEDR 3616: 3. to utter, to learn - v.r. 
+<BR><A HREF="^narr042.htm">[42-4]</A> 
+<BR><A HREF="^narr048.htm">[48-7]</A> 
+<BR><A HREF="^narr238.htm">[238-11]</A>
+<LI>na��e� 	TL: ideophone denoting silence(?) --- v.r. 
+<BR><A HREF="^narr022.htm">[22-11]</A> 
+<BR><A HREF="^narr040.htm">[40-10]</A> 
+<BR><A HREF="^narr145.htm">[145-10]</A> 
+<BR><A HREF="^narr178.htm">[178-8]</A> 
+<BR><A HREF="^narr199.htm">[199-3]</A> 
+<BR><A HREF="^narr287.htm">[287-9]</A> 
+<BR><A HREF="^narr333.htm">[333-12]</A>
+<LI>n��u 	5. to feel ashamed --- v.r. 
+<BR><A HREF="^narr072.htm">[72-2]</A>
+<LI>n��u 	5. to emit fragrance - v.r. 
+<BR><A HREF="^narr025.htm">[25-2]</A> 
+<BR><A HREF="^narr039.htm">[39-5]</A> 
+<BR><A HREF="^narr040.htm">[40-6]</A> 
+<BR><A HREF="^narr048.htm">[48-5]</A> 
+<BR><A HREF="^narr060.htm">[60-7]</A> 
+<BR><A HREF="^narr063.htm">[63-4]</A> 
+<BR><A HREF="^narr076.htm">[76-7]</A> 
+<BR><A HREF="^narr095.htm">[95-8]</A> 
+<BR><A HREF="^narr149.htm">[149-6]</A> 
+<BR><A HREF="^narr166.htm">[166-2]</A> 
+<BR><A HREF="^narr230.htm">[230-3]</A> 
+<BR><A HREF="^narr244.htm">[244-4]</A> 
+<BR><A HREF="^narr249.htm">[249-5]</A> 
+<BR><A HREF="^narr250.htm">[250-4]</A> 
+<BR><A HREF="^narr250.htm">[250-8]</A> 
+<BR><A HREF="^narr254.htm">[254-8]</A> 
+<BR><A HREF="^narr268.htm">[268-5]</A> 
+<BR><A HREF="^narr338.htm">[338-8]</A>
+<LI>nikar	DEDR 3660: 11./5. to be similar, to rival - v.r. 
+<BR><A HREF="^narr391.htm">[391-9]</A>
+<LI>nimir 	DEDR 2922: 4. to stretch out --- v.r. 
+<BR><A HREF="^narr050.htm">[50-4]</A>
+<LI>ni�ai	4. to fill - v.r. 
+<BR><A HREF="^narr324.htm">[324-4]</A> 
+<BR><A HREF="^narr369.htm">[369-11]</A>
+<LI>[ni�aiyu�u 	+ v.r. u�u 
+<BR><A HREF="^narr196.htm">[196-3]</A> 
+<BR><A HREF="^narr346.htm">[346-8]</A>]
+<LI>n��u	5. to prolong - v.r. 
+<BR><A HREF="^narr001.htm">[1-1]</A> 
+<BR><A HREF="^narr044.htm">[44-6]</A> 
+<BR><A HREF="^narr058.htm">[58-10]</A> 
+<BR><A HREF="^narr162.htm">[162-7]</A> 
+<BR><A HREF="^narr217.htm">[217-7]</A> 
+<BR><A HREF="^narr302.htm">[302-2]</A> 
+<BR><A HREF="^narr317.htm">[317-1]</A> 
+<BR><A HREF="^narr317.htm">[317-3]</A> 
+<BR><A HREF="^narr325.htm">[325-3]</A> 
+<BR><A HREF="^narr354.htm">[354-2]</A> 
+<BR><A HREF="^narr375.htm">[375-1]</A> 
+<BR><A HREF="^narr380.htm">[380-10]</A>
+<LI>nu�a�ku	TL (DEDR): 5. to wave, to sway - v.r. 
+<BR><A HREF="^narr068.htm">[68-9]</A> 
+<BR><A HREF="^narr227.htm">[227-6]</A> 
+<BR><A HREF="^narr251.htm">[251-9v]</A>
+<LI>nu�a�ku 	5. to become fine --- v.r. 
+<BR><A HREF="^narr015.htm">[15-2]</A> 
+<BR><A HREF="^narr110.htm">[110-12]</A> 
+<BR><A HREF="^narr353.htm">[353-2]</A>
+<LI>neki� 	DEDR 2923: 4. to become loose --- v.r. 
+<BR><A HREF="^narr070.htm">[70-9]</A> 
+<BR><A HREF="^narr277.htm">[277-10]</A>
+<LI>neru�ku 	DEDR 3770: 5. to be close - v.r. 
+<BR><A HREF="^narr258.htm">[258-11]</A>
+<LI>ne�i	TL (not DEDR): 4. to strip --- v.r. 
+<BR><A HREF="^narr138.htm">[138-7]</A>
+<LI>[ne�itaru 	+ v.r. taru 
+<BR><A HREF="^narr138.htm">[138-7]</A>]
+<LI>n�r	DEDR 3770?: 11.? to resemble - v.r. 
+<BR><A HREF="^narr010.htm">[10-2]</A> 
+<BR><A HREF="^narr047.htm">[47-11]</A> 
+<BR><A HREF="^narr078.htm">[78-3]</A> 
+<BR><A HREF="^narr235.htm">[235-3]</A> 
+<BR><A HREF="^narr283.htm">[283-2]</A> 
+<BR><A HREF="^narr339.htm">[339-9]</A>
+<LI>n�r	DEDR 3770: 4. to consent --- v.r. 
+<BR><A HREF="^narr254.htm">[254-10]</A>
+<LI>n�kku 	5. to look --- v.r. 
+<BR><A HREF="^narr104.htm">[104-12]</A>
+<LI>n�� 	DEDR 3800: 8. to suffer, to endure - v.r. 
+<BR><A HREF="^narr008.htm">[8-7]</A> 
+<BR><A HREF="^narr081.htm">[81-2]</A> 
+<BR><A HREF="^narr095.htm">[95-2]</A> 
+<BR><A HREF="^narr124.htm">[124-6]</A> 
+<BR><A HREF="^narr324.htm">[324-5]</A> 
+<BR><A HREF="^narr356.htm">[356-6]</A> 
+<BR><A HREF="^narr388.htm">[388-2]</A>
+<LI>paku 	6. to be split - v.r. 
+<BR><A HREF="^narr033.htm">[33-1v]</A> 
+<BR><A HREF="^narr125.htm">[125-1]</A> 
+<BR><A HREF="^narr144.htm">[144-5]</A> 
+<BR><A HREF="^narr250.htm">[250-1]</A> 
+<BR><A HREF="^narr274.htm">[274-2]</A>
+<LI>pa�u 	DEDR 3852/3853?: 6. to happen (...) - v.
+<BR><A HREF="^narr00r.htm">[r-19]</A>
+<BR><A HREF="^narr.htm">[@ -1]</A> 
+<BR><A HREF="^narr023.htm">[23-6]</A> 
+<BR><A HREF="^narr033.htm">[33-1]</A> 
+<BR><A HREF="^narr033.htm">[33-4]</A> 
+<BR><A HREF="^narr049.htm">[49-1]</A> 
+<BR><A HREF="^narr049.htm">[49-4]</A> 
+<BR><A HREF="^narr060.htm">[60-6]</A> 
+<BR><A HREF="^narr061.htm">[61-7]</A> 
+<BR><A HREF="^narr096.htm">[96-4]</A> 
+<BR><A HREF="^narr104.htm">[104-6]</A> 
+<BR><A HREF="^narr105.htm">[105-9]</A> 
+<BR><A HREF="^narr109.htm">[109-1]</A> 
+<BR><A HREF="^narr129.htm">[129-8]</A> 
+<BR><A HREF="^narr135.htm">[135-5]</A> 
+<BR><A HREF="^narr140.htm">[140-4]</A> 
+<BR><A HREF="^narr147.htm">[147-2]</A> 
+<BR><A HREF="^narr154.htm">[154-8]</A> 
+<BR><A HREF="^narr164.htm">[164-8]</A> 
+<BR><A HREF="^narr168.htm">[168-9]</A> 
+<BR><A HREF="^narr172.htm">[172-10]</A> 
+<BR><A HREF="^narr173.htm">[173-8]</A> 
+<BR><A HREF="^narr177.htm">[177-1]</A> 
+<BR><A HREF="^narr178.htm">[178-5]</A> 
+<BR><A HREF="^narr188.htm">[188-1]</A> 
+<BR><A HREF="^narr197.htm">[197-7]</A> 
+<BR><A HREF="^narr211.htm">[211-8]</A> 
+<BR><A HREF="^narr212.htm">[212-1]</A> 
+<BR><A HREF="^narr217.htm">[217-4]</A> 
+<BR><A HREF="^narr218.htm">[218-7]</A> 
+<BR><A HREF="^narr227.htm">[227-5]</A> 
+<BR><A HREF="^narr235.htm">[235-1]</A> 
+<BR><A HREF="^narr235.htm">[235-9]</A> 
+<BR><A HREF="^narr243.htm">[243-1]</A> 
+<BR><A HREF="^narr247.htm">[247-1]</A> 
+<BR><A HREF="^narr256.htm">[256-11]</A> 
+<BR><A HREF="^narr270.htm">[270-2]</A> 
+<BR><A HREF="^narr274.htm">[274-2]</A> 
+<BR><A HREF="^narr274.htm">[274-3]</A> 
+<BR><A HREF="^narr277.htm">[277-7]</A> 
+<BR><A HREF="^narr278.htm">[278-1]</A> 
+<BR><A HREF="^narr278.htm">[278-3]</A> 
+<BR><A HREF="^narr306.htm">[306-3]</A> 
+<BR><A HREF="^narr308.htm">[308-9]</A> 
+<BR><A HREF="^narr318.htm">[318-2]</A> 
+<BR><A HREF="^narr318.htm">[318-6]</A> 
+<BR><A HREF="^narr331.htm">[331-4]</A> 
+<BR><A HREF="^narr356.htm">[356-3]</A> 
+<BR><A HREF="^narr361.htm">[361-4]</A> 
+<BR><A HREF="^narr367.htm">[367-12]</A> 
+<BR><A HREF="^narr368.htm">[368-5]</A> 
+<BR><A HREF="^narr373.htm">[373-1]</A> 
+<BR><A HREF="^narr373.htm">[373-3]</A> 
+<BR><A HREF="^narr379.htm">[379-4]</A> 
+<BR><A HREF="^narr389.htm">[389-2]</A> 
+<BR><A HREF="^narr391.htm">[391-6]</A> 
+<BR><A HREF="^narr393.htm">[393-1]</A> [CHECK]
+<LI>pa�uttu	5. to cuse to happen --- v.r. 
+<BR><A HREF="^narr357.htm">[357-3]</A>
+<LI>pa��ami	TL: to prepare --- v.r. 
+<BR><A HREF="^narr167.htm">[167-4]</A>
+<LI>pa��u	DEDR 3884: 5. to prepare, produce --- v.r. 
+<BR><A HREF="^narr138.htm">[138-4]</A>?
+<LI>pa�i 	DEDR 3888: 4. to be humble - v.r. 
+<BR><A HREF="^narr167.htm">[167-7]</A> 
+<BR><A HREF="^narr378.htm">[378-10]</A>
+<LI>paya 	DEDS S624: 12. to yield --- v.r. 
+<BR><A HREF="^narr092.htm">[92-6]</A>
+<LI>payir 	4. to call --- v.r. 
+<BR><A HREF="^narr091.htm">[91-7]</A>
+<LI>[payiri��u 	+ v.r. m.l. of i�u? 
+<BR><A HREF="^narr031.htm">[31-4]</A>]
+<LI>payil 	DEDR 3942: 3. to become dense (not DEDR); tr. to practise? - DEDR 3943?: to rustle? --- v.r. 
+<BR><A HREF="^narr013.htm">[13-9]</A> 
+<BR><A HREF="^narr046.htm">[46-8]</A> 
+<BR><A HREF="^narr062.htm">[62-3]</A> 
+<BR><A HREF="^narr105.htm">[105-3]</A> 
+<BR><A HREF="^narr132.htm">[132-6]</A> 
+<BR><A HREF="^narr192.htm">[192-3]</A> 
+<BR><A HREF="^narr194.htm">[194-7]</A> 
+<BR><A HREF="^narr213.htm">[213-5]</A> 
+<BR><A HREF="^narr264.htm">[264-7]</A> 
+<BR><A HREF="^narr393.htm">[393-6]</A>
+<LI>para	DEDR 3949: 12. to spread --- v.r. 
+<BR><A HREF="^narr230.htm">[230-9]</A>
+<LI>paravu	DEDR 3951: 5. to reverence - v.r. 
+<BR><A HREF="^narr322.htm">[322-12]</A>
+<LI>[paravu�u 	+ v.r. of u�u 
+<BR><A HREF="^narr322.htm">[322-12]</A>]
+<LI>palku	TL (not DEDR): 5. to increase - v.r. 
+<BR><A HREF="^narr256.htm">[256-2]</A>
+<LI>p��u 	5. to sing --- v.r./root noun? 
+<BR><A HREF="^narr091.htm">[91-3]</A> 
+<BR><A HREF="^narr095.htm">[95-1]</A> 
+<BR><A HREF="^narr154.htm">[154-3]</A> 
+<BR><A HREF="^narr156.htm">[156-9]</A> 
+<BR><A HREF="^narr321.htm">[321-2]</A> 
+<BR><A HREF="^narr335.htm">[335-2]</A> 
+<BR><A HREF="^narr361.htm">[361-5]</A> 
+<BR><A HREF="^narr378.htm">[378-11]</A> 
+<BR><A HREF="^narr380.htm">[380-10]</A> 
+<BR><A HREF="^narr392.htm">[392-5]</A>
+<LI>p�y 	DEDR 4087: 4.? to spring - DEDR 4088: 4.? to spread - v.r. 
+<BR><A HREF="^narr020.htm">[20-3]</A> 
+<BR><A HREF="^narr031.htm">[31-3]</A> 
+<BR><A HREF="^narr160.htm">[160-7]</A> 
+<BR><A HREF="^narr368.htm">[368-7]</A> 
+<LI>[p�ytaru 	+ v.r. taru 
+<BR><A HREF="^narr368.htm">[368-7]</A>]
+<LI>p��u 	TL (not DEDR): 5. to scatter - v.r. 
+<BR><A HREF="^narr151.htm">[151-11]</A> 
+<LI>pi�a�ku 	DEDR 4160(a): 5. to be intertwined - v.r. 
+<BR><A HREF="^narr037.htm">[37-1]</A> 
+<BR><A HREF="^narr144.htm">[144-6]</A>'' 
+<BR><A HREF="^narr322.htm">[322-4]</A>
+<LI>piri 	DEDR 4176: 4. intr. to separate - v.r. 
+<BR><A HREF="^narr204.htm">[204-9]</A> 
+<BR><A HREF="^narr391.htm">[391-8]</A>
+<LI>pi�i	DEDR 4183: 4. to press out - v.r. 
+<BR><A HREF="^narr038.htm">[38-3]</A> 
+<BR><A HREF="^narr328.htm">[328-8]</A>
+<LI>pi�a�ku	DEDR 4425: to grow full - v.r. 
+<BR><A HREF="^narr096.htm">[96-5]</A>
+<LI>pi�a�ku 	TL (DEDR 4425?) 5. to glisten - v.r. 
+<BR><A HREF="^narr062.htm">[62-10]</A>
+<LI>pi�a�	TL (DEDR 4201?): 4. to leap, to move? - v.r. 
+<BR><A HREF="^narr330.htm">[330-1]</A>
+<LI>pi��u 	DEDR 4207: 5. to brid - v.r. 
+<BR><A HREF="^narr051.htm">[51-7]</A> 
+<BR><A HREF="^narr227.htm">[227-4]</A>
+<LI>[pukutaru 	+ v.r. taru 
+<BR><A HREF="^narr395.htm">[395-8]</A>]
+<LI>pukal 	TL (DEDR 4235?): 4. to rejoice --- v.r. 
+<BR><A HREF="^narr179.htm">[179-8]</A>
+<LI>[puka��ucey	+ v.r. cey = T.V.G.: to be desired	
+<BR><A HREF="^narr152.htm">[152-4]</A>]
+<LI>pu�ai	11.? To winnow, to thrash --- v.r. 
+<BR><A HREF="^narr340.htm">[340-7]</A>
+<LI>pu�ar 	4. intr. to unite - v.r. 
+<BR><A HREF="^narr026.htm">[26-3]</A> 
+<BR><A HREF="^narr060.htm">[60-1]</A> 
+<BR><A HREF="^narr088.htm">[88-3]</A> 
+<BR><A HREF="^narr118.htm">[118-6]</A> 
+<BR><A HREF="^narr152.htm">[152-7]</A> 
+<BR><A HREF="^narr157.htm">[157-5]</A> 
+<BR><A HREF="^narr165.htm">[165-7]</A> 
+<BR><A HREF="^narr227.htm">[227-3]</A> 
+<BR><A HREF="^narr245.htm">[245-7]</A> 
+<BR><A HREF="^narr303.htm">[303-5]</A> 
+<BR><A HREF="^narr307.htm">[307-8]</A> 
+<BR><A HREF="^narr338.htm">[338-11]</A>
+<LI>puri	4. to be twisted - v.r. 
+<BR><A HREF="^narr172.htm">[172-8]</A> 
+<BR><A HREF="^narr222.htm">[222-2v]</A> 
+<LI>puri	4. to desire; TL: to do - v.r. 
+<BR><A HREF="^narr100.htm">[100-10]</A> 
+<BR><A HREF="^narr100.htm">[100-10]</A> 
+<BR><A HREF="^narr252.htm">[252-3]</A> 
+<BR><A HREF="^narr352.htm">[352-5]</A>
+<LI>puri 	TL (not DEDR): 4. to resemble - v.r. 
+<BR><A HREF="^narr108.htm">[108-8]</A> 
+<BR><A HREF="^narr202.htm">[202-6]</A> 
+<BR><A HREF="^narr264.htm">[264-4]</A> 
+<BR><A HREF="^narr270.htm">[270-3]</A> 
+<BR><A HREF="^narr380.htm">[380-7]</A>
+<LI>pullu 	TL (not DEDR): 5. to embrace - v.r./root noun? 
+<BR><A HREF="^narr174.htm">[174-11]</A>
+<LI>pular 	TL (DEDR 4550?): 4. to dry, to dawn - v.r. 
+<BR><A HREF="^narr012.htm">[12-4]</A> 
+<BR><A HREF="^narr060.htm">[60-3]</A> 
+<BR><A HREF="^narr080.htm">[80-4]</A> 
+<BR><A HREF="^narr174.htm">[174-9]</A>' 
+<BR><A HREF="^narr259.htm">[259-10]</A>
+<LI>pu�ai 	DEDR 4340: 4. to decorate, to fashion --- v.r. 
+<BR><A HREF="^narr012.htm">[12-6]</A> 
+<BR><A HREF="^narr108.htm">[108-4]</A> 
+<BR><A HREF="^narr109.htm">[109-4]</A> 
+<BR><A HREF="^narr123.htm">[123-8]</A> 
+<BR><A HREF="^narr147.htm">[147-8]</A> 
+<BR><A HREF="^narr222.htm">[222-3]</A> 
+<BR><A HREF="^narr252.htm">[252-6]</A> 
+<BR><A HREF="^narr252.htm">[252-12]</A> 
+<BR><A HREF="^narr286.htm">[286-5]</A> 
+<BR><A HREF="^narr296.htm">[296-3]</A> 
+<BR><A HREF="^narr330.htm">[330-5]</A> 
+<BR><A HREF="^narr336.htm">[336-5]</A> 
+<BR><A HREF="^narr348.htm">[348-7]</A> 
+<BR><A HREF="^narr374.htm">[374-6]</A> 
+<BR><A HREF="^narr375.htm">[375-2]</A>
+<LI>p���u	DEDR 4361: 5. to fasten --- v.r. 
+<BR><A HREF="^narr269.htm">[269-1]</A>
+<LI>p��	DEDR 4361: 7. to put on, take on --- v.r. 
+<BR><A HREF="^narr380.htm">[380-11]</A>
+<LI>pey	DEDR 4408: 4. to wear --- v.r. 
+<BR><A HREF="^narr081.htm">[81-4]</A> 
+<BR><A HREF="^narr250.htm">[250-2]</A> 
+<BR><A HREF="^narr264.htm">[264-5]</A> 
+<BR><A HREF="^narr394.htm">[394-4]</A>
+<LI>pey 	DEDR 4407: 1. intr. to rin; tr. to pour - v.r. 
+<BR><A HREF="^narr111.htm">[111-8]</A> 
+<BR><A HREF="^narr172.htm">[172-3]</A> 
+<BR><A HREF="^narr268.htm">[268-8]</A> 
+<BR><A HREF="^narr379.htm">[379-5]</A>
+<LI>[peyalu�u 	+ v.r. u�u 
+<BR><A HREF="^narr132.htm">[132-3]</A>]
+<LI>peyar	4. to move, to return --- v.r. 
+<BR><A HREF="^narr178.htm">[178-4]</A> 
+<BR><A HREF="^narr186.htm">[186-5]</A> 
+<BR><A HREF="^narr242.htm">[242-7]</A> 
+<BR><A HREF="^narr271.htm">[271-10]</A>'
+<LI>pe�u 	DEDR 4422: 6. to obtin - v.r. 
+<BR><A HREF="^narr056.htm">[56-3]</A> 
+<BR><A HREF="^narr239.htm">[239-3]</A> 
+<BR><A HREF="^narr251.htm">[251-8]</A> 
+<BR><A HREF="^narr310.htm">[310-9]</A> 
+<BR><A HREF="^narr328.htm">[328-11]</A> 
+<BR><A HREF="^narr396.htm">[396-5]</A>
+<LI>po�ku 	DEDR 4469: 5. to foam, to rise - v.r. 
+<BR><A HREF="^narr035.htm">[35-1]</A> 
+<BR><A HREF="^narr067.htm">[67-10]</A> 
+<BR><A HREF="^narr270.htm">[270-3]</A> 
+<BR><A HREF="^narr335.htm">[335-2]</A>
+<LI>poy	11. to lie --- v.r. 
+<BR><A HREF="^narr248.htm">[248-7]</A>
+<LI>pori	DEDR 4537: 4. to be parched - v.r. 
+<BR><A HREF="^narr003.htm">[3-2]</A> 
+<BR><A HREF="^narr009.htm">[9-5]</A> 
+<BR><A HREF="^narr024.htm">[24-2]</A> 
+<BR><A HREF="^narr141.htm">[141-3]</A>
+<LI>poru 	DEDR 4540: 1. to beat, to fight - v.r. 
+<BR><A HREF="^narr003.htm">[3-1]</A> 
+<BR><A HREF="^narr062.htm">[62-1]</A> 
+<BR><A HREF="^narr114.htm">[114-8]</A> 
+<BR><A HREF="^narr180.htm">[180-7]</A> 
+<BR><A HREF="^narr281.htm">[281-2]</A> 
+<BR><A HREF="^narr299.htm">[299-8]</A>
+<LI>poru 	DEDR 4541: 1. to join --- v.r. 
+<BR><A HREF="^narr003.htm">[3-1]</A>
+<LI>poruntu	5. to come together, to be suitable --- v.r. 
+<BR><A HREF="^narr092.htm">[92-4]</A>
+<LI>poli 	DEDR 4550/4551: 4. to flourish, to glitter --- v.r. 
+<BR><A HREF="^narr374.htm">[374-2]</A>
+<LI>p�ku 	4./5. to go - v.r. 
+<BR><A HREF="^narr070.htm">[70-2]</A> 
+<BR><A HREF="^narr080.htm">[80-4]</A> 
+<BR><A HREF="^narr354.htm">[354-10]</A> 
+<BR><A HREF="^narr396.htm">[396-1]</A>
+<LI>p�r	DEDR 4590: 11. to wrap oneself - v.r. 
+<BR><A HREF="^narr132.htm">[132-4]</A>
+<LI>p�l 	DEDR 4597: 3. to be similar - v.r. 
+<BR><A HREF="^narr008.htm">[8-8]</A> 
+<BR><A HREF="^narr020.htm">[20-6]</A> 
+<BR><A HREF="^narr027.htm">[27-10]</A> 
+<BR><A HREF="^narr107.htm">[107-3]</A> 
+<BR><A HREF="^narr112.htm">[112-8]</A> 
+<BR><A HREF="^narr138.htm">[138-1]</A> 
+<BR><A HREF="^narr161.htm">[161-2]</A> 
+<BR><A HREF="^narr196.htm">[196-7]</A> 
+<BR><A HREF="^narr208.htm">[208-2]</A> 
+<BR><A HREF="^narr208.htm">[208-12]</A> 
+<BR><A HREF="^narr216.htm">[216-3]</A> 
+<BR><A HREF="^narr241.htm">[241-8]</A> 
+<BR><A HREF="^narr252.htm">[252-6]</A> 
+<BR><A HREF="^narr262.htm">[262-1]</A> 
+<BR><A HREF="^narr267.htm">[267-4]</A> 
+<BR><A HREF="^narr273.htm">[273-8]</A> 
+<BR><A HREF="^narr293.htm">[293-5]</A> 
+<BR><A HREF="^narr304.htm">[304-8]</A> 
+<BR><A HREF="^narr315.htm">[315-10]</A> 
+<BR><A HREF="^narr320.htm">[320-6]</A> 
+<BR><A HREF="^narr324.htm">[324-3]</A> 
+<BR><A HREF="^narr325.htm">[325-7]</A> 
+<BR><A HREF="^narr345.htm">[345-6]</A> 
+<BR><A HREF="^narr352.htm">[352-4]</A> 
+<BR><A HREF="^narr355.htm">[355-2]</A> 
+<BR><A HREF="^narr366.htm">[366-8]</A> 
+<BR><A HREF="^narr390.htm">[390-9]</A> 
+<BR><A HREF="^narr392.htm">[392-9]</A> [CHECK]
+<LI>maki�	4. to be delighted --- v.r. 
+<BR><A HREF="^narr091.htm">[91-8]</A>
+<LI>ma�i 	DEDR 4652: 4.? to droop - v.r. 
+<BR><A HREF="^narr109.htm">[109-10]</A> 
+<BR><A HREF="^narr142.htm">[142-6]</A> 
+<BR><A HREF="^narr287.htm">[287-11]</A> 
+<BR><A HREF="^narr298.htm">[298-3]</A> 
+<BR><A HREF="^narr360.htm">[360-11]</A>
+<LI>ma��u	DEDR 4684: 5. to bath - v.r. 
+<BR><A HREF="^narr042.htm">[42-8]</A>
+<LI>matar 	DEDR 4687: 11. to flourish - v.r. 
+<BR><A HREF="^narr008.htm">[8-1]</A> 
+<BR><A HREF="^narr160.htm">[160-10]</A>
+<LI>maya�ku 	5. to be confused - v.r. 
+<BR><A HREF="^narr005.htm">[5-9]</A> 
+<BR><A HREF="^narr063.htm">[63-8]</A> 
+<BR><A HREF="^narr319.htm">[319-6]</A> 
+<BR><A HREF="^narr364.htm">[364-2]</A>
+<LI>maru� 	4. to be confused, to resemble - v.r. 
+<BR><A HREF="^narr085.htm">[85-2]</A> 
+<BR><A HREF="^narr188.htm">[188-9]</A> 
+<BR><A HREF="^narr216.htm">[216-6]</A> 
+<BR><A HREF="^narr245.htm">[245-3]</A> 
+<BR><A HREF="^narr257.htm">[257-6]</A> 
+<BR><A HREF="^narr337.htm">[337-7]</A> 
+<BR><A HREF="^narr353.htm">[353-4]</A> 
+<BR><A HREF="^narr384.htm">[384-7]</A>
+<LI>malku 	5. to increase - v.r. 
+<BR><A HREF="^narr033.htm">[33-12]</A> 
+<BR><A HREF="^narr067.htm">[67-6]</A> 
+<BR><A HREF="^narr067.htm">[67-8]</A> 
+<BR><A HREF="^narr299.htm">[299-7]</A> 
+<BR><A HREF="^narr375.htm">[375-3]</A>
+<LI>mali 	DEDR 4729: 4. to be much - v.r. 
+<BR><A HREF="^narr025.htm">[25-6]</A> 
+<BR><A HREF="^narr034.htm">[34-6]</A> 
+<BR><A HREF="^narr041.htm">[41-4]</A> 
+<BR><A HREF="^narr043.htm">[43-7]</A> 
+<BR><A HREF="^narr063.htm">[63-11]</A> 
+<BR><A HREF="^narr064.htm">[64-13]</A> 
+<BR><A HREF="^narr078.htm">[78-6]</A> 
+<BR><A HREF="^narr096.htm">[96-3]</A>' 
+<BR><A HREF="^narr118.htm">[118-4]</A> 
+<BR><A HREF="^narr133.htm">[133-11]</A> 
+<BR><A HREF="^narr135.htm">[135-2]</A> 
+<BR><A HREF="^narr159.htm">[159-2]</A> 
+<BR><A HREF="^narr159.htm">[159-10]</A> 
+<BR><A HREF="^narr187.htm">[187-5]</A> 
+<BR><A HREF="^narr205.htm">[205-10]</A> 
+<BR><A HREF="^narr230.htm">[230-9]</A> 
+<BR><A HREF="^narr237.htm">[237-2]</A> 
+<BR><A HREF="^narr239.htm">[239-8]</A> 
+<BR><A HREF="^narr245.htm">[245-8]</A> 
+<BR><A HREF="^narr260.htm">[260-7]</A> 
+<BR><A HREF="^narr268.htm">[268-9]</A> 
+<BR><A HREF="^narr282.htm">[282-3]</A> 
+<BR><A HREF="^narr308.htm">[308-11]</A> 
+<BR><A HREF="^narr319.htm">[319-3]</A> 
+<BR><A HREF="^narr322.htm">[322-9]</A> 
+<BR><A HREF="^narr323.htm">[323-8]</A> 
+<BR><A HREF="^narr333.htm">[333-6]</A> 
+<BR><A HREF="^narr335.htm">[335-3]</A> 
+<BR><A HREF="^narr348.htm">[348-2]</A> 
+<BR><A HREF="^narr361.htm">[361-6]</A> 
+<BR><A HREF="^narr363.htm">[363-6]</A> [CHECK]
+<LI>ma�u		DEDR 4765: 11. to refuse --- v.r. 
+<BR><A HREF="^narr106.htm">[106-6]</A>
+<LI>[ma�umo�i 	+ v.r. ma�u 
+<BR><A HREF="^narr106.htm">[106-6]</A>]
+<LI>m�y 	DEDR 4814: 4. to disappear - v.r. 
+<BR><A HREF="^narr003.htm">[3-6]</A> 
+<BR><A HREF="^narr007.htm">[7-4]</A> 
+<BR><A HREF="^narr321.htm">[321-5]</A>
+<LI>[m�rpu�u 	+ v.r. u�u 
+<BR><A HREF="^narr020.htm">[20-9]</A>]
+<LI>miku 	DEDR 4838: 6. to become much - v.r. 
+<BR><A HREF="^narr063.htm">[63-2]</A> 
+<BR><A HREF="^narr184.htm">[184-2]</A> 
+<BR><A HREF="^narr192.htm">[192-2]</A> 
+<BR><A HREF="^narr281.htm">[281-4]</A> 
+<BR><A HREF="^narr319.htm">[319-8]</A> 
+<BR><A HREF="^narr362.htm">[362-4]</A>
+<LI>mi�ai	TL (not DEDR): 4. to be set close --- v.r. 
+<BR><A HREF="^narr038.htm">[38-8]</A> 
+<BR><A HREF="^narr152.htm">[152-2]</A> 
+<BR><A HREF="^narr304.htm">[304-6v]</A>
+<LI>mu�uku 	DEDR 4925: 5. to advance --- v.r. 
+<BR><A HREF="^narr252.htm">[252-10]</A>
+<LI>mutir 	DEDR 4954: 4. to ripen, to age - v.r. 
+<BR><A HREF="^narr026.htm">[26-6]</A> 
+<BR><A HREF="^narr088.htm">[88-9]</A> 
+<BR><A HREF="^narr116.htm">[116-5]</A> 
+<BR><A HREF="^narr116.htm">[116-7]</A> 
+<BR><A HREF="^narr131.htm">[131-4]</A> 
+<BR><A HREF="^narr188.htm">[188-8]</A> 
+<BR><A HREF="^narr203.htm">[203-3]</A> 
+<BR><A HREF="^narr207.htm">[207-9]</A> 
+<BR><A HREF="^narr228.htm">[228-2]</A> 
+<BR><A HREF="^narr263.htm">[263-7]</A> 
+<BR><A HREF="^narr280.htm">[280-8]</A> 
+<BR><A HREF="^narr297.htm">[297-8]</A> 
+<BR><A HREF="^narr353.htm">[353-4]</A>
+<LI>mutukku�ai	TL: to become ripe in wisdom?! - v.r. 
+<BR><A HREF="^narr366.htm">[366-9]</A>
+<LI>mural 	DEDR 4973: 5.? to sound --- v.r. 
+<BR><A HREF="^narr071.htm">[71-9]</A>
+<LI>mu�a�ku 	DEDR 4989: 5. to thunder - v.r. 
+<BR><A HREF="^narr015.htm">[15-1]</A> 
+<BR><A HREF="^narr135.htm">[135-7]</A> 
+<BR><A HREF="^narr138.htm">[138-10]</A> 
+<BR><A HREF="^narr203.htm">[203-1]</A> 
+<BR><A HREF="^narr347.htm">[347-1]</A> 
+<BR><A HREF="^narr378.htm">[378-3]</A>
+<LI>mu�i	DEDR 4996: 4. to dry - v.r. 
+<BR><A HREF="^narr053.htm">[53-7]</A> 
+<BR><A HREF="^narr105.htm">[105-1]</A>
+<LI>mu��u 	DEDR 5017: 5. intr. to mature; tr. to complete - v.r. 
+<BR><A HREF="^narr174.htm">[174-1]</A> 
+<BR><A HREF="^narr324.htm">[324-4]</A>
+<LI>mu�i 	DEDR 5021: 4. to hate - v.r. 
+<BR><A HREF="^narr262.htm">[262-5]</A> 
+<BR><A HREF="^narr392.htm">[392-10]</A>
+<LI>m�y 	DEDR 5093: 4. to graze - v.r. 
+<BR><A HREF="^narr087.htm">[87-7]</A>
+<LI>va�i	DEDR 5341: 11. to practise --- v.r. 
+<BR><A HREF="^narr139.htm">[139-4]</A>
+<LI>va�ar 	4. to curve - v.r. 
+<BR><A HREF="^narr373.htm">[373-8]</A> 
+<BR><A HREF="^narr393.htm">[393-4]</A>
+<LI>vaya�ku 	TL (not DEDR): 5. to glow --- v.r. 
+<BR><A HREF="^narr032.htm">[32-2]</A> 
+<BR><A HREF="^narr142.htm">[142-1]</A> 
+<BR><A HREF="^narr163.htm">[163-9]</A> 
+<BR><A HREF="^narr249.htm">[249-7]</A> 
+<BR><A HREF="^narr299.htm">[299-4]</A> 
+<BR><A HREF="^narr299.htm">[299-8]</A> 
+<BR><A HREF="^narr369.htm">[369-8]</A>
+<LI>varu/v�	DEDR 5270: 13. to come - v.r. 
+<BR><A HREF="^narr068.htm">[68-5]</A> 
+<BR><A HREF="^narr076.htm">[76-1]</A> 
+<BR><A HREF="^narr134.htm">[134-3]</A> 
+<BR><A HREF="^narr135.htm">[135-3]</A> (
+<BR><A HREF="^narr234.htm">[234-4]</A>) 
+<BR><A HREF="^narr248.htm">[248-4]</A> 
+<BR><A HREF="^narr254.htm">[254-1]</A> 
+<BR><A HREF="^narr258.htm">[258-4]</A> 
+<BR><A HREF="^narr298.htm">[298-1]</A> 
+<BR><A HREF="^narr302.htm">[302-4]</A> 
+<BR><A HREF="^narr331.htm">[331-2]</A> 
+<BR><A HREF="^narr333.htm">[333-11]</A> 
+<BR><A HREF="^narr353.htm">[353-6]</A>
+<LI>varuntu	5. to suffer --- v.r. 
+<BR><A HREF="^narr296.htm">[296-9]</A>
+<LI>va�a�ku 	DEDR 5292: 5. intr. to wander, to roam - v.r. 
+<BR><A HREF="^narr107.htm">[107-6]</A> 
+<BR><A HREF="^narr174.htm">[174-4]</A> 
+<BR><A HREF="^narr227.htm">[227-8]</A> 
+<BR><A HREF="^narr302.htm">[302-10]</A>
+<LI>va�ippa�u	TL: to be on one's way; to reverence --- v.r. 
+<BR><A HREF="^narr009.htm">[9-2]</A>
+<LI>va�ar 	DEDR 5304: 4. to grow - v.r. 
+<BR><A HREF="^narr006.htm">[6-1]</A> 
+<BR><A HREF="^narr151.htm">[151-7]</A> 
+<BR><A HREF="^narr386.htm">[386-5]</A>
+<LI>v��ku	DEDR 5336: to drag, to bend  --- v.r. 
+<BR><A HREF="^narr073.htm">[73-7]</A> 
+<BR><A HREF="^narr113.htm">[113-1]</A> 
+<BR><A HREF="^narr117.htm">[117-5]</A> 
+<BR><A HREF="^narr123.htm">[123-3]</A> 
+<BR><A HREF="^narr144.htm">[144-2]</A>' 
+<BR><A HREF="^narr148.htm">[148-6]</A> 
+<BR><A HREF="^narr167.htm">[167-1]</A> 
+<BR><A HREF="^narr199.htm">[199-7]</A> 
+<BR><A HREF="^narr222.htm">[222-1]</A> 
+<BR><A HREF="^narr276.htm">[276-9]</A> 
+<BR><A HREF="^narr303.htm">[303-4]</A> 
+<BR><A HREF="^narr350.htm">[350-3]</A>
+<LI>v��u 	5. to fade - v.r. 
+<BR><A HREF="^narr007.htm">[7-9]</A>
+<LI>v�y	DEDR 5350: 4. to happen with certinty, to be fit; to surpass - v.r. 
+<BR><A HREF="^narr204.htm">[204-2]</A> 
+<LI>v�r 	4. to overflow - v.r. 
+<BR><A HREF="^narr035.htm">[35-1]</A> 
+<BR><A HREF="^narr076.htm">[76-8v]</A> 
+<BR><A HREF="^narr143.htm">[143-4]</A> 
+<BR><A HREF="^narr162.htm">[162-5]</A> 
+<BR><A HREF="^narr191.htm">[191-2]</A> 
+<BR><A HREF="^narr307.htm">[307-5]</A> 
+<BR><A HREF="^narr354.htm">[354-4]</A> 
+<BR><A HREF="^narr374.htm">[374-7]</A> 
+<BR><A HREF="^narr391.htm">[391-9]</A>
+<LI>v� 	DEDR 5372: 4. to live - v.r. 
+<BR><A HREF="^narr049.htm">[49-10]</A> 
+<BR><A HREF="^narr081.htm">[81-10]</A> 
+<BR><A HREF="^narr184.htm">[184-7]</A> 
+<BR><A HREF="^narr314.htm">[314-2]</A> 
+<BR><A HREF="^narr325.htm">[325-4]</A>
+<LI>vici�u	DEDR 5450: to fan, to sprinkle - v.r. 
+<BR><A HREF="^narr041.htm">[41-4]</A>
+<LI>vi�u	DEDR 5393: 6. to let - v.r. 
+<BR><A HREF="^narr041.htm">[41-2]</A> 
+<BR><A HREF="^narr051.htm">[51-7]</A> 
+<BR><A HREF="^narr222.htm">[222-2]</A> 
+<BR><A HREF="^narr310.htm">[310-1]</A> 
+<BR><A HREF="^narr311.htm">[311-1]</A> 
+<BR><A HREF="^narr314.htm">[314-9]</A>
+<LI>[vimmu�u 	+ v.r. u�u 
+<BR><A HREF="^narr033.htm">[33-10]</A>]
+<LI>viravu 	DEDR 5407: 5. to mix - v.r. 
+<BR><A HREF="^narr040.htm">[40-2]</A> 
+<BR><A HREF="^narr097.htm">[97-7]</A> 
+<BR><A HREF="^narr139.htm">[139-9]</A> 
+<BR><A HREF="^narr144.htm">[144-9]</A> 
+<BR><A HREF="^narr180.htm">[180-3]</A>
+<LI>viri 	DEDR 5411: 4. intr. to expand --- v.r. 
+<BR><A HREF="^narr110.htm">[110-2]</A> 
+<BR><A HREF="^narr121.htm">[121-8]</A> 
+<BR><A HREF="^narr130.htm">[130-10]</A> 
+<BR><A HREF="^narr141.htm">[141-12]</A> 
+<BR><A HREF="^narr155.htm">[155-3]</A> 
+<BR><A HREF="^narr185.htm">[185-4]</A> 
+<BR><A HREF="^narr190.htm">[190-4]</A> 
+<BR><A HREF="^narr192.htm">[192-10]</A> 
+<BR><A HREF="^narr259.htm">[259-8]</A> 
+<BR><A HREF="^narr270.htm">[270-8]</A> 
+<BR><A HREF="^narr271.htm">[271-10]</A> 
+<BR><A HREF="^narr307.htm">[307-8]</A> 
+<BR><A HREF="^narr367.htm">[367-11]</A> 
+<BR><A HREF="^narr398.htm">[398-2]</A>
+<LI>viri	TL (not DEDR): 11. to smell --- v.r. 
+<BR><A HREF="^narr315.htm">[315-6]</A>
+<LI>viri 	DEDR 5417: 4. to hasten --- v.r. 
+<BR><A HREF="^narr021.htm">[21-1]</A> 
+<BR><A HREF="^narr144.htm">[144-7]</A> 
+<BR><A HREF="^narr315.htm">[315-6]</A>
+<LI>[virivu��a 	+ v.r. u�u 
+<BR><A HREF="^narr308.htm">[308-1]</A>]
+<LI>vila�ku 	DEDR 5423: 5. intr. to transverse; tr. to obstruct - v.r. 
+<BR><A HREF="^narr154.htm">[154-11]</A> 
+<BR><A HREF="^narr305.htm">[305-10]</A> 
+<BR><A HREF="^narr325.htm">[325-8]</A> 
+<BR><A HREF="^narr328.htm">[328-10]</A> 
+<LI>vi�i 	DEDR 5429: 11. to open the eyes - v.r. 
+<BR><A HREF="^narr242.htm">[242-8]</A>
+<LI>vi�ai	DEDR 5528: 4. to desire --- v.r. 
+<BR><A HREF="^narr302.htm">[302-1]</A>
+<LI>vi�a�ku 	5. to shine - v.r. 
+<BR><A HREF="^narr020.htm">[20-8]</A> 
+<BR><A HREF="^narr063.htm">[63-4]</A> 
+<BR><A HREF="^narr208.htm">[208-1]</A> 
+<BR><A HREF="^narr249.htm">[249-3]</A> 
+<BR><A HREF="^narr363.htm">[363-9]</A> 
+<BR><A HREF="^narr370.htm">[370-4]</A>
+<LI>vi�ar	DEDR 5496(a): 4. to whiten - v.r. 
+<BR><A HREF="^narr041.htm">[41-8]</A>
+<LI>vi�ar	DEDR 5433: 5. to call - v.r. 
+<BR><A HREF="^narr172.htm">[172-7]</A>
+<LI>vi�ai 	DEDR 5437: 4. to ripen - v.r. 
+<BR><A HREF="^narr006.htm">[6-7]</A> 
+<BR><A HREF="^narr022.htm">[22-2]</A> 
+<BR><A HREF="^narr044.htm">[44-6]</A> 
+<BR><A HREF="^narr073.htm">[73-1]</A> 
+<BR><A HREF="^narr088.htm">[88-4]</A> 
+<BR><A HREF="^narr138.htm">[138-1]</A> 
+<BR><A HREF="^narr331.htm">[331-1]</A> 
+<BR><A HREF="^narr354.htm">[354-8]</A> 
+<BR><A HREF="^narr400.htm">[400-2]</A>
+<LI>vi�aiy��u 	5. to play - v.r. 
+<BR><A HREF="^narr068.htm">[68-1]</A> 
+<BR><A HREF="^narr172.htm">[172-1]</A> 
+<BR><A HREF="^narr341.htm">[341-3]</A>
+<LI>v��ku 	DEDR 5448(a): 5. to swell - v.r. 
+<BR><A HREF="^narr021.htm">[21-1]</A> 
+<BR><A HREF="^narr051.htm">[51-3]</A> 
+<BR><A HREF="^narr052.htm">[52-5]</A> 
+<BR><A HREF="^narr057.htm">[57-5]</A> 
+<BR><A HREF="^narr098.htm">[98-3]</A> 
+<BR><A HREF="^narr121.htm">[121-8]</A> 
+<BR><A HREF="^narr148.htm">[148-6]</A> 
+<BR><A HREF="^narr199.htm">[199-2]</A> 
+<BR><A HREF="^narr240.htm">[240-4]</A> 
+<BR><A HREF="^narr325.htm">[325-8v]</A>
+<LI>v�cu	DEDR 5450: to fling - v.r. 
+<BR><A HREF="^narr241.htm">[241-6]</A> 
+<BR><A HREF="^narr264.htm">[264-5]</A> 
+<BR><A HREF="^narr381.htm">[381-9]</A> 
+<LI>v�	DEDR 5430: 4. to descend - v.r. 
+<BR><A HREF="^narr030.htm">[30-6]</A> 
+<BR><A HREF="^narr031.htm">[31-4]</A> 
+<BR><A HREF="^narr071.htm">[71-9]</A> 
+<BR><A HREF="^narr228.htm">[228-9]</A> 
+<BR><A HREF="^narr271.htm">[271-6]</A> 
+<BR><A HREF="^narr354.htm">[354-3]</A> 
+<BR><A HREF="^narr374.htm">[374-6]</A>
+<LI>vel 	DEDR 5493: 3. to overcome - v.r. 
+<BR><A HREF="^narr087.htm">[87-3]</A> 
+<BR><A HREF="^narr281.htm">[281-3]</A>
+<LI>v���u 	DEDR 5528: 5. intr. to be necessary; tr. to need - v.r. 
+<BR><A HREF="^narr021.htm">[21-3]</A> 
+<LI>v��upa�u	6. to be different, to change --- v.r. 
+<BR><A HREF="^narr214.htm">[214-3]</A>
+<LI>viku	DEDR 5554: 5. to be kept --- v.r. 
+<BR><A HREF="^narr012.htm">[12-4]</A> 
+<BR><A HREF="^narr271.htm">[271-2]</A> 
+<BR><A HREF="^narr279.htm">[279-3]</A> 
+<BR><A HREF="^narr390.htm">[390-2]</A> 
+<BR><A HREF="^narr396.htm">[396-1]</A>
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_pe1">LIST of peyar eccam forms of ceyyum type</A> found by Eva in NA</H3>
+<OL>
+<LI>aka�um	PE1. 
+<BR><A HREF="^narr125.htm">[125-4]</A> 
+<BR><A HREF="^narr336.htm">[336-10]</A>
+<LI>ac�am	PE1. 
+<BR><A HREF="^narr083.htm">[83-4v]</A>
+<LI>ac�vum	PE1. 
+<BR><A HREF="^narr083.htm">[83-4]</A>
+<LI>a�cum	PE1. 
+<BR><A HREF="^narr073.htm">[73-5]</A> 
+<BR><A HREF="^narr144.htm">[144-2]</A> 
+<BR><A HREF="^narr210.htm">[210-8]</A>
+<LI>[a�cuvarum	+ PE1. of varu 
+<BR><A HREF="^narr383.htm">[383-7]</A>]
+<LI>a��um	PE1. 
+<BR><A HREF="^narr036.htm">[36-3]</A>
+<LI>[a�aitarum	+ PE1. of taru 
+<BR><A HREF="^narr165.htm">[165-6]</A>]
+<LI>a�a�kum	PE1. 
+<BR><A HREF="^narr376.htm">[376-10]</A>
+<LI>a�iyum	PE1. 
+<BR><A HREF="^narr060.htm">[60-11]</A> 
+<BR><A HREF="^narr283.htm">[283-3]</A>
+<LI>atirum	PE1. 
+<BR><A HREF="^narr100.htm">[100-11]</A> 
+<BR><A HREF="^narr261.htm">[261-2]</A>
+<LI>ayarum	PE1. 
+<BR><A HREF="^narr047.htm">[47-10]</A> 
+<BR><A HREF="^narr121.htm">[121-11]</A> 
+<BR><A HREF="^narr135.htm">[135-3]</A> 
+<BR><A HREF="^narr271.htm">[271-9]</A>' 
+<BR><A HREF="^narr280.htm">[280-9]</A> 
+<BR><A HREF="^narr348.htm">[348-4]</A> 
+<BR><A HREF="^narr353.htm">[353-6]</A>
+<LI>aruntum	PE1. 
+<BR><A HREF="^narr054.htm">[54-3v]</A>
+<LI>alkum	PE1. 
+<BR><A HREF="^narr033.htm">[33-7]</A> 
+<BR><A HREF="^narr085.htm">[85-5]</A> 
+<BR><A HREF="^narr142.htm">[142-7]</A> 
+<BR><A HREF="^narr243.htm">[243-4]</A> 
+<BR><A HREF="^narr329.htm">[329-7]</A>
+<LI>alamarum	PE1. 
+<BR><A HREF="^narr269.htm">[269-6]</A> 
+<BR><A HREF="^narr320.htm">[320-3]</A>
+<LI>alikkum	PE1. 
+<BR><A HREF="^narr089.htm">[89-7]</A> 
+<BR><A HREF="^narr183.htm">[183-7]</A> 
+<BR><A HREF="^narr382.htm">[382-3]</A>
+<LI>avi�um	PE1. 
+<BR><A HREF="^narr369.htm">[369-4]</A>
+<LI>a�ikkum	PE1. 
+<BR><A HREF="^narr073.htm">[73-10]</A> 
+<BR><A HREF="^narr114.htm">[114-10]</A>
+<LI>a�akkum	PE1. 
+<BR><A HREF="^narr016.htm">[16-8]</A>
+<LI>�kum	PE1. 
+<BR><A HREF="^narr006.htm">[6-8]</A> 
+<BR><A HREF="^narr043.htm">[43-5]</A> 
+<BR><A HREF="^narr053.htm">[53-8]</A> 
+<BR><A HREF="^narr137.htm">[137-8]</A> 
+<BR><A HREF="^narr356.htm">[356-4]</A>
+<LI>�m	PE1. 
+<BR><A HREF="^narr133.htm">[133-11]</A> 
+<BR><A HREF="^narr213.htm">[213-5]</A>
+<LI>��um	PE1. 
+<BR><A HREF="^narr003.htm">[3-4]</A> 
+<BR><A HREF="^narr034.htm">[34-5]</A> 
+<BR><A HREF="^narr247.htm">[247-5]</A> 
+<BR><A HREF="^narr288.htm">[288-3]</A>
+<LI>�rum	PE1. 
+<BR><A HREF="^narr116.htm">[116-5]</A> 
+<BR><A HREF="^narr119.htm">[119-5]</A> 
+<BR><A HREF="^narr192.htm">[192-4]</A> 
+<BR><A HREF="^narr290.htm">[290-3]</A> 
+<BR><A HREF="^narr355.htm">[355-5]</A>
+<LI>�rkkum	PE1. 
+<BR><A HREF="^narr108.htm">[108-5]</A> 
+<BR><A HREF="^narr147.htm">[147-6]</A> 
+<BR><A HREF="^narr173.htm">[173-8]</A> 
+<BR><A HREF="^narr205.htm">[205-1]</A> 
+<BR><A HREF="^narr213.htm">[213-1]</A> 
+<BR><A HREF="^narr288.htm">[288-1]</A> 
+<BR><A HREF="^narr365.htm">[365-7]</A> 
+<BR><A HREF="^narr394.htm">[394-4]</A> 
+<BR><A HREF="^narr399.htm">[399-1]</A>
+<LI>�lum	PE1. 
+<BR><A HREF="^narr009.htm">[9-10]</A> 
+<BR><A HREF="^narr118.htm">[118-4]</A> 
+<BR><A HREF="^narr248.htm">[248-7]</A> 
+<BR><A HREF="^narr288.htm">[288-3v]</A> 
+<BR><A HREF="^narr357.htm">[357-6]</A> 
+<BR><A HREF="^narr378.htm">[378-4]</A>
+<LI>��um	PE1. 
+<BR><A HREF="^narr126.htm">[126-6]</A>
+<LI>icikkum	PE1. 
+<BR><A HREF="^narr037.htm">[37-3]</A> 
+<BR><A HREF="^narr069.htm">[69-9]</A> 
+<BR><A HREF="^narr176.htm">[176-10]</A> 
+<BR><A HREF="^narr212.htm">[212-3]</A> 
+<BR><A HREF="^narr212.htm">[212-3]</A>' 
+<BR><A HREF="^narr218.htm">[218-8]</A> 
+<BR><A HREF="^narr307.htm">[307-1]</A>
+<LI>i�ikkum	PE1. 
+<BR><A HREF="^narr048.htm">[48-6]</A>
+<LI>[i�aippa��um	+ PE1. of pa�u 
+<BR><A HREF="^narr240.htm">[240-5]</A>]
+<LI>imirum	PE1. 
+<BR><A HREF="^narr017.htm">[17-11]</A> 
+<BR><A HREF="^narr030.htm">[30-3]</A> 
+<BR><A HREF="^narr035.htm">[35-5]</A> 
+<BR><A HREF="^narr139.htm">[139-6]</A> 
+<BR><A HREF="^narr187.htm">[187-8]</A>
+<LI>imikkum	PE1. 
+<BR><A HREF="^narr199.htm">[199-10]</A> 
+<BR><A HREF="^narr279.htm">[279-8]</A> 
+<BR><A HREF="^narr366.htm">[366-2]</A> 
+<BR><A HREF="^narr370.htm">[370-3]</A> 
+<BR><A HREF="^narr389.htm">[389-10]</A>
+<LI>iyampum	PE1. 
+<BR><A HREF="^narr014.htm">[14-10]</A> 
+<BR><A HREF="^narr228.htm">[228-8]</A> 
+<BR><A HREF="^narr264.htm">[264-8]</A>
+<LI>iyalum	PE1. 
+<BR><A HREF="^narr194.htm">[194-3]</A> 
+<BR><A HREF="^narr264.htm">[264-3]</A>
+<LI>ira�kum	PE1. 
+<BR><A HREF="^narr005.htm">[5-6]</A> 
+<BR><A HREF="^narr246.htm">[246-9]</A>
+<LI>ira�kum	PE1. 
+<BR><A HREF="^narr093.htm">[93-5]</A> 
+<BR><A HREF="^narr103.htm">[103-8]</A> 
+<BR><A HREF="^narr296.htm">[296-6]</A> 
+<LI>ira��um	PE1. 
+<BR><A HREF="^narr132.htm">[132-10]</A>
+<LI>irikkum	PE1. 
+<BR><A HREF="^narr383.htm">[383-8]</A>
+<LI>iriyum	PE1. 
+<BR><A HREF="^narr372.htm">[372-5]</A>
+<LI>irukkum	PE1. 
+<BR><A HREF="^narr131.htm">[131-6]</A> 
+<BR><A HREF="^narr367.htm">[367-5]</A>
+<LI>irikkum	PE1. 
+<BR><A HREF="^narr109.htm">[109-6]</A>
+<LI>ivarum	PE1. 
+<BR><A HREF="^narr038.htm">[38-9]</A>
+<LI>[i�itarum	+ PE1. of t� 
+<BR><A HREF="^narr007.htm">[7-3]</A> 
+<BR><A HREF="^narr017.htm">[17-2]</A> 
+<BR><A HREF="^narr028.htm">[28-5]</A> 
+<BR><A HREF="^narr111.htm">[111-8]</A> 
+<BR><A HREF="^narr124.htm">[124-8]</A> 
+<BR><A HREF="^narr347.htm">[347-7]</A> 
+<BR><A HREF="^narr369.htm">[369-8]</A> 
+<BR><A HREF="^narr369.htm">[369-9]</A> 
+<BR><A HREF="^narr381.htm">[381-3]</A>]
+<LI>i�ukkum	PE1. 
+<BR><A HREF="^narr205.htm">[205-4]</A>
+<LI>i�aikkum	PE1. 
+<BR><A HREF="^narr027.htm">[27-2]</A>
+<LI>i�ai�cum	PE1. 
+<BR><A HREF="^narr300.htm">[300-4]</A>
+<LI>�um	PE1. 
+<BR><A HREF="^narr138.htm">[138-4]</A>
+<LI>uka�um	PE1. 
+<BR><A HREF="^narr119.htm">[119-7]</A>
+<LI>ukum	PE1. 
+<BR><A HREF="^narr013.htm">[13-7]</A>
+<LI>ukukkum	PE1. 
+<BR><A HREF="^narr281.htm">[281-4]</A>
+<LI>u�ukkum	PE1. 
+<BR><A HREF="^narr359.htm">[359-4]</A>
+<LI>u�aiyum	PE1. 
+<BR><A HREF="^narr075.htm">[75-5]</A>
+<LI>u�aikkum	PE1. 
+<BR><A HREF="^narr280.htm">[280-7]</A>
+<LI>u��um	PE1. 
+<BR><A HREF="^narr110.htm">[110-13]</A> 
+<BR><A HREF="^narr333.htm">[333-4]</A> 
+<BR><A HREF="^narr376.htm">[376-4]</A> 
+<BR><A HREF="^narr396.htm">[396-7]</A>
+<LI>u�akkum	PE1. 
+<BR><A HREF="^narr004.htm">[4-4]</A>
+<LI>utirum	PE1. 
+<BR><A HREF="^narr350.htm">[350-3]</A>
+<LI>uyyum	PE1. 
+<BR><A HREF="^narr075.htm">[75-10]</A>
+<LI>uyavum	PE1. 
+<BR><A HREF="^narr003.htm">[3-1]</A> 
+<BR><A HREF="^narr059.htm">[59-10]</A>? 
+<BR><A HREF="^narr066.htm">[66-5]</A> 
+<BR><A HREF="^narr335.htm">[335-7]</A>
+<LI>uyirkkum	PE1. 
+<BR><A HREF="^narr029.htm">[29-10]</A>
+<LI>ura�um	PE1. 
+<BR><A HREF="^narr004.htm">[4-10]</A> 
+<BR><A HREF="^narr068.htm">[68-8]</A> 
+<BR><A HREF="^narr122.htm">[122-5]</A> 
+<BR><A HREF="^narr154.htm">[154-6]</A> 
+<BR><A HREF="^narr238.htm">[238-8]</A> 
+<BR><A HREF="^narr344.htm">[344-10]</A> 
+<BR><A HREF="^narr353.htm">[353-10]</A> 
+<BR><A HREF="^narr383.htm">[383-5]</A>
+<LI>uvakkum	PE1. 
+<BR><A HREF="^narr142.htm">[142-9]</A> 
+<BR><A HREF="^narr392.htm">[392-5]</A>
+<LI>u�akkum	PE1. 
+<BR><A HREF="^narr262.htm">[262-5]</A>
+<LI>u�um	PE1. 
+<BR><A HREF="^narr324.htm">[324-8]</A>
+<LI>u�ukkum	PE1. 
+<BR><A HREF="^narr355.htm">[355-2]</A>
+<LI>u�aikkum	PE1. 
+<BR><A HREF="^narr027.htm">[27-2v]</A> 
+<BR><A HREF="^narr087.htm">[87-7]</A>
+<LI>u�aiyum	PE1. 
+<BR><A HREF="^narr029.htm">[29-5]</A> 
+<BR><A HREF="^narr071.htm">[71-7]</A> 
+<BR><A HREF="^narr081.htm">[81-7]</A> 
+<BR><A HREF="^narr104.htm">[104-7]</A> 
+<BR><A HREF="^narr124.htm">[124-2]</A> 
+<BR><A HREF="^narr192.htm">[192-7]</A> 
+<BR><A HREF="^narr196.htm">[196-5]</A> 
+<BR><A HREF="^narr370.htm">[370-9]</A>
+<LI>�kkum	PE1. 
+<BR><A HREF="^narr400.htm">[400-1]</A>
+<LI>���um	PE1. 
+<BR><A HREF="^narr202.htm">[202-6]</A> 
+<BR><A HREF="^narr335.htm">[335-6]</A>
+<LI>�tum	PE1. 
+<BR><A HREF="^narr113.htm">[113-10]</A> 
+<BR><A HREF="^narr290.htm">[290-8]</A> 
+<BR><A HREF="^narr323.htm">[323-8]</A>
+<LI>�um	PE1. 
+<BR><A HREF="^narr268.htm">[268-5]</A>
+<LI>e�uppum	PE1. 
+<BR><A HREF="^narr125.htm">[125-12]</A>
+<LI>e��um	PE1. 
+<BR><A HREF="^narr331.htm">[331-8]</A> 
+<BR><A HREF="^narr372.htm">[372-12]</A>
+<LI>[e�utarum	PE1. 
+<BR><A HREF="^narr067.htm">[67-11]</A>]
+<LI>e�iyum	PE1. 
+<BR><A HREF="^narr104.htm">[104-10]</A> 
+<BR><A HREF="^narr255.htm">[255-11]</A>
+<LI>e��um	PE1. 
+<BR><A HREF="^narr011.htm">[11-4]</A> 
+<BR><A HREF="^narr132.htm">[132-8]</A> 
+<BR><A HREF="^narr133.htm">[133-7]</A> 
+<BR><A HREF="^narr146.htm">[146-8]</A> 
+<BR><A HREF="^narr169.htm">[169-2]</A> 
+<BR><A HREF="^narr206.htm">[206-9]</A> 
+<BR><A HREF="^narr206.htm">[206-9]</A> 
+<BR><A HREF="^narr220.htm">[220-7]</A> 
+<BR><A HREF="^narr221.htm">[221-12]</A> 
+<BR><A HREF="^narr237.htm">[237-4]</A> 
+<BR><A HREF="^narr284.htm">[284-4]</A> 
+<BR><A HREF="^narr287.htm">[287-3]</A>
+<LI>[e�appa��um	+ PE1. of pa�u 
+<BR><A HREF="^narr384.htm">[384-11]</A>]
+<LI>[�rtarum	+ PE1. of taru 
+<BR><A HREF="^narr237.htm">[237-10]</A> 
+<BR><A HREF="^narr335.htm">[335-1]</A>]
+<LI>��kum	PE1. 
+<BR><A HREF="^narr390.htm">[390-2]</A>
+<LI>��um	PE1. 
+<BR><A HREF="^narr185.htm">[185-6]</A> 
+<BR><A HREF="^narr186.htm">[186-7]</A>
+<LI>o�u�kum	PE1. 
+<BR><A HREF="^narr322.htm">[322-7]</A>
+<LI>oyyum	PE1. 
+<BR><A HREF="^narr074.htm">[74-4]</A> 
+<BR><A HREF="^narr100.htm">[100-8]</A> 
+<BR><A HREF="^narr263.htm">[263-7]</A> 
+<BR><A HREF="^narr356.htm">[356-5]</A>
+<LI>[olivarum	+ PE1. of varu 
+<BR><A HREF="^narr006.htm">[6-10]</A> 
+<BR><A HREF="^narr295.htm">[295-2]</A>]
+<LI>olikkum	PE1. 
+<BR><A HREF="^narr107.htm">[107-5]</A> 
+<BR><A HREF="^narr167.htm">[167-4]</A>
+<LI>[olivarum	+ PE1. of varu 
+<BR><A HREF="^narr348.htm">[348-3]</A>]
+<LI>o�ukum	PE1. 
+<BR><A HREF="^narr144.htm">[144-7]</A> 
+<LI>o�ikkum	PE1. 
+<BR><A HREF="^narr233.htm">[233-3]</A>
+<LI>��um	PE1. 
+<BR><A HREF="^narr186.htm">[186-3]</A>
+<LI>�ppum	PE1. 
+<BR><A HREF="^narr045.htm">[45-7]</A> 
+<BR><A HREF="^narr104.htm">[104-6]</A>
+<LI>�mpum	PE1. 
+<BR><A HREF="^narr098.htm">[98-8]</A>
+<LI>�rkkum	PE1. 
+<BR><A HREF="^narr244.htm">[244-4]</A>
+<LI>�rum	PE1. 
+<BR><A HREF="^narr127.htm">[127-7]</A> 
+<BR><A HREF="^narr183.htm">[183-7]</A>
+<LI>ka�ukkum	PE1. 
+<BR><A HREF="^narr219.htm">[219-8]</A> 
+<BR><A HREF="^narr228.htm">[228-6]</A>
+<LI>k��um	PE1. 
+<BR><A HREF="^narr044.htm">[44-11]</A> 
+<BR><A HREF="^narr072.htm">[72-2]</A> 
+<BR><A HREF="^narr230.htm">[230-10]</A> 
+<BR><A HREF="^narr393.htm">[393-13]</A>
+<LI>katikkum	PE1. 
+<BR><A HREF="^narr352.htm">[352-5]</A>
+<LI>kama�um	PE1. 
+<BR><A HREF="^narr012.htm">[12-1]</A> 
+<BR><A HREF="^narr019.htm">[19-5]</A> 
+<BR><A HREF="^narr020.htm">[20-3]</A> 
+<BR><A HREF="^narr049.htm">[49-9]</A> 
+<BR><A HREF="^narr063.htm">[63-4]</A> 
+<BR><A HREF="^narr105.htm">[105-9]</A> 
+<BR><A HREF="^narr137.htm">[137-1]</A> 
+<BR><A HREF="^narr168.htm">[168-10]</A> 
+<BR><A HREF="^narr169.htm">[169-9]</A> 
+<BR><A HREF="^narr235.htm">[235-3]</A> 
+<BR><A HREF="^narr270.htm">[270-2]</A> 
+<BR><A HREF="^narr294.htm">[294-8]</A> 
+<BR><A HREF="^narr298.htm">[298-11]</A> 
+<BR><A HREF="^narr346.htm">[346-10]</A>
+<LI>kariyum	PE1. 
+<BR><A HREF="^narr065.htm">[65-8]</A>
+<LI>kala�kum	PE1. 
+<BR><A HREF="^narr065.htm">[65-3]</A>
+<LI>kal�vum	PE1. 
+<BR><A HREF="^narr309.htm">[309-5]</A>
+<LI>kali�um	PE1. 
+<BR><A HREF="^narr143.htm">[143-4]</A> 
+<BR><A HREF="^narr208.htm">[208-3]</A> 
+<BR><A HREF="^narr327.htm">[327-2]</A>
+<LI>kalu�um	PE1. 
+<BR><A HREF="^narr066.htm">[66-10]</A> 
+<BR><A HREF="^narr143.htm">[143-4v]</A> 
+<BR><A HREF="^narr157.htm">[157-7]</A> 
+<BR><A HREF="^narr195.htm">[195-9]</A> 
+<BR><A HREF="^narr208.htm">[208-3v]</A> 
+<BR><A HREF="^narr327.htm">[327-2v]</A>
+<LI>kavarum	PE1. 
+<BR><A HREF="^narr013.htm">[13-9]</A> 
+<BR><A HREF="^narr251.htm">[251-3]</A> 
+<BR><A HREF="^narr251.htm">[251-9]</A> 
+<BR><A HREF="^narr317.htm">[317-4]</A> 
+<BR><A HREF="^narr368.htm">[368-1]</A>
+<LI>ka�iyum	PE1. 
+<BR><A HREF="^narr046.htm">[46-2]</A> 
+<BR><A HREF="^narr080.htm">[80-3]</A> 
+<BR><A HREF="^narr109.htm">[109-10]</A>
+<LI>ka��um	PE1. 
+<BR><A HREF="^narr063.htm">[63-10]</A> 
+<BR><A HREF="^narr151.htm">[151-4]</A>
+<LI>ka�a�kum	PE1. 
+<BR><A HREF="^narr252.htm">[252-2]</A>
+<LI>k�kkum	PE1. 
+<BR><A HREF="^narr022.htm">[22-1]</A> 
+<BR><A HREF="^narr023.htm">[23-4]</A> 
+<BR><A HREF="^narr201.htm">[201-6]</A> 
+<BR><A HREF="^narr216.htm">[216-6]</A> 
+<BR><A HREF="^narr265.htm">[265-4]</A> 
+<BR><A HREF="^narr277.htm">[277-5]</A>
+<LI>ki�ikkum	PE1. 
+<BR><A HREF="^narr028.htm">[28-8]</A>
+<LI>ki�arum	PE1. 
+<BR><A HREF="^narr319.htm">[319-6]</A>
+<LI>ki�arkkum	PE1. 
+<BR><A HREF="^narr004.htm">[4-9]</A>
+<LI>ku�a�um	PE1. 
+<BR><A HREF="^narr319.htm">[319-5]</A>
+<LI>ku��um	PE1. 
+<BR><A HREF="^narr238.htm">[238-2]</A>
+<LI>ku��um	PE1. 
+<BR><A HREF="^narr373.htm">[373-4]</A>
+<LI>ku�ukum	PE1. 
+<BR><A HREF="^narr057.htm">[57-9]</A>
+<LI>k�um	PE1. 
+<BR><A HREF="^narr143.htm">[143-5]</A> 
+<BR><A HREF="^narr313.htm">[313-11]</A>
+<LI>k���um	PE1. 
+<BR><A HREF="^narr145.htm">[145-3]</A> 
+<BR><A HREF="^narr363.htm">[363-5]</A> 
+<BR><A HREF="^narr391.htm">[391-5]</A>
+<LI>k��um	PE1. 
+<BR><A HREF="^narr146.htm">[146-7]</A> 
+<LI>k���u��um	PE1. 
+<BR><A HREF="^narr033.htm">[33-3]</A>
+<LI>k�um	PE1. 
+<BR><A HREF="^narr347.htm">[347-9]</A>
+<LI>[kito�um	+ PE1. of to�u 
+<BR><A HREF="^narr231.htm">[231-2]</A>]
+<LI>ko�kum	PE1. 
+<BR><A HREF="^narr135.htm">[135-7]</A>
+<LI>ko��um	PE1. 
+<BR><A HREF="^narr095.htm">[95-6]</A>
+<LI>ko��um	PE1. 
+<BR><A HREF="^narr171.htm">[171-9]</A> 
+<BR><A HREF="^narr195.htm">[195-3]</A> 
+<BR><A HREF="^narr212.htm">[212-4]</A> 
+<BR><A HREF="^narr219.htm">[219-6]</A> 
+<BR><A HREF="^narr281.htm">[281-3]</A> 
+<LI>c�yum	PE1. 
+<BR><A HREF="^narr060.htm">[60-9]</A>
+<LI>c�lum	PE1. 
+<BR><A HREF="^narr266.htm">[266-5v]</A>
+<LI>citikkum	PE1. 
+<BR><A HREF="^narr304.htm">[304-7]</A>
+<LI>ci�akkum	PE1. 
+<BR><A HREF="^narr273.htm">[273-8]</A>
+<LI>curakkum	PE1. 
+<BR><A HREF="^narr031.htm">[31-4]</A>
+<LI>cu��um	PE1. 
+<BR><A HREF="^narr110.htm">[110-3]</A>
+<LI>cerukkum	PE1. 
+<BR><A HREF="^narr059.htm">[59-5]</A>
+<LI>cellum	PE1. 
+<BR><A HREF="^narr009.htm">[9-12]</A> 
+<BR><A HREF="^narr254.htm">[254-5]</A> 
+<LI>c�kkum	PE1. 
+<BR><A HREF="^narr258.htm">[258-9]</A> 
+<BR><A HREF="^narr276.htm">[276-6]</A>
+<LI>c�rum	PE1. 
+<BR><A HREF="^narr321.htm">[321-5]</A>
+<LI>coriyum	PE1. 
+<BR><A HREF="^narr091.htm">[91-7]</A>
+<LI>ta��um	PE1. 
+<BR><A HREF="^narr193.htm">[193-4]</A>
+<LI>ta�iyum	PE1. 
+<BR><A HREF="^narr041.htm">[41-4]</A> 
+<BR><A HREF="^narr217.htm">[217-5]</A> 
+<BR><A HREF="^narr244.htm">[244-7]</A>
+<LI>tarum	PE1. 
+<BR><A HREF="^narr037.htm">[37-10]</A> 
+<BR><A HREF="^narr067.htm">[67-11]</A> 
+<BR><A HREF="^narr097.htm">[97-8]</A> 
+<BR><A HREF="^narr126.htm">[126-5]</A> 
+<BR><A HREF="^narr126.htm">[126-7]</A> 
+<BR><A HREF="^narr162.htm">[162-3]</A> 
+<BR><A HREF="^narr165.htm">[165-6]</A> 
+<BR><A HREF="^narr220.htm">[220-4]</A> 
+<BR><A HREF="^narr364.htm">[364-11]</A> 
+<LI>tar�um	PE1. 
+<BR><A HREF="^narr005.htm">[5-8]</A>
+<LI>talippeyarkkum	PE1. 
+<BR><A HREF="^narr169.htm">[169-6]</A>
+<LI>talippeyarum	PE1. 
+<BR><A HREF="^narr375.htm">[375-2]</A>
+<LI>tavirum	PE1. 
+<BR><A HREF="^narr209.htm">[209-8]</A>
+<LI>ta��um	PE1. 
+<BR><A HREF="^narr193.htm">[193-4v]</A>
+<LI>t��kum	PE1. 
+<BR><A HREF="^narr350.htm">[350-7]</A>
+<LI>t�am	PE1. 
+<BR><A HREF="^narr024.htm">[24-4]</A> 
+<BR><A HREF="^narr079.htm">[79-3]</A> 
+<BR><A HREF="^narr113.htm">[113-3]</A> 
+<BR><A HREF="^narr167.htm">[167-8]</A> 
+<BR><A HREF="^narr180.htm">[180-3]</A> 
+<BR><A HREF="^narr191.htm">[191-4]</A> 
+<BR><A HREF="^narr257.htm">[257-6]</A> 
+<BR><A HREF="^narr274.htm">[274-4]</A> 
+<BR><A HREF="^narr299.htm">[299-4]</A>
+<LI>timirum	PE1. 
+<BR><A HREF="^narr360.htm">[360-8]</A>
+<LI>[tiritarum	+ PE1. taru 
+<BR><A HREF="^narr037.htm">[37-10]</A> 
+<BR><A HREF="^narr097.htm">[97-8]</A> 
+<BR><A HREF="^narr220.htm">[220-4]</A>]
+<LI>tiruttum	PE1. i.a. 
+<BR><A HREF="^narr151.htm">[151-11]</A>
+<LI>ti�aikkum	PE1. 
+<BR><A HREF="^narr334.htm">[334-5]</A>
+<LI>ti�akkum	PE1. 
+<BR><A HREF="^narr275.htm">[275-5]</A>
+<LI>t���um	PE1. 
+<BR><A HREF="^narr343.htm">[343-3]</A>
+<LI>t�rkkum	PE1. 
+<BR><A HREF="^narr140.htm">[140-10]</A>
+<LI>t�rum	PE1. 
+<BR><A HREF="^narr209.htm">[209-7]</A>
+<LI>tu�cum	PE1. 
+<BR><A HREF="^narr007.htm">[7-8]</A> 
+<BR><A HREF="^narr073.htm">[73-8]</A> 
+<BR><A HREF="^narr077.htm">[77-7]</A> 
+<BR><A HREF="^narr132.htm">[132-1]</A> 
+<BR><A HREF="^narr159.htm">[159-10]</A> 
+<BR><A HREF="^narr175.htm">[175-4]</A> 
+<BR><A HREF="^narr260.htm">[260-4]</A> 
+<BR><A HREF="^narr297.htm">[297-8]</A> 
+<BR><A HREF="^narr319.htm">[319-10]</A> 
+<BR><A HREF="^narr386.htm">[386-5]</A>
+<LI>tu�aikkum	PE1. 
+<BR><A HREF="^narr158.htm">[158-8]</A>
+<LI>tummum	PE1. 
+<BR><A HREF="^narr326.htm">[326-4]</A>
+<LI>[tuyalvarum	+ PE1. of varu 
+<BR><A HREF="^narr225.htm">[225-5]</A>]
+<LI>tuva��um	PE1. 
+<BR><A HREF="^narr123.htm">[123-3]</A>
+<LI>tu�avum	PE1. 
+<BR><A HREF="^narr267.htm">[267-4]</A> 
+<BR><A HREF="^narr272.htm">[272-6]</A> 
+<BR><A HREF="^narr372.htm">[372-11]</A>
+<LI>t��kum	PE1. 
+<BR><A HREF="^narr077.htm">[77-5]</A> 
+<BR><A HREF="^narr138.htm">[138-10]</A> 
+<BR><A HREF="^narr213.htm">[213-3]</A> 
+<BR><A HREF="^narr278.htm">[278-5]</A>
+<LI>t域um	PE1. 
+<BR><A HREF="^narr015.htm">[15-3]</A> 
+<BR><A HREF="^narr073.htm">[73-11]</A> 
+<BR><A HREF="^narr263.htm">[263-3]</A> 
+<BR><A HREF="^narr382.htm">[382-9]</A>
+<LI>t���um	PE1. 
+<BR><A HREF="^narr242.htm">[242-10]</A>
+<LI>t�rum	PE1. 
+<BR><A HREF="^narr091.htm">[91-4]</A> 
+<BR><A HREF="^narr285.htm">[285-1]</A>
+<LI>tokukkum	PE1. 
+<BR><A HREF="^narr344.htm">[344-11]</A>
+<LI>to�um	PE1. 
+<BR><A HREF="^narr329.htm">[329-3]</A>
+<LI>to��um	PE1. 
+<BR><A HREF="^narr188.htm">[188-3]</A>
+<LI>to�um	PE1. 
+<BR><A HREF="^narr231.htm">[231-2]</A>
+<LI>t�yum	PE1. 
+<BR><A HREF="^narr188.htm">[188-5]</A> 
+<BR><A HREF="^narr355.htm">[355-3]</A>
+<LI>t���um	PE1. 
+<BR><A HREF="^narr022.htm">[22-7]</A> 
+<BR><A HREF="^narr141.htm">[141-6]</A> 
+<BR><A HREF="^narr163.htm">[163-11]</A> 
+<BR><A HREF="^narr173.htm">[173-6]</A> 
+<BR><A HREF="^narr235.htm">[235-6]</A> 
+<BR><A HREF="^narr291.htm">[291-4]</A> 
+<BR><A HREF="^narr295.htm">[295-6]</A> 
+<BR><A HREF="^narr297.htm">[297-6]</A> 
+<BR><A HREF="^narr313.htm">[313-9]</A> 
+<BR><A HREF="^narr323.htm">[323-1]</A> 
+<BR><A HREF="^narr357.htm">[357-4]</A> 
+<BR><A HREF="^narr374.htm">[374-2]</A> 
+<BR><A HREF="^narr376.htm">[376-7]</A> 
+<BR><A HREF="^narr380.htm">[380-5]</A> 
+<BR><A HREF="^narr393.htm">[393-7]</A>
+<LI>nakkum	PE1. 
+<BR><A HREF="^narr168.htm">[168-5]</A>
+<LI>[naciyu��um	+ PE1. of u�uttu 
+<BR><A HREF="^narr084.htm">[84-5]</A>]
+<LI>[na�ukku��um	+ PE1. of u�uttu 
+<BR><A HREF="^narr018.htm">[18-6]</A> 
+<BR><A HREF="^narr273.htm">[273-10]</A>]
+<LI>na�u�kum	PE1. 
+<BR><A HREF="^narr132.htm">[132-5]</A>
+<LI>nampum	PE1. 
+<BR><A HREF="^narr208.htm">[208-7]</A>
+<LI>[nayavarum	+ PE1. of varu 
+<BR><A HREF="^narr244.htm">[244-3]</A> 
+<BR><A HREF="^narr313.htm">[313-7]</A>]
+<LI>naralum	PE1. 
+<BR><A HREF="^narr144.htm">[144-2]</A>' 
+<BR><A HREF="^narr172.htm">[172-8]</A> 
+<BR><A HREF="^narr335.htm">[335-8]</A>
+<LI>naliyum	PE1. 
+<BR><A HREF="^narr078.htm">[78-5]</A> 
+<BR><A HREF="^narr338.htm">[338-4]</A>
+<LI>n��um	PE1. 
+<BR><A HREF="^narr231.htm">[231-4]</A>
+<LI>n��um	PE1. 
+<BR><A HREF="^narr375.htm">[375-5]</A>
+<LI>n�lum	PE1. 
+<BR><A HREF="^narr090.htm">[90-6]</A>
+<LI>n��um	PE1. 
+<BR><A HREF="^narr244.htm">[244-2]</A> 
+<BR><A HREF="^narr262.htm">[262-7]</A>
+<LI>nivakkum	PE1. 
+<BR><A HREF="^narr063.htm">[63-9]</A>
+<LI>ni�aiyum	PE1. 
+<BR><A HREF="^narr157.htm">[157-6]</A> 
+<LI>n��kum	PE1. 
+<BR><A HREF="^narr002.htm">[2-8]</A>
+<LI>n�ntum	PE1. 
+<BR><A HREF="^narr177.htm">[177-10]</A> 
+<BR><A HREF="^narr339.htm">[339-4]</A> 
+<BR><A HREF="^narr369.htm">[369-11]</A>
+<LI>nu�a�kum	PE1. 
+<BR><A HREF="^narr008.htm">[8-2]</A> 
+<BR><A HREF="^narr045.htm">[45-4]</A> 
+<BR><A HREF="^narr086.htm">[86-8]</A>
+<LI>nuvalum	PE1. 
+<BR><A HREF="^narr097.htm">[97-3]</A> 
+<BR><A HREF="^narr118.htm">[118-10]</A> 
+<BR><A HREF="^narr200.htm">[200-4]</A> 
+<BR><A HREF="^narr293.htm">[293-3]</A> 
+<BR><A HREF="^narr346.htm">[346-3]</A>
+<LI>nu�aiyum	PE1. 
+<BR><A HREF="^narr098.htm">[98-4]</A>
+<LI>pakarum	PE1. 
+<BR><A HREF="^narr138.htm">[138-2]</A>
+<LI>pakukkum	PE1. 
+<BR><A HREF="^narr085.htm">[85-10]</A> 
+<BR><A HREF="^narr336.htm">[336-6]</A>
+<LI>pa�iyum	PE1. 
+<BR><A HREF="^narr080.htm">[80-7]</A>
+<LI>pa�um	PE1. 
+<BR><A HREF="^narr209.htm">[209-7]</A>
+<LI>pa��um	PE1. 
+<BR><A HREF="^narr119.htm">[119-3]</A> 
+<BR><A HREF="^narr173.htm">[173-3]</A> 
+<BR><A HREF="^narr246.htm">[246-1]</A> 
+<BR><A HREF="^narr384.htm">[384-11]</A>
+<LI>payirum	PE1. 
+<BR><A HREF="^narr071.htm">[71-9]</A> 
+<BR><A HREF="^narr314.htm">[314-11]</A>
+<LI>payi��um	PE1. 
+<BR><A HREF="^narr224.htm">[224-5]</A> 
+<BR><A HREF="^narr246.htm">[246-4]</A> 
+<BR><A HREF="^narr248.htm">[248-6]</A> 
+<BR><A HREF="^narr250.htm">[250-3]</A> 
+<BR><A HREF="^narr304.htm">[304-3]</A>  
+<BR><A HREF="^narr341.htm">[341-5]</A>
+<LI>parakkum	PE1. 
+<BR><A HREF="^narr070.htm">[70-7]</A>
+<LI>parappum	PE1. 
+<BR><A HREF="^narr101.htm">[101-4]</A>
+<LI>parikkum	PE1. 
+<BR><A HREF="^narr099.htm">[99-3]</A> 
+<BR><A HREF="^narr332.htm">[332-7]</A>
+<LI>pariyum	PE1. 
+<BR><A HREF="^narr292.htm">[292-3]</A>
+<LI>parukum	PE1. 
+<BR><A HREF="^narr213.htm">[213-5]</A>
+<LI>pa�akkum	PE1. 
+<BR><A HREF="^narr218.htm">[218-3]</A>
+<LI>pa�ikkum	PE1. 
+<BR><A HREF="^narr099.htm">[99-3v]</A> 
+<BR><A HREF="^narr127.htm">[127-2]</A> 
+<BR><A HREF="^narr253.htm">[253-5]</A>
+<LI>p�yum	PE1. 
+<BR><A HREF="^narr148.htm">[148-10]</A>
+<LI>p�rkkum	PE1. 
+<BR><A HREF="^narr123.htm">[123-10]</A> 
+<BR><A HREF="^narr192.htm">[192-2]</A> 
+<BR><A HREF="^narr336.htm">[336-7]</A>
+<LI>pi�iyum	PE1. 
+<BR><A HREF="^narr057.htm">[57-6]</A>
+<LI>pi�i�um	PE1. 
+<BR><A HREF="^narr222.htm">[222-9]</A>
+<LI>pi�a�um	PE1. 
+<BR><A HREF="^narr310.htm">[310-4]</A> 
+<BR><A HREF="^narr340.htm">[340-8v]</A> 
+<BR><A HREF="^narr400.htm">[400-4]</A>
+<LI>pura�um	PE1. 
+<BR><A HREF="^narr254.htm">[254-8]</A>
+<LI>puriyum	PE1. 
+<BR><A HREF="^narr008.htm">[8-3]</A> 
+<BR><A HREF="^narr026.htm">[26-3]</A> 
+<BR><A HREF="^narr047.htm">[47-3]</A> 
+<BR><A HREF="^narr205.htm">[205-11]</A> 
+<BR><A HREF="^narr252.htm">[252-11]</A> 
+<BR><A HREF="^narr301.htm">[301-2]</A> 
+<BR><A HREF="^narr390.htm">[390-10]</A>
+<LI>pul�vum	PE1. 
+<BR><A HREF="^narr114.htm">[114-3v]</A>
+<LI>pu�akko�ukkum	PE1. 
+<BR><A HREF="^narr164.htm">[164-10]</A>
+<LI>pu�a�k�kkum	PE1. 
+<BR><A HREF="^narr182.htm">[182-3]</A>
+<LI>p�kkum	PE1. 
+<BR><A HREF="^narr008.htm">[8-8]</A> 
+<BR><A HREF="^narr266.htm">[266-3]</A>
+<LI>peyarkkum	PE1. 
+<BR><A HREF="^narr082.htm">[82-11]</A>
+<LI>peyarum	PE1. 
+<BR><A HREF="^narr090.htm">[90-8]</A> 
+<BR><A HREF="^narr092.htm">[92-8]</A> 
+<BR><A HREF="^narr140.htm">[140-7]</A> 
+<BR><A HREF="^narr204.htm">[204-10]</A> 
+<BR><A HREF="^narr210.htm">[210-4]</A> 
+<BR><A HREF="^narr219.htm">[219-5]</A> 
+<BR><A HREF="^narr285.htm">[285-7]</A> 
+<BR><A HREF="^narr298.htm">[298-4]</A> 
+<BR><A HREF="^narr335.htm">[335-3]</A>
+<LI>perukum	PE1. 
+<BR><A HREF="^narr378.htm">[378-2]</A> 
+<BR><A HREF="^narr397.htm">[397-5v]</A>
+<LI>pe�um	PE1. 
+<BR><A HREF="^narr284.htm">[284-2]</A>
+<LI>pe��um	PE1. 
+<BR><A HREF="^narr025.htm">[25-4]</A> 
+<BR><A HREF="^narr056.htm">[56-3]</A> 
+<BR><A HREF="^narr358.htm">[358-9]</A> 
+<BR><A HREF="^narr384.htm">[384-5]</A>
+<LI>po�kum	PE1. 
+<BR><A HREF="^narr299.htm">[299-8]</A>
+<LI>poykkum	PE1. 
+<BR><A HREF="^narr161.htm">[161-11]</A>
+<LI>poruntum	PE1. 
+<BR><A HREF="^narr122.htm">[122-11]</A>
+<LI>poliyum	PE1. 
+<BR><A HREF="^narr217.htm">[217-2]</A>
+<LI>po�iyum	PE1. 
+<BR><A HREF="^narr387.htm">[387-11]</A>
+<LI>po��um	PE1. 
+<BR><A HREF="^narr132.htm">[132-11]</A>
+<LI>p��um	PE1. 
+<BR><A HREF="^narr073.htm">[73-4]</A>
+<LI>maki�um	PE1. 
+<BR><A HREF="^narr038.htm">[38-3]</A> 
+<BR><A HREF="^narr165.htm">[165-5]</A> 
+<BR><A HREF="^narr388.htm">[388-9]</A>
+<LI>ma�iyum	PE1. 
+<BR><A HREF="^narr271.htm">[271-2]</A>
+<LI>matikkum	PE1. 
+<BR><A HREF="^narr081.htm">[81-3]</A>
+<LI>maru�um	PE1. 
+<BR><A HREF="^narr359.htm">[359-3]</A>
+<LI>malarum	PE1. 
+<BR><A HREF="^narr086.htm">[86-3]</A> 
+<BR><A HREF="^narr190.htm">[190-5]</A> 
+<BR><A HREF="^narr296.htm">[296-5]</A> 
+<BR><A HREF="^narr399.htm">[399-3]</A>
+<LI>ma�ukkum	PE1. 
+<BR><A HREF="^narr110.htm">[110-8]</A> 
+<BR><A HREF="^narr203.htm">[203-6]</A>
+<LI>ma�aikkum	PE1. 
+<BR><A HREF="^narr136.htm">[136-8]</A> 
+<BR><A HREF="^narr282.htm">[282-8]</A> 
+<BR><A HREF="^narr302.htm">[302-9]</A>
+<LI>ma�aiyum	PE1. 
+<BR><A HREF="^narr187.htm">[187-6]</A>
+<LI>ma��um	PE1. 
+<BR><A HREF="^narr158.htm">[158-3]</A> 
+<BR><A HREF="^narr158.htm">[158-4]</A> 
+<BR><A HREF="^narr224.htm">[224-1]</A>
+<LI>mik�um	PE1. 
+<BR><A HREF="^narr046.htm">[46-9]</A>
+<LI>miciyum	PE1. 
+<BR><A HREF="^narr232.htm">[232-5]</A>
+<LI>mitikkum	PE1. 
+<BR><A HREF="^narr239.htm">[239-7]</A>
+<LI>mi�irkkum	PE1. 
+<BR><A HREF="^narr002.htm">[2-10]</A> 
+<BR><A HREF="^narr261.htm">[261-7v]</A>
+<LI>mi�irum	PE1. 
+<BR><A HREF="^narr261.htm">[261-7]</A>
+<LI>muyalum	PE1. 
+<BR><A HREF="^narr009.htm">[9-1]</A> 
+<BR><A HREF="^narr186.htm">[186-8]</A>
+<LI>mu�a�kum	PE1. 
+<BR><A HREF="^narr012.htm">[12-3]</A> 
+<BR><A HREF="^narr337.htm">[337-8]</A>
+<LI>mu�kum	PE1. 
+<BR><A HREF="^narr337.htm">[337-8v]</A>
+<LI>melikkum	PE1. 
+<BR><A HREF="^narr377.htm">[377-9]</A>
+<LI>m�m	PE1. 
+<BR><A HREF="^narr004.htm">[4-1]</A>
+<LI>va�ikkum	PE1. 
+<BR><A HREF="^narr341.htm">[341-2]</A>
+<LI>vatiyum	PE1. 
+<BR><A HREF="^narr098.htm">[98-7]</A> 
+<BR><A HREF="^narr121.htm">[121-4]</A> 
+<BR><A HREF="^narr178.htm">[178-5]</A> 
+<BR><A HREF="^narr256.htm">[256-10]</A> 
+<BR><A HREF="^narr330.htm">[330-5]</A> 
+<BR><A HREF="^narr399.htm">[399-7]</A>
+<LI>varikkum	PE1. 
+<BR><A HREF="^narr267.htm">[267-5]</A> 
+<BR><A HREF="^narr286.htm">[286-3]</A>
+<LI>varum	PE1. 
+<BR><A HREF="^narr053.htm">[53-7v]</A> 
+<BR><A HREF="^narr114.htm">[114-8]</A> 
+<BR><A HREF="^narr244.htm">[244-3]</A> 
+<BR><A HREF="^narr313.htm">[313-7]</A> 
+<BR><A HREF="^narr323.htm">[323-11]</A>
+<LI>var�um	PE1. 
+<BR><A HREF="^narr037.htm">[37-11]</A> 
+<BR><A HREF="^narr098.htm">[98-10]</A> 
+<BR><A HREF="^narr129.htm">[129-5]</A> 
+<BR><A HREF="^narr149.htm">[149-8]</A> 
+<BR><A HREF="^narr158.htm">[158-9]</A> 
+<BR><A HREF="^narr198.htm">[198-1]</A> 
+<BR><A HREF="^narr228.htm">[228-4]</A> 
+<BR><A HREF="^narr235.htm">[235-10]</A> 
+<BR><A HREF="^narr237.htm">[237-7]</A> 
+<BR><A HREF="^narr285.htm">[285-11]</A> 
+<BR><A HREF="^narr326.htm">[326-10]</A> 
+<BR><A HREF="^narr375.htm">[375-8]</A> 
+<BR><A HREF="^narr393.htm">[393-8]</A> 
+<BR><A HREF="^narr399.htm">[399-8]</A>
+<LI>varu�um	PE1. 
+<BR><A HREF="^narr162.htm">[162-11]</A>
+<LI>varuntum	PE1. 
+<BR><A HREF="^narr303.htm">[303-7]</A> 
+<BR><A HREF="^narr374.htm">[374-8]</A>
+<LI>va�a�kum	PE1. 
+<BR><A HREF="^narr046.htm">[46-8]</A> 
+<BR><A HREF="^narr067.htm">[67-7]</A> 
+<BR><A HREF="^narr078.htm">[78-1]</A> 
+<BR><A HREF="^narr105.htm">[105-3]</A> 
+<BR><A HREF="^narr112.htm">[112-4]</A> 
+<BR><A HREF="^narr140.htm">[140-6]</A> 
+<BR><A HREF="^narr144.htm">[144-6]</A> 
+<BR><A HREF="^narr174.htm">[174-4]</A> 
+<BR><A HREF="^narr274.htm">[274-8]</A> 
+<BR><A HREF="^narr292.htm">[292-7]</A> 
+<BR><A HREF="^narr303.htm">[303-11]</A>
+<LI>va�ippa��um	PE1. 
+<BR><A HREF="^narr173.htm">[173-3]</A> 
+<BR><A HREF="^narr247.htm">[247-7]</A>
+<LI>v�rkkum	PE1. 
+<BR><A HREF="^narr074.htm">[74-9]</A>
+<LI>vi�ukkum	PE1. 
+<BR><A HREF="^narr035.htm">[35-6]</A>
+<LI>viriyum	PE1. 
+<BR><A HREF="^narr230.htm">[230-4]</A> 
+<BR><A HREF="^narr345.htm">[345-5]</A>
+<LI>[viruppu��um	+ PE1. of u�u 
+<BR><A HREF="^narr221.htm">[221-8]</A>]
+<LI>vi�aiyum	PE1. 
+<BR><A HREF="^narr050.htm">[50-9]</A>
+<LI>vi�ikkum	PE1. 
+<BR><A HREF="^narr218.htm">[218-4]</A>
+<LI>vi�aiyum	PE1. 
+<BR><A HREF="^narr311.htm">[311-4]</A>
+<LI>v�um	PE1. 
+<BR><A HREF="^narr280.htm">[280-3]</A>
+<LI>ver�um	PE1. 
+<BR><A HREF="^narr004.htm">[4-11]</A> 
+<BR><A HREF="^narr031.htm">[31-11]</A> 
+<BR><A HREF="^narr189.htm">[189-9]</A> 
+<BR><A HREF="^narr211.htm">[211-8]</A> 
+<BR><A HREF="^narr250.htm">[250-9]</A> 
+<BR><A HREF="^narr265.htm">[265-2]</A>'
+<LI>v���um	PE1. 
+<BR><A HREF="^narr032.htm">[32-6]</A>
+<LI>v��upa��um	PE1. 
+<BR><A HREF="^narr129.htm">[129-2]</A>
+<LI>vikum	PE1. 
+<BR><A HREF="^narr047.htm">[47-5]</A>
+<LI>vuvum	PE1. 
+<BR><A HREF="^narr240.htm">[240-9]</A>
+</OL>
+
+<HR>
+
+
+<H3><A NAME="_pe2">LIST of peyar eccam forms of ceyta type</A> found by Eva in NA</H3>
+<OL>
+<LI>aka��a	PE2. 
+<BR><A HREF="^narr101.htm">[101-7]</A> 
+<BR><A HREF="^narr214.htm">[214-8]</A> 
+<BR><A HREF="^narr245.htm">[245-5]</A> 
+<BR><A HREF="^narr252.htm">[252-8]</A> 
+<BR><A HREF="^narr333.htm">[333-7]</A>
+<LI>aka��iya	PE2. 
+<BR><A HREF="^narr391.htm">[391-4]</A>
+<LI>aciiya	PE2. 
+<BR><A HREF="^narr081.htm">[81-8]</A> 
+<BR><A HREF="^narr276.htm">[276-2]</A>
+<LI>a��a		PE2. 
+<BR><A HREF="^narr041.htm">[41-7]</A> 
+<BR><A HREF="^narr193.htm">[193-1]</A>
+<LI>a�akkiya	PE2. 
+<BR><A HREF="^narr000.htm">[0-5]</A>
+<LI>a�ainta	PE2. 
+<BR><A HREF="^narr033.htm">[33-1]</A>
+<LI>a�aicciya	PE2. 
+<BR><A HREF="^narr337.htm">[337-5]</A>
+<LI>a�a�kiya	PE2. 
+<BR><A HREF="^narr146.htm">[146-10]</A> 
+<BR><A HREF="^narr396.htm">[396-8]</A>
+<LI>a�inta		PE2. 
+<BR><A HREF="^narr040.htm">[40-7]</A> 
+<BR><A HREF="^narr133.htm">[133-4]</A> 
+<BR><A HREF="^narr202.htm">[202-11]</A> 
+<BR><A HREF="^narr296.htm">[296-2]</A>
+<LI>amartta	PE2. 
+<BR><A HREF="^narr016.htm">[16-9]</A> 
+<BR><A HREF="^narr120.htm">[120-6]</A> 
+<BR><A HREF="^narr256.htm">[256-2]</A>
+<LI>amarnta	PE2. 
+<BR><A HREF="^narr159.htm">[159-12v]</A>
+<LI>ama��a	PE2. 
+<BR><A HREF="^narr200.htm">[200-6]</A>
+<LI>ayarnta	PE2. 
+<BR><A HREF="^narr099.htm">[99-8]</A> 
+<BR><A HREF="^narr115.htm">[115-2]</A> 
+<BR><A HREF="^narr159.htm">[159-12]</A> 
+<BR><A HREF="^narr273.htm">[273-4]</A>
+<LI>aruntiya 	PE2. 
+<BR><A HREF="^narr007.htm">[7-7]</A> 
+<BR><A HREF="^narr343.htm">[343-5]</A>
+<LI>arumpiya 	PE2. 
+<BR><A HREF="^narr054.htm">[54-9]</A> 
+<BR><A HREF="^narr094.htm">[94-6]</A> 
+<BR><A HREF="^narr198.htm">[198-6]</A> 
+<BR><A HREF="^narr262.htm">[262-6]</A>
+<LI>aru�iya 	PE2. 
+<BR><A HREF="^narr096.htm">[96-6v]</A>
+<LI>alkiya 		PE2. 
+<BR><A HREF="^narr131.htm">[131-1]</A> 
+<BR><A HREF="^narr306.htm">[306-11]</A>
+<LI>alitta 	PE2. 
+<BR><A HREF="^narr175.htm">[175-1]</A> 
+<BR><A HREF="^narr179.htm">[179-3]</A> 
+<BR><A HREF="^narr230.htm">[230-7]</A>
+<LI>[alippa��a 	+ PE2. of pa�u 
+<BR><A HREF="^narr204.htm">[204-5]</A>]
+<LI>avi�nta 	PE2. 
+<BR><A HREF="^narr014.htm">[14-7]</A> 
+<BR><A HREF="^narr034.htm">[34-1]</A> 
+<BR><A HREF="^narr059.htm">[59-9]</A> 
+<BR><A HREF="^narr231.htm">[231-7]</A> 
+<BR><A HREF="^narr257.htm">[257-5]</A> 
+<BR><A HREF="^narr294.htm">[294-7]</A> 
+<BR><A HREF="^narr299.htm">[299-2]</A> 
+<BR><A HREF="^narr313.htm">[313-7]</A> 
+<BR><A HREF="^narr373.htm">[373-6]</A>
+<LI>a�inta 		PE2. 
+<BR><A HREF="^narr256.htm">[256-3]</A> 
+<BR><A HREF="^narr291.htm">[291-9]</A> 
+<BR><A HREF="^narr333.htm">[333-2]</A> 
+<BR><A HREF="^narr346.htm">[346-4]</A> 
+<BR><A HREF="^narr349.htm">[349-6]</A>
+<LI>a��a 		PE2. 
+<BR><A HREF="^narr022.htm">[22-9]</A> 
+<BR><A HREF="^narr105.htm">[105-5]</A>
+<LI>a�utta 		PE2. 
+<BR><A HREF="^narr045.htm">[45-6v]</A> 
+<BR><A HREF="^narr064.htm">[64-5]</A> 
+<BR><A HREF="^narr216.htm">[216-9]</A>
+<LI>�kiya 		PE2. 
+<BR><A HREF="^narr019.htm">[19-8]</A> 
+<BR><A HREF="^narr026.htm">[26-7]</A> 
+<BR><A HREF="^narr062.htm">[62-9]</A> 
+<BR><A HREF="^narr123.htm">[123-12]</A> 
+<BR><A HREF="^narr212.htm">[212-10]</A> 
+<BR><A HREF="^narr243.htm">[243-9]</A> 
+<BR><A HREF="^narr287.htm">[287-8]</A> 
+<BR><A HREF="^narr346.htm">[346-6]</A> 
+<BR><A HREF="^narr393.htm">[393-12]</A>
+<LI>��iya 	PE2. 
+<BR><A HREF="^narr025.htm">[25-3]</A> 
+<BR><A HREF="^narr051.htm">[51-9]</A> 
+<BR><A HREF="^narr126.htm">[126-3]</A> 
+<BR><A HREF="^narr127.htm">[127-6]</A> 
+<BR><A HREF="^narr131.htm">[131-1]</A> 
+<BR><A HREF="^narr141.htm">[141-1v]</A> 
+<BR><A HREF="^narr184.htm">[184-8]</A> 
+<BR><A HREF="^narr187.htm">[187-10]</A> 
+<BR><A HREF="^narr213.htm">[213-9]</A> 
+<BR><A HREF="^narr229.htm">[229-10]</A> 
+<BR><A HREF="^narr239.htm">[239-4]</A> 	
+<BR><A HREF="^narr265.htm">[265-2]</A> 
+<BR><A HREF="^narr278.htm">[278-7]</A> 
+<BR><A HREF="^narr302.htm">[302-7]</A> 
+<BR><A HREF="^narr357.htm">[357-10]</A> 
+<BR><A HREF="^narr360.htm">[360-1]</A> 
+<BR><A HREF="^narr396.htm">[396-5]</A>
+<LI>�ynta 		PE2. 
+<BR><A HREF="^narr283.htm">[283-4]</A>
+<LI>�rnta 		PE2. 
+<BR><A HREF="^narr183.htm">[183-9]</A> 
+<BR><A HREF="^narr395.htm">[395-7]</A>
+<LI>ୟa		PE2. 
+<BR><A HREF="^narr137.htm">[137-5]</A>
+<LI>i�inta		PE2. 
+<BR><A HREF="^narr196.htm">[196-7v]</A>
+<LI>i��a 		PE2. 
+<BR><A HREF="^narr142.htm">[142-4]</A> 
+<BR><A HREF="^narr303.htm">[303-9]</A> 
+<BR><A HREF="^narr331.htm">[331-3]</A> 
+<BR><A HREF="^narr343.htm">[343-4]</A> 
+<BR><A HREF="^narr400.htm">[400-3]</A>
+<LI>[i�aiyi��a 	+ PE2. of i�u 
+<BR><A HREF="^narr318.htm">[318-7]</A>]
+<LI>iya�kiya 	PE2. 
+<BR><A HREF="^narr307.htm">[307-2]</A>
+<LI>iya��a 	PE2. 
+<BR><A HREF="^narr000.htm">[0-5]</A> 
+<BR><A HREF="^narr082.htm">[82-4]</A>
+<LI>iyinta 	PE2. 
+<BR><A HREF="^narr089.htm">[89-10]</A> 
+<BR><A HREF="^narr203.htm">[203-7]</A> 
+<BR><A HREF="^narr259.htm">[259-7]</A> 
+<BR><A HREF="^narr378.htm">[378-12]</A>
+<LI>ir�iya		PE2. 
+<BR><A HREF="^narr202.htm">[202-5]</A>
+<LI>ir�iya 		PE2.? inf.? 
+<BR><A HREF="^narr181.htm">[181-10]</A> 
+<BR><A HREF="^narr266.htm">[266-8]</A> 
+<BR><A HREF="^narr352.htm">[352-1]</A>
+<LI>irunta 		PE2. 
+<BR><A HREF="^narr101.htm">[101-5]</A> 
+<BR><A HREF="^narr116.htm">[116-10]</A> 
+<BR><A HREF="^narr153.htm">[153-10]</A> 
+<BR><A HREF="^narr215.htm">[215-7]</A> 
+<BR><A HREF="^narr218.htm">[218-7]</A> 
+<BR><A HREF="^narr312.htm">[312-3]</A> 
+<BR><A HREF="^narr343.htm">[343-2v]</A> 
+<BR><A HREF="^narr368.htm">[368-5]</A> 
+<BR><A HREF="^narr371.htm">[371-3]</A> 
+<BR><A HREF="^narr394.htm">[394-2]</A>
+<LI>iru��a 		PE2. 
+<BR><A HREF="^narr284.htm">[284-1]</A>
+<LI>iru�iya 	PE2. 
+<BR><A HREF="^narr096.htm">[96-5]</A>
+<LI>ivarnta 	PE2. 
+<BR><A HREF="^narr067.htm">[67-1]</A>
+<LI>i�anta 		PE2. 
+<BR><A HREF="^narr056.htm">[56-8]</A> 
+<BR><A HREF="^narr167.htm">[167-9]</A> 
+<BR><A HREF="^narr181.htm">[181-10]</A> 
+<BR><A HREF="^narr196.htm">[196-7]</A> 
+<BR><A HREF="^narr256.htm">[256-3v]</A> 
+<BR><A HREF="^narr263.htm">[263-1]</A> 
+<BR><A HREF="^narr309.htm">[309-2]</A>
+<LI>i�aitta 		PE2. 
+<BR><A HREF="^narr185.htm">[185-9]</A> 
+<BR><A HREF="^narr191.htm">[191-2]</A> 
+<BR><A HREF="^narr268.htm">[268-4]</A> 
+<BR><A HREF="^narr276.htm">[276-5]</A>
+<LI>[i�aippa��a 	+ PE2. of pa�u 
+<BR><A HREF="^narr384.htm">[384-3]</A>]
+<LI>i�anta 		PE2. 
+<BR><A HREF="^narr103.htm">[103-4]</A> 
+<BR><A HREF="^narr130.htm">[130-11]</A> 
+<BR><A HREF="^narr320.htm">[320-4]</A> 
+<BR><A HREF="^narr343.htm">[343-2]</A>
+<LI>i��a 		PE2. 
+<BR><A HREF="^narr329.htm">[329-5]</A>
+<LI>i�utta		PE2. i�utta 
+<BR><A HREF="^narr099.htm">[99-7]</A> 
+<BR><A HREF="^narr215.htm">[215-3]</A> 
+<BR><A HREF="^narr257.htm">[257-2]</A> 
+<BR><A HREF="^narr287.htm">[287-2]</A> 
+<BR><A HREF="^narr306.htm">[306-6]</A> 
+<BR><A HREF="^narr387.htm">[387-7]</A>
+<LI>[i�aik��iya 	+ PE2. of k��u 
+<BR><A HREF="^narr247.htm">[247-8]</A>]
+<LI>i�ai�ciya 	PE2. 
+<BR><A HREF="^narr376.htm">[376-2]</A>
+<LI>㭟a 		PE2. 
+<BR><A HREF="^narr008.htm">[8-10]</A> 
+<BR><A HREF="^narr116.htm">[116-4]</A> 
+<BR><A HREF="^narr188.htm">[188-2]</A> 
+<BR><A HREF="^narr225.htm">[225-3]</A> 
+<BR><A HREF="^narr293.htm">[293-9]</A> 
+<BR><A HREF="^narr355.htm">[355-1]</A> 
+<BR><A HREF="^narr399.htm">[399-6]</A>
+<LI>ukutta 	PE2. 
+<BR><A HREF="^narr258.htm">[258-5]</A>
+<LI>u�utta 		PE2. 
+<BR><A HREF="^narr199.htm">[199-1]</A>
+<LI>u�ainta 	PE2. 
+<BR><A HREF="^narr087.htm">[87-6]</A> 
+<BR><A HREF="^narr176.htm">[176-6]</A>
+<LI>u��a 		PE2. 
+<BR><A HREF="^narr066.htm">[66-2]</A> 
+<BR><A HREF="^narr113.htm">[113-1]</A> 
+<BR><A HREF="^narr168.htm">[168-4]</A>
+<LI>[u�appa��a 	+ PE2. of pa�u 
+<BR><A HREF="^narr178.htm">[178-3]</A>]
+<LI>u�akkiya 	PE2. 
+<BR><A HREF="^narr063.htm">[63-2]</A>
+<LI>u�artta 	PE2. 
+<BR><A HREF="^narr282.htm">[282-4]</A>
+<LI>u�arnta 	PE2. 
+<BR><A HREF="^narr047.htm">[47-9]</A> 
+<BR><A HREF="^narr173.htm">[173-4]</A> 
+<BR><A HREF="^narr316.htm">[316-5]</A> 
+<BR><A HREF="^narr349.htm">[349-4]</A>
+<LI>utirtta 	PE2. 
+<BR><A HREF="^narr106.htm">[106-8]</A> 
+<BR><A HREF="^narr140.htm">[140-4]</A> 
+<BR><A HREF="^narr323.htm">[323-7]</A>
+<LI>utirnta 	PE2. 
+<BR><A HREF="^narr076.htm">[76-7]</A>
+<LI>utitta 	PE2. 
+<BR><A HREF="^narr041.htm">[41-1]</A> 
+<BR><A HREF="^narr123.htm">[123-9]</A> 
+<BR><A HREF="^narr279.htm">[279-7]</A> 
+<BR><A HREF="^narr340.htm">[340-6]</A>
+<LI>[uyirppa��a 	+ PE2. of pa�u 
+<BR><A HREF="^narr240.htm">[240-4]</A>]
+<LI>uri�ciya 	PE2. 
+<BR><A HREF="^narr362.htm">[362-7]</A>
+<LI>uritta 	PE2. 
+<BR><A HREF="^narr263.htm">[263-10]</A>
+<LI>ulanta 	PE2. 
+<BR><A HREF="^narr029.htm">[29-1]</A>
+<LI>ula�iya 	PE2. 
+<BR><A HREF="^narr224.htm">[224-9]</A> 
+<BR><A HREF="^narr357.htm">[357-5]</A>
+<LI>ulinta 	PE2. 
+<BR><A HREF="^narr310.htm">[310-6]</A>
+<LI>u�anta 	PE2. 
+<BR><A HREF="^narr008.htm">[8-1]</A> 
+<BR><A HREF="^narr063.htm">[63-1]</A> 
+<BR><A HREF="^narr135.htm">[135-6]</A> 
+<BR><A HREF="^narr279.htm">[279-3]</A> 
+<BR><A HREF="^narr279.htm">[279-5]</A> 
+<BR><A HREF="^narr335.htm">[335-9]</A> 
+<BR><A HREF="^narr384.htm">[384-10]</A>
+<LI>u�uta 		PE2. 
+<BR><A HREF="^narr122.htm">[122-1]</A> 
+<BR><A HREF="^narr210.htm">[210-2]</A> 
+<BR><A HREF="^narr386.htm">[386-2]</A>
+<LI>u��iya 		PE2. 
+<BR><A HREF="^narr003.htm">[3-7]</A>
+<LI>u��a 		PE2. 
+<BR><A HREF="^narr031.htm">[31-6]</A> 
+<BR><A HREF="^narr061.htm">[61-8]</A> 
+<BR><A HREF="^narr075.htm">[75-9]</A> 
+<BR><A HREF="^narr080.htm">[80-9]</A> 
+<BR><A HREF="^narr128.htm">[128-11]</A> 
+<BR><A HREF="^narr140.htm">[140-11]</A> 
+<BR><A HREF="^narr177.htm">[177-2]</A> 
+<BR><A HREF="^narr250.htm">[250-7]</A> 
+<BR><A HREF="^narr281.htm">[281-7]</A> 
+<BR><A HREF="^narr360.htm">[360-10]</A>
+<LI>�kkiya 	PE2. 
+<BR><A HREF="^narr171.htm">[171-1]</A>
+<LI>���iya 		PE2. 
+<BR><A HREF="^narr118.htm">[118-7]</A>
+<LI>�tiya 		PE2. 
+<BR><A HREF="^narr017.htm">[17-10]</A>
+<LI>e�utta 		PE2. 
+<BR><A HREF="^narr092.htm">[92-6]</A> 
+<BR><A HREF="^narr325.htm">[325-3]</A>
+<LI>etirnta 	PE2. 
+<BR><A HREF="^narr310.htm">[310-5]</A>
+<LI>etiriya 	PE2. 
+<BR><A HREF="^narr302.htm">[302-4]</A> 
+<BR><A HREF="^narr337.htm">[337-3]</A> 
+<BR><A HREF="^narr340.htm">[340-4]</A> 
+<BR><A HREF="^narr362.htm">[362-3]</A>
+<LI>etirtta 		PE2. 
+<BR><A HREF="^narr160.htm">[160-4]</A> 
+<BR><A HREF="^narr312.htm">[312-7]</A>
+<LI>etirko��a 	PE2. 
+<BR><A HREF="^narr345.htm">[345-7]</A>
+<LI>eyta		PE2. 
+<BR><A HREF="^narr085.htm">[85-8]</A> 
+<LI>eytiya 	PE2. 
+<BR><A HREF="^narr035.htm">[35-6v]</A> 
+<BR><A HREF="^narr118.htm">[118-2]</A> 
+<BR><A HREF="^narr190.htm">[190-7]</A> 
+<BR><A HREF="^narr253.htm">[253-9]</A>
+<LI>e�unta 	PE2. 
+<BR><A HREF="^narr067.htm">[67-3]</A> 
+<BR><A HREF="^narr211.htm">[211-3]</A> 
+<BR><A HREF="^narr213.htm">[213-8]</A> 
+<BR><A HREF="^narr252.htm">[252-10]</A>
+<LI>e�utiya 	PE2. 
+<BR><A HREF="^narr058.htm">[58-3]</A> 
+<BR><A HREF="^narr185.htm">[185-10]</A>
+<LI>e�inta 		PE2. 
+<BR><A HREF="^narr002.htm">[2-3]</A> 
+<BR><A HREF="^narr031.htm">[31-2]</A> 
+<BR><A HREF="^narr041.htm">[41-8]</A> 
+<BR><A HREF="^narr049.htm">[49-5]</A> 
+<BR><A HREF="^narr059.htm">[59-3]</A> 
+<BR><A HREF="^narr104.htm">[104-4]</A> 
+<BR><A HREF="^narr199.htm">[199-6]</A> 
+<BR><A HREF="^narr392.htm">[392-1]</A> 
+<BR><A HREF="^narr393.htm">[393-5]</A>
+<LI>e��a 		PE2. 
+<BR><A HREF="^narr042.htm">[42-6]</A> 
+<BR><A HREF="^narr043.htm">[43-8]</A> 
+<BR><A HREF="^narr109.htm">[109-1]</A> 
+<BR><A HREF="^narr246.htm">[246-10]</A>
+<LI>�ntiya 	PE2. 
+<BR><A HREF="^narr010.htm">[10-1]</A>
+<LI>�mu��a 	PE2. 
+<BR><A HREF="^narr030.htm">[30-6]</A> 
+<BR><A HREF="^narr030.htm">[30-7]</A>
+<LI>ocitta 		PE2. 
+<BR><A HREF="^narr051.htm">[51-10]</A>
+<LI>ocinta 		PE2. 
+<BR><A HREF="^narr063.htm">[63-8]</A>
+<LI>o��iya 		PE2. 
+<BR><A HREF="^narr286.htm">[286-7]</A>
+<LI>o�ukkiya 	PE2. 
+<BR><A HREF="^narr332.htm">[332-6]</A>
+<LI>or�iya 		PE2. 
+<BR><A HREF="^narr126.htm">[126-1]</A> 
+<BR><A HREF="^narr387.htm">[387-3]</A>
+<LI>o�itta 		PE2. 
+<BR><A HREF="^narr138.htm">[138-3]</A> 
+<BR><A HREF="^narr180.htm">[180-7]</A> 
+<BR><A HREF="^narr354.htm">[354-2]</A>
+<LI>o�inta 		PE2. 
+<BR><A HREF="^narr043.htm">[43-4]</A> 
+<BR><A HREF="^narr106.htm">[106-4]</A> 
+<BR><A HREF="^narr263.htm">[263-6]</A> 
+<BR><A HREF="^narr280.htm">[280-1]</A> 
+<BR><A HREF="^narr392.htm">[392-3]</A>
+<LI>o�ukiya 	PE2. 
+<BR><A HREF="^narr269.htm">[269-4]</A>
+<LI>o�itta 		PE2. 
+<BR><A HREF="^narr048.htm">[48-9]</A>
+<LI>��kiya 	PE2. 
+<BR><A HREF="^narr123.htm">[123-4]</A> 
+<BR><A HREF="^narr175.htm">[175-5]</A> 
+<BR><A HREF="^narr222.htm">[222-7]</A> 
+<BR><A HREF="^narr259.htm">[259-2]</A> 
+<BR><A HREF="^narr327.htm">[327-8]</A> 
+<BR><A HREF="^narr338.htm">[338-8]</A> 
+<BR><A HREF="^narr384.htm">[384-2]</A>
+<LI>���iya 		PE2. 
+<BR><A HREF="^narr270.htm">[270-9]</A>
+<LI>kacinta 	PE2. 
+<BR><A HREF="^narr168.htm">[168-3]</A>
+<LI>ka�aliya 	PE2. 
+<BR><A HREF="^narr339.htm">[339-10]</A> 
+<BR><A HREF="^narr348.htm">[348-5]</A>
+<LI>ka��iya 	PE2. 
+<BR><A HREF="^narr109.htm">[109-8]</A> 
+<BR><A HREF="^narr200.htm">[200-1]</A>
+<LI>ka�anta 	PE2. 
+<BR><A HREF="^narr039.htm">[39-9]</A> 
+<BR><A HREF="^narr150.htm">[150-3]</A> 
+<BR><A HREF="^narr190.htm">[190-2]</A>
+<LI>ka�ukiya 	PE2. 
+<BR><A HREF="^narr085.htm">[85-6]</A>
+<LI>ka�aiiya 	PE2. 
+<BR><A HREF="^narr150.htm">[150-7]</A>
+<LI>ka�aiya	PE2. 
+<BR><A HREF="^narr186.htm">[186-6]</A> 
+<LI>ka��a 		PE2. 
+<BR><A HREF="^narr108.htm">[108-3]</A> 
+<BR><A HREF="^narr305.htm">[305-4]</A>
+<LI>katitta 	PE2. 
+<BR><A HREF="^narr329.htm">[329-4]</A>
+<LI>karanta 	PE2. 
+<BR><A HREF="^narr076.htm">[76-1]</A> 
+<BR><A HREF="^narr261.htm">[261-3]</A>
+<LI>karinta 	PE2. 
+<BR><A HREF="^narr292.htm">[292-5]</A>
+<LI>kalanta 	PE2. 
+<BR><A HREF="^narr110.htm">[110-1]</A>
+<LI>kala�kiya 	PE2. 
+<BR><A HREF="^narr043.htm">[43-10]</A> 
+<BR><A HREF="^narr094.htm">[94-1]</A>
+<LI>kalitta 	PE2. 
+<BR><A HREF="^narr108.htm">[108-1]</A> 
+<BR><A HREF="^narr138.htm">[138-6]</A> 
+<BR><A HREF="^narr169.htm">[169-5]</A> 
+<BR><A HREF="^narr188.htm">[188-1]</A> 
+<BR><A HREF="^narr223.htm">[223-7]</A> 
+<BR><A HREF="^narr230.htm">[230-5]</A> 
+<BR><A HREF="^narr301.htm">[301-1]</A> 
+<BR><A HREF="^narr383.htm">[383-1]</A>
+<LI>kali�nta	PE2. 
+<BR><A HREF="^narr239.htm">[239-11]</A>
+<LI>kalu�nta 	PE2. 
+<BR><A HREF="^narr239.htm">[239-11v]</A> 
+<BR><A HREF="^narr315.htm">[315-11]</A>
+<LI>kaliiya 	PE2. 
+<BR><A HREF="^narr339.htm">[339-7]</A> 
+<BR><A HREF="^narr357.htm">[357-9]</A> 
+<BR><A HREF="^narr398.htm">[398-3]</A>
+<LI>kavarnta 	PE2. 
+<BR><A HREF="^narr258.htm">[258-8]</A>
+<LI>kava��a 	PE2. 
+<BR><A HREF="^narr144.htm">[144-4]</A> 
+<BR><A HREF="^narr216.htm">[216-8]</A>
+<LI>kaviiya 	PE2. 
+<BR><A HREF="^narr042.htm">[42-11]</A>
+<LI>ka�inta 	PE2. 
+<BR><A HREF="^narr126.htm">[126-9]</A> 
+<BR><A HREF="^narr198.htm">[198-3]</A> 
+<BR><A HREF="^narr271.htm">[271-7]</A> 
+<BR><A HREF="^narr279.htm">[279-11]</A>
+<LI>ka�itta 	PE2. 
+<BR><A HREF="^narr170.htm">[170-7]</A>
+<LI>ka�ippiya 	PE2. 
+<BR><A HREF="^narr089.htm">[89-4]</A>
+<LI>ka��iya 	PE2. 
+<BR><A HREF="^narr018.htm">[18-8]</A>
+<LI>ka�itta 	PE2. 
+<BR><A HREF="^narr121.htm">[121-3]</A>
+<LI>ki�aitta 	PE2. 
+<BR><A HREF="^narr389.htm">[389-9]</A>
+<LI>kuru�iya	PE2. 
+<BR><A HREF="^narr096.htm">[96-6]</A>
+<LI>kuvitta 	PE2. 
+<BR><A HREF="^narr258.htm">[258-7]</A>
+<LI>ku�itta 	PE2. 
+<BR><A HREF="^narr240.htm">[240-7v]</A>
+<LI>ku�inta	PE2. 
+<BR><A HREF="^narr240.htm">[240-7]</A>
+<LI>ku�aitta 	PE2. 
+<BR><A HREF="^narr140.htm">[140-1]</A>
+<LI>ku�ainta 	PE2. 
+<BR><A HREF="^narr020.htm">[20-11]</A>
+<LI>ku�aitta	PE2. 
+<BR><A HREF="^narr051.htm">[51-8]</A>
+<LI>ku��a 		PE2. 
+<BR><A HREF="^narr123.htm">[123-5]</A> 
+<BR><A HREF="^narr283.htm">[283-1]</A> 
+<BR><A HREF="^narr317.htm">[317-9]</A>
+<LI>ku�itta 	PE2. 
+<BR><A HREF="^narr215.htm">[215-11]</A>
+<LI>ku�aitta 	PE2. 
+<BR><A HREF="^narr102.htm">[102-1]</A>
+<LI>k��iya		PE2. 
+<BR><A HREF="^narr247.htm">[247-8]</A>
+<LI>k�rnta	PE2. 
+<BR><A HREF="^narr040.htm">[40-8]</A>
+<LI>k�rnta 	PE2. 
+<BR><A HREF="^narr230.htm">[230-8]</A> 
+<BR><A HREF="^narr273.htm">[273-2]</A>
+<LI>k�iya 	PE2. 
+<BR><A HREF="^narr218.htm">[218-6]</A> 
+<BR><A HREF="^narr289.htm">[289-2]</A>
+<LI>ke�utta	PE2. 
+<BR><A HREF="^narr092.htm">[92-6]</A>
+<LI>ke��iya 	PE2. 
+<BR><A HREF="^narr399.htm">[399-4]</A>
+<LI>ke��iya 	PE2. 
+<BR><A HREF="^narr097.htm">[97-4]</A> 
+<BR><A HREF="^narr118.htm">[118-3]</A> 
+<BR><A HREF="^narr315.htm">[315-7]</A>
+<LI>ke�umiya 	PE2. 
+<BR><A HREF="^narr161.htm">[161-10]</A>
+<LI>k���a 		PE2. 
+<BR><A HREF="^narr143.htm">[143-8]</A> 
+<BR><A HREF="^narr298.htm">[298-3]</A>
+<LI>[kiya��a 	+ PE2. of a�u 
+<BR><A HREF="^narr272.htm">[272-8]</A>]
+<LI>ko�utta 	PE2. 
+<BR><A HREF="^narr110.htm">[110-11]</A> 
+<BR><A HREF="^narr136.htm">[136-3]</A>
+<LI>kotitta 	PE2. 
+<BR><A HREF="^narr354.htm">[354-8]</A>
+<LI>ko��a 		PE2. 
+<BR><A HREF="^narr005.htm">[5-3]</A> 
+<BR><A HREF="^narr121.htm">[121-1]</A> 
+<BR><A HREF="^narr247.htm">[247-2]</A> 
+<BR><A HREF="^narr294.htm">[294-6]</A> 
+<BR><A HREF="^narr320.htm">[320-5]</A>
+<LI>ko��iya 	PE2. 
+<BR><A HREF="^narr015.htm">[15-1]</A> 
+<BR><A HREF="^narr049.htm">[49-1]</A> 
+<BR><A HREF="^narr106.htm">[106-2]</A> 
+<BR><A HREF="^narr159.htm">[159-2v]</A>? 
+<BR><A HREF="^narr203.htm">[203-1v]</A>
+<LI>ko��a 	PE2. 
+<BR><A HREF="^narr022.htm">[22-2]</A> 
+<BR><A HREF="^narr035.htm">[35-4]</A> 
+<BR><A HREF="^narr048.htm">[48-5]</A> 
+<BR><A HREF="^narr082.htm">[82-10]</A> 
+<BR><A HREF="^narr089.htm">[89-3]</A> 
+<BR><A HREF="^narr090.htm">[90-4]</A> 
+<BR><A HREF="^narr110.htm">[110-10]</A> 
+<BR><A HREF="^narr120.htm">[120-12]</A> 
+<BR><A HREF="^narr142.htm">[142-2]</A> 
+<BR><A HREF="^narr151.htm">[151-3]</A> 
+<BR><A HREF="^narr194.htm">[194-9]</A> 
+<BR><A HREF="^narr241.htm">[241-10]</A> 
+<BR><A HREF="^narr249.htm">[249-5]</A> 
+<BR><A HREF="^narr314.htm">[314-5]</A> 
+<BR><A HREF="^narr315.htm">[315-9]</A> 
+<BR><A HREF="^narr318.htm">[318-5]</A> 
+<BR><A HREF="^narr323.htm">[323-5]</A> 
+<BR><A HREF="^narr337.htm">[337-7]</A> 
+<BR><A HREF="^narr368.htm">[368-6]</A> 
+<BR><A HREF="^narr374.htm">[374-4]</A> 
+<BR><A HREF="^narr394.htm">[394-8]</A>
+<LI>k�tta 		PE2. 
+<BR><A HREF="^narr058.htm">[58-2]</A>
+<LI>k���iya 	PE2. 
+<BR><A HREF="^narr209.htm">[209-1]</A> (G.I.: build a fence)
+<LI>c��iya 		PE2. 
+<BR><A HREF="^narr350.htm">[350-8]</A>
+<LI>cୟa 		PE2. 
+<BR><A HREF="^narr142.htm">[142-10]</A> 
+<BR><A HREF="^narr256.htm">[256-1]</A> 
+<BR><A HREF="^narr283.htm">[283-8]</A> 
+<BR><A HREF="^narr330.htm">[330-10]</A>
+<LI>cititta 	PE2. 
+<BR><A HREF="^narr250.htm">[250-4]</A>
+<LI>civanta 	PE2. 
+<BR><A HREF="^narr039.htm">[39-6]</A> 
+<BR><A HREF="^narr044.htm">[44-2]</A> 
+<BR><A HREF="^narr076.htm">[76-9]</A> 
+<BR><A HREF="^narr202.htm">[202-1]</A>
+<LI>ci�anta 	PE2. 
+<BR><A HREF="^narr017.htm">[17-8]</A> 
+<BR><A HREF="^narr082.htm">[82-1]</A> 
+<BR><A HREF="^narr126.htm">[126-8]</A> 
+<BR><A HREF="^narr182.htm">[182-4]</A> 
+<BR><A HREF="^narr208.htm">[208-8]</A> 
+<BR><A HREF="^narr227.htm">[227-1]</A> 
+<BR><A HREF="^narr339.htm">[339-5]</A> 
+<BR><A HREF="^narr400.htm">[400-8]</A>
+<LI>ci�aviya 	PE2. 
+<BR><A HREF="^narr100.htm">[100-6]</A>
+<LI>curu�kiya 	PE2. 
+<BR><A HREF="^narr207.htm">[207-8]</A>
+<LI>cuviya 	PE2. 
+<BR><A HREF="^narr066.htm">[66-1]</A>
+<LI>[cu�ippa��a 	+ PE2. of pa�u 
+<BR><A HREF="^narr065.htm">[65-7]</A>]
+<LI>cu��iya 	PE2. 
+<BR><A HREF="^narr101.htm">[101-2]</A>
+<LI>c�nta 	PE2. 
+<BR><A HREF="^narr141.htm">[141-10]</A> 
+<BR><A HREF="^narr390.htm">[390-3]</A>
+<LI>c�nta	PE2. 
+<BR><A HREF="^narr252.htm">[252-5]</A>
+<LI>cek�iya 	PE2. 
+<BR><A HREF="^narr029.htm">[29-4]</A>
+<LI>ceppiya 	PE2. 
+<BR><A HREF="^narr298.htm">[298-10]</A>
+<LI>ceyta 		PE2. 
+<BR><A HREF="^narr134.htm">[134-3]</A> 
+<BR><A HREF="^narr200.htm">[200-9]</A> 
+<BR><A HREF="^narr203.htm">[203-10]</A> 
+<BR><A HREF="^narr221.htm">[221-10]</A> *
+<BR><A HREF="^narr234.htm">[234-3]</A> 
+<BR><A HREF="^narr238.htm">[238-5]</A> 
+<BR><A HREF="^narr256.htm">[256-7]</A> 
+<BR><A HREF="^narr351.htm">[351-6]</A> 
+<BR><A HREF="^narr353.htm">[353-1]</A>
+<LI>cerukkiya 	PE2. 
+<BR><A HREF="^narr103.htm">[103-3]</A>
+<LI>ce��a 		PE2. 
+<BR><A HREF="^narr056.htm">[56-5]</A> 
+<BR><A HREF="^narr069.htm">[69-10]</A> 
+<BR><A HREF="^narr096.htm">[96-9]</A> 
+<BR><A HREF="^narr107.htm">[107-7]</A> 
+<BR><A HREF="^narr174.htm">[174-5]</A> 
+<BR><A HREF="^narr186.htm">[186-10]</A> 
+<BR><A HREF="^narr210.htm">[210-3]</A> 
+<BR><A HREF="^narr211.htm">[211-2]</A> 
+<BR><A HREF="^narr286.htm">[286-9]</A> 
+<BR><A HREF="^narr343.htm">[343-10]</A> 
+<BR><A HREF="^narr385.htm">[385-1]</A>
+<LI>ce��a 		PE2. 
+<BR><A HREF="^narr279.htm">[279-2]</A>
+<LI>ce�inta 	PE2. 
+<BR><A HREF="^narr112.htm">[112-9]</A> 
+<BR><A HREF="^narr148.htm">[148-7]</A> 
+<BR><A HREF="^narr158.htm">[158-5]</A>
+<LI>ce�itta 	PE2. 
+<BR><A HREF="^narr077.htm">[77-10]</A> 
+<BR><A HREF="^narr120.htm">[120-4]</A> 
+<BR><A HREF="^narr329.htm">[329-6]</A>
+<LI>c�rnta 	PE2. 
+<BR><A HREF="^narr026.htm">[26-2]</A> 
+<BR><A HREF="^narr266.htm">[266-1]</A> 
+<BR><A HREF="^narr303.htm">[303-3]</A> 
+<BR><A HREF="^narr377.htm">[377-8]</A>
+<LI>corinta 	PE2. 
+<BR><A HREF="^narr086.htm">[86-5]</A> 
+<BR><A HREF="^narr142.htm">[142-1]</A>
+<LI>colliya 	PE2. 
+<BR><A HREF="^narr364.htm">[364-1]</A>
+<LI>�ୟa 		PE2. 
+<BR><A HREF="^narr239.htm">[239-1]</A>
+<LI>�ୟu 		DEDR 2920: when, since (forming temporal cluses with a PE2.) 
+<BR><A HREF="^narr218.htm">[218-1]</A> 
+<BR><A HREF="^narr386.htm">[386-10]</A>
+<LI>�eki�nta 	PE2. 
+<BR><A HREF="^narr035.htm">[35-10]</A>
+<LI>�eki�tta 	PE2. 
+<BR><A HREF="^narr193.htm">[193-6]</A> 
+<BR><A HREF="^narr348.htm">[348-7]</A>
+<LI>�emirnta 	PE2. 
+<BR><A HREF="^narr020.htm">[20-9]</A> 
+<BR><A HREF="^narr141.htm">[141-3]</A>
+<LI>�emiriya 	PE2. of 5. class?! 
+<BR><A HREF="^narr143.htm">[143-2]</A>
+<LI>ta��e��a 	PE2. 
+<BR><A HREF="^narr146.htm">[146-5]</A>
+<LI>ta�inta 	PE2. 
+<BR><A HREF="^narr305.htm">[305-6]</A>
+<LI>tatinta 	PE2. 
+<BR><A HREF="^narr096.htm">[96-2]</A> 
+<BR><A HREF="^narr119.htm">[119-9]</A>
+<LI>taliiya 	PE2. 
+<BR><A HREF="^narr017.htm">[17-1]</A> 
+<BR><A HREF="^narr205.htm">[205-10]</A> 
+<BR><A HREF="^narr261.htm">[261-5]</A> 
+<BR><A HREF="^narr268.htm">[268-2]</A> 
+<BR><A HREF="^narr346.htm">[346-2]</A> 
+<BR><A HREF="^narr347.htm">[347-5]</A>
+<LI>talikko��a 	PE2. 
+<BR><A HREF="^narr030.htm">[30-5]</A> 
+<BR><A HREF="^narr293.htm">[293-4]</A> 
+<BR><A HREF="^narr328.htm">[328-9]</A>
+<LI>talima�anta PE2. 
+<BR><A HREF="^narr055.htm">[55-2]</A> 
+<BR><A HREF="^narr374.htm">[374-1]</A> 
+<BR><A HREF="^narr394.htm">[394-1]</A>
+<LI>tavirtta 	PE2. 
+<BR><A HREF="^narr285.htm">[285-4]</A>
+<LI>ta��iya 	PE2. 
+<BR><A HREF="^narr202.htm">[202-4]</A> 
+<BR><A HREF="^narr243.htm">[243-1]</A> 
+<BR><A HREF="^narr256.htm">[256-8]</A>
+<LI>ta��iya��u 	PE2. + a��u thus-it n.sg. 
+<BR><A HREF="^narr350.htm">[350-9v]</A>
+<LI>t�ya 		PE2. 
+<BR><A HREF="^narr008.htm">[8-7]</A> 
+<BR><A HREF="^narr028.htm">[28-6]</A> 
+<BR><A HREF="^narr199.htm">[199-8]</A> 
+<BR><A HREF="^narr343.htm">[343-1]</A>
+<LI>t�nta 		PE2. 
+<BR><A HREF="^narr010.htm">[10-2]</A>
+<LI>tira�kiya 	PE2. 
+<BR><A HREF="^narr022.htm">[22-10]</A>
+<LI>tiritta 		PE2. 
+<BR><A HREF="^narr074.htm">[74-1]</A>
+<LI>ti�anta 	PE2. 
+<BR><A HREF="^narr389.htm">[389-4]</A>
+<LI>ti��a 		PE2. 
+<BR><A HREF="^narr012.htm">[12-2]</A> 
+<BR><A HREF="^narr084.htm">[84-6]</A> 
+<BR><A HREF="^narr290.htm">[290-2]</A>
+<LI>t���iya 	PE2. 
+<BR><A HREF="^narr149.htm">[149-6]</A> 
+<LI>t�ynta�aiyar  PE2. + a�aiyar thus-they(h.) 
+<BR><A HREF="^narr315.htm">[315-12]</A>
+<LI>t�rnta 		PE2. 
+<BR><A HREF="^narr108.htm">[108-2]</A>
+<LI>tumiya 	PE2. 
+<BR><A HREF="^narr338.htm">[338-2]</A>
+<LI>tuva��iya 	PE2. 
+<BR><A HREF="^narr170.htm">[170-6]</A>
+<LI>tu�aiiya 	PE2. 
+<BR><A HREF="^narr127.htm">[127-1]</A> 
+<BR><A HREF="^narr352.htm">[352-7]</A>
+<LI>tu�anta 	PE2. 
+<BR><A HREF="^narr116.htm">[116-7]</A> 
+<BR><A HREF="^narr172.htm">[172-2]</A> 
+<BR><A HREF="^narr329.htm">[329-2]</A>
+<LI>[tu�antirunta + PE2. of iru 
+<BR><A HREF="^narr164.htm">[164-1]</A>]
+<LI>terinta 	PE2. 
+<BR><A HREF="^narr083.htm">[83-5]</A>
+<LI>te�itta 		PE2. 
+<BR><A HREF="^narr099.htm">[99-4]</A> 
+<BR><A HREF="^narr133.htm">[133-9]</A>
+<LI>te�inta 	PE2. 
+<BR><A HREF="^narr178.htm">[178-10]</A>
+<LI>t�ytta 		PE2. 
+<BR><A HREF="^narr260.htm">[260-6]</A>
+<LI>t��iya 		PE2. 
+<BR><A HREF="^narr010.htm">[10-9]</A>
+<LI>tiiya 		PE2. 
+<BR><A HREF="^narr062.htm">[62-6]</A> 
+<BR><A HREF="^narr169.htm">[169-8]</A>
+<LI>tokutta 	PE2. 
+<BR><A HREF="^narr211.htm">[211-6]</A> 
+<BR><A HREF="^narr215.htm">[215-5]</A> 
+<BR><A HREF="^narr237.htm">[237-8]</A>
+<LI>to��a 		PE2. 
+<BR><A HREF="^narr378.htm">[378-10]</A>
+<LI>to�utta 	PE2. 
+<BR><A HREF="^narr001.htm">[1-4]</A> 
+<BR><A HREF="^narr168.htm">[168-2]</A> 
+<BR><A HREF="^narr278.htm">[278-4]</A> 
+<BR><A HREF="^narr298.htm">[298-2]</A> 
+<BR><A HREF="^narr354.htm">[354-6]</A> 
+<BR><A HREF="^narr367.htm">[367-8]</A>
+<LI>tolicciya 	PE2. 
+<BR><A HREF="^narr205.htm">[205-3]</A>
+<LI>tolitta 	PE2. 
+<BR><A HREF="^narr137.htm">[137-7]</A> 
+<BR><A HREF="^narr353.htm">[353-9]</A>
+<LI>tolinta	PE2. 
+<BR><A HREF="^narr023.htm">[23-8]</A> 
+<BR><A HREF="^narr310.htm">[310-6]</A> 
+<BR><A HREF="^narr352.htm">[352-3]</A>
+<LI>t���iya 	PE2. 
+<BR><A HREF="^narr240.htm">[240-8]</A>
+<LI>t�ytta 		PE2. 
+<BR><A HREF="^narr090.htm">[90-3]</A>
+<LI>t���iya 	PE2. 
+<BR><A HREF="^narr130.htm">[130-3]</A> 
+<BR><A HREF="^narr249.htm">[249-9]</A>
+<LI>na�anta 	PE2. 
+<BR><A HREF="^narr095.htm">[95-2]</A>
+<LI>na��iya 	PE2. 
+<BR><A HREF="^narr045.htm">[45-1]</A> 
+<BR><A HREF="^narr238.htm">[238-4]</A> 
+<BR><A HREF="^narr354.htm">[354-4]</A> 
+<BR><A HREF="^narr379.htm">[379-2]</A>
+<LI>nayanta 	PE2. 
+<BR><A HREF="^narr065.htm">[65-6]</A> 
+<BR><A HREF="^narr066.htm">[66-6]</A> 
+<BR><A HREF="^narr375.htm">[375-4]</A>
+<LI>na�ainta 	PE2. 
+<BR><A HREF="^narr022.htm">[22-6]</A> 
+<BR><A HREF="^narr181.htm">[181-6]</A>
+<LI>n��iya 	PE2. 
+<BR><A HREF="^narr278.htm">[278-1]</A>
+<LI>nirappiya 	PE2. 
+<BR><A HREF="^narr121.htm">[121-2]</A>
+<LI>niritta 	PE2. 
+<BR><A HREF="^narr176.htm">[176-5]</A>
+<LI>ni��a 	PE2. 
+<BR><A HREF="^narr001.htm">[1-1]</A> 
+<BR><A HREF="^narr029.htm">[29-1]</A> 
+<BR><A HREF="^narr124.htm">[124-9]</A> 
+<BR><A HREF="^narr139.htm">[139-4]</A> 
+<BR><A HREF="^narr242.htm">[242-10]</A> 
+<BR><A HREF="^narr312.htm">[312-5]</A> 
+<BR><A HREF="^narr334.htm">[334-6]</A>
+<LI>niliiya 	PE2. 
+<BR><A HREF="^narr139.htm">[139-2]</A> 
+<BR><A HREF="^narr327.htm">[327-6]</A>
+<LI>nivanta 	PE2. 
+<BR><A HREF="^narr028.htm">[28-7]</A> 
+<BR><A HREF="^narr053.htm">[53-4]</A> 
+<BR><A HREF="^narr096.htm">[96-7]</A> 
+<BR><A HREF="^narr132.htm">[132-6]</A> 
+<BR><A HREF="^narr244.htm">[244-9]</A> 
+<BR><A HREF="^narr393.htm">[393-1]</A> 
+<BR><A HREF="^narr399.htm">[399-5]</A>
+<LI>ni�ainta 	PE2. 
+<BR><A HREF="^narr127.htm">[127-4]</A> 
+<BR><A HREF="^narr130.htm">[130-1]</A>
+<LI>ni�aiiya 	PE2. 
+<BR><A HREF="^narr044.htm">[44-4]</A>
+<LI>ni�ainta 	PE2. 
+<BR><A HREF="^narr087.htm">[87-9]</A> 
+<BR><A HREF="^narr128.htm">[128-10]</A> 
+<BR><A HREF="^narr296.htm">[296-7]</A>
+<LI>n��iya 	PE2. 
+<BR><A HREF="^narr043.htm">[43-2]</A> 
+<BR><A HREF="^narr044.htm">[44-9]</A> 
+<BR><A HREF="^narr062.htm">[62-3]</A> 
+<BR><A HREF="^narr141.htm">[141-4]</A> 
+<BR><A HREF="^narr156.htm">[156-7]</A> 
+<BR><A HREF="^narr198.htm">[198-2]</A> 
+<BR><A HREF="^narr257.htm">[257-3]</A> 
+<BR><A HREF="^narr261.htm">[261-9]</A> 
+<BR><A HREF="^narr294.htm">[294-4]</A> 
+<BR><A HREF="^narr302.htm">[302-8]</A>
+<LI>n�tta 	PE2. 
+<BR><A HREF="^narr182.htm">[182-8]</A>
+<LI>n�viya 	PE2. 
+<BR><A HREF="^narr344.htm">[344-6]</A>
+<LI>n���a 	PE2. 
+<BR><A HREF="^narr387.htm">[387-1]</A>
+<LI>nukarnta 	PE2. 
+<BR><A HREF="^narr139.htm">[139-8]</A>
+<LI>nu�a�kiya 	PE2. 
+<BR><A HREF="^narr157.htm">[157-4]</A>
+<LI>nu�ainta 	PE2. 
+<BR><A HREF="^narr058.htm">[58-11]</A>
+<LI>neki�nta 	PE2. 
+<BR><A HREF="^narr029.htm">[29-8]</A> 
+<BR><A HREF="^narr130.htm">[130-7]</A> 
+<BR><A HREF="^narr309.htm">[309-1]</A>
+<LI>neki�tta 	PE2. 
+<BR><A HREF="^narr214.htm">[214-10]</A> 
+<BR><A HREF="^narr340.htm">[340-10]</A>
+<LI>nerinta 	PE2. 
+<BR><A HREF="^narr295.htm">[295-1]</A>
+<LI>n�rnta 	PE2. 
+<BR><A HREF="^narr130.htm">[130-7]</A>
+<LI>n�kkiya 	PE2. 
+<BR><A HREF="^narr021.htm">[21-12]</A>
+<LI>pacanta 	PE2. 
+<BR><A HREF="^narr322.htm">[322-9]</A>
+<LI>pa��a 	PE2. 
+<BR><A HREF="^narr002.htm">[2-9]</A> 
+<BR><A HREF="^narr178.htm">[178-3]</A> 
+<BR><A HREF="^narr355.htm">[355-4]</A>
+<LI>pa�utta 	PE2. 
+<BR><A HREF="^narr154.htm">[154-4]</A> 
+<BR><A HREF="^narr261.htm">[261-6]</A> 
+<BR><A HREF="^narr285.htm">[285-6]</A> 
+<BR><A HREF="^narr302.htm">[302-5]</A> 
+<BR><A HREF="^narr377.htm">[377-6]</A>
+<LI>pa�aitta 	PE2. 
+<BR><A HREF="^narr337.htm">[337-1]</A>
+<LI>pa�aitta 	PE2. 
+<BR><A HREF="^narr165.htm">[165-2]</A>
+<LI>payanta 	PE2. 
+<BR><A HREF="^narr005.htm">[5-9]</A> 
+<BR><A HREF="^narr202.htm">[202-9]</A> 
+<BR><A HREF="^narr256.htm">[256-9]</A> 
+<BR><A HREF="^narr318.htm">[318-2]</A>
+<LI>payi��a	PE2. 
+<BR><A HREF="^narr321.htm">[321-9]</A>
+<LI>payi��iya 	PE2. 
+<BR><A HREF="^narr036.htm">[36-7]</A>
+<LI>paranta 	PE2. 
+<BR><A HREF="^narr033.htm">[33-2]</A> 
+<BR><A HREF="^narr033.htm">[33-12]</A> 
+<BR><A HREF="^narr075.htm">[75-8]</A> 
+<BR><A HREF="^narr155.htm">[155-10]</A> 
+<BR><A HREF="^narr238.htm">[238-8]</A> 
+<BR><A HREF="^narr288.htm">[288-5]</A> 
+<BR><A HREF="^narr362.htm">[362-4]</A>
+<LI>parukiya 	PE2. 
+<BR><A HREF="^narr158.htm">[158-7]</A>
+<LI>pa�akiya 	PE2. 
+<BR><A HREF="^narr083.htm">[83-2]</A> 
+<LI>pa�uniya 	PE2. 
+<BR><A HREF="^narr276.htm">[276-9]</A>
+<LI>pa��iya 	PE2. 
+<BR><A HREF="^narr284.htm">[284-9]</A>
+<LI>pa�itta 	PE2. 
+<BR><A HREF="^narr013.htm">[13-3]</A>
+<LI>pa��iya 	PE2. 
+<BR><A HREF="^narr136.htm">[136-4]</A> hapax?
+<LI>p�aya 	PE2. 
+<BR><A HREF="^narr167.htm">[167-11]</A>
+<LI>p�ya 	PE2. 
+<BR><A HREF="^narr219.htm">[219-2]</A> 
+<BR><A HREF="^narr282.htm">[282-3]</A>
+<LI>p�r���iya 	PE2. 
+<BR><A HREF="^narr307.htm">[307-4]</A>
+<LI>p�riya 	PE2. 
+<BR><A HREF="^narr218.htm">[218-6]</A>
+<LI>pi�itta 	PE2. 
+<BR><A HREF="^narr095.htm">[95-10]</A> 
+<BR><A HREF="^narr222.htm">[222-2]</A>
+<LI>pirinta 	PE2. 
+<BR><A HREF="^narr208.htm">[208-9]</A> 
+<BR><A HREF="^narr214.htm">[214-3]</A>
+<LI>pi�a�kiya 	PE2. 
+<BR><A HREF="^narr209.htm">[209-4]</A>
+<LI>pi�anta 	PE2. 
+<BR><A HREF="^narr040.htm">[40-12]</A>
+<LI>pukka 	PE2. 
+<BR><A HREF="^narr320.htm">[320-6]</A>
+<LI>pu�artta 	PE2. 
+<BR><A HREF="^narr192.htm">[192-9]</A> 
+<BR><A HREF="^narr267.htm">[267-6]</A>
+<LI>pu�arnta 	PE2. 
+<BR><A HREF="^narr096.htm">[96-3]</A> 
+<BR><A HREF="^narr151.htm">[151-7]</A> 
+<BR><A HREF="^narr219.htm">[219-10]</A> 
+<BR><A HREF="^narr317.htm">[317-1]</A>
+<LI>putitta 	PE2. 
+<BR><A HREF="^narr135.htm">[135-2]</A> 
+<BR><A HREF="^narr383.htm">[383-7]</A>
+<LI>purinta 	PE2. 
+<BR><A HREF="^narr059.htm">[59-7]</A> 
+<BR><A HREF="^narr148.htm">[148-4v]</A>
+<LI>puriiya 	PE2.? 
+<BR><A HREF="^narr317.htm">[317-10]</A>
+<LI>pulampiya 	PE2. 
+<BR><A HREF="^narr318.htm">[318-9]</A>
+<LI>pularnta	PE2. 
+<BR><A HREF="^narr148.htm">[148-4]</A>
+<LI>pu�ainta 	PE2. 
+<BR><A HREF="^narr260.htm">[260-8]</A>
+<LI>p�tta 	PE2. 
+<BR><A HREF="^narr091.htm">[91-2]</A> 
+<BR><A HREF="^narr160.htm">[160-8]</A> 
+<BR><A HREF="^narr302.htm">[302-1]</A> 
+<BR><A HREF="^narr302.htm">[302-3]</A> 
+<BR><A HREF="^narr379.htm">[379-12]</A>
+<LI>p���a 	PE2. 
+<BR><A HREF="^narr091.htm">[91-11]</A> 
+<BR><A HREF="^narr149.htm">[149-7]</A>
+<LI>peyta	PE2. 
+<BR><A HREF="^narr120.htm">[120-3]</A>
+<LI>peyta 	PE2. 
+<BR><A HREF="^narr066.htm">[66-1]</A>? 
+<BR><A HREF="^narr074.htm">[74-3]</A> 
+<BR><A HREF="^narr075.htm">[75-7]</A>
+<LI>peyarnta 	PE2. 
+<BR><A HREF="^narr044.htm">[44-4]</A> 
+<BR><A HREF="^narr259.htm">[259-9]</A>? 
+<BR><A HREF="^narr392.htm">[392-8]</A>
+<LI>pe��a 	PE2. 
+<BR><A HREF="^narr057.htm">[57-3]</A> 
+<BR><A HREF="^narr167.htm">[167-3]</A> 
+<BR><A HREF="^narr185.htm">[185-4]</A> 
+<BR><A HREF="^narr209.htm">[209-2]</A>
+<LI>pottiya 	PE2. 
+<BR><A HREF="^narr175.htm">[175-3]</A>
+<LI>potinta 	PE2. 
+<BR><A HREF="^narr239.htm">[239-7]</A>
+<LI>potu�iya 	PE2. 
+<BR><A HREF="^narr203.htm">[203-3]</A> 
+<BR><A HREF="^narr243.htm">[243-3]</A> 
+<BR><A HREF="^narr277.htm">[277-6]</A>
+<LI>poruta 	PE2. 
+<BR><A HREF="^narr011.htm">[11-6]</A> 
+<BR><A HREF="^narr035.htm">[35-1]</A> 
+<BR><A HREF="^narr065.htm">[65-5]</A> 
+<BR><A HREF="^narr077.htm">[77-9]</A> 
+<BR><A HREF="^narr141.htm">[141-8]</A> 
+<BR><A HREF="^narr145.htm">[145-1]</A> 
+<BR><A HREF="^narr154.htm">[154-8]</A> 
+<BR><A HREF="^narr185.htm">[185-5]</A> 
+<BR><A HREF="^narr225.htm">[225-2]</A> 
+<BR><A HREF="^narr235.htm">[235-1]</A> 
+<BR><A HREF="^narr255.htm">[255-4]</A> 	
+<BR><A HREF="^narr279.htm">[279-6]</A> 
+<BR><A HREF="^narr349.htm">[349-7]</A>
+<LI>polinta 	PE2. 
+<BR><A HREF="^narr075.htm">[75-2]</A> 
+<BR><A HREF="^narr121.htm">[121-8]</A> 
+<BR><A HREF="^narr135.htm">[135-8]</A> 
+<BR><A HREF="^narr160.htm">[160-7]</A> 
+<BR><A HREF="^narr198.htm">[198-7]</A> 
+<BR><A HREF="^narr270.htm">[270-8]</A> 
+<BR><A HREF="^narr284.htm">[284-2]</A> 
+<BR><A HREF="^narr307.htm">[307-3]</A>
+<LI>po�inta 	PE2. 
+<BR><A HREF="^narr005.htm">[5-5]</A> 
+<BR><A HREF="^narr042.htm">[42-3]</A> 
+<BR><A HREF="^narr061.htm">[61-7]</A> 
+<BR><A HREF="^narr139.htm">[139-10]</A> 
+<BR><A HREF="^narr157.htm">[157-2]</A> 
+<BR><A HREF="^narr247.htm">[247-3]</A> 
+<BR><A HREF="^narr264.htm">[264-2]</A> 
+<BR><A HREF="^narr274.htm">[274-2]</A> 
+<BR><A HREF="^narr361.htm">[361-4]</A>
+<LI>po�itta 	PE2. 
+<BR><A HREF="^narr041.htm">[41-9]</A> 
+<BR><A HREF="^narr114.htm">[114-7]</A> 
+<BR><A HREF="^narr120.htm">[120-7]</A> 
+<BR><A HREF="^narr144.htm">[144-9]</A> 
+<BR><A HREF="^narr241.htm">[241-2]</A>
+<LI>p�kiya 	PE2. 
+<BR><A HREF="^narr021.htm">[21-9]</A> 
+<BR><A HREF="^narr040.htm">[40-2]</A> 
+<BR><A HREF="^narr081.htm">[81-2]</A> 
+<BR><A HREF="^narr082.htm">[82-6]</A> 
+<BR><A HREF="^narr103.htm">[103-7]</A> 
+<BR><A HREF="^narr153.htm">[153-9]</A> 
+<BR><A HREF="^narr169.htm">[169-4]</A> 
+<BR><A HREF="^narr186.htm">[186-9]</A> 
+<BR><A HREF="^narr189.htm">[189-7]</A> 
+<BR><A HREF="^narr211.htm">[211-4]</A> 
+<BR><A HREF="^narr215.htm">[215-10]</A> 
+<BR><A HREF="^narr241.htm">[241-9]</A> 
+<BR><A HREF="^narr242.htm">[242-7]</A> 
+<BR><A HREF="^narr261.htm">[261-8]</A> 
+<BR><A HREF="^narr315.htm">[315-3]</A> 
+<BR><A HREF="^narr331.htm">[331-7]</A> 
+<BR><A HREF="^narr389.htm">[389-8]</A>
+<LI>maki�nta 	PE2. 
+<BR><A HREF="^narr239.htm">[239-2]</A>
+<LI>ma�inta 	PE2. 
+<BR><A HREF="^narr029.htm">[29-3]</A> 
+<BR><A HREF="^narr257.htm">[257-8]</A>
+<LI>ma�utta 	PE2. 
+<BR><A HREF="^narr055.htm">[55-10]</A>
+<LI>ma��iya 	PE2. 
+<BR><A HREF="^narr113.htm">[113-9]</A>
+<LI>[mayakku��a	+ PE2. of u�u 
+<BR><A HREF="^narr262.htm">[262-3]</A>]
+<LI>maya�kiya 	PE2. 
+<BR><A HREF="^narr255.htm">[255-9]</A> 
+<BR><A HREF="^narr274.htm">[274-5]</A> 
+<BR><A HREF="^narr275.htm">[275-3]</A>
+<LI>mar�iya 	PE2. 
+<BR><A HREF="^narr171.htm">[171-11]</A>
+<LI>malarnta 	PE2. 
+<BR><A HREF="^narr099.htm">[99-10v]</A> 
+<BR><A HREF="^narr112.htm">[112-2]</A> 
+<BR><A HREF="^narr115.htm">[115-1]</A> 
+<BR><A HREF="^narr294.htm">[294-9]</A> 
+<BR><A HREF="^narr379.htm">[379-8]</A> 
+<BR><A HREF="^narr384.htm">[384-6]</A>
+<LI>malinta 	PE2. 
+<BR><A HREF="^narr107.htm">[107-9]</A>
+<LI>ma�aitta 	PE2. 
+<BR><A HREF="^narr093.htm">[93-7]</A>
+<LI>m���iya 	PE2. 
+<BR><A HREF="^narr119.htm">[119-2]</A> 
+<BR><A HREF="^narr219.htm">[219-7]</A> 
+<BR><A HREF="^narr289.htm">[289-7]</A>
+<LI>m���a 	PE2. 
+<BR><A HREF="^narr238.htm">[238-9]</A>
+<LI>m��iya 	PE2. 
+<BR><A HREF="^narr076.htm">[76-2]</A> 
+<BR><A HREF="^narr210.htm">[210-1]</A> 
+<BR><A HREF="^narr291.htm">[291-1]</A>
+<LI>mikunta 	PE2.? 
+<BR><A HREF="^narr273.htm">[273-6v]</A>
+<LI>mikutta	PE2. 
+<BR><A HREF="^narr273.htm">[273-6]</A>
+<LI>mi�ainta 	PE2. 
+<BR><A HREF="^narr314.htm">[314-4]</A> 
+<BR><A HREF="^narr376.htm">[376-6]</A>
+<LI>mititta	PE2. 
+<BR><A HREF="^narr183.htm">[183-9]</A>
+<LI>mukanta 	PE2. 
+<BR><A HREF="^narr049.htm">[49-3]</A> 
+<BR><A HREF="^narr099.htm">[99-6]</A> 
+<BR><A HREF="^narr163.htm">[163-2]</A> 
+<BR><A HREF="^narr347.htm">[347-1]</A>
+<LI>mu�a�kiya 	PE2. 
+<BR><A HREF="^narr103.htm">[103-6]</A>
+<LI>mu�itta 	PE2. 
+<BR><A HREF="^narr102.htm">[102-3]</A> 
+<BR><A HREF="^narr366.htm">[366-6]</A>
+<LI>mu�aiiya 	PE2. 
+<BR><A HREF="^narr297.htm">[297-7]</A>
+<LI>muya��a 	PE2. 
+<BR><A HREF="^narr392.htm">[392-4]</A>
+<LI>mura�iya 	PE2. 
+<BR><A HREF="^narr389.htm">[389-6]</A>
+<LI>murinta 	PE2. 
+<BR><A HREF="^narr295.htm">[295-1]</A>
+<LI>mu��iya 	PE2. 
+<BR><A HREF="^narr253.htm">[253-6]</A>
+<LI>mu��iya	PE2. 
+<BR><A HREF="^narr207.htm">[207-11]</A>
+<LI>mu�inta 	PE2. 
+<BR><A HREF="^narr183.htm">[183-4]</A>
+<LI>m�kiya 	PE2. 
+<BR><A HREF="^narr163.htm">[163-9]</A> 
+<BR><A HREF="^narr236.htm">[236-9]</A>
+<LI>m�ynta	PE2.  
+<BR><A HREF="^narr260.htm">[260-1]</A> 
+<BR><A HREF="^narr265.htm">[265-1]</A> 
+<BR><A HREF="^narr356.htm">[356-1]</A> 
+<BR><A HREF="^narr359.htm">[359-1]</A> 
+<BR><A HREF="^narr391.htm">[391-3]</A>
+<LI>moytta 	PE2. 
+<BR><A HREF="^narr035.htm">[35-3]</A> 
+<BR><A HREF="^narr082.htm">[82-9]</A>
+<LI>y�tta 	PE2. 
+<BR><A HREF="^narr120.htm">[120-2]</A> 
+<BR><A HREF="^narr213.htm">[213-2]</A> 
+<BR><A HREF="^narr264.htm">[264-7]</A> 
+<BR><A HREF="^narr342.htm">[342-7]</A> 
+<BR><A HREF="^narr354.htm">[354-3]</A> 
+<BR><A HREF="^narr388.htm">[388-3]</A>
+<LI>vakutta 	PE2. 
+<BR><A HREF="^narr160.htm">[160-6]</A>
+<LI>vatinta 	PE2. 
+<BR><A HREF="^narr272.htm">[272-4]</A>
+<LI>varitta 	PE2. 
+<BR><A HREF="^narr027.htm">[27-3]</A> 
+<BR><A HREF="^narr159.htm">[159-6]</A> 
+<BR><A HREF="^narr342.htm">[342-8]</A>
+<LI>varinta 	PE2. 
+<BR><A HREF="^narr232.htm">[232-8v]</A>
+<LI>vanta 	PE2. 
+<BR><A HREF="^narr003.htm">[3-6]</A> 
+<BR><A HREF="^narr015.htm">[15-9]</A> 
+<BR><A HREF="^narr031.htm">[31-8]</A> 
+<BR><A HREF="^narr034.htm">[34-6]</A> 
+<BR><A HREF="^narr041.htm">[41-6]</A> 
+<BR><A HREF="^narr058.htm">[58-8]</A> 
+<BR><A HREF="^narr117.htm">[117-7]</A> 
+<BR><A HREF="^narr167.htm">[167-5]</A> 
+<BR><A HREF="^narr181.htm">[181-9]</A> 
+<BR><A HREF="^narr287.htm">[287-7]</A> 
+<BR><A HREF="^narr295.htm">[295-5]</A> 
+<BR><A HREF="^narr343.htm">[343-7]</A> 
+<BR><A HREF="^narr386.htm">[386-10]</A> 
+<BR><A HREF="^narr393.htm">[393-9]</A>
+<LI>varuntiya 	PE2. 
+<BR><A HREF="^narr021.htm">[21-1]</A> 
+<BR><A HREF="^narr041.htm">[41-3]</A> 
+<BR><A HREF="^narr042.htm">[42-2]</A> 
+<BR><A HREF="^narr064.htm">[64-12]</A> 
+<BR><A HREF="^narr093.htm">[93-9]</A> (
+<BR><A HREF="^narr234.htm">[234-1]</A>) 
+<BR><A HREF="^narr253.htm">[253-3]</A> 
+<BR><A HREF="^narr284.htm">[284-11]</A> 
+<BR><A HREF="^narr352.htm">[352-9]</A>
+<LI>valanta 	PE2. 
+<BR><A HREF="^narr105.htm">[105-1]</A> 
+<BR><A HREF="^narr292.htm">[292-1]</A>
+<LI>valitta 	PE2. 
+<BR><A HREF="^narr025.htm">[25-11]</A> 
+<BR><A HREF="^narr293.htm">[293-8]</A>
+<LI>vavviya 	PE2. 
+<BR><A HREF="^narr245.htm">[245-7v]</A>
+<LI>va�ippa��a 	PE2. 
+<BR><A HREF="^narr107.htm">[107-7]</A>
+<LI>va��iya 	PE2. 
+<BR><A HREF="^narr332.htm">[332-4]</A>
+<LI>[va�arnti��a	+ PE2. of i�u 
+<BR><A HREF="^narr344.htm">[344-1]</A>]
+<LI>va�anta	PE2. 
+<BR><A HREF="^narr099.htm">[99-1]</A>
+<LI>[va�appu��a 	+ PE2. of u�u 
+<BR><A HREF="^narr082.htm">[82-2]</A> 
+<BR><A HREF="^narr313.htm">[313-3]</A>]
+<LI>v��kiya 	PE2. 
+<BR><A HREF="^narr307.htm">[307-6]</A> 
+<BR><A HREF="^narr317.htm">[317-3]</A> 
+<BR><A HREF="^narr326.htm">[326-2]</A>
+<LI>v���iya 	PE2. 
+<BR><A HREF="^narr260.htm">[260-9]</A>
+<LI>v��iya 	PE2. 
+<BR><A HREF="^narr037.htm">[37-1]</A> 
+<BR><A HREF="^narr130.htm">[130-8]</A> 
+<BR><A HREF="^narr305.htm">[305-1]</A> 
+<BR><A HREF="^narr309.htm">[309-1]</A> 
+<BR><A HREF="^narr350.htm">[350-8]</A>
+<LI>v�ytta 	PE2. 
+<BR><A HREF="^narr153.htm">[153-4]</A> 
+<BR><A HREF="^narr227.htm">[227-3]</A>
+<LI>v�rnta 	PE2. 
+<BR><A HREF="^narr170.htm">[170-2]</A>
+<LI>vi�utta 	PE2. 
+<BR><A HREF="^narr204.htm">[204-12]</A>
+<LI>vittiya 	PE2. 
+<BR><A HREF="^narr306.htm">[306-1]</A>
+<LI>virinta 	PE2. 
+<BR><A HREF="^narr040.htm">[40-5]</A> 
+<BR><A HREF="^narr086.htm">[86-2]</A> 
+<BR><A HREF="^narr168.htm">[168-1]</A> 
+<BR><A HREF="^narr228.htm">[228-3]</A>
+<LI>vila�kiya 	PE2. 
+<BR><A HREF="^narr104.htm">[104-11]</A> 
+<BR><A HREF="^narr224.htm">[224-10]</A> 
+<BR><A HREF="^narr387.htm">[387-4]</A>
+<LI>vi�unta 	PE2. 
+<BR><A HREF="^narr244.htm">[244-1]</A>
+<LI>vi��a 	PE2. 
+<BR><A HREF="^narr238.htm">[238-3]</A>
+<LI>vi�a�kiya 	PE2. 
+<BR><A HREF="^narr000.htm">[0-7]</A> 
+<BR><A HREF="^narr231.htm">[231-1]</A> 
+<BR><A HREF="^narr283.htm">[283-7]</A>
+<LI>vi�ainta 	PE2. 
+<BR><A HREF="^narr046.htm">[46-6]</A>'' 
+<BR><A HREF="^narr183.htm">[183-1]</A>
+<LI>vi�aiy��iya 	PE2. 
+<BR><A HREF="^narr039.htm">[39-5]</A>
+<LI>v�nta 	PE2. 
+<BR><A HREF="^narr238.htm">[238-1]</A>
+<LI>v�nta 	PE2. 
+<BR><A HREF="^narr002.htm">[2-1]</A> 
+<BR><A HREF="^narr024.htm">[24-1]</A> 
+<BR><A HREF="^narr174.htm">[174-9]</A> 
+<BR><A HREF="^narr197.htm">[197-6]</A>
+<LI>[v㟟irunta 	+ PE2. of iru TL: to sit in unique disctinction 
+<BR><A HREF="^narr084.htm">[84-9]</A>]
+<LI>[veytu��a 	+ PE2. of u�u 
+<BR><A HREF="^narr240.htm">[240-6]</A>]
+<LI>vempiya 	PE2. 
+<BR><A HREF="^narr186.htm">[186-4]</A>
+<LI>ve��iya	PE2. p.s. 
+<BR><A HREF="^narr271.htm">[271-9v]</A>
+<LI>v���a 	PE2. 
+<BR><A HREF="^narr034.htm">[34-9]</A>
+<LI>ve��a	PE2. 
+<BR><A HREF="^narr014.htm">[14-5]</A>
+<LI>v���a 	PE2. 
+<BR><A HREF="^narr092.htm">[92-5]</A> 
+<BR><A HREF="^narr372.htm">[372-6]</A>
+<LI>v�ynta 	PE2. 
+<BR><A HREF="^narr052.htm">[52-2]</A> 
+<BR><A HREF="^narr207.htm">[207-2]</A>
+<LI>vikiya 	PE2. 
+<BR><A HREF="^narr011.htm">[11-1]</A> 
+<BR><A HREF="^narr020.htm">[20-10]</A>
+<LI>vitta 	PE2. 
+<BR><A HREF="^narr142.htm">[142-6]</A>
+<LI>vippiya	PE2. 
+<BR><A HREF="^narr012.htm">[12-6v]</A>
+<LI>vuviya 	PE2. 
+<BR><A HREF="^narr100.htm">[100-5]</A>
+</OL>
+
+</BODY>
+</HTML>

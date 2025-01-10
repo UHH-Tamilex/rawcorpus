@@ -1,0 +1,72 @@
+convers fr_tp.pdy conv4
+delz fr_tp.cnv
+copy fr_tp.cnv fr_tp.bar
+convers fr_tp.bar conv6
+delz fr_tp.cnv
+copy fr_tp.cnv f_tp.utf
+puse
+xtr /P59 f_tp.utf
+copy f_tp.xxx \az\f_tp059.htm
+puse
+xtr /P60 f_tp.utf
+copy f_tp.xxx \az\f_tp060.htm
+xtr /P61 f_tp.utf
+copy f_tp.xxx \az\f_tp061.htm
+xtr /P62 f_tp.utf
+copy f_tp.xxx \az\f_tp062.htm
+xtr /P63 f_tp.utf
+copy f_tp.xxx \az\f_tp063.htm
+xtr /P64 f_tp.utf
+copy f_tp.xxx \az\f_tp064.htm
+xtr /P65 f_tp.utf
+copy f_tp.xxx \az\f_tp065.htm
+xtr /P66 f_tp.utf
+copy f_tp.xxx \az\f_tp066.htm
+xtr /P67 f_tp.utf
+copy f_tp.xxx \az\f_tp067.htm
+xtr /P68 f_tp.utf
+copy f_tp.xxx \az\f_tp068.htm
+xtr /P69 f_tp.utf
+copy f_tp.xxx \az\f_tp069.htm
+xtr /P70 f_tp.utf
+copy f_tp.xxx \az\f_tp070.htm
+xtr /P71 f_tp.utf
+copy f_tp.xxx \az\f_tp071.htm
+xtr /P72 f_tp.utf
+copy f_tp.xxx \az\f_tp072.htm
+xtr /P73 f_tp.utf
+copy f_tp.xxx \az\f_tp073.htm
+xtr /P74 f_tp.utf
+copy f_tp.xxx \az\f_tp074.htm
+xtr /P75 f_tp.utf
+copy f_tp.xxx \az\f_tp075.htm
+xtr /P76 f_tp.utf
+copy f_tp.xxx \az\f_tp076.htm
+xtr /P77 f_tp.utf
+copy f_tp.xxx \az\f_tp077.htm
+xtr /P78 f_tp.utf
+copy f_tp.xxx \az\f_tp078.htm
+xtr /P79 f_tp.utf
+copy f_tp.xxx \az\f_tp079.htm
+xtr /P80 f_tp.utf
+copy f_tp.xxx \az\f_tp080.htm
+xtr /P81 f_tp.utf
+copy f_tp.xxx \az\f_tp081.htm
+xtr /P82 f_tp.utf
+copy f_tp.xxx \az\f_tp082.htm
+xtr /P83 f_tp.utf
+copy f_tp.xxx \az\f_tp083.htm
+xtr /P84 f_tp.utf
+copy f_tp.xxx \az\f_tp084.htm
+xtr /P85 f_tp.utf
+copy f_tp.xxx \az\f_tp085.htm
+xtr /P86 f_tp.utf
+copy f_tp.xxx \az\f_tp086.htm
+xtr /P87 f_tp.utf
+copy f_tp.xxx \az\f_tp087.htm
+xtr /P88 f_tp.utf
+copy f_tp.xxx \az\f_tp088.htm
+xtr /P89 f_tp.utf
+copy f_tp.xxx \az\f_tp089.htm
+
+del f_tp.xxx

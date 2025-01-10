@@ -1,0 +1,1659 @@
+<|H|T|M|L>
+<|H|E|A|D>
+<|T|I|T|L|E>|V|a|r|i|o|u|s |L|i|s|t |o|f |V|e|r|b |f|o|r|m|s |i|n |A|N|_|n|e|y|t|a|l</|T|I|T|L|E>
+</|H|E|A|D>
+
+<|B|O|D|Y>
+{{/T}}
+
+<|H3>|H|O|W |T|H|I|S |F|I|L|E |W|A|S |M|A|D|E</|H3>
+
+<|U|L>
+<|l|i>|O|p|e|n |E|v|a'|s |f|i|l|e |A|k|a|m|i|n|d|e|x.|d|o|c (|d|a|t|e|d 6 |a|p|r|i|l 2004)
+<|l|i>|S|e|l|e|c|t |e|v|e|r|y|t|h|i|n|g
+<|l|i>|S|t|a|r|t "|B|l|o|c|N|o|t|e" (|N|o|t|e|P|a|d)
+<|l|i>|P|a|s|t|e, |a|n|d |s|a|v|e |i|n |U|T|F8 |t|e|x|t |f|o|r|m|a|t (|N|e|E|v|a|L|s|t.|u|t|f)
+<|l|i>|a|p|p|l|y |U|T|F|_2|p|d|y.|b|a|t |a|n|d |o|b|t|a|i|n |a |n|e|w |f|i|l|e  (|N|e|E|v|a|L|s|t.|p|d|y)
+<|l|i>|r|u|n |t|h|e |d|o|s |c|o|m|m|a|n|d: |[|f|i|n|d "|v.|r." |N|e|E|v|a|L|s|t.|p|d|y &|g|t; |n|e|_|v|r.|p|d|y
+<|l|i>"|s|l|i|g|h|t|l|y" |e|d|i|t |t|h|e |r|e|s|u|l|t |a|n|d |m|a|k|e |i|t |i|n|t|o |a|n |h|y|p|e|r|l|i|n|k|e|d |f|i|l|e
+<|B|R>(|f|o|r |i|n|s|t|a|n|c|e |m|a|k|e |a |s|e|a|r|c|h |a|n|d |r|e|p|l|a|c|e |o|f *.|[0-9|]* |b|y |^|J&|l|t;|B|R&|g|t;|@*.?*, |e|t|c.
+<|l|i>|i|n|t|e|r|p|r|e|t|e |t|h|e |s|t|a|t|i|s|t|i|c|s .......... (|t|h|e|r|e |s|e|e|m|s |t|o |b|e 215 |v.|r. = |v|e|r|b|a|l |r|o|o|t|s)
+<|l|i>|D|o |t|h|e |s|a|m|e |w|i|t|h |o|t|h|e|r |c|a|t|e|g|o|r|i|e|s
+</|U|L>
+
+<|H|R>
+<|H3>|S|T|A|T|I|S|T|I|C|S</|H3>
+
+<|U|L>
+<|l|i>|A|n|t|h|o|l|o|g|y |n|a|m|e: |A|k|a|n|�|�|�|�|u (|N|e|y|t|a|l |s|u|b|s|e|t) (=|A|N, |n|e|y|t|a|l; =|N|E)
+<|l|i>|A|n|t|h|o|l|o|g|y |l|e|n|g|t|h: 658 |l|i|n|e|s
+<|l|i>|N|u|m|b|e|r |o|f "|v.|r.": 215 |o|c|c. (|o|f 116 |d|i|s|t|i|n|c|t |e|l|e|m|e|n|t|s)
+<|l|i>|D|e|n|s|i|t|y |o|f "|v.|r.": 215/658 = 33%
+<|l|i>|N|u|m|b|e|r |o|f "|c|e|y|y|u|m" |t|y|p|e |P|E (|p|e|y|a|r |e|c|c|a|m): 86 |o|c|c. (|o|f 70 |d|i|s|t|i|n|c|t |e|l|e|m|e|n|t|s)
+<|l|i>|D|e|n|s|i|t|y |o|f "|c|e|y|y|u|m" |t|y|p|e |P|E: 86/658 = 13.1 %
+<|l|i>|N|u|m|b|e|r |o|f "|c|e|y|t|a" |t|y|p|e |P|E (|p|e|y|a|r |e|c|c|a|m): 140 |o|c|c. (|o|f 100 |d|i|s|t|i|n|c|t |e|l|e|m|e|n|t|s)
+<|l|i>|D|e|n|s|i|t|y |o|f "|c|e|y|t|a" |t|y|p|e |P|E: 140/658 =  21.3 %
+</|U|L>
+
+
+<|H|R>
+<|H3>|L|i|s|t |o|f |L|i|s|t|s</|H3>
+<|U|L>
+<|l|i>|V|e|r|b|a|l |r|o|o|t|s: <|A |H|R|E|F="#|_|v|r">215 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 116)
+<|l|i>|P|e|y|a|r |E|c|c|a|m (|c|e|y|y|u|m |t|y|p|e) <|A |H|R|E|F="#|_|p|e1">86 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 70)
+<|l|i>|P|e|y|a|r |E|c|c|a|m (|c|e|y|t|a |t|y|p|e) <|A |H|R|E|F="#|_|p|e2">140 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 100)
+<|l|i>|N|e|g|a|t|i|v|e |P|e|y|a|r |E|c|c|a|m (|M|o|d|e|l: |c|e|y|y|�|t|u) <|A |H|R|E|F="#|_|P|E|n|e|g">20 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 19)
+<|l|i>|C|o|m|p|a|r|a|t|i|v|e |P|e|y|a|r |E|c|c|a|m (|M|o|d|e|l: |c|e|y|t|a|�|�|a) <|A |H|R|E|F="#|_|P|E|c|o|m|p">9 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 7)
+<|H|R>
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 1 (|c|e|y|t|u): 200 |w|o|r|d|s (|a|n|d |v|o|c|a|b|u|l|a|r|y = 129)
+<|u|l>
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 1|a: <|A |H|R|E|F="#|_|V|E1|a">88 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 59)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 1|b: <|A |H|R|E|F="#|_|V|E1|b">109 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 67)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 1|c: <|A |H|R|E|F="#|_|V|E1|c">2 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 2)
+</|u|l>
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 2 (|c|e|y|y|�/|c|e|y|y|�): <|A |H|R|E|F="#|_|V|E2">2 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 1)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 3 (|c|e|y|p|u): <|A |H|R|E|F="#|_|V|E3">8 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 7)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 4 (|c|e|y|t|e|�|a): <|A |H|R|E|F="#|_|V|E4">4 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 4)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 5 (|c|e|y|y|i|y|a|r): <|A |H|R|E|F="#|_|V|E5">1 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 1)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 6 (|c|e|y|y|i|y|a): <|A |H|R|E|F="#|_|V|E6">2 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 2)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 7 (|c|e|y|i|�): <|A |H|R|E|F="#|_|V|E7">15 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 13)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 8 (|c|e|y|a):183 |w|o|r|d|s (|a|n|d |v|o|c|a|b|u|l|a|r|y = 92)
+<|u|l>
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 8|a: <|A |H|R|E|F="#|_|V|E8|a">159 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 72)
+<|l|i>|V|i|�|a|i |E|c|c|a|m |t|y|p|e 8|b: <|A |H|R|E|F="#|_|V|E8|b">24 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 20)
+</|u|l>
+<|l|i>|N|e|g|a|t|i|v|e |V|i|�|a|i |E|c|c|a|m (|c|e|y|y|�|t|u): <|A |H|R|E|F="#|_|V|E|n|e|g">16 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 13)
+<|l|i>|C|o|m|p|a|r|a|t|i|v|e |V|i|�|a|i |E|c|c|a|m (|c|e|y|t|�|�|k|u): <|A |H|R|E|F="#|_|V|E|c|o|m|p">1 |w|o|r|d|s</|A> (|a|n|d |v|o|c|a|b. = 1)
+</|U|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|v|r">|L|I|S|T |o|f |v|e|r|b|a|l |r|o|o|t|s</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |a|k|a|l		|D|E|D2 8: 3. |t|o |l|e|a|v|e; |t|o |w|i|d|e|n - |v.|r. 
+<|B|R>|@370.3 
+<|B|R>|@380.4
+<|l|i> |a|c|a|i               |D|E|D2 37: 4. |t|o |m|o|v|e - |v.|r. 
+<|B|R>|@40.5 
+<|B|R>|@340.22
+<|l|i>|[|a|�|a|i-|k|a|r|a|i	|v.|r. 
+<|B|R>|@10.11 
+<|B|R>|@30.7 
+<|B|R>|@60.9 
+<|B|R>|@80.7 
+<|B|R>|@130.4 
+<|B|R>|@280.3|]
+<|l|i>|a|�|i		4. |t|o |a|d|o|r|n - |v.|r. 
+<|B|R>|@20.9 
+<|B|R>|@100.9 
+<|B|R>|@210.4 
+<|B|R>|@320.3 
+<|B|R>|@320.10
+<|l|i> |a|m|a|r		|D|E|D2: 161: 4. |t|o |a|b|i|d|e - |v.|r. 
+<|B|R>|@320.9|v
+<|l|i>|a|m|a|i		|D|E|D2 161: 4. |t|o |b|e|c|o|m|e |s|t|i|l|l - |v.|r. 
+<|B|R>|@400.5
+<|l|i> |a|y|a|r		|D|E|D2 39: 4. |t|o |i|m|m|e|r|s|e |o|n|e|s|e|l|f - |v.|r. 
+<|B|R>|@320.4
+<|l|i> |a|r|u|n|t|u	|D|E|D2 368: 5. |t|o |e|a|t - |v.|r. 
+<|B|R>|@120.2 
+<|B|R>|@360.16
+<|l|i>|a|r|a|i		|i|n|d. = |D|E|D2 228(|a): |a|r|a|i 11. |t|o |g|r|i|n|d - |v.|r. 
+<|B|R>|@100.1 ??
+<|l|i> |[|a|l|k|u|�|u	+ |v.|r. |o|f |u|�|u 
+<|B|R>|@40.5 
+<|B|R>|@290.5|]
+<|l|i> |a|v|i|�		|T|L (= |D|E|D2 12: |t|o |b|e|c|o|m|e |l|o|s|e?): 4. |t|o |o|p|e|n (|r|e|f|l./|t|r.) - |v.|r. 
+<|B|R>|@80.11 
+<|B|R>|@90.3
+<|l|i> |a|�|i		4. |t|o |p|e|r|i|s|h - |v.|r. 
+<|B|R>|@190.13 
+<|B|R>|@290.9
+<|l|i> |a|�|i		|D|E|D2 314: 4. |t|o |k|n|o|w - |v.|r. 
+<|B|R>|@20.12 
+<|B|R>|@140.9 
+<|B|R>|@320.14
+<|l|i> |�|�|u		|D|E|D2 347: 5. |t|o |d|a|n|c|e, |p|l|a|y - |v.|r. 
+<|B|R>|@100.9 
+<|B|R>|@260.4 
+<|B|R>|@370.15
+<|l|i> |�|y		|D|E|D2 363: 4. |t|o |s|e|l|e|c|t - |v.|r. 
+<|B|R>|@280.4 
+<|B|R>|@330.14
+<|l|i> |�|r		|D|E|D2 368: 4. |t|o |b|e|c|o|m|e |f|u|l|l - |v.|r. 
+<|B|R>|@40.3 
+<|B|R>|@150.14 
+<|B|R>|@180.6 
+<|B|R>|@300.4
+<|l|i> |i|k|u		|T|L (|n|o|t |D|E|D): 6. |t|o |b|r|e|a|k - |v.|r. 
+<|B|R>|@400.12
+<|l|i> |i|�|u		|D|E|D2 442: 6. |t|o |p|l|a|c|e - |v.|r. 
+<|B|R>|@20.7
+<|l|i> |i|m|i|r		|D|E|D2 466: 4. |t|o |s|o|u|n|d, |h|u|m - |v.|r. 
+<|B|R>|@170.2 
+<|B|R>|@250.3 
+<|B|R>|@280.13 
+<|B|R>|@340.18
+<|l|i> |i|l|a|�|k|u	|D|E|D2 829: 5. |t|o |s|h|i|n|e - |v.|r. 
+<|B|R>|@200.1 
+<|B|R>|@350.10
+<|l|i> |i|v|a|r		|D|E|D2 3730: 4. |t|o |c|l|i|m|b - |v.|r. 
+<|B|R>|@130.9
+<|l|i> |i|�|i		|D|E|D2 502: 4. |t|o |f|a|l|l --- |v.|r. 
+<|B|R>|@350.13 
+<|B|R>|@360.14
+<|l|i>|u|�|a|i		|D|E|D2 946: 4. |i|n|t|r. |t|o |b|r|e|a|k --- |v.|r. 
+<|B|R>|@10.9 
+<|B|R>|@200.8 
+<|B|R>|@310.16
+<|l|i> |u|�		|D|E|D2 600: 7. |t|o |e|a|t --- |v.|r. 
+<|B|R>|@380.4
+<|l|i> |u|m|i|�		|D|E|D2 636: 4. |t|o |s|h|o|o|t --- |v.|r. 
+<|B|R>|@210.3
+<|l|i> |u|y|a|r		4. |t|o |b|e |h|i|g|h --- |v.|r. 
+<|B|R>|@160.14 
+<|B|R>|@190.6 
+<|l|i>|u|�|�|u 		5. |t|o |r|e|m|e|m|b|e|r --- |v.|r. 
+<|B|R>|@220.10
+<|l|i> |u|�|u		|D|E|D2 710 (711?): 6. |t|o |h|a|v|e --- |v.|r. 
+<|B|R>|@40.5 
+<|B|R>|@170.13 
+<|B|R>|@210.2 
+<|B|R>|@230.1 
+<|B|R>|@290.5 
+<|l|i>|e|�|u		|D|E|D2 851(|a): 4. |t|o |r|i|s|e --- |v.|r. 
+<|B|R>|@150.3
+<|l|i>|[|e|�|u|t|a|r|u|m	+ |v.|r. |o|f |t|a|r|u 
+<|B|R>|@150.3|]
+<|l|i> |e|�|i		|D|E|D2 859: 4. |t|o |t|h|r|o|w --- |v.|r. 
+<|B|R>|@210.2 
+<|B|R>|@350.2 
+<|B|R>|@350.10
+<|l|i> |e|� 		|D|E|D2 668: 8. |t|o |s|a|y --- |v.|r. 
+<|B|R>|@110.13 
+<|B|R>|@170.12 
+<|B|R>|@190.15
+<|l|i> |�|n|t|u		|D|E|D2 870: 5. |t|o |b|e |e|m|i|n|e|n|t --- |v.|r. 
+<|B|R>|@230.13 
+<|B|R>|@350.8
+<|l|i> |�|m|u|�|u	|T|L: 6. |t|o |b|e |d|e|l|i|g|h|t|e|d, |t|o |b|e |c|o|n|f|u|s|e|d --- |v.|r. 
+<|B|R>|@210.2
+<|l|i> |�|r		|T|L (|n|o|t |D|E|D): 4. |t|o |r|e|s|e|m|b|l|e --- |v.|r. 
+<|B|R>|@180.14 
+<|B|R>|@290.15 
+<|B|R>|@290.16 
+<|B|R>|@320.6
+<|l|i> |o|�|u|�|k|u	5. |t|o |b|e |r|e|s|t|r|a|i|n|e|d --- |v.|r. 
+<|B|R>|@160.1
+<|l|i> |o|y		|D|E|D2 984: 4. |t|o |c|a|r|r|y --- |v.|r. 
+<|B|R>|@30.5 
+<|B|R>|@310.14
+<|l|i>|o|l|k|u		|D|E|D2 1004: 5. |t|o |b|e|c|o|m|e |w|e|a|k - |v.|r. 
+<|B|R>|@250.2 
+<|B|R>|@390.7
+<|l|i> |o|l|i		|D|E|D2 997: 4.? |t|o |s|p|r|o|u|t --- |v.|r. 
+<|B|R>|@350.12 
+<|l|i> |�|�|k|u		|D|E|D2 1033: 5. |t|o |b|e|c|o|m|e |h|i|g|h --- |v.|r. 
+<|B|R>|@20.5 
+<|B|R>|@200.9 
+<|B|R>|@320.1
+<|l|i>|k|a|�/|k|�|�	|D|E|D2 1159: 13. |t|o |s|e|e --- |v.|r. 
+<|B|R>|@150.12 
+<|B|R>|@220.7 
+<|B|R>|@250.4
+<|l|i> |k|a|t|a|�		|D|E|D2 1188: 4. |t|o |h|a|s|t|e|n - |v.|r. 
+<|B|R>|@140.5 
+<|B|R>|@180.4
+<|l|i> |k|a|m|a|�	|D|E|D2 1247: 4. |t|o |b|e |f|r|a|g|r|a|n|t --- |v.|r. 
+<|B|R>|@10.12 
+<|B|R>|@170.5 
+<|B|R>|@250.4 
+<|B|R>|@260.8
+<|l|i> |k|a|v|a|r		|D|E|D2 1326: 4. |t|o |s|e|i|z|e --- |v.|r. 
+<|B|R>|@130.10
+<|l|i> |k|u|v|i		|D|E|D2 1741: 4./11. |t|o |h|e|a|p --- |v.|r. 
+<|B|R>|@240.11
+<|l|i>|k|o|�|u		|D|E|D2 2053: 11. |t|o |g|i|v|e - |v.|r. 
+<|B|R>|@50.13
+<|l|i>|k|o|�		|D|E|D2 2151: 2. |t|o |t|a|k|e --- |v.|r. 
+<|B|R>|@250.5 
+<|B|R>|@300.3 
+<|B|R>|@370.14
+<|l|i> |k|o|y		|D|E|D2 2119: 1. |t|o |p|l|u|c|k --- |v.|r. 
+<|B|R>|@270.8
+<|l|i> |c|�|y		|D|E|D2 2456: 11. |t|o |b|e|n|d - |v.|r. 
+<|B|R>|@220.18
+<|l|i> |c|�|l		|D|E|D2 2470: 3. |t|o |b|e |w|o|r|t|h|y --- |v.|r. 
+<|B|R>|@280.5
+<|l|i> |c|u|r|i		|D|E|D2 2684: 4. |t|o |w|i|n|d --- |v.|r. 
+<|B|R>|@390.5
+<|l|i> |c|e|�|i		|D|E|D2 1980: 4. |t|o |b|e |t|i|g|h|t --- |v.|r. 
+<|B|R>|@40.15 
+<|B|R>|@300.7
+<|l|i> |c|�|r		|D|E|D2 2814: 4. |i|n|t|r. |t|o |j|o|i|n --- |v.|r. 
+<|B|R>|@50.11 
+<|B|R>|@290.9
+<|l|i> |t|a|t|a|r 		|D|E|D2 2322: 4. |t|o |b|e |s|q|u|a|s|h|e|d --- |v.|r. 
+<|B|R>|@390.3|v
+<|l|i> |t|a|t|a|i		|D|E|D2 3315: 4. |t|o |b|e |d|e|n|s|e|l|y |p|a|c|k|e|d --- |v.|r. 
+<|B|R>|@180.3
+<|l|i> |t|a|r|u/|t|�	|D|E|D2 3098: 13. |t|o |g|i|v|e --- |v.|r. 
+<|B|R>|@60.14
+<|l|i> |t|�|�|k|u		|D|E|D2 3153: 5. |t|o |e|n|d|u|r|e --- |v.|r. 
+<|B|R>|@400.10
+<|l|i> |t|i|r|a|�		|D|E|D2 3245: 2. |t|o |b|e|c|o|m|e |r|o|u|n|d --- |v.|r. 
+<|B|R>|@280.12
+<|l|i>|t|u|�|c|u		|D|E|D2 3291: 5. |t|o |s|l|e|e|p --- |v.|r. 
+<|B|R>|@360.12
+<|l|i>|t|u|y|a|l		|D|E|D2 3376(|b): 5. |t|o |s|w|i|n|g --- |v.|r. 
+<|B|R>|@370.11 
+<|B|R>|@400.20
+<|l|i> |t|e|�		|D|E|D2 3433: 9. |t|o |b|e|c|o|m|e |c|l|e|a|r --- |v.|r. 
+<|B|R>|@290.13 
+<|B|R>|@340.24
+<|l|i> |t|o|�|u		|D|E|D2 3525: 1. |t|o |w|o|r|s|h|i|p --- |v.|r. 
+<|B|R>|@310.3
+<|l|i>|[|t|o|�|u|t|a|k|u	+ |v.|r. |t|a|k|u 
+<|B|R>|@310.3|]
+<|l|i> |t|�|�|�|u		5. |t|o |a|p|p|e|a|r --- |v.|r. 
+<|B|R>|@310.12
+<|l|i> |n|a|�|u|�|k|u	5. |t|o |s|h|i|v|e|r --- |v.|r. 
+<|B|R>|@320.11
+<|l|i>|[|n|a|l|a|m|p|e|�|u	+ |v.|r. |p|e|�|u 
+<|B|R>|@280.2|]
+<|l|i> |n|�|�|u		5. |t|o |b|e |f|r|a|g|r|a|n|t --- |v.|r. 
+<|B|R>|@130.8 
+<|B|R>|@150.11 
+<|B|R>|@160.6 
+<|B|R>|@180.10
+<|l|i> |n|�|�|u		|D|E|D2 3692: 5. |t|o |p|r|o|l|o|n|g --- |v.|r. 
+<|B|R>|@150.5 
+<|B|R>|@400.26
+<|l|i> |n|u|�|a|�|k|u	5. |t|o |b|e|c|o|m|e |f|i|n|e --- |v.|r. 
+<|B|R>|@300.2
+<|l|i> |n|e|k|i|�		|D|E|D2 2923: 4. |t|o |b|e|c|o|m|e |l|o|o|s|e --- |v.|r. 
+<|B|R>|@260.14
+<|l|i> |n|�|r		|D|E|D2 3770?: 11. |t|o |r|e|s|e|m|b|l|e --- |v.|r. (
+<|B|R>|@180.14) (
+<|B|R>|@290.16)
+<|l|i> |n|�|�		8. |t|o |e|n|d|u|r|e --- |v.|r. 
+<|B|R>|@30.6 
+<|B|R>|@400.14
+<|l|i> |p|a|k|u		|D|E|D2 3808: 6. |t|o |b|e |s|p|l|i|t --- |v.|r. 
+<|B|R>|@160.7
+<|l|i> |p|a|�|u	|D|E|D2 3852/3853?: 6. |t|o |h|a|p|p|e|n --- |v.|r. 
+<|B|R>|@20.2 
+<|B|R>|@80.6 
+<|B|R>|@170.9 
+<|B|R>|@200.8 
+<|B|R>|@210.12 
+<|B|R>|@270.5 
+<|B|R>|@310.15 
+<|B|R>|@330.17 
+<|B|R>|@390.2
+<|l|i>|p|a|�|a|r		(|D|E|D2 3844?): 4. |t|o |s|e|t |o|u|t; |t|o |t|h|i|n|k |o|f --- |v.|r. 
+<|B|R>|@210.6
+<|l|i> |p|a|�|i		|D|E|D2 3888: 4. |t|o |b|e |h|u|m|b|l|e --- |v.|r. 
+<|B|R>|@220.2 
+<|B|R>|@310.4
+<|l|i> |p|a|y|i|l		|D|E|D2 3942: 3. |t|o |b|e|c|o|m|e |d|e|n|s|e --- |v.|r. 
+<|B|R>|@210.5
+<|l|i> |p|�|�|u		|D|E|D2 4065: 5. |t|o |s|i|n|g --- |v.|r. 
+<|B|R>|@30.2 
+<|B|R>|@40.2 
+<|B|R>|@50.1 
+<|B|R>|@260.4 
+<|B|R>|@350.5 
+<|B|R>|@400.25
+<|l|i> |p|�|y		|D|E|D2 4087: 4. |t|o |s|p|r|i|n|g - |D|E|D2 4088: 4. |t|o |s|p|r|e|a|d --- |v.|r. 
+<|B|R>|@160.18 
+<|B|R>|@240.10
+<|l|i> |p|�|�|u		|D|E|D2 4020: 5. |t|o |b|e |s|c|a|t|t|e|r|e|d - |v.|r. 
+<|B|R>|@300.7
+<|l|i> |p|u|�|a|r		|D|E|D2 4160(|b): 4. |i|n|t|r. |t|o |u|n|i|t|e --- |v.|r. 
+<|B|R>|@30.3 
+<|B|R>|@80.5 
+<|B|R>|@260.6
+<|l|i> |p|u|l|a|r		|D|E|D2 4305: 4. |t|o |d|a|w|n - |v.|r. 
+<|B|R>|@100.15
+<|l|i> |p|�|�|�|u		|D|E|D2 4361: 5. |t|o |f|a|s|t|e|n --- |v.|r. 
+<|B|R>|@300.6
+<|l|i> |p|e|y|a|r		|D|E|D2 4409: 4. |t|o |m|o|v|e --- |v.|r. 
+<|B|R>|@330.7
+<|l|i> |p|o|�|k|u	|D|E|D2 4469: 5. |t|o |f|o|a|m --- |v.|r. 
+<|B|R>|@190.9
+<|l|i> |p|o|t|i		|D|E|D2 4509: 4. |t|o |b|u|n|d|l|e --- |v.|r. 
+<|B|R>|@160.13
+<|l|i> |p|�|l		|D|E|D2 4597: 3. |t|o |b|e |s|i|m|i|l|a|r --- |v.|r. 
+<|B|R>|@150.8 
+<|B|R>|@170.4 
+<|B|R>|@230.2
+<|l|i> |m|a|�|i		|D|E|D2 4652: 4.? |t|o |d|r|o|o|p - |v.|r. 
+<|B|R>|@50.11 
+<|B|R>|@170.11
+<|l|i> |m|a|y|a|�|k|u	|D|E|D2 4706: 5. |t|o |b|e |c|o|n|f|u|s|e|d --- |v.|r. 
+<|B|R>|@250.1
+<|l|i> |m|a|r|�|u	= |m|a|r|u|v|u? |D|E|D2 4722: 5. |t|o |j|o|i|n |t|o|g|e|t|h|e|r - |v.|r. 
+<|B|R>|@280.7
+<|l|i> |m|a|l|k|u	|t|o |i|n|c|r|e|a|s|e --- |v.|r. 
+<|B|R>|@250.2
+<|l|i> |m|a|l|i		|D|E|D2 4729: 4. |t|o |b|e |m|u|c|h --- |v.|r. 
+<|B|R>|@200.1 
+<|B|R>|@300.17|v 
+<|B|R>|@400.20
+<|l|i> |m|i|�|a|i		|T|L (|D|E|D 3977?): 4. |t|o |b|e |s|e|t |c|l|o|s|e - |v.|r. 
+<|B|R>|@270.12
+<|l|i> |m|u|�|a|�|k|u	|D|E|D2 4919: 5. |t|o |b|e|n|d --- |v.|r. 
+<|B|R>|@220.17
+<|l|i> |m|u|t|i|r		|D|E|D2 4954: 4. |t|o |r|i|p|e|n --- |v.|r. 
+<|B|R>|@10.3
+<|l|i> |m|u|y|a|l	|D|E|D2 4067: 3. |t|o |m|a|k|e |a|n |e|f|f|o|r|t - |v.|r. 
+<|B|R>|@140.11
+<|l|i> |m|u|�|a|�|k|u	5. |t|o |t|h|u|n|d|e|r --- |v.|r. 
+<|B|R>|@70.14 
+<|B|R>|@220.12
+<|l|i> |m|e|l|k|u	5. |t|o |b|e|c|o|m|e |s|o|f|t - |v.|r. 
+<|B|R>|@290.5
+<|l|i> |m|�|y		|D|E|D2 5093: 4. |t|o |g|r|a|z|e --- |v.|r. 
+<|B|R>|@150.7 
+<|B|R>|@200.7
+<|l|i> |v|a|�|i		|D|E|D2 5223: 4. |t|o |t|r|i|c|k|l|e; |t|o |b|e |c|l|e|a|r - |v.|r. 
+<|B|R>|@350.7
+<|l|i> |v|a|�|a|r		|D|E|D2 5236: 4. |t|o |c|u|r|v|e --- |v.|r. 
+<|B|R>|@390.5
+<|l|i> |v|a|r|u		|D|E|D2 5270: 13. |t|o |c|o|m|e --- |v.|r. 
+<|B|R>|@190.3 
+<|B|R>|@360.6
+<|l|i> |v|a|�|a|�|k|u	|D|E|D2 5292: 5. |t|o |r|o|a|m --- |v.|r. 
+<|B|R>|@260.13
+<|l|i> |v|�|�|k|u	|D|E|D2 5335: 5. |t|o |b|e|n|d; |t|o |d|r|a|g --- |v.|r. 
+<|B|R>|@130.12 
+<|B|R>|@270.6 
+<|B|R>|@320.1 
+<|B|R>|@390.10
+<|l|i>|v|�|y		|D|E|D2 5350: 4. |t|o |b|e |f|i|t; |t|o |s|u|r|p|a|s|s - |v.|r. 
+<|B|R>|@370.1?
+<|l|i> |v|�|r		|D|E|D2 5356: 4. |t|o |o|v|e|r|f|l|o|w --- |v.|r. 
+<|B|R>|@300.6
+<|l|i> |v|�|�		|D|E|D2 5372: 4. |t|o |l|i|v|e --- |v.|r. 
+<|B|R>|@390.11
+<|l|i> |v|i|r|i		|D|E|D2 5411: 4. |t|o |e|x|p|a|n|d --- |v.|r. 
+<|B|R>|@100.12 
+<|B|R>|@280.11 
+<|B|R>|@310.12 
+<|l|i> |v|i|r|a|i		|D|E|D2 5417: 12. |h|u|r|r|y --- |v.|r. 
+<|B|R>|@190.14
+<|l|i> |v|i|�|a|�|k|u	|D|E|D2 5496(|a): 5. |t|o |s|h|i|n|e --- |v.|r. 
+<|B|R>|@80.11
+<|l|i> |v|i|�|a|i		|D|E|D2 5437: 4. |t|o |r|i|p|e|n --- |v.|r. 
+<|B|R>|@390.1
+<|l|i> |v|�|�|k|u		|D|E|D2 5448(|a): 5. |t|o |s|w|e|l|l --- |v.|r. 
+<|B|R>|@400.10
+<|l|i> |v|�|�		|D|E|D2 5430: 4. |t|o |d|e|s|c|e|n|d --- |v.|r. 
+<|B|R>|@20.6 
+<|B|R>|@380.6
+<|l|i> |[|v|e|r|u|v|a|r|u	+ |v.|r. |v|a|r|u 
+<|B|R>|@360.6|]
+<|l|i> |v|e|l		|D|E|D2 5493: 3. |t|o |o|v|e|r|c|o|m|e --- |v.|r. 
+<|B|R>|@70.15
+<|l|i>|v|�|y		|D|E|D2 5532: 4. |t|o |c|o|v|e|r - |v.|r. 
+<|B|R>|@200.2 
+<|B|R>|@230.14 
+<|B|R>|@240.14 
+<|B|R>|@390.13
+</|O|L>
+
+<|H|R>
+
+
+<|H3><|A |N|A|M|E="|_|p|e1">|L|I|S|T |o|f |p|e|y|a|r |e|c|c|a|m |f|o|r|m|s |o|f |c|e|y|y|u|m |t|y|p|e</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |a|k|a|v|u|m	|p|e|y. 
+<|B|R>|@120.15
+<|l|i> |a|c|�|a|m	|p|e|y. 
+<|B|R>|@170.9
+<|l|i> |a|y|a|r|u|m	|p|e|y. 
+<|B|R>|@240.9 
+<|l|i> |a|r|u|n|t|u|m	|p|e|y. 
+<|B|R>|@120.2|v 
+<|l|i> |a|l|a|m|a|r|u|m	|p|e|y. 
+<|B|R>|@270.11
+<|l|i> |�|k|u|m		|p|e|y. 
+<|B|R>|@160.7
+<|l|i>|�|m		|p|e|y. 
+<|B|R>|@400.13
+<|l|i> |�|�|u|m		|p|e|y. 
+<|B|R>|@90.2
+<|l|i> |�|r|k|k|u|m	|p|e|y. 
+<|B|R>|@40.5
+<|l|i> |i|�|�|u|m	|p|e|y. 
+<|B|R>|@380.6
+<|l|i>|i|y|a|l|u|m	|p|e|y. 
+<|B|R>|@390.9
+<|l|i> |i|r|a|�|k|u|m	|p|e|y. 
+<|B|R>|@70.14 
+<|B|R>|@400.25
+<|l|i>|[|i|�|i|t|a|r|u|m	+ |p|e|y. |o|f |t|a|r|u 
+<|B|R>|@350.13|]
+<|l|i>|[|u|�|a|i|t|a|r|u|m 	+ |p|e|y. |o|f |t|a|r|u 
+<|B|R>|@10.9 
+<|B|R>|@200.8 
+<|B|R>|@310.16|]
+<|l|i> |u|y|a|�|k|u|m 	|p|e|y. 
+<|B|R>|@60.11 
+<|B|R>|@270.14
+<|l|i> |u|y|i|r|k|k|u|m	|p|e|y. 
+<|B|R>|@140.5
+<|l|i> |u|�|a|r|u|m	|p|e|y. 
+<|B|R>|@320.9
+<|l|i> |u|�|a|i|k|k|u|m	|p|e|y. 
+<|B|R>|@80.12
+<|l|i> |u|�|a|i|y|u|m	|p|e|y. 
+<|B|R>|@260.12
+<|l|i> |e|�|�|u|m	|p|e|y. 
+<|B|R>|@190.3
+<|l|i> |e|�|�|u|m	|p|e|y. 
+<|B|R>|@210.13
+<|l|i> |o|l|i|k|k|u|m	|p|e|y. 
+<|B|R>|@160.16
+<|l|i> |�|m|p|u|m	|p|e|y. 
+<|B|R>|@160.8
+<|l|i> |�|r|u|m		|p|e|y. 
+<|B|R>|@310.6
+<|l|i> |k|a|�|u|k|k|u|m	|p|e|y. 
+<|B|R>|@140.11
+<|l|i> |k|a|m|a|�|u|m	|p|e|y. 
+<|B|R>|@70.2
+<|l|i> |k|a|r|a|k|k|u|m	|p|e|y. 
+<|B|R>|@50.13
+<|l|i> |k|a|�|a|v|u|m	|p|e|y. 
+<|B|R>|@170.12
+<|l|i>|k|i|�|a|r|u|m	|p|e|y. 
+<|B|R>|@170.7
+<|l|i> |k|u|�|a|�|u|m	|p|e|y. 
+<|B|R>|@260.13
+<|l|i> |k|�|u|m		|p|e|y. 
+<|B|R>|@310.13
+<|l|i> |k|�|�|�|u|m	|p|e|y. 
+<|B|R>|@70.12 
+<|l|i> |k|o|�|k|u|m	|p|e|y. 
+<|B|R>|@20.16 
+<|B|R>|@220.12 
+<|B|R>|@340.10
+<|l|i> |k|o|�|u|k|k|u|m	|p|e|y. 
+<|B|R>|@60.6 
+<|l|i>|k|o|�|�|u|m	|p|e|y. 
+<|B|R>|@60.12
+<|l|i> |c|i|t|a|i|k|k|u|m	|p|e|y. 
+<|B|R>|@90.2
+<|l|i> |c|e|�|i|k|k|u|m	|p|e|y. 
+<|B|R>|@220.17
+<|l|i> |c|�|k|k|u|m	|p|e|y. 
+<|B|R>|@40.16 
+<|B|R>|@360.17
+<|l|i> |t|a|t|u|m|p|u|m	|p|e|y. 
+<|B|R>|@40.13
+<|l|i> |t|a|p|u|k|k|u|m	|p|e|y. 
+<|B|R>|@130.10
+<|l|i>|t|a|r|u|m		|p|e|y. 
+<|B|R>|@10.9 
+<|B|R>|@200.8 
+<|B|R>|@310.16 
+<|B|R>|@350.13
+<|l|i> |t|a|�|a|r|u|m	|p|e|y. 
+<|B|R>|@170.7|v
+<|l|i> |t|�|a|m		|p|e|y. 
+<|B|R>|@360.18
+<|l|i> |t|u|�|c|u|m	|p|e|y. 
+<|B|R>|@30.11
+<|l|i>|[|t|u|y|a|l|v|a|r|u|m	+ |p|e|y. |o|f |v|a|r|u 
+<|B|R>|@400.20|]
+<|l|i> |t|�|�|k|u|m	|p|e|y. 
+<|B|R>|@340.23
+<|l|i> |t|e|�|i|y|u|m|�|�|u	|p|e|y. 
+<|B|R>|@220.22
+<|l|i> |t|�|y|u|m	|p|e|y. 
+<|B|R>|@270.6
+<|l|i> |t|�|�|�|u|m	|p|e|y. 
+<|B|R>|@100.10 
+<|B|R>|@310.10 
+<|l|i> |n|a|r|a|l|u|m	|p|e|y. 
+<|B|R>|@290.7
+<|l|i> |n|a|�|a|i|t|t|a	|p|e|y. |p|a. 
+<|B|R>|@150.9
+<|l|i> |n|u|�|a|�|k|u|m	|p|e|y. 
+<|B|R>|@110.18
+<|l|i> |n|u|v|a|l|u|m	|p|e|y. 
+<|B|R>|@390.9|v
+<|l|i> |p|a|k|a|r|u|m	|p|e|y. 
+<|B|R>|@320.4
+<|l|i> |p|a|k|u|k|k|u|m	|p|e|y. 
+<|B|R>|@10.12 
+<|B|R>|@70.4 
+<|B|R>|@280.13
+<|l|i> |p|a|�|a|r|u|m	|p|e|y. 
+<|B|R>|@390.2
+<|l|i>|[|p|a|�|a|r|t|a|r|u|m	+ |p|e|y. |o|f |t|a|r|u 
+<|B|R>|@210.6|]
+<|l|i> |p|a|r|u|v|a|r|u|m	|p|e|y. 
+<|B|R>|@150.13
+<|l|i> |p|a|�|i|k|k|u|m	|p|e|y. 
+<|B|R>|@220.10
+<|l|i> |p|�|k|u|m	|p|e|y. 
+<|B|R>|@140.4 
+<|B|R>|@390.3
+<|l|i> |p|�|k|k|u|m	|p|e|y. 
+<|B|R>|@30.5
+<|l|i> |m|a|l|a|r|u|m	|p|e|y. 
+<|B|R>|@150.11
+<|l|i> |m|a|�|a|k|k|u|m	|p|e|y. 
+<|B|R>|@200.6
+<|l|i> |m|�|n|t|u|m	|p|e|y. 
+<|B|R>|@100.17
+<|l|i> |m|i|l|a|i|y|u|m	|p|e|y. 
+<|B|R>|@270.3
+<|l|i> |v|a|r|i|k|k|u|m	|p|e|y. 
+<|B|R>|@70.9
+<|l|i> |v|a|r|u|n|t|u|m	|p|e|y. 
+<|B|R>|@90.7
+<|l|i> |v|a|�|a|�|k|u|m	|p|e|y. 
+<|B|R>|@80.1 
+<|B|R>|@150.7 
+<|B|R>|@170.11
+<|l|i> |v|�|m		|p|e|y. 
+<|B|R>|@400.13?
+<|l|i> |v|�|�|k|u|m	|p|e|y. 
+<|B|R>|@140.13
+</|O|L>
+
+<|H|R>
+
+
+<|H3><|A |N|A|M|E="|_|p|e2">|L|I|S|T |o|f |p|e|y|a|r |e|c|c|a|m |f|o|r|m|s |o|f |c|e|y|t|a |t|y|p|e</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |a|c|a|i|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@100.9
+<|l|i> |a|c|a|i|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@190.1
+<|l|i> |a|�|a|i|i|y|a           |p|e|y. |p.|a. 
+<|B|R>|@360.4
+<|l|i> |a|�|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@120.7
+<|l|i> |a|m|a|�|�|a	|p|e|y. |p.|a. 
+<|B|R>|@180.5
+<|l|i> |a|m|a|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@100.1
+<|l|i> |a|y|a|r|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@330.5
+<|l|i> |a|r|u|m|p|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@30.13 
+<|B|R>|@150.2 
+<|B|R>|@230.4
+<|l|i> |a|l|k|i|y|a		|p|e|y. |p.|a. 
+<|B|R>|@400.3
+<|l|i>|[|a|v|i|n|t|i|r|u|n|t|a	+ |p|e|y. |p.|a. |o|f |i|r|u 
+<|B|R>|@100.5|] 
+<|l|i> |a|�|i|t|t|a		|p|e|y. |p.|a. 
+<|B|R>|@130.8
+<|l|i> |a|�|u|n|t|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@140.12
+<|l|i> |a|�|u|t|t|a		|p|e|y. |p.|a. 
+<|B|R>|@220.5
+<|l|i> |�|k|i|y|a		|p|e|y. |p.|a. 
+<|B|R>|@90.4
+<|l|i> |�|y|n|t|a		|p|e|y. |p.|a. 
+<|B|R>|@20.15 
+<|B|R>|@190.16 
+<|B|R>|@220.20
+<|l|i> |[|i|�|a|m|p|a|�|u|t|t|a	 + |p|e|y. |p.|a. |o|f |p|a|�|u|t|t|u|]
+<|l|i> |i|y|a|�|�|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@180.6
+<|l|i> |i|y|a|i|n|t|a           |p|e|y. |p.|a. 
+<|B|R>|@360.7
+<|l|i> |i|r|u|n|t|a		|p|e|y. |p.|a. 
+<|B|R>|@100.5 
+<|B|R>|@190.7 
+<|B|R>|@230.3 
+<|B|R>|@280.4
+<|l|i> |i|r|u|n|t|a|�|a|m	|p|e|y. |p.|a. 
+<|B|R>|@110.9
+<|l|i> |i|�|i|n|t|a		|p|e|y. |p.|a. 
+<|B|R>|@110.16
+<|l|i>|[|i|�|a|i|k|o|�|�|a	+ |p|e|y. |p.|a. |o|f |k|o|� 
+<|B|R>|@180.11|]
+<|l|i> |i|�|a|i|�|c|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@110.15
+<|l|i> |�|�|�|i|y|a		|p|e|y. |p.|a. 
+<|B|R>|@60.9
+<|l|i> |u|k|k|a		|p|e|y. |p.|a. 
+<|B|R>|@300.3
+<|l|i> |u|�|�|a		|p|e|y. |p.|a. 
+<|B|R>|@320.13
+<|l|i> |u|t|i|r|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@230.6 
+<|B|R>|@380.4|v
+<|l|i>|u|t|i|r|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@380.4
+<|l|i> |u|�|a|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@240.5 
+<|B|R>|@250.2 
+<|l|i> |u|�|�|i|y|a		|p|e|y. |p.|a. 
+<|B|R>|@240.2
+<|l|i> |u|�|�|a		|p|e|y. |p.|a. 
+<|B|R>|@20.11 
+<|B|R>|@400.4
+<|l|i> |�|t|i|y|a		|p|e|y. |p.|a. 
+<|B|R>|@170.6
+<|l|i> |�|r|n|t|a		|p|e|y. |p.|a. 
+<|B|R>|@330.11
+<|l|i> |�|�|t|t|a		|p|e|y. |p.|a. 
+<|B|R>|@10.2
+<|l|i> |e|t|i|r|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@10.1
+<|l|i> |e|�|i|n|t|a		|p|e|y. |p.|a. 
+<|B|R>|@120.10
+<|l|i> |o|�|�|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@400.8
+<|l|i> |�|�|k|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@120.14
+<|l|i> |k|a|l|i|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@70.11 
+<|B|R>|@80.7 
+<|l|i> |k|a|v|i|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@70.15
+<|l|i> |k|a|�|a|i|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@150.8
+<|l|i> |k|�|�|�|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@240.6
+<|l|i> |k|i|�|i|t|t|a		|p|e|y. |p.|a. 
+<|B|R>|@340.21
+<|l|i> |k|u|�|i|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@110.21
+<|l|i> |k|u|�|a|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@160.13
+<|l|i> |k|u|�|�|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@190.13
+<|l|i> |k|�|�|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@70.8
+<|l|i> |k|e|�|�|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@130.4
+<|l|i> |k|o|�|�|a		|p|e|y. |p.|a. 
+<|B|R>|@180.11 
+<|B|R>|@290.16
+<|l|i> |k|o|�|�|a		|p|e|y. |p.|a. 
+<|B|R>|@10.10|v
+<|l|i> |c|e|y|t|a		|p|e|y. |p.|a. 
+<|B|R>|@140.2 
+<|B|R>|@260.14 
+<|B|R>|@360.19
+<|l|i> |c|e|�|�|a		|p|e|y. |p.|a. 
+<|B|R>|@40.17 
+<|B|R>|@330.8
+<|l|i> |c|o|l|l|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@300.9
+<|l|i> |�|�|�|�|u		|D|E|D2 2920: |t|i|m|e (|p|a|r|t|i|c|l|e |f|o|r |f|o|r|m|i|n|g |t|e|m|p|o|r|a|l |c|l|a|u|s|e |w|i|t|h |p|e|y. |p.|a.) 
+<|B|R>|@150.14
+<|l|i> |t|a|�|a|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@150.14
+<|l|i> |t|a|t|a|i|n|t|a 	|p|e|y. |p.|a. 
+<|B|R>|@370.10
+<|l|i> |t|a|n|t|a		|p|e|y. |p.|a. 
+<|B|R>|@20.1 
+<|B|R>|@80.5 
+<|B|R>|@130.9 
+<|B|R>|@320.2 
+<|B|R>|@340.16 
+<|B|R>|@400.21
+<|l|i> |t|i|�|a|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@130.12
+<|l|i> |t|u|�|a|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@60.5 
+<|B|R>|@270.5
+<|l|i> |t|u|�|a|i|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@320.8
+<|l|i> |t|o|k|u|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@30.8
+<|l|i> |t|o|�|u|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@20.5
+<|l|i> |n|a|v|i|�|�|a	|p|e|y. |p.|a. 
+<|B|R>|@160.11
+<|l|i> |n|i|k|a|�|t|t|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@340.17
+<|l|i> |n|i|�|�|a		|p|e|y. |p.|a. 
+<|B|R>|@180.13 
+<|B|R>|@310.1 
+<|B|R>|@390.15
+<|l|i> |n|i|�|a|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@380.8
+<|l|i> |n|u|�|a|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@350.6 
+<|l|i> |n|e|k|i|�|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@250.13 
+<|B|R>|@270.4|v
+<|l|i> |n|e|�|i|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@150.1
+<|l|i> |n|o|�|u|t|t|a 	|p|e|y. |p.|a. 
+<|B|R>|@340.14
+<|l|i> |p|u|k|a|�|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@250.8
+<|l|i> |p|u|�|a|r|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@70.5
+<|l|i> |p|u|t|a|i|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@160.5
+<|l|i>|[|p|u|�|a|�|k|o|�|u|t|t|a + |p|e|y. |p.|a. |o|f |k|o|�|u 
+<|B|R>|@130.13|]
+<|l|i> |p|u|�|a|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@390.6
+<|l|i> |p|�|�|�|a		|p|e|y. |p.|a. 
+<|B|R>|@100.2
+<|l|i> |p|e|y|a|r|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@110.20
+<|l|i> |p|o|t|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@130.3
+<|l|i> |p|o|r|u|t|a	|p|e|y. |p.|a. 
+<|B|R>|@210.2
+<|l|i> |p|o|l|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@80.11 
+<|B|R>|@370.14 
+<|B|R>|@390.16
+<|l|i> |p|�|k|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@100.16 
+<|B|R>|@290.2 
+<|B|R>|@350.3 
+<|B|R>|@380.3
+<|l|i> |p|�|�|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@320.11
+<|l|i> |m|a|�|u|t|t|a         |p|e|y. |p.|a. 
+<|B|R>|@100.6 
+<|B|R>|@330.15 
+<|B|R>|@340.19
+<|l|i> |m|a|l|a|r|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@170.4 
+<|B|R>|@230.1 
+<|B|R>|@270.1 
+<|B|R>|@290.14
+<|l|i> |m|�|�|�|a	|p|e|y. |p.|a. 
+<|B|R>|@190.17
+<|l|i> |m|u|k|a|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@220.16 
+<|B|R>|@300.1
+<|l|i> |m|u|�|i|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@220.6
+<|l|i> |m|u|�|a|i|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@400.7
+<|l|i> |m|�|�|k|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@350.11
+<|l|i> |y|�|t|t|a		|p|e|y. |p.|a. 
+<|B|R>|@220.7
+<|l|i> |v|a|n|t|a		|p|e|y. |p.|a. 
+<|B|R>|@40.7 
+<|B|R>|@210.8 
+<|B|R>|@310.14 
+<|B|R>|@360.9 
+<|B|R>|@400.19
+<|l|i> |v|a|r|u|n|t|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@110.8
+<|l|i> |v|a|l|a|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@30.1
+<|l|i>|v|a|�|a|r|t|t|a	|p|e|y. |p.|a. 
+<|B|R>|@310.8
+<|l|i> |v|a|�|a|r|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@310.8|v
+<|l|i> |v|i|r|i|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@240.13
+<|l|i> |v|e|r|�|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@40.14 
+<|B|R>|@140.9
+<|l|i> |v|�|y|n|t|a	|p|e|y. |p.|a. 
+<|B|R>|@280.2 
+<|B|R>|@370.5
+<|l|i> |v|a|i|t|t|a		|p|e|y. |p.|a. 
+<|B|R>|@60.13
+<|l|i> |v|a|i|k|i|y|a	|p|e|y. |p.|a. 
+<|B|R>|@60.3
+</|O|L>
+
+<|H|R>
+
+
+<|H3><|A |N|A|M|E="|_|P|E|n|e|g">|L|I|S|T |o|f |n|e|g|a|t|i|v|e |p|e|y|a|r |e|c|c|a|m |f|o|r|m|s</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|P><|B>|N|B (|E|R|R|A|T|A, |E|v|a): |I |h|a|d |t|o |a|d|d |m|a|n|y |i|t|e|m|s |w|i|t|h |f|i|n|a|l -|�, |w|h|i|c|h |E|v|a |c|l|a|s|s|i|f|i|e|d |a|s |n|e|g|a|t|i|v|e |a|b|s. (|s|e|e |b|e|l|o|w)</|B>
+
+<|O|L>
+<|L|I> |�|k|�	|P|E|_|n|e|g. 
+<|B|R>|@220.9
+<|L|I> |�|�|�		|P|E|_|N|E|G.? 
+<|B|R>|@100.8
+<|L|I> |u|�|a|r|�	|P|E|_|n|e|g. 
+<|B|R>|@200.3
+<|L|I> |k|e|�|�|a		|P|E|_|N|E|G. 
+<|B|R>|@220.3
+<|L|I> |c|i|t|a|i|y|�	|P|E|_|n|e|g. 
+<|B|R>|@110.19 
+<|B|R>|@220.21
+<|L|I> |c|e|l|l|�	|P|E|_|n|e|g. 
+<|B|R>|@340.6
+<|L|I> |t|a|k|�		|P|E|_|N|E|G. 
+<|B|R>|@390.3
+<|L|I> |t|a|�|a|v|�	|P|E|_|N|E|G. 
+<|B|R>|@290.10
+<|L|I> |t|u|�|c|�		|P|E|_|N|E|G. 
+<|B|R>|@270.11
+<|L|I> |t|�|y|�	|P|E|_|n|e|g. 
+<|B|R>|@370.5 
+<|L|I> |n|�|l|�	|P|E|_|n|e|g. 
+<|B|R>|@220.14
+<|L|I> |p|i|�|a|i|y|�	|P|E|_|n|e|g. 
+<|B|R>|@360.11
+<|L|I> |p|u|�|a|r|�	|P|E|_|n|e|g. 
+<|B|R>|@270.13
+<|L|I> |p|�|�|�	|P|E|_|n|e|g. 
+<|B|R>|@300.13|v
+<|L|I> |m|a|�|�|�	|P|E|_|n|e|g. 
+<|B|R>|@30.13
+<|L|I> |m|a|�|a|v|�	|P|E|_|n|e|g. 
+<|B|R>|@290.11
+<|L|I> |m|�|�|�	|P|E|_|n|e|g. 
+<|B|R>|@220.15
+<|L|I> |v|a|r|u|t|t|�	|P|E|_|n|e|g. 
+<|B|R>|@90.6
+<|L|I> |v|i|�|a|i|y|�	|P|E|_|n|e|g. 
+<|B|R>|@400.22
+</|O|L>
+
+<|H3><|A |N|A|M|E="|_|P|E|c|o|m|p">|L|I|S|T |o|f |c|o|m|p|a|r|a|t|i|v|e |p|e|y|a|r |e|c|c|a|m |f|o|r|m|s</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|L|I>|a|�|a|r|n|t|a|�|�|a	|P|E|_|C|O|M|P. 
+<|B|R>280.1
+<|L|I>|o|l|i|t|t|a|�|�|a	|P|E|_|C|O|M|P. 
+<|B|R>100.14
+<|L|I>|k|a|�|�|a|�|�|a	|P|E|_|C|O|M|P. 
+<|B|R>10.2 
+<|B|R>400.15, 
+<|B|R>400.16
+<|L|I>|k|a|�|i|n|t|a|�|�|a	|P|E|_|C|O|M|P. 
+<|B|R>400.14
+<|L|I>|p|�|y|n|t|a|�|�|a	|P|E|_|C|O|M|P. 
+<|B|R>400.13
+<|L|I>|m|u|k|a|i|t|t|a|�|�|a	|P|E|_|C|O|M|P. 
+<|B|R>240.11
+<|L|I>|v|�|r|n|t|a|�|�|a	|P|E|_|C|O|M|P. 
+<|B|R>400.9
+</|O|L>
+
+<|H|R>
+
+
+<|H3><|A |N|A|M|E="|_|V|E1|a">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 1|a)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |a|m|a|r|n|t|u	|V|E1|a. 
+<|B|R>|@190.5 
+<|B|R>|@220.14
+<|l|i> |a|m|a|i|t|t|u	|V|E1|a. 
+<|B|R>|@30.10
+<|l|i> |a|y|a|r|n|t|u	|V|E1|a. 
+<|B|R>|@330.2
+<|l|i> |[|a|r|a|i|y|u|�|�|u	+ |V|E1|a. |o|f |u|�|u 
+<|B|R>|@100.1|]
+<|l|i> |a|l|a|i|t|t|u	|V|E1|a. 
+<|B|R>|@180.6
+<|l|i>|a|v|i|�|n|t|u	|V|E1|a. 
+<|B|R>|@400.23 
+<|l|i> |a|�|i|n|t|u	|V|E1|a. 
+<|B|R>|@210.5
+<|l|i> |�|y|n|t|u	|V|E1|a. 
+<|B|R>|@340.3 
+<|l|i> |i|k|a|n|t|u	|V|E1|a. 
+<|B|R>|@330.17
+<|l|i> |i|�|�|u	|V|E1|a. 
+<|B|R>|@80.2|v 
+<|B|R>|@400.18?
+<|l|i> |i|y|a|i|n|t|u	|V|E1|a. 
+<|B|R>|@220.1 
+<|B|R>|@400.8
+<|l|i> |i|�|a|i|t|t|u	|V|E1|a. 
+<|B|R>|@110.7
+<|l|i> |i|�|a|n|t|u	|V|E1|a. 
+<|B|R>|@400.2
+<|l|i> |�|�|�|u	|V|E1|a. 
+<|B|R>|@160.5
+<|l|i> |u|�|u|t|t|u	|V|E1|a. 
+<|B|R>|@200.3
+<|l|i> |u|�|�|u	|V|E1|a. 
+<|B|R>|@110.12 
+<|B|R>|@360.5
+<|l|i> |u|r|u|t|t|u	|V|E1|a. 
+<|B|R>|@150.3
+<|l|i> |u|�|a|n|t|u	|V|E1|a. 
+<|B|R>|@190.1 
+<|B|R>|@280.8|v 
+<|l|i> |u|�|u|t|u	|V|E1|a. 
+<|B|R>|@280.8
+<|l|i> |e|t|i|r|k|o|�|�|u	|V|E1|a. 
+<|B|R>|@300.15
+<|l|i> |e|�|u|n|t|u	|V|E1|a. 
+<|B|R>|@40.2 
+<|B|R>|@310.15 
+<|B|R>|@400.25
+<|l|i> |e|�|�|u	|V|E1|a. 
+<|B|R>|@90.8 
+<|l|i> |k|a|�|�|u	|V|E1|a. 
+<|B|R>|@110.14 
+<|B|R>|@400.23
+<|l|i> |k|a|l|u|�|n|t|u	|V|E1|a. 
+<|B|R>|@300.9|v
+<|l|i>|k|a|v|i|�|n|t|u	|V|E1|a. 
+<|B|R>|@300.9
+<|l|i> |k|u|r|a|i|t|t|u	|V|E1|a. 
+<|B|R>|@310.15
+<|l|i> |k|u|�|�|u	|V|E1|a. 
+<|B|R>|@330.1
+<|l|i>|[|k|a|i|t|o|�|u|t|u	+ |V|E1|a. |o|f |t|o|�|u 
+<|B|R>|@240.8|]
+<|l|i> |k|o|�|�|u	|V|E1|a. 
+<|B|R>|@10.8 
+<|B|R>|@20.12 
+<|B|R>|@250.9 
+<|B|R>|@280.12 
+<|B|R>|@380.5
+<|l|i> |c|i|�|a|n|t|u	
+<|B|R>|@|V|E1|a.160
+<|B|R>|@.18 
+<|B|R>|@170.6
+<|l|i> |c|e|y|t|u	|V|E1|a. 
+<|B|R>|@40.9
+<|l|i> |c|e|�|�|u	|V|E1|a. 
+<|B|R>|@50.9 
+<|B|R>|@310.11|v
+<|l|i> |c|o|r|i|n|t|u	|V|E1|a. 
+<|B|R>|@60.5
+<|l|i> |t|u|�|a|n|t|u	|V|E1|a. 
+<|B|R>|@370.14
+<|l|i> |t|e|r|i|n|t|u	|V|E1|a. 
+<|B|R>|@280.6
+<|l|i>|t|o|�|u|t|u	|V|E1|a. 
+<|B|R>|@240.8
+<|l|i> |n|a|y|a|n|t|u	|V|E1|a. 
+<|B|R>|@400.2
+<|l|i> |n|i|�|�|u	|V|E1|a. 
+<|B|R>|@130.1 
+<|B|R>|@330.7
+<|l|i> |n|i|v|a|n|t|u	|V|E1|a. 
+<|B|R>|@330.17
+<|l|i> |n|i|�|a|i|n|t|u	|V|E1|a. 
+<|B|R>|@150.5 
+<|B|R>|@180.8
+<|l|i> |n|o|�|�|u	|V|E1|a. 
+<|B|R>|@230.7
+<|l|i> |p|a|�|i|n|t|u	|V|E1|a. 
+<|B|R>|@330.3
+<|l|i> |p|a|y|i|�|�|u	|V|E1|a. 
+<|B|R>|@50.6
+<|l|i> |p|�|y|n|t|u	|V|E1|a. 
+<|B|R>|@260.2 
+<|B|R>|@340.20|v
+<|l|i> |p|u|k|k|u	|V|E1|a. 
+<|B|R>|@280.9
+<|l|i> |p|u|c|i|t|t|u	|V|E1|a. 
+<|B|R>|@400.4
+<|l|i> |p|u|�|a|r|n|t|u	|V|E1|a. 
+<|B|R>|@250.5 
+<|B|R>|@330.3
+<|l|i> |p|u|r|i|n|t|u	|V|E1|a. 
+<|B|R>|@400.4|v
+<|l|i> |p|u|l|a|n|t|u	|V|E1|a. 
+<|B|R>|@150.12
+<|l|i> |p|e|y|a|r|n|t|u	|V|E1|a. 
+<|B|R>|@280.7
+<|l|i> |p|o|r|u|t|u	|V|E1|a. 
+<|B|R>|@130.8
+<|l|i> |m|a|�|a|n|t|u	|V|E1|a. 
+<|B|R>|@180.12
+<|l|i> |m|a|�|a|i|t|t|u	|V|E1|a. 
+<|B|R>|@160.5
+<|l|i> |m|u|k|a|n|t|u	|V|E1|a. 
+<|B|R>|@30.2
+<|l|i> |m|u|n|t|u|�|u|t|t|u	|V|E1|a. 
+<|B|R>|@310.3
+<|l|i> |m|u|y|a|�|�|u	|V|E1|a. 
+<|B|R>|@220.6
+<|l|i> |m|e|l|i|n|t|u	|V|E1|a. 
+<|B|R>|@120.11
+<|l|i> |v|a|n|t|u	|V|E1|a. 
+<|B|R>|@30.14 
+<|B|R>|@100.3 
+<|B|R>|@110.9 
+<|B|R>|@180.4 
+<|B|R>|@190.16 
+<|B|R>|@250.7 
+<|B|R>|@290.10 
+<|B|R>|@310.4 
+<|B|R>|@320.12 
+<|B|R>|@340.1 
+<|B|R>|@380.1 
+<|l|i> |v|i|�|�|u	|V|E1|a. 
+<|B|R>|@340.22
+</|O|L>
+
+<|H|R>
+
+
+<|H3><|A |N|A|M|E="|_|V|E1|b">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 1|b)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |a|c|a|i|i	|V|E1|b. 
+<|B|R>|@20.3 
+<|B|R>|@120.11 
+<|B|R>|@190.15
+<|l|i> |a|�|c|i	|V|E1|b. 
+<|B|R>|@160.9
+<|l|i> |a|l|k|i	|V|E1|b. 
+<|B|R>|@330.1
+<|l|i> |�|k|i	|V|E1|b. 
+<|B|R>|@50.5 
+<|B|R>|@90.10
+<|l|i> |�|�|�|i	|V|E1|b. 
+<|B|R>|@280.3
+<|l|i> |�|�|i	|V|E1|b. 
+<|B|R>|@20.8 
+<|B|R>|@110.6 
+<|B|R>|@370.4
+<|l|i> |i|r|a|�|k|i	|V|E1|b. 
+<|B|R>|@330.7
+<|l|i> |u|�|a|k|k|i	|V|E1|b. 
+<|B|R>|@210.5
+<|l|i> |u|�|�|i	|V|E1|b. 
+<|B|R>|@210.7
+<|l|i> |e|y|t|i	|V|E1|b. 
+<|B|R>|@330.9
+<|l|i> |�|�|k|i	|V|E1|b. 
+<|B|R>|@120.8
+<|l|i> |�|t|t|i	|V|E1|b. 
+<|B|R>|@240.8
+<|l|i> |�|�|i	|V|E1|b. 
+<|B|R>|@180.2 
+<|B|R>|@190.2
+<|l|i> |o|�|u|k|k|i	|V|E1|b. 
+<|B|R>|@230.14
+<|l|i> |o|t|u|�|k|i	|V|E1|b. ?
+<|l|i> |o|r|�|i	|V|E1|b. 
+<|B|R>|@290.15
+<|l|i> |o|l|k|i	|V|E1|b. 
+<|B|R>|@390.7
+<|l|i> |�|p|p|i	|V|E1|b. 
+<|B|R>|@20.2
+<|l|i> |�|m|p|i	|V|E1|b. 
+<|B|R>|@360.12
+<|l|i> |k|a|�|a|i|i	|V|E1|b. 
+<|B|R>|@80.10 
+<|B|R>|@180.4
+<|l|i> |k|a|l|a|�|k|i	|V|E1|b. 
+<|B|R>|@250.12
+<|l|i> |k|a|v|i|�|i	|V|E1|b. 
+<|B|R>|@70.10
+<|l|i> |k|a|�|i|p|p|i	|V|E1|b. 
+<|B|R>|@120.4 
+<|B|R>|@200.10 
+<|B|R>|@340.2
+<|l|i> |k|�|�|�|i	|V|E1|b. 
+<|B|R>|@160.10 
+<|B|R>|@380.7
+<|l|i> |k|u|v|a|i|i	|V|E1|b. 
+<|B|R>|@110.7
+<|l|i> |k|u|�|�|i	|V|E1|b. 
+<|B|R>|@30.6
+<|l|i> |k|�|�|i	|V|E1|b. 
+<|B|R>|@110.3 
+<|B|R>|@110.22 
+<|B|R>|@150.4 
+<|l|i> |k|e|�|�|i	|V|E1|b. 
+<|B|R>|@10.11|v 
+<|B|R>|@20.4
+<|l|i> |k|e|�|�|i	|V|E1|b. 
+<|B|R>|@180.12
+<|l|i> |k|o|�|�|i	|V|E1|b. 
+<|B|R>|@320.1
+<|l|i> |c|�|�|�|i	|V|E1|b. 
+<|B|R>|@30.10 
+<|B|R>|@140.3 
+<|B|R>|@390.1
+<|l|i> |c|�|�|�|i	|V|E1|b. 
+<|B|R>|@180.7
+<|l|i> |c|�|r|t|t|i	|V|E1|b. 
+<|B|R>|@160.4 
+<|l|i> |t|a|�|k|i	|V|E1|b. 
+<|B|R>|@300.19
+<|l|i> |t|a|�|�|i	|V|E1|b. 
+<|B|R>|@290.6 
+<|B|R>|@400.10
+<|l|i> |t|�|k|k|i	|V|E1|b. 
+<|B|R>|@190.11
+<|l|i> |t|i|r|u|t|t|i	|V|E1|b. 
+<|B|R>|@300.7
+<|l|i> |t|�|�|�|i	|V|E1|b. 
+<|B|R>|@120.2
+<|l|i> |t|u|v|a|�|�|i	|V|E1|b. 
+<|B|R>|@30.4 
+<|l|i> |t|u|�|a|i|i	|V|E1|b. 
+<|B|R>|@80.5 
+<|B|R>|@180.10
+<|l|i> |t|�|k|k|i	|V|E1|b. 
+<|B|R>|@40.6
+<|l|i> |t|�|�|k|i	|V|E1|b. 
+<|B|R>|@20.6 
+<|B|R>|@40.6|v
+<|l|i> |t|a|i|i	|V|E1|b. 
+<|B|R>|@20.9 
+<|B|R>|@60.10 
+<|B|R>|@370.1
+<|l|i> |n|a|c|a|i|i	|V|E1|b. 
+<|B|R>|@170.5 
+<|l|i> |n|�|k|k|i	|V|E1|b. 
+<|B|R>|@250.6 
+<|B|R>|@310.1 
+<|B|R>|@350.10 
+<|B|R>|@360.13 
+<|B|R>|@380.1
+<|l|i> |n|�|�|k|i	|V|E1|b. 
+<|B|R>|@50.1 
+<|l|i> |n|�|n|t|i	|V|E1|b. 
+<|B|R>|@50.7 
+<|B|R>|@80.2 
+<|B|R>|@360.14 
+<|B|R>|@400.18
+<|l|i> |n|�|v|i	|V|E1|b. 
+<|B|R>|@100.1 
+<|B|R>|@240.10 
+<|B|R>|@300.7
+<|l|i> |n|�|k|k|i	|V|E1|b. 
+<|B|R>|@110.4 
+<|B|R>|@110.23 
+<|B|R>|@150.3 
+<|B|R>|@180.8 
+<|B|R>|@180.14 
+<|B|R>|@270.7 
+<|B|R>|@340.3 
+<|B|R>|@390.12
+<|l|i> |p|a|y|i|�|�|i	|V|E1|b. 
+<|B|R>|@220.2
+<|l|i> |p|a|�|�|i	|V|E1|b. 
+<|B|R>|@110.24
+<|l|i> |p|a|�|a|i|i	|V|E1|b. 
+<|B|R>|@170.7|v
+<|l|i> |p|�|r|�|�|�|i	|V|E1|b. 
+<|B|R>|@70.3 
+<|B|R>|@200.9 
+<|B|R>|@210.9
+<|l|i> |p|i|�|i|�|�|i	|V|E1|b. 
+<|B|R>|@40.15
+<|l|i> |p|�|�|�|i	|V|E1|b. 
+<|B|R>|@400.11
+<|l|i> |p|e|r|u|k|i	|V|E1|b. 
+<|B|R>|@400.6
+<|l|i> |p|o|r|u|n|t|i	|V|E1|b. 
+<|B|R>|@110.15
+<|l|i> |p|�|k|i	|V|E1|b. 
+<|B|R>|@210.4 
+<|B|R>|@400.16
+<|l|i> |m|a|�|u|k|i	|V|E1|b. 
+<|B|R>|@220.2
+<|l|i> |m|�|�|�|i	|V|E1|b. 
+<|B|R>|@210.11
+<|l|i> |m|u|y|a|�|k|i	|V|E1|b. 
+<|B|R>|@100.3 
+<|B|R>|@150.5
+<|l|i> |m|u|�|a|i|i	|V|E1|b. 
+<|B|R>|@40.11
+<|l|i> |v|a|r|u|n|t|i	|V|E1|b. 
+<|B|R>|@140.14
+<|l|i> |v|�|�|k|i	|V|E1|b. 
+<|B|R>|@30.7 
+<|B|R>|@160.3 
+<|B|R>|@380.5
+<|l|i> |v|i|r|�|i	|V|E1|b. 
+<|B|R>|@130.7
+<|l|i> |v|i|�|a|i|i	|V|E1|b. 
+<|B|R>|@300.15
+<|l|i> |v|�|c|i	|V|E1|b. 
+<|B|R>|@30.9 
+<|B|R>|@140.6
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E1|c">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 1|c)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |�|e|y	|V|E1|c. 
+<|B|R>|@300.6|v
+<|l|i> |c|�|a|y	|V|E1|c. 
+<|B|R>|@250.10
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E2">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 2)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |k|o|�|�|a		(|E|R|R|A|T|A |E|V|A |w|h|o |t|h|o|u|g|h|t |t|h|i|s |a|s |n|e|g|a|t|i|v|e
+<|B|R>|@260.9 
+<|B|R>|@360.8
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E3">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 3)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i>|a|�|u|p|u	|V|E3. 
+<|B|R>|@40.8
+<|l|i> |i|�|i|p|u	|V|E3. 
+<|B|R>|@330.14
+<|l|i> |�|r|p|u	|V|E3. 
+<|B|R>|@330.14
+<|l|i> |k|�|�|�|u|p|u	|V|E3. 
+<|B|R>|@340.17
+<|l|i>|[|k|a|i|y|a|�|u|p|u	+ |V|E3. |o|f |a|�|u 
+<|B|R>|@40.8|]
+<|l|i> |c|�|r|p|u	|V|E3. 
+<|B|R>|@110.15 
+<|B|R>|@190.7
+<|l|i> |p|�|y|p|u	|V|E3. 
+<|B|R>|@340.20
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E4">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 4)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |e|�|i|n|t|e|�|a	|V|E4. 
+<|B|R>|@190.12
+<|l|i> |c|e|�|�|e|�|a	|V|E4. 
+<|B|R>|@300.5 
+<|l|i> |p|a|�|�|e|�|a	|V|E4. 
+<|B|R>|@290.4 
+<|l|i> |v|�|y|t|t|e|�|a	|V|E4. 
+<|B|R>|@70.1
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E5">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 5)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|L|I> |c|e|l|�|i|y|a|r	|V|E5. 
+<|B|R>|@300.5
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E6">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 6)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|L|I> |t|a|k|a|i|i|y|a	|V|E6. 
+<|B|R>|@330.8
+<|L|I> |p|a|�|a|i|i|y|a	?|V|E6. 
+<|B|R>|@170.7|v
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E7">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 7)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|L|I> |i|r|u|p|p|i|�	|V|E7. 
+<|B|R>|@280.10
+<|L|I> |u|�|i|�		|V|E7. 
+<|B|R>|@160.9
+<|L|I> |k|�|�|i|�		|V|E7. 
+<|B|R>|@60.12
+<|L|I> |c|e|l|i|�		|V|E7. 
+<|B|R>|@30.15 
+<|B|R>|@120.13 
+<|B|R>|@370.8
+<|L|I> |c|�|p|p|i|�	|V|E7. 
+<|B|R>|@340.13
+<|L|I> |c|o|l|l|i|�		|V|E7. 
+<|B|R>|@50.10
+<|L|I> |t|a|�|k|i|�	|V|E7. 
+<|B|R>|@110.13
+<|L|I> |t|�|�|�|i|�	|V|E7. 
+<|B|R>|@300.14
+<|L|I> |p|i|r|i|y|i|�	|V|E7. 
+<|B|R>|@300.11
+<|L|I> |p|u|�|a|r|i|�	|V|E7. 
+<|B|R>|@230.9
+<|L|I> |p|e|y|a|r|i|�	|V|E7. 
+<|B|R>|@360.9
+<|L|I> |p|e|�|i|�		|V|E7. 
+<|B|R>|@300.22
+<|L|I> |m|u|�|a|i|y|i|�	|V|E7. 
+<|B|R>|@20.7
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E8|a">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 8|a)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|L|I> |a|k|a|l|a		|V|E8. 
+<|B|R>|@360.13 
+<|B|R>|@400.3
+<|L|I> |a|�|a|i|y|a		|V|E8. 
+<|B|R>|@150.5
+<|L|I>|[|a|�|i|t|t|a|k|a	+ |V|E8. |o|f |t|a|k|u 
+<|B|R>|@20.9|]
+<|L|I> |a|y|a|r|a		|V|E8. 
+<|B|R>|@180.3 
+<|B|R>|@300.6
+<|L|I> |a|r|i|y|a		|V|E8. 
+<|B|R>|@330.14
+<|L|I> |a|v|i|y|a		|V|E8. 
+<|B|R>|@260.5
+<|L|I> |a|v|i|�|a		|V|E8. 
+<|B|R>|@150.9
+<|L|I> |[|a|�|i|t|a|k|a 	2 + |V|E8. |o|f |t|a|k|u 
+<|B|R>|@40.7|]
+<|L|I> |a|�|i|y|a		|V|E8. 
+<|B|R>|@30.2
+<|L|I> |a|�|i|y|a		|V|E8. 
+<|B|R>|@110.3
+<|L|I>|[|a|�|p|u|�|a	+ |V|E8. |o|f |u|�|u 
+<|B|R>|@290.7|]
+<|L|I> |�|k|a		|V|E8. 
+<|B|R>|@110.9 
+<|B|R>|@230.13 
+<|B|R>|@350.8 
+<|B|R>|@390.12
+<|L|I> |i|r|i|y|a		|V|E8. 
+<|B|R>|@190.8 
+<|B|R>|@310.15
+<|L|I>|[|i|�|p|u|�|a	+ |V|E8. |o|f |u|�|u 
+<|B|R>|@300.20 
+<|B|R>|@330.3|]
+<|L|I> |i|�|a|i|y|a	|V|E8. 
+<|B|R>|@40.8
+<|L|I> |u|�|a		|V|E8. 
+<|B|R>|@290.14
+<|L|I> |u|�|a|�|k|a	|V|E8. 
+<|B|R>|@300.2
+<|L|I> |u|�|a		|V|E8. 
+<|B|R>|@200.10 
+<|B|R>|@230.16 
+<|B|R>|@260.10 
+<|B|R>|@290.7 
+<|B|R>|@300.19 
+<|B|R>|@300.20 
+<|B|R>|@330.3
+<|L|I> |�|t|a		|V|E8. 
+<|B|R>|@260.2
+<|L|I> |e|t|i|r|k|o|�|a	|V|E8. 
+<|B|R>|@350.13
+<|L|I> |e|y|t|a		|V|E8. 
+<|B|R>|@110.9
+<|L|I> |e|�|a		|V|E8. 
+<|B|R>|@90.4 
+<|B|R>|@220.1
+<|L|I> |e|�|�|a		|i|r|r. |V|E8. |o|f |e|�? 
+<|B|R>|@110.23 
+<|B|R>|@380.2
+<|L|I> |e|�|a	|V|E8. 
+<|B|R>|@20.14 
+<|B|R>|@20.16 
+<|B|R>|@50.12 
+<|B|R>|@50.14 
+<|B|R>|@60.11 
+<|B|R>|@70.1 
+<|B|R>|@90.13 
+<|B|R>|@110.14 
+<|B|R>|@110.17 
+<|B|R>|@110.19 
+<|B|R>|@110.22 
+<|B|R>|@140.7 
+<|B|R>|@150.1 
+<|B|R>|@150.4 
+<|B|R>|@150.11 
+<|B|R>|@150.13 
+<|B|R>|@160.16 
+<|B|R>|@170.14 
+<|B|R>|@190.12 
+<|B|R>|@200.3 
+<|B|R>|@200.8 
+<|B|R>|@220.19 
+<|B|R>|@230.10 
+<|B|R>|@230.12 
+<|B|R>|@260.13 
+<|B|R>|@290.4 
+<|B|R>|@290.6 
+<|B|R>|@300.5 
+<|B|R>|@300.8 
+<|B|R>|@300.11 
+<|B|R>|@300.18 
+<|B|R>|@320.4 
+<|B|R>|@340.8 
+<|B|R>|@340.11 
+<|B|R>|@350.12 
+<|B|R>|@360.13 
+<|B|R>|@380.7 
+<|B|R>|@390.9 
+<|B|R>|@390.11 
+<|B|R>|@390.14 
+<|B|R>|@400.2
+<|L|I> |�|m|u|�|a	|V|E8. 
+<|B|R>|@300.19
+<|L|I> |o|�|i|y|a		|V|E8. 
+<|B|R>|@370.13
+<|L|I> |k|�|�|a		|V|E8. 
+<|B|R>|@160.17
+<|L|I>|[|k|�|�|v|a|r|a	+ |V|E8. 
+<|B|R>|@250.4|] 
+<|L|I>|k|a|l|i|�|a		|V|E8. 
+<|B|R>|@310.5
+<|L|I> |k|a|l|u|�|a	|V|E8. 
+<|B|R>|@10.5 
+<|B|R>|@120.6 
+<|B|R>|@310.5|v
+<|L|I> |k|i|�|a|r|a		|V|E8. 
+<|B|R>|@260.1
+<|L|I> |k|�|m|p|a	|V|E8. 
+<|B|R>|@40.1 
+<|B|R>|@150.10 
+<|B|R>|@350.1
+<|L|I> |k|�|�|a		|V|E8. 
+<|B|R>|@300.19
+<|L|I> |k|o|�|a		|V|E8. 
+<|B|R>|@100.3 
+<|B|R>|@340.3 
+<|B|R>|@350.13
+<|L|I> |c|i|t|a|i|y|a	|V|E8. 
+<|B|R>|@120.8 
+<|B|R>|@160.3 
+<|B|R>|@320.12 
+<|B|R>|@380.5
+<|L|I> |c|e|�|i|y|a		|V|E8. 
+<|B|R>|@60.14 
+<|B|R>|@260.5
+<|L|I> |c|�|r|a		|V|E8. 
+<|B|R>|@40.4 
+<|B|R>|@250.7 
+<|B|R>|@260.7
+<|L|I> |t|a|t|a|i|y|a	|V|E8. 
+<|B|R>|@220.4
+<|L|I> |t|a|v|i|r|a		|V|E8. 
+<|B|R>|@190.14
+<|L|I> |t|a|�|a|r|a		|V|E8. 
+<|B|R>|@40.6
+<|L|I> |t|�|�|a		|V|E8. 
+<|B|R>|@180.7
+<|L|I> |t|�|r|a		|V|E8. 
+<|B|R>|@110.8 
+<|B|R>|@140.13 
+<|B|R>|@340.1
+<|L|I>|[|t|u|y|a|l|v|a|r|a	+ |V|E8. |o|f |v|a|r|u 
+<|B|R>|@370.11|]
+<|L|I> |t|�|�|�|a		|V|E8. 
+<|B|R>|@70.6
+<|L|I> |t|o|l|a|i|y|a	|V|E8. 
+<|B|R>|@270.10 
+<|B|R>|@340.8
+<|L|I> |t|�|�|�|a		|V|E8. 
+<|B|R>|@260.6
+<|L|I> |n|a|�|u|�|k|a	|V|E8. 
+<|B|R>|@60.1
+<|L|I> |n|�|�|a		|V|E8. 
+<|B|R>|@400.22
+<|L|I> |n|i|�|p|a		|V|E8. 
+<|B|R>|@50.4
+<|L|I> |n|�|�|k|a		|V|E8. 
+<|B|R>|@320.7
+<|L|I> |p|a|�|a		|V|E8. 
+<|B|R>|@190.2 
+<|B|R>|@210.3 
+<|B|R>|@240.12 
+<|B|R>|@330.4 
+<|B|R>|@370.10 
+<|B|R>|@400.6 
+<|B|R>|@400.16
+<|L|I> |p|a|r|i|y|a	|V|E8. 
+<|B|R>|@330.14|v
+<|L|I> |p|�|r|�|�|�|a	|V|E8. 
+<|B|R>|@310.7
+<|L|I> |p|u|r|a|�|a 	|V|E8. 
+<|B|R>|@390.5
+<|L|I> |p|�|�|a		|V|E8. 
+<|B|R>|@350.7
+<|L|I> |p|e|�|a		|V|E8. 
+<|B|R>|@390.6
+<|L|I> |p|o|r|u|n|t|a	|V|E8. 
+<|B|R>|@190.11
+<|L|I> |p|�|l|a		|V|E8. 
+<|B|R>|@30.8 
+<|B|R>|@70.16 
+<|B|R>|@120.1 
+<|B|R>|@220.8 
+<|B|R>|@220.14 
+<|B|R>|@300.11 
+<|B|R>|@330.16 
+<|B|R>|@360.7 
+<|B|R>|@370.15 
+<|L|I> |m|a|l|k|a	|V|E8. 
+<|B|R>|@30.9
+<|L|I> |m|a|l|a|r|a	|V|E8. 
+<|B|R>|@80.8
+<|L|I> |m|a|�|u|k|a	|V|E8. 
+<|B|R>|@260.1
+<|L|I>|[|m|a|�|u|p|p|a|�|a	+ |V|E8. |o|f |p|a|�|u 
+<|B|R>|@210.3|]
+<|L|I> |m|a|�|u|k|a	|V|E8. 
+<|B|R>|@300.3
+<|L|I> |m|a|�|a|i|y|a	|V|E8. 
+<|B|R>|@360.3
+<|L|I> |m|i|k|a		|V|E8. 
+<|B|R>|@110.11 
+<|B|R>|@180.1 
+<|B|R>|@380.11
+<|L|I> |m|o|c|i|y|a	|V|E8.? 
+<|B|R>|@400.10
+<|L|I> |v|a|r|a		|V|E8. 
+<|B|R>|@330.3
+<|L|I> |v|i|�|a		|V|E8. 
+<|B|R>|@150.1 
+<|B|R>|@150.2
+<|L|I> |v|i|l|a|�|k|a	|V|E8. 
+<|B|R>|@210.12
+<|L|I> |v|i|�|a|i|y|�|�|a	|V|E8. 
+<|B|R>|@250.5
+<|L|I> |v|�|�|a		|V|E8. 
+<|B|R>|@340.12
+<|L|I>|[|v|e|�|i|p|p|a|�|a	+ |V|E8. |o|f |p|a|�|u 
+<|B|R>|@330.4|]
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E8|b">|L|I|S|T |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s (|t|y|p|e 8|b)</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|L|I> |a|l|a|i|p|p|a	|V|E8|b. 
+<|B|R>|@190.9
+<|L|I> |a|�|i|p|p|a	|V|E8|b. 
+<|B|R>|@190.12
+<|L|I> |a|�|u|p|p|a	|V|E8|b. 
+<|B|R>|@80.9
+<|L|I> |�|r|p|p|a	|V|E8|b. 
+<|B|R>|@350.12
+<|L|I>|i|r|i|p|p|a	|V|E8|b. 
+<|B|R>|@400.4
+<|L|I> |u|k|a|p|p|a	|V|E8|b. 
+<|B|R>|@120.3
+<|L|I>|u|�|u|p|p|a	|V|E8|b. 
+<|B|R>|@10.5|v
+<|L|I> |o|p|p|a	|V|E8|b. 
+<|B|R>|@30.6 
+<|B|R>|@100.10
+<|L|I> |o|l|i|p|p|a	|V|E8|b. 
+<|B|R>|@30.7 
+<|B|R>|@40.2 
+<|B|R>|@260.3 
+<|B|R>|@400.11
+<|L|I> |k|a|r|a|p|p|a	|V|E8|b. 
+<|B|R>|@260.8
+<|L|I> |k|�|p|p|a	|V|E8|b. 
+<|B|R>|@130.6
+<|L|I> |k|u|r|a|i|p|p|a	|V|E8|b. 140. 9
+<|L|I> |c|e|p|p|a	|V|E8|b. 
+<|B|R>|@330.10
+<|L|I> |t|a|�|a|p|p|a	|V|E8|b. 
+<|B|R>|@50.7
+<|L|I> |t|u|�|a|p|p|a	|V|E8|b. 
+<|B|R>|@360.5
+<|L|I> |t|e|�|i|r|p|p|a	|V|E8|b. 
+<|B|R>|@140.6
+<|L|I> |n|i|v|a|p|p|a	|V|E8|b. 
+<|B|R>|@240.3 
+<|B|R>|@350.4
+<|L|I> |n|�|p|p|a	|V|E8|b. 
+<|B|R>|@350.4|v
+<|L|I> |m|a|�|a|p|p|a	|V|E8|b. 
+<|B|R>|@260.4
+<|L|I> |v|a|r|i|p|p|a	|V|E8|b. 
+<|B|R>|@250.3
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E|n|e|g">|N|e|g|a|t|i|v|e |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|P><|B>|N|B (|E|R|R|A|T|A, |E|v|a): |I |h|a|d |t|o |r|e|m|o|v|e |m|a|n|y |i|t|e|m|s |w|i|t|h |f|i|n|a|l -|�, |w|h|i|c|h |I |v|i|e|w |a|s |p|e|y|a|r |e|c|c|a|m (|s|e|e |a|b|o|v|e)</|B>
+<|O|L>
+<|L|I> |�|�|�|t|u		|V|E|_|n|e|g. 
+<|B|R>120.8 
+<|B|R>210.10 
+<|L|I> |u|�|�|a|t|u	|V|E|_|n|e|g. 
+<|B|R>140.2
+<|L|I> |e|�|�|�|t|u	|V|E|_|n|e|g. 
+<|B|R>20.14 
+<|B|R>50.8
+<|L|I> |�|v|�|t|u		|V|E|_|n|e|g. 
+<|B|R>350.7
+<|L|I> |k|a|r|a|v|�|t|u	|V|E|_|n|e|g. 
+<|B|R>160.15
+<|L|I> |k|a|�|a|�|�|t|u	|V|E|_|n|e|g. 
+<|B|R>170.1
+<|L|I> |k|�|�|�|t|u	|V|E|_|n|e|g. 
+<|B|R>170.1
+<|L|I> |c|e|l|l|�|t|u	|V|E|_|n|e|g. 
+<|B|R>120.12
+<|L|I> |t|�|�|k|�|t|u	|V|E|_|n|e|g. 
+<|B|R>300.10
+<|L|I> |n|i|l|l|�|t|u	|V|E|_|n|e|g. 
+<|B|R>110.20 
+<|B|R>180.9
+<|L|I> |n|�|�|k|�|t|u	|V|E|_|n|e|g. 
+<|B|R>260.11 
+<|L|I> |m|i|c|a|i|y|�|t|u     |V|E|_|n|e|g. 
+<|B|R>290.5
+<|L|I> |m|o|�|i|y|�|t|u	|V|E|_|n|e|g. 
+<|B|R>170.2
+</|O|L>
+
+<|H|R>
+
+<|H3><|A |N|A|M|E="|_|V|E|c|o|m|p">|C|o|m|p|a|r|a|t|i|v|e |v|i|�|a|i |e|c|c|a|m |f|o|r|m|s</|A> |f|o|u|n|d |b|y |E|v|a |i|n |A|N |n|e|y|t|a|l</|H3>
+<|O|L>
+<|l|i> |n|i|�|�|�|�|k|u	|V|E1|a. 
+<|B|R>|@370.12
+</|O|L>
+
+</|B|O|D|Y>
+</|H|T|M|L>

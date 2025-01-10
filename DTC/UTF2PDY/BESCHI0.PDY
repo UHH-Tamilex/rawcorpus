@@ -1,0 +1,253 @@
+@define(arbre, group)
+R 65,T 5
+Beschi, grammirien du tamoul,
+et l'origine de la notion de verbe appellatif
+
+@COMMENT{Ce fichier ne contient pas les corrections finalesfaites sur les �preuves avec Dominique de Lib�ra, et enparticulier celles qui portient sur le livre de Besse}
+
+Jean-Luc Chevillard
+�FEO, Paris
+janvier 1992
+
+
+Abstract: Beschi's importance cannot be overestimated becuse itseems he was the first to produce a detiled analysis of thegrammatical structure of Tamil that could be used in a Westernlanguage (latin). However, a precise assessment of his role isonly possible if we relate him with his historical background inlatin grammar. We discover that conceptions about �appellativeverbs�, deemed to be Beschi's owns by later writers such asCaldwell, have been extrapolated on the basis of non-explicitformulations, his attitude being a compromise between his Latinheritage and his willingness to do justice to Tamil.
+
+R�sum�: La figure de Beschi est importante pour l'histoire de lagrammire car il semble �tre le premier � avoir effectu� uneanalyse en profondeur des structures du tamoul qui soitutilisable dans une langue occidentale (le latin). Cependant, une�valuation pr�cise de son r�le n'est possible qu'en le resituantpar rapport � la tradition de grammire latine dont il est issu.Cet examen permet de constater que les conceptions attribu�es parla post�rit� (et en particulier Caldwell) � Beschi sur les�verbes appellatifs� sont une extrapolation � partir d'�l�mentsqui ne sont pas explicites dans ses formulations, lesquelles sontun compromis entre un cadre pr�existant et un souci de rendrejustice � la langue.
+
+
+Sommire
+
+#*Introduction
+
+#*1.1Beschi
+#*1.2�l�ments de chronologie
+#*1.3Les trois grammires tamoules en latin de Beschi
+
+#*2.1La notion de �verbe appellatif� apr�s Beschi
+#*2.2Beschi dans le cadre de la grammire latine
+#*2.3Les appellatifs dans la premi�re grammire de Beschi
+#*2.4Beschi et les appellatifs dans la langue po�tique
+#*2.5Conjugison des appellatifs
+
+#*3.1Interaction avec le point de vue traditionnel tamoul
+#*3.2Beschi et les adjectifs
+
+#*R�f�rences bibliographiques
+@newpage
+Cet article sera divis� en trois parties. La premi�re pr�senterabri�vement Beschi et son ~oeuvre grammaticale. La seconde seraconsacr�e � l'examen d'une notion grammaticale souvent associ�e �son nom. Ma d�marche sera alors r�gressive puisque j'examinerid'abord des conceptions �nonc�es aux XXe et XIXe s. avant de lescomparer avec leur source au XVIIIe s. chez Beschi et deconfronter ce dernier avec la tradition de grammire latine dessi�cles qui le pr�c�dent. Enfin, dans la troisi�me partie, jemontreri comment le travil de r�organisation effectu� parBeschi s'applique �galement aux �l�ments provenant des grammiresindig�nes.
+
+
+1.1 Beschi
+Au cours des presque 36 ann�es qu'il a pass�es dans le Sud del'Inde, C.J.Beschi (1680-1747)NOTEB Nous avons un compte-rendubiographique d�till� sur Beschi dans le livre deK.MEENAKSHISUNDARAM [1974], p.28-33: n� le 8.XI.1680 �Castiglione-delle-Stiviere dans la r�publique de Venise, il entradans la Compagnie de J�sus en octobre 1698. Ayant fini ses �tudesde lettres et fait une premi�re ann�e de philosophie, il commen�a� enseigner la grammire � Ravenne (pendant un an), puis lagrammire et les humanit�s � Bologne, o� il continua ses �tudesde philosophie. Ordonn� pr�tre en 1709 apr�s quatre ans deth�ologie, il partit de Lisbonne en 1710 pour rejoindre lamission de Maduri en 1711, par Goa et Ampalakat. Apr�s une viecr�ative et pleine de p�rip�ties, il mourut le 4.II.1747 aus�minire d'Ampalakat dans l'�tat de Travancore. Si lesinformations donn�es par K.MEENAKSHISUNDARAM sont exactes, ellescontredisent deux s�ries de dates que nous trouvons dans un autrelivre, r��dition (1971) de la traduction anglise de la grammiredu ko�un tami�: 1. Dans sa pr�face de 1848, le traducteur anglisG.W.Mahon fait arriver Beschi en Inde en 1707 � Goa et le faitmourir en 1742 � Manapar; 2. Dans sa Publisher's Preface de 1971,N.KANDASWAMY cite un texte (publi� en 1822) de BenjaminBABINGTON, traducteur en anglis de la grammire du cen tami�,lequel fait arriver Beschi en Inde � Goa en 1700 et le faitmourir �galement en 1742, mis � Gayal Patanam. a jou� un r�le detrit d'union entre les traditions grammaticales europ�ennes ettamoules. Il a �t� l'un des premiers � utiliser la terminologielatine pour d�crire (� des fins p�dagogiques) la languetamouleNOTEB M�me s'il est pr�c�d� par ZIEGENBALG qui imprime en1716 une Grammatica Damulica, le contraste est frappant entre lesdeux ouvrages: celui de Z. est une juxtaposition de listesd'expressions (sur des th�mes religieux et dans un vocabulire engrande partie d'origine sanskrit) avec leurs traductions latines;Celui de Beschi est un expos� en latin, contenant des exemples..Il est de ce fait � l'origine de l'acclimatation d'un certinnombre de termes occidentux encore employ�s pour la descriptiondu tamoul. Dans le m�me temps, nous le voyons dans ses troisgrammires en latin d�finir des �quivalences entre saterminologie et celle des grammiriens indig�nes. Il estpr�occup� de comprendre leurs conceptions et semble s'en fairepresque le missionnireNOTEB Beschi est all� jusqu'� �crire unegrammire tamoule en tamoul: le To���l Vi�akkam, constitu�e de370 s�tra (versifi�s) accompagn�s d'un commentire. Quant � satroisi�me grammire latine, la Clavis, elle suit un plan degrammire tamoule. Cependant, dans cet article, je me limiteri �une premi�re exploration de ses textes latins, confront�s � leurstraductions en anglis dont l'influence a �t� importante, et meconcentreri sur les deux premi�res grammires.. La pr�sente�tude, limit�e � l'examen des classes de nomina, a pour objet deresituer les conceptions de Beschi dans une histoire. D'un c�t�en effet, celles-ci s'enracinent dans la grammire latine etBeschi ne forge pas de termes latins nouveaux. D'un autre c�t�,confront� � une langue de structure diff�rente de celles qu'ilconna�t, il est amen� � op�rer des adaptations qui permettront �ses successeurs de se r�clamer de lui pour inventer. Gr�ce � lui,le terme d'�appellatif� pourra vivre une seconde vie aupr�s deceux qui n'auront jamis connu son utilisation en grammirelatine.
+
+
+1.2 �l�ments de chronologie
+La pr�sentation qui va suivre faisant intervenir de nombreuxacteurs (traducteurs, �diteurs, linguistes), il a sembl�n�cessire de rassembler ces noms en un lieu pour que le lecteurpuisse commod�ment se situer dans le temps.
+
+1716: ZIEGENBALG, B., missionire du roi du Danemark, faitimprimer � Halle sa Grammatica Damulica.
+
+1728: BESCHI, C.J., de la Compagnie de J�sus, ach�ve le manuscritde sa grammire du ko�un tami� (tamoul ordinire) en datant sapr�face 4.Kal.Jan. 1728.
+
+1730: BESCHI, C.J., finit d'�crire sa grammire du cen tami�NOTEBIl en existe deux manuscrits � la Biblioth�que Nationale (Fondsindien 192 & 193). (tamoul po�tique) en datant sa pr�face Idibusseptembris 1730.
+
+ca. 1735, BESCHI, C.J., �crit (selon BESSE [1917]) la Clavis. Iln'y a ni pr�face et ni date.
+
+1738: La Tranquebar Lutheran Mission Press publie la premi�regrammire de Beschi [ms.1728].
+
+1747: Mort de Beschi.
+
+1822: La College Press de Madras publie la traduction faiteNOTEBLa traduction a �t� faite en 1814 (voir KANDASWAMY, 1971,p.iii.). par B.G.BABINGTON, Madras Civil Service, � partir dela seconde grammire de Beschi [ms.1730].
+
+1843: Les Missions �trang�res republient � Pondich�ry la premi�regrammire de Beschi [ms.1728].
+
+1848: MAHON, G.W., Garrison Chaplin (Fort St Georges, Madras),traduit en anglis la premi�re grammire de Beschi [ms.1728].
+
+1856: CALDWELL, R., [1856], publie sa grammire compar�e deslangues dravidiennes.
+
+1875: seconde �dition de Caldwell.
+
+1876: BURNELL, A., Collector of Tanjore, 1876, fait publier laClavis attribu�e � BESCHI [ms.ca. 1735].
+
+1917: BESSE, L., 1917, Compagnie de J�sus (Trichinopoly), publiele texte de la seconde grammire de Beschi [ms.1730] et republiesa traduction par Babington [1822].
+
+1946: BLOCH, J., fait para�tre sa Structure grammaticale deslangues dravidiennes.
+
+1971: VADIVEELAN, A., Tanjore Sarasvati Mahal Library, republieet pr�face la traduction de Beschi [1730] par Babington [1822].
+
+1974: KANDASWAMY, N., Tanjore Sarasvati Mahal Library, republieet pr�face la traduction de Beschi [1728] par Mahon [1848].
+
+
+1.3 Les trois grammires tamoules en latin de Beschi
+A. La grammire du ko�un tami� (1728)
+Ce texte, pour lequel la plus ancienne �dition remonterit �1738NOTEB Tranquebar Mission Press, selon A.Burnell (dans sapr�face de 1876 � la premi�re �dition de la Clavis, voir infra)et selon K.MEENAKSHISUNDARAM (op.cit.p.32). Mais Mahon (loc.cit.) donne la date de 1739., et dont la pr�face est dat�e�4.Kal.Jan.1728�NOTEB J'ai pu consulter une �dition de 1843 �la Soci�t� Asiatique (Paris), o� sont conserv�s plusieurs desouvrages ici cit�s., est divis� en 5 chapitres: I.De Litteris(35p.)NOTEB Pour les nombres de pages, je suis ici l'�dition de1843. Pour les deux autres grammires, je suis les premi�res�ditions., II.De Nomine et Pronomine (21p.), III.De Verbo(47p.), IV.De Syntaxi (65p.), V.De Variis quotidiano usuinecessariis (34p.).
+
+B. La grammire du cen tami� (1730)
+Ce texte, qui a circul� par voie manuscrite et est d'abord parudans la traduction anglise de B.G. Babington en 1822, n'a �t�publi� qu'en 1917 par L.Besse. Sa pr�face est dat�e �Idibusseptembris 1730.� et il est divis� en deux parties dont lapremi�re expose (en trois chapitres ou 9+ 31+19= 59p.,consacr�es � l'orthographe, au nom et au verbe) lesparticularit�s grammaticales de la langue po�tique (par rapport �la langue ordinire qui faisit l'objet de la premi�regrammire). La seconde partie explique (en 39p.) les principesde la versification tamoule.
+
+C. La Clavis (ca. 1735)
+Ce texte, qui a �t� imprim� pour la premi�re fois en 1876, �l'initiative de A.Burnell, Collector de Tanjore, et pour lequelil existe selon L.Besse un manuscrit ancien (circa 1735)NOTEBBesse le mentionne en 1917, dans son �dition de la grammire ducentami�; il pr�cise que J.Vinson a �mis des doutes surl'attribution � Beschi de la Clavis mis pense pouvoir les�carter pour un certin nombre de risons internes au texte., neposs�de pas de pr�face. Il suit un mod�le de grammire tamoule etest divis� en cinq parties: e�uttu �Litere� (13p.), col �Voces�(36p.), poru� �Materies�NOTEB Il s'agit des mati�res po�tiques.Les 3 premi�res parties ont des titres tamouls, que l'auteurparaphrase ensuite en latin. (15p.), y�ppu --- Poesis (63p.),a�i seu ala�k�ram --- De tropis ac figuris rhetorice (34p.).
+
+
+2.1 La notion de �verbe appellatif� apr�s Beschi
+Dans les textes grammaticux ou linguistiques en languesoccidentales (anglis, fran�ais, allemand) qui ont pour objet letamoul, on rencontre une expression qui doit sembler �trange �ceux qui sont familiers de la terminologie grammaticale latine,celle de �verbe appellatif�. Nous avons ainsi dansS.AGESTHIALINGOM & S.V.SHANMUGAM [1970] un chapitre intitul��Appellative Verbs�. De m�me, nous trouvons dansS.AGESTHIALINGOM [1976], p.6-7, les expressions �appellativefinite verb forms�, �appellative verb predicates�, �appellativeverbs�, �appellative relative participles�, etc.NOTEk o� le terme�appellative� sert sans doute � traduire le terme ku�ippu quel'on a dans les expressions tamoules ku�ippu vi�ai mu��u, ku�ippuvi�ai, ku�ippu peyar eccam. Si ceux-ci semblent utiliserl'expression comme une pure �tiquette, K.BALASUBRAMANIAN [1980]semble plus soucieux d'ad�quation terminologique lorsqu'il �crit(p.66):
+
+	Among the class of words that can be referred to asPredicatives, Verbs form a separate class as they inflect forTense while all others do not.
+	The other class of words differ from verbs in not occurringin the Imperative and Infinitive moods [...]. Probably having inmind the above listed similarities and the differences, thisclass of words are referred to as vi�ai-k ku�ippu `Verbs byimplication' by traditional grammarians! Modern grammarians referto this class as Appellative Verbs. (See Agesthialingom andShanmugam, 1970)
+	As the term `appellative' is minly associated with Nounsand naming as this class is shown above to be distinctlydifferent from Nouns, I would like to refer to this class ofwords as Tenseless Predicatives (Tl.Pr.) as a sub-class ofPredicatives.
+
+A un autre endroit (op.cit.p.61), K.Balasubramanian mentionneaussi Beschi et Caldwell parmi les �modern grammarians� et nousdit, � propos des vi�aik ku�ippu, qu'ils �refer to this class ofwords as Appellatives�. On peut noter qu'il n'emploie pas cettefois l'expression �appellative verbs�, ce en quoi il diff�re deMeenakshisundaram [1974] qui �crit (p.205):
+
+	What Tamil grammarians call Vi�aikku�ippu is the conjugativenoun of the English grammarians and this is called by Beschi asappellative verbs. Caldwell concedes with Beschi and says that itis the best suited name.
+
+Nous trouvons en effet dans A Comparative Grammar of theDravidian or South-Indian Family of languages (second edition,1875)NOTEB Nous n'avons malheureusement pu consulter que leretirage 1976 de l'�dition expurg�e (voir la Editor's preface o�il est dit: �our sole object has been to enable students toobtin access to so much of the author's work as retins apermanent value�) faite en 1956 (et appel�e �3rd Edition�) parl'Universit� de Madras � partir de la seconde �dition., dans lapartie VI.9, Appellative verbs, or conjugated nouns,NOTEB Cecouple de termes se retrouve aussi en langue fran�aise, avecd'autres explications, dans BLOCH [1946] dans le chapitreintitul� �Noms pronominalis�s�, o� nous lisons (p.33):�[...]les noms pronominux peuvent se construire commepr�dicats, et [...] sont susceptibles d'avoir sujet et r�gime;ils �quivalent d�s lors exactement � des verbes. C'est ce qu'on aappel� les verbes appellatifs, ou noms conjugu�s, et dans lagrammire tamoule, kuRippu-vinei verbes signux ou verbes denotion, s'opposant aux teri-nilei-vinei, verbes explicites, en cequ'ils ne font qu'�voquer la notion de base, sans noter comme lesseconds la position dans le temps.� les explications suivantes:
+
+	[...] Any Dravidian noun and any adjective may be convertedinto a verb in the more ancient dialects of each of the Dravidianlanguages [...] Tamil grammarians call the verbs here describedvinei- (k) ku�ippu, literally verbal signs; and they have, notinappropriately, been styled conjugated nouns by an Englishwriter on Tamil grammar: but I think the best name is that whichwas given them by Beschi --- viz., appellative verbs orconjugated appellatives.
+
+Cependant, nous cherchons vinement dans les textes de Beschi (ouplut�t dans leurs traductions en anglis) l'expression�appellative verbs� qui lui est attribu�e par Caldwell (et � sasuite par K.Meenakshisundaram). On ne rencontre que des�appellatives� et des �appellative nouns�. Dans la suite de cette�tude, nous tenterons de pr�ciser la position de Beschi.
+
+2.2 Beschi dans le cadre de la grammire latine
+Si Beschi lisse, peut-�tre sans le savoir, une terminologie enh�ritage aux descripteurs du XIXe et du XXe, il est lui-m�me unh�ritier, comme on peut le voir aux tables des mati�res de sesgrammires. Ainsi, dans la grammire du ko�un tami�, consacr�e �la langue ordinire, le chapitre II. (De Nomine et Pronomine) sedivise en 5 sections:
+	De Declinatione Nominum
+	De Adjectivis
+	De Pronominibus
+	De Pronomine Adjectivo
+	De Generibus
+Quant � la grammire du cen tami�, consacr�e � la languepo�tique, le second chapitre de sa premi�re partie de se diviseen 4 sections (suivies d'un Appendix):
+	De Nomine,
+	De Nomine Appellativo,
+	De Nomine Adjectivo,
+	De Pronominibus.
+Si Beschi met plus en �vidence le nomen appellativum dans sonexpos� sur la langue po�tique, celui-ci n'est pas non plus absentde l'autre grammire, mis il s'y trouve rejet� dans le chapitreIV. (De Syntaxi), dans une section De Nomine, que les �diteurs deBeschi s�parent (dans la table des mati�res) en troissous-sections:
+	De Nomine quoad Syntaxim,
+	De Nominibus appellativis,
+	De Nominibus verbalibus.
+Ces termes, que Beschi adapte � la situation tamoule, proviennentdes traditions grecque et latineNOTEB Ainsi (voir AUROUX [1990]),les sto�ciens �distingueront cinq parties du discours: nompropre, nom appellatif, verbe, article, conjonction. Par lasuite, la liste canonique sera: nom, verbe, participe, article,pronom, pr�position, adverbe, conjonction. Cette liste varierapeu jusqu'� nos jours, l'adjectif sera distingu� du nom et leparticipe rattach� au verbe.�, o� ils sont en relation les unsavec les autres dans des oppositions dont les hi�rarchies ont puvarier selon les th�oriciensNOTEB Pour un expos� plus pr�cis surles th�ories des grammiriens latins, on peut se reporter �COLOMBAT [1992]. Je voudris ici remercier Jacques Julien, membrede l'URA 381 et ma�tre d'~oeuvre d'une base de donn�es sur laterminologie des grammiriens latins, de m'avoir consacr� de sontemps pour examiner avec moi les plans des trois grammires deBeschi.. Ainsi, il est fr�quent dans les grammires latinesdepuis le Moyen-�geNOTEB Celles-ci innovant par rapport � Donatet Priscien. que le nomen adjectivum �adjectif� s'oppose au nomensubstantivum �substantif� et que, parmi ces derniers, le nomenproprium �nom propre� s'oppose au nomen appellativum �nomcommun�NOTEB En fait, la situation varie selon les grammires et,comme l'explique COLOMBAT [1992], l'opposition propre/commun peutse retrouver aussi dans les adjectifs. Par ailleurs, on trouveencore � cette �poque chez certins grammiriens des adjectifsparmi les esp�ces des noms appellatifs, ce qui est le reste d'une�poque plus ancienne, o� la hi�rarchie des divisions �titdiff�rente..
+
+R 65,T 5
+DEBUT GROUPE
+BEGIN ARBRE
+
+					   Nomen
+						�
+				�����������������Ŀ
+			Substantivum	   Adjectivum
+			(substantif)	   (adjectif)
+				�
+		����������������Ŀ
+	Proprium		  Appellativum
+(nom propre)	  (nom commun)
+END ARBRE
+
+Ramifications de la partie du discours �Nom�
+dans la tradition de grammire latine qui pr�c�dent Beschi
+FIN GROUPE
+R 65,T 5
+
+2.3 Les appellatifs dans la premi�re grammire de Beschi
+A ne voir que les titres des sections, Beschi semble avoir �t�inspir� par un plan classique. Sa d�marche cesse cependantd'appara�tre classique d�s que l'on examine les contenus dessections consacr�es aux appellatifs dans ses deux premi�resgrammires, que nous examinerons ici en parall�le.
+
+Dans sa grammire du tamoul ordinire, il trite des nominaappellativa dans la syntaxe en expliquant que:
+
+[...] ad syntaxim spectat scire, Tamulenses qu�m plurima haberenomina appellativa, et cuilibet fas esse, ad libitum de novocomponere non tot, quin plura, qu� cert� in Lexico invenirinequeunt; pro quo sint h� regul�:
+
+1# Addendo nomini substantivo vocem k��a� pro masculino, et k��ipro femino, formant nomina appellativa hominium. Sic ex c���uepistola, tabella, fit c���uk k��a� tabellarius, ex t���amhortus, fit t���ak k��� hortulanus, &c. in qu� compositioneregul� adjectivorum observand� sunt. Primum enim nomen adjectivomore sumitur [...]
+
+i.e. pour Mahon:
+
+[...] It appertins to Syntax, to know, that the Tamulians haveas many appellative nouns as possible; and every one is atliberty, at pleasure to compound anew, not so many, but a greatmany more, which undoubtedly cannot be found in a lexicon: forwhich (custom) these rules may be suggested.
+
+	1. They form appellative nouns of men, by adding to the nounsubstantive word k��a� for the masculinee, and k��i for thefeminine. Thus from c���u, an epistle, a letter, comes c���ukk��a�, a letter-carrier; from t���am, a garden, comes t���akk��a�, a gardener, &c. in which composition the rules ofadjectives are to be observed. For the first noun is used in themanner of an adjective [...]
+
+Par la suite, Beschi explique que les noms appellatifs ainsiform�s expriment une fonction (officium), comme ceux d�j� cit�s,ou une passion (passio) du corps ou de l'esprit, comme k�pakk��a� �col�rique� (iracundus) ou viy�tik k��a� �infirme�(infirmus). Mais, dit-il, �si je d�sire former un nom appellatifsur un nom de lieu, comme nous disons Romin � partir de Rome, ilest impossible d'ajouter k���� (si � nomine v. g. loci nomenappellativum formare velim, ut nos � Rom�, Romanum dicimus, nullomodo addi potest k��a�). Il semble ainsi anticiper sur sagrammire du tamoul po�tique puisqu'il oppose par exemple laforme ridicule �rkk��a�NOTEB Il s'agit d'une forme populireattest�e aujourd'hui encore. Beschi rejette des formes semblablesen disant que les employer ferit rire m�me les vieilles(irriderent vel ips� vetul�). Il reste que le ko�un tami� qu'ild�crit --- dans sa pr�face il l'oppose au cen tami� commecommunem � sublimem ou comme asperum � elegantem --- n'est pasune langue populire. � la forme �l�gante �r� �villageois�(oppidanus), form�e sur �r �village� (oppidum). Le reste de lasection est consacr� � examiner les proc�d�s �l�gants. Aupassage, il refuse d'appeler noms appellatifs des constructionsp�riphrastiques comme ��k�ramu��ava�, qu'il traduit d'abord parsuperbus puis par ille qui habet superbiam. Il se justifie endisant qu'il s'agit de syntagmes (h�c non nomina appellativa, sedphrases dici debent). Cette restriction semble viser l'usageterminologique incontrol� d'autres descripteursNOTEB Ceux-ci�tant d�sign�s seulement par aliqui, je n'ai pu d�terminer s'ils'agissit d'un renvoi � d'autres ouvrages ou bien de lar�futation de th�ses circulant oralement dans les cercles o� l'onapprenit le tamoul avec le latin pour m�talangue. Il ne sembleen tout cas pas viser Ziegenbalg puisque celui-ci ne parle pas denomina appellativa..
+
+2.4 Beschi et les appellatifs dans la langue po�tique
+Alors que nous venons de le voir dans cette premi�re grammirecontraster des noms appellatifs comme t���ak k��a� �jardinier�(hortulanus) � des noms substantifs comme t���am �jardin�(hortus), nous trouvons un syst�me diff�rent dans sa grammire dutamoul po�tique (cen tami�). En effet, apr�s avoir dans lasection De Nomine expliqu� comment fonctionne la d�clinison desnoms, Beschi identifie d�s le d�but de la section De NomineAppellativo, l'opposition latine entre les nomina propria et lesnomina appellativa avec une opposition qu'il reprend du Na���l,un trit� grammatical tamoul m�di�val, entre les pakupatam et lespak�ppatam. Il explique:
+
+Nomina appellativa Tamulice vocantur pakupatam, cum nominapropria vocantur pak�ppatam sc. patam est dictio, pakutal estdividi vel esse divisibile; hinc participium negativum pak� estindivisibile seu simplex seu multiplex, quod est unum expluribus, unde bene de Deo potest dici Eum esse pak�pporu�, Enssimplex, incompositum; creata omnia pakuporu�, entia composita;quare propria nomina vocant dictiones simplices pak�ppatam; illisenim tantum unum objectum correspondet. Sic v.g., vil diciturpak�ppatam, dictio simplex, huic enim correspondet simplexobjectum, id est arcus; at si fiat appellativum vill�,arcitenens, huic dictioni correspondet duplex objectum, occurritet arcus, et qui tenet arcum [...]
+
+Ce que Babington traduitNOTEB Tout en suivant peut-�tre un textelatin diff�rent, car il y a une obscurit�, semble-t-il, dans letexte latin publi�. par:
+
+	Appellative nouns are called in Tamil pakupatam, incontradistinction to nouns proper, which are termed pak�p patam.patam signifies a word. paku, for pakum, the future participlefrom the verb pakuttal to divide or to be divisible, signifiesdivisible, consisting of parts, one composed of several; pak�,the negative participle from the same verb means indivisible orsimple. The Deity may be called pak�p poru� a being simple oruncompounded; and created things, pakuporu� compounded beings.
+	Nouns proper are called pak�ppatam simple words, becusethey refer to one object only. The object vil, for instance, ispak�ppatam, becuse it refers to one object, a bow. Nounsappellative are called pakupatam, compound words, becuse theyrefer to two objects: thus, if we form an appellative from theword vil, as vill� a bow man, this refers to two objects --- thebow itself, and the man who holds it.
+
+Le tour de force que Beschi vient ainsi d'effectuer sur laterminologie latine, qu'il d�tourne et r�cup�re au profit d'unedistinction grammaticale tamouleNOTEB Ce n'est pas ici le lieud'examiner si les grammiriens tamouls l'ont emprunt�e auxgrammiriens sanskrits. En ce qui concerne la grammire latine,et pour faire de la grammire-fiction, Jacques Julien me signaleque si Beschi avit suivi la tradition des grammiriens Donat etPriscien, il aurit consid�r� vil �arc� et vill� �archer� tousles deux comme des nomina appellativa �noms communs�, misqualifi� le premier de primitivum et le second de derivativum.,va lui permettre de faire rentrer la grammire tamoule dans lagrammire latine, puisqu'il peut ensuite, suivant toujours leNa���l, exposer les six �``loci communes''� � partir desquels onpeut former des appellatifs: res, locus, tempus, partes,proprietates, officium seu actioNOTEB Adapt�s au fran�ais, desexemples en serient, plus ou moins nettement selon les �lieuxcommuns�: archer, montagnard, contemporin, barbu, noirud,voyageur. et passer ensuite � l'expos� de la conjugison desappellatifs. Quant � son traducteur anglis, il est probable quepour lui l'expression nomen appellativum n'avit pas un senstechnique pr�alable. On le voit en revanche traduire l'expressionnomina propria par nouns proper et non pas par proper nouns quilui serit sans doute apparu comme un contre-sens. Pour enrevenir � Beschi, on peut penser qu'il avit besoin d'uneopposition terminologique majeure pour expliquer un point qui luisemblit tr�s important, puisqu'il conclut la section De NomineAppellativo par ces mots:
+
+Fusius de appellativis scripsi. In his enim pr�cipua hujusidiomatis syntaxeos forma et difficultas consistit.
+
+ce que K.Meenakshisundaram (op.cit. p.205) traduit par:
+
+I have written rather at length on the appellatives for in themlies the chief and difficult character of the syntax of thisidiom.
+
+R 65,T 5
+
+2.5 Conjugison des appellatifs
+Nous avons vu que Caldwell attribuait � Beschi des �appellativeverbs or conjugated appellatives�. Si la premi�re expression nesemble pas correspondre � un terme employ� par Beschi et auritfait sortir ses oppositions de base d'un sch�ma ternire nomenpropriumNOTEB M�me si ce terme n'est pas dans la table desmati�res, nous avons vu qu'il figure en bonne place dans letexte. Cependant, nous verrons aussi Beschi contraster nomensubstantivum et nomen appellativum., nomen appellativum, nomenadjectivum, la seconde expression ne trahit pas Beschi et l'onpeut penser que Caldwell, qui n'avit sans doute pas comme Beschienseign� la grammire latineNOTEB Voir supra, en note, les ann�esde formation de Beschi chez les j�suites. Quant au �Rev. Dr.Bishop� Robert Caldwell (1814--1891), missionnire protestant�cossis, il a eu selon K.Meenakshisundaram (op.cit.p.34) uneformation initiale en �comparative philology� � Glasgow. etn'�tit donc pas enferm� dans un cadre terminologique rigide,pouvit tirer les cons�quences de la mani�re de s'exprimer deBeschi et forger lui-m�me, apparemment sans s'en rendre compte eten en donnant tout le cr�dit � Beschi (voir supra), l'expression�appellative verb�.
+
+Plus pr�cis�ment, nous trouvons dans les grammires de Beschi oubien l'expression nomen appellativum (et son pluriel nominaappellativa) ou bien plus simplement le terme appellativum (etson pluriel appellativa). Mais Beschi nous explique que:
+
+Pr�terea quod huic lingu� omnino singulare esse censeo: nominaomnia appellativa declinantur quidem modo nominum substantivorum;at qu� fiunt vel juxta modum 5@+[�] radicis vel ab obliquocujusque nominis; et declinantur per omnes casus ut nomina, etconjugantur per omnes personas ut verba, et tunc vocantur vi�aikku�ippu, signum verbi, scl. nomen indicans aliquam actionem seupossessionem verbi: sic v.g. p��i�a�, p��i�a�ai, p��i�a�ai,[...], et sic de c�teris. Pr�terea juxta terminationes hujusdialecti, de quibus infra, conjugantur ut verba per omnespersonas, sic n� p��i���, n� p��i�ai, [...]; et hoc modosignificant ut verba et explent orationem; significant h�c: egohabeo torquem ex gemmis, tu habes...etc.;
+
+ce que Babington, suivant peut-�tre une autre version du texte,traduit par:
+
+	In this language there is a peculiarity, which, I believe,will not be found in any other. It is this, that, whilstappellatives in general are declined through all the cases, likenouns substantive, those which are formed either from the fifthhead of primitives, or from the oblique of any noun whatever, arealso conjugated through all the persons, like verbs. In thiscase, they are called vi�aik ku�ippu the sign of the verb; thatis, nouns serving, like a verb, to express some action orpassion: thus, ve�pi�a� he dwells on a mountin.
+	The following is an example of an appellative declinedthrough all the case, like a noun substantive: p��i�a�,p��i�a�ai, [...]; all from p��i�.
+	The following is an appellative declined through all thepersons, with the verbal terminations proper to this dialect (ofwhich hereafter): n� p��i���, n� p��i�ai, [...]. When thusconjugated they have the force of verbs, and form of themselvescomplete sentences. The foregoing examples, therefore, signify: Ihave a necklace of gems, Thou hast a necklace of gems, &c.
+
+3.1 Interaction avec le point de vue traditionnel tamoul
+Beschi �tit confront� � un double probl�me: il devit d'une partfournir une description du tamoul utilisable facilement pard'autres missionires europ�ens, ce qui l'amenit � conserver unplan de grammire latine. Il voulit aussi, semble-t-il, donnerdirectement acc�s � la tradition grammaticale tamoule elle-m�me,ce qui lui posit de difficiles probl�mes terminologiques. Eneffet, les grammires tamoules lui fournissient une listecanonique de quatre parties du discours: peyarc col �noms�,vi�aic col �verbes�, i�aic col �particules�, uric col �motspropres�. Dans cette liste, le second terme et le quatri�me terme�tient les plus difficile � expliquer. En effet, les verbes(vi�aic col) comportient une sous-classe d�j� rencontr�e parnous: les vi�aik ku�ippu �verbes id�els�NOTEB A part l'expression�appellative verbs�, rappellons les diff�rentes traductions ouexplications d�j� mentionn�es: �Verbs by implication�(Balasubramaniam); �verbes signux� ou �verbes de notion�(Bloch); �verbal signs� (Caldwell); �signum verbi� (Beschi).Enfin, dans le cadre de mon �tude du C���variyam (voirCHEVILLARD [1990]), j'ai moi-m�me propos� la traduction �verbeid�el�., que Caldwell allit finir par appeller �appellativeverbs�; et le chapitre des uric col �tit un fragment dedictionnire des mots po�tiques peu fr�quentsNOTEB Ou bienpr�sentant des particularit�s s�mantiques: polys�mie, synonymie,etc. (payil�tavi), mis les grammiriens avient quand m�mer�ussi � leur trouver une caract�risation en disant qu'ilspouvient exprimer un �son� (ici), une �id�e� (ku�ippu) ou une�qualit�� (pa�pu). Cela suffisit sans doute � Beschi pourd�cider d'employer le terme uric col pour d�signer les adjectifs,mis il y avit dans cette op�rationNOTEB Dont nous trouvons ladescendance jusque chez Zvelebil[1975] (p.74, n.182) lorsquecelui-ci �crit: �uriccol �`qualifiers�' (i.e. adjectives andadverbs)�. une double innovation: d'une part les entit�slinguistiques que Beschi allit mettre sous l'�tiquette uric col�tient auparavant r�parties sous les deux �tiquettes �nom� et�verbe�; d'autre part, l'ancien contenu de l'�tiquette (i.e. uneliste de mots po�tiques difficilesNOTEB Ind�pendamment desjustifications s�mantiques qui avient pu �tre trouv�es auregroupement de ces mots.) ne se retrouvit pas, � une ou deuxexceptions pr�sNOTEB Comme l'�adjectif� ka�i, mentionn� dans laliste pour ses tr�s nombreuses valeurs: �strict�, �ac�r��,�fris�, �vif�, �solennel�, �piquant�, etc., dans la nouvelleclasse. Pour r�sumer, l'effet sur la classification tamoule�tit:
+
+DEBUT GROUPE
+BEGIN ARBRE
+					    col
+						�
+	���������������������������������������������Ŀ
+peyarc col     vinaic col	   i�aic col	   uric col
+(noms)		  (verbes)	  (particules)	 (mots propres)
+				�					  --> ADJECTIFS
+	  �������������������Ŀ
+terinili vinai	 kurippu vinai
+(verbe explicite)	(verbe id�el)
+				--> NOMS APPELLATIFS
+
+END ARBRE
+CLASSIFICATION TAMOULE TRADITIONNELLE
+(avec les r�organisations de Beschi)
+FIN GROUPE
+
+R 65,T 5
+
+3.2 Beschi et les adjectifs
+nohingePour achever cette �tude et pour donner un autre aper�udes capacit�s de r�organisation de Beschi, j'esquisseri danscette derni�re partie ses conceptions sur les nomina adjectiva.Bien que la tradition grammaticale tamoule ne distingue pas declasse d'adjectifsNOTEB Sur la possibilit� de distinguer unetelle classe, voir CHEVILLARD [1992]., nous voyons Beschiaffirmer avec assurance, dans la section De Adjectivis de sagrammire du ko�un tami�:
+
+Nomina Adjectiva Tamulenses vocant uric col ac si dicerent vocesproprietatis. Abundat h�c lingua nominibus propri� adjectivis,lic�t in vulgari pucis utamur, v.g.: pala plures, plura; cilaaliqui, �, a; nal vel nalla bonus, a, um; putu novus, a, um; potuuniversalis, e; ariya difficilis, e; periya grandis, e; [...]Pr�ter h�c vocant adjectiva ipsa nomina substantiva, si adjectivomore usurpentur, [...]
+
+c'est-�-dire, pour Mahon:
+
+	The Tamulians call Noun Adjective uriccol, as though theywould say words of property or quality. This language abounds inNouns properly Adjective, although commonly we use but few: e.g.pala, more; cila some; nala good; putu new; potu universal; ariyadifficult; periya great; [...]
+	Besides these, they call Nouns Substantive themselves,Adjectives, if they are used in the way of adjectives; [...]
+
+Et Beschi poursuit en expliquant les transformations phon�tiquesque subiront les noms substantifs pour devenir des adjectifs.Ainsi mukam �visage� (lat. vultus) pourra prendre la formemukattu dans l'expression mukattuc c�yal �la gr�ce du visage�(lat. figura vult�s, angl. the face's form); le nom k��u �for�t�(lat. silva) prendra la forme k���u dans k���u va�i �chemin enfor�t� (lat. via silvestris, per silvam); le nom ko�umi�cruaut�� (lat. barbaries) prendra la forme ko�iya dans ko�iyama�acu �c~oeur cruel� (lat. voluntas barbara); le nom kal�pierre� restera inchang� dans kal v��u �mison de pierre� (lat.domus lapidea).
+
+On pourrit sans doute r�sumer la d�marche de Beschi en disantqu'� des fins p�dagogiques il appelle adjectif en tamoul ce quipeut se traduire en latin par un adjectif. Tout en remarquant quecela l'am�ne � rassembler sous le m�me titre des syntagmes deconstructions diff�rentesNOTEB Avec le m�me principe p�dagogique,on pourra expliquer que �stone� est en anglis un nom chang� enadjectif puisque Mahon peut traduire domus lapidea par �stonehouse�. Notre optique contemporine, de purs descripteurs, trouvecela sans doute un peu ad hoc., il faut aussi noter que Caldwell(op.cit. partIII, sectionIII, Adjectives, or nouns usedadjectivally), semble partager les conceptions de BeschiNOTEBFaisant une analyse parall�le, Bloch (op.cit.p.32) utilise lesm�mes types d'exemples pour conclure qu'il n'y a pas d'adjectifsproprement dits en dravidien.. Quant � la tradition grammaticaletamoul, qui ne conna�t pas d'adjectifs, elle analyseritdiversement les exemples de Beschi. Dans les uns, comme k���uva�i �chemin en for�t�, elle verrit des v���umit toki�compos�s casuels�, o� l'analyse pourrit restituer une marquecasuelle (ici de locatif) �lid�e. Pour d'autres, comme ko�iyama�acu �c~oeur cruel�, elle reconna�trit sans doute en ko�iya�cruel� le participe ad-nominal d'un verbe id�el. Elleexpliquerit de la m�me mani�re plusieurs des nomina proprieadjectiva �noms proprements adjectifs� que nous avons vumentionn�s par Beschi en t�te de son �num�rationNOTEB Cependant,certins, comme pala ou cila, serient des noms.. Pour d'autresenfin, que nous n'avons pas cit�s ici, mis que l'on trouveritdans la grammire du cen tami� (dans la section De NomineAdjectivo), comme les expressions cem po� �aurum purum�, centami� �perfecta lingua tamulica�, etc., l'analyse traditionnelleparlerit de pa�put toki �compos�s qualitatifs�NOTEB Sur lesexplications donn�es pour ces derniers par les commentateurstamouls, je renvoie � CHEVILLARD [1992]..
+@newpage
+R�f�rences bibliographiques
+
+R 65,T 5
+AGESTHIALINGOM, S. & SHANMUGAM, S.V., 1970, The language ofTamil inscriptions, 1250-1350 A.D., Annamali University.
+AGESTHIALINGOM, S., 1976, �Adjectives in Dravidian�, inS.AGESTHIALINGOM & P.S.SUBRAHMANIAN, DravidianLinguistics--V, Annamali University.
+AUROUX, Sylvin, 1990, �Mots (classes de ---s)�, in Auroux (dir),Les Notions Philosophiques, Dictionnire, in A.Jacob (dir),Encyclop�die Philosophique Universelle, Presses Universitires deFrance.
+BALASUBRAMANIAN, K., 1980, �Tenseless predicatives in Tamil�, inA Festschrift for prof.M.Shanmugam Pilli.
+BESCHI, [ms.1728] 1843, Grammatica/ Latino-Tamulica,/ in quade/ vulgari tamulic� lingu� idiomate/ ko�untami�/ dicto,/fusius tractatur;/ auctore/ P.Constantio-Josepho Beschio,/societatis Jesu, in regione madurensi, apud indos orientales,/missionario./ Nova Editio/ cum notis, et compendio grammatic�/de elegantiori dialecto centami� dicta,/ ab uno missionarioapostolico/ congregationis missionum ad exteros./ Pudicherii,/E typographio missionarium apostolicorum/ dict�congregationis./ 1843./Facultate � S.Sede Apostolic�/II.RR.Episcopo Drusiparensi V.A.concess�.
+BESCHI, Constantius Joseph, [ms.1728] 1971, A Grammar of theCommon Dialect of the Tamil Language called Ko�untami�, Tanjore,Sarasvati Mahal Library [reprint d'une traduction anglise de1848 par G.W.Mahon, avec une Publisher's preface parN.Kandaswamy].
+BESCHI, [ms.1730] 1917, A Grammar of High tamil, Latin textpublished for the first time by L. Besse, s.j., with the englishtranslation by B.G. Babington, M.C.S., second edition[Grammatica/ Latino-Tamulica,/ ubi/ de elegantiori lingu�tamulic� dialecto/ centami�/ dicta/ cui adduntur / tamulic�poeseos rudimenta/ ad usum/ missionarium societatis jesu./prima editio/ Accedit / Ejusdem operis anglica translatio/ aBenjamin Guidone Babington/ anno 1822/ Madraspatani primumedita / Nova Editio], Trichinopoly, St Joseph Industrial SchoolPress.
+BESCHI Constantius Joseph, [ms.1730] 1974, A Grammar of the HighDialect of the Tamil Language called Centami�, Tanjore, SarasvatiMahal Library [reprint de la seconde �dition (1917, Trichinopoly)de la traduction anglise de B.G.Babington (1822, CollegePress, Madras)], avec une Publisher's preface par A.Vadiveelan].
+BESCHI, [ms.ca.1735] 1876, Clavis Humaniorum LitterarumSublimioris Tamulici Idiomatis, auctore R.P.Constantio JosephoBeschio societatis Jesu, in madurensi regno misionario,Tranquebar, printed for A.Burnell, by the Evangelical LutheranMission Press.
+BLOCH, J., 1946, Structure Grammaticale des Langues Dravidiennes,Libririe d'Am�rique et d'Orient, Adrien-Maisonneuve, Paris.
+COLOMBAT, Bernard, 1992, �L'adjectif dans la tradition latine:vers l'autonomisation d'une classe�, in Histoire �pist�mologieLangage, tome 14-fasciculeI, Presses Universitires deVincennes.
+CALDWELL, Robert, [1875] 1976, A Comparative Grammar of theDravidian or South-Indian Family of Languages, University ofMadras [retirage de l'�dition abr�g�e faite en 1956 � partir dela deuxi�me �dition].
+CHEVILLARD, J.-L., 1990, Sur la m�talangue grammaticale desma�tres commentateurs tamouls m�d�vux, th�se de doctorat, UFR deLinguistique, Universit� Paris 7, � para�tre, Institut Fran�aisde Pondich�ry.
+CHEVILLARD, Jean-Luc, 1992, �Sur l'adjectif dans la traditiongrammaticale tamoule�, in Histoire �pist�mologie Langage, tome14-fasciculeI, Presses Universitires de Vincennes.
+MAHON, G.W., [1848] 1971, traduit BESCHI [1728]
+MEENAKSHISUNDARAM, K., 1974, The Contribution of EuropeanScholars to Tamil, University of Madras.
+ZIEGENBALG, Bartholom�us, 1716, Grammatica/ Damulica,/ qu�/per varia paradigmata, regulas & necessarium vocabu-/ lorumapparatum,/ viam brevissimam/  monstrat,/ qua/ linguadamulica/ seu malabarica, qu� inter Indos Orientales in/ usuest, & hucusque in Europa incognita fuit,/ facile discipossit:/ in/ usum eorum/ qui hoc tempore gentes illas abidolatria ad cultum veri/ Dei salutemque �ternam EvangelioChristi per-/ ducere cupiunt:/ In itinere Europ�o, seu in naveDanica,/ concinnata/ a/ Bartholom�o Ziegenbalg,/ SerenissimiRegis Dani� Missionario inter Indos Orientales, & eccle-/ si� exIndis collect� Pr�posito./  Hal� Saxonum/ Litteris & impensisOrphanotrophei MDCCXVI.
+ZVELEBIL, Kamil, 1975, Tamil Literature, Handbuch derOrientalistik, Zweite Abteilung: Indien, Zweiter Band: Literaturund B�hne, Leiden-K�ln, E.J.Brill.
