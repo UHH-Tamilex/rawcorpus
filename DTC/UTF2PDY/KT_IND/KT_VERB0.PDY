@@ -9,7 +9,7 @@
 <H3>STATISTICS</H3>
 
 <UL>
-<li>Anthology name: Kuï¿½untoki (=KT)
+<li>Anthology name: KuŸuntokai (=KT)
 <li>Anthology length: 2504 lines
 <li>Number of "v.r.": 710 occ. (of 227 distinct elements)
 <li>Density of "v.r.": 710/2504 = 28%
@@ -40,7 +40,7 @@
 <li>Select everything
 <li>Start "BlocNote" (NotePad)
 <li>Paste, and save in UTF8 text format (KTindE.utf)
-<li>apply UTF_2pdy.bat and obtin a new file  (KTindE.pdy)
+<li>apply UTF_2pdy.bat and obtain a new file  (KTindE.pdy)
 <li>run the dos command: [find "v.r." KTindE.pdy &gt; kt_vr.pdy
 <li>"slightly" edit the result and make it into an hyperlinked file
 <BR>(for instance make a search and replace of *.[0-9]* by ^J&lt;BR&gt;@*.?*, etc.
@@ -62,26 +62,26 @@
 <BR><A HREF="^kuru311.htm">[311-2]</A> 
 <BR><A HREF="^kuru352.htm">[352-3]</A> 
 <BR><A HREF="^kuru379.htm">[379-3]</A>
-<LI>aci		DEDR 37: 4. to move - v.r. 
+<LI>acai		DEDR 37: 4. to move - v.r. 
 <BR><A HREF="^kuru028.htm">[28-4]</A> 
 <BR><A HREF="^kuru182.htm">[182-6]</A> 
 <BR><A HREF="^kuru195.htm">[195-5]</A> 
 <BR><A HREF="^kuru273.htm">[273-2]</A>
-<LI>aci		DEDR 2341: 4. to become slender - v.r. 
+<LI>acai		DEDR 2341: 4. to become slender - v.r. 
 <BR><A HREF="^kuru214.htm">[214-3]</A> 
-<LI>aï¿½u		DEDR 77: 6. to kill - v.r. 
+<LI>añu		DEDR 77: 6. to kill - v.r. 
 <BR><A HREF="^kuru198.htm">[198-5]</A>
-<LI>aï¿½ai		DEDR 84: 4. to settle - v.r. 
+<LI>añai		DEDR 84: 4. to settle - v.r. 
 <BR><A HREF="^kuru171.htm">[171-2]</A> 
 <BR><A HREF="^kuru175.htm">[175-2]</A> 
 <BR><A HREF="^kuru212.htm">[212-2]</A> 
 <BR><A HREF="^kuru236.htm">[236-3]</A> 
 <BR><A HREF="^kuru303.htm">[303-2]</A> 
 <BR><A HREF="^kuru316.htm">[316-4]</A>
-<LI>aï¿½a		DED 96: 12. to lift the head - v.r. 
+<LI>aõa		DED 96: 12. to lift the head - v.r. 
 <BR><A HREF="^kuru064.htm">[64-3]</A> 
 <BR><A HREF="^kuru128.htm">[128-3]</A>
-<LI>aï¿½i	v.r. 
+<LI>aõi	v.r. 
 <BR><A HREF="^kuru125.htm">[125-3]</A> 
 <BR><A HREF="^kuru159.htm">[159-1]</A> 
 <BR><A HREF="^kuru181.htm">[181-3]</A> 
@@ -94,13 +94,13 @@
 <BR><A HREF="^kuru370.htm">[370-1]</A> 
 <BR><A HREF="^kuru390.htm">[390-4]</A> 
 <BR><A HREF="^kuru392.htm">[392-1]</A>
-<LI>aï¿½i		DEDR 120: 4. to be near - v.r./adv.(?) 
+<LI>aõi		DEDR 120: 4. to be near - v.r./adv.(?) 
 <BR><A HREF="^kuru247.htm">[247-1]</A>
-<LI>aï¿½ai		DEDR 120: 4. to touch - v.r. 
+<LI>aõai		DEDR 120: 4. to touch - v.r. 
 <BR><A HREF="^kuru070.htm">[70-5]</A>
 <LI>amal		DEDR 164: 3. to be thickly grown - v.r. 
 <BR><A HREF="^kuru260.htm">[260-6]</A>
-<LI>ami	v.r. 
+<LI>amai	v.r. 
 <BR><A HREF="^kuru216.htm">[216-4]</A> 
 <BR><A HREF="^kuru267.htm">[267-5]</A> 
 <BR><A HREF="^kuru356.htm">[356-8]</A>
@@ -109,35 +109,35 @@
 <BR><A HREF="^kuru318.htm">[318-3]</A>
 <LI>aruntu	DEDR 368: 5. to eat - v.r. 
 <BR><A HREF="^kuru026.htm">[26-6]</A> 
-<BR><A HREF="^kuru288.htm">[288-1]</A>		Â® ayil, uï¿½, tiï¿½
+<BR><A HREF="^kuru288.htm">[288-1]</A>		Â® ayil, uõ, ti­
 <LI>alku		DEDR 317: 5. to abide, dwell; to last? - v.r. 
 <BR><A HREF="^kuru107.htm">[107-4]</A> 
 <BR><A HREF="^kuru338.htm">[338-2]</A>
-<LI>alaï¿½ku	DEDR 240: 5. to sway - v.r. 
+<LI>alaïku	DEDR 240: 5. to sway - v.r. 
 <BR><A HREF="^kuru134.htm">[134-4]</A> 
 <BR><A HREF="^kuru239.htm">[239-3]</A> 
 <BR><A HREF="^kuru296.htm">[296-2]</A> 
 <BR><A HREF="^kuru376.htm">[376-5]</A>
-<LI>ali		DEDR 2374: 11. to slap - v.r. 
+<LI>alai		DEDR 2374: 11. to slap - v.r. 
 <BR><A HREF="^kuru086.htm">[86-2]</A> 
 <BR><A HREF="^kuru163.htm">[163-4]</A>
-<LI>aviï¿½		v.r. 
+<LI>avi©		v.r. 
 <BR><A HREF="^kuru209.htm">[209-6]</A> 
 <BR><A HREF="^kuru299.htm">[299-3]</A> 
 <BR><A HREF="^kuru320.htm">[320-5]</A> 
 <BR><A HREF="^kuru330.htm">[330-4]</A> 
 <BR><A HREF="^kuru349.htm">[349-1]</A>
-<LI>aï¿½i		DEDR 277: 4. to perish - v.r. 
+<LI>a©i		DEDR 277: 4. to perish - v.r. 
 <BR><A HREF="^kuru035.htm">[35-4]</A> 
 <BR><A HREF="^kuru173.htm">[173-4]</A> 
 <BR><A HREF="^kuru185.htm">[185-8]</A> 
 <BR><A HREF="^kuru317.htm">[317-6]</A>
-<LI>aï¿½i		DEDR 314: 4. to know - v.r. 
+<LI>aŸi		DEDR 314: 4. to know - v.r. 
 <BR><A HREF="^kuru184.htm">[184-1]</A> 
 <BR><A HREF="^kuru265.htm">[265-3]</A> 
 <BR><A HREF="^kuru265.htm">[265-4]</A> 
 <BR><A HREF="^kuru312.htm">[312-1]</A>
-<LI>aï¿½u		DEDR 315: 6. to subside - v.r. 
+<LI>aŸu		DEDR 315: 6. to subside - v.r. 
 <BR><A HREF="^kuru032.htm">[32-1]</A> 
 <BR><A HREF="^kuru051.htm">[51-2]</A> 
 <BR><A HREF="^kuru104.htm">[104-2]</A> 
@@ -145,12 +145,12 @@
 <BR><A HREF="^kuru339.htm">[339-2]</A> 
 <BR><A HREF="^kuru356.htm">[356-3]</A> 
 <BR><A HREF="^kuru387.htm">[387-2]</A>
-<LI>ï¿½/ï¿½ku		DEDR 333: 13. to become - v.r. 
+<LI>à/àku		DEDR 333: 13. to become - v.r. 
 <BR><A HREF="^kuru325.htm">[325-2]</A>/ 
 <BR><A HREF="^kuru048.htm">[48-6]</A> 
 <BR><A HREF="^kuru176.htm">[176-5]</A> 
 <BR><A HREF="^kuru325.htm">[325-4]</A>
-<LI>ï¿½y		DEDR 363: 4. to select (2457: to be beautiful, n. beauty?) v.r. 
+<LI>ày		DEDR 363: 4. to select (2457: to be beautiful, n. beauty?) v.r. 
 <BR><A HREF="^kuru015.htm">[15-4]</A> 
 <BR><A HREF="^kuru034.htm">[34-7]</A> 
 <BR><A HREF="^kuru143.htm">[143-1]</A> 
@@ -162,7 +162,7 @@
 <BR><A HREF="^kuru358.htm">[358-2]</A> 
 <BR><A HREF="^kuru366.htm">[366-7]</A> 
 <BR><A HREF="^kuru401.htm">[401-1]</A>
-<LI>ï¿½r	DEDR 368: 4. to become full - v.r. 
+<LI>àr	DEDR 368: 4. to become full - v.r. 
 <BR><A HREF="^kuru155.htm">[155-1]</A> 
 <BR><A HREF="^kuru158.htm">[158-4]</A> 
 <BR><A HREF="^kuru163.htm">[163-3]</A> 
@@ -175,32 +175,32 @@
 <BR><A HREF="^kuru321.htm">[321-2]</A> 
 <BR><A HREF="^kuru353.htm">[353-1]</A> 
 <BR><A HREF="^kuru385.htm">[385-1]</A>
-<LI>ï¿½r		DEDR 367: 11. to roar - v.r. 
+<LI>àr		DEDR 367: 11. to roar - v.r. 
 <BR><A HREF="^kuru052.htm">[52-1]</A> 
 <BR><A HREF="^kuru369.htm">[369-2]</A>
-<LI>ï¿½		DEDR 396: 4. to sink - v.r. 
+<LI>à©		DEDR 396: 4. to sink - v.r. 
 <BR><A HREF="^kuru240.htm">[240-6]</A>
 <LI>iku		TL (not DEDR): 6. to break (intr.) - v.r. 
 <BR><A HREF="^kuru109.htm">[109-2]</A> 
 <BR><A HREF="^kuru264.htm">[264-1]</A>
-<BR>((//SEM//  iï¿½u
+<BR>((//SEM//  iŸu
 <LI>iku		DEDR 415?: 11. to beat - v.r. 
 <BR><A HREF="^kuru270.htm">[270-3]</A>
-<LI>iï¿½i		DEDR 438: 11. to thunder; n. thunder; to pound  v.r./n. 
+<LI>iñi		DEDR 438: 11. to thunder; n. thunder; to pound  v.r./n. 
 <BR><A HREF="^kuru391.htm">[391-3]</A> 
 <BR><A HREF="^kuru391.htm">[391-4]</A>
-<BR>((//SEM//  muï¿½aï¿½ku, urum
-<LI>iï¿½u		DEDR 442: 6. to place - v.r. 
+<BR>((//SEM//  mu©aïku, urum
+<LI>iñu		DEDR 442: 6. to place - v.r. 
 <BR><A HREF="^kuru077.htm">[77-3]</A> 
 <BR><A HREF="^kuru077.htm">[77-4]</A> 
 <BR><A HREF="^kuru205.htm">[205-5]</A> 
 <BR><A HREF="^kuru297.htm">[297-4]</A>
-<LI>imiï¿½		DEDR 466: 5. to buzz - v.r. 
+<LI>imi©		DEDR 466: 5. to buzz - v.r. 
 <BR><A HREF="^kuru243.htm">[243-4]</A> 
 <BR><A HREF="^kuru299.htm">[299-2]</A> 
 <BR><A HREF="^kuru320.htm">[320-6]</A> 
-<BR><A HREF="^kuru365.htm">[365-4]</A>	{Left-Right-double-Arrow} puï¿½imiï¿½
-<LI>iyaï¿½kutoï¿½um v.r. + toï¿½um whenever stirring 
+<BR><A HREF="^kuru365.htm">[365-4]</A>	{Left-Right-double-Arrow} puëimi©
+<LI>iyaïkutoŸum v.r. + toŸum whenever stirring 
 <BR><A HREF="^kuru190.htm">[190-6]</A> 
 <BR><A HREF="^kuru279.htm">[279-3]</A>
 <LI>iyal		DEDR 469: 3./5. to move forward - v.r. 
@@ -209,7 +209,7 @@
 <LI>il	DEDR 2559: not to be (negates existence, usually not as infix, while al negates qualities) - v.r. 
 <BR><A HREF="^kuru063.htm">[63-1]</A> 
 <BR><A HREF="^kuru290.htm">[290-6]</A>
-<LI>ilaï¿½ku	DEDR 829: 5. to shine - v.r. 
+<LI>ilaïku	DEDR 829: 5. to shine - v.r. 
 <BR><A HREF="^kuru011.htm">[11-1]</A> 
 <BR><A HREF="^kuru014.htm">[14-2]</A> 
 <BR><A HREF="^kuru031.htm">[31-5]</A> 
@@ -228,7 +228,7 @@
 <BR><A HREF="^kuru106.htm">[106-1]</A> 
 <BR><A HREF="^kuru248.htm">[248-5]</A> 
 <BR><A HREF="^kuru287.htm">[287-6]</A> 
-<LI>iï¿½i	DEDR 502: 4. to fall - v.r. 
+<LI>i©i	DEDR 502: 4. to fall - v.r. 
 <BR><A HREF="^kuru078.htm">[78-3]</A> 
 <BR><A HREF="^kuru090.htm">[90-5]</A> 
 <BR><A HREF="^kuru095.htm">[95-1]</A> 
@@ -241,13 +241,13 @@
 <BR><A HREF="^kuru332.htm">[332-5]</A> 
 <BR><A HREF="^kuru339.htm">[339-3]</A> 
 <BR><A HREF="^kuru367.htm">[367-5]</A>
-<BR>((//SEM//  vï¿½
-<LI>iï¿½u		DEDR 520: 6. to break (intr.) - v.r. 
+<BR>((//SEM//  vã©
+<LI>iŸu		DEDR 520: 6. to break (intr.) - v.r. 
 <BR><A HREF="^kuru199.htm">[199-7]</A>
 <BR>((//SEM//  iku
-<LI>[iï¿½puï¿½u	+ v.r. uï¿½u 
+<LI>[i­puŸu	+ v.r. uŸu 
 <BR><A HREF="^kuru065.htm">[65-2]</A>]
-<LI>ï¿½		DEDR 555: 8. to bring forth - v.r. 
+<LI>ã­		DEDR 555: 8. to bring forth - v.r. 
 <BR><A HREF="^kuru038.htm">[38-1]</A> 
 <BR><A HREF="^kuru085.htm">[85-3]</A> 
 <BR><A HREF="^kuru148.htm">[148-3]</A>
@@ -257,37 +257,37 @@
 <BR><A HREF="^kuru251.htm">[251-6]</A> 
 <BR><A HREF="^kuru398.htm">[398-8]</A>
 <BR>((//SEM//  utir
-<LI>uï¿½ai		DEDR 946: 4. intr. to break - v.r. 
+<LI>uñai		DEDR 946: 4. intr. to break - v.r. 
 <BR><A HREF="^kuru005.htm">[5-3]</A> 
 <BR><A HREF="^kuru040.htm">[40-5]</A>? 
 <BR><A HREF="^kuru303.htm">[303-3]</A> 
 <BR><A HREF="^kuru351.htm">[351-4]</A> 
 <BR><A HREF="^kuru381.htm">[381-6]</A>
-<LI>uï¿½		DEDR 600: 7. to eat - v.r. 
+<LI>uõ		DEDR 600: 7. to eat - v.r. 
 <BR><A HREF="^kuru090.htm">[90-5]</A> 
 <BR><A HREF="^kuru105.htm">[105-2]</A> 
 <BR><A HREF="^kuru360.htm">[360-6]</A> 
 <BR><A HREF="^kuru399.htm">[399-1]</A> 
 <BR><A HREF="^kuru399.htm">[399-1]</A>	
-<LI>umiï¿½		DEDR 636: 4. to shoot; to spit - v.r. 
+<LI>umi©		DEDR 636: 4. to shoot; to spit - v.r. 
 <BR><A HREF="^kuru231.htm">[231-6]</A> 
 <BR><A HREF="^kuru239.htm">[239-5]</A>
-<LI>uyaï¿½ku	DEDR 3793: 5. to become weak - v.r. 
+<LI>uyaïku	DEDR 3793: 5. to become weak - v.r. 
 <BR><A HREF="^kuru244.htm">[244-6]</A> 
 <BR><A HREF="^kuru255.htm">[255-3]</A> 
 <BR><A HREF="^kuru307.htm">[307-5]</A> 
 <BR><A HREF="^kuru308.htm">[308-4]</A>
 <LI>ulampu	DEDR 996: 5. to thunder - v.r. 
 <BR><A HREF="^kuru086.htm">[86-5]</A>
-<LI>uli		DEDR 671: 4. to be ruined - v.r. 
+<LI>ulai		DEDR 671: 4. to be ruined - v.r. 
 <BR><A HREF="^kuru308.htm">[308-4]</A>
 <LI>uva		DEDR 558: 12. to rejoice - v.r. 
 <BR><A HREF="^kuru367.htm">[367-3]</A>
-<BR>((//SEM//  pukal, makiï¿½
-<LI>uï¿½ar		DEDR 689: 4./5. to smooth (tr.)/ TL: to whiffle (intr.) v.r. 
+<BR>((//SEM//  pukal, maki©
+<LI>uëar		DEDR 689: 4./5. to smooth (tr.)/ TL: to whiffle (intr.) v.r. 
 <BR><A HREF="^kuru228.htm">[228-2]</A> 
 <BR><A HREF="^kuru312.htm">[312-6]</A>
-<LI>uï¿½u	DEDR 710(711?): 6. to have - v.r. 
+<LI>uŸu	DEDR 710(711?): 6. to have - v.r. 
 <BR><A HREF="^kuru019.htm">[19-4]</A> 
 <BR><A HREF="^kuru065.htm">[65-2]</A> 
 <BR><A HREF="^kuru082.htm">[82-1]</A> 
@@ -313,16 +313,16 @@
 <BR><A HREF="^kuru383.htm">[383-5]</A> 
 <BR><A HREF="^kuru385.htm">[385-3]</A> 
 <BR><A HREF="^kuru397.htm">[397-8]</A>
-<LI>uï¿½aï¿½		DEDR 710: to be close = to resemble? - v.r. 
+<LI>uŸa©		DEDR 710: to be close = to resemble? - v.r. 
 <BR><A HREF="^kuru314.htm">[314-5]</A> 
 <BR><A HREF="^kuru328.htm">[328-7]</A> 
-<LI>uï¿½ai		DEDR 761: 11. to drop - v.r. 
+<LI>uŸai		DEDR 761: 11. to drop - v.r. 
 <BR><A HREF="^kuru035.htm">[35-4]</A> 
 <BR><A HREF="^kuru086.htm">[86-3]</A> 
 <BR><A HREF="^kuru270.htm">[270-2]</A> 
 <BR><A HREF="^kuru271.htm">[271-1]</A> 
 <BR><A HREF="^kuru339.htm">[339-2]</A>
-<LI>uï¿½ai	DEDR 710: 4. to stay - v.r. 
+<LI>uŸai	DEDR 710: 4. to stay - v.r. 
 <BR><A HREF="^kuru046.htm">[46-2]</A> 
 <BR><A HREF="^kuru057.htm">[57-2]</A> 
 <BR><A HREF="^kuru135.htm">[135-2]</A> 
@@ -331,18 +331,18 @@
 <BR><A HREF="^kuru322.htm">[322-5]</A> 
 <BR><A HREF="^kuru344.htm">[344-8]</A> 352.
 <BR>((//SEM//  auxiliary verbs
-<LI>ï¿½r		DEDR 749: 4. intr. to creep; tr. to mount - v.r. 
+<LI>år		DEDR 749: 4. intr. to creep; tr. to mount - v.r. 
 <BR><A HREF="^kuru195.htm">[195-5v]</A>
-<LI>[ï¿½ppaï¿½u	+ v.r. of paï¿½u 
+<LI>[å©ppañu	+ v.r. of pañu 
 <BR><A HREF="^kuru068.htm">[68-2]</A>]
-<LI>[ï¿½uï¿½u		+ v.r. of uï¿½u 
+<LI>[å©uŸu		+ v.r. of uŸu 
 <BR><A HREF="^kuru228.htm">[228-1]</A> 
 <BR><A HREF="^kuru278.htm">[278-5]</A>]
 <LI>etir		DEDR 795: 4./5.? to be opposed; TL: to blossom - v.r. 
 <BR><A HREF="^kuru062.htm">[62-1]</A>
-<LI>[elluï¿½u	+ v.r. of uï¿½u 
+<LI>[elluŸu	+ v.r. of uŸu 
 <BR><A HREF="^kuru019.htm">[19-4]</A>]
-<LI>eï¿½u	DEDR 851(a): 4. to rise - v.r. 
+<LI>e©u	DEDR 851(a): 4. to rise - v.r. 
 <BR><A HREF="^kuru024.htm">[24-4]</A>? 
 <BR><A HREF="^kuru026.htm">[26-2]</A> 
 <BR><A HREF="^kuru195.htm">[195-2]</A> 
@@ -350,13 +350,13 @@
 <BR><A HREF="^kuru276.htm">[276-3]</A> 
 <BR><A HREF="^kuru315.htm">[315-1]</A> 
 <BR><A HREF="^kuru398.htm">[398-7]</A>
-<BR>((//SEM//  ï¿½ï¿½u
-<LI>[eï¿½utaru	+ v.r. of tï¿½ 
+<BR>((//SEM//  ›Ÿu
+<LI>[e©utaru	+ v.r. of tà 
 <BR><A HREF="^kuru195.htm">[195-2]</A> 
 <BR><A HREF="^kuru259.htm">[259-1]</A> 
 <BR><A HREF="^kuru315.htm">[315-1]</A> 
 <BR><A HREF="^kuru398.htm">[398-7]</A>]
-<LI>eï¿½i	DEDR 859: 4. to throw - v.r. 
+<LI>eŸi	DEDR 859: 4. to throw - v.r. 
 <BR><A HREF="^kuru054.htm">[54-4]</A> 
 <BR><A HREF="^kuru110.htm">[110-7]</A> 
 <BR><A HREF="^kuru199.htm">[199-4]</A> 
@@ -367,7 +367,7 @@
 <BR><A HREF="^kuru358.htm">[358-2]</A> 
 <BR><A HREF="^kuru380.htm">[380-2]</A> 
 <BR><A HREF="^kuru392.htm">[392-5]</A>
-<LI>eï¿½	DEDR 668: 8. to say - v.r. 
+<LI>e­	DEDR 668: 8. to say - v.r. 
 <BR><A HREF="^kuru024.htm">[24-6]</A> 
 <BR><A HREF="^kuru160.htm">[160-4]</A> 
 <BR><A HREF="^kuru162.htm">[162-2]</A> 
@@ -381,20 +381,20 @@
 <BR><A HREF="^kuru312.htm">[312-4]</A> 
 <BR><A HREF="^kuru349.htm">[349-6]</A> 
 <BR><A HREF="^kuru365.htm">[365-4]</A>
-<BR>((//SEM//  uri, kï¿½u, ceppu, col, moï¿½i
-<LI>ï¿½ntu		DEDR 870: 5. to be eminent - v.r. 
+<BR>((//SEM//  urai, kåŸu, ceppu, col, mo©i
+<LI>›ntu		DEDR 870: 5. to be eminent - v.r. 
 <BR><A HREF="^kuru178.htm">[178-2]</A> 
 <BR><A HREF="^kuru258.htm">[258-4]</A>
-<LI>[ï¿½muï¿½u	+ v.r. of uï¿½u 
+<LI>[›muŸu	+ v.r. of uŸu 
 <BR><A HREF="^kuru129.htm">[129-1]</A>]
-<LI>ï¿½r		TL (not DEDR): 4. to resemble - v.r. 
+<LI>›r		TL (not DEDR): 4. to resemble - v.r. 
 <BR><A HREF="^kuru254.htm">[254-2]</A> 
 <BR><A HREF="^kuru377.htm">[377-1]</A> 
 <BR><A HREF="^kuru377.htm">[377-2]</A> 
 <BR><A HREF="^kuru398.htm">[398-3]</A>
-<LI>ï¿½r		TL (not DEDR): 4. to rise - v.r. 
+<LI>›r		TL (not DEDR): 4. to rise - v.r. 
 <BR><A HREF="^kuru287.htm">[287-8]</A>
-<LI>oï¿½uï¿½ku	DEDR 952: 5. to be restrined - v.r. 
+<LI>oñuïku	DEDR 952: 5. to be restrained - v.r. 
 <BR><A HREF="^kuru070.htm">[70-1]</A>
 <LI>oy		DEDR 984: 4. to carry - v.r. 
 <BR><A HREF="^kuru165.htm">[165-3]</A>
@@ -406,11 +406,11 @@
 <LI>oli		DEDR 997: 4.? to sprout - v.r. 
 <BR><A HREF="^kuru225.htm">[225-7]</A> 
 <BR><A HREF="^kuru264.htm">[264-2]</A>
-<LI>oï¿½uku		DEDR 1010: 5. to flow - v.r. 
+<LI>o©uku		DEDR 1010: 5. to flow - v.r. 
 <BR><A HREF="^kuru025.htm">[25-4]</A> 
 <BR><A HREF="^kuru315.htm">[315-2]</A> 
 <BR><A HREF="^kuru366.htm">[366-6v]</A>
-<LI>ï¿½ï¿½ku	DEDR 1033: 5. to become high - v.r. 
+<LI>ïku	DEDR 1033: 5. to become high - v.r. 
 <BR><A HREF="^kuru069.htm">[69-4]</A> 
 <BR><A HREF="^kuru076.htm">[76-1]</A> 
 <BR><A HREF="^kuru083.htm">[83-5]</A> 
@@ -427,15 +427,15 @@
 <BR><A HREF="^kuru317.htm">[317-4]</A> 
 <BR><A HREF="^kuru373.htm">[373-8]</A>
 <BR>((//SEM//  uyar
-<LI>kï¿½ï¿½		DEDR 1159: 13. to see
-<BR>((//SEM//  nï¿½kku, pï¿½r	v.r. 
+<LI>kàõ		DEDR 1159: 13. to see
+<BR>((//SEM//  nkku, pàr	v.r. 
 <BR><A HREF="^kuru132.htm">[132-5]</A> 
 <BR><A HREF="^kuru178.htm">[178-5]</A>
-<LI>kataï¿½		DEDR 1188: 4. to hasten - v.r. 
+<LI>kata©		DEDR 1188: 4. to hasten - v.r. 
 <BR><A HREF="^kuru134.htm">[134-5]</A>
-<BR>((//SEM//  kaï¿½uku, tuï¿½ai, pari
-<LI>kamaï¿½		DEDR 1247: 4. to be fragrant
-<BR>((//SEM//  nï¿½ï¿½u  v.r. 
+<BR>((//SEM//  kañuku, tu­ai, pari
+<LI>kama©		DEDR 1247: 4. to be fragrant
+<BR>((//SEM//  nàŸu  v.r. 
 <BR><A HREF="^kuru010.htm">[10-3]</A> 
 <BR><A HREF="^kuru205.htm">[205-7]</A> 
 <BR><A HREF="^kuru286.htm">[286-2]</A> 
@@ -445,54 +445,54 @@
 <BR><A HREF="^kuru381.htm">[381-4]</A>
 <LI>kari		DEDR 1278(a): 4. to be scorched - v.r. 
 <BR><A HREF="^kuru067.htm">[67-5]</A> 
-<LI>kalaï¿½ku	DEDR 1303: 5. to be stirred up - v.r. 
+<LI>kalaïku	DEDR 1303: 5. to be stirred up - v.r. 
 <BR><A HREF="^kuru205.htm">[205-4]</A>
-<LI>kaliï¿½		DEDR 1303: 4. to weep - v.r. 
+<LI>kali©		DEDR 1303: 4. to weep - v.r. 
 <BR><A HREF="^kuru398.htm">[398-8]</A>
-<BR>((//SEM//  aï¿½u
-<LI>kaliï¿½		TL (not DEDR): 4. to shine forth - v.r. 
+<BR>((//SEM//  a©u
+<LI>kali©		TL (not DEDR): 4. to shine forth - v.r. 
 <BR><A HREF="^kuru182.htm">[182-6]</A>
 <LI>kavar		DEDR 1326: 4. to seize - v.r. 
 <BR><A HREF="^kuru242.htm">[242-1]</A>
 <BR>((//SEM//  katu, kavvu
-<LI>kavi		DEDR 1325: 4. to fork - v.r. 
+<LI>kavai		DEDR 1325: 4. to fork - v.r. 
 <BR><A HREF="^kuru174.htm">[174-2]</A> 
 <BR><A HREF="^kuru213.htm">[213-2]</A> 
 <BR><A HREF="^kuru324.htm">[324-6]</A>
-<LI>kaï¿½aï¿½u		DEDR 1354?: 5. to murmur - v.r. 
+<LI>ka©aŸu		DEDR 1354?: 5. to murmur - v.r. 
 <BR><A HREF="^kuru158.htm">[158-2]</A>
-<LI>kaï¿½uvu	DEDR 1369: 5. to wash - v.r. 
+<LI>ka©uvu	DEDR 1369: 5. to wash - v.r. 
 <BR><A HREF="^kuru167.htm">[167-2]</A>
-<LI>[kaï¿½uvuï¿½u	+ v.r. of uï¿½u 
+<LI>[ka©uvuŸu	+ v.r. of uŸu 
 <BR><A HREF="^kuru167.htm">[167-2]</A>]
-<LI>kaï¿½i		DEDR 1408: 4. to melt - v.r. 
+<LI>ka­i		DEDR 1408: 4. to melt - v.r. 
 <BR><A HREF="^kuru389.htm">[389-1]</A>
-<LI>kiï¿½ai		DEDR 2018: 11. to multiply - v.r. 
+<LI>kiëai		DEDR 2018: 11. to multiply - v.r. 
 <BR><A HREF="^kuru197.htm">[197-2]</A>
 <LI>kuvi		4./11. to heap - v.r. 
 <BR><A HREF="^kuru017.htm">[17-2]</A> 
 <BR><A HREF="^kuru107.htm">[107-1]</A>
-<LI>kï¿½ï¿½ï¿½u		DEDR 1882: 5. to combine - v.r. 
+<LI>kåññu		DEDR 1882: 5. to combine - v.r. 
 <BR><A HREF="^kuru331.htm">[331-3]</A>
-<LI>kï¿½mpu	DEDR 1894: 5. to close - v.r. 
+<LI>kåmpu	DEDR 1894: 5. to close - v.r. 
 <BR><A HREF="^kuru035.htm">[35-3]</A>
-<LI>kï¿½r		DEDR 1899: 4. to be in abundance - v.r. 
+<LI>kår		DEDR 1899: 4. to be in abundance - v.r. 
 <BR><A HREF="^kuru051.htm">[51-1]</A> 
 <BR><A HREF="^kuru103.htm">[103-4]</A> 
 <BR><A HREF="^kuru358.htm">[358-5]</A> 
 <BR><A HREF="^kuru398.htm">[398-2]</A>
-<LI>[kiyaï¿½u	+ v.r. of aï¿½u 
+<LI>[kaiyaŸu	+ v.r. of aŸu 
 <BR><A HREF="^kuru032.htm">[32-1]</A> 
 <BR><A HREF="^kuru387.htm">[387-2]</A>]
-<LI>kiviï¿½u	TL: 6. to let go of - v.r. 
+<LI>kaiviñu	TL: 6. to let go of - v.r. 
 <BR><A HREF="^kuru054.htm">[54-3]</A>
 <LI>koy		DEDR 2119: 1. to pluck - v.r. 
 <BR><A HREF="^kuru026.htm">[26-3]</A>
-<BR>((//SEM//  kuï¿½u
+<BR>((//SEM//  kuŸu
 <LI>kol		DEDR 2132: 3. to fell, kill - v.r. 
 <BR><A HREF="^kuru214.htm">[214-1]</A> 
 <BR><A HREF="^kuru304.htm">[304-1]</A>
-<LI>koï¿½	DEDR 2151: 2. to take - v.r. 
+<LI>koë	DEDR 2151: 2. to take - v.r. 
 <BR><A HREF="^kuru041.htm">[41-2]</A> 
 <BR><A HREF="^kuru107.htm">[107-2]</A> 
 <BR><A HREF="^kuru134.htm">[134-6]</A> 
@@ -503,25 +503,25 @@
 <BR><A HREF="^kuru314.htm">[314-3]</A> 
 <BR><A HREF="^kuru320.htm">[320-1]</A> 
 <BR><A HREF="^kuru372.htm">[372-3]</A>
-<LI>cï¿½y	DEDR 2456: 4. intr. to bend (cï¿½y bend and cï¿½y be emaciated are homophones and follow the same conjugation, so that it is virtually impossible to distinguish, and probably the layers of association overlap, as in the case of cï¿½ay) - v.r. 
+<LI>cày	DEDR 2456: 4. intr. to bend (cày bend and cày be emaciated are homophones and follow the same conjugation, so that it is virtually impossible to distinguish, and probably the layers of association overlap, as in the case of càay) - v.r. 
 <BR><A HREF="^kuru168.htm">[168-5]</A>	
-<LI>cili		DEDR 1574: 11. to resound - v.r. 
+<LI>cilai		DEDR 1574: 11. to resound - v.r. 
 <BR><A HREF="^kuru094.htm">[94-7]</A> 
 <BR><A HREF="^kuru272.htm">[272-5]</A>
-<LI>ciï¿½ai		DEDR 1980: 11. to restrin - v.r. 
+<LI>ciŸai		DEDR 1980: 11. to restrain - v.r. 
 <BR><A HREF="^kuru086.htm">[86-1]</A>
-<LI>cuï¿½u		DEDR 2654: 6. to glow - v.r. 
+<LI>cuñu		DEDR 2654: 6. to glow - v.r. 
 <BR><A HREF="^kuru291.htm">[291-1]</A>
 <LI>curi		DEDR 2684: 4. to wind - v.r. 
 <BR><A HREF="^kuru022.htm">[22-3]</A> 
 <BR><A HREF="^kuru260.htm">[260-3]</A> 
 <BR><A HREF="^kuru281.htm">[281-4]</A> 
 <BR><A HREF="^kuru308.htm">[308-1]</A>
-<LI>cï¿½		DEDR 2698: 4. to surround - v.r. 
+<LI>cå©		DEDR 2698: 4. to surround - v.r. 
 <BR><A HREF="^kuru220.htm">[220-6]</A> 
 <BR><A HREF="^kuru279.htm">[279-6]</A> 
 <BR><A HREF="^kuru300.htm">[300-7]</A>
-<BR>((//SEM//  vaï¿½ai
+<BR>((//SEM//  vaëai
 <LI>cey	DEDR 1957: 1. to make, do - v.r. 
 <BR><A HREF="^kuru021.htm">[21-2]</A> 
 <BR><A HREF="^kuru063.htm">[63-2]</A> 
@@ -545,17 +545,17 @@
 <BR><A HREF="^kuru297.htm">[297-3]</A> 
 <BR><A HREF="^kuru331.htm">[331-2]</A> 
 <BR><A HREF="^kuru350.htm">[350-6]</A>
-<BR>((//SEM//  pï¿½
-<LI>[celavuï¿½u	+ v.r. of uï¿½u 
+<BR>((//SEM//  p
+<LI>[celavuŸu	+ v.r. of uŸu 
 <BR><A HREF="^kuru137.htm">[137-4]</A>]
-<LI>ceï¿½i	DEDR 1980: 4. to be close, tight - v.r. 
+<LI>ceŸi	DEDR 1980: 4. to be close, tight - v.r. 
 <BR><A HREF="^kuru002.htm">[2-4]</A> 
 <BR><A HREF="^kuru190.htm">[190-2]</A> 
 <BR><A HREF="^kuru198.htm">[198-4]</A> 
 <BR><A HREF="^kuru290.htm">[290-4]</A> 
 <BR><A HREF="^kuru337.htm">[337-3]</A> 
 <BR><A HREF="^kuru379.htm">[379-4]</A>
-<LI>cï¿½r	DEDR 2814: 4. tr. to join - v.r. 
+<LI>c›r	DEDR 2814: 4. tr. to join - v.r. 
 <BR><A HREF="^kuru066.htm">[66-4]</A> 
 <BR><A HREF="^kuru082.htm">[82-1]</A> 
 <BR><A HREF="^kuru108.htm">[108-1]</A> 
@@ -566,36 +566,36 @@
 <BR><A HREF="^kuru311.htm">[311-6]</A>
 <LI>col		DEDR 2855: 5. to speak, utter - v.r. 
 <BR><A HREF="^kuru006.htm">[6-1]</A> 
-<LI>ï¿½ekiï¿½		DEDR 2923: 5. to become loose, to be emaciated - v.r. 
+<LI>¤eki©		DEDR 2923: 5. to become loose, to be emaciated - v.r. 
 <BR><A HREF="^kuru357.htm">[357-2]</A>	
-<LI>tati		DEDR 3315: 12.? to be full - v.r. 
+<LI>tatai		DEDR 3315: 12.? to be full - v.r. 
 <BR><A HREF="^kuru304.htm">[304-6]</A> 
 <BR><A HREF="^kuru338.htm">[338-3]</A> 
-<BR><A HREF="^kuru386.htm">[386-1]</A> {Left-Right-double-Arrow} vï¿½tati
+<BR><A HREF="^kuru386.htm">[386-1]</A> {Left-Right-double-Arrow} vãtatai
 <LI>tapu		DEDR 3068: 11.? to perish? - v.r. 
 <BR><A HREF="^kuru128.htm">[128-1]</A> (= tappu?)
-<LI>tayaï¿½ku	TL (not DEDR): 5. to glitter - v.r. 
+<LI>tayaïku	TL (not DEDR): 5. to glitter - v.r. 
 <BR><A HREF="^kuru226.htm">[226-5]</A> 
 <BR><A HREF="^kuru345.htm">[345-5]</A>
-<BR>((//SEM//  tikaï¿½, poli
-<LI>taru/tï¿½	DEDR 3098: 13. to give, to bring - v.r. 
+<BR>((//SEM//  tika©, poli
+<LI>taru/tà	DEDR 3098: 13. to give, to bring - v.r. 
 <BR><A HREF="^kuru065.htm">[65-3]</A> 
 <BR><A HREF="^kuru079.htm">[79-4]</A> 
 <BR><A HREF="^kuru292.htm">[292-2]</A> 
 <BR><A HREF="^kuru304.htm">[304-8]</A>
-<LI>tavaï¿½		DEDR 3109?: 4. to cover - v.r. 
+<LI>tava©		DEDR 3109?: 4. to cover - v.r. 
 <BR><A HREF="^kuru084.htm">[84-3]</A>
-<LI>taï¿½uvu		DEDR 3116: 5. to embrace - v.r. 
+<LI>ta©uvu		DEDR 3116: 5. to embrace - v.r. 
 <BR><A HREF="^kuru294.htm">[294-2]</A>
-<BR>((//SEM//  pulli, muyaï¿½ku
-<LI>[taï¿½uvaï¿½i	v.r. + aï¿½i - a kind of women's dance?! 
+<BR>((//SEM//  pulli, muyaïku
+<LI>[ta©uvaõi	v.r. + aõi - a kind of women's dance?! 
 <BR><A HREF="^kuru294.htm">[294-2]</A> (hapax)]
-<LI>taï¿½i		DEDR 3435: 11. to drip - v.r. 
+<LI>taëi		DEDR 3435: 11. to drip - v.r. 
 <BR><A HREF="^kuru065.htm">[65-3]</A>
-<LI>tï¿½ï¿½ku		DEDR 3153: 5. to endure - v.r. 
+<LI>tàïku		DEDR 3153: 5. to endure - v.r. 
 <BR><A HREF="^kuru304.htm">[304-3]</A>
-<BR>((//SEM//  ï¿½ï¿½ï¿½u, uï¿½a, nï¿½ï¿½
-<LI>tï¿½	DEDR 3178: 5.? to hang down - v.r. 
+<BR>((//SEM//  àŸŸu, u©a, n­
+<LI>tà©	DEDR 3178: 5.? to hang down - v.r. 
 <BR><A HREF="^kuru053.htm">[53-2]</A> 
 <BR><A HREF="^kuru081.htm">[81-7]</A> 
 <BR><A HREF="^kuru156.htm">[156-3]</A> 
@@ -603,19 +603,19 @@
 <BR><A HREF="^kuru228.htm">[228-1]</A> 
 <BR><A HREF="^kuru270.htm">[270-1]</A> 
 <BR><A HREF="^kuru345.htm">[345-4]</A>
-<BR>((//SEM//  tï¿½ï¿½ku
-<LI>tikaï¿½		DEDR 3200: 4. to glitter - v.r. 
+<BR>((//SEM//  tåïku
+<LI>tika©		DEDR 3200: 4. to glitter - v.r. 
 <BR><A HREF="^kuru000.htm">[0-2]</A> 
 <BR><A HREF="^kuru052.htm">[52-1]</A> 
 <BR><A HREF="^kuru192.htm">[192-4]</A> 
 <BR><A HREF="^kuru282.htm">[282-5]</A>
-<BR>((//SEM//  tayaï¿½ku, poli
-<LI>tiï¿½i		DEDR 3222: 4. to become firm - v.r. 
+<BR>((//SEM//  tayaïku, poli
+<LI>tiõi		DEDR 3222: 4. to become firm - v.r. 
 <BR><A HREF="^kuru175.htm">[175-2]</A>
-<LI>tiraï¿½ku	DEDR 3244: 5. to dry up - v.r. 
+<LI>tiraïku	DEDR 3244: 5. to dry up - v.r. 
 <BR><A HREF="^kuru396.htm">[396-7]</A>
-<BR>((//SEM//  uï¿½aï¿½kal, pular, muï¿½i
-<LI>tiraï¿½		DEDR 3245: 2. to become round - v.r. 
+<BR>((//SEM//  uõaïkal, pular, muëi
+<LI>tiraë		DEDR 3245: 2. to become round - v.r. 
 <BR><A HREF="^kuru178.htm">[178-2]</A> 
 <BR><A HREF="^kuru397.htm">[397-1]</A>
 <LI>tiri		DEDR 3246: 4. to be twisted, to turn - v.r. 
@@ -626,45 +626,45 @@
 <BR><A HREF="^kuru214.htm">[214-4]</A> 
 <BR><A HREF="^kuru279.htm">[279-8]</A> 
 <BR><A HREF="^kuru294.htm">[294-6]</A>
-<LI>tï¿½r		DEDR 3278: 4. intr. to end - v.r. 
+<LI>tãr		DEDR 3278: 4. intr. to end - v.r. 
 <BR><A HREF="^kuru207.htm">[207-3]</A> 
 <BR><A HREF="^kuru258.htm">[258-8]</A> 
 <BR><A HREF="^kuru368.htm">[368-2]</A>
-<LI>tuï¿½cu		DEDR 3291: 5. to sleep - v.r. 
+<LI>tu¤cu		DEDR 3291: 5. to sleep - v.r. 
 <BR><A HREF="^kuru032.htm">[32-2]</A> 
 <BR><A HREF="^kuru036.htm">[36-2]</A> 
 <BR><A HREF="^kuru302.htm">[302-7]</A>
-<BR>((//SEM//  uï¿½aï¿½ku
-<LI>tuï¿½ku		onom. 
+<BR>((//SEM//  uŸaïku
+<LI>tuñku		onom. 
 <BR><A HREF="^kuru157.htm">[157-2]</A> (DEDS 2762: v.r. to be alarmed?)
-<LI>tuti		DEDR 3315: 4. to be dense - v.r. 
+<LI>tutai		DEDR 3315: 4. to be dense - v.r. 
 <BR><A HREF="^kuru174.htm">[174-3]</A>
 <LI>tuyal		DEDR 3376(b): 5. to swing - v.r. 
 <BR><A HREF="^kuru264.htm">[264-2]</A>
-<LI>tuï¿½ï¿½u		DEDR 3364: 5. to hop - v.r. 
+<LI>tuëëu		DEDR 3364: 5. to hop - v.r. 
 <BR><A HREF="^kuru085.htm">[85-2]</A>
-<BR>((//SEM//  ukaï¿½u, tattu, teï¿½i, pï¿½y
-<LI>tuï¿½u	DEDR 3367: 6. to be thick - v.r./adj. 
+<BR>((//SEM//  ukaëu, tattu, teŸi, pày
+<LI>tuŸu	DEDR 3367: 6. to be thick - v.r./adj. 
 <BR><A HREF="^kuru013.htm">[13-2]</A> 
 <BR><A HREF="^kuru036.htm">[36-1]</A> 
 <BR><A HREF="^kuru047.htm">[47-1]</A> 
 <BR><A HREF="^kuru111.htm">[111-5]</A> 
 <BR><A HREF="^kuru279.htm">[279-5]</A> 
 <BR><A HREF="^kuru284.htm">[284-2]</A> 
-<BR><A HREF="^kuru367.htm">[367-7]</A>						{Left-Right-double-Arrow} tuï¿½ukal
-<LI>tuï¿½ï¿½u		DEDR 3367: 5. to near - v.r. 
+<BR><A HREF="^kuru367.htm">[367-7]</A>						{Left-Right-double-Arrow} tuŸukal
+<LI>tu­­u		DEDR 3367: 5. to near - v.r. 
 <BR><A HREF="^kuru088.htm">[88-3]</A> 
 <BR><A HREF="^kuru365.htm">[365-3]</A> 
-<BR><A HREF="^kuru376.htm">[376-1]</A>	{Left-Right-double-Arrow} tuï¿½ï¿½aru
-<LI>tuï¿½ai		TL (not DEDR): 4. to hasten - v.r. 
+<BR><A HREF="^kuru376.htm">[376-1]</A>	{Left-Right-double-Arrow} tu­­aru
+<LI>tu­ai		TL (not DEDR): 4. to hasten - v.r. 
 <BR><A HREF="^kuru269.htm">[269-1]</A> 
 <BR><A HREF="^kuru316.htm">[316-6]</A>	
-<LI>tï¿½ï¿½ku		DEDR 3376(a): 5. to hang - v.r. 
+<LI>tåïku		DEDR 3376(a): 5. to hang - v.r. 
 <BR><A HREF="^kuru235.htm">[235-2]</A> 
 <BR><A HREF="^kuru344.htm">[344-4]</A> 
 <BR><A HREF="^kuru392.htm">[392-8]</A>
-<BR>((//SEM//  tï¿½
-<LI>teï¿½	DEDR 3433: 9. to become clear - v.r./adj. 
+<BR>((//SEM//  tà©
+<LI>teë	DEDR 3433: 9. to become clear - v.r./adj. 
 <BR><A HREF="^kuru065.htm">[65-1]</A> 
 <BR><A HREF="^kuru155.htm">[155-4]</A> 
 <BR><A HREF="^kuru196.htm">[196-3]</A> 
@@ -674,9 +674,9 @@
 <BR><A HREF="^kuru279.htm">[279-2]</A> 
 <BR><A HREF="^kuru306.htm">[306-6v]</A> 
 <BR><A HREF="^kuru329.htm">[329-6]</A>
-<LI>teï¿½i		4. to become clear	- v.r. 
+<LI>teëi		4. to become clear	- v.r. 
 <BR><A HREF="^kuru212.htm">[212-2]</A>
-<LI>tï¿½r		DEDR 3419: 4. to search - v.r. 
+<LI>t›r		DEDR 3419: 4. to search - v.r. 
 <BR><A HREF="^kuru002.htm">[2-1]</A> 
 <BR><A HREF="^kuru103.htm">[103-3]</A> 
 <BR><A HREF="^kuru113.htm">[113-3]</A> 
@@ -685,12 +685,12 @@
 <BR><A HREF="^kuru015.htm">[15-6]</A> 
 <BR><A HREF="^kuru107.htm">[107-2]</A> 
 <BR><A HREF="^kuru126.htm">[126-4]</A>
-<LI>toï¿½u		DEDR 3480: 6. to touch - v.r. 
+<LI>toñu		DEDR 3480: 6. to touch - v.r. 
 <BR><A HREF="^kuru015.htm">[15-6v]</A> 
 <BR><A HREF="^kuru399.htm">[399-3]</A> 
 <BR><A HREF="^kuru399.htm">[399-3]</A>
-<BR>((//SEM//  tï¿½y
-<LI>tï¿½y	DEDR 3556: 4. to touch â€“ v.r. 
+<BR>((//SEM//  ty
+<LI>ty	DEDR 3556: 4. to touch â€“ v.r. 
 <BR><A HREF="^kuru074.htm">[74-2]</A> 
 <BR><A HREF="^kuru099.htm">[99-4]</A> 
 <BR><A HREF="^kuru102.htm">[102-3]</A> 
@@ -701,64 +701,64 @@
 <BR><A HREF="^kuru357.htm">[357-8]</A> 
 <BR><A HREF="^kuru362.htm">[362-6]</A> 
 <BR><A HREF="^kuru401.htm">[401-6]</A>
-<BR>((//SEM//  toï¿½u
-<LI>naci		4.? to yearn - v.r. 
+<BR>((//SEM//  toñu
+<LI>nacai		4.? to yearn - v.r. 
 <BR><A HREF="^kuru274.htm">[274-5]</A>
-<LI>naï¿½uï¿½ku	DEDR 3585: 5. to shiver - v.r. 
+<LI>nañuïku	DEDR 3585: 5. to shiver - v.r. 
 <BR><A HREF="^kuru076.htm">[76-6]</A> 
 <BR><A HREF="^kuru103.htm">[103-1]</A> 
 <BR><A HREF="^kuru132.htm">[132-4]</A> 
 <BR><A HREF="^kuru354.htm">[354-6]</A>
-<BR>((//SEM//  paï¿½i
-<LI>naï¿½ï¿½u		DEDR 3588: 5. to be situated - v.r. 
+<BR>((//SEM//  pa­i
+<LI>naõõu		DEDR 3588: 5. to be situated - v.r. 
 <BR><A HREF="^kuru203.htm">[203-3]</A>
-<LI>nalkï¿½r		DEDR 252: 4. to be poor - v.r. 
+<LI>nalkår		DEDR 252: 4. to be poor - v.r. 
 <BR><A HREF="^kuru086.htm">[86-6]</A> 
 <BR><A HREF="^kuru347.htm">[347-1]</A>
 <LI>navil		DEDR 3616: 3. to utter - v.r. 
 <BR><A HREF="^kuru086.htm">[86-6]</A>
-<LI>naï¿½ai		DEDR 3630: 12.? to become wet - v.r. 
+<LI>na­ai		DEDR 3630: 12.? to become wet - v.r. 
 <BR><A HREF="^kuru343.htm">[343-1]</A>
-<LI>nï¿½ï¿½ï¿½u		DEDR 3583: 5. to erect - v.r. 
+<LI>nàññu		DEDR 3583: 5. to erect - v.r. 
 <BR><A HREF="^kuru245.htm">[245-4]</A>
-<LI>nï¿½ï¿½u	DEDR 3637: 5. to search - v.r. 
+<LI>nàñu	DEDR 3637: 5. to search - v.r. 
 <BR><A HREF="^kuru170.htm">[170-3]</A>
-<LI>nï¿½ï¿½ku		DEDR 3685: 5. to leave - v.r. 
+<LI>nãïku		DEDR 3685: 5. to leave - v.r. 
 <BR><A HREF="^kuru391.htm">[391-2]</A>
-<BR>((//SEM//  akal, nï¿½ 
-<LI>nï¿½ï¿½u		DEDR 3692: 5. to prolong - v.r. 
+<BR>((//SEM//  akal, nã 
+<LI>nãñu		DEDR 3692: 5. to prolong - v.r. 
 <BR><A HREF="^kuru149.htm">[149-2]</A> 
 <BR><A HREF="^kuru354.htm">[354-1]</A> 
 <BR><A HREF="^kuru373.htm">[373-4]</A> 
 <BR><A HREF="^kuru374.htm">[374-6]</A> 
 <BR><A HREF="^kuru385.htm">[385-4]</A>
-<LI>nï¿½ntu		5. to swim - v.r. 
+<LI>nãntu		5. to swim - v.r. 
 <BR><A HREF="^kuru332.htm">[332-2]</A>
-<LI>nuï¿½ku		DEDR 3697: 5. to swallow - v.r. 
+<LI>nuïku		DEDR 3697: 5. to swallow - v.r. 
 <BR><A HREF="^kuru395.htm">[395-4]</A>
 <LI>neri		DEDR 2927: 11. to crush - v.r. 
 <BR><A HREF="^kuru066.htm">[66-3]</A> 
 <BR><A HREF="^kuru149.htm">[149-4]</A> 
 <BR><A HREF="^kuru149.htm">[149-6]</A> 
 <BR><A HREF="^kuru208.htm">[208-2]</A>
-<LI>neï¿½i		DEDR 2935: 4. to curl - v.r. 
+<LI>neŸi		DEDR 2935: 4. to curl - v.r. 
 <BR><A HREF="^kuru183.htm">[183-3]</A> 
 <BR><A HREF="^kuru190.htm">[190-1]</A> 
 <BR><A HREF="^kuru199.htm">[199-4]</A>
-<LI>nï¿½r		DEDR 3770?: 11.? to resemble - v.r. 
+<LI>n›r		DEDR 3770?: 11.? to resemble - v.r. 
 <BR><A HREF="^kuru173.htm">[173-1]</A>? 
 <BR><A HREF="^kuru319.htm">[319-6]</A>?
-<LI>nï¿½ï¿½		DEDR 3800: 8. to suffer - v.r. 
+<LI>n­		DEDR 3800: 8. to suffer - v.r. 
 <BR><A HREF="^kuru191.htm">[191-2]</A> 
 <BR><A HREF="^kuru304.htm">[304-2]</A>
-<BR>((//SEM//  ï¿½ï¿½ï¿½u, uï¿½a, tï¿½ï¿½ku
+<BR>((//SEM//  àŸŸu, u©a, tàïku
 <LI>paku		DEDR 3808: 6. to be split - v.r. 
 <BR><A HREF="^kuru089.htm">[89-1]</A> 
 <BR><A HREF="^kuru155.htm">[155-4]</A> 
 <BR><A HREF="^kuru193.htm">[193-2]</A> 
 <BR><A HREF="^kuru279.htm">[279-2]</A> 
 <BR><A HREF="^kuru343.htm">[343-3]</A> 
-<LI>paï¿½u	DEDR 3852/3853?: 6. to happen (...) - v.r. 
+<LI>pañu	DEDR 3852/3853?: 6. to happen (...) - v.r. 
 <BR><A HREF="^kuru030.htm">[30-5]</A> 
 <BR><A HREF="^kuru104.htm">[104-4]</A> 
 <BR><A HREF="^kuru141.htm">[141-6]</A> 
@@ -777,7 +777,7 @@
 <BR><A HREF="^kuru346.htm">[346-5]</A> 
 <BR><A HREF="^kuru357.htm">[357-7]</A> 
 <BR><A HREF="^kuru371.htm">[371-2]</A>
-<LI>paï¿½i		DEDR 3888: 4. to be humble - v.r. 
+<LI>paõi		DEDR 3888: 4. to be humble - v.r. 
 <BR><A HREF="^kuru176.htm">[176-2]</A> 
 <LI>payil	DEDR 3942: 3. to become dense (not DEDR); intr. to practise? - DEDR 3943?: to rustle?  v.r. 
 <BR><A HREF="^kuru007.htm">[7-6]</A> 
@@ -786,57 +786,57 @@
 <BR><A HREF="^kuru254.htm">[254-5]</A> 
 <BR><A HREF="^kuru291.htm">[291-7]</A> 
 <BR><A HREF="^kuru329.htm">[329-5]</A>
-<LI>pï¿½y		DEDR 4087: 4. to spring - DEDR 4088: 4. to spread		v.r. 
+<LI>pày		DEDR 4087: 4. to spring - DEDR 4088: 4. to spread		v.r. 
 <BR><A HREF="^kuru116.htm">[116-1]</A> 
 <BR><A HREF="^kuru317.htm">[317-3]</A> 
 <BR><A HREF="^kuru335.htm">[335-3]</A> 
 <BR><A HREF="^kuru336.htm">[336-2]</A>
-<BR>((//SEM//  tï¿½vu, tåŸŸu, para
-<LI>pï¿½ï¿½u		5. to sing - v.r. 
+<BR>((//SEM//  tàvu, tåŸŸu, para
+<LI>pàñu		5. to sing - v.r. 
 <BR><A HREF="^kuru138.htm">[138-5]</A> 
 <BR><A HREF="^kuru177.htm">[177-1]</A> 
 <BR><A HREF="^kuru353.htm">[353-3]</A> 
 <BR><A HREF="^kuru390.htm">[390-1]</A>
-<LI>pï¿½		DEDR 4110: 11. to go to ruin - v.r. 
+<LI>pà©		DEDR 4110: 11. to go to ruin - v.r. 
 <BR><A HREF="^kuru144.htm">[144-5]</A>
 <LI>piri		DEDR 4176: 4. intr. to separate - v.r. 
 <BR><A HREF="^kuru022.htm">[22-2]</A>
-<LI>piï¿½aï¿½ku	5. to glisten - v.r. 
+<LI>piŸaïku	5. to glisten - v.r. 
 <BR><A HREF="^kuru066.htm">[66-2]</A> 
 <BR><A HREF="^kuru214.htm">[214-2]</A> 
 <BR><A HREF="^kuru329.htm">[329-4]</A>
-<LI>piï¿½ï¿½u		DEDR 4207: 5. to brid - v.r. 
+<LI>pi­­u		DEDR 4207: 5. to braid - v.r. 
 <BR><A HREF="^kuru246.htm">[246-6]</A> 
 <BR><A HREF="^kuru353.htm">[353-6]</A>
 <LI>puku		DEDR 4238: 6. to enter - v.r. 
 <BR><A HREF="^kuru118.htm">[118-3]</A> 
 <BR><A HREF="^kuru162.htm">[162-2]</A>
-<LI>puï¿½ar		DEDR 4160(b): 4. intr. to unite - v.r. 
+<LI>puõar		DEDR 4160(b): 4. intr. to unite - v.r. 
 <BR><A HREF="^kuru299.htm">[299-4]</A>
 <LI>puri		4. to desire (TL: to do?) - v.r. 
 <BR><A HREF="^kuru374.htm">[374-4]</A>
 <LI>pullu		TL (not DEDR): 5. to embrace - v.r. 
 <BR><A HREF="^kuru161.htm">[161-3]</A>
-<BR>((//SEM//  taï¿½uvu, muyaï¿½ku
+<BR>((//SEM//  ta©uvu, muyaïku
 <LI>pular		TL (not DEDR; DEDS 3733?): 4. to dry - v.r. 
 <BR><A HREF="^kuru150.htm">[150-3]</A> 
 <BR><A HREF="^kuru372.htm">[372-6]</A> 
 <LI>pular		DEDR 4305: 4. to dawn - v.r. 
 <BR><A HREF="^kuru234.htm">[234-5]</A>
-<LI>pï¿½ï¿½ï¿½u		DEDR 4361: 5. to fasten - v.r. 
+<LI>påññu		DEDR 4361: 5. to fasten - v.r. 
 <BR><A HREF="^kuru388.htm">[388-3]</A>
-<LI>pï¿½ï¿½		DEDR 4361: 7. to put on, to take on - v.r. 
+<LI>påõ		DEDR 4361: 7. to put on, to take on - v.r. 
 <BR><A HREF="^kuru173.htm">[173-3]</A> 
 <BR><A HREF="^kuru275.htm">[275-4]</A>
-<LI>pey		DEDR 4407: 1. to rin - v.r. 
+<LI>pey		DEDR 4407: 1. to rain - v.r. 
 <BR><A HREF="^kuru106.htm">[106-5]</A> 
 <BR><A HREF="^kuru233.htm">[233-3]</A> 
 <BR><A HREF="^kuru372.htm">[372-5]</A>
 <LI>peyar		DEDR 4409: 4. to stir, to move, to return - v.r. 
 <BR><A HREF="^kuru340.htm">[340-5]</A>
-<LI>peï¿½u		DEDR 4422: 6. to obtin - v.r. 
+<LI>peŸu		DEDR 4422: 6. to obtain - v.r. 
 <BR><A HREF="^kuru101.htm">[101-2]</A>
-<LI>poï¿½ku		DEDR 4469: 5. to foam, to rise - v.r. 
+<LI>poïku		DEDR 4469: 5. to foam, to rise - v.r. 
 <BR><A HREF="^kuru055.htm">[55-2]</A> 
 <BR><A HREF="^kuru090.htm">[90-3]</A>
 <LI>pori		4. to be parched - v.r. 
@@ -850,9 +850,9 @@
 <BR><A HREF="^kuru250.htm">[250-5]</A> 
 <BR><A HREF="^kuru290.htm">[290-5]</A> 
 <BR><A HREF="^kuru329.htm">[329-2]</A>
-<LI>poï¿½i		DEDR 4556: 4. to flow - v.r. 
+<LI>po©i		DEDR 4556: 4. to flow - v.r. 
 <BR><A HREF="^kuru187.htm">[187-2]</A>
-<LI>pï¿½l	DEDR 4597: 3. to be similar - v.r. 
+<LI>pl	DEDR 4597: 3. to be similar - v.r. 
 <BR><A HREF="^kuru010.htm">[10-2]</A> 
 <BR><A HREF="^kuru101.htm">[101-4]</A> 
 <BR><A HREF="^kuru101.htm">[101-4]</A> 
@@ -865,25 +865,25 @@
 <BR><A HREF="^kuru245.htm">[245-3]</A> 
 <BR><A HREF="^kuru259.htm">[259-6]</A> 
 <BR><A HREF="^kuru286.htm">[286-3]</A>
-<LI>pï¿½ï¿½		DEDR 4539: 4. tr. to be split; intr. to cross - v.r. 
+<LI>p©		DEDR 4539: 4. tr. to be split; intr. to cross - v.r. 
 <BR><A HREF="^kuru391.htm">[391-7]</A>
-<LI>makiï¿½		DEDR 4618: 4. to be delighted - v.r. 
+<LI>maki©		DEDR 4618: 4. to be delighted - v.r. 
 <BR><A HREF="^kuru229.htm">[229-7]</A>
 <BR>((//SEM//  uva, pukal
-<LI>maï¿½i		DEDR 4652: 4.? to droop - v.r. 
+<LI>mañi		DEDR 4652: 4.? to droop - v.r. 
 <BR><A HREF="^kuru180.htm">[180-3]</A>
-<LI>maï¿½ï¿½u	DEDR 4684: 5. to bath - v.r. 
+<LI>maõõu	DEDR 4684: 5. to bath - v.r. 
 <BR><A HREF="^kuru367.htm">[367-6]</A>
-<LI>[maï¿½ï¿½uï¿½u	+ v.r. of uï¿½u 
+<LI>[maõõuŸu	+ v.r. of uŸu 
 <BR><A HREF="^kuru367.htm">[367-6]</A>]
 <LI>matar		DEDR 4687: 11. to flourish - v.r. 
 <BR><A HREF="^kuru348.htm">[348-4]</A>
-<LI>mayaï¿½ku	5. to be confused - v.r. 
+<LI>mayaïku	5. to be confused - v.r. 
 <BR><A HREF="^kuru308.htm">[308-3]</A> 
 <BR><A HREF="^kuru339.htm">[339-4]</A> 
 <BR><A HREF="^kuru393.htm">[393-1]</A>
-<BR>((//SEM//  ï¿½mï¿½, maruï¿½ï¿½u
-<LI>maruï¿½		7. to resemble; to be confused - v.r. 
+<BR>((//SEM//  ›mà, maruõñu
+<LI>maruë		7. to resemble; to be confused - v.r. 
 <BR><A HREF="^kuru138.htm">[138-5]</A> 
 <BR><A HREF="^kuru198.htm">[198-2]</A> 
 <BR><A HREF="^kuru345.htm">[345-2]</A> 
@@ -902,16 +902,16 @@
 <LI>malir		DEDR 4729: 4. to flood - v.r. 
 <BR><A HREF="^kuru099.htm">[99-4]</A> 
 <BR><A HREF="^kuru351.htm">[351-3]</A>
-<LI>maï¿½ï¿½u	DEDR 4778: 5. intr. to be permanent; tr. to come close - v.r. 
+<LI>ma­­u	DEDR 4778: 5. intr. to be permanent; tr. to come close - v.r. 
 <BR><A HREF="^kuru376.htm">[376-1]</A>
-<LI>mï¿½ï¿½u		DEDR 4834: 5. intr. to be exchanged; tr. to exchange - v.r. 
+<LI>màŸu		DEDR 4834: 5. intr. to be exchanged; tr. to exchange - v.r. 
 <BR><A HREF="^kuru293.htm">[293-6]</A> 
 <LI>miku		DEDR 4838: 6. to become much - v.r. 
 <BR><A HREF="^kuru138.htm">[138-4]</A> 
 <BR><A HREF="^kuru343.htm">[343-3]</A>
-<LI>miï¿½ai		TL (not DEDR): 4. to be set close - v.r. 
+<LI>miñai		TL (not DEDR): 4. to be set close - v.r. 
 <BR><A HREF="^kuru274.htm">[274-7]</A>
-<LI>miï¿½ï¿½u		5. to flash - v.r. 
+<LI>mi­­u		5. to flash - v.r. 
 <BR><A HREF="^kuru192.htm">[192-3]</A>? 
 <BR><A HREF="^kuru205.htm">[205-1]</A>? 
 <BR><A HREF="^kuru246.htm">[246-6]</A> 
@@ -925,65 +925,65 @@
 <BR><A HREF="^kuru164.htm">[164-3]</A> 
 <BR><A HREF="^kuru176.htm">[176-4]</A> 
 <BR><A HREF="^kuru397.htm">[397-1]</A>
-<BR>((//SEM//  kaï¿½ai, paï¿½u, viï¿½ai
-<LI>muï¿½aï¿½ku	DEDR 4989: 5. to thunder - v.r. 
+<BR>((//SEM//  ka­ai, pa©u, viëai
+<LI>mu©aïku	DEDR 4989: 5. to thunder - v.r. 
 <BR><A HREF="^kuru251.htm">[251-7]</A> 
 <BR><A HREF="^kuru396.htm">[396-6]</A>
-<BR>((//SEM//  iï¿½i, urum
-<LI>muï¿½i		DEDR 4996: 4. to dry - v.r. 
+<BR>((//SEM//  iñi, urum
+<LI>muëi		DEDR 4996: 4. to dry - v.r. 
 <BR><A HREF="^kuru167.htm">[167-1]</A> 
 <BR><A HREF="^kuru304.htm">[304-2]</A> 
 <BR><A HREF="^kuru388.htm">[388-5]</A> 
 <BR><A HREF="^kuru396.htm">[396-3]</A> 
-<LI>muï¿½i		DEDR 5021: 4. to hate - v.r. 
+<LI>mu­i		DEDR 5021: 4. to hate - v.r. 
 <BR><A HREF="^kuru357.htm">[357-1]</A>
-<LI>mï¿½ku		DEDR 4096: 5. to dive - v.r. 
+<LI>må©ku		DEDR 4096: 5. to dive - v.r. 
 <BR><A HREF="^kuru009.htm">[9-6]</A>
-<LI>mï¿½y		DEDR 5093: 4. to graze - v.r. 
+<LI>m›y		DEDR 5093: 4. to graze - v.r. 
 <BR><A HREF="^kuru394.htm">[394-5]</A>
-<LI>[mï¿½varu	contracted mï¿½vu + v.r. of vï¿½? 
+<LI>[m›varu	contracted m›vu + v.r. of và? 
 <BR><A HREF="^kuru306.htm">[306-1]</A>]
-<LI>vaï¿½aï¿½ku	DEDR 5236: 5. to bend - v.r. 
+<LI>vaõaïku	DEDR 5236: 5. to bend - v.r. 
 <BR><A HREF="^kuru364.htm">[364-5]</A>	
-<LI>vaï¿½ar		4. to curve - v.r. 
+<LI>vaõar		4. to curve - v.r. 
 <BR><A HREF="^kuru082.htm">[82-1]</A>
 <LI>vati		DEDR 5246: 4. to abide - v.r. 
 <BR><A HREF="^kuru005.htm">[5-2]</A> 
 <BR><A HREF="^kuru395.htm">[395-8]</A>
-<BR>((//SEM//  uï¿½ai
-<LI>varu/vï¿½	DEDR 5270: 13. to come	- v.r. 
+<BR>((//SEM//  uŸai
+<LI>varu/và	DEDR 5270: 13. to come	- v.r. 
 <BR><A HREF="^kuru257.htm">[257-4]</A> 
 <BR><A HREF="^kuru261.htm">[261-5]</A> 
 <BR><A HREF="^kuru279.htm">[279-2]</A>
 <BR>((//SEM//  auxiliary verbs
-<LI>vaï¿½aï¿½ku	5. intr. to wander - v.r. 
+<LI>va©aïku	5. intr. to wander - v.r. 
 <BR><A HREF="^kuru207.htm">[207-5]</A> 
 <BR><A HREF="^kuru230.htm">[230-5]</A> 
 <BR><A HREF="^kuru329.htm">[329-3]</A>
-<LI>vaï¿½ar		DEDR 5304: 4. to grow - v.r. 
+<LI>vaëar		DEDR 5304: 4. to grow - v.r. 
 <BR><A HREF="^kuru090.htm">[90-2]</A> 
 <BR><A HREF="^kuru288.htm">[288-1]</A> 
 <BR><A HREF="^kuru289.htm">[289-1]</A>
-<LI>vï¿½ï¿½ku		DEDR 5335: 5. to bend - v.r. 
+<LI>vàïku		DEDR 5335: 5. to bend - v.r. 
 <BR><A HREF="^kuru125.htm">[125-6]</A> 
 <BR><A HREF="^kuru172.htm">[172-6]</A> 
 <BR><A HREF="^kuru304.htm">[304-3]</A> 
 <BR><A HREF="^kuru376.htm">[376-4]</A>
-<LI>vï¿½ï¿½u		DEDR 5342: 5. to fade - v.r. 
+<LI>vàñu		DEDR 5342: 5. to fade - v.r. 
 <BR><A HREF="^kuru343.htm">[343-6]</A>
 <BR>((//SEM//  paca
-<LI>vï¿½r		DEDR 5356: 4. to overflow - v.r. 
+<LI>vàr		DEDR 5356: 4. to overflow - v.r. 
 <BR><A HREF="^kuru022.htm">[22-1]</A> 
 <BR><A HREF="^kuru098.htm">[98-4]</A> 
 <BR><A HREF="^kuru168.htm">[168-1]</A> 
 <BR><A HREF="^kuru222.htm">[222-5]</A> 
 <BR><A HREF="^kuru401.htm">[401-2]</A> 
-<LI>vï¿½r		DEDR 5357: 4. to comb - v.r. 
+<LI>vàr		DEDR 5357: 4. to comb - v.r. 
 <BR><A HREF="^kuru082.htm">[82-1]</A>
-<LI>vï¿½		DEDR 5372: 4. to live - v.r. 
+<LI>và©		DEDR 5372: 4. to live - v.r. 
 <BR><A HREF="^kuru351.htm">[351-2]</A>
 <BR>((//SEM//  uy
-<LI>viï¿½u	DEDR 5393: 6. to let - v.r. 
+<LI>viñu	DEDR 5393: 6. to let - v.r. 
 <BR><A HREF="^kuru054.htm">[54-3]</A> 
 <BR><A HREF="^kuru174.htm">[174-2]</A> 
 <BR><A HREF="^kuru239.htm">[239-2]</A> 
@@ -996,42 +996,42 @@
 <LI>viravu		DEDR 5407: 5. to mix - v.r. 
 <BR><A HREF="^kuru312.htm">[312-5]</A> 
 <BR><A HREF="^kuru316.htm">[316-4]</A>
-<BR>((//SEM//  kaï¿½a
-<LI>[virivuï¿½u	+ v.r. of uï¿½u 
+<BR>((//SEM//  kaëa
+<LI>[viraivuŸu	+ v.r. of uŸu 
 <BR><A HREF="^kuru351.htm">[351-1]</A>]
-<LI>vilaï¿½ku	DEDR 5423: 5. intr. to transverse; tr. to obstruct - v.r. 
+<LI>vilaïku	DEDR 5423: 5. intr. to transverse; tr. to obstruct - v.r. 
 <BR><A HREF="^kuru130.htm">[130-2]</A> 
 <BR><A HREF="^kuru134.htm">[134-7]</A> 
 <BR><A HREF="^kuru144.htm">[144-7]</A> 
 <BR><A HREF="^kuru256.htm">[256-7]</A> 
 <BR><A HREF="^kuru262.htm">[262-6]</A> 
 <BR><A HREF="^kuru381.htm">[381-6]</A>
-<LI>viï¿½aï¿½ku	DEDR 5496(a): 5. to shine - v.r. 
+<LI>viëaïku	DEDR 5496(a): 5. to shine - v.r. 
 <BR><A HREF="^kuru034.htm">[34-7]</A> 
 <BR><A HREF="^kuru189.htm">[189-3]</A> 
 <BR><A HREF="^kuru198.htm">[198-6]</A> 
 <BR><A HREF="^kuru338.htm">[338-7]</A> 
 <BR><A HREF="^kuru367.htm">[367-2]</A>
-<LI>viï¿½ai		DEDR 5437: 4. to ripen - v.r. 
+<LI>viëai		DEDR 5437: 4. to ripen - v.r. 
 <BR><A HREF="^kuru039.htm">[39-2]</A> 
 <BR><A HREF="^kuru091.htm">[91-1]</A> 
 <BR><A HREF="^kuru141.htm">[141-1]</A> 
 <BR><A HREF="^kuru269.htm">[269-6]</A> 
-<LI>viï¿½aiyï¿½ï¿½u	5. to play - v.r. 
+<LI>viëaiyàñu	5. to play - v.r. 
 <BR><A HREF="^kuru396.htm">[396-2]</A> 
-<LI>vï¿½ï¿½ku		DEDR 5448(a): 5. to swell - v.r. 
+<LI>vãïku		DEDR 5448(a): 5. to swell - v.r. 
 <BR><A HREF="^kuru344.htm">[344-4]</A> 
 <BR><A HREF="^kuru358.htm">[358-1]</A>
-<LI>vï¿½		DEDR 5430: 4. to descend - v.r. 
+<LI>vã©		DEDR 5430: 4. to descend - v.r. 
 <BR><A HREF="^kuru134.htm">[134-5]</A> 
 <BR><A HREF="^kuru189.htm">[189-4]</A> 
 <BR><A HREF="^kuru257.htm">[257-3]</A> 
 <BR><A HREF="^kuru270.htm">[270-2]</A> 
 <BR><A HREF="^kuru353.htm">[353-6]</A>
-<BR>((//SEM//  iï¿½i
-<LI>vï¿½ï¿½ï¿½u		DEDR 5528: 5. intr. to be necessary; tr. to need - v.r. 
+<BR>((//SEM//  i©i
+<LI>v›õñu		DEDR 5528: 5. intr. to be necessary; tr. to need - v.r. 
 <BR><A HREF="^kuru195.htm">[195-3]</A> 
-<LI>vï¿½y		DEDR 5532: 4. to cover - v.r. 
+<LI>v›y		DEDR 5532: 4. to cover - v.r. 
 <BR><A HREF="^kuru340.htm">[340-4]</A>
 </OL>
 
@@ -1045,11 +1045,11 @@
 <BR><A HREF="^kuru249.htm">[249-1]</A> 
 <BR><A HREF="^kuru264.htm">[264-3]</A> 
 <BR><A HREF="^kuru301.htm">[301-4]</A>
-<LI>aï¿½cum	PE1. 
+<LI>a¤cum	PE1. 
 <BR><A HREF="^kuru143.htm">[143-2]</A> 
-<LI>aï¿½avum	PE1. 
+<LI>aõavum	PE1. 
 <BR><A HREF="^kuru333.htm">[333-4]</A>
-<LI>aï¿½aï¿½kum	PE1. 
+<LI>aõaïkum	PE1. 
 <BR><A HREF="^kuru372.htm">[372-3]</A>
 <LI>ayarum	PE1. 
 <BR><A HREF="^kuru238.htm">[238-3]</A> 
@@ -1063,39 +1063,39 @@
 <BR><A HREF="^kuru072.htm">[72-1]</A>
 <LI>alamvarum	PE1. 
 <BR><A HREF="^kuru148.htm">[148-4]</A>
-<LI>alikkum	PE1. 
+<LI>alaikkum	PE1. 
 <BR><A HREF="^kuru246.htm">[246-5]</A> 
 <BR><A HREF="^kuru262.htm">[262-2]</A> 
 <BR><A HREF="^kuru397.htm">[397-4]</A>
-<LI>aviï¿½um	PE1. 
+<LI>avi©um	PE1. 
 <BR><A HREF="^kuru228.htm">[228-2]</A> 
 <BR><A HREF="^kuru284.htm">[284-3]</A>
-<LI>aï¿½iyum	PE1. 
+<LI>aŸiyum	PE1. 
 <BR><A HREF="^kuru002.htm">[2-5]</A> 
 <BR><A HREF="^kuru026.htm">[26-8]</A>
-<LI>aï¿½ukkum	PE1. 
+<LI>aŸukkum	PE1. 
 <BR><A HREF="^kuru324.htm">[324-2]</A>
-<LI>ï¿½kum	PE1. 
+<LI>àkum	PE1. 
 <BR><A HREF="^kuru055.htm">[55-4]</A> 
 <BR><A HREF="^kuru077.htm">[77-4]</A> 
 <BR><A HREF="^kuru207.htm">[207-4]</A> 
 <BR><A HREF="^kuru245.htm">[245-4]</A> 
 <BR><A HREF="^kuru248.htm">[248-6]</A>
-<LI>ï¿½rum	PE1. 
+<LI>àrum	PE1. 
 <BR><A HREF="^kuru166.htm">[166-2]</A> 
 <BR><A HREF="^kuru174.htm">[174-7]</A> 
 <BR><A HREF="^kuru181.htm">[181-5]</A> 
 <BR><A HREF="^kuru235.htm">[235-4]</A>
-<LI>ï¿½rkkum	PE1. 
+<LI>àrkkum	PE1. 
 <BR><A HREF="^kuru039.htm">[39-2]</A>
-<LI>icikkum	PE1. 
+<LI>icaikkum	PE1. 
 <BR><A HREF="^kuru139.htm">[139-5]</A> 
 <BR><A HREF="^kuru279.htm">[279-3]</A> 
 <BR><A HREF="^kuru301.htm">[301-7]</A>
-<LI>iï¿½ikkum	PE1. 
+<LI>iñikkum	PE1. 
 <BR><A HREF="^kuru058.htm">[58-1]</A> 
 <BR><A HREF="^kuru158.htm">[158-1]</A>
-<LI>imikkum	PE1. 
+<LI>imaikkum	PE1. 
 <BR><A HREF="^kuru150.htm">[150-2]</A>
 <LI>iyampum	PE1. 
 <BR><A HREF="^kuru042.htm">[42-3]</A> 
@@ -1103,12 +1103,12 @@
 <BR><A HREF="^kuru234.htm">[234-4]</A> 
 <BR><A HREF="^kuru241.htm">[241-6]</A> 
 <BR><A HREF="^kuru247.htm">[247-6]</A>
-<LI>iraï¿½kum	PE1. 
+<LI>iraïkum	PE1. 
 <BR><A HREF="^kuru134.htm">[134-5]</A> 
 <BR><A HREF="^kuru194.htm">[194-2]</A> 
 <BR><A HREF="^kuru195.htm">[195-4]</A> 
 <BR><A HREF="^kuru328.htm">[328-3]</A> 
-<LI>iraï¿½kum	PE1. 
+<LI>iraïkum	PE1. 
 <BR><A HREF="^kuru289.htm">[289-7]</A> 
 <BR><A HREF="^kuru358.htm">[358-5]</A>
 <LI>iriyum	PE1. 
@@ -1125,64 +1125,64 @@
 <BR><A HREF="^kuru036.htm">[36-2]</A> 
 <BR><A HREF="^kuru260.htm">[260-1]</A> 
 <BR><A HREF="^kuru364.htm">[364-8]</A>
-<LI>iï¿½aikkum	PE1. 
+<LI>i©aikkum	PE1. 
 <BR><A HREF="^kuru003.htm">[3-4]</A>
-<LI>ï¿½yum	PE1. 
+<LI>ãyum	PE1. 
 <BR><A HREF="^kuru091.htm">[91-5]</A>
-<LI>ukaï¿½um	PE1. 
+<LI>ukaëum	PE1. 
 <BR><A HREF="^kuru187.htm">[187-3]</A> 
 <BR><A HREF="^kuru250.htm">[250-2]</A> 
 <BR><A HREF="^kuru256.htm">[256-3]</A>
-<LI>uï¿½ï¿½um	PE1. 
+<LI>uõõum	PE1. 
 <BR><A HREF="^kuru100.htm">[100-4]</A> 
 <BR><A HREF="^kuru225.htm">[225-2]</A> 
 <BR><A HREF="^kuru260.htm">[260-5]</A> 
 <BR><A HREF="^kuru278.htm">[278-6]</A> 
 <BR><A HREF="^kuru331.htm">[331-3]</A>
-<LI>uï¿½aï¿½kum	PE1. 
+<LI>uõaïkum	PE1. 
 <BR><A HREF="^kuru372.htm">[372-3v]</A>
-<LI>uï¿½arum	PE1. 
+<LI>uõarum	PE1. 
 <BR><A HREF="^kuru111.htm">[111-3]</A>
-<LI>uyaï¿½kum	PE1. 
+<LI>uyaïkum	PE1. 
 <BR><A HREF="^kuru324.htm">[324-5]</A>
 <LI>uyavum	PE1. 
 <BR><A HREF="^kuru388.htm">[388-6]</A>
-<LI>uraï¿½um	PE1. 
+<LI>uraŸum	PE1. 
 <BR><A HREF="^kuru190.htm">[190-5]</A>
-<LI>uruï¿½ï¿½um	PE1. 
+<LI>uruññum	PE1. 
 <BR><A HREF="^kuru038.htm">[38-2]</A>
-<LI>uï¿½akkum	PE1. 
+<LI>u©akkum	PE1. 
 <BR><A HREF="^kuru048.htm">[48-4]</A>
-<LI>uï¿½ampum	PE1. 
+<LI>uëampum	PE1. 
 <BR><A HREF="^kuru086.htm">[86-5]</A>
-<LI>uï¿½arum	PE1. 
+<LI>uëarum	PE1. 
 <BR><A HREF="^kuru273.htm">[273-2]</A>
-<LI>uï¿½um	PE1. 
+<LI>uŸum	PE1. 
 <BR><A HREF="^kuru043.htm">[43-5]</A> 
 <BR><A HREF="^kuru194.htm">[194-5]</A>
-<LI>uï¿½ï¿½um	PE1. 
+<LI>uŸåum	PE1. 
 <BR><A HREF="^kuru061.htm">[61-3]</A> 
 <BR><A HREF="^kuru226.htm">[226-3]</A>
-<LI>uï¿½aï¿½kum	PE1. 
+<LI>uŸaïkum	PE1. 
 <BR><A HREF="^kuru005.htm">[5-2]</A> 
 <BR><A HREF="^kuru034.htm">[34-2]</A>
-<LI>uï¿½aï¿½um	PE1. 
+<LI>uŸa©um	PE1. 
 <BR><A HREF="^kuru222.htm">[222-6]</A> 
-<LI>uï¿½aiyum	PE1. 
+<LI>uŸaiyum	PE1. 
 <BR><A HREF="^kuru298.htm">[298-3]</A> 
 <BR><A HREF="^kuru334.htm">[334-3]</A>
-<LI>ï¿½tum	PE1. 
+<LI>åtum	PE1. 
 <BR><A HREF="^kuru239.htm">[239-4]</A>
-<LI>ï¿½rum	PE1. 
+<LI>årum	PE1. 
 <BR><A HREF="^kuru033.htm">[33-4]</A>
-<LI>ï¿½um	PE1. 
+<LI>åŸum	PE1. 
 <BR><A HREF="^kuru286.htm">[286-2]</A> 
 <BR><A HREF="^kuru348.htm">[348-4]</A>
-<LI>eï¿½uppum	PE1. 
+<LI>eñuppum	PE1. 
 <BR><A HREF="^kuru398.htm">[398-5]</A>
-<LI>eï¿½um	PE1. 
+<LI>e©um	PE1. 
 <BR><A HREF="^kuru323.htm">[323-3]</A>
-<LI>eï¿½ï¿½um	PE1. 
+<LI>e­­um	PE1. 
 <BR><A HREF="^kuru111.htm">[111-2]</A> 
 <BR><A HREF="^kuru146.htm">[146-4]</A> 
 <BR><A HREF="^kuru146.htm">[146-5]</A> 
@@ -1194,40 +1194,40 @@
 <BR><A HREF="^kuru302.htm">[302-5]</A> 
 <BR><A HREF="^kuru357.htm">[357-4]</A> 
 <BR><A HREF="^kuru397.htm">[397-5]</A>
-<LI>ï¿½ï¿½kum	PE1. 
+<LI>›ïkum	PE1. 
 <BR><A HREF="^kuru194.htm">[194-3]</A>
-<LI>ï¿½ykkum	PE1. 
+<LI>›ykkum	PE1. 
 <BR><A HREF="^kuru000.htm">[0-3]</A> 
 <BR><A HREF="^kuru067.htm">[67-4]</A>
 <LI>olikkum	PE1. 
 <BR><A HREF="^kuru007.htm">[7-5]</A> 
 <BR><A HREF="^kuru345.htm">[345-6]</A>
-<LI>oï¿½ukum	PE1. 
+<LI>o©ukum	PE1. 
 <BR><A HREF="^kuru203.htm">[203-5]</A>
-<LI>ï¿½ppum	PE1. 
+<LI>ppum	PE1. 
 <BR><A HREF="^kuru333.htm">[333-3]</A>
-<LI>ï¿½rkkum	PE1. 
+<LI>rkkum	PE1. 
 <BR><A HREF="^kuru396.htm">[396-6]</A>
-<LI>ï¿½rum	PE1. 
+<LI>rum	PE1. 
 <BR><A HREF="^kuru246.htm">[246-5]</A>
-<LI>kaï¿½akkum	PE1. 
+<LI>kañakkum	PE1. 
 <BR><A HREF="^kuru080.htm">[80-5]</A>
-<LI>kaï¿½iyum	PE1. 
+<LI>kañiyum	PE1. 
 <BR><A HREF="^kuru142.htm">[142-2]</A> 
 <BR><A HREF="^kuru291.htm">[291-2]</A> 
 <BR><A HREF="^kuru360.htm">[360-6]</A>
-<LI>kaï¿½ukkum	PE1. 
+<LI>kañukkum	PE1. 
 <BR><A HREF="^kuru235.htm">[235-2]</A> 
 <BR><A HREF="^kuru330.htm">[330-3]</A>
-<LI>kï¿½ï¿½um	PE1. 
+<LI>kàõum	PE1. 
 <BR><A HREF="^kuru252.htm">[252-8]</A>
-<LI>kataï¿½um	PE1. 
+<LI>kata©um	PE1. 
 <BR><A HREF="^kuru117.htm">[117-4]</A>
-<LI>katï¿½um	PE1. 
+<LI>katåum	PE1. 
 <BR><A HREF="^kuru008.htm">[8-2]</A> 
 <BR><A HREF="^kuru091.htm">[91-2]</A> 
 <BR><A HREF="^kuru164.htm">[164-2]</A>
-<LI>kamaï¿½um	PE1. 
+<LI>kama©um	PE1. 
 <BR><A HREF="^kuru022.htm">[22-4]</A> 
 <BR><A HREF="^kuru199.htm">[199-4]</A> 
 <BR><A HREF="^kuru209.htm">[209-6]</A> 
@@ -1237,72 +1237,72 @@
 <BR><A HREF="^kuru330.htm">[330-5]</A> 
 <BR><A HREF="^kuru355.htm">[355-6]</A> 
 <BR><A HREF="^kuru373.htm">[373-7]</A>
-<LI>kariyum	PE1. 
+<LI>karaiyum	PE1. 
 <BR><A HREF="^kuru261.htm">[261-4]</A>
-<LI>kaliï¿½um	PE1. 
+<LI>kali©um	PE1. 
 <BR><A HREF="^kuru011.htm">[11-2]</A> 
 <LI>kavarum	PE1. 
 <BR><A HREF="^kuru068.htm">[68-2]</A> 
 <BR><A HREF="^kuru335.htm">[335-4]</A>
 <LI>kaviyum	PE1. 
 <BR><A HREF="^kuru185.htm">[185-7]</A>
-<LI>kaï¿½ikkum	PE1. 
+<LI>ka©ikkum	PE1. 
 <BR><A HREF="^kuru213.htm">[213-6]</A> 
 <BR><A HREF="^kuru282.htm">[282-3]</A>
-<LI>kaï¿½kum	PE1. 
+<LI>kañkum	PE1. 
 <BR><A HREF="^kuru100.htm">[100-2]</A>
-<LI>kaï¿½aiyum	PE1. 
+<LI>kaëaiyum	PE1. 
 <BR><A HREF="^kuru316.htm">[316-7]</A>
-<LI>kaï¿½aï¿½kum	PE1. 
+<LI>kaŸaïkum	PE1. 
 <BR><A HREF="^kuru193.htm">[193-3]</A> 
 <BR><A HREF="^kuru209.htm">[209-2]</A> 
 <BR><A HREF="^kuru375.htm">[375-5]</A>
-<LI>kaï¿½ikkum	PE1. 
+<LI>kaŸikkum	PE1. 
 <BR><A HREF="^kuru338.htm">[338-4]</A> 
 <BR><A HREF="^kuru363.htm">[363-2]</A>
-<LI>kï¿½kkum	PE1. 
+<LI>kàkkum	PE1. 
 <BR><A HREF="^kuru058.htm">[58-4]</A> 
 <BR><A HREF="^kuru214.htm">[214-2]</A> 
 <BR><A HREF="^kuru215.htm">[215-6]</A> 
 <BR><A HREF="^kuru357.htm">[357-5]</A>
-<LI>kï¿½ï¿½ï¿½um	PE1. 
+<LI>kàññum	PE1. 
 <BR><A HREF="^kuru365.htm">[365-4]</A>
-<LI>kï¿½yum	PE1. 
+<LI>kàyum	PE1. 
 <BR><A HREF="^kuru058.htm">[58-3]</A>
-<LI>kï¿½kkoï¿½ï¿½um	PE1. 
+<LI>kà©kkoëëum	PE1. 
 <BR><A HREF="^kuru379.htm">[379-4]</A>
-<LI>kiï¿½akkum	PE1. 
+<LI>kiñakkum	PE1. 
 <BR><A HREF="^kuru343.htm">[343-6]</A>
-<LI>kuï¿½umum	PE1. 
+<LI>ku©umum	PE1. 
 <BR><A HREF="^kuru321.htm">[321-6]</A>
-<LI>kï¿½ï¿½ï¿½um	PE1. 
+<LI>kåññum	PE1. 
 <BR><A HREF="^kuru386.htm">[386-3]</A>
-<LI>kï¿½um	PE1. 
+<LI>kåum	PE1. 
 <BR><A HREF="^kuru154.htm">[154-6]</A> 
-<LI>kï¿½um	PE1. 
+<LI>kåŸum	PE1. 
 <BR><A HREF="^kuru364.htm">[364-4]</A>
 <LI>koyyum	PE1. 
 <BR><A HREF="^kuru311.htm">[311-6]</A>
-<LI>koï¿½utum	PE1. 
+<LI>ko©utum	PE1. 
 <BR><A HREF="^kuru085.htm">[85-5]</A> 
 <BR><A HREF="^kuru192.htm">[192-5]</A>
-<LI>koï¿½ï¿½um	PE1. 
+<LI>koëëum	PE1. 
 <BR><A HREF="^kuru222.htm">[222-1]</A> 
 <BR><A HREF="^kuru222.htm">[222-2]</A> 
 <BR><A HREF="^kuru379.htm">[379-4]</A>
 <LI>cilampum	PE1. 
 <BR><A HREF="^kuru360.htm">[360-7]</A>
-<LI>cuï¿½arum	PE1. 
+<LI>cuñarum	PE1. 
 <BR><A HREF="^kuru215.htm">[215-1]</A>
 <LI>cekukkum	PE1. 
 <BR><A HREF="^kuru069.htm">[69-4]</A>
-<LI>ceï¿½ï¿½um	PE1. 
+<LI>ceŸŸum	PE1. 
 <BR><A HREF="^kuru260.htm">[260-3]</A>
 <LI>collum	PE1. 
 <BR><A HREF="^kuru088.htm">[88-3v]</A>
-<LI>cï¿½rum	PE1. 
+<LI>crum	PE1. 
 <BR><A HREF="^kuru088.htm">[88-3]</A>
-<LI>taï¿½iyum	PE1. 
+<LI>taõiyum	PE1. 
 <BR><A HREF="^kuru274.htm">[274-5]</A>
 <LI>tatumpum	PE1. 
 <BR><A HREF="^kuru095.htm">[95-2]</A>
@@ -1311,23 +1311,23 @@
 <BR><A HREF="^kuru251.htm">[251-6]</A> 
 <BR><A HREF="^kuru351.htm">[351-4]</A> 
 <BR><A HREF="^kuru381.htm">[381-6]</A>
-<LI>tarï¿½um	PE1. 
+<LI>taråum	PE1. 
 <BR><A HREF="^kuru090.htm">[90-5]</A> 
 <BR><A HREF="^kuru109.htm">[109-2]</A>
-<LI>tavaï¿½um	PE1. 
+<LI>tava©um	PE1. 
 <BR><A HREF="^kuru144.htm">[144-6]</A>
-<LI>tï¿½ï¿½kum	PE1. 
+<LI>tàïkum	PE1. 
 <BR><A HREF="^kuru149.htm">[149-5]</A>
-<LI>tiï¿½aikkum	PE1. 
+<LI>tiëaikkum	PE1. 
 <BR><A HREF="^kuru299.htm">[299-2]</A>
-<LI>tiï¿½akkum	PE1. 
+<LI>tiŸakkum	PE1. 
 <BR><A HREF="^kuru265.htm">[265-2]</A> 
 <BR><A HREF="^kuru370.htm">[370-2]</A>
-<LI>tï¿½rkkum	PE1. 
+<LI>tãrkkum	PE1. 
 <BR><A HREF="^kuru068.htm">[68-3]</A> 
 <BR><A HREF="^kuru255.htm">[255-4]</A> 
 <BR><A HREF="^kuru342.htm">[342-6]</A>
-<LI>tuï¿½cum	PE1. 
+<LI>tu¤cum	PE1. 
 <BR><A HREF="^kuru028.htm">[28-5]</A> 
 <BR><A HREF="^kuru091.htm">[91-8]</A> 
 <BR><A HREF="^kuru115.htm">[115-5]</A> 
@@ -1337,18 +1337,18 @@
 <BR><A HREF="^kuru355.htm">[355-4]</A>
 <LI>tumikkum	PE1. 
 <BR><A HREF="^kuru268.htm">[268-4]</A>
-<LI>tuï¿½avum	PE1. 
+<LI>tu©avum	PE1. 
 <BR><A HREF="^kuru246.htm">[246-3]</A>
-<LI>tuï¿½akkum	PE1. 
+<LI>tuëakkum	PE1. 
 <BR><A HREF="^kuru158.htm">[158-5]</A>
-<LI>tï¿½kkum	PE1. 
+<LI>tåkkum	PE1. 
 <BR><A HREF="^kuru008.htm">[8-4]</A> 
 <BR><A HREF="^kuru076.htm">[76-5]</A> 
 <BR><A HREF="^kuru369.htm">[369-3]</A>
-<LI>tï¿½ï¿½kum	PE1. 
+<LI>tåïkum	PE1. 
 <BR><A HREF="^kuru083.htm">[83-4]</A> 
 <BR><A HREF="^kuru201.htm">[201-5]</A>
-<LI>tï¿½um	PE1. 
+<LI>tåum	PE1. 
 <BR><A HREF="^kuru103.htm">[103-4]</A>
 <LI>tåŸŸum	PE1. 
 <BR><A HREF="^kuru086.htm">[86-4]</A> 
@@ -1356,11 +1356,11 @@
 <BR><A HREF="^kuru344.htm">[344-2]</A> 
 <BR><A HREF="^kuru397.htm">[397-3]</A> 
 <BR><A HREF="^kuru398.htm">[398-2]</A>
-<LI>teï¿½ï¿½um	PE1. 
+<LI>teŸåum	PE1. 
 <BR><A HREF="^kuru087.htm">[87-2]</A>
-<LI>tokï¿½um	PE1. 
+<LI>tokåum	PE1. 
 <BR><A HREF="^kuru175.htm">[175-3]</A>
-<LI>tï¿½ï¿½ï¿½um	PE1. 
+<LI>t­Ÿum	PE1. 
 <BR><A HREF="^kuru021.htm">[21-3]</A> 
 <BR><A HREF="^kuru026.htm">[26-3]</A> 
 <BR><A HREF="^kuru047.htm">[47-2]</A> 
@@ -1374,7 +1374,7 @@
 <BR><A HREF="^kuru347.htm">[347-3]</A> 
 <BR><A HREF="^kuru367.htm">[367-6]</A> 
 <BR><A HREF="^kuru380.htm">[380-7]</A>
-<LI>naï¿½uï¿½kum	PE1. 
+<LI>nañuïkum	PE1. 
 <BR><A HREF="^kuru105.htm">[105-4]</A> 
 <BR><A HREF="^kuru277.htm">[277-6]</A>
 <LI>nayakkum	PE1. 
@@ -1383,7 +1383,7 @@
 <BR><A HREF="^kuru160.htm">[160-4]</A> 
 <BR><A HREF="^kuru177.htm">[177-4]</A> 
 <BR><A HREF="^kuru381.htm">[381-4]</A>
-<LI>nï¿½ï¿½um	PE1. 
+<LI>nàŸum	PE1. 
 <BR><A HREF="^kuru019.htm">[19-4]</A> 
 <BR><A HREF="^kuru052.htm">[52-3]</A> 
 <BR><A HREF="^kuru161.htm">[161-6]</A> 
@@ -1394,7 +1394,7 @@
 <BR><A HREF="^kuru300.htm">[300-1]</A> 
 <BR><A HREF="^kuru300.htm">[300-2]</A> 
 <BR><A HREF="^kuru323.htm">[323-5]</A>
-<LI>niï¿½kum	PE1. 
+<LI>niŸkum	PE1. 
 <BR><A HREF="^kuru078.htm">[78-6]</A>
 <LI>nivakkum	PE1. 
 <BR><A HREF="^kuru054.htm">[54-4]</A>
@@ -1404,15 +1404,15 @@
 <BR><A HREF="^kuru271.htm">[271-2]</A>
 <LI>pacakkum	PE1. 
 <BR><A HREF="^kuru183.htm">[183-2]</A>
-<LI>paï¿½arum	PE1. 
+<LI>pañarum	PE1. 
 <BR><A HREF="^kuru172.htm">[172-2]</A> 
 <BR><A HREF="^kuru317.htm">[317-7]</A>
-<LI>paï¿½iyum	PE1. 
+<LI>pañiyum	PE1. 
 <BR><A HREF="^kuru075.htm">[75-3]</A>
-<LI>paï¿½ï¿½um	PE1. 
+<LI>pañåum	PE1. 
 <BR><A HREF="^kuru247.htm">[247-1]</A> 
 <BR><A HREF="^kuru288.htm">[288-5]</A>
-<LI>paï¿½ï¿½um	PE1. 
+<LI>pañåum	PE1. 
 <BR><A HREF="^kuru184.htm">[184-7]</A>
 <LI>payirum	PE1. 
 <BR><A HREF="^kuru016.htm">[16-4]</A> 
@@ -1424,11 +1424,11 @@
 <BR><A HREF="^kuru401.htm">[401-4]</A>
 <LI>parukum	PE1. 
 <BR><A HREF="^kuru317.htm">[317-4]</A>
-<LI>paï¿½ï¿½um	PE1. 
+<LI>paŸŸum	PE1. 
 <BR><A HREF="^kuru358.htm">[358-3]</A>
-<LI>pï¿½yum	PE1. 
+<LI>pàyum	PE1. 
 <BR><A HREF="^kuru385.htm">[385-4]</A>
-<LI>pï¿½rkkum	PE1. 
+<LI>pàrkkum	PE1. 
 <BR><A HREF="^kuru025.htm">[25-4]</A> 
 <BR><A HREF="^kuru107.htm">[107-3]</A> 
 <BR><A HREF="^kuru141.htm">[141-6]</A> 
@@ -1437,26 +1437,26 @@
 <BR><A HREF="^kuru104.htm">[104-5]</A>
 <LI>pirikkum	PE1. 
 <BR><A HREF="^kuru157.htm">[157-3]</A>
-<LI>piï¿½akkum	PE1. 
+<LI>piëakkum	PE1. 
 <BR><A HREF="^kuru388.htm">[388-5]</A>
-<LI>pukaï¿½um	PE1. 
+<LI>puka©um	PE1. 
 <BR><A HREF="^kuru252.htm">[252-7]</A>
 <LI>pukum	PE1. 
 <BR><A HREF="^kuru139.htm">[139-3]</A>
-<LI>puï¿½arkkum	PE1. 
+<LI>puõarkkum	PE1. 
 <BR><A HREF="^kuru156.htm">[156-6]</A>
-<LI>puraï¿½ï¿½um	PE1. 
+<LI>puraññum	PE1. 
 <BR><A HREF="^kuru016.htm">[16-3]</A>
-<LI>puriyum	PE1. 
+<LI>puraiyum	PE1. 
 <BR><A HREF="^kuru000.htm">[0-1]</A> 
 <BR><A HREF="^kuru131.htm">[131-1]</A> 
 <BR><A HREF="^kuru226.htm">[226-1]</A> 
 <BR><A HREF="^kuru329.htm">[329-6]</A>
 <LI>pulakkum	PE1. 
 <BR><A HREF="^kuru164.htm">[164-5]</A>
-<LI>puï¿½ikkum	PE1. 
+<LI>puëikkum	PE1. 
 <BR><A HREF="^kuru354.htm">[354-2]</A>
-<LI>pï¿½kkum	PE1. 
+<LI>påkkum	PE1. 
 <BR><A HREF="^kuru082.htm">[82-5]</A> 
 <BR><A HREF="^kuru309.htm">[309-5]</A>
 <LI>peyarum	PE1. 
@@ -1470,46 +1470,46 @@
 <BR><A HREF="^kuru390.htm">[390-5]</A>
 <LI>peyarkkum	PE1. 
 <BR><A HREF="^kuru350.htm">[350-6]</A>
-<LI>peï¿½ï¿½um	PE1. 
+<LI>peŸåum	PE1. 
 <BR><A HREF="^kuru364.htm">[364-2]</A> 
 <BR><A HREF="^kuru379.htm">[379-3]</A>
 <LI>poruntum	PE1. 
 <BR><A HREF="^kuru140.htm">[140-2]</A>
-<LI>poï¿½ikkum	PE1. 
+<LI>poëikkum	PE1. 
 <BR><A HREF="^kuru037.htm">[37-3]</A>
-<LI>pï¿½kum	PE1. 
+<LI>pkum	PE1. 
 <BR><A HREF="^kuru352.htm">[352-4]</A>
-<LI>pï¿½lum	PE1. 
+<LI>plum	PE1. 
 <BR><A HREF="^kuru222.htm">[222-4]</A> 
 <BR><A HREF="^kuru310.htm">[310-3]</A> 
 <BR><A HREF="^kuru389.htm">[389-5]</A>
-<LI>pï¿½ï¿½um	PE1. 
+<LI>p©um	PE1. 
 <BR><A HREF="^kuru301.htm">[301-5]</A> 
 <BR><A HREF="^kuru346.htm">[346-3]</A>
 <LI>malarum	PE1. 
 <BR><A HREF="^kuru208.htm">[208-4]</A> 
 <BR><A HREF="^kuru226.htm">[226-6]</A> 
 <BR><A HREF="^kuru234.htm">[234-2]</A>
-<LI>maï¿½aiyum	PE1. 
+<LI>maŸaiyum	PE1. 
 <BR><A HREF="^kuru215.htm">[215-2]</A> 
-<LI>mï¿½ï¿½ï¿½um	PE1. 
+<LI>màññum	PE1. 
 <BR><A HREF="^kuru342.htm">[342-3]</A>
-<LI>mï¿½ntum	PE1. 
+<LI>màntum	PE1. 
 <BR><A HREF="^kuru170.htm">[170-3]</A>
-<LI>mï¿½ykkum	PE1. 
+<LI>màykkum	PE1. 
 <BR><A HREF="^kuru012.htm">[12-3]</A>
-<LI>mï¿½um	PE1. 
+<LI>mà­um	PE1. 
 <BR><A HREF="^kuru009.htm">[9-6]</A>
-<LI>mukikkum	PE1. 
+<LI>mukaikkum	PE1. 
 <BR><A HREF="^kuru186.htm">[186-3]</A>
-<LI>muyaï¿½kum	PE1. 
+<LI>muyaïkum	PE1. 
 <BR><A HREF="^kuru070.htm">[70-5]</A> 
 <BR><A HREF="^kuru244.htm">[244-6]</A>
 <LI>muralum	PE1. 
 <BR><A HREF="^kuru200.htm">[200-6]</A>
-<LI>muï¿½aï¿½kum	PE1. 
+<LI>mu©aïkum	PE1. 
 <BR><A HREF="^kuru307.htm">[307-8]</A>
-<LI>mï¿½yum	PE1. 
+<LI>m›yum	PE1. 
 <BR><A HREF="^kuru104.htm">[104-3]</A> 
 <BR><A HREF="^kuru325.htm">[325-5]</A>
 <LI>vatiyum	PE1. 
@@ -1518,43 +1518,43 @@
 <LI>varum	PE1. 
 <BR><A HREF="^kuru155.htm">[155-7]</A> 
 <BR><A HREF="^kuru345.htm">[345-1]</A>
-<LI>varï¿½um	PE1. 
+<LI>varåum	PE1. 
 <BR><A HREF="^kuru254.htm">[254-7]</A> 
 <BR><A HREF="^kuru275.htm">[275-7]</A> 
 <BR><A HREF="^kuru314.htm">[314-4]</A> 
 <BR><A HREF="^kuru326.htm">[326-5]</A>
 <LI>varuntum	PE1. 
 <BR><A HREF="^kuru048.htm">[48-2]</A> 
-<LI>vaï¿½aï¿½kum	PE1. 
+<LI>va©aïkum	PE1. 
 <BR><A HREF="^kuru237.htm">[237-6]</A> 
 <BR><A HREF="^kuru354.htm">[354-5]</A>
-<LI>vï¿½rum	PE1. 
+<LI>vàrum	PE1. 
 <BR><A HREF="^kuru242.htm">[242-3]</A>
-<LI>vï¿½um	PE1. 
+<LI>và©um	PE1. 
 <BR><A HREF="^kuru323.htm">[323-7]</A> 
 <BR><A HREF="^kuru327.htm">[327-1]</A> 
 <BR><A HREF="^kuru368.htm">[368-5]</A>
-<LI>viï¿½ukkum	PE1. 
+<LI>viñukkum	PE1. 
 <BR><A HREF="^kuru236.htm">[236-1]</A>
-<LI>viï¿½aï¿½kum	PE1. 
+<LI>viëaïkum	PE1. 
 <BR><A HREF="^kuru129.htm">[129-5]</A>
-<LI>viï¿½aikkum	PE1. 
+<LI>viëaikkum	PE1. 
 <BR><A HREF="^kuru371.htm">[371-3]</A>
-<LI>viï¿½aiyï¿½ï¿½um	PE1. 
+<LI>viëaiyàñum	PE1. 
 <BR><A HREF="^kuru108.htm">[108-1]</A> 
 <BR><A HREF="^kuru263.htm">[263-7]</A>
-<LI>vï¿½cum	PE1. 
+<LI>vãcum	PE1. 
 <BR><A HREF="^kuru161.htm">[161-2]</A>
-<LI>verï¿½um	PE1. 
+<LI>veråum	PE1. 
 <BR><A HREF="^kuru034.htm">[34-5]</A> 
 <BR><A HREF="^kuru127.htm">[127-2]</A> 
 <BR><A HREF="^kuru357.htm">[357-7]</A>
-<LI>vuvum	PE1. 
+<LI>vauvum	PE1. 
 <BR><A HREF="^kuru271.htm">[271-5]</A>
 <HR>
-<LI>--> [aï¿½ippaï¿½ï¿½um + pey. of paï¿½u 
+<LI>--> [aõippañåum + pey. of pañu 
 <BR><A HREF="^kuru247.htm">[247-1]</A>]
-<LI>[iï¿½itarum	+ pey. of tï¿½ 
+<LI>[i©itarum	+ pey. of tà 
 <BR><A HREF="^kuru078.htm">[78-3]</A> 
 <BR><A HREF="^kuru095.htm">[95-1]</A> 
 <BR><A HREF="^kuru134.htm">[134-6]</A> 
@@ -1562,36 +1562,36 @@
 <BR><A HREF="^kuru284.htm">[284-7]</A> 
 <BR><A HREF="^kuru332.htm">[332-5]</A> 
 <BR><A HREF="^kuru339.htm">[339-3]</A>]
-<LI>[iï¿½puï¿½ï¿½um	+ pey. of uï¿½u 
+<LI>[i­puŸåum	+ pey. of uŸu 
 <BR><A HREF="^kuru061.htm">[61-3]</A>]
-<LI>[ukuttarum	+ pey. of tï¿½ 
+<LI>[ukuttarum	+ pey. of tà 
 <BR><A HREF="^kuru251.htm">[251-6]</A>]
-<LI>[uï¿½aitarum	+ pey. of tï¿½ 
+<LI>[uñaitarum	+ pey. of tà 
 <BR><A HREF="^kuru351.htm">[351-4]</A> 
 <BR><A HREF="^kuru381.htm">[381-6]</A>]
 <LI>uvarkkum	intr. pey. 
 <BR><A HREF="^kuru196.htm">[196-5]</A>
-<LI>[ï¿½rtarum	+ pey. of tï¿½ 
+<LI>[årtarum	+ pey. of tà 
 <BR><A HREF="^kuru205.htm">[205-7]</A>]
-<LI>[eï¿½itarum	+ pey. of tï¿½ 
+<LI>[eŸitarum	+ pey. of tà 
 <BR><A HREF="^kuru110.htm">[110-7]</A>]
-<LI>[ï¿½rtarum	+ pey. of tï¿½ 
+<LI>[›rtarum	+ pey. of tà 
 <BR><A HREF="^kuru287.htm">[287-8]</A>]
-<LI>[cilitarum	+ pey. of tï¿½ 
+<LI>[cilaitarum	+ pey. of tà 
 <BR><A HREF="^kuru094.htm">[94-7]</A>]
-<LI>[cï¿½rtarum	+ pey. of tï¿½ 
+<LI>[c›rtarum	+ pey. of tà 
 <BR><A HREF="^kuru275.htm">[275-3]</A>]
-<LI>tï¿½am		pey. 
+<LI>tàam		pey. 
 <BR><A HREF="^kuru329.htm">[329-3]</A>
-<LI>teï¿½im		pey. 
+<LI>teëim		pey. 
 <BR><A HREF="^kuru273.htm">[273-8]</A>?
-<LI>[pukutarï¿½um + pey. of tï¿½ 
+<LI>[pukutaråum + pey. of tà 
 <BR><A HREF="^kuru162.htm">[162-2]</A>]
-<LI>puï¿½aï¿½kï¿½um + pey. of kï¿½u 
+<LI>puŸaïkåŸum + pey. of kåŸu 
 <BR><A HREF="^kuru364.htm">[364-4]</A>
-<LI>[mayakkuï¿½ï¿½um + pey. of uï¿½u 
+<LI>[mayakkuŸåum + pey. of uŸu 
 <BR><A HREF="^kuru226.htm">[226-3]</A>]
-<LI>[malakkuï¿½um + pey. of uï¿½u 
+<LI>[malakkuŸum + pey. of uŸu 
 <BR><A HREF="^kuru043.htm">[43-5]</A> 
 <BR><A HREF="^kuru194.htm">[194-5]</A>]
 </OL>
@@ -1601,28 +1601,28 @@
 
 <H3><A NAME="_pe2">LIST of peyar eccam forms of ceyta type</A> found by Eva in KT</H3>
 <OL>
-<LI>akaï¿½ï¿½a	PE2. 
+<LI>aka­Ÿa	PE2. 
 <BR><A HREF="^kuru041.htm">[41-6]</A>
-<LI>akaï¿½nta	PE2. 
+<LI>aka©nta	PE2. 
 <BR><A HREF="^kuru379.htm">[379-2]</A>
-<LI>aciiya	PE2. 
+<LI>acaiiya	PE2. 
 <BR><A HREF="^kuru303.htm">[303-1]</A>
-<LI>acitta		PE2. 
+<LI>acaitta		PE2. 
 <BR><A HREF="^kuru294.htm">[294-6]</A>
-<LI>aï¿½ciya		PE2. 
+<LI>a¤ciya		PE2. 
 <BR><A HREF="^kuru117.htm">[117-2]</A>
-<LI>aï¿½aï¿½kiya	PE2.
+<LI>añaïkiya	PE2.
 <BR><A HREF="^kuru338.htm">[338-7]</A>
-<LI>aï¿½ï¿½a		PE2.
+<LI>añña		PE2.
 <BR><A HREF="^kuru034.htm">[34-5]</A> 
 <BR><A HREF="^kuru167.htm">[167-4]</A>
-<LI>aï¿½aï¿½kiya	PE2. 
+<LI>aõaïkiya	PE2. 
 <BR><A HREF="^kuru362.htm">[362-5]</A>
-<LI>aï¿½aiiya	PE2. 
+<LI>aõaiiya	PE2. 
 <BR><A HREF="^kuru318.htm">[318-6]</A>
-<LI>amaï¿½ï¿½a	PE2. 
+<LI>ama­Ÿa	PE2. 
 <BR><A HREF="^kuru202.htm">[202-2]</A>
-<LI>aminta	PE2. 
+<LI>amainta	PE2. 
 <BR><A HREF="^kuru004.htm">[4-3]</A> 
 <BR><A HREF="^kuru182.htm">[182-7]</A> 
 <BR><A HREF="^kuru373.htm">[373-8]</A>
@@ -1632,19 +1632,19 @@
 <BR><A HREF="^kuru071.htm">[71-2]</A>
 <LI>avinta		PE2. 
 <BR><A HREF="^kuru356.htm">[356-1]</A>
-<LI>aviï¿½nta	PE2. 
+<LI>avi©nta	PE2. 
 <BR><A HREF="^kuru220.htm">[220-5]</A> 
 <BR><A HREF="^kuru254.htm">[254-2]</A> 
 <BR><A HREF="^kuru265.htm">[265-5]</A> 
 <BR><A HREF="^kuru282.htm">[282-5]</A> 
 <BR><A HREF="^kuru366.htm">[366-4]</A>
-<LI>aï¿½uï¿½kiya	PE2.
+<LI>a©uïkiya	PE2.
 <BR><A HREF="^kuru140.htm">[140-4v]</A>
-<LI>aï¿½uta		PE2. 
+<LI>a©uta		PE2. 
 <BR><A HREF="^kuru082.htm">[82-2]</A> 
 <BR><A HREF="^kuru291.htm">[291-5]</A> 
 <BR><A HREF="^kuru366.htm">[366-6]</A>
-<LI>ï¿½kiya		PE2. 
+<LI>àkiya		PE2. 
 <BR><A HREF="^kuru057.htm">[57-3]</A> 
 <BR><A HREF="^kuru057.htm">[57-5]</A> 
 <BR><A HREF="^kuru057.htm">[57-6]</A> 
@@ -1656,30 +1656,30 @@
 <BR><A HREF="^kuru263.htm">[263-8]</A> 
 <BR><A HREF="^kuru266.htm">[266-2]</A> 
 <BR><A HREF="^kuru341.htm">[341-3]</A>
-<LI>ï¿½ï¿½ï¿½iya		PE2. 
+<LI>àññiya		PE2. 
 <BR><A HREF="^kuru303.htm">[303-7]</A>
-<LI>ï¿½ï¿½iya		PE2. 
+<LI>àñiya		PE2. 
 <BR><A HREF="^kuru060.htm">[60-1]</A>
-<LI>ï¿½ynta		PE2. 
+<LI>àynta		PE2. 
 <BR><A HREF="^kuru245.htm">[245-1]</A> 
 <BR><A HREF="^kuru316.htm">[316-6]</A>
-<LI>ï¿½rnta		PE2. 
+<LI>àrnta		PE2. 
 <BR><A HREF="^kuru256.htm">[256-2]</A> 
 <BR><A HREF="^kuru259.htm">[259-2]</A>
-<LI>ï¿½rttiya		PE2. 
+<LI>àrttiya		PE2. 
 <BR><A HREF="^kuru293.htm">[293-1v]</A>
-<LI>iï¿½itta		PE2. 
+<LI>iñitta		PE2. 
 <BR><A HREF="^kuru238.htm">[238-1]</A>
-<LI>iï¿½ï¿½a		PE2. 
+<LI>iñña		PE2. 
 <BR><A HREF="^kuru105.htm">[105-2]</A> 
 <BR><A HREF="^kuru171.htm">[171-2]</A> 
 <BR><A HREF="^kuru203.htm">[203-1]</A> 
 <BR><A HREF="^kuru241.htm">[241-5]</A> 
 <BR><A HREF="^kuru248.htm">[248-4]</A> 
 <BR><A HREF="^kuru330.htm">[330-2]</A>
-<LI>[iï¿½aiyiï¿½ï¿½a	+ PE2. of iï¿½u 
+<LI>[iñaiyiñña	+ PE2. of iñu 
 <BR><A HREF="^kuru203.htm">[203-1]</A>]
-<LI>iyaï¿½ï¿½a		PE2. 
+<LI>iya­Ÿa		PE2. 
 <BR><A HREF="^kuru288.htm">[288-3]</A>
 <LI>irunta	PE2. 
 <BR><A HREF="^kuru026.htm">[26-2]</A> 
@@ -1694,72 +1694,72 @@
 <BR><A HREF="^kuru340.htm">[340-7]</A> 
 <BR><A HREF="^kuru350.htm">[350-4]</A> 
 <BR><A HREF="^kuru391.htm">[391-7]</A>
-<LI>iruï¿½iya		PE2. 
+<LI>iruëiya		PE2. 
 <BR><A HREF="^kuru314.htm">[314-3]</A>
 <LI>ivarnta	PE2. 
 <BR><A HREF="^kuru240.htm">[240-1]</A>
-<LI>iï¿½anta		PE2. 
+<LI>i©anta		PE2. 
 <BR><A HREF="^kuru019.htm">[19-1]</A> 
 <BR><A HREF="^kuru081.htm">[81-3]</A> 
 <BR><A HREF="^kuru231.htm">[231-5]</A>
-<LI>iï¿½ukkiya	PE2. 
+<LI>i©ukkiya	PE2. 
 <BR><A HREF="^kuru090.htm">[90-4]</A>
-<LI>iï¿½anta		PE2. 
+<LI>iŸanta		PE2. 
 <BR><A HREF="^kuru209.htm">[209-3]</A> 
 <BR><A HREF="^kuru297.htm">[297-3]</A>
-<LI>iï¿½aiï¿½ciya	PE2. 
+<LI>iŸai¤ciya	PE2. 
 <BR><A HREF="^kuru198.htm">[198-4]</A> 
 <BR><A HREF="^kuru213.htm">[213-3]</A>
 <LI>ã­Ÿa		PE2. 
 <BR><A HREF="^kuru394.htm">[394-2]</A>
-<LI>uï¿½ainta	PE2. 
+<LI>uñainta	PE2. 
 <BR><A HREF="^kuru086.htm">[86-1]</A>
-<LI>uï¿½ï¿½a		PE2. 
+<LI>uõña		PE2. 
 <BR><A HREF="^kuru079.htm">[79-1]</A> 
 <BR><A HREF="^kuru105.htm">[105-3]</A> 
 <BR><A HREF="^kuru112.htm">[112-5]</A> 
 <BR><A HREF="^kuru133.htm">[133-2]</A> 
 <BR><A HREF="^kuru133.htm">[133-5]</A> 
 <BR><A HREF="^kuru236.htm">[236-6]</A>
-<LI>uï¿½arnta	PE2. 
+<LI>uõarnta	PE2. 
 <BR><A HREF="^kuru327.htm">[327-2]</A> 
 <BR><A HREF="^kuru360.htm">[360-1]</A>
 <LI>urukiya	PE2. 
 <BR><A HREF="^kuru261.htm">[261-1]</A>
-<LI>urï¿½iya		PE2. 
+<LI>urãiya		PE2. 
 <BR><A HREF="^kuru297.htm">[297-1]</A>
 <LI>ulanta	PE2. 
 <BR><A HREF="^kuru077.htm">[77-3]</A>
 <LI>uvanta	PE2. 
 <BR><A HREF="^kuru225.htm">[225-3]</A>
-<LI>uï¿½anta		PE2. 
+<LI>u©anta		PE2. 
 <BR><A HREF="^kuru013.htm">[13-2]</A> 
 <BR><A HREF="^kuru141.htm">[141-4]</A> 
 <BR><A HREF="^kuru357.htm">[357-1]</A>
-<LI>uï¿½ariya	PE2. 
+<LI>uëariya	PE2. 
 <BR><A HREF="^kuru278.htm">[278-1]</A>
-<LI>uï¿½ï¿½a		PE2. 
+<LI>uŸŸa		PE2. 
 <BR><A HREF="^kuru053.htm">[53-7]</A> 
 <BR><A HREF="^kuru261.htm">[261-8]</A> 
 <BR><A HREF="^kuru305.htm">[305-8]</A> 
 <BR><A HREF="^kuru308.htm">[308-3]</A>
-<LI>uï¿½utta		PE2. 
+<LI>uŸutta		PE2. 
 <BR><A HREF="^kuru253.htm">[253-6]</A>
-<LI>ï¿½rnta		PE2. 
+<LI>årnta		PE2. 
 <BR><A HREF="^kuru212.htm">[212-1]</A> 
 <BR><A HREF="^kuru275.htm">[275-1]</A>
-<LI>ï¿½tta		PE2. withered 
+<LI>å©tta		PE2. withered 
 <BR><A HREF="^kuru066.htm">[66-4]</A> 
 <BR><A HREF="^kuru110.htm">[110-5]</A> 
 <BR><A HREF="^kuru138.htm">[138-4]</A>
-<LI>ï¿½iya		PE2. 
+<LI>åŸiya		PE2. 
 <BR><A HREF="^kuru267.htm">[267-4]</A>
-<LI>eï¿½ciya		PE2. 
+<LI>e¤ciya		PE2. 
 <BR><A HREF="^kuru232.htm">[232-4]</A> 
 <BR><A HREF="^kuru237.htm">[237-2]</A>
-<LI>eï¿½utta		PE2. 
+<LI>eñutta		PE2. 
 <BR><A HREF="^kuru272.htm">[272-2]</A>
-<LI>eï¿½ï¿½iya	PE2. 
+<LI>eõõiya	PE2. 
 <BR><A HREF="^kuru400.htm">[400-3]</A>
 <LI>etirnta		PE2. 
 <BR><A HREF="^kuru297.htm">[297-3v]</A>
@@ -1767,64 +1767,64 @@
 <BR><A HREF="^kuru318.htm">[318-5]</A>
 <LI>eytiya		PE2. 
 <BR><A HREF="^kuru226.htm">[226-2]</A>
-<LI>eï¿½unta		PE2. 
+<LI>e©unta		PE2. 
 <BR><A HREF="^kuru024.htm">[24-3]</A> 
 <BR><A HREF="^kuru154.htm">[154-3]</A>
-<LI>eï¿½utiya	PE2. 
+<LI>e©utiya	PE2. 
 <BR><A HREF="^kuru089.htm">[89-5]</A> 
 <BR><A HREF="^kuru276.htm">[276-3]</A>
-<LI>eï¿½inta		PE2. 
+<LI>eŸinta		PE2. 
 <BR><A HREF="^kuru000.htm">[0-4]</A> 
 <BR><A HREF="^kuru269.htm">[269-3]</A>
-<LI>eï¿½ï¿½a		PE2. 
+<LI>e­Ÿa		PE2. 
 <BR><A HREF="^kuru079.htm">[79-7]</A> 
 <BR><A HREF="^kuru248.htm">[248-2]</A> 
 <BR><A HREF="^kuru300.htm">[300-5]</A> 
 <BR><A HREF="^kuru358.htm">[358-4]</A>
-<LI>ï¿½ntiya		PE2. 
+<LI>›ntiya		PE2. 
 <BR><A HREF="^kuru356.htm">[356-5]</A>
-<LI>ï¿½ï¿½iya		PE2. 
+<LI>›Ÿiya		PE2. 
 <BR><A HREF="^kuru273.htm">[273-6]</A>
-<LI>ï¿½ï¿½ï¿½a		PE2. 
+<LI>›ŸŸa		PE2. 
 <BR><A HREF="^kuru029.htm">[29-2]</A> 
 <BR><A HREF="^kuru121.htm">[121-3]</A> 
 <BR><A HREF="^kuru291.htm">[291-8]</A> 
 <BR><A HREF="^kuru382.htm">[382-1]</A>
-<LI>oï¿½inta		PE2. 
+<LI>o©inta		PE2. 
 <BR><A HREF="^kuru251.htm">[251-5]</A> 
 <BR><A HREF="^kuru348.htm">[348-2]</A>
-<LI>oï¿½ukiya	PE2. 
+<LI>o©ukiya	PE2. 
 <BR><A HREF="^kuru115.htm">[115-4]</A> 
 <BR><A HREF="^kuru147.htm">[147-2]</A>
-<LI>oï¿½itta		PE2. 
+<LI>oëitta		PE2. 
 <BR><A HREF="^kuru374.htm">[374-2]</A>
-<LI>oï¿½ï¿½iya		PE2. 
+<LI>oŸŸiya		PE2. 
 <BR><A HREF="^kuru343.htm">[343-5]</A>
-<LI>ï¿½ï¿½kiya	PE2. 
+<LI>ïkiya	PE2. 
 <BR><A HREF="^kuru092.htm">[92-3]</A> 
 <BR><A HREF="^kuru201.htm">[201-6]</A> 
 <BR><A HREF="^kuru351.htm">[351-6]</A> 
 <BR><A HREF="^kuru367.htm">[367-7]</A>
-<LI>ï¿½mpiya	PE2. 
+<LI>mpiya	PE2. 
 <BR><A HREF="^kuru223.htm">[223-6]</A>
-<LI>kaï¿½ï¿½iya	PE2. 
+<LI>kaññiya	PE2. 
 <BR><A HREF="^kuru021.htm">[21-2]</A>
-<LI>kaï¿½anta	(left behind?!) PE2. 
+<LI>kañanta	(left behind?!) PE2. 
 <BR><A HREF="^kuru151.htm">[151-1]</A>
-<LI>kaï¿½inta	PE2. 
+<LI>kañinta	PE2. 
 <BR><A HREF="^kuru151.htm">[151-1v]</A> 
 <BR><A HREF="^kuru309.htm">[309-5]</A> 
 <BR><A HREF="^kuru333.htm">[333-2]</A>
-<LI>kaï¿½ï¿½a		PE2. 
+<LI>kaõña		PE2. 
 <BR><A HREF="^kuru060.htm">[60-2]</A> 
 <BR><A HREF="^kuru224.htm">[224-4]</A> 
 <BR><A HREF="^kuru241.htm">[241-7]</A> 
 <BR><A HREF="^kuru265.htm">[265-3]</A> 
 <BR><A HREF="^kuru306.htm">[306-6]</A> 
 <BR><A HREF="^kuru328.htm">[328-7]</A>
-<LI>kaï¿½ï¿½iya	PE2. 
+<LI>kaõõiya	PE2. 
 <BR><A HREF="^kuru341.htm">[341-5]</A>
-<LI>karinta	PE2. 
+<LI>karainta	PE2. 
 <BR><A HREF="^kuru210.htm">[210-6]</A>
 <LI>kalanta	PE2. 
 <BR><A HREF="^kuru134.htm">[134-7]</A> 
@@ -1838,48 +1838,48 @@
 <BR><A HREF="^kuru282.htm">[282-1]</A> 
 <BR><A HREF="^kuru291.htm">[291-1]</A> 
 <BR><A HREF="^kuru318.htm">[318-1]</A>
-<LI>kaï¿½inta	PE2. 
+<LI>ka©inta	PE2. 
 <BR><A HREF="^kuru124.htm">[124-1]</A> 
 <BR><A HREF="^kuru251.htm">[251-5]</A> 
 <BR><A HREF="^kuru311.htm">[311-3]</A> 
 <BR><A HREF="^kuru323.htm">[323-7]</A>
-<LI>kaï¿½ï¿½iya	PE2. 
+<LI>ka©ãiya	PE2. 
 <BR><A HREF="^kuru013.htm">[13-1]</A>
-<LI>kaï¿½ainta	PE2. 
+<LI>kaëainta	PE2. 
 <BR><A HREF="^kuru354.htm">[354-6]</A>
-<LI>kaï¿½aitta	PE2. 
+<LI>ka­aitta	PE2. 
 <BR><A HREF="^kuru035.htm">[35-3]</A>
-<LI>kiï¿½itta		PE2. 
+<LI>ki©itta		PE2. 
 <BR><A HREF="^kuru179.htm">[179-4]</A>
-<LI>kiï¿½anta	PE2. 
+<LI>kiëanta	PE2. 
 <BR><A HREF="^kuru374.htm">[374-2]</A>
-<LI>kiï¿½aiiya	PE2. 
+<LI>kiëaiiya	PE2. 
 <BR><A HREF="^kuru337.htm">[337-2]</A>
 <LI>kuttiya	PE2. 
 <BR><A HREF="^kuru396.htm">[396-4]</A>
-<LI>kuï¿½ï¿½iya	PE2. 
+<LI>ku©ãiya	PE2. 
 <BR><A HREF="^kuru031.htm">[31-1]</A> 
 <BR><A HREF="^kuru372.htm">[372-5]</A>
-<LI>kuï¿½itta	PE2. 
+<LI>kuëitta	PE2. 
 <BR><A HREF="^kuru127.htm">[127-1]</A>
-<LI>kuï¿½ainta	PE2. 
+<LI>kuŸainta	PE2. 
 <BR><A HREF="^kuru227.htm">[227-2]</A>
-<LI>kï¿½mpiya	PE2. 
+<LI>kåmpiya	PE2. 
 <BR><A HREF="^kuru046.htm">[46-2]</A>
-<LI>kï¿½iya		PE2. 
+<LI>kåŸiya		PE2. 
 <BR><A HREF="^kuru066.htm">[66-2]</A> 
 <BR><A HREF="^kuru217.htm">[217-4]</A>
-<LI>keï¿½ï¿½iya	PE2. 
+<LI>keõñiya	PE2. 
 <BR><A HREF="^kuru233.htm">[233-1]</A>
-<LI>keï¿½ï¿½iya		PE2. 
+<LI>ke©ãiya		PE2. 
 <BR><A HREF="^kuru002.htm">[2-3]</A> 
 <BR><A HREF="^kuru264.htm">[264-1]</A>
-<LI>kï¿½ï¿½ï¿½a		PE2. 
+<LI>k›ñña		PE2. 
 <BR><A HREF="^kuru207.htm">[207-7]</A>
-<LI>koï¿½ï¿½a		PE2. 
+<LI>ko­Ÿa		PE2. 
 <BR><A HREF="^kuru155.htm">[155-1]</A> 
 <BR><A HREF="^kuru198.htm">[198-1]</A>
-<LI>koï¿½ï¿½a		PE2. 
+<LI>koõña		PE2. 
 <BR><A HREF="^kuru022.htm">[22-3]</A> 
 <BR><A HREF="^kuru067.htm">[67-2]</A> 
 <BR><A HREF="^kuru081.htm">[81-1]</A> 
@@ -1889,13 +1889,13 @@
 <BR><A HREF="^kuru280.htm">[280-2]</A> 
 <BR><A HREF="^kuru320.htm">[320-2]</A> 
 <BR><A HREF="^kuru365.htm">[365-5]</A>
-<LI>ciï¿½anta	PE2. 
+<LI>ciŸanta	PE2. 
 <BR><A HREF="^kuru331.htm">[331-8]</A>
-<LI>cuï¿½ï¿½a		PE2. 
+<LI>cuñña		PE2. 
 <BR><A HREF="^kuru198.htm">[198-1]</A>
-<LI>cuvitta	PE2. 
+<LI>cuvaitta	PE2. 
 <BR><A HREF="^kuru179.htm">[179-6]</A>
-<LI>cï¿½ï¿½iya		PE2. 
+<LI>cåñiya		PE2. 
 <BR><A HREF="^kuru221.htm">[221-5]</A>
 <LI>cekutta	PE2. 
 <BR><A HREF="^kuru283.htm">[283-6]</A>
@@ -1905,9 +1905,9 @@
 <BR><A HREF="^kuru061.htm">[61-1]</A> 
 <BR><A HREF="^kuru202.htm">[202-4]</A> 
 <BR><A HREF="^kuru318.htm">[318-7]</A>
-<LI>cerï¿½iya		inf./PE2. 
+<LI>cerãiya		inf./PE2. 
 <BR><A HREF="^kuru092.htm">[92-4]</A>
-<LI>ceï¿½ï¿½a		PE2. 
+<LI>ce­Ÿa		PE2. 
 <BR><A HREF="^kuru012.htm">[12-4]</A> 
 <BR><A HREF="^kuru037.htm">[37-4]</A> 
 <BR><A HREF="^kuru039.htm">[39-4]</A> 
@@ -1919,7 +1919,7 @@
 <BR><A HREF="^kuru255.htm">[255-8]</A> 
 <BR><A HREF="^kuru292.htm">[292-1]</A> 
 <BR><A HREF="^kuru330.htm">[330-7]</A>
-<LI>cï¿½rnta		PE2. 
+<LI>c›rnta		PE2. 
 <BR><A HREF="^kuru385.htm">[385-1]</A>
 <LI>corinta	PE2. 
 <BR><A HREF="^kuru169.htm">[169-4]</A> 
@@ -1927,90 +1927,90 @@
 <LI>colliya		PE2. 
 <BR><A HREF="^kuru283.htm">[283-3]</A> 
 <BR><A HREF="^kuru285.htm">[285-4]</A>
-<LI>ï¿½à­Ÿu	DEDR 2920: when, since (forming temporal cluses with a PE2.) 
+<LI>¤à­Ÿu	DEDR 2920: when, since (forming temporal clauses with a PE2.) 
 <BR><A HREF="^kuru025.htm">[25-5]</A> 
 <BR><A HREF="^kuru041.htm">[41-6]</A> 
 <BR><A HREF="^kuru109.htm">[109-3]</A> 
 <BR><A HREF="^kuru303.htm">[303-7]</A>
-<LI>ï¿½ekiï¿½tta	PE2. 
+<LI>¤eki©tta	PE2. 
 <BR><A HREF="^kuru252.htm">[252-1]</A>
-<LI>taï¿½aiiya	plump (= PE2. of *taï¿½ai-ttal?) 
+<LI>tañaiiya	plump (= PE2. of *tañai-ttal?) 
 <BR><A HREF="^kuru134.htm">[134-3]</A>
-<LI>taï¿½inta	PE2. 
+<LI>taõinta	PE2. 
 <BR><A HREF="^kuru387.htm">[387-2]</A>
 <LI>tatumpiya	PE2. 
 <BR><A HREF="^kuru365.htm">[365-3]</A>
-<LI>tatinta	PE2. 
+<LI>tatainta	PE2. 
 <BR><A HREF="^kuru021.htm">[21-1]</A>
 <LI>tappiya	PE2. 
 <BR><A HREF="^kuru125.htm">[125-5]</A>
 <LI>tanta		PE2. 
 <BR><A HREF="^kuru170.htm">[170-2]</A> 
 <BR><A HREF="^kuru293.htm">[293-2]</A>
-<LI>talippaï¿½ï¿½a	PE2. 
+<LI>talaippañña	PE2. 
 <BR><A HREF="^kuru209.htm">[209-1]</A>
-<LI>talimaï¿½anta	PE2. 
+<LI>talaimaõanta	PE2. 
 <BR><A HREF="^kuru186.htm">[186-1]</A> 
 <BR><A HREF="^kuru281.htm">[281-5]</A>
-<LI>taliiya	PE2. 
+<LI>talaiiya	PE2. 
 <BR><A HREF="^kuru035.htm">[35-4]</A> 
 <BR><A HREF="^kuru222.htm">[222-7]</A>
-<LI>taï¿½ï¿½iya		PE2. 
+<LI>ta©ãiya		PE2. 
 <BR><A HREF="^kuru031.htm">[31-2]</A> 
-<LI>tï¿½ï¿½kiya	PE2. 
+<LI>tàïkiya	PE2. 
 <BR><A HREF="^kuru140.htm">[140-4]</A>
-<LI>tï¿½aya		PE2. 
+<LI>tàaya		PE2. 
 <BR><A HREF="^kuru200.htm">[200-2]</A>
-<LI>tï¿½nta		PE2. 
+<LI>tà©nta		PE2. 
 <BR><A HREF="^kuru284.htm">[284-6]</A> 
 <BR><A HREF="^kuru311.htm">[311-5]</A>
-<LI>tiraï¿½kiya	PE2. 
+<LI>tiraïkiya	PE2. 
 <BR><A HREF="^kuru331.htm">[331-1]</A>
-<LI>tiraï¿½ï¿½a		PE2. 
+<LI>tiraõña		PE2. 
 <BR><A HREF="^kuru072.htm">[72-3]</A> 
 <BR><A HREF="^kuru252.htm">[252-1]</A>
-<LI>tiï¿½anta		PE2. 
+<LI>tiŸanta		PE2. 
 <BR><A HREF="^kuru382.htm">[382-2]</A>
-<LI>tiï¿½ï¿½a		PE2. 
+<LI>ti­Ÿa		PE2. 
 <BR><A HREF="^kuru179.htm">[179-5]</A> 
 <BR><A HREF="^kuru262.htm">[262-4]</A>
-<LI>tï¿½ynta		PE2. 
+<LI>tãynta		PE2. 
 <BR><A HREF="^kuru211.htm">[211-4]</A>
-<LI>tï¿½rnta		PE2. 
+<LI>tãrnta		PE2. 
 <BR><A HREF="^kuru183.htm">[183-3]</A>
-<LI>tuï¿½aitta	PE2. 
+<LI>tuõaitta	PE2. 
 <BR><A HREF="^kuru326.htm">[326-1]</A>
-<LI>tuï¿½aiiya	PE2. 
+<LI>tu©aiiya	PE2. 
 <BR><A HREF="^kuru215.htm">[215-4]</A>
-<LI>tuï¿½anta	PE2. 
+<LI>tuŸanta	PE2. 
 <BR><A HREF="^kuru174.htm">[174-1]</A>
-<LI>tï¿½ytta		PE2. 
+<LI>t›ytta		PE2. 
 <BR><A HREF="^kuru001.htm">[1-1]</A>
-<LI>tiiya		PE2. 
+<LI>taiiya		PE2. 
 <BR><A HREF="^kuru345.htm">[345-5]</A>
 <LI>tokka		PE2. 
 <BR><A HREF="^kuru399.htm">[399-1]</A>
 <LI>tokutta	PE2. 
 <BR><A HREF="^kuru103.htm">[103-1]</A> 
 <BR><A HREF="^kuru372.htm">[372-2]</A>
-<LI>toï¿½ï¿½a		PE2. 
+<LI>toñña		PE2. 
 <BR><A HREF="^kuru342.htm">[342-1]</A>
-<LI>toï¿½ï¿½a		PE2. 
+<LI>toñña		PE2. 
 <BR><A HREF="^kuru342.htm">[342-1]</A>
-<LI>toï¿½utta		PE2. 
+<LI>toñutta		PE2. 
 <BR><A HREF="^kuru103.htm">[103-1v]</A> 
 <BR><A HREF="^kuru257.htm">[257-2]</A> 
 <BR><A HREF="^kuru374.htm">[374-6]</A>
-<LI>tolinta	PE2. 
+<LI>tolainta	PE2. 
 <BR><A HREF="^kuru185.htm">[185-6]</A> 
 <BR><A HREF="^kuru253.htm">[253-3]</A>
-<LI>tï¿½ï¿½ï¿½iya	PE2. 
+<LI>t­Ÿiya	PE2. 
 <BR><A HREF="^kuru015.htm">[15-2]</A>
 <LI>nakka		PE2. 
 <BR><A HREF="^kuru169.htm">[169-3]</A>
-<LI>nacinta?	PE2. (cf. maï¿½anta? in KT 106_6, picinta? in KT 289_3) 
+<LI>nacainta?	PE2. (cf. maõanta? in KT 106_6, picainta? in KT 289_3) 
 <BR><A HREF="^kuru052.htm">[52-2]</A>
-<LI>naï¿½ï¿½iya	PE2. 
+<LI>naõõiya	PE2. 
 <BR><A HREF="^kuru041.htm">[41-3]</A> 
 <BR><A HREF="^kuru053.htm">[53-5]</A> 
 <BR><A HREF="^kuru079.htm">[79-5]</A> 
@@ -2024,50 +2024,50 @@
 <BR><A HREF="^kuru347.htm">[347-6]</A>
 <LI>nalkiya	PE2. 
 <BR><A HREF="^kuru328.htm">[328-4]</A>
-<LI>naï¿½ainta	PE2. 
+<LI>na­ainta	PE2. 
 <BR><A HREF="^kuru175.htm">[175-3]</A>
-<LI>nï¿½ï¿½iya	inf./PE2. 
+<LI>nàõiya	inf./PE2. 
 <BR><A HREF="^kuru010.htm">[10-5]</A>
-<LI>niï¿½ï¿½a		PE2. 
+<LI>ni­Ÿa		PE2. 
 <BR><A HREF="^kuru165.htm">[165-3]</A> 
 <BR><A HREF="^kuru236.htm">[236-4]</A> 
 <BR><A HREF="^kuru340.htm">[340-4]</A>
-<LI>niliiya	PE2. 
+<LI>nilaiiya	PE2. 
 <BR><A HREF="^kuru262.htm">[262-8]</A>
 <LI>nivanta	PE2. 
 <BR><A HREF="^kuru009.htm">[9-4]</A> 
 <BR><A HREF="^kuru253.htm">[253-5]</A> 
 <BR><A HREF="^kuru262.htm">[262-6]</A>
-<LI>nï¿½tta		PE2. 
+<LI>nãtta		PE2. 
 <BR><A HREF="^kuru368.htm">[368-2]</A>
-<LI>nï¿½ï¿½kiya	PE2. 
+<LI>nãïkiya	PE2. 
 <BR><A HREF="^kuru191.htm">[191-4]</A>
-<LI>nï¿½ï¿½iya		PE2. 
+<LI>nãñiya		PE2. 
 <BR><A HREF="^kuru099.htm">[99-4]</A> 
 <BR><A HREF="^kuru180.htm">[180-4]</A> 
-<LI>nï¿½ï¿½iï¿½a		PE2. 
+<LI>nãñi­a		PE2. 
 <BR><A HREF="^kuru309.htm">[309-3]</A>
-<LI>nuï¿½ukiya	PE2. 
+<LI>nuõukiya	PE2. 
 <BR><A HREF="^kuru071.htm">[71-3]</A>
-<LI>nekiï¿½nta	PE2. 
+<LI>neki©nta	PE2. 
 <BR><A HREF="^kuru303.htm">[303-4]</A>
-<LI>nekiï¿½tta	PE2. 
+<LI>neki©tta	PE2. 
 <BR><A HREF="^kuru031.htm">[31-5]</A> 
 <BR><A HREF="^kuru111.htm">[111-1]</A> 
 <BR><A HREF="^kuru176.htm">[176-3]</A> 
 <BR><A HREF="^kuru210.htm">[210-5]</A> 
 <BR><A HREF="^kuru289.htm">[289-2]</A>
-<LI>paï¿½ï¿½a		PE2. 
+<LI>pañña		PE2. 
 <BR><A HREF="^kuru092.htm">[92-1]</A> 
 <BR><A HREF="^kuru125.htm">[125-4]</A> 
 <BR><A HREF="^kuru131.htm">[131-4]</A> 
 <BR><A HREF="^kuru289.htm">[289-6]</A> 
 <BR><A HREF="^kuru341.htm">[341-1]</A> 
 <BR><A HREF="^kuru393.htm">[393-5]</A>
-<LI>paï¿½utta	PE2. 
+<LI>pañutta	PE2. 
 <BR><A HREF="^kuru241.htm">[241-3]</A> 
 <BR><A HREF="^kuru400.htm">[400-5]</A>
-<LI>paï¿½ï¿½iya	PE2. 
+<LI>paõõiya	PE2. 
 <BR><A HREF="^kuru323.htm">[323-2]</A>
 <LI>payanta	PE2. 
 <BR><A HREF="^kuru210.htm">[210-2]</A> 
@@ -2078,38 +2078,38 @@
 <BR><A HREF="^kuru294.htm">[294-5]</A>
 <LI>parukiya	PE2. 
 <BR><A HREF="^kuru065.htm">[65-1]</A>
-<LI>pï¿½ya		PE2. 
+<LI>pàya		PE2. 
 <BR><A HREF="^kuru143.htm">[143-7]</A>
-<LI>pï¿½ï¿½iya		PE2. 
+<LI>pàñiya		PE2. 
 <BR><A HREF="^kuru023.htm">[23-5]</A>
-<LI>picinta	PE2. 
+<LI>picainta	PE2. 
 <BR><A HREF="^kuru167.htm">[167-1]</A> 
-<BR><A HREF="^kuru289.htm">[289-3]</A>? (cf. maï¿½anta? 106_6, nacinta? 52_2)
-<LI>piï¿½itta		PE2. 
+<BR><A HREF="^kuru289.htm">[289-3]</A>? (cf. maõanta? 106_6, nacainta? 52_2)
+<LI>piñitta		PE2. 
 <BR><A HREF="^kuru156.htm">[156-3]</A>
-<LI>piï¿½itta		PE2. 
+<LI>piõitta		PE2. 
 <BR><A HREF="^kuru258.htm">[258-3]</A>
 <LI>pirinta	PE2. 
 <BR><A HREF="^kuru197.htm">[197-5]</A> 
 <BR><A HREF="^kuru272.htm">[272-3]</A>
-<LI>puï¿½arnta	PE2. 
+<LI>puõarnta	PE2. 
 <BR><A HREF="^kuru326.htm">[326-3]</A>
 <LI>purinta	PE2. 
 <BR><A HREF="^kuru292.htm">[292-5]</A>
 <LI>pularnta	PE2. 
 <BR><A HREF="^kuru347.htm">[347-1]</A>
-<LI>puï¿½uï¿½kiya	PE2. 
+<LI>pu©uïkiya	PE2. 
 <BR><A HREF="^kuru391.htm">[391-2]</A>
-<LI>puï¿½antanta	PE2. 
+<LI>puŸantanta	PE2. 
 <BR><A HREF="^kuru126.htm">[126-3]</A> 
 <BR><A HREF="^kuru162.htm">[162-1]</A>
-<LI>puï¿½ainta	PE2. 
+<LI>pu­ainta	PE2. 
 <BR><A HREF="^kuru053.htm">[53-3]</A>
-<LI>pï¿½tta		PE2. 
+<LI>påtta		PE2. 
 <BR><A HREF="^kuru220.htm">[220-3]</A> 
 <BR><A HREF="^kuru291.htm">[291-6]</A> 
 <BR><A HREF="^kuru323.htm">[323-4]</A>
-<LI>pï¿½ï¿½ï¿½a		PE2. 
+<LI>påõña		PE2. 
 <BR><A HREF="^kuru181.htm">[181-6]</A>
 <LI>peyta		PE2. 
 <BR><A HREF="^kuru176.htm">[176-6]</A> 
@@ -2126,7 +2126,7 @@
 <LI>potinta	PE2. 
 <BR><A HREF="^kuru059.htm">[59-3]</A> 
 <BR><A HREF="^kuru376.htm">[376-5]</A>
-<LI>potuï¿½iya	PE2. 
+<LI>potuëiya	PE2. 
 <BR><A HREF="^kuru281.htm">[281-1]</A>
 <LI>poruta		PE2. 
 <BR><A HREF="^kuru175.htm">[175-2]</A> 
@@ -2141,82 +2141,82 @@
 <BR><A HREF="^kuru295.htm">[295-2]</A> 
 <BR><A HREF="^kuru304.htm">[304-1]</A> 
 <BR><A HREF="^kuru376.htm">[376-5v]</A>
-<LI>poï¿½inta	PE2. 
+<LI>po©inta	PE2. 
 <BR><A HREF="^kuru249.htm">[249-3]</A>
-<LI>pï¿½kiya	PE2. 
+<LI>pkiya	PE2. 
 <BR><A HREF="^kuru041.htm">[41-4]</A> 
 <BR><A HREF="^kuru073.htm">[73-3]</A> 
 <BR><A HREF="^kuru227.htm">[227-4]</A> 
 <BR><A HREF="^kuru255.htm">[255-7]</A> 
 <BR><A HREF="^kuru336.htm">[336-4]</A> 
 <BR><A HREF="^kuru378.htm">[378-5]</A>
-<LI>pï¿½kkiya	PE2. 
+<LI>pkkiya	PE2. 
 <BR><A HREF="^kuru073.htm">[73-3v]</A>
-<LI>maï¿½utta	PE2. 
+<LI>mañutta	PE2. 
 <BR><A HREF="^kuru304.htm">[304-2]</A>
-<LI>maï¿½anta	PE2. 
+<LI>maõanta	PE2. 
 <BR><A HREF="^kuru025.htm">[25-5]</A> 
 <BR><A HREF="^kuru036.htm">[36-4]</A> 
 <BR><A HREF="^kuru050.htm">[50-5]</A> 
 <BR><A HREF="^kuru068.htm">[68-4]</A> 
 <BR><A HREF="^kuru106.htm">[106-6]</A>? 
 <BR><A HREF="^kuru281.htm">[281-5]</A>
-<LI>[maï¿½antaï¿½aiyam PE2.? + 1.pl. of aï¿½ai 106_6]
-<LI>mayaï¿½kiya	PE2. 
+<LI>[maõanta­aiyam PE2.? + 1.pl. of a­ai 106_6]
+<LI>mayaïkiya	PE2. 
 <BR><A HREF="^kuru197.htm">[197-3]</A> 
 <BR><A HREF="^kuru374.htm">[374-7]</A>
-<LI>marï¿½iya	PE2. 
+<LI>marãiya	PE2. 
 <BR><A HREF="^kuru030.htm">[30-2]</A> 
 <BR><A HREF="^kuru320.htm">[320-6]</A>
 <LI>malarnta	PE2. 
 <BR><A HREF="^kuru026.htm">[26-1]</A> 
 <BR><A HREF="^kuru175.htm">[175-4]</A> 
 <BR><A HREF="^kuru309.htm">[309-2]</A>
-<LI>maï¿½anta	PE2. 
+<LI>maŸanta	PE2. 
 <BR><A HREF="^kuru225.htm">[225-4]</A> 
 <BR><A HREF="^kuru279.htm">[279-5]</A> 
 <BR><A HREF="^kuru342.htm">[342-2]</A>
-<LI>maï¿½ï¿½iya	PE2. 
+<LI>ma­­iya	PE2. 
 <BR><A HREF="^kuru357.htm">[357-4]</A>
-<LI>mï¿½ï¿½ï¿½iya	PE2. 
+<LI>màññiya	PE2. 
 <BR><A HREF="^kuru150.htm">[150-1]</A> 
 <BR><A HREF="^kuru398.htm">[398-4]</A>
-<LI>mï¿½ï¿½ï¿½a		PE2. 
+<LI>màõña		PE2. 
 <BR><A HREF="^kuru062.htm">[62-3]</A> 
 <BR><A HREF="^kuru222.htm">[222-4]</A> 
 <BR><A HREF="^kuru272.htm">[272-1]</A>
-<LI>miï¿½ainta	PE2. 
+<LI>miñainta	PE2. 
 <BR><A HREF="^kuru173.htm">[173-1]</A> 
 <BR><A HREF="^kuru392.htm">[392-4]</A>
 <LI>mititta		PE2. 
 <BR><A HREF="^kuru024.htm">[24-4]</A> 
 <BR><A HREF="^kuru052.htm">[52-1]</A> 
 <BR><A HREF="^kuru208.htm">[208-2]</A>
-<LI>muï¿½itta	PE2. 
+<LI>muñitta	PE2. 
 <BR><A HREF="^kuru270.htm">[270-5]</A> 
 <BR><A HREF="^kuru275.htm">[275-5]</A>
-<LI>muyaï¿½kiya	PE2. 
+<LI>muyaïkiya	PE2. 
 <BR><A HREF="^kuru393.htm">[393-2]</A>
-<LI>muraï¿½iya	PE2. 
+<LI>muraõiya	PE2. 
 <BR><A HREF="^kuru250.htm">[250-5]</A>
-<LI>muï¿½aï¿½kiya	PE2. 
+<LI>mu©aïkiya	PE2. 
 <BR><A HREF="^kuru090.htm">[90-2]</A>
-<LI>muï¿½aiiya	PE2. 
+<LI>mu­aiiya	PE2. 
 <BR><A HREF="^kuru261.htm">[261-3]</A>
-<LI>mï¿½mpaï¿½ï¿½a	PE2. 
+<LI>m›mpañña	PE2. 
 <BR><A HREF="^kuru125.htm">[125-4]</A>
-<LI>mï¿½ynta	PE2. 
+<LI>m›ynta	PE2. 
 <BR><A HREF="^kuru220.htm">[220-2]</A>
 <LI>moytta	PE2. 
 <BR><A HREF="^kuru056.htm">[56-2]</A>
-<LI>yï¿½tta		PE2. 
+<LI>yàtta		PE2. 
 <BR><A HREF="^kuru172.htm">[172-5]</A> 
 <BR><A HREF="^kuru181.htm">[181-4]</A> 
 <BR><A HREF="^kuru279.htm">[279-2]</A> 
 <BR><A HREF="^kuru388.htm">[388-1]</A>
 <LI>vatinta	PE2. 
 <BR><A HREF="^kuru107.htm">[107-6]</A>
-<LI>vayaï¿½kiya	PE2. 
+<LI>vayaïkiya	PE2. 
 <BR><A HREF="^kuru339.htm">[339-1]</A>
 <LI>vanta		PE2. 
 <BR><A HREF="^kuru014.htm">[14-1]</A> 
@@ -2231,13 +2231,13 @@
 <BR><A HREF="^kuru391.htm">[391-6]</A>
 <LI>varitta		PE2. 
 <BR><A HREF="^kuru351.htm">[351-2]</A>
-<LI>vaï¿½aiiya	PE2. 
+<LI>vaëaiiya	PE2. 
 <BR><A HREF="^kuru101.htm">[101-1]</A>
-<LI>vï¿½ï¿½kiya	PE2. 
+<LI>vàïkiya	PE2. 
 <BR><A HREF="^kuru010.htm">[10-3]</A>
-<LI>vï¿½ytta		PE2. 
+<LI>vàytta		PE2. 
 <BR><A HREF="^kuru299.htm">[299-4]</A>
-<LI>viï¿½ï¿½a		PE2. 
+<LI>viñña		PE2. 
 <BR><A HREF="^kuru074.htm">[74-1]</A>
 <LI>vittiya		PE2. 
 <BR><A HREF="^kuru072.htm">[72-4]</A> 
@@ -2245,26 +2245,26 @@
 <LI>virinta		PE2. 
 <BR><A HREF="^kuru359.htm">[359-2]</A> 
 <BR><A HREF="^kuru386.htm">[386-1]</A>
-<LI>vilaï¿½kiya	PE2. 
+<LI>vilaïkiya	PE2. 
 <BR><A HREF="^kuru059.htm">[59-5]</A> 
 <BR><A HREF="^kuru260.htm">[260-7]</A>
-<LI>viï¿½ainta	PE2. 
+<LI>viëainta	PE2. 
 <BR><A HREF="^kuru210.htm">[210-3]</A> 
 <BR><A HREF="^kuru375.htm">[375-3]</A>
-<LI>vï¿½ciya		PE2. 
+<LI>vãciya		PE2. 
 <BR><A HREF="^kuru372.htm">[372-4]</A>
-<LI>vï¿½nta		PE2. 
+<LI>vã©nta		PE2. 
 <BR><A HREF="^kuru391.htm">[391-5]</A>
 <LI>venta		PE2. 
 <BR><A HREF="^kuru356.htm">[356-3]</A>
-<LI>vï¿½ï¿½ï¿½iya	PE2. 
+<LI>v›õñiya	PE2. 
 <BR><A HREF="^kuru349.htm">[349-5]</A>
-<LI>vï¿½ynta	PE2. 
+<LI>v›ynta	PE2. 
 <BR><A HREF="^kuru312.htm">[312-5]</A> 
 <BR><A HREF="^kuru401.htm">[401-2]</A>
-<LI>vï¿½ï¿½ï¿½a	PE2. 
+<LI>v›ñña	PE2. 
 <BR><A HREF="^kuru143.htm">[143-4]</A>
-<LI>vikiya	PE2. 
+<LI>vaikiya	PE2. 
 <BR><A HREF="^kuru009.htm">[9-2]</A>
 </OL>
 

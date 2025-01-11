@@ -4,10 +4,10 @@ copy fr_ia.cnv fr_ia.bar
 convers fr_ia.bar conv6
 delz fr_ia.cnv
 copy fr_ia.cnv f_ia.utf
-puse
+pause
 xtr /P1 f_ia.utf
 copy f_ia.xxx \az\f_ia01.htm
-puse
+pause
 xtr /P2 f_ia.utf
 copy f_ia.xxx \az\f_ia02.htm
 xtr /P3 f_ia.utf

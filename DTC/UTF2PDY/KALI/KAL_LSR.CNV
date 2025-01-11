@@ -31,8 +31,8 @@
  pāka               1
  taṇika             1
  mika               8
- kimika            1
- kimmika           7
+ kaimika            1
+ kaimmika           7
  polika             2
  oḻika              1
  ceṟika             1
@@ -55,13 +55,13 @@
  uṟuka              1
  kūṟuka             1
  ēṟuka              1
- virika            1
- aṟika             1
+ viraika            1
+ aṟaika             1
  pōka               3
  kaṭakka            1
  takka              1
  mētakka            1
- viḻitakka         1
+ viḻaitakka         1
  nōtakka            1
  arakka             1
  vilakka            1
@@ -73,7 +73,7 @@
  pukka              4
  ūkka               1
  tūkka              1
- maṟantikka        3
+ maṟantaikka        3
  tokka              2
  īrkka              1
  aṭaṅka             3
@@ -111,7 +111,7 @@
  koḷka              1
  cellaṟka           1
  mūca               3
- arica             2
+ araica             2
  añca               1
  tuñca              1
  eñca               2
@@ -119,11 +119,11 @@
  aṭa                6
  taṭa              12
  paṭa               5
- iṇipaṭa           1
- tuḷipaṭa          1
+ iṇaipaṭa           1
+ tuḷaipaṭa          1
  tiṟappaṭa          1
  neṟippaṭa          1
- iṭippaṭa          2
+ iṭaippaṭa          2
  cīrppaṭa           1
  iṭampaṭa           1
  valampaṭa          1
@@ -136,12 +136,12 @@
  nāṭa               5
  pāṭa              10
  māṭa               1
- viḷiyāṭa          2
+ viḷaiyāṭa          2
  vāṭa              21
  tantiṭa            1
  pakaliṭa           1
  viṭa               2
- kiviṭa            1
+ kaiviṭa            1
  vīṭa               1
  kuṭa               1
  muṭa               3
@@ -161,12 +161,12 @@
  pārāṭṭa            4
  iṭṭa               4
  vilaṅkiṭṭa         1
- iṭiyiṭṭa          1
+ iṭaiyiṭṭa          1
  viṭṭa              7
- taḷiviṭṭa         1
+ taḷaiviṭṭa         1
  vāyviṭṭa           1
  kūṭṭa              1
- kaṭikkūṭṭa        1
+ kaṭaikkūṭṭa        1
  kēṭṭa              2
  vēṭṭa              2
  toṭṭa              4
@@ -184,7 +184,7 @@
  purivuṇṭa          1
  pūṇṭa              4
  koṇṭa             43
- talikkoṇṭa        2
+ talaikkoṇṭa        2
  etirkoṇṭa          1
  kaṇa               1
  maṇa               7
@@ -241,7 +241,7 @@
  ikutta             1
  kaṭutta            1
  āṟṟuppaṭutta       2
- iṭippaṭutta       1
+ iṭaippaṭutta       1
  viṭutta            4
  eṭutta             6
  toṭutta            3
@@ -255,16 +255,16 @@
  veṟutta            1
  pūtta             12
  ētta               4
- acitta            3
- puṭitta           2
- niritta           3
- uritta            1
- alitta            2
- tolitta           2
- vitta             2
- iḻitta            2
- kuḻitta           2
- maṟitta           1
+ acaitta            3
+ puṭaitta           2
+ niraitta           3
+ uraitta            1
+ alaitta            2
+ tolaitta           2
+ vaitta             2
+ iḻaitta            2
+ kuḻaitta           2
+ maṟaitta           1
  otta               6
  kōtta              1
  cāytta             2
@@ -334,19 +334,19 @@
  irunta             6
  eḻunta             6
  venta              2
- micinta           1
- uṭinta            1
- tatinta           1
- tutinta           1
- aminta            3
- iyinta            1
- malinta           1
- tolinta           2
- kuḻinta           2
- taṟinta           1
- maṟinta           1
- niṉinta           1
- puṉinta           4
+ micainta           1
+ uṭainta            1
+ tatainta           1
+ tutainta           1
+ amainta            3
+ iyainta            1
+ malainta           1
+ tolainta           2
+ kuḻainta           2
+ taṟainta           1
+ maṟainta           1
+ niṉainta           1
+ puṉainta           4
  āynta              4
  kāynta             3
  cāynta             1
@@ -394,7 +394,7 @@
  uḷḷupa             1
  kūṟupa             2
  peṟupa             1
- iyipa             3
+ iyaipa             3
  taṭpa              5
  peṭpa              1
  kēṭpa              3
@@ -433,15 +433,15 @@
  koṭuppa            1
  iruppa             1
  niṟuppa            1
- takippa           1
- icippa            3
- aṭippa            1
- imippa            2
- urippa            1
- alippa            2
- maṟippa           3
- uṟippa            1
- niṉippa           1
+ takaippa           1
+ icaippa            3
+ aṭaippa            1
+ imaippa            2
+ uraippa            1
+ alaippa            2
+ maṟaippa           3
+ uṟaippa            1
+ niṉaippa           1
  oppa               6
  cāyppa             1
  vāyppa             3
@@ -484,7 +484,7 @@
  kaya               5
  naya               1
  paya               6
- pipaya            3
+ paipaya            3
  vaya               5
  āya               12
  cāya               8
@@ -504,21 +504,21 @@
  aṟīiya             1
  uṟīiya             4
  aiiya              2
- aciiya            2
- kaṭiiya           2
- taṭiiya           1
- tiiya             8
- matiiya           1
- kaliiya           2
- taliiya           1
- niliiya           3
- vaḷiiya           2
- ciṉiiya           1
+ acaiiya            2
+ kaṭaiiya           2
+ taṭaiiya           1
+ taiiya             8
+ mataiiya           1
+ kalaiiya           2
+ talaiiya           1
+ nilaiiya           3
+ vaḷaiiya           2
+ ciṉaiiya           1
  ākiya              1
  perukiya           1
  oḻukiya            2
  kuṟukiya           1
- vikiya            2
+ vaikiya            2
  pōkiya             3
  vaṇakkiya          1
  mayakkiya          1
@@ -552,9 +552,9 @@
  mūḻkiya            1
  muḷkiya            1
  mūciya             1
- aṭicciya          1
+ aṭaicciya          1
  eñciya             1
- iṟiñciya          1
+ iṟaiñciya          1
  aṭiya              1
  kaṭiya             2
  vaṭiya             1
@@ -669,31 +669,31 @@
  ceya               3
  vēya               1
  aiya              17
- takiya            3
- kaṭiya            1
- uṭiya             2
- paṇṭiya           1
- citiya            1
- tutiya            1
- putiya            1
- muntiya           1
- piya              2
- imiya             1
- kaṭumiya          1
- arumiya           1
- erumiya           1
- vemmiya           1
- viḻiya            1
- kuḻiya            1
- uḷiya             2
- maṟiya            1
- tuṟiya            1
- aṉiya             1
- iṉiya             3
- ciṉiya            2
- cuṉiya            1
- puṉiya            1
- puṉṉiya           1
+ takaiya            3
+ kaṭaiya            1
+ uṭaiya             2
+ paṇṭaiya           1
+ citaiya            1
+ tutaiya            1
+ putaiya            1
+ muntaiya           1
+ paiya              2
+ imaiya             1
+ kaṭumaiya          1
+ arumaiya           1
+ erumaiya           1
+ vemmaiya           1
+ viḻaiya            1
+ kuḻaiya            1
+ uḷaiya             2
+ maṟaiya            1
+ tuṟaiya            1
+ aṉaiya             1
+ iṉaiya             3
+ ciṉaiya            2
+ cuṉaiya            1
+ puṉaiya            1
+ puṉṉaiya           1
  pōoya              1
  pōya               1
  ceyya              2
@@ -711,9 +711,9 @@
  pōtara             1
  ikattara           1
  parattara          1
- niṟittara         1
- uṟittara          1
- naṉittara         1
+ niṟaittara         1
+ uṟaittara          1
+ naṉaittara         1
  puṟantara          1
  paṭartara          1
  peyartara          2
@@ -751,7 +751,7 @@
  cōra               2
  akala              5
  nuṭaṅkala          1
- pitala            2
+ paitala            2
  poytala            1
  pala              37
  avala              2
@@ -793,9 +793,9 @@
  kūṟuva             1
  kūva               1
  tūva               1
- tuṟiva            3
+ tuṟaiva            3
  nōva               1
- puva              2
+ pauva              2
  teyva              2
  cōrva              1
  celva              3
@@ -823,8 +823,8 @@
  maruḷa             3
  teruḷa             2
  koḷa              14
- kaṭikoḷa          1
- iṟikoḷa           3
+ kaṭaikoḷa          1
+ iṟaikoḷa           3
  ēṟṟukkoḷa          1
  etirkoḷa           1
  uḷḷa               2
@@ -849,27 +849,27 @@
  pulampuṟa          1
  iṉpuṟa             1
  ēmuṟa              1
- taliyuṟa          1
+ talaiyuṟa          1
  alavuṟa            1
  aḻivuṟa            1
  muḷivuṟa           1
  aṟivuṟa            1
  maruvuṟa           1
  veruvuṟa           1
- niṟivuṟa          1
+ niṟaivuṟa          1
  aruḷuṟa            1
  teruḷuṟa           1
  kūṟa               8
  teṟa               2
  peṟa              14
  aṇipeṟa            6
- takipeṟa          3
+ takaipeṟa          3
  nalampeṟa          1
  ēṟa                1
  aṟṟa               5
  kaṟṟa              1
- kippaṟṟa          1
- kiyaṟṟa           1
+ kaippaṟṟa          1
+ kaiyaṟṟa           1
  araṟṟa             1
  āṟṟa               1
  payiṟṟa            1
@@ -884,7 +884,7 @@
  tūṟṟa              4
  peṟṟa             12
  aṇipeṟṟa           1
- takipeṟṟa         2
+ takaipeṟṟa         2
  ēṟṟa               3
  tēṟṟa              2
  oṟṟa               3
@@ -902,7 +902,7 @@
  īṉṟa               5
  kuṉṟa              1
  ceṉṟa              6
- piyeṉṟa           2
+ paiyeṉṟa           2
  valleṉṟa           1
  pulleṉṟa           4
  veṉṟa              7
@@ -913,7 +913,7 @@
  toṭṭaṉa            1
  iṟuttaṉa           1
  niṟuttaṉa          1
- icittaṉa          1
+ icaittaṉa          1
  ottaṉa             2
  pacantaṉa          1
  valantaṉa          1
@@ -927,20 +927,20 @@
  ceytaṉa            1
  koṭpaṉa            1
  aṟuppaṉa           1
- takippaṉa         3
- urippaṉa          1
+ takaippaṉa         3
+ uraippaṉa          1
  eṉpaṉa             1
  maṉa               1
- niṉiiyaṉa         1
- aṉiyaṉa           1
- iṉiyaṉa           3
+ niṉaiiyaṉa         1
+ aṉaiyaṉa           1
+ iṉaiyaṉa           3
  vaṉa               3
  nakuvaṉa           1
  ikuvaṉa            1
  ukuvaṉa            1
  putuvaṉa           1
  aivaṉa             1
- ulivaṉa           1
+ ulaivaṉa           1
  ceyvaṉa            1
  utirvaṉa           1
  koḷvaṉa            1
@@ -963,7 +963,7 @@
  tāyiṉa             1
  pāyiṉa             1
  vāyiṉa             1
- taṭiyiṉa          1
+ taṭaiyiṉa          1
  tōyiṉa             1
  poṅkariṉa          1
  colliṉa            1
@@ -974,14 +974,14 @@
  īṉa                3
  puṉa               3
  eṉa              267
- talikkoṇṭeṉa      1
+ talaikkoṇṭeṉa      1
  taṇṇeṉa            1
  toṭutteṉa          1
- maṟitteṉa         1
+ maṟaitteṉa         1
  vanteṉa            1
  katumeṉa           9
  immeṉa             3
- piyeṉa            5
+ paiyeṉa            5
  oyyeṉa             4
  kalleṉa            1
  pulleṉa            1
@@ -999,14 +999,14 @@
  urittaṉṉa          1
  neṟittaṉṉa         1
  niṟuttaṉṉa         1
- tuṭittaṉṉa        1
- nirittaṉṉa        2
+ tuṭaittaṉṉa        1
+ niraittaṉṉa        2
  uyirttaṉṉa         1
  tiṟantaṉṉa         1
  virintaṉṉa         1
  kaḻintaṉṉa         1
  iruntaṉṉa          2
- piṇintaṉṉa        1
+ piṇaintaṉṉa        1
  malarntaṉṉa        2
  kiḷarntaṉṉa        1
  aviḻntaṉṉa         1
@@ -1023,7 +1023,7 @@
  kāṇikā             2
  pukā               1
  cēkā               1
- kaṇṭikā           1
+ kaṇṭaikā           1
  pōkā               2
  nīkkā              1
  nōkkā              1
@@ -1040,7 +1040,7 @@
  kaṇṇañcā           1
  tuñcā              1
  paṭā               2
- kuṟipaṭā          1
+ kuṟaipaṭā          1
  kaṇpaṭā            1
  vāṭā               2
  iṭā                1
@@ -1069,7 +1069,7 @@
  arimā              1
  parimā             1
  kōṇmā              1
- kimmā             1
+ kaimmā             1
  maṭalmā            1
  yā                 1
  ayā                1
@@ -1094,15 +1094,15 @@
  muṉiyā             1
  uṟṟīyā             1
  tēyā               2
- tuṭiyā            1
- puṇiyā            1
- citiyā            1
- mariyā            1
- uriyā             3
- kaḷiyā            1
- kiḷiyā            1
- kuṟiyā            1
- niṉiyā            2
+ tuṭaiyā            1
+ puṇaiyā            1
+ citaiyā            1
+ maraiyā            1
+ uraiyā             3
+ kaḷaiyā            1
+ kiḷaiyā            1
+ kuṟaiyā            1
+ niṉaiyā            2
  tōyā               1
  uyyā               2
  ceyyā              4
@@ -1114,11 +1114,11 @@
  taḷarā             1
  ārā                9
  tārā               1
- kaḷitārā          1
+ kaḷaitārā          1
  pārā               1
  vārā               2
  aṟivārā            1
- nivārā            1
+ naivārā            1
  irā                4
  utirā              1
  mutirā             1
@@ -1150,7 +1150,7 @@
  tāvā               1
  ceṉṟīvā            1
  uvā                1
- kitūvā            1
+ kaitūvā            1
  ōvā                5
  tuvvā              1
  ovvā               1
@@ -1202,22 +1202,22 @@
  uṟīi               6
  muntuṟīi           1
  poṟīi              1
- acii              4
- nacii             4
- kaṭii             1
- piṇii             1
- tii               5
- urii              1
- tiḷii             1
- ciṉii             3
- niṉii             2
+ acaii              4
+ nacaii             4
+ kaṭaii             1
+ piṇaii             1
+ taii               5
+ uraii              1
+ tiḷaii             1
+ ciṉaii             3
+ niṉaii             2
  āki               23
  peruki             1
  maṟuki             1
  ciṟuki             1
  kuṟuki             1
  ēki                1
- viki              1
+ vaiki              1
  pōki               3
  veḵki              4
  aṭakki             1
@@ -1271,7 +1271,7 @@
  kaṇicci            2
  ucci               1
  mucci              2
- iṟicci            2
+ iṟaicci            2
  nocci              1
  ōcci               2
  nukarcci           3
@@ -1280,7 +1280,7 @@
  kāñci              5
  tuñci              2
  eñci               1
- iṟiñci            3
+ iṟaiñci            3
  kāṭci              2
  veṭci              1
  muraṟci            1
@@ -1308,7 +1308,7 @@
  muṭi               3
  ūṭi                2
  kūṭi               3
- talikkūṭi         1
+ talaikkūṭi         1
  cūṭi               2
  koṭi              27
  toṭi              28
@@ -1320,7 +1320,7 @@
  vaṭṭi              1
  āṭṭi               2
  kāṭṭi             16
- viḷiyāṭṭi         1
+ viḷaiyāṭṭi         1
  pārāṭṭi            5
  ikalāṭṭi           1
  ilāṭṭi             1
@@ -1356,7 +1356,7 @@
  mati              26
  aḷimati            1
  kaṭavumati         1
- kaḷimati          1
+ kaḷaimati          1
  ayarmati           1
  vati               2
  āti                2
@@ -1365,7 +1365,7 @@
  kāyāti             1
  katiyāti           2
  aḻiyāti            1
- uriyāti           1
+ uraiyāti           1
  ōrāti              1
  nuvalāti           1
  nillāti            1
@@ -1397,7 +1397,7 @@
  pōṟṟuti            1
  tōṉṟuti            1
  ūti                1
- iṉiti             1
+ iṉaiti             1
  poti               5
  ōti                2
  tatti              1
@@ -1412,7 +1412,7 @@
  orutti            15
  porutti            1
  ētti               3
- pulitti           2
+ pulaitti           2
  otti               6
  potti              1
  cīrtti             1
@@ -1505,7 +1505,7 @@
  aruvi              9
  tūvi               4
  cevi              11
- vuvi              5
+ vauvi              5
  cevvi              2
  kēḷvi              1
  vēḷvi              1
@@ -1569,7 +1569,7 @@
  āṟi                1
  māṟi               9
  taṭumāṟi           3
- kimāṟi            1
+ kaimāṟi            1
  uṟi                1
  kuṟi              26
  kūṟi              11
@@ -1603,7 +1603,7 @@
  tuvaṉṟi            1
  iṉṟi              37
  tiṉṟi              1
- iṭiyiṉṟi          1
+ iṭaiyiṉṟi          1
  ūṉṟi               3
  eṉṟi               3
  veṉṟi              1
@@ -1648,7 +1648,7 @@
  vaḻūu              1
  toḻūu              9
  kāṇtaku            1
- ceytaṉittaku      1
+ ceytaṉaittaku      1
  viraku             1
  ulaku             13
  aḻaku              1
@@ -1668,7 +1668,7 @@
  ucāvuku            1
  maṟuku             1
  kuṟuku             1
- puṉiku            2
+ puṉaiku            2
  toku               1
  eḵku               1
  kuṇakku            1
@@ -1714,22 +1714,22 @@
  murukku            1
  orukku             1
  tūkku              3
- vāḻkkikku         1
- kōṭikku           1
- piṇikku           1
- entikku           1
- iṭumpikku         1
- ūrāṇmikku         1
- alikku            1
- āṇṭalikku         1
- malikku           1
- ellikku           1
- iḻikku            1
- aḷikku            1
- uṟikku            1
- muṟikku           1
- āḷviṉikku         1
- eṉṉikku           1
+ vāḻkkaikku         1
+ kōṭaikku           1
+ piṇaikku           1
+ entaikku           1
+ iṭumpaikku         1
+ ūrāṇmaikku         1
+ alaikku            1
+ āṇṭalaikku         1
+ malaikku           1
+ ellaikku           1
+ iḻaikku            1
+ aḷaikku            1
+ uṟaikku            1
+ muṟaikku           1
+ āḷviṉaikku         1
+ eṉṉaikku           1
  kokku              1
  tokku              2
  nōkku              6
@@ -1742,7 +1742,7 @@
  vīḻunarkku         1
  tamarkku           1
  tōḻiyarkku         1
- eṉṉiyarkku        1
+ eṉṉaiyarkku        1
  palarkku           1
  avarkku            1
  cuṭṭavarkku        1
@@ -1757,7 +1757,7 @@
  pulavarkku         1
  cāṉṟavarkku        1
  yāvarkku           3
- valivarkku        1
+ valaivarkku        1
  celvarkku          1
  piṟarkku           5
  naṭṭārkku          1
@@ -1767,11 +1767,11 @@
  illātārkku         1
  oṉṉātārkku         1
  iṉattārkku         1
- urittārkku        1
+ uraittārkku        1
  nayantārkku        1
  irantārkku         1
  iruntārkku         2
- varintārkku       1
+ varaintārkku       1
  cērntārkku         4
  yārkku             3
  nacciyārkku        1
@@ -1779,8 +1779,8 @@
  utaviyārkku        1
  kavaviyārkku       1
  cēyārkku           1
- uṭiyārkku         2
- variyārkku        1
+ uṭaiyārkku         2
+ varaiyārkku        1
  muṟuvalārkku       1
  viṉavuvārkku       1
  ceyvārkku          1
@@ -1843,14 +1843,14 @@
  aḷittāṅku          1
  kuḷittāṅku         1
  kuṟittāṅku         1
- urittāṅku         1
+ uraittāṅku         1
  tantāṅku           1
  nayantāṅku         1
  karantāṅku         2
  alantāṅku          1
  vantāṅku           2
- kaḷintāṅku        1
- aṟintāṅku         1
+ kaḷaintāṅku        1
+ aṟaintāṅku         1
  uyntāṅku           1
  peyarntāṅku        1
  nimirntāṅku        1
@@ -1864,7 +1864,7 @@
  vēṇṭiyāṅku         1
  ōrāṅku             5
  vāṅku              4
- takipeṟṟāṅku      1
+ takaipeṟṟāṅku      1
  niṉṟāṅku           1
  eṉṟāṅku            1
  ceṉṟāṅku           2
@@ -1890,7 +1890,7 @@
  kaṇṇāṭku           1
  aṇiyāṭku           1
  mēṉiyāṭku          1
- vaḷiyāṭku         1
+ vaḷaiyāṭku         1
  kaṟpiṉāṭku         1
  poruṭku            3
  kaṭavuṭku          1
@@ -1908,12 +1908,12 @@
  tīṇṭaṟku           1
  ataṟku             2
  paṭṭataṟku         1
- alittataṟku       1
+ alaittataṟku       1
  nāṟiyataṟku        1
  ōtaṟku             1
- tiḷittaṟku        1
- aṉittaṟku         1
- tantaṉittaṟku     2
+ tiḷaittaṟku        1
+ aṉaittaṟku         1
+ tantaṉaittaṟku     2
  poyttaṟku          3
  tōytaṟku           2
  naṟku              2
@@ -1941,7 +1941,7 @@
  neñciṟku           1
  vaṇṭiṟku           1
  pulattiṟku         1
- mukiyiṟku         1
+ mukaiyiṟku         1
  toyyiṟku           1
  nelliṟku           1
  nāviṟku            1
@@ -1959,8 +1959,8 @@
  mācu               5
  paricu             2
  mūcu               1
- aricu             2
- muricu            2
+ araicu             2
+ muraicu            2
  accu               1
  nañcu              1
  mañcu              1
@@ -2039,19 +2039,19 @@
  aḷiyoṭu            1
  uṟiyoṭu            1
  paṉiyoṭu           2
- kiyoṭu            2
- nakiyoṭu          1
- koḷkiyoṭu         1
- aṭiyoṭu           1
- peṭiyoṭu          1
- kiḻamiyoṭu        1
- maliyoṭu          1
- māliyoṭu          1
- kiḷiyoṭu          1
- naṟiyoṭu          1
- uṟiyoṭu           2
- yāṉiyoṭu          1
- ciṉiyoṭu          1
+ kaiyoṭu            2
+ nakaiyoṭu          1
+ koḷkaiyoṭu         1
+ aṭaiyoṭu           1
+ peṭaiyoṭu          1
+ kiḻamaiyoṭu        1
+ malaiyoṭu          1
+ mālaiyoṭu          1
+ kiḷaiyoṭu          1
+ naṟaiyoṭu          1
+ uṟaiyoṭu           2
+ yāṉaiyoṭu          1
+ ciṉaiyoṭu          1
  nōyoṭu             3
  avaroṭu            4
  cāṟṟupavaroṭu      1
@@ -2064,7 +2064,7 @@
  tēroṭu             4
  vēroṭu             1
  pakaloṭu           1
- vikaloṭu          1
+ vaikaloṭu          1
  kaṭaloṭu           1
  putaloṭu           2
  neytaloṭu          1
@@ -2123,15 +2123,15 @@
  aruviyōṭu          1
  ceviyōṭu           1
  oḷiyōṭu            1
- peruntakiyōṭu     1
- uḻiñiyōṭu         1
- peṭiyōṭu          1
- tantiyōṭu         1
- iṭumpiyōṭu        1
- tilliyōṭu         1
+ peruntakaiyōṭu     1
+ uḻiñaiyōṭu         1
+ peṭaiyōṭu          1
+ tantaiyōṭu         1
+ iṭumpaiyōṭu        1
+ tillaiyōṭu         1
  nōyōṭu             1
  vēṇṭupavarōṭu      1
- iḻiyavarōṭu       1
+ iḻaiyavarōṭu       1
  maṟantārōṭu        1
  yārōṭu             1
  nutalārōṭu         1
@@ -2146,9 +2146,9 @@
  pālōṭu             1
  naṟavōṭu           1
  pūvōṭu             1
- kiḷikaḷōṭu        1
+ kiḷaikaḷōṭu        1
  mākkaḷōṭu          1
- aricaṉōṭu         1
+ araicaṉōṭu         1
  pāṇaṉōṭu           1
  ataṉōṭu            1
  potuvaṉōṭu         2
@@ -2160,16 +2160,16 @@
  aṭṭu               4
  paṭṭu              3
  vaḻipaṭṭu          2
- pakipaṭṭu         1
+ pakaipaṭṭu         1
  kōṭpaṭṭu           1
  akappaṭṭu          1
  mayakkappaṭṭu      1
  uṇappaṭṭu          1
  teṟappaṭṭu         1
  neṟippaṭṭu         1
- iṭippaṭṭu         1
- naṭalippaṭṭu      1
- kaṟippaṭṭu        1
+ iṭaippaṭṭu         1
+ naṭalaippaṭṭu      1
+ kaṟaippaṭṭu        1
  uṭampaṭṭu          1
  allaṟpaṭṭu         1
  kāṭṭu             10
@@ -2177,15 +2177,15 @@
  pāṭṭu              2
  māṭṭu             12
  yāṭṭu              1
- viḷiyāṭṭu         1
+ viḷaiyāṭṭu         1
  pārāṭṭu            1
  iṭṭu               5
  vayaṅkiṭṭu         1
  vitirttiṭṭu        1
  terumantiṭṭu       1
- taliyiṭṭu         1
+ talaiyiṭṭu         1
  viṭṭu              9
- kiviṭṭu           5
+ kaiviṭṭu           5
  mīṭṭu              1
  cuṭṭu              2
  ūṭṭu               1
@@ -2214,10 +2214,10 @@
  vēṇṭu              2
  koṇṭu             82
  eṭuttukoṇṭu        1
- iṟikoṇṭu          1
+ iṟaikoṇṭu          1
  pullikkoṇṭu        1
- vuvikkoṇṭu        1
- talikkoṇṭu        3
+ vauvikkoṇṭu        1
+ talaikkoṇṭu        3
  etirkoṇṭu          1
  nāṇu               3
  uṇṇu               3
@@ -2228,7 +2228,7 @@
  ceṟāatu            2
  peṟāatu            1
  takkatu            4
- viḻitakkatu       1
+ viḻaitakkatu       1
  nōtakkatu          1
  nakkatu            3
  pukkatu            2
@@ -2251,8 +2251,8 @@
  kuṟittatu          2
  keṭuttatu          1
  iṟuttatu           1
- citittatu         3
- urittatu          6
+ citaittatu         3
+ uraittatu          6
  ottatu             2
  īrttatu            1
  ōrttatu            1
@@ -2274,11 +2274,11 @@
  iruntatu           1
  eḻuntatu           2
  ventatu            1
- tatintatu         1
- amintatu          1
- iyintatu          1
- kaḷintatu         1
- viḷintatu         1
+ tataintatu         1
+ amaintatu          1
+ iyaintatu          1
+ kaḷaintatu         1
+ viḷaintatu         1
  māyntatu           2
  tavirntatu         1
  nikaḻntatu         1
@@ -2288,12 +2288,12 @@
  pulappatu          1
  iḻappatu           1
  kāppatu            2
- miyāppatu         1
+ maiyāppatu         1
  koṭuppatu          2
  oṟuppatu           1
- urippatu          1
- naṉippatu         1
- niṉippatu         2
+ uraippatu          1
+ naṉaippatu         1
+ niṉaippatu         2
  māyppatu           1
  poyppatu           1
  peyarppatu         1
@@ -2317,16 +2317,16 @@
  kūṟiyatu           1
  iyaṟṟiyatu         1
  muṟṟiyatu          1
- kiyatu            3
- takiyatu          2
- uṭiyatu           1
- uḻiyatu           1
- aṉiyatu           1
+ kaiyatu            3
+ takaiyatu          2
+ uṭaiyatu           1
+ uḻaiyatu           1
+ aṉaiyatu           1
  meyyatu            1
  ayalatu            2
  ceyaṟpālatu        1
  allatu            12
- aṉittallatu       1
+ aṉaittallatu       1
  nallatu            1
  tiṟavatu           1
  āvatu              5
@@ -2353,8 +2353,8 @@
  tēṟuvatu           1
  maṉṉuvatu          1
  vēvatu             1
- iyivatu           5
- niṟivatu          1
+ iyaivatu           5
+ niṟaivatu          1
  ceyvatu            7
  atirvatu           1
  tīrvatu            1
@@ -2406,14 +2406,14 @@
  aṟiyātu            6
  eṟiyātu            2
  aṟintīyātu         1
- takiyātu          1
- citiyātu          1
- amiyātu           1
- uriyātu           1
- niliyātu          2
- uliyātu           2
- piḻiyātu          2
- niṉiyātu          1
+ takaiyātu          1
+ citaiyātu          1
+ amaiyātu           1
+ uraiyātu           1
+ nilaiyātu          2
+ ulaiyātu           2
+ piḻaiyātu          2
+ niṉaiyātu          1
  ceyyātu            3
  uṇarātu            1
  ēmarātu            1
@@ -2493,7 +2493,7 @@
  ētu                1
  vētu               1
  aitu               4
- pitu              1
+ paitu              1
  potu               3
  ōtu                1
  pōtu              15
@@ -2501,7 +2501,7 @@
  iḵtu              27
  kaṭāattu           2
  akattu            11
- viyakattu         1
+ vaiyakattu         1
  cālakattu          1
  ulakattu           8
  kaḻakattu          1
@@ -2536,8 +2536,8 @@
  kayattu            3
  āyattu             1
  matiyattu          1
- amiyattu          2
- imiyattu          2
+ amaiyattu          2
+ imaiyattu          2
  marattu            1
  īrattu             1
  curattu            1
@@ -2552,7 +2552,7 @@
  paruvattu          3
  aḻuvattu           1
  toḻuvattu          1
- puvattu           1
+ pauvattu           1
  teyvattu           1
  celvattu           2
  evvattu            1
@@ -2633,19 +2633,19 @@
  pūttu              4
  tēettu             1
  cettu              2
- takittu           2
- aṭittu            1
- uṭittu            9
- tuṭittu           1
- putittu           1
- amittu            2
- varittu           5
- urittu            9
- vittu             1
- cuvittu           1
- aṉittu            6
- niṉittu           3
- eṉittu            4
+ takaittu           2
+ aṭaittu            1
+ uṭaittu            9
+ tuṭaittu           1
+ putaittu           1
+ amaittu            2
+ varaittu           5
+ uraittu            9
+ vaittu             1
+ cuvaittu           1
+ aṉaittu            6
+ niṉaittu           3
+ eṉaittu            4
  ottu               2
  kōttu              1
  cāyttu             5
@@ -2694,7 +2694,7 @@
  nivantu            1
  eḷivantu           1
  uvantu             4
- tivantu           1
+ taivantu           1
  iḻantu             3
  uḻantu             4
  kiḷantu            1
@@ -2739,7 +2739,7 @@
  varuntu            1
  iruntu             4
  tiruntu            8
- malintiruntu      1
+ malaintiruntu      1
  viruntu            9
  kuruntu            2
  muruntu            2
@@ -2749,25 +2749,25 @@
  ēntu               6
  cēntu              2
  vēntu              2
- picintu           1
- uṭintu            1
- piṇintu           1
- citintu           3
- tutintu           1
- nintu             1
- mintu             3
- amintu            3
- iyintu            1
- virintu           8
- malintu           2
- milintu           1
- tolintu           1
- vaḷintu           1
- aṟintu            3
- niṟintu           1
- kuṟintu           1
- iṉintu            1
- niṉintu           4
+ picaintu           1
+ uṭaintu            1
+ piṇaintu           1
+ citaintu           3
+ tutaintu           1
+ naintu             1
+ maintu             3
+ amaintu            3
+ iyaintu            1
+ viraintu           8
+ malaintu           2
+ milaintu           1
+ tolaintu           1
+ vaḷaintu           1
+ aṟaintu            3
+ niṟaintu           1
+ kuṟaintu           1
+ iṉaintu            1
+ niṉaintu           4
  nontu              4
  āyntu              1
  cāyntu             3
@@ -2808,7 +2808,7 @@
  pōḻntu             2
  ceytu             21
  peytu              6
- talippeytu        1
+ talaippeytu        1
  amiḻtu             2
  pōḻtu              7
  tapu               5
@@ -2838,15 +2838,15 @@
  vīṅkupu            1
  kaḻalkupu          1
  olkupu             1
- iriñcupu          1
+ iraiñcupu          1
  vāṭupu             2
  viṭupu             1
  tattupu            1
  tiruntupu          1
  poruntupu          1
- tiyupu            1
- vaḷiyupu          1
- niṉiyupu          2
+ taiyupu            1
+ vaḷaiyupu          1
+ niṉaiyupu          2
  varupu             2
  kaṭavupu           2
  taṭavupu           1
@@ -2856,16 +2856,16 @@
  iṟupu              4
  uṟupu              1
  tūṟṟupu            1
- aṭipu             1
- uṭipu             1
- iṇipu             1
- tutipu            1
- iyipu             3
- niripu            1
- viripu            1
- tolipu            2
- maṟipu            1
- iṉipu             5
+ aṭaipu             1
+ uṭaipu             1
+ iṇaipu             1
+ tutaipu            1
+ iyaipu             3
+ niraipu            1
+ viraipu            1
+ tolaipu            2
+ maṟaipu            1
+ iṉaipu             5
  naṭpu              3
  kēṭpu              1
  paṇpu             14
@@ -2897,8 +2897,8 @@
  uṟuppu             1
  mūppu              2
  ceppu              1
- imippu            1
- piḻippu           1
+ imaippu            1
+ piḻaippu           1
  peyarppu           1
  ārppu              1
  pārppu             1
@@ -3029,13 +3029,13 @@
  naṭuvu             1
  maruvu             3
  kaṟuvu             1
- takivu            1
- citivu            1
- varivu            1
- tolivu            1
- kuḻivu            1
- uḷivu             1
- niṟivu            1
+ takaivu            1
+ citaivu            1
+ varaivu            1
+ tolaivu            1
+ kuḻaivu            1
+ uḷaivu             1
+ niṟaivu            1
  uyvu               1
  ceyvu              1
  uṇarvu             1
@@ -3059,7 +3059,7 @@
  citaṟu             1
  naṟu              26
  maṟu               5
- kiyaṟu            3
+ kaiyaṟu            3
  kavaṟu             1
  tavaṟu            27
  uvaṟu              1
@@ -3068,7 +3068,7 @@
  nāṟu               8
  māṟu              21
  yāṟu               3
- kiyāṟu            4
+ kaiyāṟu            4
  iṟu                3
  ciṟu              17
  miñiṟu             2
@@ -3102,7 +3102,7 @@
  ceṟu               3
  teṟu               1
  peṟu               4
- takipeṟu          1
+ takaipeṟu          1
  nalampeṟu          2
  veṟu               1
  ēṟu               37
@@ -3124,7 +3124,7 @@
  maṟṟu            105
  cemmaṟṟu           1
  tōṉṟiyaṟṟu         2
- kiyaṟṟu           1
+ kaiyaṟṟu           1
  avaṟṟu             2
  ayiṉṟaṟṟu          1
  eṉṟaṟṟu            1
@@ -3135,7 +3135,7 @@
  māṟṟu              1
  taṭumāṟṟu          1
  yāṟṟu              1
- kiyāṟṟu           1
+ kaiyāṟṟu           1
  ciṟṟāṟṟu           1
  taṅkiṟṟu           1
  uṭkiṟṟu            2
@@ -3185,9 +3185,9 @@
  valittaṉṟu         1
  pacantaṉṟu         1
  vantaṉṟu           8
- uṭintaṉṟu         1
- amintaṉṟu         1
- aṟintaṉṟu         1
+ uṭaintaṉṟu         1
+ amaintaṉṟu         1
+ aṟaintaṉṟu         1
  tēyntaṉṟu          1
  tīrntaṉṟu          2
  vīḻntaṉṟu          2
@@ -3208,7 +3208,7 @@
  nīṅkiṉṟu           2
  ōṭiṉṟu             1
  niṉṟu             21
- niliyiṉṟu         1
+ nilaiyiṉṟu         1
  pōyiṉṟu            1
  īṉṟu               3
  kuṉṟu              8
@@ -3241,671 +3241,671 @@
  cē                 6
  tē                 7
  aḷimē              1
- takimē            1
- purimē            1
+ takaimē            1
+ puraimē            1
  koṇmē              1
  vallē              1
  uḷē                4
  ai                41
- ki               49
- aki               3
- paṭāaki           1
- taki             37
- āṇtaki            1
- neṭuntaki         3
- naki             25
- paki             16
- valluppalaki      1
- vaki             12
- uvaki             2
- aivaki            1
- kaṭiki            1
- kaṇṭiki           1
- cētiki            1
- mattiki           1
- kāriki            7
- valliki           1
- pulliki           1
- cikaḻiki          2
- īki               4
- matuki            2
- puki              3
- muki             22
- toki              1
- kiṭakki           2
- ulakki            2
- yākki             5
- uṭukki            1
- patukki           1
- irukki            1
- cēkki             5
- vāḻkki            3
- vīḻkki            1
- aṅki              1
- tuṇaṅki           2
- īṅki              1
- vēṅki            12
- vēṭki             2
- poyki             9
- ārki              1
- koḷki             1
- iyaṟki            1
- muṉki             8
- aci               6
- naci              5
- vaci              1
- ici              17
- tici              5
- mici             20
- varici            1
- purici            3
- vici              2
- vicci             1
- neñci             1
- aṭi              10
- kaṭi             10
- nīttakkaṭi        1
- mēvākkaṭi         1
- puṟaṅkaṭi         2
- caṭi              4
- naṭi             11
- paṭi             13
- maṭi              1
- āṭi               4
- vāṭi              3
- iṭi              69
- miṭi              6
- āyiṭi             2
- viṭi              2
- uṭi              21
- kuṭi              8
- puṭi              4
- varuṭi            2
- peṭi              5
- pēṭi              1
- koṭi              2
- puṟakkoṭi         1
- toṭi              2
- ōṭi               2
- māṭṭi             1
- pārāṭṭi           1
- kēṭṭi             2
- koṭṭi             1
- kōṭṭi             1
- kaṇṭi            11
- paṇṭi             1
- maṇṭi             1
- āṇṭi              2
- kāṇṭi             3
- keṇṭi             1
- aṇi              14
- kaṇi              7
- paṇi             11
- aravaṇi           1
- āṇi               1
- iṇi               5
- piṇi              7
- tuṇi             28
- puṇi              7
- puṇṇi             1
- peṇṇi             4
- ti                1
- ati               3
- tati              1
- maṉpati           1
- eṉpati            3
- allati           10
- citi              2
- cuti              1
- tuti              3
- puti              4
- ūti               1
- tūti              1
- pēti              2
- kiti             1
- ōti               1
- kōti             20
- muyakkatti        1
- varuttatti        1
- kāmatti           2
- paratti           5
- maratti           1
- vēḻatti           1
- uḷḷatti           1
- pāṭitti           5
- ītti              1
- parukītti         1
- cītti             4
- uṇṭītti           1
- matittītti        1
- niṉṟītti          1
- uritti           3
- maṭanti           1
- tanti             7
- vanti             1
- nunti            13
- munti             1
- enti              3
- ni                1
- neruni            1
- pi                1
- paṭappi           1
- iṭumpi            9
- kurumpi           2
- mi               16
- ami              22
- paṭāami           1
- vaḻāami           1
- maṟāami           1
- uṟāami            1
- ceṟāami           1
- kaṇṭami           1
- vantami           1
- ciṟantami         1
- puṇarntami        1
- eytami            1
- vaḷami            3
- iḷami             8
- eṉṟami            1
- nakāmi            1
- ākāmi             1
- nalkāmi           1
- kāṇāmi            4
- māmi              2
- yāmi              1
- kāyāmi            1
- piriyāmi          4
- aṟiyāmi           3
- īyāmi             3
- uriyāmi          1
- poyyāmi           1
- uṇarāmi           1
- vārāmi            2
- kallāmi           1
- nillāmi           1
- paravāmi          1
- nīvāmi            1
- tuvvāmi           1
- aruḷāmi           1
- kēḷāmi            1
- tōṉṟāmi           1
- eṉṉāmi            1
- imi               2
- kuṭimi            1
- tīmi              7
- umi               1
- pacumi            1
- koṭumi            4
- taṇṇumi           1
- erumi             3
- maṟumi            2
- māṟṟumi           1
- vēṟṟumi           2
- parattimi        4
- nilimi           1
- mutukkuṟimi      1
- puṉkaṇmi          1
- taṇmi             1
- tāḷāṇmi           1
- vēḷāṇmi           1
- uṇmi              1
- kaṭavuṇmi         1
- peṇmi             2
- veṇmi             1
- kēṇmi             2
- oṇmi              1
- tammi             1
- nammi             7
- immi              1
- nummi             1
- emmi             20
- cemmi             1
- vemmi             1
- vāymi             3
- nīrmi             1
- pukaḻmi           1
- taṉmi             2
- vaṉmi             1
- iṉmi             12
- puṉmi             1
- ñāyi              1
- aṭiyi             1
- koṭiyi            2
- kaṇṇiyi           3
- matiyi            1
- kāriyi            1
- kaṉaliyi          1
- eḻiliyi           1
- kuḻaviyi          1
- kaḷviyi           1
- tōḻiyi            2
- aḷiyi             1
- vaḷḷiyi           1
- mēṉiyi            1
- kiyi             1
- vēṅkiyi          2
- koḷkiyi          1
- āṭiyi            2
- uṭiyi            4
- pētiyi           2
- tantiyi          1
- nuntiyi          3
- koṭumiyi         2
- kutiriyi         2
- māliyi           1
- viyi             8
- kavviyi          1
- ēḻiyi            1
- piṟiyi           1
- aṉiyi            1
- iṉiyi            4
- meyyi             1
- veyyi             1
- ari               1
- kari             16
- avuṇari           1
- nalattari         1
- koḻunari          1
- cāmari            1
- tāmari           16
- numari            1
- patiṉmari         1
- mallari           2
- vari             42
- avari             3
- kaṭavari          1
- uḷḷātavari        1
- ēṟṟavari          1
- potuvari          1
- iruvari           1
- oruvari           1
- iṟuvari           1
- kaḷvari           1
- maṉṉari           1
- kaṇṭāri           2
- koṇṭāri           1
- pēṇāri            1
- mukattāri         1
- kuṟittāri         1
- tuṟantāri         1
- pirintāri         1
- iruntāri          2
- tōyntāri          1
- uṇarntāri         1
- puṇarntāri        1
- cērntāri          2
- nāri              2
- uḻappāri          1
- eṉpāri            1
- yāri              3
- tīyāri            1
- ūrāri             1
- nallāri           6
- vallāri           1
- varuvāri          1
- ayarvāri          1
- muyalvāri         1
- koḷvāri           2
- tōḷāri            1
- māṟṟāri           1
- uṟṟāri            1
- pōṟṟāri           1
- akaṉṟāri          2
- eṉṟāri            1
- ceṉṟāri           1
- iri               3
- peṇṭiri           1
- tiri             24
- kutiri           12
- māttiri           3
- niri             26
- uyiri             1
- āviri             3
- makaḷiri          3
- nīri              3
- uri              13
- kuri              1
- curi              1
- kaṭṭuri           1
- maturi            1
- nuri              1
- puri             22
- tēri              2
- vēri              1
- ōri               2
- puriyōri         1
- ali               1
- kali              2
- mēkali            1
- pacali            2
- ūcali             1
- tuñcali           1
- viṭali            1
- ūṭali             1
- aṇṇali            1
- tali             41
- matali            1
- kātali            2
- titali            2
- orutali           1
- tavirtali         1
- ampali            1
- mali             55
- amali             1
- cemmali           2
- ceyali            1
- miyali           1
- niliyali         1
- irali             1
- vali              5
- kavali            1
- alavali           1
- civali            1
- tuvali            1
- kitūvali         1
- cēvali            1
- niḻali            1
- uḻali             1
- tōṟṟali           1
- kāli              6
- ciṟukāli          1
- māli             41
- ili              18
- cili              5
- nili             28
- koṇṭunili         1
- uyarnili          2
- kuyili            1
- vili              3
- kuli              4
- muli             33
- nūli              1
- koli             12
- ōli               2
- cōli              4
- alli              7
- nalli             1
- valli             2
- illi             14
- cilli             1
- kulli             1
- mulli            18
- elli              7
- nelli             1
- olli              2
- kolli             1
- vi                4
- avi              15
- kavi              1
- maṭavi            1
- vēṭṭavi           1
- pūṇṭavi           1
- paṇavi            1
- īttavi            1
- uṭuttavi          1
- ottavi            1
- ikantavi          1
- vantavi           1
- paṟantavi         1
- kaḻintavi         1
- aḷintavi          1
- eṟintavi          1
- tōyntavi          1
- malarntavi        1
- nimirntavi        1
- cūḻntavi          1
- navi              2
- ukupavi           1
- cāṭupavi          1
- eṭuppavi          1
- cilippavi        1
- pāypavi           1
- etirpavi          1
- koḷpavi           2
- eṉpavi            3
- kuḻīiyavi         1
- eḻīiyavi          1
- piṇaṅkiyavi       1
- nalkiyavi         1
- koṭiyavi          1
- eṇṇiyavi          1
- aṉiyavi          3
- iṉiyavi          1
- kuravi            6
- putalavi          1
- kālavi            1
- valippaḷavi       1
- muyalvaḷavi       2
- kaṟavi            1
- paṟavi            1
- iṟṟavi            1
- aṉṉavi            2
- iṉṉavi            1
- pāvi              7
- ivi               9
- arivi             1
- ākuvi             1
- paṭukuvi          1
- tarukuvi          1
- kaḷikuvi         1
- velkuvi           1
- koḷkuvi           1
- cuvi              1
- vāṭuvi            1
- vatuvi           10
- putuvi            1
- veruvuvi          1
- uḻuvi             3
- toḻuvi            1
- peṟuvi            1
- kōvi              1
- kuvi             4
- pārvi             1
- pōrvi             1
- kavvi             2
- paṇpiṉavvi        1
- kataḻvi           1
- kaḻi              4
- taḻi              2
- maḻi             16
- vaḻi              2
- tāḻi              5
- māḻi              1
- vāḻi              3
- iḻi              41
- uḻi               9
- kuḻi             13
- nuḻi              2
- kūḻi              5
- ēḻi               2
- aḷi               5
- kaḷi              2
- kuṇaṅkaḷi         1
- pukaḻkaḷi         1
- taḷi              7
- vaḷi             26
- avaḷi             1
- ivaḷi             6
- kuvaḷi            2
- oḻittāḷi          1
- karantāḷi         1
- muṉintāḷi         1
- nāḷi              1
- pāḷi              1
- iḻappāḷi          1
- uḻappāḷi          1
- uṟṟāḷi            1
- tōṟṟāḷi           3
- kiḷi              4
- uḷi               3
- ikuḷi             4
- muḷi              6
- iruḷi             1
- poruḷi            3
- kaṭavuḷi          4
- pūḷi              3
- koḷi              3
- kaḷḷi             1
- vaḷḷi             3
- veḷḷi             5
- aṟi              15
- vikaṟi           5
- naṟi              3
- paṟi              7
- maṟi             14
- iṟi              24
- ciṟi              6
- tiṟi              3
- niṟi             20
- piṟi             11
- uṟi               8
- kuṟi              8
- kaṇṇuṟi           1
- tuṟi             18
- muṉtuṟi           1
+ kai               49
+ akai               3
+ paṭāakai           1
+ takai             37
+ āṇtakai            1
+ neṭuntakai         3
+ nakai             25
+ pakai             16
+ valluppalakai      1
+ vakai             12
+ uvakai             2
+ aivakai            1
+ kaṭikai            1
+ kaṇṭikai           1
+ cētikai            1
+ mattikai           1
+ kārikai            7
+ vallikai           1
+ pullikai           1
+ cikaḻikai          2
+ īkai               4
+ matukai            2
+ pukai              3
+ mukai             22
+ tokai              1
+ kiṭakkai           2
+ ulakkai            2
+ yākkai             5
+ uṭukkai            1
+ patukkai           1
+ irukkai            1
+ cēkkai             5
+ vāḻkkai            3
+ vīḻkkai            1
+ aṅkai              1
+ tuṇaṅkai           2
+ īṅkai              1
+ vēṅkai            12
+ vēṭkai             2
+ poykai             9
+ ārkai              1
+ koḷkai             1
+ iyaṟkai            1
+ muṉkai             8
+ acai               6
+ nacai              5
+ vacai              1
+ icai              17
+ ticai              5
+ micai             20
+ varicai            1
+ puricai            3
+ vicai              2
+ viccai             1
+ neñcai             1
+ aṭai              10
+ kaṭai             10
+ nīttakkaṭai        1
+ mēvākkaṭai         1
+ puṟaṅkaṭai         2
+ caṭai              4
+ naṭai             11
+ paṭai             13
+ maṭai              1
+ āṭai               4
+ vāṭai              3
+ iṭai              69
+ miṭai              6
+ āyiṭai             2
+ viṭai              2
+ uṭai              21
+ kuṭai              8
+ puṭai              4
+ varuṭai            2
+ peṭai              5
+ pēṭai              1
+ koṭai              2
+ puṟakkoṭai         1
+ toṭai              2
+ ōṭai               2
+ māṭṭai             1
+ pārāṭṭai           1
+ kēṭṭai             2
+ koṭṭai             1
+ kōṭṭai             1
+ kaṇṭai            11
+ paṇṭai             1
+ maṇṭai             1
+ āṇṭai              2
+ kāṇṭai             3
+ keṇṭai             1
+ aṇai              14
+ kaṇai              7
+ paṇai             11
+ aravaṇai           1
+ āṇai               1
+ iṇai               5
+ piṇai              7
+ tuṇai             28
+ puṇai              7
+ puṇṇai             1
+ peṇṇai             4
+ tai                1
+ atai               3
+ tatai              1
+ maṉpatai           1
+ eṉpatai            3
+ allatai           10
+ citai              2
+ cutai              1
+ tutai              3
+ putai              4
+ ūtai               1
+ tūtai              1
+ pētai              2
+ kaitai             1
+ ōtai               1
+ kōtai             20
+ muyakkattai        1
+ varuttattai        1
+ kāmattai           2
+ parattai           5
+ marattai           1
+ vēḻattai           1
+ uḷḷattai           1
+ pāṭittai           5
+ īttai              1
+ parukīttai         1
+ cīttai             4
+ uṇṭīttai           1
+ matittīttai        1
+ niṉṟīttai          1
+ uraittai           3
+ maṭantai           1
+ tantai             7
+ vantai             1
+ nuntai            13
+ muntai             1
+ entai              3
+ nai                1
+ nerunai            1
+ pai                1
+ paṭappai           1
+ iṭumpai            9
+ kurumpai           2
+ mai               16
+ amai              22
+ paṭāamai           1
+ vaḻāamai           1
+ maṟāamai           1
+ uṟāamai            1
+ ceṟāamai           1
+ kaṇṭamai           1
+ vantamai           1
+ ciṟantamai         1
+ puṇarntamai        1
+ eytamai            1
+ vaḷamai            3
+ iḷamai             8
+ eṉṟamai            1
+ nakāmai            1
+ ākāmai             1
+ nalkāmai           1
+ kāṇāmai            4
+ māmai              2
+ yāmai              1
+ kāyāmai            1
+ piriyāmai          4
+ aṟiyāmai           3
+ īyāmai             3
+ uraiyāmai          1
+ poyyāmai           1
+ uṇarāmai           1
+ vārāmai            2
+ kallāmai           1
+ nillāmai           1
+ paravāmai          1
+ nīvāmai            1
+ tuvvāmai           1
+ aruḷāmai           1
+ kēḷāmai            1
+ tōṉṟāmai           1
+ eṉṉāmai            1
+ imai               2
+ kuṭimai            1
+ tīmai              7
+ umai               1
+ pacumai            1
+ koṭumai            4
+ taṇṇumai           1
+ erumai             3
+ maṟumai            2
+ māṟṟumai           1
+ vēṟṟumai           2
+ parattaimai        4
+ nilaimai           1
+ mutukkuṟaimai      1
+ puṉkaṇmai          1
+ taṇmai             1
+ tāḷāṇmai           1
+ vēḷāṇmai           1
+ uṇmai              1
+ kaṭavuṇmai         1
+ peṇmai             2
+ veṇmai             1
+ kēṇmai             2
+ oṇmai              1
+ tammai             1
+ nammai             7
+ immai              1
+ nummai             1
+ emmai             20
+ cemmai             1
+ vemmai             1
+ vāymai             3
+ nīrmai             1
+ pukaḻmai           1
+ taṉmai             2
+ vaṉmai             1
+ iṉmai             12
+ puṉmai             1
+ ñāyai              1
+ aṭiyai             1
+ koṭiyai            2
+ kaṇṇiyai           3
+ matiyai            1
+ kāriyai            1
+ kaṉaliyai          1
+ eḻiliyai           1
+ kuḻaviyai          1
+ kaḷviyai           1
+ tōḻiyai            2
+ aḷiyai             1
+ vaḷḷiyai           1
+ mēṉiyai            1
+ kaiyai             1
+ vēṅkaiyai          2
+ koḷkaiyai          1
+ āṭaiyai            2
+ uṭaiyai            4
+ pētaiyai           2
+ tantaiyai          1
+ nuntaiyai          3
+ koṭumaiyai         2
+ kutiraiyai         2
+ mālaiyai           1
+ vaiyai             8
+ kavvaiyai          1
+ ēḻaiyai            1
+ piṟaiyai           1
+ aṉaiyai            1
+ iṉaiyai            4
+ meyyai             1
+ veyyai             1
+ arai               1
+ karai             16
+ avuṇarai           1
+ nalattarai         1
+ koḻunarai          1
+ cāmarai            1
+ tāmarai           16
+ numarai            1
+ patiṉmarai         1
+ mallarai           2
+ varai             42
+ avarai             3
+ kaṭavarai          1
+ uḷḷātavarai        1
+ ēṟṟavarai          1
+ potuvarai          1
+ iruvarai           1
+ oruvarai           1
+ iṟuvarai           1
+ kaḷvarai           1
+ maṉṉarai           1
+ kaṇṭārai           2
+ koṇṭārai           1
+ pēṇārai            1
+ mukattārai         1
+ kuṟittārai         1
+ tuṟantārai         1
+ pirintārai         1
+ iruntārai          2
+ tōyntārai          1
+ uṇarntārai         1
+ puṇarntārai        1
+ cērntārai          2
+ nārai              2
+ uḻappārai          1
+ eṉpārai            1
+ yārai              3
+ tīyārai            1
+ ūrārai             1
+ nallārai           6
+ vallārai           1
+ varuvārai          1
+ ayarvārai          1
+ muyalvārai         1
+ koḷvārai           2
+ tōḷārai            1
+ māṟṟārai           1
+ uṟṟārai            1
+ pōṟṟārai           1
+ akaṉṟārai          2
+ eṉṟārai            1
+ ceṉṟārai           1
+ irai               3
+ peṇṭirai           1
+ tirai             24
+ kutirai           12
+ māttirai           3
+ nirai             26
+ uyirai             1
+ āvirai             3
+ makaḷirai          3
+ nīrai              3
+ urai              13
+ kurai              1
+ curai              1
+ kaṭṭurai           1
+ maturai            1
+ nurai              1
+ purai             22
+ tērai              2
+ vērai              1
+ ōrai               2
+ puraiyōrai         1
+ alai               1
+ kalai              2
+ mēkalai            1
+ pacalai            2
+ ūcalai             1
+ tuñcalai           1
+ viṭalai            1
+ ūṭalai             1
+ aṇṇalai            1
+ talai             41
+ matalai            1
+ kātalai            2
+ titalai            2
+ orutalai           1
+ tavirtalai         1
+ ampalai            1
+ malai             55
+ amalai             1
+ cemmalai           2
+ ceyalai            1
+ maiyalai           1
+ nilaiyalai         1
+ iralai             1
+ valai              5
+ kavalai            1
+ alavalai           1
+ civalai            1
+ tuvalai            1
+ kaitūvalai         1
+ cēvalai            1
+ niḻalai            1
+ uḻalai             1
+ tōṟṟalai           1
+ kālai              6
+ ciṟukālai          1
+ mālai             41
+ ilai              18
+ cilai              5
+ nilai             28
+ koṇṭunilai         1
+ uyarnilai          2
+ kuyilai            1
+ vilai              3
+ kulai              4
+ mulai             33
+ nūlai              1
+ kolai             12
+ ōlai               2
+ cōlai              4
+ allai              7
+ nallai             1
+ vallai             2
+ illai             14
+ cillai             1
+ kullai             1
+ mullai            18
+ ellai              7
+ nellai             1
+ ollai              2
+ kollai             1
+ vai                4
+ avai              15
+ kavai              1
+ maṭavai            1
+ vēṭṭavai           1
+ pūṇṭavai           1
+ paṇavai            1
+ īttavai            1
+ uṭuttavai          1
+ ottavai            1
+ ikantavai          1
+ vantavai           1
+ paṟantavai         1
+ kaḻintavai         1
+ aḷintavai          1
+ eṟintavai          1
+ tōyntavai          1
+ malarntavai        1
+ nimirntavai        1
+ cūḻntavai          1
+ navai              2
+ ukupavai           1
+ cāṭupavai          1
+ eṭuppavai          1
+ cilaippavai        1
+ pāypavai           1
+ etirpavai          1
+ koḷpavai           2
+ eṉpavai            3
+ kuḻīiyavai         1
+ eḻīiyavai          1
+ piṇaṅkiyavai       1
+ nalkiyavai         1
+ koṭiyavai          1
+ eṇṇiyavai          1
+ aṉaiyavai          3
+ iṉaiyavai          1
+ kuravai            6
+ putalavai          1
+ kālavai            1
+ valippaḷavai       1
+ muyalvaḷavai       2
+ kaṟavai            1
+ paṟavai            1
+ iṟṟavai            1
+ aṉṉavai            2
+ iṉṉavai            1
+ pāvai              7
+ ivai               9
+ arivai             1
+ ākuvai             1
+ paṭukuvai          1
+ tarukuvai          1
+ kaḷaikuvai         1
+ velkuvai           1
+ koḷkuvai           1
+ cuvai              1
+ vāṭuvai            1
+ vatuvai           10
+ putuvai            1
+ veruvuvai          1
+ uḻuvai             3
+ toḻuvai            1
+ peṟuvai            1
+ kōvai              1
+ kauvai             4
+ pārvai             1
+ pōrvai             1
+ kavvai             2
+ paṇpiṉavvai        1
+ kataḻvai           1
+ kaḻai              4
+ taḻai              2
+ maḻai             16
+ vaḻai              2
+ tāḻai              5
+ māḻai              1
+ vāḻai              3
+ iḻai              41
+ uḻai               9
+ kuḻai             13
+ nuḻai              2
+ kūḻai              5
+ ēḻai               2
+ aḷai               5
+ kaḷai              2
+ kuṇaṅkaḷai         1
+ pukaḻkaḷai         1
+ taḷai              7
+ vaḷai             26
+ avaḷai             1
+ ivaḷai             6
+ kuvaḷai            2
+ oḻittāḷai          1
+ karantāḷai         1
+ muṉintāḷai         1
+ nāḷai              1
+ pāḷai              1
+ iḻappāḷai          1
+ uḻappāḷai          1
+ uṟṟāḷai            1
+ tōṟṟāḷai           3
+ kiḷai              4
+ uḷai               3
+ ikuḷai             4
+ muḷai              6
+ iruḷai             1
+ poruḷai            3
+ kaṭavuḷai          4
+ pūḷai              3
+ koḷai              3
+ kaḷḷai             1
+ vaḷḷai             3
+ veḷḷai             5
+ aṟai              15
+ vaikaṟai           5
+ naṟai              3
+ paṟai              7
+ maṟai             14
+ iṟai              24
+ ciṟai              6
+ tiṟai              3
+ niṟai             20
+ piṟai             11
+ uṟai               8
+ kuṟai              8
+ kaṇṇuṟai           1
+ tuṟai             18
+ muṉtuṟai           1
  tirumarutamuṉt     1
- muṟi             13
- vaḻimuṟi          2
- aṭiyuṟi           1
- kiyuṟi           2
- poṟi              9
- maṟṟi             1
- avaṟṟi            1
- ñāyiṟṟi           1
- ēṟṟi              2
- pakaṉṟi           1
- koṉṟi             5
- aṉi               2
- kaṉi             15
- makaṉi            2
- pākaṉi            2
- aracaṉi           1
- nāṭaṉi            3
- kēṭṭaṉi           1
- ataṉi             3
- aḻutaṉi           1
- aḷittaṉi          1
- kuṟittaṉi         1
- tuṉittaṉi         1
- muttaṉi           1
- taṇantaṉi         1
- maṇantaṉi         1
- nayantaṉi         1
- civantaṉi         1
- ciṟantaṉi         1
- purintaṉi         1
- moḻintaṉi         1
- aṟintaṉi          2
- puṇarntaṉi        1
- amarntaṉi         2
- tavirntaṉi        1
- naṉi              3
- paṉi              4
- urippaṉi         1
- cērppaṉi          3
- mārpaṉi           1
- veṟpaṉi           1
- maṉi             12
- āyaṉi             2
- aiyaṉi            1
- puliyaṉi         2
- peyaraṉi          1
- avaṉi            12
- aḻuntātavaṉi      1
- ilavaṉi           1
+ muṟai             13
+ vaḻimuṟai          2
+ aṭiyuṟai           1
+ kaiyuṟai           2
+ poṟai              9
+ maṟṟai             1
+ avaṟṟai            1
+ ñāyiṟṟai           1
+ ēṟṟai              2
+ pakaṉṟai           1
+ koṉṟai             5
+ aṉai               2
+ kaṉai             15
+ makaṉai            2
+ pākaṉai            2
+ aracaṉai           1
+ nāṭaṉai            3
+ kēṭṭaṉai           1
+ ataṉai             3
+ aḻutaṉai           1
+ aḷittaṉai          1
+ kuṟittaṉai         1
+ tuṉittaṉai         1
+ muttaṉai           1
+ taṇantaṉai         1
+ maṇantaṉai         1
+ nayantaṉai         1
+ civantaṉai         1
+ ciṟantaṉai         1
+ purintaṉai         1
+ moḻintaṉai         1
+ aṟintaṉai          2
+ puṇarntaṉai        1
+ amarntaṉai         2
+ tavirntaṉai        1
+ naṉai              3
+ paṉai              4
+ uraippaṉai         1
+ cērppaṉai          3
+ mārpaṉai           1
+ veṟpaṉai           1
+ maṉai             12
+ āyaṉai             2
+ aiyaṉai            1
+ pulaiyaṉai         2
+ peyaraṉai          1
+ avaṉai            12
+ aḻuntātavaṉai      1
+ ilavaṉai           1
  viruppuṟṟavaṉa     1
- āvaṉi             1
- ivaṉi             3
- aṟivaṉi           1
- potuvaṉi          4
- oruvaṉi           2
- talivaṉi         1
- kolivaṉi         1
- tuṟivaṉi         1
- putalvaṉi         7
- celvaṉi           1
- kaḷvaṉi           1
- koḷvaṉi           1
- aṅkaṇāḷaṉi        1
- ilāḷaṉi           1
- uṟṟaṉi            1
- nōṟṟaṉi           1
- ceṉṟaṉi           1
- akappaṭṭāṉi       1
- uṇṭāṉi            1
- koṇṭāṉi           1
- tāṉi              5
- oḷittāṉi          1
- citittāṉi        2
- nekiḻttāṉi        1
- vantāṉi           1
- ciṟantāṉi         1
- tuṟantāṉi         4
- varintāṉi        1
- pāyntāṉi          1
- ceytāṉi           1
- pārppāṉi          1
- māṉi              1
- yāṉi             21
- añcuvāṉi          1
- eṉṟāṉi            1
- koṉṟāṉi           1
- aṉṉāṉi            1
- iṉi               4
- arakkiṉi          1
- vilakkiṉi         1
- aṭukkiṉi          1
- nōkkiṉi           2
- mayaṅkiṉi         1
- muyaṅkiṉi         1
- vilaṅkiṉi         1
- alkiṉi            1
- ciṉi             19
- vīciṉi            1
- neñciṉi           2
- kāṭṭiṉi           2
- pārāṭṭiṉi         3
- tiṉi              2
- cāntiṉi           1
- varuntiṉi         3
- mintiṉi          1
- niṉi              2
- parappiṉi         1
- ōmpiṉi            1
- mārpiṉi           3
- aṉpiṉi            1
- āyiṉi             5
- aciyiṉi          1
- kuliyiṉi         1
- elliṉi            1
- colliṉi           1
- viṉi             29
- kaviṉi            1
- araviṉi           1
- naṟaviṉi          1
- kiviṉi           1
- āḷviṉi            1
- itaḻiṉi           1
- tukaḷiṉi          1
- aruḷiṉi           3
- paṟṟiṉi           1
- kaviṉiṉi          1
- cuṉi              8
- tuṉi              5
- nuṉi              2
- puṉi             25
- muṉi              2
- eṉi               1
- ēṉi               2
- cēṉi              1
- niṉṟēṉi           1
- aṉṉi             18
- taṉṉi             7
- iṉṉi              1
- niṉṉi            26
- puṉṉi             7
- muṉṉi             1
- eṉṉi             49
+ āvaṉai             1
+ ivaṉai             3
+ aṟivaṉai           1
+ potuvaṉai          4
+ oruvaṉai           2
+ talaivaṉai         1
+ kolaivaṉai         1
+ tuṟaivaṉai         1
+ putalvaṉai         7
+ celvaṉai           1
+ kaḷvaṉai           1
+ koḷvaṉai           1
+ aṅkaṇāḷaṉai        1
+ ilāḷaṉai           1
+ uṟṟaṉai            1
+ nōṟṟaṉai           1
+ ceṉṟaṉai           1
+ akappaṭṭāṉai       1
+ uṇṭāṉai            1
+ koṇṭāṉai           1
+ tāṉai              5
+ oḷittāṉai          1
+ citaittāṉai        2
+ nekiḻttāṉai        1
+ vantāṉai           1
+ ciṟantāṉai         1
+ tuṟantāṉai         4
+ varaintāṉai        1
+ pāyntāṉai          1
+ ceytāṉai           1
+ pārppāṉai          1
+ māṉai              1
+ yāṉai             21
+ añcuvāṉai          1
+ eṉṟāṉai            1
+ koṉṟāṉai           1
+ aṉṉāṉai            1
+ iṉai               4
+ arakkiṉai          1
+ vilakkiṉai         1
+ aṭukkiṉai          1
+ nōkkiṉai           2
+ mayaṅkiṉai         1
+ muyaṅkiṉai         1
+ vilaṅkiṉai         1
+ alkiṉai            1
+ ciṉai             19
+ vīciṉai            1
+ neñciṉai           2
+ kāṭṭiṉai           2
+ pārāṭṭiṉai         3
+ tiṉai              2
+ cāntiṉai           1
+ varuntiṉai         3
+ maintiṉai          1
+ niṉai              2
+ parappiṉai         1
+ ōmpiṉai            1
+ mārpiṉai           3
+ aṉpiṉai            1
+ āyiṉai             5
+ acaiyiṉai          1
+ kulaiyiṉai         1
+ elliṉai            1
+ colliṉai           1
+ viṉai             29
+ kaviṉai            1
+ araviṉai           1
+ naṟaviṉai          1
+ kaiviṉai           1
+ āḷviṉai            1
+ itaḻiṉai           1
+ tukaḷiṉai          1
+ aruḷiṉai           3
+ paṟṟiṉai           1
+ kaviṉiṉai          1
+ cuṉai              8
+ tuṉai              5
+ nuṉai              2
+ puṉai             25
+ muṉai              2
+ eṉai               1
+ ēṉai               2
+ cēṉai              1
+ niṉṟēṉai           1
+ aṉṉai             18
+ taṉṉai             7
+ iṉṉai              1
+ niṉṉai            26
+ puṉṉai             7
+ muṉṉai             1
+ eṉṉai             49
  ōo                10
  orōo               2
  ō                329
@@ -3917,7 +3917,7 @@
  pukkīmō            2
  paṭṭīmō            1
  kāṭṭīmō            3
- kaḷimō            1
+ kaḷaimō            1
  arō                7
  kāṇīrō             1
  yāvō               1
@@ -4063,8 +4063,8 @@
  viyam              1
  eḷiyam             1
  aiyam              3
- uṭiyam            1
- viyam             1
+ uṭaiyam            1
+ vaiyam             1
  takaram            1
  maram             10
  koṭumaram          1
@@ -4108,7 +4108,7 @@
  ilavam             2
  taḷavam            1
  moḻikuvam          1
- amikuvam          1
+ amaikuvam          1
  cūḻkuvam           1
  paruvam            1
  uruvam             3
@@ -4173,7 +4173,7 @@
  cām                2
  kaṭām              2
  paṭṭām             1
- talippaṭṭām       1
+ talaippaṭṭām       1
  tām               30
  nām               39
  kāṇpām             2
@@ -4203,19 +4203,19 @@
  nakūum             2
  pukūum             2
  aṭūum              1
- kuṟipaṭūum        1
+ kuṟaipaṭūum        1
  viṭūum             3
  acāviṭūum          1
- aciviṭūum         1
+ acaiviṭūum         1
  vāyviṭūum          1
  toṭūum             1
- eṉiyatūum         2
+ eṉaiyatūum         2
  iṉṉatūum           1
  tiritarūum         2
  iḻitarūum          1
  eḻutarūum          1
  parattarūum        1
- alittarūum        3
+ alaittarūum        3
  paṭartarūum        1
  varūum             3
  tuṉṉarūum          1
@@ -4278,17 +4278,17 @@
  koṭukkum           4
  toṭukkum           1
  irukkum            1
- iḻittirukkum      1
- niṉintirukkum     1
+ iḻaittirukkum      1
+ niṉaintirukkum     1
  niṟukkum           1
  ūkkum              2
  tūkkum             1
- icikkum           2
- citikkum          1
- urikkum           3
- alikkum           2
- uṟikkum           3
- naṉikkum          1
+ icaikkum           2
+ citaikkum          1
+ uraikkum           3
+ alaikkum           2
+ uṟaikkum           3
+ naṉaikkum          1
  okkum              5
  nōkkum             6
  pōkkum             1
@@ -4329,15 +4329,15 @@
  iṟañcum            1
  tuñcum             5
  eñcum              3
- iṟiñcum           1
+ iṟaiñcum           1
  aṭum               1
  kaṭum             31
  paṭum              3
- talippaṭum        1
+ talaippaṭum        1
  āṭum              18
  nāṭum              2
  pāṭum              6
- viḷiyāṭum         2
+ viḷaiyāṭum         2
  vāṭum              3
  iṭum               1
  viṭum              3
@@ -4395,14 +4395,14 @@
  ceyum              1
  tēyum              3
  mēyum              2
- uṭiyum            1
- amiyum            5
- iyiyum            1
- puriyum           2
- niliyum           3
- uṟiyum            2
- iṉiyum            5
- niṉiyum           2
+ uṭaiyum            1
+ amaiyum            5
+ iyaiyum            1
+ puraiyum           2
+ nilaiyum           3
+ uṟaiyum            2
+ iṉaiyum            5
+ niṉaiyum           2
  tōyum              1
  uyyum              2
  ceyyum            20
@@ -4423,9 +4423,9 @@
  eḻutarum           1
  pōtarum            1
  aḻittarum          1
- alittarum         1
- uṟittarum         1
- naṉittarum        1
+ alaittarum         1
+ uṟaittarum         1
+ naṉaittarum        1
  tikaḻtarum         1
  piṟaḻtarum         1
  alamarum           3
@@ -4471,7 +4471,7 @@
  koḷḷavum           1
  ucāvum             3
  tuḻāvum            1
- vuvum             2
+ vauvum             2
  aḻum               1
  kamaḻum            5
  piṟaḻum            1
@@ -4489,7 +4489,7 @@
  uḷḷum              2
  eḷḷum              2
  koḷḷum            12
- iṟikoḷḷum         2
+ iṟaikoḷḷum         2
  etirkoḷḷum         2
  aṟum               2
  naṟum             18
@@ -4511,10 +4511,10 @@
  cēṟum              1
  tēṟum              1
  toṟum              3
- kaṉitoṟum         1
+ kaṉaitoṟum         1
  peyartoṟum         1
  tōṟum              3
- kippaṟṟum         1
+ kaippaṟṟum         1
  araṟṟum            3
  tuvaṟṟum           1
  āṟṟum              4
@@ -4531,7 +4531,7 @@
  nakiṉum            1
  pukiṉum            1
  nōkkiṉum           1
- ariciṉum          2
+ araiciṉum          2
  nīṭiṉum            1
  cuṭiṉum            1
  vēṇṭiṉum           1
@@ -4544,9 +4544,9 @@
  piṟappiṉum         3
  maruppiṉum         1
  iruppiṉum          1
- tiḷippiṉum        1
- maṟippiṉum        1
- niṉippiṉum        1
+ tiḷaippiṉum        1
+ maṟaippiṉum        1
+ niṉaippiṉum        1
  oppiṉum            1
  narampiṉum         1
  vicumpiṉum         1
@@ -4561,8 +4561,8 @@
  aṟiyiṉum           6
  tīyiṉum            1
  ceyiṉum            1
- kaṇiyiṉum         1
- maliyiṉum         1
+ kaṇaiyiṉum         1
+ malaiyiṉum         1
  ceyyiṉum           1
  variṉum            2
  avariṉum           1
@@ -4608,8 +4608,8 @@
  pāṇiyēm            1
  āyttiyēm           1
  teḷḷiyēm           1
- uṭiyēm            1
- kōtiyēm           1
+ uṭaiyēm            1
+ kōtaiyēm           1
  poyyēm             1
  yārēm              2
  ilēm               2
@@ -4630,7 +4630,7 @@
  tēṟṟēm             1
  neñciṉēm           1
  oṉṟiṉēm            1
- pim               4
+ paim               4
  pōm                1
  etirpōm            1
  peym               1
@@ -4663,7 +4663,7 @@
  maṭāy              1
  viṭāy              1
  paṭṭāy             2
- kippaṭukkappa     2
+ kaippaṭukkappa     2
  kāṭṭāy             1
  vāṭṭāy             1
  vēṭṭāy             1
@@ -4684,7 +4684,7 @@
  matittāy           1
  maṟappittāy        1
  kuṟittāy           1
- kavalittāy        1
+ kavalaittāy        1
  ayarttāy           1
  ikattantāy         1
  vantīttantāy       1
@@ -4693,7 +4693,7 @@
  vantāy             4
  paṇintāy           1
  iruntāy            1
- puṉintāy          1
+ puṉaintāy          1
  ūrntāy             3
  tāḻntāy            1
  ceytāy             3
@@ -4703,7 +4703,7 @@
  iṟappāy            1
  tuṟappāy           4
  iruppāy            1
- kāṇṭippāy         2
+ kāṇṭaippāy         2
  mēyppāy            1
  poyppāy            1
  tarukiṟpāy         1
@@ -4717,18 +4717,18 @@
  kāṭṭīyāy           1
  kaṇṭīyāy           1
  vantīyāy           1
- uḷintīyāy         1
+ uḷaintīyāy         1
  uṇarntīyāy         1
  pullīyāy           1
  mēyāy              1
- tuṇaṅkiyāy        1
- eṇkiyāy           1
- iliyāy            1
- muliyāy           1
- kūḻiyāy           1
- makaḷiyāy         1
- maṉiyāy           1
- yāṉiyāy           1
+ tuṇaṅkaiyāy        1
+ eṇkaiyāy           1
+ ilaiyāy            1
+ mulaiyāy           1
+ kūḻaiyāy           1
+ makaḷaiyāy         1
+ maṉaiyāy           1
+ yāṉaiyāy           1
  eyyāy              2
  ceyyāy             1
  uṇarāy             3
@@ -4739,7 +4739,7 @@
  urāy               1
  kūntalāy           2
  cāyalāy            1
- tiyalāy           2
+ taiyalāy           2
  muṟuvalāy          4
  alkulāy            1
  mēlāy              1
@@ -4754,20 +4754,20 @@
  vāy               56
  ikavāy             1
  utavāy             1
- tuṟiyavāy         1
+ tuṟaiyavāy         1
  makaravāy          1
  moḻivāy            1
  naḷivāy            1
  kēṭṭīvāy           1
  vēṭṭīvāy           1
  ukuttīvāy          1
- alittīvāy         1
+ alaittīvāy         1
  iṟantīvāy          2
- kaḷintīvāy        1
+ kaḷaintīvāy        1
  mayakkuppaṭuku     1
  pōkuvāy            1
  vilakkuvāy         1
- talippaṭuvāy      1
+ talaippaṭuvāy      1
  viṭuvāy            4
  pārāṭṭuvāy         2
  taruvāy            1
@@ -4857,7 +4857,7 @@
  pāṅkar             2
  poṅkar             1
  añar               9
- kaḷiñar           2
+ kaḷaiñar           2
  aṭar               3
  paṭar             18
  viṭar              4
@@ -4881,7 +4881,7 @@
  akattar            1
  māntar             2
  vēntar             1
- mintar            5
+ maintar            5
  tuṟakkunar         1
  teḷikkunar         1
  iyaṅkunar          1
@@ -4890,13 +4890,13 @@
  vāṭṭunar           1
  kāṇunar            1
  uḷampunar          1
- aṟiyunar          1
- tuṉiyunar         1
+ aṟaiyunar          1
+ tuṉaiyunar         1
  vīḻunar            1
  tuḷḷunar           1
  kūṟunar            1
  peṟunar            1
- kaḷinar           1
+ kaḷainar           1
  vāḻnar             1
  kāṇpar             1
  poṟuppar           1
@@ -4933,17 +4933,17 @@
  tuyar             24
  peyar              5
  aiyar              2
- uvakiyar          1
- uṭiyar            2
- kavaṇiyar         1
- kōtiyar           1
- pittiyar          1
- puliyar           1
- uḻiyar            1
- ēḻiyar            1
- tāṉiyar           1
- yāṉiyar           1
- iṉiyar            1
+ uvakaiyar          1
+ uṭaiyar            2
+ kavaṇaiyar         1
+ kōtaiyar           1
+ pittaiyar          1
+ pulaiyar           1
+ uḻaiyar            1
+ ēḻaiyar            1
+ tāṉaiyar           1
+ yāṉaiyar           1
+ iṉaiyar            1
  amarar             2
  alar              33
  tīṇṭalar           1
@@ -4971,7 +4971,7 @@
  paratavar          1
  añcātavar          1
  taḷarātavar        2
- urikallātavar     1
+ uraikallātavar     1
  illātavar          1
  aruḷātavar         1
  āṟṟātavar          1
@@ -4991,8 +4991,8 @@
  ceytavar           2
  aṟipavar           1
  varupavar          2
- nuḻipavar         1
- uṟipavar          3
+ nuḻaipavar         1
+ uṟaipavar          3
  uṇpavar            2
  pulappavar         1
  uṭuppavar          1
@@ -5004,11 +5004,11 @@
  koḷpavar           3
  aṇiyavar           1
  taṉiyavar          1
- takiyavar         1
- miciyavar         1
- uṭiyavar          1
- vaḷiyavar         1
- iḷiyavar          3
+ takaiyavar         1
+ micaiyavar         1
+ uṭaiyavar          1
+ vaḷaiyavar         1
+ iḷaiyavar          3
  ūravar             3
  vaṇṭalavar         1
  ētilavar           1
@@ -5036,7 +5036,7 @@
  aṇikuvar           1
  pirikuvar          1
  varukuvar          2
- uṟikuvar          1
+ uṟaikuvar          1
  añcuvar            1
  kāṭṭuvar           1
  vēṭṭuvar           1
@@ -5049,9 +5049,9 @@
  nīvuvar            1
  nūṟṟuvar           2
  aivar              2
- valivar           1
- kolivar           1
- viṉivar           2
+ valaivar           1
+ kolaivar           1
+ viṉaivar           2
  ayarvar            3
  tevvar             1
  kaḷvar             1
@@ -5059,7 +5059,7 @@
  kēḷvar             2
  taḷar              4
  vaḷar              7
- uṭiyāḷar          1
+ uṭaiyāḷar          1
  kōḷāḷar            1
  kiḷar              7
  uḷar               9
@@ -5072,14 +5072,14 @@
  kuṟittaṉar         1
  vantīttaṉar        1
  pukuttaṉar         3
- urittaṉar         3
+ uraittaṉar         3
  ottaṉar            1
  vantaṉar           2
- varintaṉar        1
- malintaṉar        1
+ varaintaṉar        1
+ malaintaṉar        1
  pāyntaṉar          1
- virivaṉar         1
- aṟivaṉar          1
+ viraivaṉar         1
+ aṟaivaṉar          1
  ēṟṟaṉar            1
  nōṟṟaṉar           1
  koṉṟaṉar           1
@@ -5091,8 +5091,8 @@
  pēṇiṉar            1
  kātiṉar            1
  taḻīiyiṉar         1
- tiiyiṉar          1
- viyiṉar           1
+ taiiyiṉar          1
+ vaiyiṉar           1
  pōyiṉar            1
  kaṭaviṉar          1
  māviṉar            1
@@ -5111,7 +5111,7 @@
  cār                5
  añcār              1
  paṭṭār             1
- valippaṭṭār       1
+ valaippaṭṭār       1
  kēṭṭār             1
  tōṭṭār             1
  kaṇṭār             5
@@ -5132,7 +5132,7 @@
  poṟātār            1
  oṉṉātār            1
  āyattār            3
- aviyattār         1
+ avaiyattār         1
  pulattār           1
  peṟṟattār          1
  kōviṉattār         1
@@ -5149,8 +5149,8 @@
  nekiḻttār          1
  tantār             2
  pukutantār         2
- iyitantār         1
- tuṉitantār        1
+ iyaitantār         1
+ tuṉaitantār        1
  ēytantār           1
  nayantār           1
  vantār             2
@@ -5217,15 +5217,15 @@
  aṟiyār             1
  āṟṟiyār            1
  cēyār              1
- takiyār           1
- uṭiyār            1
- tuṇiyār           1
- pētiyār           1
- kōtiyār           1
- amiyār            3
- uriyār            1
- piḻiyār           2
- iḷiyār            1
+ takaiyār           1
+ uṭaiyār            1
+ tuṇaiyār           1
+ pētaiyār           1
+ kōtaiyār           1
+ amaiyār            3
+ uraiyār            1
+ piḻaiyār           2
+ iḷaiyār            1
  veyyār             1
  noyyār             1
  poyyār             1
@@ -5258,7 +5258,7 @@
  tāvār              1
  terivār            1
  aṟivār             1
- urittīvār         1
+ uraittīvār         1
  kaṭintīvār         1
  nontīvār           1
  nakuvār            1
@@ -5272,9 +5272,9 @@
  māṟuvār            1
  cāṟṟuvār           1
  mēvār              2
- kaḷivār           1
- niṉivār           1
- puṉivār           1
+ kaḷaivār           1
+ niṉaivār           1
+ puṉaivār           1
  nōvār              1
  celvār             2
  pōlvār             1
@@ -5395,15 +5395,15 @@
  vēṭṭōr             1
  yāṇṭōr             1
  aḻintōr            1
- amintōr           1
+ amaintōr           1
  pōr               23
- naciiyōr          1
+ nacaiiyōr          1
  mayaṅkiyōr         1
  ciṟukuṭiyōr        1
  toṭiyōr            1
  muraṇiyōr          1
  aruntiyōr          1
- puriyōr           1
+ puraiyōr           1
  kātalōr            2
  illōr              1
  putuvōr            1
@@ -5433,11 +5433,11 @@
  ikal               8
  mikal              1
  pukal              7
- vikal             9
+ vaikal             9
  tokal              1
  naṭakkal           1
  eṭukkal            1
- niṟikkal          1
+ niṟaikkal          1
  nōkkal             1
  mōkkal             1
  maṭaṅkal           4
@@ -5501,9 +5501,9 @@
  naṭuṅkutal         1
  paṭutal            2
  eṉappaṭutal        1
- iṭippaṭutal       1
+ iṭaippaṭutal       1
  viṭutal            1
- kiviṭutal         1
+ kaiviṭutal         1
  cuṭutal            2
  ūṭutal             1
  kūṭutal            2
@@ -5528,26 +5528,26 @@
  āṟṟutal            1
  pōṟṟutal           1
  tuṉṉutal           1
- pital             7
- varital           1
- tolital           1
- uṟital            1
+ paital             7
+ varaital           1
+ tolaital           1
+ uṟaital            1
  nōtal              1
  pōtal              1
- tuṟipōtal         1
+ tuṟaipōtal         1
  uḻattal            1
  tuṟattal           1
  piṇittal           1
- iṉivittal         1
+ iṉaivittal         1
  aḷittal            2
  nīttal             2
  cekuttal           1
  iruttal            1
  oruttal            2
  poṟuttal           1
- takittal          1
- citittal          1
- urittal           1
+ takaittal          1
+ citaittal          1
+ uraittal           1
  uṇarttal           1
  peyarttal          2
  uyirttal           1
@@ -5582,12 +5582,12 @@
  āmpal              3
  kūmpal             1
  amal               2
- iṭippaṭāamal      1
+ iṭaippaṭāamal      1
  peṟāamal           1
  pōkāmal            1
  kāṇāmal            1
  varuntāmal         1
- niyāmal           1
+ naiyāmal           1
  tīrāmal            1
  teruḷāmal          1
  kūṟāmal            1
@@ -5609,11 +5609,11 @@
  muyal              1
  ceyal              8
  peyal             15
- piṇiyal           1
- miyal             3
- viriyal           1
- uriyal            2
- iṉiyal            1
+ piṇaiyal           1
+ maiyal             3
+ viraiyal           1
+ uraiyal            2
+ iṉaiyal            1
  koyal              1
  tōyal              1
  toyyal             1
@@ -5664,8 +5664,8 @@
  pūval              1
  ēval               3
  cēval              1
- muval             2
- vuval             1
+ mauval             2
+ vauval             1
  celval             1
  pōlval             2
  cūḻval             2
@@ -5750,30 +5750,30 @@
  kēḷviyāl           1
  nāḻiyāl            1
  muyāl              1
- kiyāl             1
- takiyāl           1
- vakiyāl           1
- matukiyāl         1
- ulakkiyāl         1
- vēṭkiyāl          1
- vāṭiyāl           1
- kōṭiyāl           1
- āṇiyāl            1
- tiyāl             3
- kōtiyāl           1
- iṭumpiyāl         2
- uṭimiyāl         1
- aṇmiyāl           1
- vemmiyāl          1
- pacaliyāl         2
- payaliyāl         1
- kavaliyāl         1
- ulaviyāl          1
- varuviyāl         1
+ kaiyāl             1
+ takaiyāl           1
+ vakaiyāl           1
+ matukaiyāl         1
+ ulakkaiyāl         1
+ vēṭkaiyāl          1
+ vāṭaiyāl           1
+ kōṭaiyāl           1
+ āṇaiyāl            1
+ taiyāl             3
+ kōtaiyāl           1
+ iṭumpaiyāl         2
+ uṭaimaiyāl         1
+ aṇmaiyāl           1
+ vemmaiyāl          1
+ pacalaiyāl         2
+ payalaiyāl         1
+ kavalaiyāl         1
+ ulavaiyāl          1
+ varuvaiyāl         1
  ciṟakarāl          1
  tuyarāl            2
  peyarāl            1
- viṉivarāl         1
+ viṉaivarāl         1
  iṟattirāl          1
  nīrāl              3
  kurāl              2
@@ -5808,10 +5808,10 @@
  puṇarppiṉāl        1
  aṉpiṉāl            1
  tīyiṉāl            1
- takiyiṉāl         1
- vakiyiṉāl         1
- taliyiṉāl         1
- muṟiyiṉāl         1
+ takaiyiṉāl         1
+ vakaiyiṉāl         1
+ talaiyiṉāl         1
+ muṟaiyiṉāl         1
  poyyiṉāl           1
  kaṉaviṉāl          4
  naṉaviṉāl          2
@@ -5846,8 +5846,8 @@
  nil                3
  kāppil             1
  maruppil           1
- varippil          1
- tirippil          1
+ varaippil          1
+ tiraippil          1
  cilampil           1
  vicumpil           2
  mārpil            13
@@ -5863,15 +5863,15 @@
  eyil               4
  veyil              2
  mūveyil            1
- kiyil             2
- kavaṇiyil         1
- tiyil             1
- vāymiyil          1
- maṟiyil           1
+ kaiyil             2
+ kavaṇaiyil         1
+ taiyil             1
+ vāymaiyil          1
+ maṟaiyil           1
  kōyil              1
  toyyil            12
  aril               1
- vikalil           1
+ vaikalil           1
  ītalil             1
  vil                6
  iravil             1
@@ -5964,8 +5964,8 @@
  makaḷ             16
  tukaḷ              7
  tēṟukaḷ            1
- koṭumikaḷ         1
- viṉikaḷ           1
+ koṭumaikaḷ         1
+ viṉaikaḷ           1
  makkaḷ             3
  kuṟumakkaḷ         1
  kalaṅkaḷ           1
@@ -5988,18 +5988,18 @@
  kāntaḷ             5
  alaṅkāntaḷ         1
  naḷ                2
- niṉiyunaḷ         1
+ niṉaiyunaḷ         1
  aṇiyaḷ             1
  ariyaḷ             1
  vaḻiyaḷ            1
  aḷiyaḷ             1
- takiyaḷ           1
- perumiyaḷ         1
- pacaliyaḷ         1
- niliyaḷ           1
- vaḷiyaḷ           1
- aṉiyaḷ            4
- iṉiyaḷ            2
+ takaiyaḷ           1
+ perumaiyaḷ         1
+ pacalaiyaḷ         1
+ nilaiyaḷ           1
+ vaḷaiyaḷ           1
+ aṉaiyaḷ            4
+ iṉaiyaḷ            2
  tiraḷ              2
  tuyilalaḷ          1
  ilaḷ               8
@@ -6019,7 +6019,7 @@
  aḻipavaḷ           1
  nakupavaḷ          2
  varupavaḷ          1
- iṉipavaḷ          2
+ iṉaipavaḷ          2
  uṇpavaḷ            1
  uḻappavaḷ          1
  eṭuppavaḷ          1
@@ -6027,8 +6027,8 @@
  kaluḻpavaḷ         1
  māyavaḷ            2
  kāṭṭiyavaḷ         1
- takiyavaḷ         1
- iṉiyavaḷ          1
+ takaiyavaḷ         1
+ iṉaiyavaḷ          1
  ceyyavaḷ           1
  īṉṟavaḷ            2
  ivaḷ              53
@@ -6051,15 +6051,15 @@
  aṟintaṉaḷ          1
  cōrntaṉaḷ          1
  nekiḻntaṉaḷ        1
- niṉivaṉaḷ         1
+ niṉaivaṉaḷ         1
  ceṉṟaṉaḷ           1
- matiiṉaḷ          1
+ mataiiṉaḷ          1
  uyaṅkiṉaḷ          1
  muyaṅkiṉaḷ         1
  iraṅkiṉaḷ          1
  naṭuṅkiṉaḷ         1
  ēṅkiṉaḷ            1
- iṟiñciṉaḷ         1
+ iṟaiñciṉaḷ         1
  cumaṭṭiṉaḷ         1
  muttiṉaḷ           1
  varuntiṉaḷ         1
@@ -6084,8 +6084,8 @@
  maṟattāḷ           1
  muṭittāḷ           1
  keṭuttāḷ           1
- urittāḷ           1
- maṟittāḷ          5
+ uraittāḷ           1
+ maṟaittāḷ          5
  vāyttāḷ            2
  ikantāḷ            1
  tantāḷ             2
@@ -6100,13 +6100,13 @@
  ceytāḷ             3
  nāḷ               39
  naṭunāḷ            3
- niṉippāḷ          1
+ niṉaippāḷ          1
  ōṭaṟpāḷ            1
  kūrkiṟpāḷ          2
  eṉpāḷ              1
  uṟīiyāḷ            1
- naciiyāḷ          1
- muṉiiyāḷ          1
+ nacaiiyāḷ          1
+ muṉaiiyāḷ          1
  kalaṅkiyāḷ         1
  nalkiyāḷ           1
  nantiyāḷ           3
@@ -6118,13 +6118,13 @@
  tēṟiyāḷ            1
  iyaṟṟiyāḷ          1
  uṟṟīyāḷ            1
- muṉkiyāḷ          1
- kōtiyāḷ           1
+ muṉkaiyāḷ          1
+ kōtaiyāḷ           1
  ceyyāḷ             2
  mātarāḷ            1
  kūntalāḷ           3
  cāyalāḷ            1
- tiyalāḷ           1
+ taiyalāḷ           1
  muṟuvalāḷ          3
  aimpālāḷ           1
  ētilāḷ             1
@@ -6140,7 +6140,7 @@
  āṭuvāḷ             2
  taruvāḷ            3
  varuvāḷ            1
- amivāḷ            2
+ amaivāḷ            2
  ōvāḷ               1
  vāḻvāḷ             2
  vāḻāḷ              3
@@ -6173,7 +6173,7 @@
  kaṇṇuḷ             1
  puḷ               12
  muḷ                8
- piyuḷ             2
+ paiyuḷ             2
  aruḷ              16
  maruḷ             18
  iruḷ              31
@@ -6224,7 +6224,7 @@
  taṇantataṉ         1
  ceytataṉ           1
  pataṉ              1
- kulippataṉ        3
+ kulaippataṉ        3
  mataṉ              1
  māṟiyataṉ          1
  eṉṟataṉ            1
@@ -6250,10 +6250,10 @@
  uriyaṉ             3
  viyaṉ              9
  iṉiyaṉ             1
- kiyaṉ             1
- uvakiyaṉ          1
- uṭiyaṉ            6
- puliyaṉ           1
+ kaiyaṉ             1
+ uvakaiyaṉ          1
+ uṭaiyaṉ            6
+ pulaiyaṉ           1
  veyyaṉ             2
  maraṉ              3
  uraṉ               3
@@ -6293,7 +6293,7 @@
  uyarntavaṉ         1
  mutirntavaṉ        1
  varupavaṉ          1
- varipavaṉ         1
+ varaipavaṉ         1
  karappavaṉ         1
  irappavaṉ          1
  uḻappavaṉ          1
@@ -6310,9 +6310,9 @@
  poruntiyavaṉ       1
  vaṟiyavaṉ          1
  ciṟiyavaṉ          1
- kiyavaṉ           1
- kuḻiyavaṉ         1
- koṉṟiyavaṉ        1
+ kaiyavaṉ           1
+ kuḻaiyavaṉ         1
+ koṉṟaiyavaṉ        1
  alavaṉ             3
  kātalavaṉ          1
  vallavaṉ           3
@@ -6329,14 +6329,14 @@
  tuṟakkuvaṉ         3
  nōkkuvaṉ           1
  kaṭuvaṉ            1
- talippaṭuvaṉ      1
+ talaippaṭuvaṉ      1
  vātuvaṉ            2
  potuvaṉ            7
  maruttuvaṉ         1
  oruvaṉ            14
  evaṉ              46
- kolivaṉ           1
- tuṟivaṉ           1
+ kolaivaṉ           1
+ tuṟaivaṉ           1
  putalvaṉ           2
  mutalvaṉ           2
  celvaṉ             4
@@ -6364,8 +6364,8 @@
  tuṟantaṉaṉ         1
  oḻintaṉaṉ          1
  iruntaṉaṉ          1
- varintaṉaṉ        1
- kaḷintaṉaṉ        1
+ varaintaṉaṉ        1
+ kaḷaintaṉaṉ        1
  mōntaṉaṉ           1
  peyarntaṉaṉ        1
  tavirntaṉaṉ        1
@@ -6381,7 +6381,7 @@
  cāntiṉaṉ           1
  viṉāyiṉaṉ          1
  mēviṉaṉ            1
- vuviṉaṉ           1
+ vauviṉaṉ           1
  paṟṟiṉaṉ           1
  tōṉṟiṉaṉ           2
  maṉṉaṉ             1
@@ -6427,10 +6427,10 @@
  nīttāṉ             2
  aṟuttāṉ            1
  niṟuttāṉ           1
- paṭittāṉ          1
- citittāṉ          2
- vittāṉ            1
- eṉittāṉ           1
+ paṭaittāṉ          1
+ citaittāṉ          2
+ vaittāṉ            1
+ eṉaittāṉ           1
  vāyttāṉ            1
  poyttāṉ            2
  ñekiḻttāṉ          2
@@ -6461,8 +6461,8 @@
  aḷippāṉ            2
  teḷippāṉ           1
  oḷippāṉ            1
- citippāṉ          1
- nuḻippāṉ          1
+ citaippāṉ          1
+ nuḻaippāṉ          1
  uṇarppāṉ           1
  peyarppāṉ          2
  pārppāṉ            2
@@ -6471,7 +6471,7 @@
  eṉpāṉ              2
  māṉ               24
  perumāṉ            3
- varuṭimāṉ         1
+ varuṭaimāṉ         1
  kōmāṉ              1
  yāṉ              120
  uṟīiyāṉ            2
@@ -6488,19 +6488,19 @@
  aṟiyāṉ             1
  mēṉiyāṉ            1
  vantīyāṉ           3
- vēṭkiyāṉ          2
- āṭiyāṉ            1
- uṭiyāṉ            1
- maṭamiyāṉ         1
- vaḷamiyāṉ         2
- iḷamiyāṉ          2
- imiyāṉ            1
- vaṇmiyāṉ          1
- cummiyāṉ          1
- iṉmiyāṉ           1
- ātiriyāṉ          1
- toliyāṉ           1
- ēṉiyāṉ            1
+ vēṭkaiyāṉ          2
+ āṭaiyāṉ            1
+ uṭaiyāṉ            1
+ maṭamaiyāṉ         1
+ vaḷamaiyāṉ         2
+ iḷamaiyāṉ          2
+ imaiyāṉ            1
+ vaṇmaiyāṉ          1
+ cummaiyāṉ          1
+ iṉmaiyāṉ           1
+ ātiraiyāṉ          1
+ tolaiyāṉ           1
+ ēṉaiyāṉ            1
  ceyyāṉ             1
  poyyāṉ             1
  cārāṉ              1
@@ -6509,7 +6509,7 @@
  akalāṉ             1
  arukalāṉ           1
  oḻukalāṉ           2
- vikalāṉ           1
+ vaikalāṉ           1
  ākutalāṉ           1
  teṟutalāṉ          1
  teriyalāṉ          1
@@ -6524,21 +6524,21 @@
  cevvēlāṉ           1
  kōlāṉ              1
  allāṉ              2
- urikkallāṉ        1
+ uraikkallāṉ        1
  vallāṉ             4
  illāṉ              6
  vāṉ               13
  paṇivāṉ            1
  tirukuvāṉ          1
  urukuvāṉ           1
- amikuvāṉ          3
+ amaikuvāṉ          3
  pōkuvāṉ            1
  vilakkuvāṉ         1
  nīkkuvāṉ           1
  aṭaṅkuvāṉ          1
  vāṅkuvāṉ           1
  paṭuvāṉ            1
- viḷiyāṭuvāṉ       1
+ viḷaiyāṭuvāṉ       1
  iṭuvāṉ             1
  aṟuttiṭuvāṉ        1
  viṭuvāṉ            3
@@ -6546,7 +6546,7 @@
  mīḷtaruvāṉ         1
  varuvāṉ            1
  iyaṟṟuvāṉ          1
- amivāṉ            2
+ amaivāṉ            2
  ōvāṉ               1
  ceyvāṉ             2
  ūrvāṉ              1
@@ -6568,7 +6568,7 @@
  arukkiṉāṉ          1
  poḻutiṉāṉ          8
  varuttiṉāṉ         1
- mintiṉāṉ          1
+ maintiṉāṉ          1
  pōḻtiṉāṉ           2
  paṇpiṉāṉ           1
  maruppiṉāṉ         1
@@ -6580,13 +6580,13 @@
  naṉaviṉāṉ          2
  ceṟiviṉāṉ          1
  vaṭuviṉāṉ          1
- aciviṉāṉ          1
+ acaiviṉāṉ          1
  aṉṉāṉ              3
  tuṉṉāṉ             1
  eṉṉāṉ              1
  iṉ                36
- takimiiṉ         2
- pakimiiṉ         2
+ takaimaiiṉ         2
+ pakaimaiiṉ         2
  vaḷakiṉ            1
  ākiṉ               1
  pukiṉ              2
@@ -6669,9 +6669,9 @@
  oṟuppiṉ            1
  ceppiṉ             1
  cēppiṉ             1
- imippiṉ           1
- urippiṉ           2
- vippiṉ            1
+ imaippiṉ           1
+ uraippiṉ           2
+ vaippiṉ            1
  poyppiṉ            1
  ārppiṉ             1
  ōrppiṉ             1
@@ -6690,7 +6690,7 @@
  muṉpiṉ             6
  miṉ                5
  kēṭṭīmiṉ           4
- kaḷintīmiṉ        1
+ kaḷaintīmiṉ        1
  vicumiṉ            1
  ōmpumiṉ            1
  urumiṉ             2
@@ -6719,36 +6719,36 @@
  taḷiyiṉ            1
  vaḷiyiṉ            1
  aṟiyiṉ             1
- urittīyiṉ         1
+ uraittīyiṉ         1
  ceyiṉ              4
  peyiṉ              1
- talippeyiṉ        1
- kiyiṉ             7
- nakiyiṉ           1
- pakiyiṉ           1
- īkiyiṉ            1
- mukiyiṉ           1
- cēkkiyiṉ          1
- vēṭkiyiṉ          3
- iciyiṉ            1
- iṭiyiṉ            1
- puṭiyiṉ           1
- paṇṭiyiṉ          1
- kavaṇiyiṉ         1
- neruniyiṉ         1
- vakimiyiṉ        1
- kēṇmiyiṉ          1
- cemmiyiṉ          2
- taliyiṉ           1
- maḻaliyiṉ         1
- toliyiṉ           1
- paṟaviyiṉ         1
- kavviyiṉ          2
- uḻiyiṉ            1
- kaḷiyiṉ           1
- vaḷiyiṉ           1
- maṟiyiṉ           2
- yāṉiyiṉ           1
+ talaippeyiṉ        1
+ kaiyiṉ             7
+ nakaiyiṉ           1
+ pakaiyiṉ           1
+ īkaiyiṉ            1
+ mukaiyiṉ           1
+ cēkkaiyiṉ          1
+ vēṭkaiyiṉ          3
+ icaiyiṉ            1
+ iṭaiyiṉ            1
+ puṭaiyiṉ           1
+ paṇṭaiyiṉ          1
+ kavaṇaiyiṉ         1
+ nerunaiyiṉ         1
+ vakaimaiyiṉ        1
+ kēṇmaiyiṉ          1
+ cemmaiyiṉ          2
+ talaiyiṉ           1
+ maḻalaiyiṉ         1
+ tolaiyiṉ           1
+ paṟavaiyiṉ         1
+ kavvaiyiṉ          2
+ uḻaiyiṉ            1
+ kaḷaiyiṉ           1
+ vaḷaiyiṉ           1
+ maṟaiyiṉ           2
+ yāṉaiyiṉ           1
  nōyiṉ              1
  tariṉ              1
  nalitariṉ          1
@@ -6773,24 +6773,24 @@
  aṭaṅkaliṉ          1
  muyaṅkaliṉ         1
  pūcaliṉ            1
- aṟikōṭaliṉ        1
+ aṟaikōṭaliṉ        1
  etirkōṭaliṉ        1
  maṇaliṉ            1
  kātaliṉ            3
  coritaliṉ          1
  nalitaliṉ          1
  eṟitaliṉ           1
- kaṭikoḷappaṭu     1
+ kaṭaikoḷappaṭu     1
  viṭutaliṉ          2
  kaṇṇuṟutaliṉ       1
  teṟutaliṉ          4
- maṟitaliṉ         1
+ maṟaitaliṉ         1
  irattaliṉ          1
  tuṟattaliṉ         7
  aḷittaliṉ          2
  nīttaliṉ           1
  kuttaliṉ           1
- niṉittaliṉ        4
+ niṉaittaliṉ        4
  imirtaliṉ          1
  vāḻtaliṉ           1
  cilampaliṉ         1
@@ -6799,7 +6799,7 @@
  muyaliṉ            1
  mallaliṉ           1
  ciṉavaliṉ          1
- vuvaliṉ           3
+ vauvaliṉ           3
  koḷaliṉ            1
  kaḻaṟaliṉ          1
  kūṟaliṉ            1
@@ -6863,7 +6863,7 @@
  ivaṉiṉ             1
  vāṉiṉ              1
  aritiṉiṉ           1
- maṟiyiṉiṉ         1
+ maṟaiyiṉiṉ         1
  kūṉiṉ              1
  eṉiṉ               5
  tēṉiṉ              1
@@ -6886,10 +6886,10 @@
  valippeṉ           1
  tuṉippeṉ           1
  niṟuppeṉ           1
- maṟippeṉ          3
+ maṟaippeṉ          3
  karakkiṟpeṉ        1
  ūṭṭaleṉ            1
- amiyaleṉ          1
+ amaiyaleṉ          1
  pulleṉ             1
  veṉ                1
  niṟukkuveṉ         1
@@ -6900,7 +6900,7 @@
  kūṟuveṉ            1
  nōveṉ              1
  kaṇṭaṉeṉ           1
- takittaṉeṉ        1
+ takaittaṉeṉ        1
  varuntiṉeṉ         1
  aṟīiyiṉeṉ          1
  pulliṉeṉ           1
@@ -6923,10 +6923,10 @@
  uḷḷattēṉ           1
  muṭittēṉ           1
  oḷittēṉ            1
- kippaṭuttēṉ       1
+ kaippaṭuttēṉ       1
  toṭuttēṉ           1
  poṟuttēṉ           1
- piḻittēṉ          2
+ piḻaittēṉ          2
  kiṭantēṉ           1
  vantēṉ             1
  oḻintēṉ            1
@@ -6947,31 +6947,31 @@
  collātiruppēṉ      1
  ikaliyiruppēṉ      1
  aṟivuṟuppēṉ        1
- alippēṉ           1
- iṟippēṉ           1
+ alaippēṉ           1
+ iṟaippēṉ           1
  eṉpēṉ              3
  aṟiyēṉ             3
  tīyēṉ              1
  cēyēṉ              1
- uṭiyēṉ            7
- amiyēṉ            1
- maṟiyēṉ           1
- aṉiyēṉ            1
+ uṭaiyēṉ            7
+ amaiyēṉ            1
+ maṟaiyēṉ           1
+ aṉaiyēṉ            1
  uṇarēṉ             1
  taḷarēṉ            1
  alēṉ               1
  aṟikalēṉ           1
  muyaṅkalēṉ         1
- pitalēṉ           2
+ paitalēṉ           2
  nīyalēṉ            1
- amiyalēṉ          1
+ amaiyalēṉ          1
  vāḻalēṉ            1
  nōyppālēṉ          1
  ilēṉ               7
  iḻantilēṉ          1
  mēlēṉ              1
  aṟikallēṉ          2
- amikallēṉ         1
+ amaikallēṉ         1
  niṟukkallēṉ        1
  nallēṉ             1
  vallēṉ             3
@@ -7037,7 +7037,7 @@
  kaṇicciyōṉ         3
  neṭiyōṉ            1
  koṭiyōṉ            2
- pētiyōṉ           1
+ pētaiyōṉ           1
  kiḻavōṉ            1
  ciṟappiṉōṉ         2
  muṉpiṉōṉ           1

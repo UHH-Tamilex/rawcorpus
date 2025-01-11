@@ -1,12 +1,12 @@
 *input     references cocoa "<" to ">".
          { all text }
            comments between "(" to ")".
-*words     alphabet "a ï¿½ i ï¿½ u ï¿½ e ï¿½ ai o ï¿½ au ï¿½
-           k ï¿½ c ï¿½ ï¿½ ï¿½ t n p m y r l v ï¿½ ï¿½ ï¿½ ï¿½
+*words     alphabet "a à i ã u å e › ai o  au «
+           k ï c ¤ ñ õ t n p m y r l v © ë Ÿ ­
            0 1 2 3 4 5 6 7 8 9".
            padding "^ ~ * := + %".
            diacritics "- _ /".
-           punctuation "' ` \ . , :: ; :" ! ? ï¿½ ï¿½ { } & #".
+           punctuation "' ` \ . , :: ; :" ! ? ® ¯ { } & #".
 *action    {make an index}
          { pick all words }
            references print L = 6 right.

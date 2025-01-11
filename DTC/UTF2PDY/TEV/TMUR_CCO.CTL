@@ -1,8 +1,8 @@
 *input     references cocoa "|".
          { all text }
            comments between "<" to ">" and starting "&LI&".
-*words     alphabet "_ a ï¿½ i ï¿½ u ï¿½ e ï¿½ ai o ï¿½ au ï¿½
-           k ï¿½ c ï¿½ ï¿½ ï¿½ t n p m y r l v ï¿½ ï¿½ ï¿½ ï¿½".
+*words     alphabet "_ a à i ã u å e › ai o  au «
+           k ï c ¤ ñ õ t n p m y r l v © ë Ÿ ­".
            padding "# ^ ~ * % := + ( ) -".
            diacritics "@".
            punctuation "' ` / \ [ ] . , :: ; :" ! ?

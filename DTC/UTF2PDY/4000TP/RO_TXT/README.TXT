@@ -1,25 +1,25 @@
 sri:
 sri raamaanujaaya nama:
 
-The accompanying files contin the paasurams (poems)
+The accompanying files contain the paasurams (poems)
 called naalaayira dhivyap prabhandam composed by twelve
 great souls called aazhvaars.  The paasurams were collected
-and brought out by one of the much revered sri vishnavaa
+and brought out by one of the much revered sri vaishnavaa
 aachaaryaas called sriman naadhamuni.  By the time of
 sriman naadamuni (9th century A.D.) the aazhvaar
 paasurams were not lost or unknown.  It was by  divine
 fortune that sriman naadhamuni came to know of the
-thamizh poems prising Lord Vishnu.  It is believed that
+thamizh poems praising Lord Vishnu.  It is believed that
 sriman naadhamuni heard some devotees visiting his home
 town of veeranaaraayaNapuram (present day kaattu
-mannaarkudi near mayilaadurthuri) singing a few thamizh
+mannaarkudi near mayilaadurthurai) singing a few thamizh
 songs starting with "aaraa amudhE adiyEn udalam" and
 ending with 
 
 "... kurugoor sadagOpan
   kuzhalil maliyach sonna Or
     aayiratthuL ippatthum,
-  mazhali theera vallaar kaamar
+  mazhalai theera vallaar kaamar
     maanEy nOkkiyarkE."   (Thiruvaay mozhi 5.8.1 - 5.8.11)
 
 Sriman naadhamuni was enchanted with the exquisite
@@ -36,7 +36,7 @@ to travel from kaattumannarkudi to thiruk kurugoor, a long
 journey indeed in his time.  There he found one paraangusa
 daasar.  From him sriman naadhamuni learnt 11 more paasurams
 called kaNNinuN sirutthaambu.  These were composed by
-madhurakavi aazhvaar and all 11 paasurams are in prise
+madhurakavi aazhvaar and all 11 paasurams are in praise
 of kurugoor sadagOpan (namaazhvaar).  Sriman naadamuni was
 excited to have doubled his collection.  But this only
 whetted his desire to seek out the more than 1,000, promised
@@ -46,14 +46,14 @@ his home town.
 paraangusa daasar suggested that he repeatedly recite
 kaNNinuN sirutthaambu in the hope of pleasing the Lord.
 Sriman naadhamuni took his advice and recited it 10,000 times.
-It is sid that Namaazhvaar was impressed with sriman
+It is said that Namaazhvaar was impressed with sriman
 naadhamuni's persistence and appeared before him.
 Namaazhvaar was so impressed that he revealed to 
 sriman naadhamuni not just the 1102 paasurams of his own
 thiruvaay mozhi, but also all the rest of the paasurams
 composed by the other eleven aazhvaars.  From this we may
 deduce that it is sriman naadhamuni who gathered the thamizh
-verses prising Lord Vishnu composed by the twelve aazhvaars.
+verses praising Lord Vishnu composed by the twelve aazhvaars.
 Sriman naadhamuni called this collection of paasurams or
 prabhandams naalaayira dhivya prabhandam or draavida vEdham.
 
@@ -70,18 +70,18 @@ star (thiru nakshathiram) for each aazhvaar.
                          Thamizh      Thiru          Approximate
 aazhvaar                  month       nakshathiram   English month
 ------------------------------------------------------------------
-poigi aazhvaar           aippasi     thiruvONam     November
+poigai aazhvaar           aippasi     thiruvONam     November
 boothatthaazvaar          aippasi     avittam        November
 pEyaazhvaar               aippasi     sadhayam       November
-thirumazhisi aazhvaar    thi        magam          January
-namaazhvaar               vigaasi    visaagam       May
-madhurakavi aazhvaar      sitthiri   sitthiri      April
+thirumazhisai aazhvaar    thai        magam          January
+namaazhvaar               vaigaasi    visaagam       May
+madhurakavi aazhvaar      sitthirai   sitthirai      April
 kulasEkaraazhvaar         maasi       punarpoosam    March
 periaazhvaar              aani        svaathi        June
 sri aaNdaaL               aadi        pooram         Agust
-thoNdaradippodi aazhvaar  maargazhi   kEtti         December
-thiruppaaNaazhvaar        kaartthigi rOhiNi         November
-thirumangi aazhvaar      kaartthigi kritthigi     November
+thoNdaradippodi aazhvaar  maargazhi   kEttai         December
+thiruppaaNaazhvaar        kaartthigai rOhiNi         November
+thirumangai aazhvaar      kaartthigai kritthigai     November
 ------------------------------------------------------------------
 
 
@@ -90,21 +90,21 @@ more prabhandams. They are (1) iraamunasa
 nooRRandhaathi by thiruvarangatthu amudhanaar,  (2)
 prabhanda saaram by Swami Sri dEsikan and (3) thiruvaay
 mozhi nooRRaandhaathi by sri maNavaaLa maamunigaL. 
-iraamaanusa nooRRandhaathi is in prise of sri
+iraamaanusa nooRRandhaathi is in praise of sri
 raamaanujar.  Prabhandassaaram gives an account of each
 of the aazhvaars and the prabhandams credited to each of
 them.  Further, it gives a numerical accounting of all
 the prabhandams.  In this accounting, Swami Sri dEsikan
 includes iraamunusa nooRRandhaathi as part of the
 naalaayira dhivya prabhandam.   Thiruvaay mozhi
-nooRRandhaathi is exclusively in prise of
+nooRRandhaathi is exclusively in praise of
 namaazhvaar's thiruvaay mozhi.
 
 Another file included in this collection is aazvaar.txt.  This
-file contins some basic facts about each of the twelve
+file contains some basic facts about each of the twelve
 aazhvaars.
 
-The following two tables give detils about how the
+The following two tables give details about how the
 pasurams are organized into computer files. Table I lists the
 start and finish pasuram numbers for each of the 26
 prabhandhams.  These numbers are based on the accounting
@@ -116,14 +116,14 @@ The pasurams were entered into computer format by
 volunteers working in their free time using their computers
 and software.  Each volunteer followed one of the three
 popular thamizh transliteration formats they were familiar
-with.  These are Adami, Maduri, and ITRANS.  To avoid
+with.  These are Adami, Madurai, and ITRANS.  To avoid
 format discrepancy problems,  Sri K.Srinivasan, the author
 of Adami software, developed a software for viewing text
 entered in a variety of formats.  This software is called
 TAMILVU and it is bundled with this collection.  To avoid
 errors due to format differences please use only TAMILVU
 to review, select, save, and print pasurams.  For use with
-TAMILVU a file contining all the file names of this
+TAMILVU a file containing all the file names of this
 collection is also included.  This file is FLIST.TXT.
 
 In as much as this was a volunteer effort errors in typing is
@@ -131,8 +131,8 @@ bound to occur.  All the volunteers were diligent in
 correcting these mistakes as much as  possible.  However,
 if the users of this collection find any lingering
 typographical errors kindly inform Sri. P. Dileepan at the
-e-mil address MFPD@UTCVM.UTC.EDU or by regular
-mil at 1908 Preswood drive, Hixson, TN 37343, U.S.A.
+e-mail address MFPD@UTCVM.UTC.EDU or by regular
+mail at 1908 Preswood drive, Hixson, TN 37343, U.S.A.
 
 Thank you for using our collection.
 
@@ -150,11 +150,11 @@ ending serial number.
     Prabhandam                pasurams    Start    Finish
 ----------------------------------------------------------
 1.  Periyaazvaar thirumozhi      473         1      473
-2.  thiruppaavi                  30       474      503
+2.  thiruppaavai                  30       474      503
 3.  naacchiyaar thirumozhi       143       504      646
 4.  perumaaL thirumozhi          105       647      751
 5.  thirucchanda viruttham       120       752      871
-6.  thirumaali                   45       872      916
+6.  thirumaalai                   45       872      916
 7.  thiruppaLLiyezucchi           10       917      926
 8.  amalanaathipiraan             10       927      936
 9.  kaNNi nuNsirutthaambu         11       937      947
@@ -168,7 +168,7 @@ ending serial number.
 17. thiruviruttham               100     2,478    2,577
 18. thiruvaasiriyam                7     2,578    2,584
 19. periyathiruvanthaathi         87     2,585    2,671
-20. thiruvezukooRRirukki          1     2,672    2,672
+20. thiruvezukooRRirukkai          1     2,672    2,672
 21. siRiya thirumadal             40     2,673    2,712
 22. periya thirumadal             78     2,713    2,790
 23. thiruvaay mozhi            1,102     2,791    3,892
@@ -192,7 +192,7 @@ List of filenames and individual entering the pasurams:
    PERIAZH4.TXT                                           Badri
    PERIAZH5.TXT                                           Badri
 
-2. thiruppaavi
+2. thiruppaavai
    TPAVAI.TXT                      30     474        503  Srinivasan
 
 3. naacchiyaar thirumozhi         143     504        646  Vaidehi
@@ -204,7 +204,7 @@ List of filenames and individual entering the pasurams:
 5. thirucchanda viruttham         120     752        871  Varadhan
    TCVIRUTH.TXT
 
-6. thirumaali
+6. thirumaalai
    TMALAI.TXT                      45     872        916  Varadhan
 
 7. thiruppaLLiyezucchi
@@ -257,7 +257,7 @@ List of filenames and individual entering the pasurams:
    PERIANDA.TXT                     87    2,585     2,671  Kathiravan
 
 
-20. thiruvezukooRRirukki
+20. thiruvezukooRRirukkai
    VEZHUKOO.TXT                     1    2,672     2,672  Dileepan
 
 21. siRiya thirumadal              40    2,673     2,712  Satish
@@ -299,9 +299,9 @@ TAMIVU.EXE   Viewing software
 
 
 
-Participant                         E-mil address
+Participant                         E-mail address
 ---------------------------------------------------------------------
-Badri Seshadri                      badri@sofia.me.cornell.edu
+Badri Seshadri                      badri@sofia.mae.cornell.edu
 P. Dileepan                         mfpd@utcvm.utc.edu
 Ganesh Rajagopal                    rajagopa@iastate.edu
 Geetha Ramaswami                    G.P.Ramaswami@damtp.cambridge.ac.uk
@@ -317,6 +317,6 @@ C.R.Selvakumar                      Selvakum@sun14.vlsi.uwaterloo.ca
 K. Srinivasan                       Srini@ireq.hydro.qc.ca
 Rajendran Udayakumar                rajendra@scf.usc.edu
 Vaidehi Venkatakrishnan             vv@elm.circa.ufl.edu
-Thirumali Anandanpilli (Varadan)  Chari@iastate.edu
+Thirumalai Anandanpillai (Varadan)  Chari@iastate.edu
 T. Vijayaraghavan (Viji)            viji@coe.wvu.edu
 -----------------------------------------------------------------------

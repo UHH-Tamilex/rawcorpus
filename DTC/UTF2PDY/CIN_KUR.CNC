@@ -1,1913 +1,1913 @@
  
  
                                         a     2
-  119-1  ciï¿½u veï¿½ araviï¿½ a+ vari+ kuruï¿½ai
-   63-2  cey viï¿½ai kimmika eï¿½ï¿½uti a+ viï¿½aikku
+  119-1  ciŸu veë aravi­ a+ vari+ kuruëai
+   63-2  cey vi­ai kaimmika eõõuti a+ vi­aikku
  
-                                       aï¿½tu     1
-   93-4  pulavi aï¿½tu evaï¿½ ï¿½ aï¿½pu ilam kaï¿½ai ï¿½
+                                       a«tu     1
+   93-4  pulavi a«tu eva­  a­pu ilam kañai ›
  
                                       akattu     1
-   42-3  viï¿½ar akattu iyampum nï¿½ï¿½a em
+   42-3  viñar akattu iyampum nàña em
  
                                        akam     1
-  137-1  mel iyal arivi niï¿½ nal akam pulampa
+  137-1  mel iyal arivai ni­ nal akam pulampa
  
                                        akal     2
-   44-3  akal iru vicumpiï¿½ mï¿½iï¿½ um
-  124-1  umaï¿½ar cï¿½rntu kaï¿½inta maruï¿½kiï¿½ akal tali
+   44-3  akal iru vicumpi­ mã­i­ um
+  124-1  umaõar c›rntu ka©inta maruïki­ akal talai
  
-                                    aï¿½aï¿½kiï¿½ar     1
-    6-2  iï¿½itu aï¿½aï¿½kiï¿½ar ï¿½ mï¿½kkaï¿½ muï¿½ivu iï¿½ï¿½u
+                                    añaïki­ar     1
+    6-2  i­itu añaïki­ar › màkkaë mu­ivu i­Ÿu
  
-                                    aï¿½aikari     1
-  171-2  kaï¿½um puï¿½al aï¿½aikari neï¿½um kayattu iï¿½ï¿½a
+                                    añaikarai     1
+  171-2  kañum pu­al añaikarai neñum kayattu iñña
  
-                                   aï¿½aï¿½kiyï¿½aï¿½ku     1
-  119-2  kï¿½a yï¿½ai aï¿½aï¿½kiyï¿½aï¿½ku
+                                   aõaïkiyàaïku     1
+  119-2  kà­a yà­ai aõaïkiyàaïku
  
-                                    aï¿½aï¿½kiyï¿½ï¿½     1
-  119-4  vaï¿½ai uï¿½ai+ kiyaï¿½ em aï¿½aï¿½kiyï¿½ï¿½ ï¿½
+                                    aõaïkiyë     1
+  119-4  vaëai uñai+ kaiyaë em aõaïkiyë ›
  
-                                       ataï¿½     1
-  157-1  kukkï¿½ eï¿½ï¿½atu kï¿½ï¿½i ataï¿½ etir
+                                       ata­     1
+  157-1  kukkå e­Ÿatu k©i ata­ etir
  
                                        atu     2
-   96-2  yï¿½ evaï¿½ ceyku ï¿½ eï¿½ï¿½i yï¿½ atu
-  371-4  maruvï¿½ï¿½ tï¿½ï¿½i atu kï¿½mam ï¿½ peritu ï¿½
+   96-2  yà­ eva­ ceyku  e­Ÿi yà­ atu
+  371-4  maruv›­ t©i atu kàmam  peritu ›
  
                                        atta     1
-  369-1  atta vï¿½ki amali vï¿½l neï¿½ï¿½u
+  369-1  atta vàkai amalai vàl neŸŸu
  
-                                      attaï¿½     1
-   93-3  aï¿½ï¿½ai um attaï¿½ um allar ï¿½
+                                      atta­     1
+   93-3  a­­ai um atta­ um allar 
  
                                         am     4
-   17-2  kuvi mukiï¿½ erukku am kaï¿½ï¿½i um cï¿½ï¿½upa
-   71-2  arumpiya cuï¿½aï¿½kiï¿½ am pakaï¿½ï¿½u iï¿½a muli
-  124-2  ï¿½r pï¿½ttaï¿½ï¿½a ï¿½mi am perum kï¿½ï¿½u
-   63-3  am mï¿½ arivi um varum ï¿½
+   17-2  kuvi muki© erukku am kaõõi um cåñupa
+   71-2  arumpiya cuõaïki­ am pakaññu iëa mulai
+  124-2  år pà©tta­­a mai am perum kàñu
+   63-3  am mà arivai um varum 
  
-                                      amali     1
-  369-1  atta vï¿½ki amali vï¿½l neï¿½ï¿½u
+                                      amalai     1
+  369-1  atta vàkai amalai vàl neŸŸu
  
-                                    amikuveï¿½     1
-  137-2  niï¿½+ tuï¿½antu amikuveï¿½ ï¿½yiï¿½ eï¿½+ tuï¿½antu
+                                    amaikuve­     1
+  137-2  ni­+ tuŸantu amaikuve­ àyi­ e­+ tuŸantu
  
-                                    amitaï¿½ku     1
-    4-3  amitaï¿½ku aminta nam kï¿½talar
+                                    amaitaŸku     1
+    4-3  amaitaŸku amainta nam kàtalar
  
-                                     aminta     1
-    4-3  amitaï¿½ku aminta nam kï¿½talar
+                                     amainta     1
+    4-3  amaitaŸku amainta nam kàtalar
  
-                                      amivu     1
-    4-4  amivu ilar ï¿½kutal nï¿½m eï¿½ neï¿½cu ï¿½
+                                      amaivu     1
+    4-4  amaivu ilar àkutal nm e­ ne¤cu ›
  
-                                      ampiï¿½     1
-    1-2  cem^ kï¿½l ampiï¿½ cem^ kï¿½ï¿½ï¿½u yï¿½ai
+                                      ampi­     1
+    1-2  cem^ kl ampi­ cem^ kññu yà­ai
  
                                        amma     1
-  384-4  mika naï¿½ï¿½u amma makiï¿½na niï¿½ cï¿½ï¿½ ï¿½
+  384-4  mika na­Ÿu amma maki©na ni­ cåë ›
  
-                                      ayiri     1
-  166-2  nï¿½ri niri peyarntu ayiri ï¿½rum
+                                      ayirai     1
+  166-2  nàrai nirai peyarntu ayirai àrum
  
-                                      araviï¿½     1
-  119-1  ciï¿½u veï¿½ araviï¿½ a+ vari+ kuruï¿½ai
+                                      aravi­     1
+  119-1  ciŸu veë aravi­ a+ vari+ kuruëai
  
                                        ari     1
-  369-2  ari ï¿½r cilampiï¿½ arici ï¿½rppa+
+  369-2  ari àr cilampi­ arici àrppa+
  
                                       arici     1
-  369-2  ari ï¿½r cilampiï¿½ arici ï¿½rppa+
+  369-2  ari àr cilampi­ arici àrppa+
  
                                       aritu     1
-  120-2  aritu vï¿½ï¿½ï¿½aï¿½ai ï¿½l neï¿½cu ï¿½ kï¿½tali
+  120-2  aritu v›ñña­ai àl ne¤cu › kàtali
  
-                                      ariyaï¿½     1
-  120-4  ariyaï¿½ ï¿½kutal aï¿½iyï¿½tï¿½y ï¿½
+                                      ariyaë     1
+  120-4  ariyaë àkutal aŸiyàty ›
  
-                                      arivi     2
-   63-3  am mï¿½ arivi um varum ï¿½
-  137-1  mel iyal arivi niï¿½ nal akam pulampa
+                                      arivai     2
+   63-3  am mà arivai um varum 
+  137-1  mel iyal arivai ni­ nal akam pulampa
  
                                        arum     2
-   39-3  mali uï¿½ai arum curam eï¿½pa nam
-   68-3  arum paï¿½i aï¿½ciram tï¿½rkkum
+   39-3  malai uñai arum curam e­pa nam
+   68-3  arum pa­i aŸciram tãrkkum
  
                                      arumpiya     1
-   71-2  arumpiya cuï¿½aï¿½kiï¿½ am pakaï¿½ï¿½u iï¿½a muli
+   71-2  arumpiya cuõaïki­ am pakaññu iëa mulai
  
                                       aruvi     3
-   42-2  karuvi mï¿½ maï¿½ai vï¿½nteï¿½a aruvi
-  315-2  oï¿½uku veï¿½ aruvi ï¿½ï¿½ku mali nï¿½ï¿½aï¿½
-   96-1  aruvi vï¿½ï¿½ki+ peru mali nï¿½ï¿½aï¿½ku
+   42-2  karuvi mà ma©ai vã©nte­a aruvi
+  315-2  o©uku veë aruvi ïku malai nàña­
+   96-1  aruvi v›ïkai+ peru malai nàñaŸku
  
-                                     aruviyiï¿½     1
-  371-3  aruviyiï¿½ viï¿½aikkum nï¿½ï¿½aï¿½oï¿½u
+                                     aruviyi­     1
+  371-3  aruviyi­ viëaikkum nàña­oñu
  
-                                       aruï¿½     1
-   20-1  aruï¿½ um aï¿½pu um nï¿½kki tuï¿½ai tuï¿½antu
+                                       aruë     1
+   20-1  aruë um a­pu um nãkki tuõai tuŸantu
  
                                        alar     1
-   97-4  maï¿½ai alar ï¿½ki maï¿½ï¿½attaï¿½tu ï¿½
+   97-4  maŸai alar àki ma­Ÿatta«tu ›
  
                                       allar     2
-   93-3  aï¿½ï¿½ai um attaï¿½ um allar ï¿½
-  102-4  cà­Ÿï¿½r allar yï¿½m marï¿½iyï¿½r ï¿½
+   93-3  a­­ai um atta­ um allar 
+  102-4  cà­Ÿr allar yàm marãiyr ›
  
-                                      alli     1
-   47-4  nalli alli neï¿½u veï¿½ nilavu ï¿½
+                                      allai     1
+   47-4  nallai allai neñu veë nilavu ›
  
                                        avar     3
-   37-4  aï¿½piï¿½a tï¿½ï¿½i avar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
-   93-2  iï¿½ uyir kaï¿½iyiï¿½um uriyal avar namakku
-   68-4  maruntu piï¿½itu illi avar maï¿½anta mï¿½rpu ï¿½
+   37-4  a­pi­a t©i avar ce­Ÿa àŸu ›
+   93-2  i­ uyir ka©iyi­um uraiyal avar namakku
+   68-4  maruntu piŸitu illai avar maõanta màrpu ›
  
                                       avintu     1
-    6-1  naï¿½ï¿½eï¿½ï¿½aï¿½ï¿½u* ï¿½ yï¿½mam col avintu
+    6-1  naëëe­Ÿa­Ÿu* › yàmam col avintu
  
-                                      avuï¿½ar     1
-    1-1  cem^ kaï¿½am paï¿½a+ koï¿½ï¿½u avuï¿½ar+ tï¿½ytta
+                                      avuõar     1
+    1-1  cem^ kaëam paña+ ko­Ÿu avuõar+ t›ytta
  
-                                      aï¿½ï¿½al     1
-  135-4  aï¿½ï¿½al tï¿½ï¿½i aï¿½uï¿½kuvar celavu ï¿½
+                                      a©àal     1
+  135-4  a©àal t©i a©uïkuvar celavu ›
  
-                                    aï¿½uï¿½kuvar     1
-  135-4  aï¿½ï¿½al tï¿½ï¿½i aï¿½uï¿½kuvar celavu ï¿½
+                                    a©uïkuvar     1
+  135-4  a©àal t©i a©uïkuvar celavu ›
  
-                                     aï¿½aviï¿½ï¿½u     1
-    3-2  nï¿½riï¿½ um ï¿½r aï¿½aviï¿½ï¿½u* ï¿½ cï¿½ral
+                                     aëavi­Ÿu     1
+    3-2  nãri­ um àr aëavi­Ÿu* › càral
  
-                                    aï¿½avittu     1
-  102-2  iruppiï¿½ em aï¿½avittu aï¿½ï¿½u ï¿½ varutti
+                                    aëavaittu     1
+  102-2  iruppi­ em aëavaittu a­Ÿu › varutti
  
-                                       aï¿½al     1
-  116-3  nuï¿½ maï¿½al aï¿½al vï¿½rntaï¿½ï¿½a
+                                       aŸal     1
+  116-3  nuõ maõal aŸal vàrnta­­a
  
-                                    aï¿½intï¿½ï¿½ku     1
-  120-3  nallaï¿½ ï¿½kutal aï¿½intï¿½ï¿½ku
+                                    aŸintàïku     1
+  120-3  nallaë àkutal aŸintàïku
  
-                                     aï¿½iyï¿½tï¿½y     1
-  120-4  ariyaï¿½ ï¿½kutal aï¿½iyï¿½tï¿½y ï¿½
+                                     aŸiyàty     1
+  120-4  ariyaë àkutal aŸiyàty ›
  
-                                     aï¿½ciram     1
-   68-3  arum paï¿½i aï¿½ciram tï¿½rkkum
+                                     aŸciram     1
+   68-3  arum pa­i aŸciram tãrkkum
  
-                                       aï¿½ï¿½u     1
-  399-2  pï¿½ci aï¿½ï¿½u ï¿½ pacali kï¿½talar
+                                       aŸŸu     1
+  399-2  pàci aŸŸu › pacalai kàtalar
  
-                                      aï¿½aiya     1
-  315-4  neruï¿½ci aï¿½aiya eï¿½ perum paï¿½ai+ tï¿½ï¿½ ï¿½
+                                      a­aiya     1
+  315-4  neru¤ci a­aiya e­ perum paõai+ të ›
  
-                                     aï¿½aiyaï¿½     1
-  315-3  ï¿½ï¿½yiï¿½u aï¿½aiyaï¿½ tï¿½ï¿½i
+                                     a­aiya­     1
+  315-3  ¤àyiŸu a­aiya­ t©i
  
-                                      aï¿½piï¿½a     1
-   37-4  aï¿½piï¿½a tï¿½ï¿½i avar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
+                                      a­pi­a     1
+   37-4  a­pi­a t©i avar ce­Ÿa àŸu ›
  
-                                       aï¿½pu     2
-   93-4  pulavi aï¿½tu evaï¿½ ï¿½ aï¿½pu ilam kaï¿½ai ï¿½
-   20-1  aruï¿½ um aï¿½pu um nï¿½kki tuï¿½ai tuï¿½antu
+                                       a­pu     2
+   93-4  pulavi a«tu eva­  a­pu ilam kañai ›
+   20-1  aruë um a­pu um nãkki tuõai tuŸantu
  
-                                       aï¿½ï¿½u     2
-  122-4  oru tï¿½ aï¿½ï¿½u ï¿½ kaï¿½kul um uï¿½aittu ï¿½
-  102-2  iruppiï¿½ em aï¿½avittu aï¿½ï¿½u ï¿½ varutti
+                                       a­Ÿu     2
+  122-4  oru tà­ a­Ÿu › kaïkul um uñaittu ›
+  102-2  iruppi­ em aëavaittu a­Ÿu › varutti
  
-                                       aï¿½ï¿½a     2
-  122-1  pim kï¿½l+ kokkiï¿½ puï¿½ puï¿½attu aï¿½ï¿½a
-   68-1  pï¿½+ kï¿½l aï¿½ï¿½a cem kï¿½l uï¿½untiï¿½
+                                       a­­a     2
+  122-1  paim kàl+ kokki­ pu­ puŸattu a­­a
+   68-1  på©+ kàl a­­a cem kàl u©unti­
  
-                                      aï¿½ï¿½ï¿½y     1
-   33-1  aï¿½ï¿½ï¿½y ivaï¿½ ï¿½r iï¿½a mï¿½ï¿½ï¿½kkaï¿½
+                                      a­­ày     1
+   33-1  a­­ày iva­ r iëa màõàkka­
  
-                                      aï¿½ï¿½ai     1
-   93-3  aï¿½ï¿½ai um attaï¿½ um allar ï¿½
+                                      a­­ai     1
+   93-3  a­­ai um atta­ um allar 
  
-                                       ï¿½ka     2
-   20-3  uravï¿½r uravï¿½r ï¿½ka
-   20-4  maï¿½avam ï¿½ka maï¿½anti nï¿½m ï¿½
+                                       àka     2
+   20-3  uravr uravr àka
+   20-4  mañavam àka mañantai nàm ›
  
-                                       ï¿½ki     1
-   97-4  maï¿½ai alar ï¿½ki maï¿½ï¿½attaï¿½tu ï¿½
+                                       àki     1
+   97-4  maŸai alar àki ma­Ÿatta«tu ›
  
-                                      ï¿½kiï¿½ï¿½u     1
-  166-4  oru taï¿½i vikiï¿½ pulampu ï¿½kiï¿½ï¿½u ï¿½
+                                      àki­Ÿu     1
+  166-4  oru ta­i vaiki­ pulampu àki­Ÿu ›
  
-                                      ï¿½kuka     1
-  137-4  pala ï¿½kuka yï¿½ celavuï¿½u takavu ï¿½
+                                      àkuka     1
+  137-4  pala àkuka yà­ celavuŸu takavu ›
  
-                                      ï¿½kutal     3
-  120-3  nallaï¿½ ï¿½kutal aï¿½intï¿½ï¿½ku
-  120-4  ariyaï¿½ ï¿½kutal aï¿½iyï¿½tï¿½y ï¿½
-    4-4  amivu ilar ï¿½kutal nï¿½m eï¿½ neï¿½cu ï¿½
+                                      àkutal     3
+  120-3  nallaë àkutal aŸintàïku
+  120-4  ariyaë àkutal aŸiyàty ›
+    4-4  amaivu ilar àkutal nm e­ ne¤cu ›
  
-                                      ï¿½kupa     1
-   17-4  piï¿½itu um ï¿½kupa kï¿½mam kï¿½+ koï¿½iï¿½ ï¿½
+                                      àkupa     1
+   17-4  piŸitu um àkupa kàmam kà©+ koëi­ ›
  
-                                      ï¿½kuvi     1
-   96-4  eï¿½ ï¿½kuvi kol nal nutal nï¿½ ï¿½
+                                      àkuvai     1
+   96-4  e­ àkuvai kol nal nutal nã ›
  
-                                      ï¿½ï¿½avar     1
-  135-2  maï¿½ai uï¿½ai makaï¿½irkku ï¿½ï¿½avar uyir eï¿½a
+                                      àñavar     1
+  135-2  ma­ai uŸai makaëirkku àñavar uyir e­a
  
-                                    ï¿½ï¿½avarkku     1
-  135-1  viï¿½ai ï¿½ ï¿½ï¿½avarkku uyir ï¿½ vï¿½ï¿½ nutal
+                                    àñavarkku     1
+  135-1  vi­ai › àñavarkku uyir › vàë nutal
  
-                                      ï¿½mpal     1
-  122-2  kuï¿½ï¿½u nï¿½r ï¿½mpal um kï¿½mpiï¿½a iï¿½i ï¿½
+                                      àmpal     1
+  122-2  kuõñu nãr àmpal um kåmpi­a i­i ›
  
-                                       ï¿½yiï¿½     5
-   20-2  poruï¿½ vayiï¿½+ pirivï¿½r uravï¿½r ï¿½yiï¿½
-   96-3  naki eï¿½a uï¿½arï¿½ï¿½ ï¿½yiï¿½
-  124-3  iï¿½ï¿½ï¿½ eï¿½ï¿½ir ï¿½yiï¿½
-  384-3  nalaï¿½ uï¿½ï¿½u tuï¿½atti ï¿½yiï¿½
-  137-2  niï¿½+ tuï¿½antu amikuveï¿½ ï¿½yiï¿½ eï¿½+ tuï¿½antu
+                                       àyi­     5
+   20-2  poruë vayi­+ pirivr uravr àyi­
+   96-3  nakai e­a uõar›­ àyi­
+  124-3  i­­à e­Ÿir àyi­
+  384-3  nala­ uõñu tuŸatti àyi­
+  137-2  ni­+ tuŸantu amaikuve­ àyi­ e­+ tuŸantu
  
-                                      ï¿½yiï¿½um     1
-   42-1  kï¿½mam oï¿½ivatu ï¿½yiï¿½um yï¿½mattu+
+                                      àyi­um     1
+   42-1  kàmam o©ivatu àyi­um yàmattu+
  
-                                        ï¿½r     3
-    3-2  nï¿½riï¿½ um ï¿½r aï¿½aviï¿½ï¿½u* ï¿½ cï¿½ral
-  186-1  ï¿½r kali ï¿½ï¿½ï¿½oï¿½u kï¿½r talimaï¿½anta
-  369-2  ari ï¿½r cilampiï¿½ arici ï¿½rppa+
+                                        àr     3
+    3-2  nãri­ um àr aëavi­Ÿu* › càral
+  186-1  àr kali ›ŸŸoñu kàr talaimaõanta
+  369-2  ari àr cilampi­ arici àrppa+
  
-                                       ï¿½rum     1
-  166-2  nï¿½ri niri peyarntu ayiri ï¿½rum
+                                       àrum     1
+  166-2  nàrai nirai peyarntu ayirai àrum
  
-                                      ï¿½rkka     1
-   17-3  maï¿½ukiï¿½ ï¿½rkka um paï¿½upa
+                                      àrkka     1
+   17-3  maŸuki­ àrkka um pañupa
  
-                                      ï¿½rkkum     1
-   39-2  neï¿½ï¿½u viï¿½ai uï¿½iï¿½cil vaï¿½ï¿½al ï¿½rkkum
+                                      àrkkum     1
+   39-2  neŸŸu viëai u©i¤cil vaŸŸal àrkkum
  
-                                      ï¿½rppa     1
-  369-2  ari ï¿½r cilampiï¿½ arici ï¿½rppa+
+                                      àrppa     1
+  369-2  ari àr cilampi­ arici àrppa+
  
-                                        ï¿½l     3
-  157-4  vï¿½ï¿½ pï¿½l vikaï¿½ai vantaï¿½ï¿½u ï¿½l eï¿½a ï¿½
-  186-4  tuyil tuï¿½antaï¿½a ï¿½l tï¿½ï¿½i em kaï¿½ ï¿½
-  120-2  aritu vï¿½ï¿½ï¿½aï¿½ai ï¿½l neï¿½cu ï¿½ kï¿½tali
+                                        àl     3
+  157-4  vàë pl vaikaŸai vanta­Ÿu àl e­a ›
+  186-4  tuyil tuŸanta­a àl t©i em kaõ ›
+  120-2  aritu v›ñña­ai àl ne¤cu › kàtali
  
-                                       ï¿½ï¿½u     2
-   37-4  aï¿½piï¿½a tï¿½ï¿½i avar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
-   39-4  muli iï¿½ai muï¿½inar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
+                                       àŸu     2
+   37-4  a­pi­a t©i avar ce­Ÿa àŸu ›
+   39-4  mulai iñai mu­inar ce­Ÿa àŸu ›
  
-                                       ï¿½ï¿½     1
-   97-2  ï¿½ï¿½ nï¿½yoï¿½u kï¿½alaï¿½tu ï¿½
+                                       à­à     1
+   97-2  à­à nyoñu kà­ala«tu ›
  
                                         i     1
-   44-4  palar ï¿½ maï¿½ï¿½a i ulakattu+ piï¿½ar ï¿½
+   44-4  palar › ma­Ÿa i ulakattu+ piŸar ›
  
                                        iku     1
-  109-2  puï¿½ari iku tiri tarï¿½um tuï¿½aivaï¿½
+  109-2  puõari iku tirai taråum tuŸaiva­
  
-                                       iï¿½ai     2
-   47-2  irum puli+ kuruï¿½aiyiï¿½ tï¿½ï¿½ï¿½um kï¿½ï¿½ï¿½u iï¿½ai
-   39-4  muli iï¿½ai muï¿½inar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
+                                       iñai     2
+   47-2  irum puli+ kuruëaiyi­ t­Ÿum kàññu iñai
+   39-4  mulai iñai mu­inar ce­Ÿa àŸu ›
  
-                                       iï¿½ï¿½a     1
-  171-2  kaï¿½um puï¿½al aï¿½aikari neï¿½um kayattu iï¿½ï¿½a
+                                       iñña     1
+  171-2  kañum pu­al añaikarai neñum kayattu iñña
  
-                                       itaï¿½     1
-  227-2  vï¿½ï¿½ mukam tumippa vaï¿½ itaï¿½ kuï¿½ainta
+                                       ita©     1
+  227-2  vàë mukam tumippa vaë ita© kuŸainta
  
                                        itu     1
-  171-4  itu maï¿½ï¿½u evaï¿½ ï¿½ notumalar tali ï¿½
+  171-4  itu maŸŸu eva­  notumalar talai ›
  
-                                       imi     1
-    4-2  imi tï¿½yppaï¿½ï¿½a kaï¿½ï¿½ï¿½r tï¿½ï¿½ki
+                                       imai     1
+    4-2  imai tãyppa­­a kaõõãr tàïki
  
                                      iyampum     1
-   42-3  viï¿½ar akattu iyampum nï¿½ï¿½a em
+   42-3  viñar akattu iyampum nàña em
  
                                        iyal     1
-  137-1  mel iyal arivi niï¿½ nal akam pulampa
+  137-1  mel iyal arivai ni­ nal akam pulampa
  
                                       irantu     1
-   33-3  irantu ï¿½ï¿½ nirampï¿½ mï¿½ï¿½iyoï¿½u
+   33-3  irantu åõ nirampà m›­iyoñu
  
                                      iravalar     1
-  137-3  iravalar vï¿½rï¿½ vikal
+  137-3  iravalar vàrà vaikal
  
                                        iru     1
-   44-3  akal iru vicumpiï¿½ mï¿½iï¿½ um
+   44-3  akal iru vicumpi­ mã­i­ um
  
                                       irunta     1
-  109-3  puï¿½ariya irunta ï¿½à­Ÿu um
+  109-3  puõariya irunta ¤à­Ÿu um
  
-                                     iruppiï¿½     1
-  102-2  iruppiï¿½ em aï¿½avittu aï¿½ï¿½u ï¿½ varutti
+                                     iruppi­     1
+  102-2  iruppi­ em aëavaittu a­Ÿu › varutti
  
                                        irum     1
-   47-2  irum puli+ kuruï¿½aiyiï¿½ tï¿½ï¿½ï¿½um kï¿½ï¿½ï¿½u iï¿½ai
+   47-2  irum puli+ kuruëaiyi­ t­Ÿum kàññu iñai
  
                                         il     1
-   63-1  ï¿½tal um tuyttal um illï¿½rkku il eï¿½a+
+   63-1  ãtal um tuyttal um illrkku il e­a+
  
                                        ilam     1
-   93-4  pulavi aï¿½tu evaï¿½ ï¿½ aï¿½pu ilam kaï¿½ai ï¿½
+   93-4  pulavi a«tu eva­  a­pu ilam kañai ›
  
                                        ilar     1
-    4-4  amivu ilar ï¿½kutal nï¿½m eï¿½ neï¿½cu ï¿½
+    4-4  amaivu ilar àkutal nm e­ ne¤cu ›
  
-                                      illi     1
-   68-4  maruntu piï¿½itu illi avar maï¿½anta mï¿½rpu ï¿½
+                                      illai     1
+   68-4  maruntu piŸitu illai avar maõanta màrpu ›
  
-                                     illï¿½rkku     1
-   63-1  ï¿½tal um tuyttal um illï¿½rkku il eï¿½a+
+                                     illrkku     1
+   63-1  ãtal um tuyttal um illrkku il e­a+
  
-                                      illï¿½ï¿½     1
-  120-1  illï¿½ï¿½ iï¿½pam kï¿½muï¿½ï¿½ï¿½aï¿½ku
+                                      ill­     1
+  120-1  ill­ i­pam kàmuŸŸàaïku
  
-                                       ivaï¿½     1
-  227-3  kï¿½ai neytal um uï¿½aittu ivaï¿½
+                                       ivaõ     1
+  227-3  kå©ai neytal um uñaittu ivaõ
  
-                                       ivaï¿½     1
-   33-1  aï¿½ï¿½ï¿½y ivaï¿½ ï¿½r iï¿½a mï¿½ï¿½ï¿½kkaï¿½
+                                       iva­     1
+   33-1  a­­ày iva­ r iëa màõàkka­
  
-                                     iï¿½antaï¿½a     1
-   44-2  nï¿½kki nï¿½kki vï¿½ï¿½ iï¿½antaï¿½a ï¿½
+                                     i©anta­a     1
+   44-2  nkki nkki vàë i©anta­a ›
  
-                                       iï¿½ai     1
-  188-3  vï¿½l iï¿½ai nekiï¿½ttï¿½r vï¿½rï¿½r
+                                       i©ai     1
+  188-3  vàl i©ai neki©ttr vàràr
  
-                                     iï¿½aikkum     1
-    3-4  perum^ tï¿½ï¿½ iï¿½aikkum nï¿½ï¿½aï¿½oï¿½u naï¿½pu ï¿½
+                                     i©aikkum     1
+    3-4  perum^ t›­ i©aikkum nàña­oñu nañpu ›
  
-                                       iï¿½a     2
-   33-1  aï¿½ï¿½ï¿½y ivaï¿½ ï¿½r iï¿½a mï¿½ï¿½ï¿½kkaï¿½
-   71-2  arumpiya cuï¿½aï¿½kiï¿½ am pakaï¿½ï¿½u iï¿½a muli
+                                       iëa     2
+   33-1  a­­ày iva­ r iëa màõàkka­
+   71-2  arumpiya cuõaïki­ am pakaññu iëa mulai
  
-                                     iï¿½aiyaï¿½     1
-  119-3  iï¿½aiyaï¿½ muï¿½ai vï¿½ï¿½ eyiï¿½ï¿½aï¿½
+                                     iëaiyaë     1
+  119-3  iëaiyaë muëai vàë eyiŸŸaë
  
-                                      iï¿½aviï¿½     1
-  109-1  muï¿½+ kï¿½l iï¿½aviï¿½ muï¿½aï¿½ku puï¿½a+ perum kiï¿½ai
+                                      iŸavi­     1
+  109-1  muë+ kàl iŸavi­ muñaïku puŸa+ perum kiëai
  
-                                        iï¿½     1
-   93-2  iï¿½ uyir kaï¿½iyiï¿½um uriyal avar namakku
+                                        i­     1
+   93-2  i­ uyir ka©iyi­um uraiyal avar namakku
  
-                                       iï¿½am     1
-   68-2  ï¿½ppaï¿½u mutu kï¿½y uï¿½ai iï¿½am kavarum
+                                       i­am     1
+   68-2  å©ppañu mutu kày u©ai i­am kavarum
  
-                                       iï¿½i     2
-  122-2  kuï¿½ï¿½u nï¿½r ï¿½mpal um kï¿½mpiï¿½a iï¿½i ï¿½
-  171-1  kï¿½ï¿½ iï¿½i vï¿½i tï¿½ï¿½i yï¿½ï¿½ar+
+                                       i­i     2
+  122-2  kuõñu nãr àmpal um kåmpi­a i­i ›
+  171-1  kàõ i­i và©i t©i yàõar+
  
-                                      iï¿½itu     1
-    6-2  iï¿½itu aï¿½aï¿½kiï¿½ar ï¿½ mï¿½kkaï¿½ muï¿½ivu iï¿½ï¿½u
+                                      i­itu     1
+    6-2  i­itu añaïki­ar › màkkaë mu­ivu i­Ÿu
  
-                                      iï¿½iya     1
-  124-4  iï¿½iya ï¿½ peruma tamiyï¿½rkku maï¿½ai ï¿½
+                                      i­iya     1
+  124-4  i­iya  peruma tamiyrkku ma­ai ›
  
-                                      iï¿½pam     1
-  120-1  illï¿½ï¿½ iï¿½pam kï¿½muï¿½ï¿½ï¿½aï¿½ku
+                                      i­pam     1
+  120-1  ill­ i­pam kàmuŸŸàaïku
  
-                                       iï¿½ï¿½u     1
-    6-2  iï¿½itu aï¿½aï¿½kiï¿½ar ï¿½ mï¿½kkaï¿½ muï¿½ivu iï¿½ï¿½u
+                                       i­Ÿu     1
+    6-2  i­itu añaïki­ar › màkkaë mu­ivu i­Ÿu
  
-                                      iï¿½ï¿½atu     1
-  109-4  iï¿½ï¿½atu maï¿½ ï¿½ nal nutal+ kaviï¿½ ï¿½
+                                      i­­atu     1
+  109-4  i­­atu ma­  nal nutal+ kavi­ ›
  
-                                       iï¿½ï¿½ï¿½     1
-  124-3  iï¿½ï¿½ï¿½ eï¿½ï¿½ir ï¿½yiï¿½
+                                       i­­à     1
+  124-3  i­­à e­Ÿir àyi­
  
-                                     ï¿½ï¿½ï¿½aiyï¿½ï¿½     1
-   97-1  yï¿½ ï¿½ ï¿½ï¿½ï¿½aiyï¿½ï¿½ ï¿½ eï¿½ nalaï¿½ ï¿½
+                                     ãõñaiy›­     1
+   97-1  yà­ › ãõñaiy›­ › e­ nala­ ›
  
-                                       ï¿½tal     1
-   63-1  ï¿½tal um tuyttal um illï¿½rkku il eï¿½a+
+                                       ãtal     1
+   63-1  ãtal um tuyttal um illrkku il e­a+
  
                                        uku     1
-   47-1  karum kï¿½l vï¿½ï¿½ki vï¿½ uku tuï¿½ukal
+   47-1  karum kàl v›ïkai vã uku tuŸukal
  
-                                       uï¿½ai     4
-   39-3  mali uï¿½ai arum curam eï¿½pa nam
-  384-1  uï¿½untu uï¿½ai+ kaï¿½untiï¿½ karumpu uï¿½ai+ paï¿½ai+ tï¿½ï¿½
-  119-4  vaï¿½ai uï¿½ai+ kiyaï¿½ em aï¿½aï¿½kiyï¿½ï¿½ ï¿½
-  384-1  uï¿½untu uï¿½ai+ kaï¿½untiï¿½ karumpu uï¿½ai+ paï¿½ai+ tï¿½ï¿½
+                                       uñai     4
+   39-3  malai uñai arum curam e­pa nam
+  384-1  u©untu uñai+ ka©unti­ karumpu uñai+ paõai+ të
+  119-4  vaëai uñai+ kaiyaë em aõaïkiyë ›
+  384-1  u©untu uñai+ ka©unti­ karumpu uñai+ paõai+ të
  
-                                     uï¿½aittu     2
-  227-3  kï¿½ai neytal um uï¿½aittu ivaï¿½
-  122-4  oru tï¿½ aï¿½ï¿½u ï¿½ kaï¿½kul um uï¿½aittu ï¿½
+                                     uñaittu     2
+  227-3  kå©ai neytal um uñaittu ivaõ
+  122-4  oru tà­ a­Ÿu › kaïkul um uñaittu ›
  
-                                     uï¿½aiyar     1
-   37-1  naci peritu uï¿½aiyar nalkal um nalkuvar
+                                     uñaiyar     1
+   37-1  nacai peritu uñaiyar nalkal um nalkuvar
  
-                                        uï¿½     2
-  399-1  ï¿½r uï¿½ kï¿½ï¿½i uï¿½ tuï¿½ai+ tokka
-  399-1  ï¿½r uï¿½ kï¿½ï¿½i uï¿½ tuï¿½ai+ tokka
+                                        uõ     2
+  399-1  år uõ k›õi uõ tuŸai+ tokka
+  399-1  år uõ k›õi uõ tuŸai+ tokka
  
-                                      uï¿½arï¿½ï¿½     1
-   96-3  naki eï¿½a uï¿½arï¿½ï¿½ ï¿½yiï¿½
+                                      uõar›­     1
+   96-3  nakai e­a uõar›­ àyi­
  
-                                       uï¿½ï¿½u     1
-  384-3  nalaï¿½ uï¿½ï¿½u tuï¿½atti ï¿½yiï¿½
+                                       uõñu     1
+  384-3  nala­ uõñu tuŸatti àyi­
  
                                         um    24
-   44-3  akal iru vicumpiï¿½ mï¿½iï¿½ um
-  109-3  puï¿½ariya irunta ï¿½à­Ÿu um
-  371-1  ki vaï¿½ai nekiï¿½tal um mey pacappu ï¿½rtal um
-   93-3  aï¿½ï¿½ai um attaï¿½ um allar ï¿½
-   93-3  aï¿½ï¿½ai um attaï¿½ um allar ï¿½
-   20-1  aruï¿½ um aï¿½pu um nï¿½kki tuï¿½ai tuï¿½antu
-   17-4  piï¿½itu um ï¿½kupa kï¿½mam kï¿½+ koï¿½iï¿½ ï¿½
-    3-2  nï¿½riï¿½ um ï¿½r aï¿½aviï¿½ï¿½u* ï¿½ cï¿½ral
-   63-1  ï¿½tal um tuyttal um illï¿½rkku il eï¿½a+
-  227-3  kï¿½ai neytal um uï¿½aittu ivaï¿½
-  122-4  oru tï¿½ aï¿½ï¿½u ï¿½ kaï¿½kul um uï¿½aittu ï¿½
-    3-1  nilattiï¿½ um peritu ï¿½ vï¿½iï¿½ um uyarntaï¿½ï¿½u
-   17-1  mï¿½ eï¿½a maï¿½al um ï¿½rpa pï¿½ eï¿½a+
-  122-2  kuï¿½ï¿½u nï¿½r ï¿½mpal um kï¿½mpiï¿½a iï¿½i ï¿½
-   17-2  kuvi mukiï¿½ erukku am kaï¿½ï¿½i um cï¿½ï¿½upa
-    6-3  naï¿½am^ tali ulakam um tuï¿½cum
-   63-1  ï¿½tal um tuyttal um illï¿½rkku il eï¿½a+
-   42-4  toï¿½arpu um tï¿½yum ï¿½ niï¿½ vayiï¿½ï¿½ ï¿½
-   37-1  naci peritu uï¿½aiyar nalkal um nalkuvar
-   20-1  aruï¿½ um aï¿½pu um nï¿½kki tuï¿½ai tuï¿½antu
-   17-3  maï¿½ukiï¿½ ï¿½rkka um paï¿½upa
-    3-1  nilattiï¿½ um peritu ï¿½ vï¿½iï¿½ um uyarntaï¿½ï¿½u
-  371-1  ki vaï¿½ai nekiï¿½tal um mey pacappu ï¿½rtal um
-   63-3  am mï¿½ arivi um varum ï¿½
+   44-3  akal iru vicumpi­ mã­i­ um
+  109-3  puõariya irunta ¤à­Ÿu um
+  371-1  kai vaëai neki©tal um mey pacappu årtal um
+   93-3  a­­ai um atta­ um allar 
+   93-3  a­­ai um atta­ um allar 
+   20-1  aruë um a­pu um nãkki tuõai tuŸantu
+   17-4  piŸitu um àkupa kàmam kà©+ koëi­ ›
+    3-2  nãri­ um àr aëavi­Ÿu* › càral
+   63-1  ãtal um tuyttal um illrkku il e­a+
+  227-3  kå©ai neytal um uñaittu ivaõ
+  122-4  oru tà­ a­Ÿu › kaïkul um uñaittu ›
+    3-1  nilatti­ um peritu › và­i­ um uyarnta­Ÿu
+   17-1  mà e­a mañal um årpa på e­a+
+  122-2  kuõñu nãr àmpal um kåmpi­a i­i ›
+   17-2  kuvi muki© erukku am kaõõi um cåñupa
+    6-3  na­am^ talai ulakam um tu¤cum
+   63-1  ãtal um tuyttal um illrkku il e­a+
+   42-4  toñarpu um t›yum  ni­ vayi­à­ ›
+   37-1  nacai peritu uñaiyar nalkal um nalkuvar
+   20-1  aruë um a­pu um nãkki tuõai tuŸantu
+   17-3  maŸuki­ àrkka um pañupa
+    3-1  nilatti­ um peritu › và­i­ um uyarnta­Ÿu
+  371-1  kai vaëai neki©tal um mey pacappu årtal um
+   63-3  am mà arivai um varum 
  
-                                      umaï¿½ar     1
-  124-1  umaï¿½ar cï¿½rntu kaï¿½inta maruï¿½kiï¿½ akal tali
+                                      umaõar     1
+  124-1  umaõar c›rntu ka©inta maruïki­ akal talai
  
-                                    uyarntaï¿½ï¿½u     1
-    3-1  nilattiï¿½ um peritu ï¿½ vï¿½iï¿½ um uyarntaï¿½ï¿½u
+                                    uyarnta­Ÿu     1
+    3-1  nilatti­ um peritu › và­i­ um uyarnta­Ÿu
  
                                        uyir     3
-  135-2  maï¿½ai uï¿½ai makaï¿½irkku ï¿½ï¿½avar uyir eï¿½a
-  135-1  viï¿½ai ï¿½ ï¿½ï¿½avarkku uyir ï¿½ vï¿½ï¿½ nutal
-   93-2  iï¿½ uyir kaï¿½iyiï¿½um uriyal avar namakku
+  135-2  ma­ai uŸai makaëirkku àñavar uyir e­a
+  135-1  vi­ai › àñavarkku uyir › vàë nutal
+   93-2  i­ uyir ka©iyi­um uraiyal avar namakku
  
                                       uytti     1
-   63-4  emmi uytti ï¿½ uritticiï¿½ neï¿½cu ï¿½
+   63-4  emmai uytti  uraittici­ ne¤cu ›
  
-                                      uravï¿½r     3
-   20-3  uravï¿½r uravï¿½r ï¿½ka
-   20-2  poruï¿½ vayiï¿½+ pirivï¿½r uravï¿½r ï¿½yiï¿½
-   20-3  uravï¿½r uravï¿½r ï¿½ka
+                                      uravr     3
+   20-3  uravr uravr àka
+   20-2  poruë vayi­+ pirivr uravr àyi­
+   20-3  uravr uravr àka
  
-                                    uritticiï¿½     1
-   63-4  emmi uytti ï¿½ uritticiï¿½ neï¿½cu ï¿½
+                                    uraittici­     1
+   63-4  emmai uytti  uraittici­ ne¤cu ›
  
-                                    urittï¿½rum     1
-  135-3  namakku urittï¿½rum tï¿½m ï¿½
+                                    uraittrum     1
+  135-3  namakku uraittrum tàm ›
  
-                                     uriyal     1
-   93-2  iï¿½ uyir kaï¿½iyiï¿½um uriyal avar namakku
+                                     uraiyal     1
+   93-2  i­ uyir ka©iyi­um uraiyal avar namakku
  
                                      ulakattu     1
-   44-4  palar ï¿½ maï¿½ï¿½a i ulakattu+ piï¿½ar ï¿½
+   44-4  palar › ma­Ÿa i ulakattu+ piŸar ›
  
                                       ulakam     1
-    6-3  naï¿½am^ tali ulakam um tuï¿½cum
+    6-3  na­am^ talai ulakam um tu¤cum
  
-                                     uï¿½iï¿½cil     1
-   39-2  neï¿½ï¿½u viï¿½ai uï¿½iï¿½cil vaï¿½ï¿½al ï¿½rkkum
+                                     u©i¤cil     1
+   39-2  neŸŸu viëai u©i¤cil vaŸŸal àrkkum
  
-                                     uï¿½untiï¿½     1
-   68-1  pï¿½+ kï¿½l aï¿½ï¿½a cem kï¿½l uï¿½untiï¿½
+                                     u©unti­     1
+   68-1  på©+ kàl a­­a cem kàl u©unti­
  
-                                      uï¿½untu     1
-  384-1  uï¿½untu uï¿½ai+ kaï¿½untiï¿½ karumpu uï¿½ai+ paï¿½ai+ tï¿½ï¿½
+                                      u©untu     1
+  384-1  u©untu uñai+ ka©unti­ karumpu uñai+ paõai+ të
  
-                                       uï¿½ai     1
-   68-2  ï¿½ppaï¿½u mutu kï¿½y uï¿½ai iï¿½am kavarum
+                                       u©ai     1
+   68-2  å©ppañu mutu kày u©ai i­am kavarum
  
-                                      uï¿½ï¿½am     1
-  102-1  uï¿½ï¿½iï¿½ uï¿½ï¿½am vï¿½m ï¿½ uï¿½ï¿½ï¿½tu
+                                      uëëam     1
+  102-1  uëëi­ uëëam v›m › uëëàtu
  
-                                      uï¿½ï¿½ï¿½tu     1
-  102-1  uï¿½ï¿½iï¿½ uï¿½ï¿½am vï¿½m ï¿½ uï¿½ï¿½ï¿½tu
+                                      uëëàtu     1
+  102-1  uëëi­ uëëam v›m › uëëàtu
  
-                                      uï¿½ï¿½iï¿½     1
-  102-1  uï¿½ï¿½iï¿½ uï¿½ï¿½am vï¿½m ï¿½ uï¿½ï¿½ï¿½tu
+                                      uëëi­     1
+  102-1  uëëi­ uëëam v›m › uëëàtu
  
-                                     uï¿½anti     1
-  116-2  vaï¿½am keï¿½u cï¿½ï¿½ar uï¿½anti+ perum tuï¿½ai
+                                     uŸantai     1
+  116-2  vaëam ke©u c©ar uŸantai+ perum tuŸai
  
-                                       uï¿½ai     1
-  135-2  maï¿½ai uï¿½ai makaï¿½irkku ï¿½ï¿½avar uyir eï¿½a
+                                       uŸai     1
+  135-2  ma­ai uŸai makaëirkku àñavar uyir e­a
  
-                                     uï¿½aivï¿½ï¿½     1
-  116-1  yï¿½ nayantu uï¿½aivï¿½ï¿½ tï¿½m pï¿½y kï¿½ntal
+                                     uŸaivë     1
+  116-1  yà­ nayantu uŸaivë t›m pày kåntal
  
-                                        ï¿½ï¿½     1
-   33-3  irantu ï¿½ï¿½ nirampï¿½ mï¿½ï¿½iyoï¿½u
+                                        åõ     1
+   33-3  irantu åõ nirampà m›­iyoñu
  
-                                        ï¿½r     4
-  399-1  ï¿½r uï¿½ kï¿½ï¿½i uï¿½ tuï¿½ai+ tokka
-  166-3  ï¿½r ï¿½ naï¿½ï¿½u maï¿½ maranti
-  124-2  ï¿½r pï¿½ttaï¿½ï¿½a ï¿½mi am perum kï¿½ï¿½u
-   33-2  taï¿½ ï¿½r maï¿½ï¿½attu eï¿½ï¿½aï¿½ kol ï¿½
+                                        år     4
+  399-1  år uõ k›õi uõ tuŸai+ tokka
+  166-3  år  na­Ÿu ma­ marantai
+  124-2  år pà©tta­­a mai am perum kàñu
+   33-2  ta­ år ma­Ÿattu e­­a­ kol 
  
-                                       ï¿½rï¿½     1
-   97-3  tuï¿½aivaï¿½ tam ï¿½rï¿½ ï¿½
+                                       årà­     1
+   97-3  tuŸaiva­ tam årà­ ›
  
-                                       ï¿½rum     1
-   33-4  viruntiï¿½ ï¿½rum perum cemmalaï¿½ ï¿½
+                                       årum     1
+   33-4  virunti­ årum perum cemmala­ ›
  
-                                      ï¿½rtal     1
-  371-1  ki vaï¿½ai nekiï¿½tal um mey pacappu ï¿½rtal um
+                                      årtal     1
+  371-1  kai vaëai neki©tal um mey pacappu årtal um
  
-                                       ï¿½rpa     1
-   17-1  mï¿½ eï¿½a maï¿½al um ï¿½rpa pï¿½ eï¿½a+
+                                       årpa     1
+   17-1  mà e­a mañal um årpa på e­a+
  
-                                     ï¿½ppaï¿½u     1
-   68-2  ï¿½ppaï¿½u mutu kï¿½y uï¿½ai iï¿½am kavarum
+                                     å©ppañu     1
+   68-2  å©ppañu mutu kày u©ai i­am kavarum
  
-                                      eï¿½ï¿½uti     1
-   63-2  cey viï¿½ai kimmika eï¿½ï¿½uti a+ viï¿½aikku
+                                      eõõuti     1
+   63-2  cey vi­ai kaimmika eõõuti a+ vi­aikku
  
                                        etir     1
-  157-1  kukkï¿½ eï¿½ï¿½atu kï¿½ï¿½i ataï¿½ etir
+  157-1  kukkå e­Ÿatu k©i ata­ etir
  
                                         em     4
-   42-3  viï¿½ar akattu iyampum nï¿½ï¿½a em
-  119-4  vaï¿½ai uï¿½ai+ kiyaï¿½ em aï¿½aï¿½kiyï¿½ï¿½ ï¿½
-  102-2  iruppiï¿½ em aï¿½avittu aï¿½ï¿½u ï¿½ varutti
-  186-4  tuyil tuï¿½antaï¿½a ï¿½l tï¿½ï¿½i em kaï¿½ ï¿½
+   42-3  viñar akattu iyampum nàña em
+  119-4  vaëai uñai+ kaiyaë em aõaïkiyë ›
+  102-2  iruppi­ em aëavaittu a­Ÿu › varutti
+  186-4  tuyil tuŸanta­a àl t©i em kaõ ›
  
-                                      emmi     1
-   63-4  emmi uytti ï¿½ uritticiï¿½ neï¿½cu ï¿½
+                                      emmai     1
+   63-4  emmai uytti  uraittici­ ne¤cu ›
  
-                                      eyiï¿½u     1
-  186-3  eyiï¿½u eï¿½a mukiyum nï¿½ï¿½aï¿½ku+
+                                      eyiŸu     1
+  186-3  eyiŸu e­a mukaiyum nàñaŸku+
  
-                                     eyiï¿½ï¿½aï¿½     1
-  119-3  iï¿½aiyaï¿½ muï¿½ai vï¿½ï¿½ eyiï¿½ï¿½aï¿½
+                                     eyiŸŸaë     1
+  119-3  iëaiyaë muëai vàë eyiŸŸaë
  
                                       erukku     1
-   17-2  kuvi mukiï¿½ erukku am kaï¿½ï¿½i um cï¿½ï¿½upa
+   17-2  kuvi muki© erukku am kaõõi um cåñupa
  
                                        elli     1
-   47-3  elli varunar kaï¿½aviï¿½ku
+   47-3  elli varunar kaëaviŸku
  
-                                       evaï¿½     3
-   93-4  pulavi aï¿½tu evaï¿½ ï¿½ aï¿½pu ilam kaï¿½ai ï¿½
-  171-4  itu maï¿½ï¿½u evaï¿½ ï¿½ notumalar tali ï¿½
-   96-2  yï¿½ evaï¿½ ceyku ï¿½ eï¿½ï¿½i yï¿½ atu
+                                       eva­     3
+   93-4  pulavi a«tu eva­  a­pu ilam kañai ›
+  171-4  itu maŸŸu eva­  notumalar talai ›
+   96-2  yà­ eva­ ceyku  e­Ÿi yà­ atu
  
-                                     eï¿½utaru     1
-  315-1  eï¿½utaru matiyam kaï¿½al+ kaï¿½ï¿½ï¿½aï¿½ku
+                                     e©utaru     1
+  315-1  e©utaru matiyam kañal+ kaõñàaïku
  
-                                        eï¿½     9
-   96-4  eï¿½ ï¿½kuvi kol nal nutal nï¿½ ï¿½
-  137-2  niï¿½+ tuï¿½antu amikuveï¿½ ï¿½yiï¿½ eï¿½+ tuï¿½antu
-  157-2  tuï¿½ku eï¿½ï¿½aï¿½ï¿½u eï¿½ tï¿½u neï¿½cam
-   97-1  yï¿½ ï¿½ ï¿½ï¿½ï¿½aiyï¿½ï¿½ ï¿½ eï¿½ nalaï¿½ ï¿½
-    4-1  nï¿½m eï¿½ neï¿½cu* ï¿½ nï¿½m eï¿½ neï¿½cu* ï¿½
-    4-4  amivu ilar ï¿½kutal nï¿½m eï¿½ neï¿½cu ï¿½
-    4-1  nï¿½m eï¿½ neï¿½cu* ï¿½ nï¿½m eï¿½ neï¿½cu* ï¿½
-  315-4  neruï¿½ci aï¿½aiya eï¿½ perum paï¿½ai+ tï¿½ï¿½ ï¿½
-  188-4  mï¿½li vantaï¿½ï¿½u eï¿½ mï¿½ï¿½ nalam kuï¿½ittu ï¿½
+                                        e­     9
+   96-4  e­ àkuvai kol nal nutal nã ›
+  137-2  ni­+ tuŸantu amaikuve­ àyi­ e­+ tuŸantu
+  157-2  tuñku e­Ÿa­Ÿu e­ tåu ne¤cam
+   97-1  yà­ › ãõñaiy›­ › e­ nala­ ›
+    4-1  nm e­ ne¤cu* › nm e­ ne¤cu* ›
+    4-4  amaivu ilar àkutal nm e­ ne¤cu ›
+    4-1  nm e­ ne¤cu* › nm e­ ne¤cu* ›
+  315-4  neru¤ci a­aiya e­ perum paõai+ të ›
+  188-4  màlai vanta­Ÿu e­ màõ nalam kuŸittu ›
  
-                                       eï¿½a     7
-   17-1  mï¿½ eï¿½a maï¿½al um ï¿½rpa pï¿½ eï¿½a+
-   63-1  ï¿½tal um tuyttal um illï¿½rkku il eï¿½a+
-  135-2  maï¿½ai uï¿½ai makaï¿½irkku ï¿½ï¿½avar uyir eï¿½a
-   96-3  naki eï¿½a uï¿½arï¿½ï¿½ ï¿½yiï¿½
-  157-4  vï¿½ï¿½ pï¿½l vikaï¿½ai vantaï¿½ï¿½u ï¿½l eï¿½a ï¿½
-   17-1  mï¿½ eï¿½a maï¿½al um ï¿½rpa pï¿½ eï¿½a+
-  186-3  eyiï¿½u eï¿½a mukiyum nï¿½ï¿½aï¿½ku+
+                                       e­a     7
+   17-1  mà e­a mañal um årpa på e­a+
+   63-1  ãtal um tuyttal um illrkku il e­a+
+  135-2  ma­ai uŸai makaëirkku àñavar uyir e­a
+   96-3  nakai e­a uõar›­ àyi­
+  157-4  vàë pl vaikaŸai vanta­Ÿu àl e­a ›
+   17-1  mà e­a mañal um årpa på e­a+
+  186-3  eyiŸu e­a mukaiyum nàñaŸku+
  
-                                       eï¿½iï¿½     2
-   71-1  maruntu eï¿½iï¿½ maruntu ï¿½ vippu eï¿½iï¿½ vippu ï¿½
-   71-1  maruntu eï¿½iï¿½ maruntu ï¿½ vippu eï¿½iï¿½ vippu ï¿½
+                                       e­i­     2
+   71-1  maruntu e­i­ maruntu › vaippu e­i­ vaippu ›
+   71-1  maruntu e­i­ maruntu › vaippu e­i­ vaippu ›
  
-                                       eï¿½pa     1
-   39-3  mali uï¿½ai arum curam eï¿½pa nam
+                                       e­pa     1
+   39-3  malai uñai arum curam e­pa nam
  
-                                      eï¿½ï¿½atu     1
-  157-1  kukkï¿½ eï¿½ï¿½atu kï¿½ï¿½i ataï¿½ etir
+                                      e­Ÿatu     1
+  157-1  kukkå e­Ÿatu k©i ata­ etir
  
-                                     eï¿½ï¿½aï¿½ï¿½u     1
-  157-2  tuï¿½ku eï¿½ï¿½aï¿½ï¿½u eï¿½ tï¿½u neï¿½cam
+                                     e­Ÿa­Ÿu     1
+  157-2  tuñku e­Ÿa­Ÿu e­ tåu ne¤cam
  
-                                       eï¿½ï¿½i     1
-   96-2  yï¿½ evaï¿½ ceyku ï¿½ eï¿½ï¿½i yï¿½ atu
+                                       e­Ÿi     1
+   96-2  yà­ eva­ ceyku  e­Ÿi yà­ atu
  
-                                      eï¿½ï¿½ir     1
-  124-3  iï¿½ï¿½ï¿½ eï¿½ï¿½ir ï¿½yiï¿½
+                                      e­Ÿir     1
+  124-3  i­­à e­Ÿir àyi­
  
-                                      eï¿½ï¿½aï¿½     1
-   33-2  taï¿½ ï¿½r maï¿½ï¿½attu eï¿½ï¿½aï¿½ kol ï¿½
+                                      e­­a­     1
+   33-2  ta­ år ma­Ÿattu e­­a­ kol 
  
-                                        ï¿½    69
-    1-4  kuruti+ pï¿½viï¿½ kuli+ kï¿½ntaï¿½ï¿½u* ï¿½
-    3-4  perum^ tï¿½ï¿½ iï¿½aikkum nï¿½ï¿½aï¿½oï¿½u naï¿½pu ï¿½
-    4-1  nï¿½m eï¿½ neï¿½cu* ï¿½ nï¿½m eï¿½ neï¿½cu* ï¿½
-    4-4  amivu ilar ï¿½kutal nï¿½m eï¿½ neï¿½cu ï¿½
-    6-4  ï¿½r yï¿½ maï¿½ï¿½a tuï¿½cï¿½tï¿½ï¿½ ï¿½
-   17-4  piï¿½itu um ï¿½kupa kï¿½mam kï¿½+ koï¿½iï¿½ ï¿½
-   20-4  maï¿½avam ï¿½ka maï¿½anti nï¿½m ï¿½
-   33-4  viruntiï¿½ ï¿½rum perum cemmalaï¿½ ï¿½
-   37-4  aï¿½piï¿½a tï¿½ï¿½i avar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
-   39-4  muli iï¿½ai muï¿½inar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
-   42-4  toï¿½arpu um tï¿½yum ï¿½ niï¿½ vayiï¿½ï¿½ ï¿½
-   44-1  kï¿½l ï¿½ pari tappiï¿½a ï¿½ kaï¿½ ï¿½
-   44-2  nï¿½kki nï¿½kki vï¿½ï¿½ iï¿½antaï¿½a ï¿½
-   44-4  palar ï¿½ maï¿½ï¿½a i ulakattu+ piï¿½ar ï¿½
-   47-4  nalli alli neï¿½u veï¿½ nilavu ï¿½
-   63-4  emmi uytti ï¿½ uritticiï¿½ neï¿½cu ï¿½
-   68-4  maruntu piï¿½itu illi avar maï¿½anta mï¿½rpu ï¿½
-   71-1  maruntu eï¿½iï¿½ maruntu ï¿½ vippu eï¿½iï¿½ vippu ï¿½
-   71-4  kal keï¿½u kï¿½avar nalkuï¿½u makaï¿½ ï¿½
-   93-4  pulavi aï¿½tu evaï¿½ ï¿½ aï¿½pu ilam kaï¿½ai ï¿½
-   96-4  eï¿½ ï¿½kuvi kol nal nutal nï¿½ ï¿½
-   97-1  yï¿½ ï¿½ ï¿½ï¿½ï¿½aiyï¿½ï¿½ ï¿½ eï¿½ nalaï¿½ ï¿½
-   97-2  ï¿½ï¿½ nï¿½yoï¿½u kï¿½alaï¿½tu ï¿½
-   97-3  tuï¿½aivaï¿½ tam ï¿½rï¿½ ï¿½
-   97-4  maï¿½ai alar ï¿½ki maï¿½ï¿½attaï¿½tu ï¿½
-  102-4  cà­Ÿï¿½r allar yï¿½m marï¿½iyï¿½r ï¿½
-  109-4  iï¿½ï¿½atu maï¿½ ï¿½ nal nutal+ kaviï¿½ ï¿½
-  116-4  nal neï¿½iyav+ ï¿½ naï¿½um taï¿½ï¿½iya ï¿½
-  119-4  vaï¿½ai uï¿½ai+ kiyaï¿½ em aï¿½aï¿½kiyï¿½ï¿½ ï¿½
-  120-4  ariyaï¿½ ï¿½kutal aï¿½iyï¿½tï¿½y ï¿½
-  122-2  kuï¿½ï¿½u nï¿½r ï¿½mpal um kï¿½mpiï¿½a iï¿½i ï¿½
-  122-4  oru tï¿½ aï¿½ï¿½u ï¿½ kaï¿½kul um uï¿½aittu ï¿½
-  124-4  iï¿½iya ï¿½ peruma tamiyï¿½rkku maï¿½ai ï¿½
-  135-3  namakku urittï¿½rum tï¿½m ï¿½
-  135-4  aï¿½ï¿½al tï¿½ï¿½i aï¿½uï¿½kuvar celavu ï¿½
-  137-4  pala ï¿½kuka yï¿½ celavuï¿½u takavu ï¿½
-  157-4  vï¿½ï¿½ pï¿½l vikaï¿½ai vantaï¿½ï¿½u ï¿½l eï¿½a ï¿½
-  166-4  oru taï¿½i vikiï¿½ pulampu ï¿½kiï¿½ï¿½u ï¿½
-  171-4  itu maï¿½ï¿½u evaï¿½ ï¿½ notumalar tali ï¿½
-  186-4  tuyil tuï¿½antaï¿½a ï¿½l tï¿½ï¿½i em kaï¿½ ï¿½
-  188-4  mï¿½li vantaï¿½ï¿½u eï¿½ mï¿½ï¿½ nalam kuï¿½ittu ï¿½
-  227-4  tï¿½rï¿½ï¿½ pï¿½kiya kï¿½alï¿½ ï¿½
-  315-4  neruï¿½ci aï¿½aiya eï¿½ perum paï¿½ai+ tï¿½ï¿½ ï¿½
-  369-4  celvï¿½m tï¿½ï¿½i nalkiï¿½ar namar ï¿½
-  371-4  maruvï¿½ï¿½ tï¿½ï¿½i atu kï¿½mam ï¿½ peritu ï¿½
-  384-4  mika naï¿½ï¿½u amma makiï¿½na niï¿½ cï¿½ï¿½ ï¿½
-  399-4  viï¿½uvuï¿½i viï¿½uvuï¿½i+ parattalï¿½ ï¿½
-  135-1  viï¿½ai ï¿½ ï¿½ï¿½avarkku uyir ï¿½ vï¿½ï¿½ nutal
-   97-1  yï¿½ ï¿½ ï¿½ï¿½ï¿½aiyï¿½ï¿½ ï¿½ eï¿½ nalaï¿½ ï¿½
-  102-1  uï¿½ï¿½iï¿½ uï¿½ï¿½am vï¿½m ï¿½ uï¿½ï¿½ï¿½tu
-   97-1  yï¿½ ï¿½ ï¿½ï¿½ï¿½aiyï¿½ï¿½ ï¿½ eï¿½ nalaï¿½ ï¿½
-  122-4  oru tï¿½ aï¿½ï¿½u ï¿½ kaï¿½kul um uï¿½aittu ï¿½
-   44-1  kï¿½l ï¿½ pari tappiï¿½a ï¿½ kaï¿½ ï¿½
-  120-2  aritu vï¿½ï¿½ï¿½aï¿½ai ï¿½l neï¿½cu ï¿½ kï¿½tali
-  102-3  vï¿½ tï¿½yvaï¿½ï¿½u ï¿½ kï¿½mam
-    3-2  nï¿½riï¿½ um ï¿½r aï¿½aviï¿½ï¿½u* ï¿½ cï¿½ral
-  188-2  taki muï¿½ï¿½iï¿½a ï¿½ taï¿½ kï¿½r viyaï¿½ puï¿½am
-  116-4  nal neï¿½iyav+ ï¿½ naï¿½um taï¿½ï¿½iya ï¿½
-    4-1  nï¿½m eï¿½ neï¿½cu* ï¿½ nï¿½m eï¿½ neï¿½cu* ï¿½
-  399-2  pï¿½ci aï¿½ï¿½u ï¿½ pacali kï¿½talar
-   44-1  kï¿½l ï¿½ pari tappiï¿½a ï¿½ kaï¿½ ï¿½
-   44-4  palar ï¿½ maï¿½ï¿½a i ulakattu+ piï¿½ar ï¿½
-    6-2  iï¿½itu aï¿½aï¿½kiï¿½ar ï¿½ mï¿½kkaï¿½ muï¿½ivu iï¿½ï¿½u
-  188-1  muki muï¿½ï¿½iï¿½a ï¿½ mulli mulliyoï¿½u
-    6-1  naï¿½ï¿½eï¿½ï¿½aï¿½ï¿½u* ï¿½ yï¿½mam col avintu
-  102-2  iruppiï¿½ em aï¿½avittu aï¿½ï¿½u ï¿½ varutti
-  135-1  viï¿½ai ï¿½ ï¿½ï¿½avarkku uyir ï¿½ vï¿½ï¿½ nutal
-    3-1  nilattiï¿½ um peritu ï¿½ vï¿½iï¿½ um uyarntaï¿½ï¿½u
-   71-1  maruntu eï¿½iï¿½ maruntu ï¿½ vippu eï¿½iï¿½ vippu ï¿½
+                                        ›    69
+    1-4  kuruti+ påvi­ kulai+ kàntaññu* ›
+    3-4  perum^ t›­ i©aikkum nàña­oñu nañpu ›
+    4-1  nm e­ ne¤cu* › nm e­ ne¤cu* ›
+    4-4  amaivu ilar àkutal nm e­ ne¤cu ›
+    6-4  r yà­ ma­Ÿa tu¤càt›­ ›
+   17-4  piŸitu um àkupa kàmam kà©+ koëi­ ›
+   20-4  mañavam àka mañantai nàm ›
+   33-4  virunti­ årum perum cemmala­ ›
+   37-4  a­pi­a t©i avar ce­Ÿa àŸu ›
+   39-4  mulai iñai mu­inar ce­Ÿa àŸu ›
+   42-4  toñarpu um t›yum  ni­ vayi­à­ ›
+   44-1  kàl › pari tappi­a › kaõ ›
+   44-2  nkki nkki vàë i©anta­a ›
+   44-4  palar › ma­Ÿa i ulakattu+ piŸar ›
+   47-4  nallai allai neñu veë nilavu ›
+   63-4  emmai uytti  uraittici­ ne¤cu ›
+   68-4  maruntu piŸitu illai avar maõanta màrpu ›
+   71-1  maruntu e­i­ maruntu › vaippu e­i­ vaippu ›
+   71-4  kal ke©u kà­avar nalkuŸu makaë ›
+   93-4  pulavi a«tu eva­  a­pu ilam kañai ›
+   96-4  e­ àkuvai kol nal nutal nã ›
+   97-1  yà­ › ãõñaiy›­ › e­ nala­ ›
+   97-2  à­à nyoñu kà­ala«tu ›
+   97-3  tuŸaiva­ tam årà­ ›
+   97-4  maŸai alar àki ma­Ÿatta«tu ›
+  102-4  cà­Ÿr allar yàm marãiyr ›
+  109-4  i­­atu ma­  nal nutal+ kavi­ ›
+  116-4  nal neŸiyav+ › naŸum taõõiya ›
+  119-4  vaëai uñai+ kaiyaë em aõaïkiyë ›
+  120-4  ariyaë àkutal aŸiyàty ›
+  122-2  kuõñu nãr àmpal um kåmpi­a i­i ›
+  122-4  oru tà­ a­Ÿu › kaïkul um uñaittu ›
+  124-4  i­iya  peruma tamiyrkku ma­ai ›
+  135-3  namakku uraittrum tàm ›
+  135-4  a©àal t©i a©uïkuvar celavu ›
+  137-4  pala àkuka yà­ celavuŸu takavu ›
+  157-4  vàë pl vaikaŸai vanta­Ÿu àl e­a ›
+  166-4  oru ta­i vaiki­ pulampu àki­Ÿu ›
+  171-4  itu maŸŸu eva­  notumalar talai ›
+  186-4  tuyil tuŸanta­a àl t©i em kaõ ›
+  188-4  màlai vanta­Ÿu e­ màõ nalam kuŸittu ›
+  227-4  t›r­ pkiya kà­alà­ ›
+  315-4  neru¤ci a­aiya e­ perum paõai+ të ›
+  369-4  celvàm t©i nalki­ar namar ›
+  371-4  maruv›­ t©i atu kàmam  peritu ›
+  384-4  mika na­Ÿu amma maki©na ni­ cåë ›
+  399-4  viñuvu©i viñuvu©i+ parattalà­ ›
+  135-1  vi­ai › àñavarkku uyir › vàë nutal
+   97-1  yà­ › ãõñaiy›­ › e­ nala­ ›
+  102-1  uëëi­ uëëam v›m › uëëàtu
+   97-1  yà­ › ãõñaiy›­ › e­ nala­ ›
+  122-4  oru tà­ a­Ÿu › kaïkul um uñaittu ›
+   44-1  kàl › pari tappi­a › kaõ ›
+  120-2  aritu v›ñña­ai àl ne¤cu › kàtali
+  102-3  và­ tyvaŸŸu › kàmam
+    3-2  nãri­ um àr aëavi­Ÿu* › càral
+  188-2  takai muŸŸi­a › taõ kàr viya­ pu­am
+  116-4  nal neŸiyav+ › naŸum taõõiya ›
+    4-1  nm e­ ne¤cu* › nm e­ ne¤cu* ›
+  399-2  pàci aŸŸu › pacalai kàtalar
+   44-1  kàl › pari tappi­a › kaõ ›
+   44-4  palar › ma­Ÿa i ulakattu+ piŸar ›
+    6-2  i­itu añaïki­ar › màkkaë mu­ivu i­Ÿu
+  188-1  mukai muŸŸi­a › mullai mullaiyoñu
+    6-1  naëëe­Ÿa­Ÿu* › yàmam col avintu
+  102-2  iruppi­ em aëavaittu a­Ÿu › varutti
+  135-1  vi­ai › àñavarkku uyir › vàë nutal
+    3-1  nilatti­ um peritu › và­i­ um uyarnta­Ÿu
+   71-1  maruntu e­i­ maruntu › vaippu e­i­ vaippu ›
  
-                                      ï¿½ï¿½ï¿½oï¿½u     1
-  186-1  ï¿½r kali ï¿½ï¿½ï¿½oï¿½u kï¿½r talimaï¿½anta
+                                      ›ŸŸoñu     1
+  186-1  àr kali ›ŸŸoñu kàr talaimaõanta
  
-                                     aivaï¿½am     1
-  371-2  mi paï¿½u cilampiï¿½ aivaï¿½am vitti
+                                     aiva­am     1
+  371-2  mai pañu cilampi­ aiva­am vitti
  
                                        oru     2
-  166-4  oru taï¿½i vikiï¿½ pulampu ï¿½kiï¿½ï¿½u ï¿½
-  122-4  oru tï¿½ aï¿½ï¿½u ï¿½ kaï¿½kul um uï¿½aittu ï¿½
+  166-4  oru ta­i vaiki­ pulampu àki­Ÿu ›
+  122-4  oru tà­ a­Ÿu › kaïkul um uñaittu ›
  
-                                     oï¿½ivatu     1
-   42-1  kï¿½mam oï¿½ivatu ï¿½yiï¿½um yï¿½mattu+
+                                     o©ivatu     1
+   42-1  kàmam o©ivatu àyi­um yàmattu+
  
-                                      oï¿½uku     1
-  315-2  oï¿½uku veï¿½ aruvi ï¿½ï¿½ku mali nï¿½ï¿½aï¿½
+                                      o©uku     1
+  315-2  o©uku veë aruvi ïku malai nàña­
  
-                                        ï¿½    13
-   33-2  taï¿½ ï¿½r maï¿½ï¿½attu eï¿½ï¿½aï¿½ kol ï¿½
-   63-3  am mï¿½ arivi um varum ï¿½
-   93-3  aï¿½ï¿½ai um attaï¿½ um allar ï¿½
-   93-4  pulavi aï¿½tu evaï¿½ ï¿½ aï¿½pu ilam kaï¿½ai ï¿½
-   63-4  emmi uytti ï¿½ uritticiï¿½ neï¿½cu ï¿½
-   96-2  yï¿½ evaï¿½ ceyku ï¿½ eï¿½ï¿½i yï¿½ atu
-  109-4  iï¿½ï¿½atu maï¿½ ï¿½ nal nutal+ kaviï¿½ ï¿½
-  166-3  ï¿½r ï¿½ naï¿½ï¿½u maï¿½ maranti
-   42-4  toï¿½arpu um tï¿½yum ï¿½ niï¿½ vayiï¿½ï¿½ ï¿½
-  171-4  itu maï¿½ï¿½u evaï¿½ ï¿½ notumalar tali ï¿½
-  371-4  maruvï¿½ï¿½ tï¿½ï¿½i atu kï¿½mam ï¿½ peritu ï¿½
-  124-4  iï¿½iya ï¿½ peruma tamiyï¿½rkku maï¿½ai ï¿½
-  122-3  vantaï¿½ï¿½u vï¿½i ï¿½ mï¿½li
+                                            13
+   33-2  ta­ år ma­Ÿattu e­­a­ kol 
+   63-3  am mà arivai um varum 
+   93-3  a­­ai um atta­ um allar 
+   93-4  pulavi a«tu eva­  a­pu ilam kañai ›
+   63-4  emmai uytti  uraittici­ ne¤cu ›
+   96-2  yà­ eva­ ceyku  e­Ÿi yà­ atu
+  109-4  i­­atu ma­  nal nutal+ kavi­ ›
+  166-3  år  na­Ÿu ma­ marantai
+   42-4  toñarpu um t›yum  ni­ vayi­à­ ›
+  171-4  itu maŸŸu eva­  notumalar talai ›
+  371-4  maruv›­ t©i atu kàmam  peritu ›
+  124-4  i­iya  peruma tamiyrkku ma­ai ›
+  122-3  vanta­Ÿu và©i  màlai
  
-                                       ï¿½ï¿½ku     1
-  315-2  oï¿½uku veï¿½ aruvi ï¿½ï¿½ku mali nï¿½ï¿½aï¿½
+                                       ïku     1
+  315-2  o©uku veë aruvi ïku malai nàña­
  
-                                       ï¿½mi     1
-  124-2  ï¿½r pï¿½ttaï¿½ï¿½a ï¿½mi am perum kï¿½ï¿½u
+                                       mai     1
+  124-2  år pà©tta­­a mai am perum kàñu
  
-                                        ï¿½r     2
-   33-1  aï¿½ï¿½ï¿½y ivaï¿½ ï¿½r iï¿½a mï¿½ï¿½ï¿½kkaï¿½
-    6-4  ï¿½r yï¿½ maï¿½ï¿½a tuï¿½cï¿½tï¿½ï¿½ ï¿½
+                                        r     2
+   33-1  a­­ày iva­ r iëa màõàkka­
+    6-4  r yà­ ma­Ÿa tu¤càt›­ ›
  
-                                      kaï¿½kul     1
-  122-4  oru tï¿½ aï¿½ï¿½u ï¿½ kaï¿½kul um uï¿½aittu ï¿½
+                                      kaïkul     1
+  122-4  oru tà­ a­Ÿu › kaïkul um uñaittu ›
  
-                                      kaï¿½al     2
-  315-1  eï¿½utaru matiyam kaï¿½al+ kaï¿½ï¿½ï¿½aï¿½ku
-  166-1  taï¿½ kaï¿½al+ paï¿½u tiri peyarttaliï¿½ veï¿½ paï¿½ai
+                                      kañal     2
+  315-1  e©utaru matiyam kañal+ kaõñàaïku
+  166-1  taõ kañal+ pañu tirai peyarttali­ veë paŸai
  
-                                       kaï¿½u     1
-   39-1  vem tiï¿½al kaï¿½u vaï¿½i poï¿½kar+ pï¿½nteï¿½a
+                                       kañu     1
+   39-1  vem tiŸal kañu vaëi poïkar+ pnte­a
  
-                                      kaï¿½um     1
-  171-2  kaï¿½um puï¿½al aï¿½aikari neï¿½um kayattu iï¿½ï¿½a
+                                      kañum     1
+  171-2  kañum pu­al añaikarai neñum kayattu iñña
  
-                                      kaï¿½ai     1
-   93-4  pulavi aï¿½tu evaï¿½ ï¿½ aï¿½pu ilam kaï¿½ai ï¿½
+                                      kañai     1
+   93-4  pulavi a«tu eva­  a­pu ilam kañai ›
  
-                                       kaï¿½     2
-   44-1  kï¿½l ï¿½ pari tappiï¿½a ï¿½ kaï¿½ ï¿½
-  186-4  tuyil tuï¿½antaï¿½a ï¿½l tï¿½ï¿½i em kaï¿½ ï¿½
+                                       kaõ     2
+   44-1  kàl › pari tappi­a › kaõ ›
+  186-4  tuyil tuŸanta­a àl t©i em kaõ ›
  
-                                    kaï¿½ï¿½ï¿½aï¿½ku     1
-  315-1  eï¿½utaru matiyam kaï¿½al+ kaï¿½ï¿½ï¿½aï¿½ku
+                                    kaõñàaïku     1
+  315-1  e©utaru matiyam kañal+ kaõñàaïku
  
-                                      kaï¿½ï¿½i     1
-   17-2  kuvi mukiï¿½ erukku am kaï¿½ï¿½i um cï¿½ï¿½upa
+                                      kaõõi     1
+   17-2  kuvi muki© erukku am kaõõi um cåñupa
  
-                                      kaï¿½ï¿½ï¿½r     1
-    4-2  imi tï¿½yppaï¿½ï¿½a kaï¿½ï¿½ï¿½r tï¿½ï¿½ki
+                                      kaõõãr     1
+    4-2  imai tãyppa­­a kaõõãr tàïki
  
                                      kayattu     1
-  171-2  kaï¿½um puï¿½al aï¿½aikari neï¿½um kayattu iï¿½ï¿½a
+  171-2  kañum pu­al añaikarai neñum kayattu iñña
  
                                       karum     2
-   47-1  karum kï¿½l vï¿½ï¿½ki vï¿½ uku tuï¿½ukal
-    3-3  karum^ kï¿½l+ kuï¿½iï¿½ci+ pï¿½+ koï¿½ï¿½u
+   47-1  karum kàl v›ïkai vã uku tuŸukal
+    3-3  karum^ kl+ kuŸi¤ci+ på+ koõñu
  
                                      karumpu     1
-  384-1  uï¿½untu uï¿½ai+ kaï¿½untiï¿½ karumpu uï¿½ai+ paï¿½ai+ tï¿½ï¿½
+  384-1  u©untu uñai+ ka©unti­ karumpu uñai+ paõai+ të
  
                                       karuvi     1
-   42-2  karuvi mï¿½ maï¿½ai vï¿½nteï¿½a aruvi
+   42-2  karuvi mà ma©ai vã©nte­a aruvi
  
                                        kal     1
-   71-4  kal keï¿½u kï¿½avar nalkuï¿½u makaï¿½ ï¿½
+   71-4  kal ke©u kà­avar nalkuŸu makaë ›
  
                                        kali     1
-  186-1  ï¿½r kali ï¿½ï¿½ï¿½oï¿½u kï¿½r talimaï¿½anta
+  186-1  àr kali ›ŸŸoñu kàr talaimaõanta
  
                                      kavarum     1
-   68-2  ï¿½ppaï¿½u mutu kï¿½y uï¿½ai iï¿½am kavarum
+   68-2  å©ppañu mutu kày u©ai i­am kavarum
  
-                                      kaviï¿½     1
-  109-4  iï¿½ï¿½atu maï¿½ ï¿½ nal nutal+ kaviï¿½ ï¿½
+                                      kavi­     1
+  109-4  i­­atu ma­  nal nutal+ kavi­ ›
  
-                                      kaï¿½al     1
-    1-3  kaï¿½al toï¿½i cï¿½ey kuï¿½ï¿½am
+                                      ka©al     1
+    1-3  ka©al toñi c›ey ku­Ÿam
  
-                                     kaï¿½inta     1
-  124-1  umaï¿½ar cï¿½rntu kaï¿½inta maruï¿½kiï¿½ akal tali
+                                     ka©inta     1
+  124-1  umaõar c›rntu ka©inta maruïki­ akal talai
  
-                                    kaï¿½iyiï¿½um     1
-   93-2  iï¿½ uyir kaï¿½iyiï¿½um uriyal avar namakku
+                                    ka©iyi­um     1
+   93-2  i­ uyir ka©iyi­um uraiyal avar namakku
  
-                                     kaï¿½untiï¿½     1
-  384-1  uï¿½untu uï¿½ai+ kaï¿½untiï¿½ karumpu uï¿½ai+ paï¿½ai+ tï¿½ï¿½
+                                     ka©unti­     1
+  384-1  u©untu uñai+ ka©unti­ karumpu uñai+ paõai+ të
  
-                                      kaï¿½am     1
-    1-1  cem^ kaï¿½am paï¿½a+ koï¿½ï¿½u avuï¿½ar+ tï¿½ytta
+                                      kaëam     1
+    1-1  cem^ kaëam paña+ ko­Ÿu avuõar+ t›ytta
  
-                                    kaï¿½aviï¿½ku     1
-   47-3  elli varunar kaï¿½aviï¿½ku
+                                    kaëaviŸku     1
+   47-3  elli varunar kaëaviŸku
  
-                                     kaï¿½aiiya     1
-   37-2  piï¿½i paci kaï¿½aiiya perum ki vï¿½ï¿½am
+                                     kaëaiiya     1
+   37-2  piñi paci kaëaiiya perum kai v›©am
  
-                                       kï¿½ï¿½u     1
-  124-2  ï¿½r pï¿½ttaï¿½ï¿½a ï¿½mi am perum kï¿½ï¿½u
+                                       kàñu     1
+  124-2  år pà©tta­­a mai am perum kàñu
  
-                                      kï¿½ï¿½ï¿½u     1
-   47-2  irum puli+ kuruï¿½aiyiï¿½ tï¿½ï¿½ï¿½um kï¿½ï¿½ï¿½u iï¿½ai
+                                      kàññu     1
+   47-2  irum puli+ kuruëaiyi­ t­Ÿum kàññu iñai
  
-                                       kï¿½ï¿½     1
-  171-1  kï¿½ï¿½ iï¿½i vï¿½i tï¿½ï¿½i yï¿½ï¿½ar+
+                                       kàõ     1
+  171-1  kàõ i­i và©i t©i yàõar+
  
-                                     kï¿½talar     3
-    4-3  amitaï¿½ku aminta nam kï¿½talar
-  399-2  pï¿½ci aï¿½ï¿½u ï¿½ pacali kï¿½talar
-  157-3  tï¿½ï¿½ tï¿½y kï¿½talar+ pirikkum
+                                     kàtalar     3
+    4-3  amaitaŸku amainta nam kàtalar
+  399-2  pàci aŸŸu › pacalai kàtalar
+  157-3  të ty kàtalar+ pirikkum
  
-                                      kï¿½tali     1
-  120-2  aritu vï¿½ï¿½ï¿½aï¿½ai ï¿½l neï¿½cu ï¿½ kï¿½tali
+                                      kàtali     1
+  120-2  aritu v›ñña­ai àl ne¤cu › kàtali
  
-                                     kï¿½ntaï¿½ï¿½u     1
-    1-4  kuruti+ pï¿½viï¿½ kuli+ kï¿½ntaï¿½ï¿½u* ï¿½
+                                     kàntaññu     1
+    1-4  kuruti+ påvi­ kulai+ kàntaññu* ›
  
-                                      kï¿½mam     4
-  102-3  vï¿½ tï¿½yvaï¿½ï¿½u ï¿½ kï¿½mam
-   42-1  kï¿½mam oï¿½ivatu ï¿½yiï¿½um yï¿½mattu+
-  371-4  maruvï¿½ï¿½ tï¿½ï¿½i atu kï¿½mam ï¿½ peritu ï¿½
-   17-4  piï¿½itu um ï¿½kupa kï¿½mam kï¿½+ koï¿½iï¿½ ï¿½
+                                      kàmam     4
+  102-3  và­ tyvaŸŸu › kàmam
+   42-1  kàmam o©ivatu àyi­um yàmattu+
+  371-4  maruv›­ t©i atu kàmam  peritu ›
+   17-4  piŸitu um àkupa kàmam kà©+ koëi­ ›
  
-                                   kï¿½muï¿½ï¿½ï¿½aï¿½ku     1
-  120-1  illï¿½ï¿½ iï¿½pam kï¿½muï¿½ï¿½ï¿½aï¿½ku
+                                   kàmuŸŸàaïku     1
+  120-1  ill­ i­pam kàmuŸŸàaïku
  
-                                       kï¿½y     1
-   68-2  ï¿½ppaï¿½u mutu kï¿½y uï¿½ai iï¿½am kavarum
+                                       kày     1
+   68-2  å©ppañu mutu kày u©ai i­am kavarum
  
-                                       kï¿½r     2
-  186-1  ï¿½r kali ï¿½ï¿½ï¿½oï¿½u kï¿½r talimaï¿½anta
-  188-2  taki muï¿½ï¿½iï¿½a ï¿½ taï¿½ kï¿½r viyaï¿½ puï¿½am
+                                       kàr     2
+  186-1  àr kali ›ŸŸoñu kàr talaimaõanta
+  188-2  takai muŸŸi­a › taõ kàr viya­ pu­am
  
-                                       kï¿½l     6
-   68-1  pï¿½+ kï¿½l aï¿½ï¿½a cem kï¿½l uï¿½untiï¿½
-  109-1  muï¿½+ kï¿½l iï¿½aviï¿½ muï¿½aï¿½ku puï¿½a+ perum kiï¿½ai
-   68-1  pï¿½+ kï¿½l aï¿½ï¿½a cem kï¿½l uï¿½untiï¿½
-   44-1  kï¿½l ï¿½ pari tappiï¿½a ï¿½ kaï¿½ ï¿½
-  122-1  pim kï¿½l+ kokkiï¿½ puï¿½ puï¿½attu aï¿½ï¿½a
-   47-1  karum kï¿½l vï¿½ï¿½ki vï¿½ uku tuï¿½ukal
+                                       kàl     6
+   68-1  på©+ kàl a­­a cem kàl u©unti­
+  109-1  muë+ kàl iŸavi­ muñaïku puŸa+ perum kiëai
+   68-1  på©+ kàl a­­a cem kàl u©unti­
+   44-1  kàl › pari tappi­a › kaõ ›
+  122-1  paim kàl+ kokki­ pu­ puŸattu a­­a
+   47-1  karum kàl v›ïkai vã uku tuŸukal
  
-                                       kï¿½     1
-   17-4  piï¿½itu um ï¿½kupa kï¿½mam kï¿½+ koï¿½iï¿½ ï¿½
+                                       kà©     1
+   17-4  piŸitu um àkupa kàmam kà©+ koëi­ ›
  
-                                       kï¿½a     1
-  119-2  kï¿½a yï¿½ai aï¿½aï¿½kiyï¿½aï¿½ku
+                                       kà­a     1
+  119-2  kà­a yà­ai aõaïkiyàaïku
  
-                                      kï¿½am     1
-  369-3  kï¿½ï¿½ai tï¿½kkum kï¿½am
+                                      kà­am     1
+  369-3  kñai tåkkum kà­am
  
-                                    kï¿½alaï¿½tu     1
-   97-2  ï¿½ï¿½ nï¿½yoï¿½u kï¿½alaï¿½tu ï¿½
+                                    kà­ala«tu     1
+   97-2  à­à nyoñu kà­ala«tu ›
  
-                                     kï¿½alï¿½     1
-  227-4  tï¿½rï¿½ï¿½ pï¿½kiya kï¿½alï¿½ ï¿½
+                                     kà­alà­     1
+  227-4  t›r­ pkiya kà­alà­ ›
  
-                                     kï¿½avar     1
-   71-4  kal keï¿½u kï¿½avar nalkuï¿½u makaï¿½ ï¿½
+                                     kà­avar     1
+   71-4  kal ke©u kà­avar nalkuŸu makaë ›
  
-                                      kiï¿½ai     1
-  109-1  muï¿½+ kï¿½l iï¿½aviï¿½ muï¿½aï¿½ku puï¿½a+ perum kiï¿½ai
+                                      kiëai     1
+  109-1  muë+ kàl iŸavi­ muñaïku puŸa+ perum kiëai
  
-                                      kukkï¿½     1
-  157-1  kukkï¿½ eï¿½ï¿½atu kï¿½ï¿½i ataï¿½ etir
+                                      kukkå     1
+  157-1  kukkå e­Ÿatu k©i ata­ etir
  
-                                      kuï¿½ï¿½u     1
-  122-2  kuï¿½ï¿½u nï¿½r ï¿½mpal um kï¿½mpiï¿½a iï¿½i ï¿½
+                                      kuõñu     1
+  122-2  kuõñu nãr àmpal um kåmpi­a i­i ›
  
                                       kuruti     1
-    1-4  kuruti+ pï¿½viï¿½ kuli+ kï¿½ntaï¿½ï¿½u* ï¿½
+    1-4  kuruti+ påvi­ kulai+ kàntaññu* ›
  
-                                     kuruï¿½ai     1
-  119-1  ciï¿½u veï¿½ araviï¿½ a+ vari+ kuruï¿½ai
+                                     kuruëai     1
+  119-1  ciŸu veë aravi­ a+ vari+ kuruëai
  
-                                    kuruï¿½aiyiï¿½     1
-   47-2  irum puli+ kuruï¿½aiyiï¿½ tï¿½ï¿½ï¿½um kï¿½ï¿½ï¿½u iï¿½ai
+                                    kuruëaiyi­     1
+   47-2  irum puli+ kuruëaiyi­ t­Ÿum kàññu iñai
  
-                                      kuli     1
-    1-4  kuruti+ pï¿½viï¿½ kuli+ kï¿½ntaï¿½ï¿½u* ï¿½
+                                      kulai     1
+    1-4  kuruti+ påvi­ kulai+ kàntaññu* ›
  
                                        kuvi     1
-   17-2  kuvi mukiï¿½ erukku am kaï¿½ï¿½i um cï¿½ï¿½upa
+   17-2  kuvi muki© erukku am kaõõi um cåñupa
  
-                                     kuï¿½iï¿½ci     1
-    3-3  karum^ kï¿½l+ kuï¿½iï¿½ci+ pï¿½+ koï¿½ï¿½u
+                                     kuŸi¤ci     1
+    3-3  karum^ kl+ kuŸi¤ci+ på+ koõñu
  
-                                     kuï¿½ittu     1
-  188-4  mï¿½li vantaï¿½ï¿½u eï¿½ mï¿½ï¿½ nalam kuï¿½ittu ï¿½
+                                     kuŸittu     1
+  188-4  màlai vanta­Ÿu e­ màõ nalam kuŸittu ›
  
-                                      kuï¿½um     1
-  384-2  neï¿½um pal kï¿½ntal kuï¿½um toï¿½i makaï¿½ir
+                                      kuŸum     1
+  384-2  neñum pal kåntal kuŸum toñi makaëir
  
-                                     kuï¿½ainta     1
-  227-2  vï¿½ï¿½ mukam tumippa vaï¿½ itaï¿½ kuï¿½ainta
+                                     kuŸainta     1
+  227-2  vàë mukam tumippa vaë ita© kuŸainta
  
-                                      kuï¿½ï¿½am     1
-    1-3  kaï¿½al toï¿½i cï¿½ey kuï¿½ï¿½am
+                                      ku­Ÿam     1
+    1-3  ka©al toñi c›ey ku­Ÿam
  
-                                      kï¿½ntal     2
-  116-1  yï¿½ nayantu uï¿½aivï¿½ï¿½ tï¿½m pï¿½y kï¿½ntal
-  384-2  neï¿½um pal kï¿½ntal kuï¿½um toï¿½i makaï¿½ir
+                                      kåntal     2
+  116-1  yà­ nayantu uŸaivë t›m pày kåntal
+  384-2  neñum pal kåntal kuŸum toñi makaëir
  
-                                     kï¿½mpiï¿½a     1
-  122-2  kuï¿½ï¿½u nï¿½r ï¿½mpal um kï¿½mpiï¿½a iï¿½i ï¿½
+                                     kåmpi­a     1
+  122-2  kuõñu nãr àmpal um kåmpi­a i­i ›
  
-                                      kï¿½ai     1
-  227-3  kï¿½ai neytal um uï¿½aittu ivaï¿½
+                                      kå©ai     1
+  227-3  kå©ai neytal um uñaittu ivaõ
  
-                                       keï¿½u     2
-   71-4  kal keï¿½u kï¿½avar nalkuï¿½u makaï¿½ ï¿½
-  116-2  vaï¿½am keï¿½u cï¿½ï¿½ar uï¿½anti+ perum tuï¿½ai
+                                       ke©u     2
+   71-4  kal ke©u kà­avar nalkuŸu makaë ›
+  116-2  vaëam ke©u c©ar uŸantai+ perum tuŸai
  
-                                       kï¿½ï¿½i     1
-  399-1  ï¿½r uï¿½ kï¿½ï¿½i uï¿½ tuï¿½ai+ tokka
+                                       k›õi     1
+  399-1  år uõ k›õi uõ tuŸai+ tokka
  
-                                       ki     2
-  371-1  ki vaï¿½ai nekiï¿½tal um mey pacappu ï¿½rtal um
-   37-2  piï¿½i paci kaï¿½aiiya perum ki vï¿½ï¿½am
+                                       kai     2
+  371-1  kai vaëai neki©tal um mey pacappu årtal um
+   37-2  piñi paci kaëaiiya perum kai v›©am
  
-                                     kimmika     1
-   63-2  cey viï¿½ai kimmika eï¿½ï¿½uti a+ viï¿½aikku
+                                     kaimmika     1
+   63-2  cey vi­ai kaimmika eõõuti a+ vi­aikku
  
-                                      kiyaï¿½     1
-  119-4  vaï¿½ai uï¿½ai+ kiyaï¿½ em aï¿½aï¿½kiyï¿½ï¿½ ï¿½
+                                      kaiyaë     1
+  119-4  vaëai uñai+ kaiyaë em aõaïkiyë ›
  
-                                      kokkiï¿½     1
-  122-1  pim kï¿½l+ kokkiï¿½ puï¿½ puï¿½attu aï¿½ï¿½a
+                                      kokki­     1
+  122-1  paim kàl+ kokki­ pu­ puŸattu a­­a
  
-                                       koï¿½i     1
-  186-2  kolli+ puï¿½atta mulli mel koï¿½i
+                                       koñi     1
+  186-2  kollai+ pu­atta mullai mel koñi
  
-                                      koï¿½ï¿½u     1
-    3-3  karum^ kï¿½l+ kuï¿½iï¿½ci+ pï¿½+ koï¿½ï¿½u
+                                      koõñu     1
+    3-3  karum^ kl+ kuŸi¤ci+ på+ koõñu
  
                                        kol     2
-   33-2  taï¿½ ï¿½r maï¿½ï¿½attu eï¿½ï¿½aï¿½ kol ï¿½
-   96-4  eï¿½ ï¿½kuvi kol nal nutal nï¿½ ï¿½
+   33-2  ta­ år ma­Ÿattu e­­a­ kol 
+   96-4  e­ àkuvai kol nal nutal nã ›
  
-                                      kolli     1
-  186-2  kolli+ puï¿½atta mulli mel koï¿½i
+                                      kollai     1
+  186-2  kollai+ pu­atta mullai mel koñi
  
-                                      koï¿½iï¿½     1
-   17-4  piï¿½itu um ï¿½kupa kï¿½mam kï¿½+ koï¿½iï¿½ ï¿½
+                                      koëi­     1
+   17-4  piŸitu um àkupa kàmam kà©+ koëi­ ›
  
-                                      koï¿½ï¿½u     1
-    1-1  cem^ kaï¿½am paï¿½a+ koï¿½ï¿½u avuï¿½ar+ tï¿½ytta
+                                      ko­Ÿu     1
+    1-1  cem^ kaëam paña+ ko­Ÿu avuõar+ t›ytta
  
-                                      kï¿½ï¿½ai     1
-  369-3  kï¿½ï¿½ai tï¿½kkum kï¿½am
+                                      kñai     1
+  369-3  kñai tåkkum kà­am
  
-                                      kï¿½ï¿½ï¿½u     1
-    1-2  cem^ kï¿½l ampiï¿½ cem^ kï¿½ï¿½ï¿½u yï¿½ai
+                                      kññu     1
+    1-2  cem^ kl ampi­ cem^ kññu yà­ai
  
-                                       kï¿½l     2
-    1-2  cem^ kï¿½l ampiï¿½ cem^ kï¿½ï¿½ï¿½u yï¿½ai
-    3-3  karum^ kï¿½l+ kuï¿½iï¿½ci+ pï¿½+ koï¿½ï¿½u
+                                       kl     2
+    1-2  cem^ kl ampi­ cem^ kññu yà­ai
+    3-3  karum^ kl+ kuŸi¤ci+ på+ koõñu
  
-                                       kï¿½ï¿½i     1
-  157-1  kukkï¿½ eï¿½ï¿½atu kï¿½ï¿½i ataï¿½ etir
+                                       k©i     1
+  157-1  kukkå e­Ÿatu k©i ata­ etir
  
-                                       cï¿½ay     1
-   93-1  nal nalam toliya nalam mika+ cï¿½ay
+                                       càay     1
+   93-1  nal nalam tolaiya nalam mika+ càay
  
-                                      cï¿½ral     1
-    3-2  nï¿½riï¿½ um ï¿½r aï¿½aviï¿½ï¿½u* ï¿½ cï¿½ral
+                                      càral     1
+    3-2  nãri­ um àr aëavi­Ÿu* › càral
  
-                                      cà­Ÿï¿½r     1
-  102-4  cà­Ÿï¿½r allar yï¿½m marï¿½iyï¿½r ï¿½
+                                      cà­Ÿr     1
+  102-4  cà­Ÿr allar yàm marãiyr ›
  
-                                     cilampiï¿½     2
-  369-2  ari ï¿½r cilampiï¿½ arici ï¿½rppa+
-  371-2  mi paï¿½u cilampiï¿½ aivaï¿½am vitti
+                                     cilampi­     2
+  369-2  ari àr cilampi­ arici àrppa+
+  371-2  mai pañu cilampi­ aiva­am vitti
  
-                                       ciï¿½u     1
-  119-1  ciï¿½u veï¿½ araviï¿½ a+ vari+ kuruï¿½ai
+                                       ciŸu     1
+  119-1  ciŸu veë aravi­ a+ vari+ kuruëai
  
-                                      ciï¿½ai     1
-   37-3  mel ciï¿½ai yï¿½am poï¿½ikkum
+                                      ci­ai     1
+   37-3  mel ci­ai yàam poëikkum
  
-                                     cuï¿½aï¿½kiï¿½     1
-   71-2  arumpiya cuï¿½aï¿½kiï¿½ am pakaï¿½ï¿½u iï¿½a muli
+                                     cuõaïki­     1
+   71-2  arumpiya cuõaïki­ am pakaññu iëa mulai
  
                                       curam     1
-   39-3  mali uï¿½ai arum curam eï¿½pa nam
+   39-3  malai uñai arum curam e­pa nam
  
-                                      cï¿½ï¿½upa     1
-   17-2  kuvi mukiï¿½ erukku am kaï¿½ï¿½i um cï¿½ï¿½upa
+                                      cåñupa     1
+   17-2  kuvi muki© erukku am kaõõi um cåñupa
  
-                                      cï¿½ï¿½ï¿½u     1
-  227-1  pï¿½ï¿½ vaï¿½aintaï¿½ï¿½a polam cï¿½ï¿½ï¿½u nï¿½mi
+                                      cåññu     1
+  227-1  påõ va­ainta­­a polam cåññu n›mi
  
-                                       cï¿½ï¿½     1
-  384-4  mika naï¿½ï¿½u amma makiï¿½na niï¿½ cï¿½ï¿½ ï¿½
+                                       cåë     1
+  384-4  mika na­Ÿu amma maki©na ni­ cåë ›
  
                                        cem     4
-    1-1  cem^ kaï¿½am paï¿½a+ koï¿½ï¿½u avuï¿½ar+ tï¿½ytta
-   68-1  pï¿½+ kï¿½l aï¿½ï¿½a cem kï¿½l uï¿½untiï¿½
-    1-2  cem^ kï¿½l ampiï¿½ cem^ kï¿½ï¿½ï¿½u yï¿½ai
-    1-2  cem^ kï¿½l ampiï¿½ cem^ kï¿½ï¿½ï¿½u yï¿½ai
+    1-1  cem^ kaëam paña+ ko­Ÿu avuõar+ t›ytta
+   68-1  på©+ kàl a­­a cem kàl u©unti­
+    1-2  cem^ kl ampi­ cem^ kññu yà­ai
+    1-2  cem^ kl ampi­ cem^ kññu yà­ai
  
-                                     cemmalaï¿½     1
-   33-4  viruntiï¿½ ï¿½rum perum cemmalaï¿½ ï¿½
+                                     cemmala­     1
+   33-4  virunti­ årum perum cemmala­ ›
  
                                        cey     1
-   63-2  cey viï¿½ai kimmika eï¿½ï¿½uti a+ viï¿½aikku
+   63-2  cey vi­ai kaimmika eõõuti a+ vi­aikku
  
                                       ceyku     1
-   96-2  yï¿½ evaï¿½ ceyku ï¿½ eï¿½ï¿½i yï¿½ atu
+   96-2  yà­ eva­ ceyku  e­Ÿi yà­ atu
  
                                       celavu     1
-  135-4  aï¿½ï¿½al tï¿½ï¿½i aï¿½uï¿½kuvar celavu ï¿½
+  135-4  a©àal t©i a©uïkuvar celavu ›
  
-                                     celavuï¿½u     1
-  137-4  pala ï¿½kuka yï¿½ celavuï¿½u takavu ï¿½
+                                     celavuŸu     1
+  137-4  pala àkuka yà­ celavuŸu takavu ›
  
-                                      celvï¿½m     1
-  369-4  celvï¿½m tï¿½ï¿½i nalkiï¿½ar namar ï¿½
+                                      celvàm     1
+  369-4  celvàm t©i nalki­ar namar ›
  
-                                      ceï¿½ï¿½a     2
-   37-4  aï¿½piï¿½a tï¿½ï¿½i avar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
-   39-4  muli iï¿½ai muï¿½inar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
+                                      ce­Ÿa     2
+   37-4  a­pi­a t©i avar ce­Ÿa àŸu ›
+   39-4  mulai iñai mu­inar ce­Ÿa àŸu ›
  
-                                       cï¿½ey     1
-    1-3  kaï¿½al toï¿½i cï¿½ey kuï¿½ï¿½am
+                                       c›ey     1
+    1-3  ka©al toñi c›ey ku­Ÿam
  
-                                      cï¿½rntu     1
-  124-1  umaï¿½ar cï¿½rntu kaï¿½inta maruï¿½kiï¿½ akal tali
+                                      c›rntu     1
+  124-1  umaõar c›rntu ka©inta maruïki­ akal talai
  
                                        col     1
-    6-1  naï¿½ï¿½eï¿½ï¿½aï¿½ï¿½u* ï¿½ yï¿½mam col avintu
+    6-1  naëëe­Ÿa­Ÿu* › yàmam col avintu
  
-                                      cï¿½ï¿½ar     1
-  116-2  vaï¿½am keï¿½u cï¿½ï¿½ar uï¿½anti+ perum tuï¿½ai
+                                      c©ar     1
+  116-2  vaëam ke©u c©ar uŸantai+ perum tuŸai
  
-                                      ï¿½ï¿½yiï¿½u     1
-  315-3  ï¿½ï¿½yiï¿½u aï¿½aiyaï¿½ tï¿½ï¿½i
+                                      ¤àyiŸu     1
+  315-3  ¤àyiŸu a­aiya­ t©i
  
-                                      ï¿½à­Ÿu     1
-  109-3  puï¿½ariya irunta ï¿½à­Ÿu um
+                                      ¤à­Ÿu     1
+  109-3  puõariya irunta ¤à­Ÿu um
  
                                       takavu     1
-  137-4  pala ï¿½kuka yï¿½ celavuï¿½u takavu ï¿½
+  137-4  pala àkuka yà­ celavuŸu takavu ›
  
-                                      taki     1
-  188-2  taki muï¿½ï¿½iï¿½a ï¿½ taï¿½ kï¿½r viyaï¿½ puï¿½am
+                                      takai     1
+  188-2  takai muŸŸi­a › taõ kàr viya­ pu­am
  
-                                       taï¿½     2
-  166-1  taï¿½ kaï¿½al+ paï¿½u tiri peyarttaliï¿½ veï¿½ paï¿½ai
-  188-2  taki muï¿½ï¿½iï¿½a ï¿½ taï¿½ kï¿½r viyaï¿½ puï¿½am
+                                       taõ     2
+  166-1  taõ kañal+ pañu tirai peyarttali­ veë paŸai
+  188-2  takai muŸŸi­a › taõ kàr viya­ pu­am
  
-                                     taï¿½ï¿½iya     1
-  116-4  nal neï¿½iyav+ ï¿½ naï¿½um taï¿½ï¿½iya ï¿½
+                                     taõõiya     1
+  116-4  nal neŸiyav+ › naŸum taõõiya ›
  
-                                     tappiï¿½a     1
-   44-1  kï¿½l ï¿½ pari tappiï¿½a ï¿½ kaï¿½ ï¿½
+                                     tappi­a     1
+   44-1  kàl › pari tappi­a › kaõ ›
  
                                        tam     1
-   97-3  tuï¿½aivaï¿½ tam ï¿½rï¿½ ï¿½
+   97-3  tuŸaiva­ tam årà­ ›
  
-                                    tamiyï¿½rkku     1
-  124-4  iï¿½iya ï¿½ peruma tamiyï¿½rkku maï¿½ai ï¿½
+                                    tamiyrkku     1
+  124-4  i­iya  peruma tamiyrkku ma­ai ›
  
-                                      tarï¿½um     1
-  109-2  puï¿½ari iku tiri tarï¿½um tuï¿½aivaï¿½
+                                      taråum     1
+  109-2  puõari iku tirai taråum tuŸaiva­
  
-                                      tali     3
-  124-1  umaï¿½ar cï¿½rntu kaï¿½inta maruï¿½kiï¿½ akal tali
-    6-3  naï¿½am^ tali ulakam um tuï¿½cum
-  171-4  itu maï¿½ï¿½u evaï¿½ ï¿½ notumalar tali ï¿½
+                                      talai     3
+  124-1  umaõar c›rntu ka©inta maruïki­ akal talai
+    6-3  na­am^ talai ulakam um tu¤cum
+  171-4  itu maŸŸu eva­  notumalar talai ›
  
-                                   talimaï¿½anta     1
-  186-1  ï¿½r kali ï¿½ï¿½ï¿½oï¿½u kï¿½r talimaï¿½anta
+                                   talaimaõanta     1
+  186-1  àr kali ›ŸŸoñu kàr talaimaõanta
  
-                                       taï¿½     1
-   33-2  taï¿½ ï¿½r maï¿½ï¿½attu eï¿½ï¿½aï¿½ kol ï¿½
+                                       ta­     1
+   33-2  ta­ år ma­Ÿattu e­­a­ kol 
  
-                                       taï¿½i     1
-  166-4  oru taï¿½i vikiï¿½ pulampu ï¿½kiï¿½ï¿½u ï¿½
+                                       ta­i     1
+  166-4  oru ta­i vaiki­ pulampu àki­Ÿu ›
  
-                                      tï¿½ï¿½ki     1
-    4-2  imi tï¿½yppaï¿½ï¿½a kaï¿½ï¿½ï¿½r tï¿½ï¿½ki
+                                      tàïki     1
+    4-2  imai tãyppa­­a kaõõãr tàïki
  
-                                       tï¿½m     1
-  135-3  namakku urittï¿½rum tï¿½m ï¿½
+                                       tàm     1
+  135-3  namakku uraittrum tàm ›
  
-                                       tï¿½     1
-  122-4  oru tï¿½ aï¿½ï¿½u ï¿½ kaï¿½kul um uï¿½aittu ï¿½
+                                       tà­     1
+  122-4  oru tà­ a­Ÿu › kaïkul um uñaittu ›
  
-                                      tiri     2
-  109-2  puï¿½ari iku tiri tarï¿½um tuï¿½aivaï¿½
-  166-1  taï¿½ kaï¿½al+ paï¿½u tiri peyarttaliï¿½ veï¿½ paï¿½ai
+                                      tirai     2
+  109-2  puõari iku tirai taråum tuŸaiva­
+  166-1  taõ kañal+ pañu tirai peyarttali­ veë paŸai
  
-                                      tiï¿½al     1
-   39-1  vem tiï¿½al kaï¿½u vaï¿½i poï¿½kar+ pï¿½nteï¿½a
+                                      tiŸal     1
+   39-1  vem tiŸal kañu vaëi poïkar+ pnte­a
  
-                                    tï¿½yppaï¿½ï¿½a     1
-    4-2  imi tï¿½yppaï¿½ï¿½a kaï¿½ï¿½ï¿½r tï¿½ï¿½ki
+                                    tãyppa­­a     1
+    4-2  imai tãyppa­­a kaõõãr tàïki
  
-                                     tï¿½rkkum     1
-   68-3  arum paï¿½i aï¿½ciram tï¿½rkkum
+                                     tãrkkum     1
+   68-3  arum pa­i aŸciram tãrkkum
  
-                                     tuï¿½cï¿½tï¿½ï¿½     1
-    6-4  ï¿½r yï¿½ maï¿½ï¿½a tuï¿½cï¿½tï¿½ï¿½ ï¿½
+                                     tu¤càt›­     1
+    6-4  r yà­ ma­Ÿa tu¤càt›­ ›
  
-                                      tuï¿½cum     1
-    6-3  naï¿½am^ tali ulakam um tuï¿½cum
+                                      tu¤cum     1
+    6-3  na­am^ talai ulakam um tu¤cum
  
-                                      tuï¿½ku     1
-  157-2  tuï¿½ku eï¿½ï¿½aï¿½ï¿½u eï¿½ tï¿½u neï¿½cam
+                                      tuñku     1
+  157-2  tuñku e­Ÿa­Ÿu e­ tåu ne¤cam
  
-                                      tuï¿½ai     1
-   20-1  aruï¿½ um aï¿½pu um nï¿½kki tuï¿½ai tuï¿½antu
+                                      tuõai     1
+   20-1  aruë um a­pu um nãkki tuõai tuŸantu
  
                                      tumippa     1
-  227-2  vï¿½ï¿½ mukam tumippa vaï¿½ itaï¿½ kuï¿½ainta
+  227-2  vàë mukam tumippa vaë ita© kuŸainta
  
                                       tuyil     1
-  186-4  tuyil tuï¿½antaï¿½a ï¿½l tï¿½ï¿½i em kaï¿½ ï¿½
+  186-4  tuyil tuŸanta­a àl t©i em kaõ ›
  
                                      tuyttal     1
-   63-1  ï¿½tal um tuyttal um illï¿½rkku il eï¿½a+
+   63-1  ãtal um tuyttal um illrkku il e­a+
  
-                                     tuï¿½atti     1
-  384-3  nalaï¿½ uï¿½ï¿½u tuï¿½atti ï¿½yiï¿½
+                                     tuŸatti     1
+  384-3  nala­ uõñu tuŸatti àyi­
  
-                                    tuï¿½antaï¿½a     1
-  186-4  tuyil tuï¿½antaï¿½a ï¿½l tï¿½ï¿½i em kaï¿½ ï¿½
+                                    tuŸanta­a     1
+  186-4  tuyil tuŸanta­a àl t©i em kaõ ›
  
-                                     tuï¿½antu     3
-   20-1  aruï¿½ um aï¿½pu um nï¿½kki tuï¿½ai tuï¿½antu
-  137-2  niï¿½+ tuï¿½antu amikuveï¿½ ï¿½yiï¿½ eï¿½+ tuï¿½antu
-  137-2  niï¿½+ tuï¿½antu amikuveï¿½ ï¿½yiï¿½ eï¿½+ tuï¿½antu
+                                     tuŸantu     3
+   20-1  aruë um a­pu um nãkki tuõai tuŸantu
+  137-2  ni­+ tuŸantu amaikuve­ àyi­ e­+ tuŸantu
+  137-2  ni­+ tuŸantu amaikuve­ àyi­ e­+ tuŸantu
  
-                                     tuï¿½ukal     1
-   47-1  karum kï¿½l vï¿½ï¿½ki vï¿½ uku tuï¿½ukal
+                                     tuŸukal     1
+   47-1  karum kàl v›ïkai vã uku tuŸukal
  
-                                      tuï¿½ai     2
-  116-2  vaï¿½am keï¿½u cï¿½ï¿½ar uï¿½anti+ perum tuï¿½ai
-  399-1  ï¿½r uï¿½ kï¿½ï¿½i uï¿½ tuï¿½ai+ tokka
+                                      tuŸai     2
+  116-2  vaëam ke©u c©ar uŸantai+ perum tuŸai
+  399-1  år uõ k›õi uõ tuŸai+ tokka
  
-                                     tuï¿½aivaï¿½     2
-  109-2  puï¿½ari iku tiri tarï¿½um tuï¿½aivaï¿½
-   97-3  tuï¿½aivaï¿½ tam ï¿½rï¿½ ï¿½
+                                     tuŸaiva­     2
+  109-2  puõari iku tirai taråum tuŸaiva­
+   97-3  tuŸaiva­ tam årà­ ›
  
-                                       tï¿½u     1
-  157-2  tuï¿½ku eï¿½ï¿½aï¿½ï¿½u eï¿½ tï¿½u neï¿½cam
+                                       tåu     1
+  157-2  tuñku e­Ÿa­Ÿu e­ tåu ne¤cam
  
-                                      tï¿½kkum     1
-  369-3  kï¿½ï¿½ai tï¿½kkum kï¿½am
+                                      tåkkum     1
+  369-3  kñai tåkkum kà­am
  
-                                       tï¿½m     1
-  116-1  yï¿½ nayantu uï¿½aivï¿½ï¿½ tï¿½m pï¿½y kï¿½ntal
+                                       t›m     1
+  116-1  yà­ nayantu uŸaivë t›m pày kåntal
  
-                                      tï¿½yum     1
-   42-4  toï¿½arpu um tï¿½yum ï¿½ niï¿½ vayiï¿½ï¿½ ï¿½
+                                      t›yum     1
+   42-4  toñarpu um t›yum  ni­ vayi­à­ ›
  
-                                      tï¿½ytta     1
-    1-1  cem^ kaï¿½am paï¿½a+ koï¿½ï¿½u avuï¿½ar+ tï¿½ytta
+                                      t›ytta     1
+    1-1  cem^ kaëam paña+ ko­Ÿu avuõar+ t›ytta
  
-                                      tï¿½rï¿½ï¿½     1
-  227-4  tï¿½rï¿½ï¿½ pï¿½kiya kï¿½alï¿½ ï¿½
+                                      t›r­     1
+  227-4  t›r­ pkiya kà­alà­ ›
  
-                                       tï¿½ï¿½     1
-    3-4  perum^ tï¿½ï¿½ iï¿½aikkum nï¿½ï¿½aï¿½oï¿½u naï¿½pu ï¿½
+                                       t›­     1
+    3-4  perum^ t›­ i©aikkum nàña­oñu nañpu ›
  
                                       tokka     1
-  399-1  ï¿½r uï¿½ kï¿½ï¿½i uï¿½ tuï¿½ai+ tokka
+  399-1  år uõ k›õi uõ tuŸai+ tokka
  
-                                     toï¿½arpu     1
-   42-4  toï¿½arpu um tï¿½yum ï¿½ niï¿½ vayiï¿½ï¿½ ï¿½
+                                     toñarpu     1
+   42-4  toñarpu um t›yum  ni­ vayi­à­ ›
  
-                                       toï¿½i     2
-    1-3  kaï¿½al toï¿½i cï¿½ey kuï¿½ï¿½am
-  384-2  neï¿½um pal kï¿½ntal kuï¿½um toï¿½i makaï¿½ir
+                                       toñi     2
+    1-3  ka©al toñi c›ey ku­Ÿam
+  384-2  neñum pal kåntal kuŸum toñi makaëir
  
-                                     toï¿½uvuï¿½i     2
-  399-3  toï¿½uvuï¿½i+ toï¿½uvuï¿½i nï¿½ï¿½ki
-  399-3  toï¿½uvuï¿½i+ toï¿½uvuï¿½i nï¿½ï¿½ki
+                                     toñuvu©i     2
+  399-3  toñuvu©i+ toñuvu©i nãïki
+  399-3  toñuvu©i+ toñuvu©i nãïki
  
-                                     toliya     1
-   93-1  nal nalam toliya nalam mika+ cï¿½ay
+                                     tolaiya     1
+   93-1  nal nalam tolaiya nalam mika+ càay
  
-                                       tï¿½y     1
-  157-3  tï¿½ï¿½ tï¿½y kï¿½talar+ pirikkum
+                                       ty     1
+  157-3  të ty kàtalar+ pirikkum
  
-                                     tï¿½yvaï¿½ï¿½u     1
-  102-3  vï¿½ tï¿½yvaï¿½ï¿½u ï¿½ kï¿½mam
+                                     tyvaŸŸu     1
+  102-3  và­ tyvaŸŸu › kàmam
  
-                                       tï¿½ï¿½i     7
-  315-3  ï¿½ï¿½yiï¿½u aï¿½aiyaï¿½ tï¿½ï¿½i
-  371-4  maruvï¿½ï¿½ tï¿½ï¿½i atu kï¿½mam ï¿½ peritu ï¿½
-   37-4  aï¿½piï¿½a tï¿½ï¿½i avar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
-  135-4  aï¿½ï¿½al tï¿½ï¿½i aï¿½uï¿½kuvar celavu ï¿½
-  186-4  tuyil tuï¿½antaï¿½a ï¿½l tï¿½ï¿½i em kaï¿½ ï¿½
-  369-4  celvï¿½m tï¿½ï¿½i nalkiï¿½ar namar ï¿½
-  171-1  kï¿½ï¿½ iï¿½i vï¿½i tï¿½ï¿½i yï¿½ï¿½ar+
+                                       t©i     7
+  315-3  ¤àyiŸu a­aiya­ t©i
+  371-4  maruv›­ t©i atu kàmam  peritu ›
+   37-4  a­pi­a t©i avar ce­Ÿa àŸu ›
+  135-4  a©àal t©i a©uïkuvar celavu ›
+  186-4  tuyil tuŸanta­a àl t©i em kaõ ›
+  369-4  celvàm t©i nalki­ar namar ›
+  171-1  kàõ i­i và©i t©i yàõar+
  
-                                       tï¿½ï¿½     4
-  384-1  uï¿½untu uï¿½ai+ kaï¿½untiï¿½ karumpu uï¿½ai+ paï¿½ai+ tï¿½ï¿½
-  315-4  neruï¿½ci aï¿½aiya eï¿½ perum paï¿½ai+ tï¿½ï¿½ ï¿½
-  157-3  tï¿½ï¿½ tï¿½y kï¿½talar+ pirikkum
-   71-3  perum tï¿½ï¿½ nuï¿½ukiya nucuppiï¿½
+                                       të     4
+  384-1  u©untu uñai+ ka©unti­ karumpu uñai+ paõai+ të
+  315-4  neru¤ci a­aiya e­ perum paõai+ të ›
+  157-3  të ty kàtalar+ pirikkum
+   71-3  perum të nuõukiya nucuppi­
  
-                                      tï¿½ï¿½ï¿½um     1
-   47-2  irum puli+ kuruï¿½aiyiï¿½ tï¿½ï¿½ï¿½um kï¿½ï¿½ï¿½u iï¿½ai
+                                      t­Ÿum     1
+   47-2  irum puli+ kuruëaiyi­ t­Ÿum kàññu iñai
  
-                                      naki     1
-   96-3  naki eï¿½a uï¿½arï¿½ï¿½ ï¿½yiï¿½
+                                      nakai     1
+   96-3  nakai e­a uõar›­ àyi­
  
-                                      naci     1
-   37-1  naci peritu uï¿½aiyar nalkal um nalkuvar
+                                      nacai     1
+   37-1  nacai peritu uñaiyar nalkal um nalkuvar
  
-                                      naï¿½pu     1
-    3-4  perum^ tï¿½ï¿½ iï¿½aikkum nï¿½ï¿½aï¿½oï¿½u naï¿½pu ï¿½
+                                      nañpu     1
+    3-4  perum^ t›­ i©aikkum nàña­oñu nañpu ›
  
                                        nam     2
-   39-3  mali uï¿½ai arum curam eï¿½pa nam
-    4-3  amitaï¿½ku aminta nam kï¿½talar
+   39-3  malai uñai arum curam e­pa nam
+    4-3  amaitaŸku amainta nam kàtalar
  
                                      namakku     2
-   93-2  iï¿½ uyir kaï¿½iyiï¿½um uriyal avar namakku
-  135-3  namakku urittï¿½rum tï¿½m ï¿½
+   93-2  i­ uyir ka©iyi­um uraiyal avar namakku
+  135-3  namakku uraittrum tàm ›
  
                                       namar     1
-  369-4  celvï¿½m tï¿½ï¿½i nalkiï¿½ar namar ï¿½
+  369-4  celvàm t©i nalki­ar namar ›
  
                                      nayantu     1
-  116-1  yï¿½ nayantu uï¿½aivï¿½ï¿½ tï¿½m pï¿½y kï¿½ntal
+  116-1  yà­ nayantu uŸaivë t›m pày kåntal
  
                                        nal     5
-  137-1  mel iyal arivi niï¿½ nal akam pulampa
-   93-1  nal nalam toliya nalam mika+ cï¿½ay
-  109-4  iï¿½ï¿½atu maï¿½ ï¿½ nal nutal+ kaviï¿½ ï¿½
-   96-4  eï¿½ ï¿½kuvi kol nal nutal nï¿½ ï¿½
-  116-4  nal neï¿½iyav+ ï¿½ naï¿½um taï¿½ï¿½iya ï¿½
+  137-1  mel iyal arivai ni­ nal akam pulampa
+   93-1  nal nalam tolaiya nalam mika+ càay
+  109-4  i­­atu ma­  nal nutal+ kavi­ ›
+   96-4  e­ àkuvai kol nal nutal nã ›
+  116-4  nal neŸiyav+ › naŸum taõõiya ›
  
                                       nalam     3
-  188-4  mï¿½li vantaï¿½ï¿½u eï¿½ mï¿½ï¿½ nalam kuï¿½ittu ï¿½
-   93-1  nal nalam toliya nalam mika+ cï¿½ay
-   93-1  nal nalam toliya nalam mika+ cï¿½ay
+  188-4  màlai vanta­Ÿu e­ màõ nalam kuŸittu ›
+   93-1  nal nalam tolaiya nalam mika+ càay
+   93-1  nal nalam tolaiya nalam mika+ càay
  
-                                      nalaï¿½     2
-  384-3  nalaï¿½ uï¿½ï¿½u tuï¿½atti ï¿½yiï¿½
-   97-1  yï¿½ ï¿½ ï¿½ï¿½ï¿½aiyï¿½ï¿½ ï¿½ eï¿½ nalaï¿½ ï¿½
+                                      nala­     2
+  384-3  nala­ uõñu tuŸatti àyi­
+   97-1  yà­ › ãõñaiy›­ › e­ nala­ ›
  
                                       nalkal     1
-   37-1  naci peritu uï¿½aiyar nalkal um nalkuvar
+   37-1  nacai peritu uñaiyar nalkal um nalkuvar
  
-                                     nalkiï¿½ar     1
-  369-4  celvï¿½m tï¿½ï¿½i nalkiï¿½ar namar ï¿½
+                                     nalki­ar     1
+  369-4  celvàm t©i nalki­ar namar ›
  
                                      nalkuvar     1
-   37-1  naci peritu uï¿½aiyar nalkal um nalkuvar
+   37-1  nacai peritu uñaiyar nalkal um nalkuvar
  
-                                     nalkuï¿½u     1
-   71-4  kal keï¿½u kï¿½avar nalkuï¿½u makaï¿½ ï¿½
+                                     nalkuŸu     1
+   71-4  kal ke©u kà­avar nalkuŸu makaë ›
  
-                                      nallaï¿½     1
-  120-3  nallaï¿½ ï¿½kutal aï¿½intï¿½ï¿½ku
+                                      nallaë     1
+  120-3  nallaë àkutal aŸintàïku
  
-                                      nalli     1
-   47-4  nalli alli neï¿½u veï¿½ nilavu ï¿½
+                                      nallai     1
+   47-4  nallai allai neñu veë nilavu ›
  
-                                   naï¿½ï¿½eï¿½ï¿½aï¿½ï¿½u     1
-    6-1  naï¿½ï¿½eï¿½ï¿½aï¿½ï¿½u* ï¿½ yï¿½mam col avintu
+                                   naëëe­Ÿa­Ÿu     1
+    6-1  naëëe­Ÿa­Ÿu* › yàmam col avintu
  
-                                      naï¿½um     1
-  116-4  nal neï¿½iyav+ ï¿½ naï¿½um taï¿½ï¿½iya ï¿½
+                                      naŸum     1
+  116-4  nal neŸiyav+ › naŸum taõõiya ›
  
-                                      naï¿½am     1
-    6-3  naï¿½am^ tali ulakam um tuï¿½cum
+                                      na­am     1
+    6-3  na­am^ talai ulakam um tu¤cum
  
-                                      naï¿½ï¿½u     2
-  384-4  mika naï¿½ï¿½u amma makiï¿½na niï¿½ cï¿½ï¿½ ï¿½
-  166-3  ï¿½r ï¿½ naï¿½ï¿½u maï¿½ maranti
+                                      na­Ÿu     2
+  384-4  mika na­Ÿu amma maki©na ni­ cåë ›
+  166-3  år  na­Ÿu ma­ marantai
  
-                                       nï¿½ï¿½a     1
-   42-3  viï¿½ar akattu iyampum nï¿½ï¿½a em
+                                       nàña     1
+   42-3  viñar akattu iyampum nàña em
  
-                                     nï¿½ï¿½aï¿½ku     2
-   96-1  aruvi vï¿½ï¿½ki+ peru mali nï¿½ï¿½aï¿½ku
-  186-3  eyiï¿½u eï¿½a mukiyum nï¿½ï¿½aï¿½ku+
+                                     nàñaŸku     2
+   96-1  aruvi v›ïkai+ peru malai nàñaŸku
+  186-3  eyiŸu e­a mukaiyum nàñaŸku+
  
-                                      nï¿½ï¿½aï¿½     1
-  315-2  oï¿½uku veï¿½ aruvi ï¿½ï¿½ku mali nï¿½ï¿½aï¿½
+                                      nàña­     1
+  315-2  o©uku veë aruvi ïku malai nàña­
  
-                                     nï¿½ï¿½aï¿½oï¿½u     2
-  371-3  aruviyiï¿½ viï¿½aikkum nï¿½ï¿½aï¿½oï¿½u
-    3-4  perum^ tï¿½ï¿½ iï¿½aikkum nï¿½ï¿½aï¿½oï¿½u naï¿½pu ï¿½
+                                     nàña­oñu     2
+  371-3  aruviyi­ viëaikkum nàña­oñu
+    3-4  perum^ t›­ i©aikkum nàña­oñu nañpu ›
  
-                                       nï¿½m     1
-   20-4  maï¿½avam ï¿½ka maï¿½anti nï¿½m ï¿½
+                                       nàm     1
+   20-4  mañavam àka mañantai nàm ›
  
-                                      nï¿½ri     1
-  166-2  nï¿½ri niri peyarntu ayiri ï¿½rum
+                                      nàrai     1
+  166-2  nàrai nirai peyarntu ayirai àrum
  
-                                     nirampï¿½     1
-   33-3  irantu ï¿½ï¿½ nirampï¿½ mï¿½ï¿½iyoï¿½u
+                                     nirampà     1
+   33-3  irantu åõ nirampà m›­iyoñu
  
-                                      niri     1
-  166-2  nï¿½ri niri peyarntu ayiri ï¿½rum
+                                      nirai     1
+  166-2  nàrai nirai peyarntu ayirai àrum
  
-                                     nilattiï¿½     1
-    3-1  nilattiï¿½ um peritu ï¿½ vï¿½iï¿½ um uyarntaï¿½ï¿½u
+                                     nilatti­     1
+    3-1  nilatti­ um peritu › và­i­ um uyarnta­Ÿu
  
                                       nilavu     1
-   47-4  nalli alli neï¿½u veï¿½ nilavu ï¿½
+   47-4  nallai allai neñu veë nilavu ›
  
-                                       niï¿½     4
-  384-4  mika naï¿½ï¿½u amma makiï¿½na niï¿½ cï¿½ï¿½ ï¿½
-  137-2  niï¿½+ tuï¿½antu amikuveï¿½ ï¿½yiï¿½ eï¿½+ tuï¿½antu
-  137-1  mel iyal arivi niï¿½ nal akam pulampa
-   42-4  toï¿½arpu um tï¿½yum ï¿½ niï¿½ vayiï¿½ï¿½ ï¿½
+                                       ni­     4
+  384-4  mika na­Ÿu amma maki©na ni­ cåë ›
+  137-2  ni­+ tuŸantu amaikuve­ àyi­ e­+ tuŸantu
+  137-1  mel iyal arivai ni­ nal akam pulampa
+   42-4  toñarpu um t›yum  ni­ vayi­à­ ›
  
-                                        nï¿½     1
-   96-4  eï¿½ ï¿½kuvi kol nal nutal nï¿½ ï¿½
+                                        nã     1
+   96-4  e­ àkuvai kol nal nutal nã ›
  
-                                      nï¿½kki     1
-   20-1  aruï¿½ um aï¿½pu um nï¿½kki tuï¿½ai tuï¿½antu
+                                      nãkki     1
+   20-1  aruë um a­pu um nãkki tuõai tuŸantu
  
-                                      nï¿½ï¿½ki     1
-  399-3  toï¿½uvuï¿½i+ toï¿½uvuï¿½i nï¿½ï¿½ki
+                                      nãïki     1
+  399-3  toñuvu©i+ toñuvu©i nãïki
  
-                                       nï¿½r     1
-  122-2  kuï¿½ï¿½u nï¿½r ï¿½mpal um kï¿½mpiï¿½a iï¿½i ï¿½
+                                       nãr     1
+  122-2  kuõñu nãr àmpal um kåmpi­a i­i ›
  
-                                      nï¿½riï¿½     1
-    3-2  nï¿½riï¿½ um ï¿½r aï¿½aviï¿½ï¿½u* ï¿½ cï¿½ral
+                                      nãri­     1
+    3-2  nãri­ um àr aëavi­Ÿu* › càral
  
-                                     nucuppiï¿½     1
-   71-3  perum tï¿½ï¿½ nuï¿½ukiya nucuppiï¿½
+                                     nucuppi­     1
+   71-3  perum të nuõukiya nucuppi­
  
-                                       nuï¿½     1
-  116-3  nuï¿½ maï¿½al aï¿½al vï¿½rntaï¿½ï¿½a
+                                       nuõ     1
+  116-3  nuõ maõal aŸal vàrnta­­a
  
-                                     nuï¿½ukiya     1
-   71-3  perum tï¿½ï¿½ nuï¿½ukiya nucuppiï¿½
+                                     nuõukiya     1
+   71-3  perum të nuõukiya nucuppi­
  
                                       nutal     3
-  135-1  viï¿½ai ï¿½ ï¿½ï¿½avarkku uyir ï¿½ vï¿½ï¿½ nutal
-  109-4  iï¿½ï¿½atu maï¿½ ï¿½ nal nutal+ kaviï¿½ ï¿½
-   96-4  eï¿½ ï¿½kuvi kol nal nutal nï¿½ ï¿½
+  135-1  vi­ai › àñavarkku uyir › vàë nutal
+  109-4  i­­atu ma­  nal nutal+ kavi­ ›
+   96-4  e­ àkuvai kol nal nutal nã ›
  
-                                     nekiï¿½tal     1
-  371-1  ki vaï¿½ai nekiï¿½tal um mey pacappu ï¿½rtal um
+                                     neki©tal     1
+  371-1  kai vaëai neki©tal um mey pacappu årtal um
  
-                                    nekiï¿½ttï¿½r     1
-  188-3  vï¿½l iï¿½ai nekiï¿½ttï¿½r vï¿½rï¿½r
+                                    neki©ttr     1
+  188-3  vàl i©ai neki©ttr vàràr
  
-                                      neï¿½cam     1
-  157-2  tuï¿½ku eï¿½ï¿½aï¿½ï¿½u eï¿½ tï¿½u neï¿½cam
+                                      ne¤cam     1
+  157-2  tuñku e­Ÿa­Ÿu e­ tåu ne¤cam
  
-                                      neï¿½cu     5
-    4-1  nï¿½m eï¿½ neï¿½cu* ï¿½ nï¿½m eï¿½ neï¿½cu* ï¿½
-    4-4  amivu ilar ï¿½kutal nï¿½m eï¿½ neï¿½cu ï¿½
-   63-4  emmi uytti ï¿½ uritticiï¿½ neï¿½cu ï¿½
-  120-2  aritu vï¿½ï¿½ï¿½aï¿½ai ï¿½l neï¿½cu ï¿½ kï¿½tali
-    4-1  nï¿½m eï¿½ neï¿½cu* ï¿½ nï¿½m eï¿½ neï¿½cu* ï¿½
+                                      ne¤cu     5
+    4-1  nm e­ ne¤cu* › nm e­ ne¤cu* ›
+    4-4  amaivu ilar àkutal nm e­ ne¤cu ›
+   63-4  emmai uytti  uraittici­ ne¤cu ›
+  120-2  aritu v›ñña­ai àl ne¤cu › kàtali
+    4-1  nm e­ ne¤cu* › nm e­ ne¤cu* ›
  
-                                       neï¿½u     1
-   47-4  nalli alli neï¿½u veï¿½ nilavu ï¿½
+                                       neñu     1
+   47-4  nallai allai neñu veë nilavu ›
  
-                                      neï¿½um     2
-  171-2  kaï¿½um puï¿½al aï¿½aikari neï¿½um kayattu iï¿½ï¿½a
-  384-2  neï¿½um pal kï¿½ntal kuï¿½um toï¿½i makaï¿½ir
+                                      neñum     2
+  171-2  kañum pu­al añaikarai neñum kayattu iñña
+  384-2  neñum pal kåntal kuŸum toñi makaëir
  
                                       neytal     1
-  227-3  kï¿½ai neytal um uï¿½aittu ivaï¿½
+  227-3  kå©ai neytal um uñaittu ivaõ
  
-                                     neruï¿½ci     1
-  315-4  neruï¿½ci aï¿½aiya eï¿½ perum paï¿½ai+ tï¿½ï¿½ ï¿½
+                                     neru¤ci     1
+  315-4  neru¤ci a­aiya e­ perum paõai+ të ›
  
-                                     neï¿½iyav     1
-  116-4  nal neï¿½iyav+ ï¿½ naï¿½um taï¿½ï¿½iya ï¿½
+                                     neŸiyav     1
+  116-4  nal neŸiyav+ › naŸum taõõiya ›
  
-                                      neï¿½ï¿½u     2
-  369-1  atta vï¿½ki amali vï¿½l neï¿½ï¿½u
-   39-2  neï¿½ï¿½u viï¿½ai uï¿½iï¿½cil vaï¿½ï¿½al ï¿½rkkum
+                                      neŸŸu     2
+  369-1  atta vàkai amalai vàl neŸŸu
+   39-2  neŸŸu viëai u©i¤cil vaŸŸal àrkkum
  
-                                       nï¿½mi     1
-  227-1  pï¿½ï¿½ vaï¿½aintaï¿½ï¿½a polam cï¿½ï¿½ï¿½u nï¿½mi
+                                       n›mi     1
+  227-1  påõ va­ainta­­a polam cåññu n›mi
  
                                     notumalar     1
-  171-4  itu maï¿½ï¿½u evaï¿½ ï¿½ notumalar tali ï¿½
+  171-4  itu maŸŸu eva­  notumalar talai ›
  
-                                      nï¿½kki     2
-   44-2  nï¿½kki nï¿½kki vï¿½ï¿½ iï¿½antaï¿½a ï¿½
-   44-2  nï¿½kki nï¿½kki vï¿½ï¿½ iï¿½antaï¿½a ï¿½
+                                      nkki     2
+   44-2  nkki nkki vàë i©anta­a ›
+   44-2  nkki nkki vàë i©anta­a ›
  
-                                       nï¿½m     3
-    4-1  nï¿½m eï¿½ neï¿½cu* ï¿½ nï¿½m eï¿½ neï¿½cu* ï¿½
-    4-4  amivu ilar ï¿½kutal nï¿½m eï¿½ neï¿½cu ï¿½
-    4-1  nï¿½m eï¿½ neï¿½cu* ï¿½ nï¿½m eï¿½ neï¿½cu* ï¿½
+                                       nm     3
+    4-1  nm e­ ne¤cu* › nm e­ ne¤cu* ›
+    4-4  amaivu ilar àkutal nm e­ ne¤cu ›
+    4-1  nm e­ ne¤cu* › nm e­ ne¤cu* ›
  
-                                      nï¿½yoï¿½u     1
-   97-2  ï¿½ï¿½ nï¿½yoï¿½u kï¿½alaï¿½tu ï¿½
+                                      nyoñu     1
+   97-2  à­à nyoñu kà­ala«tu ›
  
-                                     pakaï¿½ï¿½u     1
-   71-2  arumpiya cuï¿½aï¿½kiï¿½ am pakaï¿½ï¿½u iï¿½a muli
+                                     pakaññu     1
+   71-2  arumpiya cuõaïki­ am pakaññu iëa mulai
  
                                      pacappu     1
-  371-1  ki vaï¿½ai nekiï¿½tal um mey pacappu ï¿½rtal um
+  371-1  kai vaëai neki©tal um mey pacappu årtal um
  
-                                     pacali     1
-  399-2  pï¿½ci aï¿½ï¿½u ï¿½ pacali kï¿½talar
+                                     pacalai     1
+  399-2  pàci aŸŸu › pacalai kàtalar
  
                                        paci     1
-   37-2  piï¿½i paci kaï¿½aiiya perum ki vï¿½ï¿½am
+   37-2  piñi paci kaëaiiya perum kai v›©am
  
-                                       paï¿½a     1
-    1-1  cem^ kaï¿½am paï¿½a+ koï¿½ï¿½u avuï¿½ar+ tï¿½ytta
+                                       paña     1
+    1-1  cem^ kaëam paña+ ko­Ÿu avuõar+ t›ytta
  
-                                       paï¿½u     2
-  371-2  mi paï¿½u cilampiï¿½ aivaï¿½am vitti
-  166-1  taï¿½ kaï¿½al+ paï¿½u tiri peyarttaliï¿½ veï¿½ paï¿½ai
+                                       pañu     2
+  371-2  mai pañu cilampi­ aiva­am vitti
+  166-1  taõ kañal+ pañu tirai peyarttali­ veë paŸai
  
-                                      paï¿½upa     1
-   17-3  maï¿½ukiï¿½ ï¿½rkka um paï¿½upa
+                                      pañupa     1
+   17-3  maŸuki­ àrkka um pañupa
  
-                                    paï¿½ï¿½ï¿½aï¿½ku     1
-  171-3  mï¿½ vali mï¿½+ paï¿½ï¿½ï¿½aï¿½ku
+                                    paññàaïku     1
+  171-3  mã­ valai mà+ paññàaïku
  
-                                      paï¿½ai     2
-  384-1  uï¿½untu uï¿½ai+ kaï¿½untiï¿½ karumpu uï¿½ai+ paï¿½ai+ tï¿½ï¿½
-  315-4  neruï¿½ci aï¿½aiya eï¿½ perum paï¿½ai+ tï¿½ï¿½ ï¿½
+                                      paõai     2
+  384-1  u©untu uñai+ ka©unti­ karumpu uñai+ paõai+ të
+  315-4  neru¤ci a­aiya e­ perum paõai+ të ›
  
-                                    parattalï¿½     1
-  399-4  viï¿½uvuï¿½i viï¿½uvuï¿½i+ parattalï¿½ ï¿½
+                                    parattalà­     1
+  399-4  viñuvu©i viñuvu©i+ parattalà­ ›
  
                                        pari     1
-   44-1  kï¿½l ï¿½ pari tappiï¿½a ï¿½ kaï¿½ ï¿½
+   44-1  kàl › pari tappi­a › kaõ ›
  
                                        pal     1
-  384-2  neï¿½um pal kï¿½ntal kuï¿½um toï¿½i makaï¿½ir
+  384-2  neñum pal kåntal kuŸum toñi makaëir
  
                                        pala     1
-  137-4  pala ï¿½kuka yï¿½ celavuï¿½u takavu ï¿½
+  137-4  pala àkuka yà­ celavuŸu takavu ›
  
                                       palar     1
-   44-4  palar ï¿½ maï¿½ï¿½a i ulakattu+ piï¿½ar ï¿½
+   44-4  palar › ma­Ÿa i ulakattu+ piŸar ›
  
-                                      paï¿½ai     1
-  166-1  taï¿½ kaï¿½al+ paï¿½u tiri peyarttaliï¿½ veï¿½ paï¿½ai
+                                      paŸai     1
+  166-1  taõ kañal+ pañu tirai peyarttali­ veë paŸai
  
-                                       paï¿½i     1
-   68-3  arum paï¿½i aï¿½ciram tï¿½rkkum
+                                       pa­i     1
+   68-3  arum pa­i aŸciram tãrkkum
  
-                                       pï¿½ci     1
-  399-2  pï¿½ci aï¿½ï¿½u ï¿½ pacali kï¿½talar
+                                       pàci     1
+  399-2  pàci aŸŸu › pacalai kàtalar
  
-                                       pï¿½y     1
-  116-1  yï¿½ nayantu uï¿½aivï¿½ï¿½ tï¿½m pï¿½y kï¿½ntal
+                                       pày     1
+  116-1  yà­ nayantu uŸaivë t›m pày kåntal
  
-                                    pï¿½ttaï¿½ï¿½a     1
-  124-2  ï¿½r pï¿½ttaï¿½ï¿½a ï¿½mi am perum kï¿½ï¿½u
+                                    pà©tta­­a     1
+  124-2  år pà©tta­­a mai am perum kàñu
  
-                                       piï¿½i     1
-   37-2  piï¿½i paci kaï¿½aiiya perum ki vï¿½ï¿½am
+                                       piñi     1
+   37-2  piñi paci kaëaiiya perum kai v›©am
  
                                      pirikkum     1
-  157-3  tï¿½ï¿½ tï¿½y kï¿½talar+ pirikkum
+  157-3  të ty kàtalar+ pirikkum
  
-                                     pirivï¿½r     1
-   20-2  poruï¿½ vayiï¿½+ pirivï¿½r uravï¿½r ï¿½yiï¿½
+                                     pirivr     1
+   20-2  poruë vayi­+ pirivr uravr àyi­
  
-                                      piï¿½ar     1
-   44-4  palar ï¿½ maï¿½ï¿½a i ulakattu+ piï¿½ar ï¿½
+                                      piŸar     1
+   44-4  palar › ma­Ÿa i ulakattu+ piŸar ›
  
-                                      piï¿½itu     2
-   68-4  maruntu piï¿½itu illi avar maï¿½anta mï¿½rpu ï¿½
-   17-4  piï¿½itu um ï¿½kupa kï¿½mam kï¿½+ koï¿½iï¿½ ï¿½
+                                      piŸitu     2
+   68-4  maruntu piŸitu illai avar maõanta màrpu ›
+   17-4  piŸitu um àkupa kàmam kà©+ koëi­ ›
  
-                                      puï¿½ari     1
-  109-2  puï¿½ari iku tiri tarï¿½um tuï¿½aivaï¿½
+                                      puõari     1
+  109-2  puõari iku tirai taråum tuŸaiva­
  
-                                     puï¿½ariya     1
-  109-3  puï¿½ariya irunta ï¿½à­Ÿu um
+                                     puõariya     1
+  109-3  puõariya irunta ¤à­Ÿu um
  
                                      pulampa     1
-  137-1  mel iyal arivi niï¿½ nal akam pulampa
+  137-1  mel iyal arivai ni­ nal akam pulampa
  
                                      pulampu     1
-  166-4  oru taï¿½i vikiï¿½ pulampu ï¿½kiï¿½ï¿½u ï¿½
+  166-4  oru ta­i vaiki­ pulampu àki­Ÿu ›
  
                                       pulavi     1
-   93-4  pulavi aï¿½tu evaï¿½ ï¿½ aï¿½pu ilam kaï¿½ai ï¿½
+   93-4  pulavi a«tu eva­  a­pu ilam kañai ›
  
                                        puli     1
-   47-2  irum puli+ kuruï¿½aiyiï¿½ tï¿½ï¿½ï¿½um kï¿½ï¿½ï¿½u iï¿½ai
+   47-2  irum puli+ kuruëaiyi­ t­Ÿum kàññu iñai
  
-                                       puï¿½a     1
-  109-1  muï¿½+ kï¿½l iï¿½aviï¿½ muï¿½aï¿½ku puï¿½a+ perum kiï¿½ai
+                                       puŸa     1
+  109-1  muë+ kàl iŸavi­ muñaïku puŸa+ perum kiëai
  
-                                     puï¿½attu     1
-  122-1  pim kï¿½l+ kokkiï¿½ puï¿½ puï¿½attu aï¿½ï¿½a
+                                     puŸattu     1
+  122-1  paim kàl+ kokki­ pu­ puŸattu a­­a
  
-                                       puï¿½     1
-  122-1  pim kï¿½l+ kokkiï¿½ puï¿½ puï¿½attu aï¿½ï¿½a
+                                       pu­     1
+  122-1  paim kàl+ kokki­ pu­ puŸattu a­­a
  
-                                     puï¿½atta     1
-  186-2  kolli+ puï¿½atta mulli mel koï¿½i
+                                     pu­atta     1
+  186-2  kollai+ pu­atta mullai mel koñi
  
-                                      puï¿½am     1
-  188-2  taki muï¿½ï¿½iï¿½a ï¿½ taï¿½ kï¿½r viyaï¿½ puï¿½am
+                                      pu­am     1
+  188-2  takai muŸŸi­a › taõ kàr viya­ pu­am
  
-                                      puï¿½al     1
-  171-2  kaï¿½um puï¿½al aï¿½aikari neï¿½um kayattu iï¿½ï¿½a
+                                      pu­al     1
+  171-2  kañum pu­al añaikarai neñum kayattu iñña
  
-                                        pï¿½     2
-   17-1  mï¿½ eï¿½a maï¿½al um ï¿½rpa pï¿½ eï¿½a+
-    3-3  karum^ kï¿½l+ kuï¿½iï¿½ci+ pï¿½+ koï¿½ï¿½u
+                                        på     2
+   17-1  mà e­a mañal um årpa på e­a+
+    3-3  karum^ kl+ kuŸi¤ci+ på+ koõñu
  
-                                       pï¿½ï¿½     1
-  227-1  pï¿½ï¿½ vaï¿½aintaï¿½ï¿½a polam cï¿½ï¿½ï¿½u nï¿½mi
+                                       påõ     1
+  227-1  påõ va­ainta­­a polam cåññu n›mi
  
-                                      pï¿½viï¿½     1
-    1-4  kuruti+ pï¿½viï¿½ kuli+ kï¿½ntaï¿½ï¿½u* ï¿½
+                                      påvi­     1
+    1-4  kuruti+ påvi­ kulai+ kàntaññu* ›
  
-                                       pï¿½     1
-   68-1  pï¿½+ kï¿½l aï¿½ï¿½a cem kï¿½l uï¿½untiï¿½
+                                       på©     1
+   68-1  på©+ kàl a­­a cem kàl u©unti­
  
-                                   peyarttaliï¿½     1
-  166-1  taï¿½ kaï¿½al+ paï¿½u tiri peyarttaliï¿½ veï¿½ paï¿½ai
+                                   peyarttali­     1
+  166-1  taõ kañal+ pañu tirai peyarttali­ veë paŸai
  
                                      peyarntu     1
-  166-2  nï¿½ri niri peyarntu ayiri ï¿½rum
+  166-2  nàrai nirai peyarntu ayirai àrum
  
                                       peritu     3
-   37-1  naci peritu uï¿½aiyar nalkal um nalkuvar
-  371-4  maruvï¿½ï¿½ tï¿½ï¿½i atu kï¿½mam ï¿½ peritu ï¿½
-    3-1  nilattiï¿½ um peritu ï¿½ vï¿½iï¿½ um uyarntaï¿½ï¿½u
+   37-1  nacai peritu uñaiyar nalkal um nalkuvar
+  371-4  maruv›­ t©i atu kàmam  peritu ›
+    3-1  nilatti­ um peritu › và­i­ um uyarnta­Ÿu
  
                                        peru     1
-   96-1  aruvi vï¿½ï¿½ki+ peru mali nï¿½ï¿½aï¿½ku
+   96-1  aruvi v›ïkai+ peru malai nàñaŸku
  
                                       perum     8
-  124-2  ï¿½r pï¿½ttaï¿½ï¿½a ï¿½mi am perum kï¿½ï¿½u
-  109-1  muï¿½+ kï¿½l iï¿½aviï¿½ muï¿½aï¿½ku puï¿½a+ perum kiï¿½ai
-   37-2  piï¿½i paci kaï¿½aiiya perum ki vï¿½ï¿½am
-   33-4  viruntiï¿½ ï¿½rum perum cemmalaï¿½ ï¿½
-  116-2  vaï¿½am keï¿½u cï¿½ï¿½ar uï¿½anti+ perum tuï¿½ai
-    3-4  perum^ tï¿½ï¿½ iï¿½aikkum nï¿½ï¿½aï¿½oï¿½u naï¿½pu ï¿½
-   71-3  perum tï¿½ï¿½ nuï¿½ukiya nucuppiï¿½
-  315-4  neruï¿½ci aï¿½aiya eï¿½ perum paï¿½ai+ tï¿½ï¿½ ï¿½
+  124-2  år pà©tta­­a mai am perum kàñu
+  109-1  muë+ kàl iŸavi­ muñaïku puŸa+ perum kiëai
+   37-2  piñi paci kaëaiiya perum kai v›©am
+   33-4  virunti­ årum perum cemmala­ ›
+  116-2  vaëam ke©u c©ar uŸantai+ perum tuŸai
+    3-4  perum^ t›­ i©aikkum nàña­oñu nañpu ›
+   71-3  perum të nuõukiya nucuppi­
+  315-4  neru¤ci a­aiya e­ perum paõai+ të ›
  
                                       peruma     1
-  124-4  iï¿½iya ï¿½ peruma tamiyï¿½rkku maï¿½ai ï¿½
+  124-4  i­iya  peruma tamiyrkku ma­ai ›
  
-                                       pim     1
-  122-1  pim kï¿½l+ kokkiï¿½ puï¿½ puï¿½attu aï¿½ï¿½a
+                                       paim     1
+  122-1  paim kàl+ kokki­ pu­ puŸattu a­­a
  
-                                      poï¿½kar     1
-   39-1  vem tiï¿½al kaï¿½u vaï¿½i poï¿½kar+ pï¿½nteï¿½a
+                                      poïkar     1
+   39-1  vem tiŸal kañu vaëi poïkar+ pnte­a
  
-                                      poruï¿½     1
-   20-2  poruï¿½ vayiï¿½+ pirivï¿½r uravï¿½r ï¿½yiï¿½
+                                      poruë     1
+   20-2  poruë vayi­+ pirivr uravr àyi­
  
                                       polam     1
-  227-1  pï¿½ï¿½ vaï¿½aintaï¿½ï¿½a polam cï¿½ï¿½ï¿½u nï¿½mi
+  227-1  påõ va­ainta­­a polam cåññu n›mi
  
-                                     poï¿½ikkum     1
-   37-3  mel ciï¿½ai yï¿½am poï¿½ikkum
+                                     poëikkum     1
+   37-3  mel ci­ai yàam poëikkum
  
-                                      pï¿½kiya     1
-  227-4  tï¿½rï¿½ï¿½ pï¿½kiya kï¿½alï¿½ ï¿½
+                                      pkiya     1
+  227-4  t›r­ pkiya kà­alà­ ›
  
-                                     pï¿½nteï¿½a     1
-   39-1  vem tiï¿½al kaï¿½u vaï¿½i poï¿½kar+ pï¿½nteï¿½a
+                                     pnte­a     1
+   39-1  vem tiŸal kañu vaëi poïkar+ pnte­a
  
-                                       pï¿½l     1
-  157-4  vï¿½ï¿½ pï¿½l vikaï¿½ai vantaï¿½ï¿½u ï¿½l eï¿½a ï¿½
+                                       pl     1
+  157-4  vàë pl vaikaŸai vanta­Ÿu àl e­a ›
  
-                                      makaï¿½     1
-   71-4  kal keï¿½u kï¿½avar nalkuï¿½u makaï¿½ ï¿½
+                                      makaë     1
+   71-4  kal ke©u kà­avar nalkuŸu makaë ›
  
-                                     makaï¿½ir     1
-  384-2  neï¿½um pal kï¿½ntal kuï¿½um toï¿½i makaï¿½ir
+                                     makaëir     1
+  384-2  neñum pal kåntal kuŸum toñi makaëir
  
-                                    makaï¿½irkku     1
-  135-2  maï¿½ai uï¿½ai makaï¿½irkku ï¿½ï¿½avar uyir eï¿½a
+                                    makaëirkku     1
+  135-2  ma­ai uŸai makaëirkku àñavar uyir e­a
  
-                                     makiï¿½na     1
-  384-4  mika naï¿½ï¿½u amma makiï¿½na niï¿½ cï¿½ï¿½ ï¿½
+                                     maki©na     1
+  384-4  mika na­Ÿu amma maki©na ni­ cåë ›
  
-                                     maï¿½anti     1
-   20-4  maï¿½avam ï¿½ka maï¿½anti nï¿½m ï¿½
+                                     mañantai     1
+   20-4  mañavam àka mañantai nàm ›
  
-                                      maï¿½al     1
-   17-1  mï¿½ eï¿½a maï¿½al um ï¿½rpa pï¿½ eï¿½a+
+                                      mañal     1
+   17-1  mà e­a mañal um årpa på e­a+
  
-                                     maï¿½avam     1
-   20-4  maï¿½avam ï¿½ka maï¿½anti nï¿½m ï¿½
+                                     mañavam     1
+   20-4  mañavam àka mañantai nàm ›
  
-                                     maï¿½anta     1
-   68-4  maruntu piï¿½itu illi avar maï¿½anta mï¿½rpu ï¿½
+                                     maõanta     1
+   68-4  maruntu piŸitu illai avar maõanta màrpu ›
  
-                                      maï¿½al     1
-  116-3  nuï¿½ maï¿½al aï¿½al vï¿½rntaï¿½ï¿½a
+                                      maõal     1
+  116-3  nuõ maõal aŸal vàrnta­­a
  
                                      matiyam     1
-  315-1  eï¿½utaru matiyam kaï¿½al+ kaï¿½ï¿½ï¿½aï¿½ku
+  315-1  e©utaru matiyam kañal+ kaõñàaïku
  
-                                     maranti     1
-  166-3  ï¿½r ï¿½ naï¿½ï¿½u maï¿½ maranti
+                                     marantai     1
+  166-3  år  na­Ÿu ma­ marantai
  
-                                     marï¿½iyï¿½r     1
-  102-4  cà­Ÿï¿½r allar yï¿½m marï¿½iyï¿½r ï¿½
+                                     marãiyr     1
+  102-4  cà­Ÿr allar yàm marãiyr ›
  
-                                     maruï¿½kiï¿½     1
-  124-1  umaï¿½ar cï¿½rntu kaï¿½inta maruï¿½kiï¿½ akal tali
+                                     maruïki­     1
+  124-1  umaõar c›rntu ka©inta maruïki­ akal talai
  
                                      maruntu     3
-   71-1  maruntu eï¿½iï¿½ maruntu ï¿½ vippu eï¿½iï¿½ vippu ï¿½
-   71-1  maruntu eï¿½iï¿½ maruntu ï¿½ vippu eï¿½iï¿½ vippu ï¿½
-   68-4  maruntu piï¿½itu illi avar maï¿½anta mï¿½rpu ï¿½
+   71-1  maruntu e­i­ maruntu › vaippu e­i­ vaippu ›
+   71-1  maruntu e­i­ maruntu › vaippu e­i­ vaippu ›
+   68-4  maruntu piŸitu illai avar maõanta màrpu ›
  
-                                     maruvï¿½ï¿½     1
-  371-4  maruvï¿½ï¿½ tï¿½ï¿½i atu kï¿½mam ï¿½ peritu ï¿½
+                                     maruv›­     1
+  371-4  maruv›­ t©i atu kàmam  peritu ›
  
-                                      mali     3
-   39-3  mali uï¿½ai arum curam eï¿½pa nam
-   96-1  aruvi vï¿½ï¿½ki+ peru mali nï¿½ï¿½aï¿½ku
-  315-2  oï¿½uku veï¿½ aruvi ï¿½ï¿½ku mali nï¿½ï¿½aï¿½
+                                      malai     3
+   39-3  malai uñai arum curam e­pa nam
+   96-1  aruvi v›ïkai+ peru malai nàñaŸku
+  315-2  o©uku veë aruvi ïku malai nàña­
  
-                                      maï¿½ai     1
-   42-2  karuvi mï¿½ maï¿½ai vï¿½nteï¿½a aruvi
+                                      ma©ai     1
+   42-2  karuvi mà ma©ai vã©nte­a aruvi
  
-                                     maï¿½ukiï¿½     1
-   17-3  maï¿½ukiï¿½ ï¿½rkka um paï¿½upa
+                                     maŸuki­     1
+   17-3  maŸuki­ àrkka um pañupa
  
-                                      maï¿½ai     1
-   97-4  maï¿½ai alar ï¿½ki maï¿½ï¿½attaï¿½tu ï¿½
+                                      maŸai     1
+   97-4  maŸai alar àki ma­Ÿatta«tu ›
  
-                                      maï¿½ï¿½u     1
-  171-4  itu maï¿½ï¿½u evaï¿½ ï¿½ notumalar tali ï¿½
+                                      maŸŸu     1
+  171-4  itu maŸŸu eva­  notumalar talai ›
  
-                                       maï¿½     2
-  109-4  iï¿½ï¿½atu maï¿½ ï¿½ nal nutal+ kaviï¿½ ï¿½
-  166-3  ï¿½r ï¿½ naï¿½ï¿½u maï¿½ maranti
+                                       ma­     2
+  109-4  i­­atu ma­  nal nutal+ kavi­ ›
+  166-3  år  na­Ÿu ma­ marantai
  
-                                      maï¿½ai     2
-  135-2  maï¿½ai uï¿½ai makaï¿½irkku ï¿½ï¿½avar uyir eï¿½a
-  124-4  iï¿½iya ï¿½ peruma tamiyï¿½rkku maï¿½ai ï¿½
+                                      ma­ai     2
+  135-2  ma­ai uŸai makaëirkku àñavar uyir e­a
+  124-4  i­iya  peruma tamiyrkku ma­ai ›
  
-                                      maï¿½ï¿½a     2
-   44-4  palar ï¿½ maï¿½ï¿½a i ulakattu+ piï¿½ar ï¿½
-    6-4  ï¿½r yï¿½ maï¿½ï¿½a tuï¿½cï¿½tï¿½ï¿½ ï¿½
+                                      ma­Ÿa     2
+   44-4  palar › ma­Ÿa i ulakattu+ piŸar ›
+    6-4  r yà­ ma­Ÿa tu¤càt›­ ›
  
-                                   maï¿½ï¿½attaï¿½tu     1
-   97-4  maï¿½ai alar ï¿½ki maï¿½ï¿½attaï¿½tu ï¿½
+                                   ma­Ÿatta«tu     1
+   97-4  maŸai alar àki ma­Ÿatta«tu ›
  
-                                     maï¿½ï¿½attu     1
-   33-2  taï¿½ ï¿½r maï¿½ï¿½attu eï¿½ï¿½aï¿½ kol ï¿½
+                                     ma­Ÿattu     1
+   33-2  ta­ år ma­Ÿattu e­­a­ kol 
  
-                                        mï¿½     4
-   63-3  am mï¿½ arivi um varum ï¿½
-   17-1  mï¿½ eï¿½a maï¿½al um ï¿½rpa pï¿½ eï¿½a+
-  171-3  mï¿½ vali mï¿½+ paï¿½ï¿½ï¿½aï¿½ku
-   42-2  karuvi mï¿½ maï¿½ai vï¿½nteï¿½a aruvi
+                                        mà     4
+   63-3  am mà arivai um varum 
+   17-1  mà e­a mañal um årpa på e­a+
+  171-3  mã­ valai mà+ paññàaïku
+   42-2  karuvi mà ma©ai vã©nte­a aruvi
  
-                                      mï¿½kkaï¿½     1
-    6-2  iï¿½itu aï¿½aï¿½kiï¿½ar ï¿½ mï¿½kkaï¿½ muï¿½ivu iï¿½ï¿½u
+                                      màkkaë     1
+    6-2  i­itu añaïki­ar › màkkaë mu­ivu i­Ÿu
  
-                                       mï¿½ï¿½     1
-  188-4  mï¿½li vantaï¿½ï¿½u eï¿½ mï¿½ï¿½ nalam kuï¿½ittu ï¿½
+                                       màõ     1
+  188-4  màlai vanta­Ÿu e­ màõ nalam kuŸittu ›
  
-                                     mï¿½ï¿½ï¿½kkaï¿½     1
-   33-1  aï¿½ï¿½ï¿½y ivaï¿½ ï¿½r iï¿½a mï¿½ï¿½ï¿½kkaï¿½
+                                     màõàkka­     1
+   33-1  a­­ày iva­ r iëa màõàkka­
  
-                                      mï¿½rpu     1
-   68-4  maruntu piï¿½itu illi avar maï¿½anta mï¿½rpu ï¿½
+                                      màrpu     1
+   68-4  maruntu piŸitu illai avar maõanta màrpu ›
  
-                                      mï¿½li     2
-  122-3  vantaï¿½ï¿½u vï¿½i ï¿½ mï¿½li
-  188-4  mï¿½li vantaï¿½ï¿½u eï¿½ mï¿½ï¿½ nalam kuï¿½ittu ï¿½
+                                      màlai     2
+  122-3  vanta­Ÿu và©i  màlai
+  188-4  màlai vanta­Ÿu e­ màõ nalam kuŸittu ›
  
                                        mika     2
-   93-1  nal nalam toliya nalam mika+ cï¿½ay
-  384-4  mika naï¿½ï¿½u amma makiï¿½na niï¿½ cï¿½ï¿½ ï¿½
+   93-1  nal nalam tolaiya nalam mika+ càay
+  384-4  mika na­Ÿu amma maki©na ni­ cåë ›
  
-                                       mï¿½     1
-  171-3  mï¿½ vali mï¿½+ paï¿½ï¿½ï¿½aï¿½ku
+                                       mã­     1
+  171-3  mã­ valai mà+ paññàaïku
  
-                                      mï¿½iï¿½     1
-   44-3  akal iru vicumpiï¿½ mï¿½iï¿½ um
+                                      mã­i­     1
+   44-3  akal iru vicumpi­ mã­i­ um
  
                                       mukam     1
-  227-2  vï¿½ï¿½ mukam tumippa vaï¿½ itaï¿½ kuï¿½ainta
+  227-2  vàë mukam tumippa vaë ita© kuŸainta
  
-                                      mukiï¿½     1
-   17-2  kuvi mukiï¿½ erukku am kaï¿½ï¿½i um cï¿½ï¿½upa
+                                      muki©     1
+   17-2  kuvi muki© erukku am kaõõi um cåñupa
  
-                                      muki     1
-  188-1  muki muï¿½ï¿½iï¿½a ï¿½ mulli mulliyoï¿½u
+                                      mukai     1
+  188-1  mukai muŸŸi­a › mullai mullaiyoñu
  
-                                     mukiyum     1
-  186-3  eyiï¿½u eï¿½a mukiyum nï¿½ï¿½aï¿½ku+
+                                     mukaiyum     1
+  186-3  eyiŸu e­a mukaiyum nàñaŸku+
  
-                                     muï¿½aï¿½ku     1
-  109-1  muï¿½+ kï¿½l iï¿½aviï¿½ muï¿½aï¿½ku puï¿½a+ perum kiï¿½ai
+                                     muñaïku     1
+  109-1  muë+ kàl iŸavi­ muñaïku puŸa+ perum kiëai
  
                                        mutu     1
-   68-2  ï¿½ppaï¿½u mutu kï¿½y uï¿½ai iï¿½am kavarum
+   68-2  å©ppañu mutu kày u©ai i­am kavarum
  
-                                      muli     2
-   71-2  arumpiya cuï¿½aï¿½kiï¿½ am pakaï¿½ï¿½u iï¿½a muli
-   39-4  muli iï¿½ai muï¿½inar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
+                                      mulai     2
+   71-2  arumpiya cuõaïki­ am pakaññu iëa mulai
+   39-4  mulai iñai mu­inar ce­Ÿa àŸu ›
  
-                                      mulli     2
-  188-1  muki muï¿½ï¿½iï¿½a ï¿½ mulli mulliyoï¿½u
-  186-2  kolli+ puï¿½atta mulli mel koï¿½i
+                                      mullai     2
+  188-1  mukai muŸŸi­a › mullai mullaiyoñu
+  186-2  kollai+ pu­atta mullai mel koñi
  
-                                    mulliyoï¿½u     1
-  188-1  muki muï¿½ï¿½iï¿½a ï¿½ mulli mulliyoï¿½u
+                                    mullaiyoñu     1
+  188-1  mukai muŸŸi­a › mullai mullaiyoñu
  
-                                       muï¿½     1
-  109-1  muï¿½+ kï¿½l iï¿½aviï¿½ muï¿½aï¿½ku puï¿½a+ perum kiï¿½ai
+                                       muë     1
+  109-1  muë+ kàl iŸavi­ muñaïku puŸa+ perum kiëai
  
-                                      muï¿½ai     1
-  119-3  iï¿½aiyaï¿½ muï¿½ai vï¿½ï¿½ eyiï¿½ï¿½aï¿½
+                                      muëai     1
+  119-3  iëaiyaë muëai vàë eyiŸŸaë
  
-                                     muï¿½ï¿½iï¿½a     2
-  188-2  taki muï¿½ï¿½iï¿½a ï¿½ taï¿½ kï¿½r viyaï¿½ puï¿½am
-  188-1  muki muï¿½ï¿½iï¿½a ï¿½ mulli mulliyoï¿½u
+                                     muŸŸi­a     2
+  188-2  takai muŸŸi­a › taõ kàr viya­ pu­am
+  188-1  mukai muŸŸi­a › mullai mullaiyoñu
  
-                                     muï¿½inar     1
-   39-4  muli iï¿½ai muï¿½inar ceï¿½ï¿½a ï¿½ï¿½u ï¿½
+                                     mu­inar     1
+   39-4  mulai iñai mu­inar ce­Ÿa àŸu ›
  
-                                      muï¿½ivu     1
-    6-2  iï¿½itu aï¿½aï¿½kiï¿½ar ï¿½ mï¿½kkaï¿½ muï¿½ivu iï¿½ï¿½u
+                                      mu­ivu     1
+    6-2  i­itu añaïki­ar › màkkaë mu­ivu i­Ÿu
  
                                        mey     1
-  371-1  ki vaï¿½ai nekiï¿½tal um mey pacappu ï¿½rtal um
+  371-1  kai vaëai neki©tal um mey pacappu årtal um
  
                                        mel     3
-  137-1  mel iyal arivi niï¿½ nal akam pulampa
-  186-2  kolli+ puï¿½atta mulli mel koï¿½i
-   37-3  mel ciï¿½ai yï¿½am poï¿½ikkum
+  137-1  mel iyal arivai ni­ nal akam pulampa
+  186-2  kollai+ pu­atta mullai mel koñi
+   37-3  mel ci­ai yàam poëikkum
  
-                                     mï¿½ï¿½iyoï¿½u     1
-   33-3  irantu ï¿½ï¿½ nirampï¿½ mï¿½ï¿½iyoï¿½u
+                                     m›­iyoñu     1
+   33-3  irantu åõ nirampà m›­iyoñu
  
-                                       mi     1
-  371-2  mi paï¿½u cilampiï¿½ aivaï¿½am vitti
+                                       mai     1
+  371-2  mai pañu cilampi­ aiva­am vitti
  
-                                       yï¿½am     1
-   37-3  mel ciï¿½ai yï¿½am poï¿½ikkum
+                                       yàam     1
+   37-3  mel ci­ai yàam poëikkum
  
-                                      yï¿½ï¿½ar     1
-  171-1  kï¿½ï¿½ iï¿½i vï¿½i tï¿½ï¿½i yï¿½ï¿½ar+
+                                      yàõar     1
+  171-1  kàõ i­i và©i t©i yàõar+
  
-                                       yï¿½m     1
-  102-4  cà­Ÿï¿½r allar yï¿½m marï¿½iyï¿½r ï¿½
+                                       yàm     1
+  102-4  cà­Ÿr allar yàm marãiyr ›
  
-                                     yï¿½mattu     1
-   42-1  kï¿½mam oï¿½ivatu ï¿½yiï¿½um yï¿½mattu+
+                                     yàmattu     1
+   42-1  kàmam o©ivatu àyi­um yàmattu+
  
-                                      yï¿½mam     1
-    6-1  naï¿½ï¿½eï¿½ï¿½aï¿½ï¿½u* ï¿½ yï¿½mam col avintu
+                                      yàmam     1
+    6-1  naëëe­Ÿa­Ÿu* › yàmam col avintu
  
-                                       yï¿½     6
-   96-2  yï¿½ evaï¿½ ceyku ï¿½ eï¿½ï¿½i yï¿½ atu
-   96-2  yï¿½ evaï¿½ ceyku ï¿½ eï¿½ï¿½i yï¿½ atu
-   97-1  yï¿½ ï¿½ ï¿½ï¿½ï¿½aiyï¿½ï¿½ ï¿½ eï¿½ nalaï¿½ ï¿½
-  137-4  pala ï¿½kuka yï¿½ celavuï¿½u takavu ï¿½
-  116-1  yï¿½ nayantu uï¿½aivï¿½ï¿½ tï¿½m pï¿½y kï¿½ntal
-    6-4  ï¿½r yï¿½ maï¿½ï¿½a tuï¿½cï¿½tï¿½ï¿½ ï¿½
+                                       yà­     6
+   96-2  yà­ eva­ ceyku  e­Ÿi yà­ atu
+   96-2  yà­ eva­ ceyku  e­Ÿi yà­ atu
+   97-1  yà­ › ãõñaiy›­ › e­ nala­ ›
+  137-4  pala àkuka yà­ celavuŸu takavu ›
+  116-1  yà­ nayantu uŸaivë t›m pày kåntal
+    6-4  r yà­ ma­Ÿa tu¤càt›­ ›
  
-                                      yï¿½ai     2
-    1-2  cem^ kï¿½l ampiï¿½ cem^ kï¿½ï¿½ï¿½u yï¿½ai
-  119-2  kï¿½a yï¿½ai aï¿½aï¿½kiyï¿½aï¿½ku
+                                      yà­ai     2
+    1-2  cem^ kl ampi­ cem^ kññu yà­ai
+  119-2  kà­a yà­ai aõaïkiyàaïku
  
-                                     vantaï¿½ï¿½u     3
-  157-4  vï¿½ï¿½ pï¿½l vikaï¿½ai vantaï¿½ï¿½u ï¿½l eï¿½a ï¿½
-  188-4  mï¿½li vantaï¿½ï¿½u eï¿½ mï¿½ï¿½ nalam kuï¿½ittu ï¿½
-  122-3  vantaï¿½ï¿½u vï¿½i ï¿½ mï¿½li
+                                     vanta­Ÿu     3
+  157-4  vàë pl vaikaŸai vanta­Ÿu àl e­a ›
+  188-4  màlai vanta­Ÿu e­ màõ nalam kuŸittu ›
+  122-3  vanta­Ÿu và©i  màlai
  
-                                      vayiï¿½     1
-   20-2  poruï¿½ vayiï¿½+ pirivï¿½r uravï¿½r ï¿½yiï¿½
+                                      vayi­     1
+   20-2  poruë vayi­+ pirivr uravr àyi­
  
-                                     vayiï¿½ï¿½     1
-   42-4  toï¿½arpu um tï¿½yum ï¿½ niï¿½ vayiï¿½ï¿½ ï¿½
+                                     vayi­à­     1
+   42-4  toñarpu um t›yum  ni­ vayi­à­ ›
  
                                        vari     1
-  119-1  ciï¿½u veï¿½ araviï¿½ a+ vari+ kuruï¿½ai
+  119-1  ciŸu veë aravi­ a+ vari+ kuruëai
  
                                      varutti     1
-  102-2  iruppiï¿½ em aï¿½avittu aï¿½ï¿½u ï¿½ varutti
+  102-2  iruppi­ em aëavaittu a­Ÿu › varutti
  
                                      varunar     1
-   47-3  elli varunar kaï¿½aviï¿½ku
+   47-3  elli varunar kaëaviŸku
  
                                       varum     1
-   63-3  am mï¿½ arivi um varum ï¿½
+   63-3  am mà arivai um varum 
  
-                                      vali     1
-  171-3  mï¿½ vali mï¿½+ paï¿½ï¿½ï¿½aï¿½ku
+                                      valai     1
+  171-3  mã­ valai mà+ paññàaïku
  
-                                       vaï¿½     1
-  227-2  vï¿½ï¿½ mukam tumippa vaï¿½ itaï¿½ kuï¿½ainta
+                                       vaë     1
+  227-2  vàë mukam tumippa vaë ita© kuŸainta
  
-                                      vaï¿½am     1
-  116-2  vaï¿½am keï¿½u cï¿½ï¿½ar uï¿½anti+ perum tuï¿½ai
+                                      vaëam     1
+  116-2  vaëam ke©u c©ar uŸantai+ perum tuŸai
  
-                                       vaï¿½i     1
-   39-1  vem tiï¿½al kaï¿½u vaï¿½i poï¿½kar+ pï¿½nteï¿½a
+                                       vaëi     1
+   39-1  vem tiŸal kañu vaëi poïkar+ pnte­a
  
-                                      vaï¿½ai     2
-  119-4  vaï¿½ai uï¿½ai+ kiyaï¿½ em aï¿½aï¿½kiyï¿½ï¿½ ï¿½
-  371-1  ki vaï¿½ai nekiï¿½tal um mey pacappu ï¿½rtal um
+                                      vaëai     2
+  119-4  vaëai uñai+ kaiyaë em aõaïkiyë ›
+  371-1  kai vaëai neki©tal um mey pacappu årtal um
  
-                                      vaï¿½ï¿½al     1
-   39-2  neï¿½ï¿½u viï¿½ai uï¿½iï¿½cil vaï¿½ï¿½al ï¿½rkkum
+                                      vaŸŸal     1
+   39-2  neŸŸu viëai u©i¤cil vaŸŸal àrkkum
  
-                                   vaï¿½aintaï¿½ï¿½a     1
-  227-1  pï¿½ï¿½ vaï¿½aintaï¿½ï¿½a polam cï¿½ï¿½ï¿½u nï¿½mi
+                                   va­ainta­­a     1
+  227-1  påõ va­ainta­­a polam cåññu n›mi
  
-                                      vï¿½ki     1
-  369-1  atta vï¿½ki amali vï¿½l neï¿½ï¿½u
+                                      vàkai     1
+  369-1  atta vàkai amalai vàl neŸŸu
  
-                                       vï¿½rï¿½     1
-  137-3  iravalar vï¿½rï¿½ vikal
+                                       vàrà     1
+  137-3  iravalar vàrà vaikal
  
-                                      vï¿½rï¿½r     1
-  188-3  vï¿½l iï¿½ai nekiï¿½ttï¿½r vï¿½rï¿½r
+                                      vàràr     1
+  188-3  vàl i©ai neki©ttr vàràr
  
-                                    vï¿½rntaï¿½ï¿½a     1
-  116-3  nuï¿½ maï¿½al aï¿½al vï¿½rntaï¿½ï¿½a
+                                    vàrnta­­a     1
+  116-3  nuõ maõal aŸal vàrnta­­a
  
-                                       vï¿½l     2
-  188-3  vï¿½l iï¿½ai nekiï¿½ttï¿½r vï¿½rï¿½r
-  369-1  atta vï¿½ki amali vï¿½l neï¿½ï¿½u
+                                       vàl     2
+  188-3  vàl i©ai neki©ttr vàràr
+  369-1  atta vàkai amalai vàl neŸŸu
  
-                                       vï¿½i     2
-  122-3  vantaï¿½ï¿½u vï¿½i ï¿½ mï¿½li
-  171-1  kï¿½ï¿½ iï¿½i vï¿½i tï¿½ï¿½i yï¿½ï¿½ar+
+                                       và©i     2
+  122-3  vanta­Ÿu và©i  màlai
+  171-1  kàõ i­i và©i t©i yàõar+
  
-                                       vï¿½ï¿½     5
-   44-2  nï¿½kki nï¿½kki vï¿½ï¿½ iï¿½antaï¿½a ï¿½
-  119-3  iï¿½aiyaï¿½ muï¿½ai vï¿½ï¿½ eyiï¿½ï¿½aï¿½
-  135-1  viï¿½ai ï¿½ ï¿½ï¿½avarkku uyir ï¿½ vï¿½ï¿½ nutal
-  157-4  vï¿½ï¿½ pï¿½l vikaï¿½ai vantaï¿½ï¿½u ï¿½l eï¿½a ï¿½
-  227-2  vï¿½ï¿½ mukam tumippa vaï¿½ itaï¿½ kuï¿½ainta
+                                       vàë     5
+   44-2  nkki nkki vàë i©anta­a ›
+  119-3  iëaiyaë muëai vàë eyiŸŸaë
+  135-1  vi­ai › àñavarkku uyir › vàë nutal
+  157-4  vàë pl vaikaŸai vanta­Ÿu àl e­a ›
+  227-2  vàë mukam tumippa vaë ita© kuŸainta
  
-                                       vï¿½     1
-  102-3  vï¿½ tï¿½yvaï¿½ï¿½u ï¿½ kï¿½mam
+                                       và­     1
+  102-3  và­ tyvaŸŸu › kàmam
  
-                                      vï¿½iï¿½     1
-    3-1  nilattiï¿½ um peritu ï¿½ vï¿½iï¿½ um uyarntaï¿½ï¿½u
+                                      và­i­     1
+    3-1  nilatti­ um peritu › và­i­ um uyarnta­Ÿu
  
-                                     vicumpiï¿½     1
-   44-3  akal iru vicumpiï¿½ mï¿½iï¿½ um
+                                     vicumpi­     1
+   44-3  akal iru vicumpi­ mã­i­ um
  
-                                      viï¿½ar     1
-   42-3  viï¿½ar akattu iyampum nï¿½ï¿½a em
+                                      viñar     1
+   42-3  viñar akattu iyampum nàña em
  
-                                     viï¿½uvuï¿½i     2
-  399-4  viï¿½uvuï¿½i viï¿½uvuï¿½i+ parattalï¿½ ï¿½
-  399-4  viï¿½uvuï¿½i viï¿½uvuï¿½i+ parattalï¿½ ï¿½
+                                     viñuvu©i     2
+  399-4  viñuvu©i viñuvu©i+ parattalà­ ›
+  399-4  viñuvu©i viñuvu©i+ parattalà­ ›
  
                                       vitti     1
-  371-2  mi paï¿½u cilampiï¿½ aivaï¿½am vitti
+  371-2  mai pañu cilampi­ aiva­am vitti
  
-                                      viyaï¿½     1
-  188-2  taki muï¿½ï¿½iï¿½a ï¿½ taï¿½ kï¿½r viyaï¿½ puï¿½am
+                                      viya­     1
+  188-2  takai muŸŸi­a › taõ kàr viya­ pu­am
  
-                                     viruntiï¿½     1
-   33-4  viruntiï¿½ ï¿½rum perum cemmalaï¿½ ï¿½
+                                     virunti­     1
+   33-4  virunti­ årum perum cemmala­ ›
  
-                                      viï¿½ai     1
-   39-2  neï¿½ï¿½u viï¿½ai uï¿½iï¿½cil vaï¿½ï¿½al ï¿½rkkum
+                                      viëai     1
+   39-2  neŸŸu viëai u©i¤cil vaŸŸal àrkkum
  
-                                    viï¿½aikkum     1
-  371-3  aruviyiï¿½ viï¿½aikkum nï¿½ï¿½aï¿½oï¿½u
+                                    viëaikkum     1
+  371-3  aruviyi­ viëaikkum nàña­oñu
  
-                                      viï¿½ai     2
-  135-1  viï¿½ai ï¿½ ï¿½ï¿½avarkku uyir ï¿½ vï¿½ï¿½ nutal
-   63-2  cey viï¿½ai kimmika eï¿½ï¿½uti a+ viï¿½aikku
+                                      vi­ai     2
+  135-1  vi­ai › àñavarkku uyir › vàë nutal
+   63-2  cey vi­ai kaimmika eõõuti a+ vi­aikku
  
-                                     viï¿½aikku     1
-   63-2  cey viï¿½ai kimmika eï¿½ï¿½uti a+ viï¿½aikku
+                                     vi­aikku     1
+   63-2  cey vi­ai kaimmika eõõuti a+ vi­aikku
  
-                                        vï¿½     1
-   47-1  karum kï¿½l vï¿½ï¿½ki vï¿½ uku tuï¿½ukal
+                                        vã     1
+   47-1  karum kàl v›ïkai vã uku tuŸukal
  
-                                     vï¿½nteï¿½a     1
-   42-2  karuvi mï¿½ maï¿½ai vï¿½nteï¿½a aruvi
+                                     vã©nte­a     1
+   42-2  karuvi mà ma©ai vã©nte­a aruvi
  
                                        vem     1
-   39-1  vem tiï¿½al kaï¿½u vaï¿½i poï¿½kar+ pï¿½nteï¿½a
+   39-1  vem tiŸal kañu vaëi poïkar+ pnte­a
  
-                                       veï¿½     4
-  119-1  ciï¿½u veï¿½ araviï¿½ a+ vari+ kuruï¿½ai
-  315-2  oï¿½uku veï¿½ aruvi ï¿½ï¿½ku mali nï¿½ï¿½aï¿½
-   47-4  nalli alli neï¿½u veï¿½ nilavu ï¿½
-  166-1  taï¿½ kaï¿½al+ paï¿½u tiri peyarttaliï¿½ veï¿½ paï¿½ai
+                                       veë     4
+  119-1  ciŸu veë aravi­ a+ vari+ kuruëai
+  315-2  o©uku veë aruvi ïku malai nàña­
+   47-4  nallai allai neñu veë nilavu ›
+  166-1  taõ kañal+ pañu tirai peyarttali­ veë paŸai
  
-                                      vï¿½ï¿½ki     2
-   96-1  aruvi vï¿½ï¿½ki+ peru mali nï¿½ï¿½aï¿½ku
-   47-1  karum kï¿½l vï¿½ï¿½ki vï¿½ uku tuï¿½ukal
+                                      v›ïkai     2
+   96-1  aruvi v›ïkai+ peru malai nàñaŸku
+   47-1  karum kàl v›ïkai vã uku tuŸukal
  
-                                     vï¿½ï¿½ï¿½aï¿½ai     1
-  120-2  aritu vï¿½ï¿½ï¿½aï¿½ai ï¿½l neï¿½cu ï¿½ kï¿½tali
+                                     v›ñña­ai     1
+  120-2  aritu v›ñña­ai àl ne¤cu › kàtali
  
-                                       vï¿½m     1
-  102-1  uï¿½ï¿½iï¿½ uï¿½ï¿½am vï¿½m ï¿½ uï¿½ï¿½ï¿½tu
+                                       v›m     1
+  102-1  uëëi­ uëëam v›m › uëëàtu
  
-                                      vï¿½ï¿½am     1
-   37-2  piï¿½i paci kaï¿½aiiya perum ki vï¿½ï¿½am
+                                      v›©am     1
+   37-2  piñi paci kaëaiiya perum kai v›©am
  
-                                      vikal     1
-  137-3  iravalar vï¿½rï¿½ vikal
+                                      vaikal     1
+  137-3  iravalar vàrà vaikal
  
-                                     vikaï¿½ai     1
-  157-4  vï¿½ï¿½ pï¿½l vikaï¿½ai vantaï¿½ï¿½u ï¿½l eï¿½a ï¿½
+                                     vaikaŸai     1
+  157-4  vàë pl vaikaŸai vanta­Ÿu àl e­a ›
  
-                                      vikiï¿½     1
-  166-4  oru taï¿½i vikiï¿½ pulampu ï¿½kiï¿½ï¿½u ï¿½
+                                      vaiki­     1
+  166-4  oru ta­i vaiki­ pulampu àki­Ÿu ›
  
-                                      vippu     2
-   71-1  maruntu eï¿½iï¿½ maruntu ï¿½ vippu eï¿½iï¿½ vippu ï¿½
-   71-1  maruntu eï¿½iï¿½ maruntu ï¿½ vippu eï¿½iï¿½ vippu ï¿½
+                                      vaippu     2
+   71-1  maruntu e­i­ maruntu › vaippu e­i­ vaippu ›
+   71-1  maruntu e­i­ maruntu › vaippu e­i­ vaippu ›
  
  
  

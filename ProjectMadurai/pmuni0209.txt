@@ -4,9 +4,9 @@
 
 cēkkiḻār aruḷiya
 tiruttoṇṭar purāṇam eṉṟa periya purāṇam
-mutaṟ kāṇṭam (paṉṉiraṇṭām tirumuṟai )
-carukkam 1 (tirumalaic carukkam) &
-2 (tillai vāḻ antaṇar carukkam)
+mutaṟ kāṇṭam (paṉṉiraṇṭām tirumuṟi )
+carukkam 1 (tirumalic carukkam) &
+2 (tilli vāḻ antaṇar carukkam)
 
 periya purANam of cEkkizAr Canto 1, Carukkam -1 & 2 In tamil script, TSCII format
 
@@ -20,7 +20,7 @@ Our Sincere thanks go to Dr. Thomas Malten and Colleagues of the Univ.
 of Koeln, Germany
 for providing us with the transliterated/romanized version of the etext
 and giving us permission
-to release the TSCII version as part of Project Madurai etext
+to release the TSCII version as part of Project Maduri etext
 collections.
 TSCII proof reading by tiruciRRampalam aRakaTTaLai, Kovilpatti,
 Tamilnadu.
@@ -28,24 +28,24 @@ Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram Lausanne,
 Switzerland.
 This webpage presents the Etext in Tamil script but in Unicode encoding.
 To view the Tamil text correctly you need to set up the following:
-i). You need to have Unicode fonts containing Tamil Block (Latha,
-Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on
+i). You need to have Unicode fonts contining Tamil Block (Latha,
+Arial Unicode MS, TSCu_Inimathi, Code2000, UniMyli,...) installed on
 your computer
 and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
 XP).
 ii)Use a browser that is capable of handling UTF-8 based pages
 (Netscape 6, Internet Explorer 5) with the Unicode Tamil font chosen as
 the default font for the UTF-8 char-set/encoding view.
-. In case of difficulties send an email request to kalyan@geocities.com
+. In case of difficulties send an emil request to kalyan@geocities.com
 or kumar@vt.edu
 
-ṉa Project Madurai 1999 - 2004
-Project Madurai is an open, voluntary, worldwide initiative devoted to
+ṉa Project Maduri 1999 - 2004
+Project Maduri is an open, voluntary, worldwide initiative devoted to
 preparation of electronic texts of tamil literary works and to
-distribute them free on the Internet. Details of Project Madurai are
-available at the website
+distribute them free on the Internet. Detils of Project Maduri are
+avilable at the website
 
-http://www.projectmadurai.org/
+http://www.projectmaduri.org/
 You are welcome to freely distribute this file, provided this header
 page is kept intact.
 
@@ -53,8 +53,8 @@ page is kept intact.
 
 cēkkiḻār aruḷiya tiruttoṇṭar purāṇam eṉṟa periya purāṇam mutaṟ kāṇṭam
 
-uḷḷuṟai
-1. tirumalaic carukkam
+uḷḷuṟi
+1. tirumalic carukkam
 
 1.00
 
@@ -66,7 +66,7 @@ miṉpatippu
 
 1.01
 
-tirumalaic ciṟappu
+tirumalic ciṟappu
 
 (11-50)
 
@@ -104,11 +104,11 @@ taṭuttāṭkoṇṭa purāṇam
 
 miṉpatippu
 
-2. tillai vāḻ antaṇar carukkam
+2. tilli vāḻ antaṇar carukkam
 
 2.01
 
-tillai vāḻ antaṇar purāṇam
+tilli vāḻ antaṇar purāṇam
 
 (350-359)
 
@@ -124,7 +124,7 @@ miṉpatippu
 
 2.03
 
-iyaṟpakai nāyaṉār purāṇam
+iyaṟpaki nāyaṉār purāṇam
 
 (404-439)
 
@@ -132,7 +132,7 @@ miṉpatippu
 
 2.04
 
-iḷaiyāṉ kuṭi māṟa nāyaṉār purāṇam
+iḷiyāṉ kuṭi māṟa nāyaṉār purāṇam
 
 (440 -466)
 

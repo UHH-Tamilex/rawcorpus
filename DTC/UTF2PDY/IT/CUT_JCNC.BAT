@@ -1,11 +1,11 @@
 xtr /P01 iatolcnc.pdy
 copy iatolcnc.xxx itcnc_01.htm
 call 2utf8 itcnc_01
-puse
+pause
 xtr /P02 iatolcnc.pdy
 copy iatolcnc.xxx itcnc_02.htm
 call 2utf8 itcnc_02
-puse
+pause
 xtr /P03 iatolcnc.pdy
 copy iatolcnc.xxx itcnc_03.htm
 call 2utf8 itcnc_03

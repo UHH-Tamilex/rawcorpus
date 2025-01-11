@@ -4,10 +4,10 @@ copy fr_tp.cnv fr_tp.bar
 convers fr_tp.bar conv6
 delz fr_tp.cnv
 copy fr_tp.cnv f_tp.utf
-puse
+pause
 xtr /P545 f_tp.utf
 copy f_tp.xxx \az\f_tp545.htm
-puse
+pause
 xtr /P546 f_tp.utf
 copy f_tp.xxx \az\f_tp546.htm
 xtr /P547 f_tp.utf

@@ -1,404 +1,404 @@
-((1.kaï¿½avu))
+((1.kaëavu))
 <N 1>
 
-	aï¿½piï¿½ aim^ tiï¿½ai+ kaï¿½avu* eï¿½appaï¿½uvatu
-	antaï¿½ar aru-maï¿½ai maï¿½ï¿½al eï¿½ï¿½iï¿½uï¿½
-	kantaruva vaï¿½akkam eï¿½maï¿½ï¿½r pulavar.
+	a­pi­ aim^ tiõai+ kaëavu* e­appañuvatu
+	antaõar aru-maŸai ma­Ÿal eññi­uë
+	kantaruva va©akkam e­ma­àr pulavar.
 
 
 <N 2>
 
-	atu ~ï¿½
-	tï¿½ ï¿½ avaï¿½ ï¿½ tamiyar kï¿½ï¿½a+
-	kï¿½ma+ puï¿½arcci iru-vayiï¿½ ottal.
+	atu ~›
+	tà­ › avaë › tamiyar kàõa+
+	kàma+ puõarcci iru-vayi­ ottal.
 
 
 <N 3>
 
-	ï¿½ï¿½ï¿½aï¿½am puï¿½arnta kiï¿½avï¿½ï¿½ taï¿½-vayiï¿½
-	pï¿½ï¿½kaï¿½ï¿½riï¿½ kuï¿½i talippeytal um
-	pï¿½ï¿½k-ilaï¿½ tamiyï¿½ï¿½ iï¿½am^ talippaï¿½al um eï¿½ï¿½u
-	ï¿½ï¿½ka iraï¿½ï¿½u* ï¿½ talippeyal marapu* ï¿½.
+	àïïa­am puõarnta ki©av­ ta­-vayi­
+	pàïka­riŸ kuŸi talaippeytal um
+	pàïk-ila­ tamiyë iñam^ talaippañal um e­Ÿu
+	àïka iraõñu* › talaippeyal marapu* ›.
 
 
 <N 4>
 
-	av= iyalpu* allatu kï¿½ï¿½ï¿½a+ kï¿½ï¿½al
-	ev= iï¿½attï¿½ um^ kaï¿½aviï¿½ku* illi.
+	av= iyalpu* allatu kåñña+ kåñal
+	ev= iñattà­ um^ kaëaviŸku* illai.
 
 
 <N 5>
 
-	puï¿½arnta piï¿½ï¿½ai ~ï¿½ï¿½ï¿½aï¿½am oï¿½ukï¿½tu
-	paï¿½inta moï¿½iyï¿½l tï¿½ï¿½i tï¿½ettu
-	irantu kuï¿½aiy-uï¿½utal um^ kiï¿½avï¿½ï¿½ mï¿½ï¿½ï¿½u* ï¿½.
+	puõarnta pi­Ÿai ~àïïa­am o©ukàtu
+	paõinta mo©iyàl t©i t›ettu
+	irantu kuŸaiy-uŸutal um^ ki©av­ m›ŸŸu* ›.
 
 
 <N 6>
 
-	irantu kuï¿½aiyuï¿½ï¿½tu kiï¿½avi ~um^ tï¿½ï¿½i ~um
-	oruï¿½ku talippeyta cevvi nï¿½kki+
-	pati ~um peyar um piï¿½a ~um viï¿½ï¿½ay+
-	putuvï¿½ï¿½ pï¿½la+ poruntupu kiï¿½antu
-	mati ~uï¿½ampaï¿½uttaï¿½ku* um uriyaï¿½ eï¿½pa.
+	irantu kuŸaiyuŸàtu ki©avi ~um^ t©i ~um
+	oruïku talaippeyta cevvi nkki+
+	pati ~um peyar um piŸa ~um vi­àay+
+	putuv­ pla+ poruntupu kiëantu
+	mati ~uñampañuttaŸku* um uriya­ e­pa.
 
 
 <N 7>
 
-	muï¿½ï¿½uï¿½a uï¿½artal kuï¿½aiyuï¿½a uï¿½artal
-	iruvarum uï¿½vaï¿½i avaï¿½ varavu* uï¿½artal eï¿½ï¿½u
-	a+ må­Ÿu* eï¿½pa tï¿½ï¿½ikku* uï¿½arcci.
+	mu­­uŸa uõartal kuŸaiyuŸa uõartal
+	iruvarum uëva©i ava­ varavu* uõartal e­Ÿu
+	a+ må­Ÿu* e­pa t©ikku* uõarcci.
 
 
 <N 8>
 
-	ï¿½ï¿½ku* uï¿½arntu* allatu kiï¿½avï¿½ï¿½ tï¿½ettu+
-	tï¿½ kuï¿½ai uï¿½utal tï¿½ï¿½ikku* illi.
+	àïku* uõarntu* allatu ki©avë t›ettu+
+	tà­ kuŸai uŸutal t©ikku* illai.
 
 
 <N 9>
 
-	muï¿½ï¿½uï¿½a uï¿½ariï¿½um avaï¿½ kuï¿½ai-uï¿½ï¿½a
-	piï¿½ï¿½ar allatu kiï¿½avi tï¿½ï¿½ï¿½ï¿½tu.
+	mu­­uŸa uõari­um ava­ kuŸai-uŸŸa
+	pi­­ar allatu kiëavi t­Ÿàtu.
 
 
 <N 10>
 
-	uï¿½ï¿½attu* uï¿½arcci teï¿½ï¿½itiï¿½ karantu
-	kiï¿½avï¿½ï¿½ tï¿½ettu+ kuï¿½aiyuï¿½ï¿½um uï¿½a ~ï¿½
-	kuï¿½ippu* aï¿½ivuï¿½ï¿½um^ kï¿½liyï¿½a.
+	uëëattu* uõarcci teëëitiŸ karantu
+	ki©avë t›ettu+ kuŸaiyuŸåum uëa ~›
+	kuŸippu* aŸivuŸåum^ kàlaiyà­a.
 
 
 <N 11>
 
-	taï¿½= uï¿½+ kuï¿½ippiï¿½ai arukum^ tï¿½ï¿½ikku
-	muï¿½ï¿½uï¿½u puï¿½arcciyiï¿½ arukal um uï¿½ï¿½u* ï¿½.
+	ta­= uë+ kuŸippi­ai arukum^ t©ikku
+	mu­­uŸu puõarcciyi­ arukal um uõñu* ›.
 
 
 <N 12>
 
-	kuï¿½aiyuï¿½um^ kiï¿½avaï¿½ai uï¿½arnta tï¿½ï¿½i
-	ciï¿½ai ~uï¿½a+ kiï¿½antu cï¿½ï¿½paï¿½a niï¿½uttal um
-	eï¿½ï¿½ai maï¿½aittal evaï¿½ ï¿½kiyar eï¿½a
-	muï¿½ï¿½uï¿½u puï¿½arcci muï¿½aimuï¿½ai ceppal um
-	mï¿½ya+ puï¿½arcci avaï¿½oï¿½u nakï¿½a
-	nï¿½ ~ï¿½ ceï¿½ï¿½u kï¿½u* eï¿½a viï¿½uttal um
-	aï¿½iyï¿½ï¿½ pï¿½ï¿½al um kuï¿½iyï¿½ï¿½ kï¿½al um
-	paï¿½aittu moï¿½i kiï¿½avi ~um kuï¿½ippu vï¿½ï¿½u koï¿½al um
-	aï¿½ï¿½a piï¿½a ~um^ talippeyal vï¿½ï¿½ki
-	muï¿½ï¿½uï¿½u puï¿½arccikku* uriya eï¿½pa.
+	kuŸaiyuŸum^ ki©ava­ai uõarnta t©i
+	ciŸai ~uŸa+ kiëantu c›ñpaña niŸuttal um
+	e­­ai maŸaittal eva­ àkiyar e­a
+	mu­­uŸu puõarcci muŸaimuŸai ceppal um
+	màya+ puõarcci ava­oñu nakàa
+	nã ~› ce­Ÿu kåŸu* e­a viñuttal um
+	aŸiyàë pŸal um kuŸiyàë kåŸal um
+	pañaittu mo©i kiëavi ~um kuŸippu v›Ÿu koëal um
+	a­­a piŸa ~um^ talaippeyal v›ñkai
+	mu­­uŸu puõarccikku* uriya e­pa.
 
 
 <N 13>
 
-	kuï¿½aiyuï¿½u puï¿½arcci tï¿½ï¿½i tï¿½ettu+
-	kiï¿½avikku* illi talippeyal ï¿½a.
+	kuŸaiyuŸu puõarcci t©i t›ettu+
+	ki©avikku* illai talaippeyal à­a.
 
 
 <N 14>
 
-	tï¿½ï¿½ikku* uriyaï¿½a kï¿½ï¿½ï¿½y tï¿½ettu
-	mï¿½ï¿½ukï¿½ï¿½ illï¿½ moï¿½iyumï¿½r uï¿½a ~ï¿½.
+	t©ikku* uriya­a kñày t›ettu
+	màŸukë illà mo©iyumàr uëa ~›.
 
 
 <N 15>
 
-	muï¿½paï¿½a+ puï¿½arï¿½ta col= iï¿½miyiï¿½+
-	kaï¿½pu* eï¿½appaï¿½uvatu kaï¿½aviï¿½ vaï¿½ittu* ï¿½.
+	muŸpaña+ puõaràta col= i­maiyi­+
+	kaŸpu* e­appañuvatu kaëavi­ va©ittu* ›.
 
 
 <N 16>
 
-	kaï¿½aviï¿½uï¿½ tavircci kï¿½ppu mikiï¿½ urittu* ï¿½
-	variviï¿½ai vitta kï¿½li ï¿½a.
+	kaëavi­uë tavircci kàppu miki­ urittu* ›
+	varaiviñai vaitta kàlai à­a.
 
 
 <N 17>
 
-	alla kuï¿½i+ paï¿½utal um avvayiï¿½ urittu* ï¿½
-	avaï¿½ varavu* aï¿½iyum^ kuï¿½ippiï¿½ ï¿½a.
+	alla kuŸi+ pañutal um avvayi­ urittu* ›
+	ava­ varavu* aŸiyum^ kuŸippi­ à­a.
 
 
 <N 17>
 
-	alla kuï¿½i+ paï¿½utal um avvayiï¿½ urittu* ï¿½
-	avaï¿½ varavu* aï¿½iyum^ kuï¿½ippiï¿½ ï¿½a.
+	alla kuŸi+ pañutal um avvayi­ urittu* ›
+	ava­ varavu* aŸiyum^ kuŸippi­ à­a.
 
 
 <N 18>
 
-	kuï¿½i ~eï¿½appaï¿½uvatu* iraviï¿½ um pakaliï¿½ um
-	aï¿½iya+ kiï¿½anta iï¿½am eï¿½a moï¿½ipa.
+	kuŸi ~e­appañuvatu* iravi­ um pakali­ um
+	aŸiya+ kiëanta iñam e­a mo©ipa.
 
 
 <N 19>
 
-	iravu+ kuï¿½i ~ï¿½ ilvari ikavï¿½tu.
+	iravu+ kuŸi ~› ilvarai ikavàtu.
 
 
 <N 20>
 
-	pakal+ kuï¿½i tï¿½ ï¿½ ikappiï¿½um variyï¿½r
+	pakal+ kuŸi tà­ › ikappi­um varaiyàr
 
 
 <N 21>
 
-	iravu maï¿½ai ikanta kuï¿½iyiï¿½attu* allatu
-	kiï¿½avï¿½ï¿½ cï¿½rtal kiï¿½attikku* illi.
+	iravu ma­ai ikanta kuŸiyiñattu* allatu
+	ki©avŸ c›rtal ki©attikku* illai.
 
 
 <N 22>
 
-	ampal um alar um^ kaï¿½avu.
+	ampal um alar um^ kaëavu.
 
 
 <N 23>
 
-	veï¿½ippaï¿½ï¿½a piï¿½ï¿½ai ~um uriya kiï¿½avi.
+	veëippañña pi­Ÿai ~um uriya kiëavi.
 
 
 <N 24>
 
-	kaï¿½avu veï¿½ippaï¿½ï¿½ muï¿½ï¿½uï¿½a varital
-	kaï¿½avu veï¿½ippapaï¿½ï¿½a piï¿½ï¿½ai varital eï¿½ï¿½u
-	ï¿½y iraï¿½ï¿½u* eï¿½pa varital ï¿½ï¿½u* ï¿½.
+	kaëavu veëippañà mu­­uŸa varaital
+	kaëavu veëippapañña pi­Ÿai varaital e­Ÿu
+	ày iraõñu* e­pa varaital àŸu* ›.
 
 
 <N 25>
 
-	paï¿½ï¿½a piï¿½ï¿½ai variyï¿½+ kiï¿½avaï¿½
-	neï¿½ï¿½iï¿½ai kaï¿½intu poruï¿½vayiï¿½ pirital um
-	poruï¿½vayiï¿½ piriyï¿½tu* oruvaï¿½i+ taï¿½attal um
-	purivatu* eï¿½pa kaï¿½pï¿½l ï¿½a.
+	pañña pi­Ÿai varaiyà+ ki©ava­
+	neññiñai ka©intu poruëvayi­ pirital um
+	poruëvayi­ piriyàtu* oruva©i+ taõattal um
+	puraivatu* e­pa kaŸpàl à­a.
 
 
 <N 26>
 
-	veï¿½ippaï¿½ai tï¿½ ï¿½ virikkum kï¿½li+
-	tanti tï¿½y ï¿½ taï¿½ï¿½aiyar eï¿½ï¿½ï¿½ï¿½ku
-	aï¿½ï¿½avar aï¿½iya+ paï¿½pu* ï¿½kum= ï¿½.
+	veëippañai tà­ › virikkum kàlai+
+	tantai tày › ta­­aiyar e­Ÿàïku
+	a­­avar aŸiya+ paõpu* àkum= ›.
 
 
 <N 27>
 
-	avaruï¿½
-	tï¿½y aï¿½ivuï¿½utaliï¿½ ï¿½ï¿½ï¿½r um aï¿½ipa.
+	avaruë
+	tày aŸivuŸutali­ ›­r um aŸipa.
 
 
 <N 28>
 
-	tanti taï¿½ï¿½aiyar ï¿½y iru vãŸŸu* um
-	muï¿½ï¿½am allatu kåŸŸu* avaï¿½ illi.
+	tantai ta­­aiyar ày iru vãŸŸu* um
+	mu­­am allatu kåŸŸu* avaõ illai.
 
 
 <N 29>
 
-	kï¿½ppu+ kimikku+ kï¿½mam perukiï¿½um
-	notumalar variyum paruvam ï¿½yiï¿½um
-	varivu* etirkoï¿½ï¿½ï¿½tu tamar avaï¿½ maï¿½uppiï¿½um
-	avaï¿½ ï¿½u* aï¿½cum^ kï¿½lam ï¿½yiï¿½um
-	a+ nï¿½l iï¿½attu* um meynnï¿½ï¿½ orï¿½i
-	aï¿½attoï¿½u niï¿½ï¿½al tï¿½ï¿½ikku* um urittu* ï¿½.
+	kàppu+ kaimikku+ kàmam peruki­um
+	notumalar varaiyum paruvam àyi­um
+	varaivu* etirkoëëàtu tamar avaõ maŸuppi­um
+	ava­ åŸu* a¤cum^ kàlam àyi­um
+	a+ nàl iñattu* um meynnàõ orãi
+	aŸattoñu niŸŸal t©ikku* um urittu* ›.
 
 
 <N 30>
 
-	kï¿½ma mikka kaï¿½i paï¿½ar kiï¿½avi ~um
-	kï¿½ppu+ ciï¿½ai mikka kiyaï¿½u kiï¿½avi ~um
-	ï¿½ï¿½upï¿½rttu* uï¿½ï¿½a acca+ kiï¿½avi ~um
-	iraviï¿½um pakaliï¿½um nï¿½ varuka* eï¿½ï¿½al um
-	kiï¿½avï¿½ï¿½ taï¿½ï¿½ai vï¿½ral eï¿½ï¿½al um
-	taï¿½ï¿½uï¿½ kiyï¿½ï¿½u* eytiï¿½u kiï¿½avi ~um
-	aï¿½ï¿½a marapiï¿½ piï¿½avum tokii+
-	taï¿½ï¿½ai aï¿½inta kiï¿½avi ellï¿½m
-	varital vï¿½ï¿½ki+ poruï¿½a eï¿½pa.
+	kàma mikka ka©i pañar kiëavi ~um
+	kàppu+ ciŸai mikka kaiyaŸu kiëavi ~um
+	àŸupàrttu* uŸŸa acca+ kiëavi ~um
+	iravi­um pakali­um nã varuka* e­Ÿal um
+	ki©av­ ta­­ai vàral e­Ÿal um
+	ta­­uë kaiyàŸu* eytiñu kiëavi ~um
+	a­­a marapi­ piŸavum tokaii+
+	ta­­ai a©inta kiëavi ellàm
+	varaital v›ñkai+ poruëa e­pa.
 
 
 <C SUT>
 <N 31>
 
-	ï¿½ï¿½u* iï¿½ï¿½ï¿½mi ~um ï¿½u* um accam um
-	taï¿½ï¿½ai aï¿½ital um kiï¿½avï¿½ï¿½ku* illi.
+	àŸu* i­­àmai ~um åŸu* um accam um
+	ta­­ai a©ital um ki©avŸku* illai.
 
 
 <N 32>
 
-	kaï¿½aviï¿½uï¿½ tavircci variviï¿½ nï¿½ï¿½ï¿½am
-	tiï¿½kaï¿½ iraï¿½ï¿½iï¿½ akam eï¿½a moï¿½ipa.
+	kaëavi­uë tavircci varaivi­ nãññam
+	tiïkaë iraõñi­ akam e­a mo©ipa.
 
 
 <N 33>
 
-	kaï¿½aviï¿½uï¿½ tavircci kiï¿½avï¿½ï¿½ku* illi.
+	kaëavi­uë tavircci ki©avŸku* illai.
 
 
 
 
 
-((2. kaï¿½pu))
+((2. kaŸpu))
 
 
 
 <N 34>
 
-	kaï¿½piï¿½uï¿½ tuï¿½avu* ï¿½ kaï¿½i varivu* iï¿½ï¿½u* ï¿½.
+	kaŸpi­uë tuŸavu* › kañi varaivu* i­Ÿu* ›.
 
 
 <N 35>
 
 
-	ï¿½tal kï¿½val paki taï¿½i viï¿½ai ~ï¿½
-	vï¿½ntarkku* uï¿½ï¿½uï¿½i poruï¿½-piï¿½i paratti ~eï¿½ï¿½u
-	ï¿½ï¿½ka ï¿½ï¿½u* ï¿½ avvayiï¿½+ pirivu* ï¿½.
+	tal kàval pakai taõi vi­ai ~›
+	v›ntarkku* uŸŸu©i poruñ-piõi parattai ~e­Ÿu
+	àïka àŸu* › avvayi­+ pirivu* ›.
 
 
 <N 36>
 
 
-	avaï¿½ï¿½uï¿½,
-	ï¿½tal um kï¿½val um uyarntï¿½rkku* uriya.
+	avaŸŸuë,
+	tal um kàval um uyarntrkku* uriya.
 
 
 <N 37>
 
-	vï¿½ntu viï¿½ai iyaï¿½ki pï¿½rppï¿½rkku* um urittu* ï¿½.
+	v›ntu vi­ai iyaŸkai pàrppàrkku* um urittu* ›.
 
 
 <N 38>
 
-	aracar allï¿½ ï¿½ï¿½aiyï¿½rkku* um
-	purivatu* eï¿½pa ï¿½riï¿½attï¿½a
+	aracar allà ›­aiyrkku* um
+	puraivatu* e­pa riñattà­a
 
 
 <N 39>
 
-	vï¿½ntarkku* uï¿½ï¿½uï¿½i+ poruï¿½-piï¿½i+ pirivu* eï¿½ï¿½u
-	ï¿½ï¿½ka iraï¿½ï¿½u* um iï¿½intï¿½rkku* uriya.
+	v›ntarkku* uŸŸu©i+ poruñ-piõi+ pirivu* e­Ÿu
+	àïka iraõñu* um i©intrkku* uriya.
 
 
 <N 40>
 
-	kï¿½tal+ paratti ellï¿½rkku* um urittu* ï¿½.
+	kàtal+ parattai ellàrkku* um urittu* ›.
 
 
 <N 41>
 
-	piriviï¿½ nï¿½ï¿½ï¿½am nilam peyarntu* uï¿½aivï¿½rkku
-	uriyatu* aï¿½ï¿½u* ï¿½ yï¿½ï¿½ï¿½u variyaï¿½uttal.
+	pirivi­ nãññam nilam peyarntu* uŸaivrkku
+	uriyatu* a­Ÿu* › yàõñu varaiyaŸuttal.
 
 
 <N 42>
 
-	parattiyiï¿½ pirivu* ï¿½ nila+ tiripu* iï¿½ï¿½u* ï¿½.
+	parattaiyiŸ pirivu* › nila+ tiripu* i­Ÿu* ›.
 
 
 <N 43>
 
-	parattiyiï¿½+ pirinta kiï¿½avï¿½ï¿½ maï¿½aivi
-	pï¿½ppiï¿½ puï¿½appï¿½ï¿½u* ï¿½r aï¿½u nï¿½ï¿½ um
-	nï¿½ttu* akaï¿½ï¿½u* uï¿½aital aï¿½attu* ï¿½ï¿½u* aï¿½ï¿½u* ï¿½.
+	parattaiyi­+ pirinta ki©av­ ma­aivi
+	påppi­ puŸappàñu* ãr aŸu nàë um
+	nãttu* aka­Ÿu* uŸaital aŸattu* àŸu* a­Ÿu* ›.
 
 
 <N 44>
 
-	kaï¿½piï¿½uï¿½+ pirintï¿½ï¿½ parattiyiï¿½ maï¿½uttantu
-	a+ poruï¿½+ paï¿½uppiï¿½um varinili iï¿½ï¿½u* ï¿½.
+	kaŸpi­uë+ pirint­ parattaiyi­ maŸuttantu
+	a+ poruë+ pañuppi­um varainilai i­Ÿu* ›.
 
 
 <N 45>
 
-	pukaï¿½ um koï¿½umi ~um kiï¿½avï¿½ï¿½ mï¿½ï¿½a.
+	puka© um koñumai ~um ki©av­ m›­a.
 
 
 <N 46>
 
-	koï¿½umi illi+ kiï¿½avi mï¿½ï¿½ï¿½u* ï¿½.
+	koñumai illai+ ki©avi m›ŸŸu* ›.
 
 
 <N 47>
 
-	kiï¿½avï¿½ï¿½ muï¿½ï¿½ar+ kiï¿½atti taï¿½-pukaï¿½tal
-	pulavi+ kï¿½lattu* um purivatu* aï¿½ï¿½u* ï¿½.
+	ki©av­ mu­­ar+ ki©atti taŸ-puka©tal
+	pulavi+ kàlattu* um puraivatu* a­Ÿu* ›.
 
 
 <N 48>
 
-	nï¿½ï¿½u* um ï¿½r um il= um cuï¿½ï¿½i+
-	taï¿½vayiï¿½ kiï¿½appiï¿½ pulavi+ poruï¿½ï¿½u* ï¿½.
+	nàñu* um år um il= um cuññi+
+	ta­vayi­ kiëappi­ pulavi+ poruññu* ›.
 
 
 <N 49>
 
-	avaï¿½ vayiï¿½ kiï¿½appiï¿½ variviï¿½ poruï¿½ï¿½u* ï¿½.
+	ava­ vayi­ kiëappi­ varaivi­ poruññu* ›.
 
 
 <N 50>
 
-	uï¿½arppu vayiï¿½ vï¿½rï¿½ ï¿½ï¿½al tï¿½ï¿½ï¿½iï¿½
-	pulattal tï¿½ ï¿½ kiï¿½avaï¿½ku* um variyï¿½r.
+	uõarppu vayi­ vàrà åñal t­ŸiŸ
+	pulattal tà­ › ki©avaŸku* um varaiyàr.
 
 
 <N 51>
 
-	nilam peyarntu* uï¿½aiyum nili ~iyal maruï¿½kiï¿½
-	kaï¿½avu* uï¿½ai kiï¿½avi tï¿½ï¿½ï¿½uvatu* ï¿½yiï¿½
-	tiï¿½ai-nili+ peyar+ kï¿½ï¿½ kiï¿½avaï¿½ku* um variyï¿½r.
+	nilam peyarntu* uŸaiyum nilai ~iyal maruïki­
+	kaëavu* uŸai kiëavi t­Ÿuvatu* àyi­
+	tiõai-nilai+ peyar+ kë ki©avaŸku* um varaiyàr.
 
 
 <N 52>
 
-	nilam peyarntu* uï¿½aiyum ellï¿½+ pirivu* um
-	oï¿½intï¿½r aï¿½iya ~um aï¿½iyï¿½mi ~um
-	kaï¿½intu cï¿½ï¿½paï¿½ï¿½um iyaï¿½kiya eï¿½pa.
+	nilam peyarntu* uŸaiyum ellà+ pirivu* um
+	o©intr aŸiya ~um aŸiyàmai ~um
+	ka©intu c›ñpañåum iyaŸkaiya e­pa.
 
 
 <N 53>
 
-	ellï¿½ vï¿½yil um kiï¿½avï¿½ï¿½ pirivayiï¿½
-	pal= ï¿½ï¿½ï¿½ï¿½ um vaï¿½puï¿½ai kuï¿½ittaï¿½ï¿½u.
+	ellà vàyil um ki©av­ pirivayi­
+	pal= àŸŸà­ um va­puŸai kuŸitta­Ÿu.
 
 
 <N 54>
 
-	vaï¿½puï¿½ai kuï¿½itta vï¿½yil ellï¿½m
-	aï¿½pu talippirinta kiï¿½avi tï¿½ï¿½ï¿½iï¿½
-	ciï¿½aippuï¿½am^ kuï¿½ittaï¿½ï¿½u* eï¿½maï¿½ï¿½r pulavar.
+	va­puŸai kuŸitta vàyil ellàm
+	a­pu talaippirinta kiëavi t­ŸiŸ
+	ciŸaippuŸam^ kuŸitta­Ÿu* e­ma­àr pulavar.
 
 
 <N 55>
 
-	ciï¿½aippuï¿½am kuï¿½iyï¿½ tï¿½ï¿½ï¿½al um uï¿½a ~ï¿½
-	avaï¿½+ puï¿½arvu* aï¿½iyum kuï¿½ippiï¿½ ï¿½a.
+	ciŸaippuŸam kuŸiyà t­Ÿal um uëa ~›
+	ava­+ puõarvu* aŸiyum kuŸippi­ à­a.
 
 
 <N 56>
 
-	tiï¿½ai ~ï¿½ kikï¿½ï¿½ kåŸŸu* ï¿½ kï¿½ï¿½pï¿½r
-	iï¿½aï¿½ ï¿½ kï¿½lam eccam meyppï¿½ï¿½u
-	payaï¿½ ï¿½ kï¿½ï¿½ eï¿½ï¿½ï¿½ï¿½ku* a+ pattu* ï¿½
-	akaï¿½ aim^ tiï¿½ai ~um urittal ï¿½ï¿½u* ï¿½.
+	tiõai ~› kaikë kåŸŸu* › k›ñpr
+	iña­ › kàlam eccam meyppàñu
+	paya­ › kë e­Ÿàïku* a+ pattu* ›
+	aka­ aim^ tiõai ~um uraittal àŸu* ›.
 
 
 <N 57>
 
-	avaï¿½ï¿½uï¿½
-	eccam um kï¿½ï¿½ um iï¿½mi ~um uriya.
+	avaŸŸuë
+	eccam um kë um i­mai ~um uriya.
 
 
 <N 58>
 
-	col= ï¿½ kuï¿½ippu* ï¿½ ï¿½y iraï¿½ï¿½u* eccam.
+	col= › kuŸippu* › ày iraõñu* eccam.
 
 
 <N 59>
 
-	muï¿½paï¿½a+ kiï¿½anta poruï¿½+ paï¿½aikku* ellï¿½m
-	eccam ï¿½ki varum vaï¿½i aï¿½intu
-	kiï¿½anta alla vï¿½ï¿½u piï¿½a tï¿½ï¿½ï¿½iï¿½um
-	kiï¿½antavaï¿½ï¿½u* iyalï¿½ uï¿½arntaï¿½ar koï¿½al ï¿½.
+	muŸpaña+ kiëanta poruë+ pañaikku* ellàm
+	eccam àki varum va©i aŸintu
+	kiëanta alla v›Ÿu piŸa t­Ÿi­um
+	kiëantavaŸŸu* iyalà­ uõarnta­ar koëal ›.
 
 
 <N 60>
 
-	kaï¿½avu kaï¿½pu* eï¿½a+ kaï¿½ï¿½iya ï¿½ï¿½ï¿½aiyï¿½r
-	uï¿½anikaï¿½ aï¿½piï¿½ uyarcci mï¿½ï¿½a.
+	kaëavu kaŸpu* e­a+ kaõõiya ãõñaiyr
+	uëanika© a­pi­ uyarcci m›­a.

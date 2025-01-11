@@ -104,6 +104,6 @@ ren  poster.gif      POSTER.GIF
 ren  TAMILNA2.GIF    TAMILNA2.GIF
 ren  TAMILNAD.GIF    TAMILNAD.GIF
 ren  TAMNAD.GIF      TAMNAD.GIF
-ren  tondi.gif      TONDAI.GIF
+ren  tondai.gif      TONDAI.GIF
 ren  TONDAI1.GIF     TONDAI1.GIF
 ren  TONDAI_.GIF     TONDAI_.GIF

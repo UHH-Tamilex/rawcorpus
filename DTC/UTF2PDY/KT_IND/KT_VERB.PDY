@@ -13,7 +13,7 @@
 <li>Select everything
 <li>Start "BlocNote" (NotePad)
 <li>Paste, and save in UTF8 text format (KTindE.utf)
-<li>apply UTF_2pdy.bat and obtin a new file  (KTindE.pdy)
+<li>apply UTF_2pdy.bat and obtain a new file  (KTindE.pdy)
 <li>run the dos command: [find "v.r." KTindE.pdy &gt; kt_vr.pdy
 <li>"slightly" edit the result and make it into an hyperlinked file
 <BR>(for instance make a search and replace of *.[0-9]* by ^J&lt;BR&gt;@*.?*, etc.
@@ -25,7 +25,7 @@
 <H3>STATISTICS</H3>
 
 <UL>
-<li>Anthology name: Kuï¿½untoki (=KT)
+<li>Anthology name: KuŸuntokai (=KT)
 <li>Anthology length: 2504 lines
 <li>Number of "v.r.": 710 occ. (of 227 distinct elements)
 <li>Density of "v.r.": 710/2504 = 28%
@@ -61,26 +61,26 @@
 <BR>@311.2 
 <BR>@352.3 
 <BR>@379.3
-<LI>aci		DEDR 37: 4. to move - v.r. 
+<LI>acai		DEDR 37: 4. to move - v.r. 
 <BR>@28.4 
 <BR>@182.6 
 <BR>@195.5 
 <BR>@273.2
-<LI>aci		DEDR 2341: 4. to become slender - v.r. 
+<LI>acai		DEDR 2341: 4. to become slender - v.r. 
 <BR>@214.3 
-<LI>aï¿½u		DEDR 77: 6. to kill - v.r. 
+<LI>añu		DEDR 77: 6. to kill - v.r. 
 <BR>@198.5
-<LI>aï¿½ai		DEDR 84: 4. to settle - v.r. 
+<LI>añai		DEDR 84: 4. to settle - v.r. 
 <BR>@171.2 
 <BR>@175.2 
 <BR>@212.2 
 <BR>@236.3 
 <BR>@303.2 
 <BR>@316.4
-<LI>aï¿½a		DED 96: 12. to lift the head - v.r. 
+<LI>aõa		DED 96: 12. to lift the head - v.r. 
 <BR>@64.3 
 <BR>@128.3
-<LI>aï¿½i	v.r. 
+<LI>aõi	v.r. 
 <BR>@125.3 
 <BR>@159.1 
 <BR>@181.3 
@@ -93,13 +93,13 @@
 <BR>@370.1 
 <BR>@390.4 
 <BR>@392.1
-<LI>aï¿½i		DEDR 120: 4. to be near - v.r./adv.(?) 
+<LI>aõi		DEDR 120: 4. to be near - v.r./adv.(?) 
 <BR>@247.1
-<LI>aï¿½ai		DEDR 120: 4. to touch - v.r. 
+<LI>aõai		DEDR 120: 4. to touch - v.r. 
 <BR>@70.5
 <LI>amal		DEDR 164: 3. to be thickly grown - v.r. 
 <BR>@260.6
-<LI>ami	v.r. 
+<LI>amai	v.r. 
 <BR>@216.4 
 <BR>@267.5 
 <BR>@356.8
@@ -108,35 +108,35 @@
 <BR>@318.3
 <LI>aruntu	DEDR 368: 5. to eat - v.r. 
 <BR>@26.6 
-<BR>@288.1		Â® ayil, uï¿½, tiï¿½
+<BR>@288.1		Â® ayil, uõ, ti­
 <LI>alku		DEDR 317: 5. to abide, dwell; to last? - v.r. 
 <BR>@107.4 
 <BR>@338.2
-<LI>alaï¿½ku	DEDR 240: 5. to sway - v.r. 
+<LI>alaïku	DEDR 240: 5. to sway - v.r. 
 <BR>@134.4 
 <BR>@239.3 
 <BR>@296.2 
 <BR>@376.5
-<LI>ali		DEDR 2374: 11. to slap - v.r. 
+<LI>alai		DEDR 2374: 11. to slap - v.r. 
 <BR>@86.2 
 <BR>@163.4
-<LI>aviï¿½		v.r. 
+<LI>avi©		v.r. 
 <BR>@209.6 
 <BR>@299.3 
 <BR>@320.5 
 <BR>@330.4 
 <BR>@349.1
-<LI>aï¿½i		DEDR 277: 4. to perish - v.r. 
+<LI>a©i		DEDR 277: 4. to perish - v.r. 
 <BR>@35.4 
 <BR>@173.4 
 <BR>@185.8 
 <BR>@317.6
-<LI>aï¿½i		DEDR 314: 4. to know - v.r. 
+<LI>aŸi		DEDR 314: 4. to know - v.r. 
 <BR>@184.1 
 <BR>@265.3 
 <BR>@265.4 
 <BR>@312.1
-<LI>aï¿½u		DEDR 315: 6. to subside - v.r. 
+<LI>aŸu		DEDR 315: 6. to subside - v.r. 
 <BR>@32.1 
 <BR>@51.2 
 <BR>@104.2 
@@ -144,12 +144,12 @@
 <BR>@339.2 
 <BR>@356.3 
 <BR>@387.2
-<LI>ï¿½/ï¿½ku		DEDR 333: 13. to become - v.r. 
+<LI>à/àku		DEDR 333: 13. to become - v.r. 
 <BR>@325.2/ 
 <BR>@48.6 
 <BR>@176.5 
 <BR>@325.4
-<LI>ï¿½y		DEDR 363: 4. to select (2457: to be beautiful, n. beauty?) v.r. 
+<LI>ày		DEDR 363: 4. to select (2457: to be beautiful, n. beauty?) v.r. 
 <BR>@15.4 
 <BR>@34.7 
 <BR>@143.1 
@@ -161,7 +161,7 @@
 <BR>@358.2 
 <BR>@366.7 
 <BR>@401.1
-<LI>ï¿½r	DEDR 368: 4. to become full - v.r. 
+<LI>àr	DEDR 368: 4. to become full - v.r. 
 <BR>@155.1 
 <BR>@158.4 
 <BR>@163.3 
@@ -174,32 +174,32 @@
 <BR>@321.2 
 <BR>@353.1 
 <BR>@385.1
-<LI>ï¿½r		DEDR 367: 11. to roar - v.r. 
+<LI>àr		DEDR 367: 11. to roar - v.r. 
 <BR>@52.1 
 <BR>@369.2
-<LI>ï¿½		DEDR 396: 4. to sink - v.r. 
+<LI>à©		DEDR 396: 4. to sink - v.r. 
 <BR>@240.6
 <LI>iku		TL (not DEDR): 6. to break (intr.) - v.r. 
 <BR>@109.2 
 <BR>@264.1
-<BR>((//SEM//  iï¿½u
+<BR>((//SEM//  iŸu
 <LI>iku		DEDR 415?: 11. to beat - v.r. 
 <BR>@270.3
-<LI>iï¿½i		DEDR 438: 11. to thunder; n. thunder; to pound  v.r./n. 
+<LI>iñi		DEDR 438: 11. to thunder; n. thunder; to pound  v.r./n. 
 <BR>@391.3 
 <BR>@391.4
-<BR>((//SEM//  muï¿½aï¿½ku, urum
-<LI>iï¿½u		DEDR 442: 6. to place - v.r. 
+<BR>((//SEM//  mu©aïku, urum
+<LI>iñu		DEDR 442: 6. to place - v.r. 
 <BR>@77.3 
 <BR>@77.4 
 <BR>@205.5 
 <BR>@297.4
-<LI>imiï¿½		DEDR 466: 5. to buzz - v.r. 
+<LI>imi©		DEDR 466: 5. to buzz - v.r. 
 <BR>@243.4 
 <BR>@299.2 
 <BR>@320.6 
-<BR>@365.4	{Left-Right-double-Arrow} puï¿½imiï¿½
-<LI>iyaï¿½kutoï¿½um v.r. + toï¿½um whenever stirring 
+<BR>@365.4	{Left-Right-double-Arrow} puëimi©
+<LI>iyaïkutoŸum v.r. + toŸum whenever stirring 
 <BR>@190.6 
 <BR>@279.3
 <LI>iyal		DEDR 469: 3./5. to move forward - v.r. 
@@ -208,7 +208,7 @@
 <LI>il	DEDR 2559: not to be (negates existence, usually not as infix, while al negates qualities) - v.r. 
 <BR>@63.1 
 <BR>@290.6
-<LI>ilaï¿½ku	DEDR 829: 5. to shine - v.r. 
+<LI>ilaïku	DEDR 829: 5. to shine - v.r. 
 <BR>@11.1 
 <BR>@14.2 
 <BR>@31.5 
@@ -227,7 +227,7 @@
 <BR>@106.1 
 <BR>@248.5 
 <BR>@287.6 
-<LI>iï¿½i	DEDR 502: 4. to fall - v.r. 
+<LI>i©i	DEDR 502: 4. to fall - v.r. 
 <BR>@78.3 
 <BR>@90.5 
 <BR>@95.1 
@@ -240,13 +240,13 @@
 <BR>@332.5 
 <BR>@339.3 
 <BR>@367.5
-<BR>((//SEM//  vï¿½
-<LI>iï¿½u		DEDR 520: 6. to break (intr.) - v.r. 
+<BR>((//SEM//  vã©
+<LI>iŸu		DEDR 520: 6. to break (intr.) - v.r. 
 <BR>@199.7
 <BR>((//SEM//  iku
-<LI>[iï¿½puï¿½u	+ v.r. uï¿½u 
+<LI>[i­puŸu	+ v.r. uŸu 
 <BR>@65.2]
-<LI>ï¿½		DEDR 555: 8. to bring forth - v.r. 
+<LI>ã­		DEDR 555: 8. to bring forth - v.r. 
 <BR>@38.1 
 <BR>@85.3 
 <BR>@148.3
@@ -256,37 +256,37 @@
 <BR>@251.6 
 <BR>@398.8
 <BR>((//SEM//  utir
-<LI>uï¿½ai		DEDR 946: 4. intr. to break - v.r. 
+<LI>uñai		DEDR 946: 4. intr. to break - v.r. 
 <BR>@5.3 
 <BR>@40.5? 
 <BR>@303.3 
 <BR>@351.4 
 <BR>@381.6
-<LI>uï¿½		DEDR 600: 7. to eat - v.r. 
+<LI>uõ		DEDR 600: 7. to eat - v.r. 
 <BR>@90.5 
 <BR>@105.2 
 <BR>@360.6 
 <BR>@399.1 
 <BR>@399.1	
-<LI>umiï¿½		DEDR 636: 4. to shoot; to spit - v.r. 
+<LI>umi©		DEDR 636: 4. to shoot; to spit - v.r. 
 <BR>@231.6 
 <BR>@239.5
-<LI>uyaï¿½ku	DEDR 3793: 5. to become weak - v.r. 
+<LI>uyaïku	DEDR 3793: 5. to become weak - v.r. 
 <BR>@244.6 
 <BR>@255.3 
 <BR>@307.5 
 <BR>@308.4
 <LI>ulampu	DEDR 996: 5. to thunder - v.r. 
 <BR>@86.5
-<LI>uli		DEDR 671: 4. to be ruined - v.r. 
+<LI>ulai		DEDR 671: 4. to be ruined - v.r. 
 <BR>@308.4
 <LI>uva		DEDR 558: 12. to rejoice - v.r. 
 <BR>@367.3
-<BR>((//SEM//  pukal, makiï¿½
-<LI>uï¿½ar		DEDR 689: 4./5. to smooth (tr.)/ TL: to whiffle (intr.) v.r. 
+<BR>((//SEM//  pukal, maki©
+<LI>uëar		DEDR 689: 4./5. to smooth (tr.)/ TL: to whiffle (intr.) v.r. 
 <BR>@228.2 
 <BR>@312.6
-<LI>uï¿½u	DEDR 710(711?): 6. to have - v.r. 
+<LI>uŸu	DEDR 710(711?): 6. to have - v.r. 
 <BR>@19.4 
 <BR>@65.2 
 <BR>@82.1 
@@ -312,16 +312,16 @@
 <BR>@383.5 
 <BR>@385.3 
 <BR>@397.8
-<LI>uï¿½aï¿½		DEDR 710: to be close = to resemble? - v.r. 
+<LI>uŸa©		DEDR 710: to be close = to resemble? - v.r. 
 <BR>@314.5 
 <BR>@328.7 
-<LI>uï¿½ai		DEDR 761: 11. to drop - v.r. 
+<LI>uŸai		DEDR 761: 11. to drop - v.r. 
 <BR>@35.4 
 <BR>@86.3 
 <BR>@270.2 
 <BR>@271.1 
 <BR>@339.2
-<LI>uï¿½ai	DEDR 710: 4. to stay - v.r. 
+<LI>uŸai	DEDR 710: 4. to stay - v.r. 
 <BR>@46.2 
 <BR>@57.2 
 <BR>@135.2 
@@ -330,18 +330,18 @@
 <BR>@322.5 
 <BR>@344.8 352.
 <BR>((//SEM//  auxiliary verbs
-<LI>ï¿½r		DEDR 749: 4. intr. to creep; tr. to mount - v.r. 
+<LI>år		DEDR 749: 4. intr. to creep; tr. to mount - v.r. 
 <BR>@195.5v
-<LI>[ï¿½ppaï¿½u	+ v.r. of paï¿½u 
+<LI>[å©ppañu	+ v.r. of pañu 
 <BR>@68.2]
-<LI>[ï¿½uï¿½u		+ v.r. of uï¿½u 
+<LI>[å©uŸu		+ v.r. of uŸu 
 <BR>@228.1 
 <BR>@278.5]
 <LI>etir		DEDR 795: 4./5.? to be opposed; TL: to blossom - v.r. 
 <BR>@62.1
-<LI>[elluï¿½u	+ v.r. of uï¿½u 
+<LI>[elluŸu	+ v.r. of uŸu 
 <BR>@19.4]
-<LI>eï¿½u	DEDR 851(a): 4. to rise - v.r. 
+<LI>e©u	DEDR 851(a): 4. to rise - v.r. 
 <BR>@24.4? 
 <BR>@26.2 
 <BR>@195.2 
@@ -349,13 +349,13 @@
 <BR>@276.3 
 <BR>@315.1 
 <BR>@398.7
-<BR>((//SEM//  ï¿½ï¿½u
-<LI>[eï¿½utaru	+ v.r. of tï¿½ 
+<BR>((//SEM//  ›Ÿu
+<LI>[e©utaru	+ v.r. of tà 
 <BR>@195.2 
 <BR>@259.1 
 <BR>@315.1 
 <BR>@398.7]
-<LI>eï¿½i	DEDR 859: 4. to throw - v.r. 
+<LI>eŸi	DEDR 859: 4. to throw - v.r. 
 <BR>@54.4 
 <BR>@110.7 
 <BR>@199.4 
@@ -366,7 +366,7 @@
 <BR>@358.2 
 <BR>@380.2 
 <BR>@392.5
-<LI>eï¿½	DEDR 668: 8. to say - v.r. 
+<LI>e­	DEDR 668: 8. to say - v.r. 
 <BR>@24.6 
 <BR>@160.4 
 <BR>@162.2 
@@ -380,20 +380,20 @@
 <BR>@312.4 
 <BR>@349.6 
 <BR>@365.4
-<BR>((//SEM//  uri, kï¿½u, ceppu, col, moï¿½i
-<LI>ï¿½ntu		DEDR 870: 5. to be eminent - v.r. 
+<BR>((//SEM//  urai, kåŸu, ceppu, col, mo©i
+<LI>›ntu		DEDR 870: 5. to be eminent - v.r. 
 <BR>@178.2 
 <BR>@258.4
-<LI>[ï¿½muï¿½u	+ v.r. of uï¿½u 
+<LI>[›muŸu	+ v.r. of uŸu 
 <BR>@129.1]
-<LI>ï¿½r		TL (not DEDR): 4. to resemble - v.r. 
+<LI>›r		TL (not DEDR): 4. to resemble - v.r. 
 <BR>@254.2 
 <BR>@377.1 
 <BR>@377.2 
 <BR>@398.3
-<LI>ï¿½r		TL (not DEDR): 4. to rise - v.r. 
+<LI>›r		TL (not DEDR): 4. to rise - v.r. 
 <BR>@287.8
-<LI>oï¿½uï¿½ku	DEDR 952: 5. to be restrined - v.r. 
+<LI>oñuïku	DEDR 952: 5. to be restrained - v.r. 
 <BR>@70.1
 <LI>oy		DEDR 984: 4. to carry - v.r. 
 <BR>@165.3
@@ -405,11 +405,11 @@
 <LI>oli		DEDR 997: 4.? to sprout - v.r. 
 <BR>@225.7 
 <BR>@264.2
-<LI>oï¿½uku		DEDR 1010: 5. to flow - v.r. 
+<LI>o©uku		DEDR 1010: 5. to flow - v.r. 
 <BR>@25.4 
 <BR>@315.2 
 <BR>@366.6v
-<LI>ï¿½ï¿½ku	DEDR 1033: 5. to become high - v.r. 
+<LI>ïku	DEDR 1033: 5. to become high - v.r. 
 <BR>@69.4 
 <BR>@76.1 
 <BR>@83.5 
@@ -426,15 +426,15 @@
 <BR>@317.4 
 <BR>@373.8
 <BR>((//SEM//  uyar
-<LI>kï¿½ï¿½		DEDR 1159: 13. to see
-<BR>((//SEM//  nï¿½kku, pï¿½r	v.r. 
+<LI>kàõ		DEDR 1159: 13. to see
+<BR>((//SEM//  nkku, pàr	v.r. 
 <BR>@132.5 
 <BR>@178.5
-<LI>kataï¿½		DEDR 1188: 4. to hasten - v.r. 
+<LI>kata©		DEDR 1188: 4. to hasten - v.r. 
 <BR>@134.5
-<BR>((//SEM//  kaï¿½uku, tuï¿½ai, pari
-<LI>kamaï¿½		DEDR 1247: 4. to be fragrant
-<BR>((//SEM//  nï¿½ï¿½u  v.r. 
+<BR>((//SEM//  kañuku, tu­ai, pari
+<LI>kama©		DEDR 1247: 4. to be fragrant
+<BR>((//SEM//  nàŸu  v.r. 
 <BR>@10.3 
 <BR>@205.7 
 <BR>@286.2 
@@ -444,54 +444,54 @@
 <BR>@381.4
 <LI>kari		DEDR 1278(a): 4. to be scorched - v.r. 
 <BR>@67.5 
-<LI>kalaï¿½ku	DEDR 1303: 5. to be stirred up - v.r. 
+<LI>kalaïku	DEDR 1303: 5. to be stirred up - v.r. 
 <BR>@205.4
-<LI>kaliï¿½		DEDR 1303: 4. to weep - v.r. 
+<LI>kali©		DEDR 1303: 4. to weep - v.r. 
 <BR>@398.8
-<BR>((//SEM//  aï¿½u
-<LI>kaliï¿½		TL (not DEDR): 4. to shine forth - v.r. 
+<BR>((//SEM//  a©u
+<LI>kali©		TL (not DEDR): 4. to shine forth - v.r. 
 <BR>@182.6
 <LI>kavar		DEDR 1326: 4. to seize - v.r. 
 <BR>@242.1
 <BR>((//SEM//  katu, kavvu
-<LI>kavi		DEDR 1325: 4. to fork - v.r. 
+<LI>kavai		DEDR 1325: 4. to fork - v.r. 
 <BR>@174.2 
 <BR>@213.2 
 <BR>@324.6
-<LI>kaï¿½aï¿½u		DEDR 1354?: 5. to murmur - v.r. 
+<LI>ka©aŸu		DEDR 1354?: 5. to murmur - v.r. 
 <BR>@158.2
-<LI>kaï¿½uvu	DEDR 1369: 5. to wash - v.r. 
+<LI>ka©uvu	DEDR 1369: 5. to wash - v.r. 
 <BR>@167.2
-<LI>[kaï¿½uvuï¿½u	+ v.r. of uï¿½u 
+<LI>[ka©uvuŸu	+ v.r. of uŸu 
 <BR>@167.2]
-<LI>kaï¿½i		DEDR 1408: 4. to melt - v.r. 
+<LI>ka­i		DEDR 1408: 4. to melt - v.r. 
 <BR>@389.1
-<LI>kiï¿½ai		DEDR 2018: 11. to multiply - v.r. 
+<LI>kiëai		DEDR 2018: 11. to multiply - v.r. 
 <BR>@197.2
 <LI>kuvi		4./11. to heap - v.r. 
 <BR>@17.2 
 <BR>@107.1
-<LI>kï¿½ï¿½ï¿½u		DEDR 1882: 5. to combine - v.r. 
+<LI>kåññu		DEDR 1882: 5. to combine - v.r. 
 <BR>@331.3
-<LI>kï¿½mpu	DEDR 1894: 5. to close - v.r. 
+<LI>kåmpu	DEDR 1894: 5. to close - v.r. 
 <BR>@35.3
-<LI>kï¿½r		DEDR 1899: 4. to be in abundance - v.r. 
+<LI>kår		DEDR 1899: 4. to be in abundance - v.r. 
 <BR>@51.1 
 <BR>@103.4 
 <BR>@358.5 
 <BR>@398.2
-<LI>[kiyaï¿½u	+ v.r. of aï¿½u 
+<LI>[kaiyaŸu	+ v.r. of aŸu 
 <BR>@32.1 
 <BR>@387.2]
-<LI>kiviï¿½u	TL: 6. to let go of - v.r. 
+<LI>kaiviñu	TL: 6. to let go of - v.r. 
 <BR>@54.3
 <LI>koy		DEDR 2119: 1. to pluck - v.r. 
 <BR>@26.3
-<BR>((//SEM//  kuï¿½u
+<BR>((//SEM//  kuŸu
 <LI>kol		DEDR 2132: 3. to fell, kill - v.r. 
 <BR>@214.1 
 <BR>@304.1
-<LI>koï¿½	DEDR 2151: 2. to take - v.r. 
+<LI>koë	DEDR 2151: 2. to take - v.r. 
 <BR>@41.2 
 <BR>@107.2 
 <BR>@134.6 
@@ -502,25 +502,25 @@
 <BR>@314.3 
 <BR>@320.1 
 <BR>@372.3
-<LI>cï¿½y	DEDR 2456: 4. intr. to bend (cï¿½y bend and cï¿½y be emaciated are homophones and follow the same conjugation, so that it is virtually impossible to distinguish, and probably the layers of association overlap, as in the case of cï¿½ay) - v.r. 
+<LI>cày	DEDR 2456: 4. intr. to bend (cày bend and cày be emaciated are homophones and follow the same conjugation, so that it is virtually impossible to distinguish, and probably the layers of association overlap, as in the case of càay) - v.r. 
 <BR>@168.5	
-<LI>cili		DEDR 1574: 11. to resound - v.r. 
+<LI>cilai		DEDR 1574: 11. to resound - v.r. 
 <BR>@94.7 
 <BR>@272.5
-<LI>ciï¿½ai		DEDR 1980: 11. to restrin - v.r. 
+<LI>ciŸai		DEDR 1980: 11. to restrain - v.r. 
 <BR>@86.1
-<LI>cuï¿½u		DEDR 2654: 6. to glow - v.r. 
+<LI>cuñu		DEDR 2654: 6. to glow - v.r. 
 <BR>@291.1
 <LI>curi		DEDR 2684: 4. to wind - v.r. 
 <BR>@22.3 
 <BR>@260.3 
 <BR>@281.4 
 <BR>@308.1
-<LI>cï¿½		DEDR 2698: 4. to surround - v.r. 
+<LI>cå©		DEDR 2698: 4. to surround - v.r. 
 <BR>@220.6 
 <BR>@279.6 
 <BR>@300.7
-<BR>((//SEM//  vaï¿½ai
+<BR>((//SEM//  vaëai
 <LI>cey	DEDR 1957: 1. to make, do - v.r. 
 <BR>@21.2 
 <BR>@63.2 
@@ -544,17 +544,17 @@
 <BR>@297.3 
 <BR>@331.2 
 <BR>@350.6
-<BR>((//SEM//  pï¿½
-<LI>[celavuï¿½u	+ v.r. of uï¿½u 
+<BR>((//SEM//  p
+<LI>[celavuŸu	+ v.r. of uŸu 
 <BR>@137.4]
-<LI>ceï¿½i	DEDR 1980: 4. to be close, tight - v.r. 
+<LI>ceŸi	DEDR 1980: 4. to be close, tight - v.r. 
 <BR>@2.4 
 <BR>@190.2 
 <BR>@198.4 
 <BR>@290.4 
 <BR>@337.3 
 <BR>@379.4
-<LI>cï¿½r	DEDR 2814: 4. tr. to join - v.r. 
+<LI>c›r	DEDR 2814: 4. tr. to join - v.r. 
 <BR>@66.4 
 <BR>@82.1 
 <BR>@108.1 
@@ -565,36 +565,36 @@
 <BR>@311.6
 <LI>col		DEDR 2855: 5. to speak, utter - v.r. 
 <BR>@6.1 
-<LI>ï¿½ekiï¿½		DEDR 2923: 5. to become loose, to be emaciated - v.r. 
+<LI>¤eki©		DEDR 2923: 5. to become loose, to be emaciated - v.r. 
 <BR>@357.2	
-<LI>tati		DEDR 3315: 12.? to be full - v.r. 
+<LI>tatai		DEDR 3315: 12.? to be full - v.r. 
 <BR>@304.6 
 <BR>@338.3 
-<BR>@386.1 {Left-Right-double-Arrow} vï¿½tati
+<BR>@386.1 {Left-Right-double-Arrow} vãtatai
 <LI>tapu		DEDR 3068: 11.? to perish? - v.r. 
 <BR>@128.1 (= tappu?)
-<LI>tayaï¿½ku	TL (not DEDR): 5. to glitter - v.r. 
+<LI>tayaïku	TL (not DEDR): 5. to glitter - v.r. 
 <BR>@226.5 
 <BR>@345.5
-<BR>((//SEM//  tikaï¿½, poli
-<LI>taru/tï¿½	DEDR 3098: 13. to give, to bring - v.r. 
+<BR>((//SEM//  tika©, poli
+<LI>taru/tà	DEDR 3098: 13. to give, to bring - v.r. 
 <BR>@65.3 
 <BR>@79.4 
 <BR>@292.2 
 <BR>@304.8
-<LI>tavaï¿½		DEDR 3109?: 4. to cover - v.r. 
+<LI>tava©		DEDR 3109?: 4. to cover - v.r. 
 <BR>@84.3
-<LI>taï¿½uvu		DEDR 3116: 5. to embrace - v.r. 
+<LI>ta©uvu		DEDR 3116: 5. to embrace - v.r. 
 <BR>@294.2
-<BR>((//SEM//  pulli, muyaï¿½ku
-<LI>[taï¿½uvaï¿½i	v.r. + aï¿½i - a kind of women's dance?! 
+<BR>((//SEM//  pulli, muyaïku
+<LI>[ta©uvaõi	v.r. + aõi - a kind of women's dance?! 
 <BR>@294.2 (hapax)]
-<LI>taï¿½i		DEDR 3435: 11. to drip - v.r. 
+<LI>taëi		DEDR 3435: 11. to drip - v.r. 
 <BR>@65.3
-<LI>tï¿½ï¿½ku		DEDR 3153: 5. to endure - v.r. 
+<LI>tàïku		DEDR 3153: 5. to endure - v.r. 
 <BR>@304.3
-<BR>((//SEM//  ï¿½ï¿½ï¿½u, uï¿½a, nï¿½ï¿½
-<LI>tï¿½	DEDR 3178: 5.? to hang down - v.r. 
+<BR>((//SEM//  àŸŸu, u©a, n­
+<LI>tà©	DEDR 3178: 5.? to hang down - v.r. 
 <BR>@53.2 
 <BR>@81.7 
 <BR>@156.3 
@@ -602,19 +602,19 @@
 <BR>@228.1 
 <BR>@270.1 
 <BR>@345.4
-<BR>((//SEM//  tï¿½ï¿½ku
-<LI>tikaï¿½		DEDR 3200: 4. to glitter - v.r. 
+<BR>((//SEM//  tåïku
+<LI>tika©		DEDR 3200: 4. to glitter - v.r. 
 <BR>@0.2 
 <BR>@52.1 
 <BR>@192.4 
 <BR>@282.5
-<BR>((//SEM//  tayaï¿½ku, poli
-<LI>tiï¿½i		DEDR 3222: 4. to become firm - v.r. 
+<BR>((//SEM//  tayaïku, poli
+<LI>tiõi		DEDR 3222: 4. to become firm - v.r. 
 <BR>@175.2
-<LI>tiraï¿½ku	DEDR 3244: 5. to dry up - v.r. 
+<LI>tiraïku	DEDR 3244: 5. to dry up - v.r. 
 <BR>@396.7
-<BR>((//SEM//  uï¿½aï¿½kal, pular, muï¿½i
-<LI>tiraï¿½		DEDR 3245: 2. to become round - v.r. 
+<BR>((//SEM//  uõaïkal, pular, muëi
+<LI>tiraë		DEDR 3245: 2. to become round - v.r. 
 <BR>@178.2 
 <BR>@397.1
 <LI>tiri		DEDR 3246: 4. to be twisted, to turn - v.r. 
@@ -625,45 +625,45 @@
 <BR>@214.4 
 <BR>@279.8 
 <BR>@294.6
-<LI>tï¿½r		DEDR 3278: 4. intr. to end - v.r. 
+<LI>tãr		DEDR 3278: 4. intr. to end - v.r. 
 <BR>@207.3 
 <BR>@258.8 
 <BR>@368.2
-<LI>tuï¿½cu		DEDR 3291: 5. to sleep - v.r. 
+<LI>tu¤cu		DEDR 3291: 5. to sleep - v.r. 
 <BR>@32.2 
 <BR>@36.2 
 <BR>@302.7
-<BR>((//SEM//  uï¿½aï¿½ku
-<LI>tuï¿½ku		onom. 
+<BR>((//SEM//  uŸaïku
+<LI>tuñku		onom. 
 <BR>@157.2 (DEDS 2762: v.r. to be alarmed?)
-<LI>tuti		DEDR 3315: 4. to be dense - v.r. 
+<LI>tutai		DEDR 3315: 4. to be dense - v.r. 
 <BR>@174.3
 <LI>tuyal		DEDR 3376(b): 5. to swing - v.r. 
 <BR>@264.2
-<LI>tuï¿½ï¿½u		DEDR 3364: 5. to hop - v.r. 
+<LI>tuëëu		DEDR 3364: 5. to hop - v.r. 
 <BR>@85.2
-<BR>((//SEM//  ukaï¿½u, tattu, teï¿½i, pï¿½y
-<LI>tuï¿½u	DEDR 3367: 6. to be thick - v.r./adj. 
+<BR>((//SEM//  ukaëu, tattu, teŸi, pày
+<LI>tuŸu	DEDR 3367: 6. to be thick - v.r./adj. 
 <BR>@13.2 
 <BR>@36.1 
 <BR>@47.1 
 <BR>@111.5 
 <BR>@279.5 
 <BR>@284.2 
-<BR>@367.7						{Left-Right-double-Arrow} tuï¿½ukal
-<LI>tuï¿½ï¿½u		DEDR 3367: 5. to near - v.r. 
+<BR>@367.7						{Left-Right-double-Arrow} tuŸukal
+<LI>tu­­u		DEDR 3367: 5. to near - v.r. 
 <BR>@88.3 
 <BR>@365.3 
-<BR>@376.1	{Left-Right-double-Arrow} tuï¿½ï¿½aru
-<LI>tuï¿½ai		TL (not DEDR): 4. to hasten - v.r. 
+<BR>@376.1	{Left-Right-double-Arrow} tu­­aru
+<LI>tu­ai		TL (not DEDR): 4. to hasten - v.r. 
 <BR>@269.1 
 <BR>@316.6	
-<LI>tï¿½ï¿½ku		DEDR 3376(a): 5. to hang - v.r. 
+<LI>tåïku		DEDR 3376(a): 5. to hang - v.r. 
 <BR>@235.2 
 <BR>@344.4 
 <BR>@392.8
-<BR>((//SEM//  tï¿½
-<LI>teï¿½	DEDR 3433: 9. to become clear - v.r./adj. 
+<BR>((//SEM//  tà©
+<LI>teë	DEDR 3433: 9. to become clear - v.r./adj. 
 <BR>@65.1 
 <BR>@155.4 
 <BR>@196.3 
@@ -673,9 +673,9 @@
 <BR>@279.2 
 <BR>@306.6v 
 <BR>@329.6
-<LI>teï¿½i		4. to become clear	- v.r. 
+<LI>teëi		4. to become clear	- v.r. 
 <BR>@212.2
-<LI>tï¿½r		DEDR 3419: 4. to search - v.r. 
+<LI>t›r		DEDR 3419: 4. to search - v.r. 
 <BR>@2.1 
 <BR>@103.3 
 <BR>@113.3 
@@ -684,12 +684,12 @@
 <BR>@15.6 
 <BR>@107.2 
 <BR>@126.4
-<LI>toï¿½u		DEDR 3480: 6. to touch - v.r. 
+<LI>toñu		DEDR 3480: 6. to touch - v.r. 
 <BR>@15.6v 
 <BR>@399.3 
 <BR>@399.3
-<BR>((//SEM//  tï¿½y
-<LI>tï¿½y	DEDR 3556: 4. to touch â€“ v.r. 
+<BR>((//SEM//  ty
+<LI>ty	DEDR 3556: 4. to touch â€“ v.r. 
 <BR>@74.2 
 <BR>@99.4 
 <BR>@102.3 
@@ -700,64 +700,64 @@
 <BR>@357.8 
 <BR>@362.6 
 <BR>@401.6
-<BR>((//SEM//  toï¿½u
-<LI>naci		4.? to yearn - v.r. 
+<BR>((//SEM//  toñu
+<LI>nacai		4.? to yearn - v.r. 
 <BR>@274.5
-<LI>naï¿½uï¿½ku	DEDR 3585: 5. to shiver - v.r. 
+<LI>nañuïku	DEDR 3585: 5. to shiver - v.r. 
 <BR>@76.6 
 <BR>@103.1 
 <BR>@132.4 
 <BR>@354.6
-<BR>((//SEM//  paï¿½i
-<LI>naï¿½ï¿½u		DEDR 3588: 5. to be situated - v.r. 
+<BR>((//SEM//  pa­i
+<LI>naõõu		DEDR 3588: 5. to be situated - v.r. 
 <BR>@203.3
-<LI>nalkï¿½r		DEDR 252: 4. to be poor - v.r. 
+<LI>nalkår		DEDR 252: 4. to be poor - v.r. 
 <BR>@86.6 
 <BR>@347.1
 <LI>navil		DEDR 3616: 3. to utter - v.r. 
 <BR>@86.6
-<LI>naï¿½ai		DEDR 3630: 12.? to become wet - v.r. 
+<LI>na­ai		DEDR 3630: 12.? to become wet - v.r. 
 <BR>@343.1
-<LI>nï¿½ï¿½ï¿½u		DEDR 3583: 5. to erect - v.r. 
+<LI>nàññu		DEDR 3583: 5. to erect - v.r. 
 <BR>@245.4
-<LI>nï¿½ï¿½u	DEDR 3637: 5. to search - v.r. 
+<LI>nàñu	DEDR 3637: 5. to search - v.r. 
 <BR>@170.3
-<LI>nï¿½ï¿½ku		DEDR 3685: 5. to leave - v.r. 
+<LI>nãïku		DEDR 3685: 5. to leave - v.r. 
 <BR>@391.2
-<BR>((//SEM//  akal, nï¿½ 
-<LI>nï¿½ï¿½u		DEDR 3692: 5. to prolong - v.r. 
+<BR>((//SEM//  akal, nã 
+<LI>nãñu		DEDR 3692: 5. to prolong - v.r. 
 <BR>@149.2 
 <BR>@354.1 
 <BR>@373.4 
 <BR>@374.6 
 <BR>@385.4
-<LI>nï¿½ntu		5. to swim - v.r. 
+<LI>nãntu		5. to swim - v.r. 
 <BR>@332.2
-<LI>nuï¿½ku		DEDR 3697: 5. to swallow - v.r. 
+<LI>nuïku		DEDR 3697: 5. to swallow - v.r. 
 <BR>@395.4
 <LI>neri		DEDR 2927: 11. to crush - v.r. 
 <BR>@66.3 
 <BR>@149.4 
 <BR>@149.6 
 <BR>@208.2
-<LI>neï¿½i		DEDR 2935: 4. to curl - v.r. 
+<LI>neŸi		DEDR 2935: 4. to curl - v.r. 
 <BR>@183.3 
 <BR>@190.1 
 <BR>@199.4
-<LI>nï¿½r		DEDR 3770?: 11.? to resemble - v.r. 
+<LI>n›r		DEDR 3770?: 11.? to resemble - v.r. 
 <BR>@173.1? 
 <BR>@319.6?
-<LI>nï¿½ï¿½		DEDR 3800: 8. to suffer - v.r. 
+<LI>n­		DEDR 3800: 8. to suffer - v.r. 
 <BR>@191.2 
 <BR>@304.2
-<BR>((//SEM//  ï¿½ï¿½ï¿½u, uï¿½a, tï¿½ï¿½ku
+<BR>((//SEM//  àŸŸu, u©a, tàïku
 <LI>paku		DEDR 3808: 6. to be split - v.r. 
 <BR>@89.1 
 <BR>@155.4 
 <BR>@193.2 
 <BR>@279.2 
 <BR>@343.3 
-<LI>paï¿½u	DEDR 3852/3853?: 6. to happen (...) - v.r. 
+<LI>pañu	DEDR 3852/3853?: 6. to happen (...) - v.r. 
 <BR>@30.5 
 <BR>@104.4 
 <BR>@141.6 
@@ -776,7 +776,7 @@
 <BR>@346.5 
 <BR>@357.7 
 <BR>@371.2
-<LI>paï¿½i		DEDR 3888: 4. to be humble - v.r. 
+<LI>paõi		DEDR 3888: 4. to be humble - v.r. 
 <BR>@176.2 
 <LI>payil	DEDR 3942: 3. to become dense (not DEDR); intr. to practise? - DEDR 3943?: to rustle?  v.r. 
 <BR>@7.6 
@@ -785,57 +785,57 @@
 <BR>@254.5 
 <BR>@291.7 
 <BR>@329.5
-<LI>pï¿½y		DEDR 4087: 4. to spring - DEDR 4088: 4. to spread		v.r. 
+<LI>pày		DEDR 4087: 4. to spring - DEDR 4088: 4. to spread		v.r. 
 <BR>@116.1 
 <BR>@317.3 
 <BR>@335.3 
 <BR>@336.2
-<BR>((//SEM//  tï¿½vu, tåŸŸu, para
-<LI>pï¿½ï¿½u		5. to sing - v.r. 
+<BR>((//SEM//  tàvu, tåŸŸu, para
+<LI>pàñu		5. to sing - v.r. 
 <BR>@138.5 
 <BR>@177.1 
 <BR>@353.3 
 <BR>@390.1
-<LI>pï¿½		DEDR 4110: 11. to go to ruin - v.r. 
+<LI>pà©		DEDR 4110: 11. to go to ruin - v.r. 
 <BR>@144.5
 <LI>piri		DEDR 4176: 4. intr. to separate - v.r. 
 <BR>@22.2
-<LI>piï¿½aï¿½ku	5. to glisten - v.r. 
+<LI>piŸaïku	5. to glisten - v.r. 
 <BR>@66.2 
 <BR>@214.2 
 <BR>@329.4
-<LI>piï¿½ï¿½u		DEDR 4207: 5. to brid - v.r. 
+<LI>pi­­u		DEDR 4207: 5. to braid - v.r. 
 <BR>@246.6 
 <BR>@353.6
 <LI>puku		DEDR 4238: 6. to enter - v.r. 
 <BR>@118.3 
 <BR>@162.2
-<LI>puï¿½ar		DEDR 4160(b): 4. intr. to unite - v.r. 
+<LI>puõar		DEDR 4160(b): 4. intr. to unite - v.r. 
 <BR>@299.4
 <LI>puri		4. to desire (TL: to do?) - v.r. 
 <BR>@374.4
 <LI>pullu		TL (not DEDR): 5. to embrace - v.r. 
 <BR>@161.3
-<BR>((//SEM//  taï¿½uvu, muyaï¿½ku
+<BR>((//SEM//  ta©uvu, muyaïku
 <LI>pular		TL (not DEDR; DEDS 3733?): 4. to dry - v.r. 
 <BR>@150.3 
 <BR>@372.6 
 <LI>pular		DEDR 4305: 4. to dawn - v.r. 
 <BR>@234.5
-<LI>pï¿½ï¿½ï¿½u		DEDR 4361: 5. to fasten - v.r. 
+<LI>påññu		DEDR 4361: 5. to fasten - v.r. 
 <BR>@388.3
-<LI>pï¿½ï¿½		DEDR 4361: 7. to put on, to take on - v.r. 
+<LI>påõ		DEDR 4361: 7. to put on, to take on - v.r. 
 <BR>@173.3 
 <BR>@275.4
-<LI>pey		DEDR 4407: 1. to rin - v.r. 
+<LI>pey		DEDR 4407: 1. to rain - v.r. 
 <BR>@106.5 
 <BR>@233.3 
 <BR>@372.5
 <LI>peyar		DEDR 4409: 4. to stir, to move, to return - v.r. 
 <BR>@340.5
-<LI>peï¿½u		DEDR 4422: 6. to obtin - v.r. 
+<LI>peŸu		DEDR 4422: 6. to obtain - v.r. 
 <BR>@101.2
-<LI>poï¿½ku		DEDR 4469: 5. to foam, to rise - v.r. 
+<LI>poïku		DEDR 4469: 5. to foam, to rise - v.r. 
 <BR>@55.2 
 <BR>@90.3
 <LI>pori		4. to be parched - v.r. 
@@ -849,9 +849,9 @@
 <BR>@250.5 
 <BR>@290.5 
 <BR>@329.2
-<LI>poï¿½i		DEDR 4556: 4. to flow - v.r. 
+<LI>po©i		DEDR 4556: 4. to flow - v.r. 
 <BR>@187.2
-<LI>pï¿½l	DEDR 4597: 3. to be similar - v.r. 
+<LI>pl	DEDR 4597: 3. to be similar - v.r. 
 <BR>@10.2 
 <BR>@101.4 
 <BR>@101.4 
@@ -864,25 +864,25 @@
 <BR>@245.3 
 <BR>@259.6 
 <BR>@286.3
-<LI>pï¿½ï¿½		DEDR 4539: 4. tr. to be split; intr. to cross - v.r. 
+<LI>p©		DEDR 4539: 4. tr. to be split; intr. to cross - v.r. 
 <BR>@391.7
-<LI>makiï¿½		DEDR 4618: 4. to be delighted - v.r. 
+<LI>maki©		DEDR 4618: 4. to be delighted - v.r. 
 <BR>@229.7
 <BR>((//SEM//  uva, pukal
-<LI>maï¿½i		DEDR 4652: 4.? to droop - v.r. 
+<LI>mañi		DEDR 4652: 4.? to droop - v.r. 
 <BR>@180.3
-<LI>maï¿½ï¿½u	DEDR 4684: 5. to bath - v.r. 
+<LI>maõõu	DEDR 4684: 5. to bath - v.r. 
 <BR>@367.6
-<LI>[maï¿½ï¿½uï¿½u	+ v.r. of uï¿½u 
+<LI>[maõõuŸu	+ v.r. of uŸu 
 <BR>@367.6]
 <LI>matar		DEDR 4687: 11. to flourish - v.r. 
 <BR>@348.4
-<LI>mayaï¿½ku	5. to be confused - v.r. 
+<LI>mayaïku	5. to be confused - v.r. 
 <BR>@308.3 
 <BR>@339.4 
 <BR>@393.1
-<BR>((//SEM//  ï¿½mï¿½, maruï¿½ï¿½u
-<LI>maruï¿½		7. to resemble; to be confused - v.r. 
+<BR>((//SEM//  ›mà, maruõñu
+<LI>maruë		7. to resemble; to be confused - v.r. 
 <BR>@138.5 
 <BR>@198.2 
 <BR>@345.2 
@@ -901,16 +901,16 @@
 <LI>malir		DEDR 4729: 4. to flood - v.r. 
 <BR>@99.4 
 <BR>@351.3
-<LI>maï¿½ï¿½u	DEDR 4778: 5. intr. to be permanent; tr. to come close - v.r. 
+<LI>ma­­u	DEDR 4778: 5. intr. to be permanent; tr. to come close - v.r. 
 <BR>@376.1
-<LI>mï¿½ï¿½u		DEDR 4834: 5. intr. to be exchanged; tr. to exchange - v.r. 
+<LI>màŸu		DEDR 4834: 5. intr. to be exchanged; tr. to exchange - v.r. 
 <BR>@293.6 
 <LI>miku		DEDR 4838: 6. to become much - v.r. 
 <BR>@138.4 
 <BR>@343.3
-<LI>miï¿½ai		TL (not DEDR): 4. to be set close - v.r. 
+<LI>miñai		TL (not DEDR): 4. to be set close - v.r. 
 <BR>@274.7
-<LI>miï¿½ï¿½u		5. to flash - v.r. 
+<LI>mi­­u		5. to flash - v.r. 
 <BR>@192.3? 
 <BR>@205.1? 
 <BR>@246.6 
@@ -924,65 +924,65 @@
 <BR>@164.3 
 <BR>@176.4 
 <BR>@397.1
-<BR>((//SEM//  kaï¿½ai, paï¿½u, viï¿½ai
-<LI>muï¿½aï¿½ku	DEDR 4989: 5. to thunder - v.r. 
+<BR>((//SEM//  ka­ai, pa©u, viëai
+<LI>mu©aïku	DEDR 4989: 5. to thunder - v.r. 
 <BR>@251.7 
 <BR>@396.6
-<BR>((//SEM//  iï¿½i, urum
-<LI>muï¿½i		DEDR 4996: 4. to dry - v.r. 
+<BR>((//SEM//  iñi, urum
+<LI>muëi		DEDR 4996: 4. to dry - v.r. 
 <BR>@167.1 
 <BR>@304.2 
 <BR>@388.5 
 <BR>@396.3 
-<LI>muï¿½i		DEDR 5021: 4. to hate - v.r. 
+<LI>mu­i		DEDR 5021: 4. to hate - v.r. 
 <BR>@357.1
-<LI>mï¿½ku		DEDR 4096: 5. to dive - v.r. 
+<LI>må©ku		DEDR 4096: 5. to dive - v.r. 
 <BR>@9.6
-<LI>mï¿½y		DEDR 5093: 4. to graze - v.r. 
+<LI>m›y		DEDR 5093: 4. to graze - v.r. 
 <BR>@394.5
-<LI>[mï¿½varu	contracted mï¿½vu + v.r. of vï¿½? 
+<LI>[m›varu	contracted m›vu + v.r. of và? 
 <BR>@306.1]
-<LI>vaï¿½aï¿½ku	DEDR 5236: 5. to bend - v.r. 
+<LI>vaõaïku	DEDR 5236: 5. to bend - v.r. 
 <BR>@364.5	
-<LI>vaï¿½ar		4. to curve - v.r. 
+<LI>vaõar		4. to curve - v.r. 
 <BR>@82.1
 <LI>vati		DEDR 5246: 4. to abide - v.r. 
 <BR>@5.2 
 <BR>@395.8
-<BR>((//SEM//  uï¿½ai
-<LI>varu/vï¿½	DEDR 5270: 13. to come	- v.r. 
+<BR>((//SEM//  uŸai
+<LI>varu/và	DEDR 5270: 13. to come	- v.r. 
 <BR>@257.4 
 <BR>@261.5 
 <BR>@279.2
 <BR>((//SEM//  auxiliary verbs
-<LI>vaï¿½aï¿½ku	5. intr. to wander - v.r. 
+<LI>va©aïku	5. intr. to wander - v.r. 
 <BR>@207.5 
 <BR>@230.5 
 <BR>@329.3
-<LI>vaï¿½ar		DEDR 5304: 4. to grow - v.r. 
+<LI>vaëar		DEDR 5304: 4. to grow - v.r. 
 <BR>@90.2 
 <BR>@288.1 
 <BR>@289.1
-<LI>vï¿½ï¿½ku		DEDR 5335: 5. to bend - v.r. 
+<LI>vàïku		DEDR 5335: 5. to bend - v.r. 
 <BR>@125.6 
 <BR>@172.6 
 <BR>@304.3 
 <BR>@376.4
-<LI>vï¿½ï¿½u		DEDR 5342: 5. to fade - v.r. 
+<LI>vàñu		DEDR 5342: 5. to fade - v.r. 
 <BR>@343.6
 <BR>((//SEM//  paca
-<LI>vï¿½r		DEDR 5356: 4. to overflow - v.r. 
+<LI>vàr		DEDR 5356: 4. to overflow - v.r. 
 <BR>@22.1 
 <BR>@98.4 
 <BR>@168.1 
 <BR>@222.5 
 <BR>@401.2 
-<LI>vï¿½r		DEDR 5357: 4. to comb - v.r. 
+<LI>vàr		DEDR 5357: 4. to comb - v.r. 
 <BR>@82.1
-<LI>vï¿½		DEDR 5372: 4. to live - v.r. 
+<LI>và©		DEDR 5372: 4. to live - v.r. 
 <BR>@351.2
 <BR>((//SEM//  uy
-<LI>viï¿½u	DEDR 5393: 6. to let - v.r. 
+<LI>viñu	DEDR 5393: 6. to let - v.r. 
 <BR>@54.3 
 <BR>@174.2 
 <BR>@239.2 
@@ -995,42 +995,42 @@
 <LI>viravu		DEDR 5407: 5. to mix - v.r. 
 <BR>@312.5 
 <BR>@316.4
-<BR>((//SEM//  kaï¿½a
-<LI>[virivuï¿½u	+ v.r. of uï¿½u 
+<BR>((//SEM//  kaëa
+<LI>[viraivuŸu	+ v.r. of uŸu 
 <BR>@351.1]
-<LI>vilaï¿½ku	DEDR 5423: 5. intr. to transverse; tr. to obstruct - v.r. 
+<LI>vilaïku	DEDR 5423: 5. intr. to transverse; tr. to obstruct - v.r. 
 <BR>@130.2 
 <BR>@134.7 
 <BR>@144.7 
 <BR>@256.7 
 <BR>@262.6 
 <BR>@381.6
-<LI>viï¿½aï¿½ku	DEDR 5496(a): 5. to shine - v.r. 
+<LI>viëaïku	DEDR 5496(a): 5. to shine - v.r. 
 <BR>@34.7 
 <BR>@189.3 
 <BR>@198.6 
 <BR>@338.7 
 <BR>@367.2
-<LI>viï¿½ai		DEDR 5437: 4. to ripen - v.r. 
+<LI>viëai		DEDR 5437: 4. to ripen - v.r. 
 <BR>@39.2 
 <BR>@91.1 
 <BR>@141.1 
 <BR>@269.6 
-<LI>viï¿½aiyï¿½ï¿½u	5. to play - v.r. 
+<LI>viëaiyàñu	5. to play - v.r. 
 <BR>@396.2 
-<LI>vï¿½ï¿½ku		DEDR 5448(a): 5. to swell - v.r. 
+<LI>vãïku		DEDR 5448(a): 5. to swell - v.r. 
 <BR>@344.4 
 <BR>@358.1
-<LI>vï¿½		DEDR 5430: 4. to descend - v.r. 
+<LI>vã©		DEDR 5430: 4. to descend - v.r. 
 <BR>@134.5 
 <BR>@189.4 
 <BR>@257.3 
 <BR>@270.2 
 <BR>@353.6
-<BR>((//SEM//  iï¿½i
-<LI>vï¿½ï¿½ï¿½u		DEDR 5528: 5. intr. to be necessary; tr. to need - v.r. 
+<BR>((//SEM//  i©i
+<LI>v›õñu		DEDR 5528: 5. intr. to be necessary; tr. to need - v.r. 
 <BR>@195.3 
-<LI>vï¿½y		DEDR 5532: 4. to cover - v.r. 
+<LI>v›y		DEDR 5532: 4. to cover - v.r. 
 <BR>@340.4
 </OL>
 
@@ -1044,11 +1044,11 @@
 <BR>@249.1 
 <BR>@264.3 
 <BR>@301.4
-<LI>aï¿½cum	PE1. 
+<LI>a¤cum	PE1. 
 <BR>@143.2 
-<LI>aï¿½avum	PE1. 
+<LI>aõavum	PE1. 
 <BR>@333.4
-<LI>aï¿½aï¿½kum	PE1. 
+<LI>aõaïkum	PE1. 
 <BR>@372.3
 <LI>ayarum	PE1. 
 <BR>@238.3 
@@ -1062,39 +1062,39 @@
 <BR>@72.1
 <LI>alamvarum	PE1. 
 <BR>@148.4
-<LI>alikkum	PE1. 
+<LI>alaikkum	PE1. 
 <BR>@246.5 
 <BR>@262.2 
 <BR>@397.4
-<LI>aviï¿½um	PE1. 
+<LI>avi©um	PE1. 
 <BR>@228.2 
 <BR>@284.3
-<LI>aï¿½iyum	PE1. 
+<LI>aŸiyum	PE1. 
 <BR>@2.5 
 <BR>@26.8
-<LI>aï¿½ukkum	PE1. 
+<LI>aŸukkum	PE1. 
 <BR>@324.2
-<LI>ï¿½kum	PE1. 
+<LI>àkum	PE1. 
 <BR>@55.4 
 <BR>@77.4 
 <BR>@207.4 
 <BR>@245.4 
 <BR>@248.6
-<LI>ï¿½rum	PE1. 
+<LI>àrum	PE1. 
 <BR>@166.2 
 <BR>@174.7 
 <BR>@181.5 
 <BR>@235.4
-<LI>ï¿½rkkum	PE1. 
+<LI>àrkkum	PE1. 
 <BR>@39.2
-<LI>icikkum	PE1. 
+<LI>icaikkum	PE1. 
 <BR>@139.5 
 <BR>@279.3 
 <BR>@301.7
-<LI>iï¿½ikkum	PE1. 
+<LI>iñikkum	PE1. 
 <BR>@58.1 
 <BR>@158.1
-<LI>imikkum	PE1. 
+<LI>imaikkum	PE1. 
 <BR>@150.2
 <LI>iyampum	PE1. 
 <BR>@42.3 
@@ -1102,12 +1102,12 @@
 <BR>@234.4 
 <BR>@241.6 
 <BR>@247.6
-<LI>iraï¿½kum	PE1. 
+<LI>iraïkum	PE1. 
 <BR>@134.5 
 <BR>@194.2 
 <BR>@195.4 
 <BR>@328.3 
-<LI>iraï¿½kum	PE1. 
+<LI>iraïkum	PE1. 
 <BR>@289.7 
 <BR>@358.5
 <LI>iriyum	PE1. 
@@ -1124,64 +1124,64 @@
 <BR>@36.2 
 <BR>@260.1 
 <BR>@364.8
-<LI>iï¿½aikkum	PE1. 
+<LI>i©aikkum	PE1. 
 <BR>@3.4
-<LI>ï¿½yum	PE1. 
+<LI>ãyum	PE1. 
 <BR>@91.5
-<LI>ukaï¿½um	PE1. 
+<LI>ukaëum	PE1. 
 <BR>@187.3 
 <BR>@250.2 
 <BR>@256.3
-<LI>uï¿½ï¿½um	PE1. 
+<LI>uõõum	PE1. 
 <BR>@100.4 
 <BR>@225.2 
 <BR>@260.5 
 <BR>@278.6 
 <BR>@331.3
-<LI>uï¿½aï¿½kum	PE1. 
+<LI>uõaïkum	PE1. 
 <BR>@372.3v
-<LI>uï¿½arum	PE1. 
+<LI>uõarum	PE1. 
 <BR>@111.3
-<LI>uyaï¿½kum	PE1. 
+<LI>uyaïkum	PE1. 
 <BR>@324.5
 <LI>uyavum	PE1. 
 <BR>@388.6
-<LI>uraï¿½um	PE1. 
+<LI>uraŸum	PE1. 
 <BR>@190.5
-<LI>uruï¿½ï¿½um	PE1. 
+<LI>uruññum	PE1. 
 <BR>@38.2
-<LI>uï¿½akkum	PE1. 
+<LI>u©akkum	PE1. 
 <BR>@48.4
-<LI>uï¿½ampum	PE1. 
+<LI>uëampum	PE1. 
 <BR>@86.5
-<LI>uï¿½arum	PE1. 
+<LI>uëarum	PE1. 
 <BR>@273.2
-<LI>uï¿½um	PE1. 
+<LI>uŸum	PE1. 
 <BR>@43.5 
 <BR>@194.5
-<LI>uï¿½ï¿½um	PE1. 
+<LI>uŸåum	PE1. 
 <BR>@61.3 
 <BR>@226.3
-<LI>uï¿½aï¿½kum	PE1. 
+<LI>uŸaïkum	PE1. 
 <BR>@5.2 
 <BR>@34.2
-<LI>uï¿½aï¿½um	PE1. 
+<LI>uŸa©um	PE1. 
 <BR>@222.6 
-<LI>uï¿½aiyum	PE1. 
+<LI>uŸaiyum	PE1. 
 <BR>@298.3 
 <BR>@334.3
-<LI>ï¿½tum	PE1. 
+<LI>åtum	PE1. 
 <BR>@239.4
-<LI>ï¿½rum	PE1. 
+<LI>årum	PE1. 
 <BR>@33.4
-<LI>ï¿½um	PE1. 
+<LI>åŸum	PE1. 
 <BR>@286.2 
 <BR>@348.4
-<LI>eï¿½uppum	PE1. 
+<LI>eñuppum	PE1. 
 <BR>@398.5
-<LI>eï¿½um	PE1. 
+<LI>e©um	PE1. 
 <BR>@323.3
-<LI>eï¿½ï¿½um	PE1. 
+<LI>e­­um	PE1. 
 <BR>@111.2 
 <BR>@146.4 
 <BR>@146.5 
@@ -1193,40 +1193,40 @@
 <BR>@302.5 
 <BR>@357.4 
 <BR>@397.5
-<LI>ï¿½ï¿½kum	PE1. 
+<LI>›ïkum	PE1. 
 <BR>@194.3
-<LI>ï¿½ykkum	PE1. 
+<LI>›ykkum	PE1. 
 <BR>@0.3 
 <BR>@67.4
 <LI>olikkum	PE1. 
 <BR>@7.5 
 <BR>@345.6
-<LI>oï¿½ukum	PE1. 
+<LI>o©ukum	PE1. 
 <BR>@203.5
-<LI>ï¿½ppum	PE1. 
+<LI>ppum	PE1. 
 <BR>@333.3
-<LI>ï¿½rkkum	PE1. 
+<LI>rkkum	PE1. 
 <BR>@396.6
-<LI>ï¿½rum	PE1. 
+<LI>rum	PE1. 
 <BR>@246.5
-<LI>kaï¿½akkum	PE1. 
+<LI>kañakkum	PE1. 
 <BR>@80.5
-<LI>kaï¿½iyum	PE1. 
+<LI>kañiyum	PE1. 
 <BR>@142.2 
 <BR>@291.2 
 <BR>@360.6
-<LI>kaï¿½ukkum	PE1. 
+<LI>kañukkum	PE1. 
 <BR>@235.2 
 <BR>@330.3
-<LI>kï¿½ï¿½um	PE1. 
+<LI>kàõum	PE1. 
 <BR>@252.8
-<LI>kataï¿½um	PE1. 
+<LI>kata©um	PE1. 
 <BR>@117.4
-<LI>katï¿½um	PE1. 
+<LI>katåum	PE1. 
 <BR>@8.2 
 <BR>@91.2 
 <BR>@164.2
-<LI>kamaï¿½um	PE1. 
+<LI>kama©um	PE1. 
 <BR>@22.4 
 <BR>@199.4 
 <BR>@209.6 
@@ -1236,72 +1236,72 @@
 <BR>@330.5 
 <BR>@355.6 
 <BR>@373.7
-<LI>kariyum	PE1. 
+<LI>karaiyum	PE1. 
 <BR>@261.4
-<LI>kaliï¿½um	PE1. 
+<LI>kali©um	PE1. 
 <BR>@11.2 
 <LI>kavarum	PE1. 
 <BR>@68.2 
 <BR>@335.4
 <LI>kaviyum	PE1. 
 <BR>@185.7
-<LI>kaï¿½ikkum	PE1. 
+<LI>ka©ikkum	PE1. 
 <BR>@213.6 
 <BR>@282.3
-<LI>kaï¿½kum	PE1. 
+<LI>kañkum	PE1. 
 <BR>@100.2
-<LI>kaï¿½aiyum	PE1. 
+<LI>kaëaiyum	PE1. 
 <BR>@316.7
-<LI>kaï¿½aï¿½kum	PE1. 
+<LI>kaŸaïkum	PE1. 
 <BR>@193.3 
 <BR>@209.2 
 <BR>@375.5
-<LI>kaï¿½ikkum	PE1. 
+<LI>kaŸikkum	PE1. 
 <BR>@338.4 
 <BR>@363.2
-<LI>kï¿½kkum	PE1. 
+<LI>kàkkum	PE1. 
 <BR>@58.4 
 <BR>@214.2 
 <BR>@215.6 
 <BR>@357.5
-<LI>kï¿½ï¿½ï¿½um	PE1. 
+<LI>kàññum	PE1. 
 <BR>@365.4
-<LI>kï¿½yum	PE1. 
+<LI>kàyum	PE1. 
 <BR>@58.3
-<LI>kï¿½kkoï¿½ï¿½um	PE1. 
+<LI>kà©kkoëëum	PE1. 
 <BR>@379.4
-<LI>kiï¿½akkum	PE1. 
+<LI>kiñakkum	PE1. 
 <BR>@343.6
-<LI>kuï¿½umum	PE1. 
+<LI>ku©umum	PE1. 
 <BR>@321.6
-<LI>kï¿½ï¿½ï¿½um	PE1. 
+<LI>kåññum	PE1. 
 <BR>@386.3
-<LI>kï¿½um	PE1. 
+<LI>kåum	PE1. 
 <BR>@154.6 
-<LI>kï¿½um	PE1. 
+<LI>kåŸum	PE1. 
 <BR>@364.4
 <LI>koyyum	PE1. 
 <BR>@311.6
-<LI>koï¿½utum	PE1. 
+<LI>ko©utum	PE1. 
 <BR>@85.5 
 <BR>@192.5
-<LI>koï¿½ï¿½um	PE1. 
+<LI>koëëum	PE1. 
 <BR>@222.1 
 <BR>@222.2 
 <BR>@379.4
 <LI>cilampum	PE1. 
 <BR>@360.7
-<LI>cuï¿½arum	PE1. 
+<LI>cuñarum	PE1. 
 <BR>@215.1
 <LI>cekukkum	PE1. 
 <BR>@69.4
-<LI>ceï¿½ï¿½um	PE1. 
+<LI>ceŸŸum	PE1. 
 <BR>@260.3
 <LI>collum	PE1. 
 <BR>@88.3v
-<LI>cï¿½rum	PE1. 
+<LI>crum	PE1. 
 <BR>@88.3
-<LI>taï¿½iyum	PE1. 
+<LI>taõiyum	PE1. 
 <BR>@274.5
 <LI>tatumpum	PE1. 
 <BR>@95.2
@@ -1310,23 +1310,23 @@
 <BR>@251.6 
 <BR>@351.4 
 <BR>@381.6
-<LI>tarï¿½um	PE1. 
+<LI>taråum	PE1. 
 <BR>@90.5 
 <BR>@109.2
-<LI>tavaï¿½um	PE1. 
+<LI>tava©um	PE1. 
 <BR>@144.6
-<LI>tï¿½ï¿½kum	PE1. 
+<LI>tàïkum	PE1. 
 <BR>@149.5
-<LI>tiï¿½aikkum	PE1. 
+<LI>tiëaikkum	PE1. 
 <BR>@299.2
-<LI>tiï¿½akkum	PE1. 
+<LI>tiŸakkum	PE1. 
 <BR>@265.2 
 <BR>@370.2
-<LI>tï¿½rkkum	PE1. 
+<LI>tãrkkum	PE1. 
 <BR>@68.3 
 <BR>@255.4 
 <BR>@342.6
-<LI>tuï¿½cum	PE1. 
+<LI>tu¤cum	PE1. 
 <BR>@28.5 
 <BR>@91.8 
 <BR>@115.5 
@@ -1336,18 +1336,18 @@
 <BR>@355.4
 <LI>tumikkum	PE1. 
 <BR>@268.4
-<LI>tuï¿½avum	PE1. 
+<LI>tu©avum	PE1. 
 <BR>@246.3
-<LI>tuï¿½akkum	PE1. 
+<LI>tuëakkum	PE1. 
 <BR>@158.5
-<LI>tï¿½kkum	PE1. 
+<LI>tåkkum	PE1. 
 <BR>@8.4 
 <BR>@76.5 
 <BR>@369.3
-<LI>tï¿½ï¿½kum	PE1. 
+<LI>tåïkum	PE1. 
 <BR>@83.4 
 <BR>@201.5
-<LI>tï¿½um	PE1. 
+<LI>tåum	PE1. 
 <BR>@103.4
 <LI>tåŸŸum	PE1. 
 <BR>@86.4 
@@ -1355,11 +1355,11 @@
 <BR>@344.2 
 <BR>@397.3 
 <BR>@398.2
-<LI>teï¿½ï¿½um	PE1. 
+<LI>teŸåum	PE1. 
 <BR>@87.2
-<LI>tokï¿½um	PE1. 
+<LI>tokåum	PE1. 
 <BR>@175.3
-<LI>tï¿½ï¿½ï¿½um	PE1. 
+<LI>t­Ÿum	PE1. 
 <BR>@21.3 
 <BR>@26.3 
 <BR>@47.2 
@@ -1373,7 +1373,7 @@
 <BR>@347.3 
 <BR>@367.6 
 <BR>@380.7
-<LI>naï¿½uï¿½kum	PE1. 
+<LI>nañuïkum	PE1. 
 <BR>@105.4 
 <BR>@277.6
 <LI>nayakkum	PE1. 
@@ -1382,7 +1382,7 @@
 <BR>@160.4 
 <BR>@177.4 
 <BR>@381.4
-<LI>nï¿½ï¿½um	PE1. 
+<LI>nàŸum	PE1. 
 <BR>@19.4 
 <BR>@52.3 
 <BR>@161.6 
@@ -1393,7 +1393,7 @@
 <BR>@300.1 
 <BR>@300.2 
 <BR>@323.5
-<LI>niï¿½kum	PE1. 
+<LI>niŸkum	PE1. 
 <BR>@78.6
 <LI>nivakkum	PE1. 
 <BR>@54.4
@@ -1403,15 +1403,15 @@
 <BR>@271.2
 <LI>pacakkum	PE1. 
 <BR>@183.2
-<LI>paï¿½arum	PE1. 
+<LI>pañarum	PE1. 
 <BR>@172.2 
 <BR>@317.7
-<LI>paï¿½iyum	PE1. 
+<LI>pañiyum	PE1. 
 <BR>@75.3
-<LI>paï¿½ï¿½um	PE1. 
+<LI>pañåum	PE1. 
 <BR>@247.1 
 <BR>@288.5
-<LI>paï¿½ï¿½um	PE1. 
+<LI>pañåum	PE1. 
 <BR>@184.7
 <LI>payirum	PE1. 
 <BR>@16.4 
@@ -1423,11 +1423,11 @@
 <BR>@401.4
 <LI>parukum	PE1. 
 <BR>@317.4
-<LI>paï¿½ï¿½um	PE1. 
+<LI>paŸŸum	PE1. 
 <BR>@358.3
-<LI>pï¿½yum	PE1. 
+<LI>pàyum	PE1. 
 <BR>@385.4
-<LI>pï¿½rkkum	PE1. 
+<LI>pàrkkum	PE1. 
 <BR>@25.4 
 <BR>@107.3 
 <BR>@141.6 
@@ -1436,26 +1436,26 @@
 <BR>@104.5
 <LI>pirikkum	PE1. 
 <BR>@157.3
-<LI>piï¿½akkum	PE1. 
+<LI>piëakkum	PE1. 
 <BR>@388.5
-<LI>pukaï¿½um	PE1. 
+<LI>puka©um	PE1. 
 <BR>@252.7
 <LI>pukum	PE1. 
 <BR>@139.3
-<LI>puï¿½arkkum	PE1. 
+<LI>puõarkkum	PE1. 
 <BR>@156.6
-<LI>puraï¿½ï¿½um	PE1. 
+<LI>puraññum	PE1. 
 <BR>@16.3
-<LI>puriyum	PE1. 
+<LI>puraiyum	PE1. 
 <BR>@0.1 
 <BR>@131.1 
 <BR>@226.1 
 <BR>@329.6
 <LI>pulakkum	PE1. 
 <BR>@164.5
-<LI>puï¿½ikkum	PE1. 
+<LI>puëikkum	PE1. 
 <BR>@354.2
-<LI>pï¿½kkum	PE1. 
+<LI>påkkum	PE1. 
 <BR>@82.5 
 <BR>@309.5
 <LI>peyarum	PE1. 
@@ -1469,46 +1469,46 @@
 <BR>@390.5
 <LI>peyarkkum	PE1. 
 <BR>@350.6
-<LI>peï¿½ï¿½um	PE1. 
+<LI>peŸåum	PE1. 
 <BR>@364.2 
 <BR>@379.3
 <LI>poruntum	PE1. 
 <BR>@140.2
-<LI>poï¿½ikkum	PE1. 
+<LI>poëikkum	PE1. 
 <BR>@37.3
-<LI>pï¿½kum	PE1. 
+<LI>pkum	PE1. 
 <BR>@352.4
-<LI>pï¿½lum	PE1. 
+<LI>plum	PE1. 
 <BR>@222.4 
 <BR>@310.3 
 <BR>@389.5
-<LI>pï¿½ï¿½um	PE1. 
+<LI>p©um	PE1. 
 <BR>@301.5 
 <BR>@346.3
 <LI>malarum	PE1. 
 <BR>@208.4 
 <BR>@226.6 
 <BR>@234.2
-<LI>maï¿½aiyum	PE1. 
+<LI>maŸaiyum	PE1. 
 <BR>@215.2 
-<LI>mï¿½ï¿½ï¿½um	PE1. 
+<LI>màññum	PE1. 
 <BR>@342.3
-<LI>mï¿½ntum	PE1. 
+<LI>màntum	PE1. 
 <BR>@170.3
-<LI>mï¿½ykkum	PE1. 
+<LI>màykkum	PE1. 
 <BR>@12.3
-<LI>mï¿½um	PE1. 
+<LI>mà­um	PE1. 
 <BR>@9.6
-<LI>mukikkum	PE1. 
+<LI>mukaikkum	PE1. 
 <BR>@186.3
-<LI>muyaï¿½kum	PE1. 
+<LI>muyaïkum	PE1. 
 <BR>@70.5 
 <BR>@244.6
 <LI>muralum	PE1. 
 <BR>@200.6
-<LI>muï¿½aï¿½kum	PE1. 
+<LI>mu©aïkum	PE1. 
 <BR>@307.8
-<LI>mï¿½yum	PE1. 
+<LI>m›yum	PE1. 
 <BR>@104.3 
 <BR>@325.5
 <LI>vatiyum	PE1. 
@@ -1517,43 +1517,43 @@
 <LI>varum	PE1. 
 <BR>@155.7 
 <BR>@345.1
-<LI>varï¿½um	PE1. 
+<LI>varåum	PE1. 
 <BR>@254.7 
 <BR>@275.7 
 <BR>@314.4 
 <BR>@326.5
 <LI>varuntum	PE1. 
 <BR>@48.2 
-<LI>vaï¿½aï¿½kum	PE1. 
+<LI>va©aïkum	PE1. 
 <BR>@237.6 
 <BR>@354.5
-<LI>vï¿½rum	PE1. 
+<LI>vàrum	PE1. 
 <BR>@242.3
-<LI>vï¿½um	PE1. 
+<LI>và©um	PE1. 
 <BR>@323.7 
 <BR>@327.1 
 <BR>@368.5
-<LI>viï¿½ukkum	PE1. 
+<LI>viñukkum	PE1. 
 <BR>@236.1
-<LI>viï¿½aï¿½kum	PE1. 
+<LI>viëaïkum	PE1. 
 <BR>@129.5
-<LI>viï¿½aikkum	PE1. 
+<LI>viëaikkum	PE1. 
 <BR>@371.3
-<LI>viï¿½aiyï¿½ï¿½um	PE1. 
+<LI>viëaiyàñum	PE1. 
 <BR>@108.1 
 <BR>@263.7
-<LI>vï¿½cum	PE1. 
+<LI>vãcum	PE1. 
 <BR>@161.2
-<LI>verï¿½um	PE1. 
+<LI>veråum	PE1. 
 <BR>@34.5 
 <BR>@127.2 
 <BR>@357.7
-<LI>vuvum	PE1. 
+<LI>vauvum	PE1. 
 <BR>@271.5
 <HR>
-<LI>--> [aï¿½ippaï¿½ï¿½um + pey. of paï¿½u 
+<LI>--> [aõippañåum + pey. of pañu 
 <BR>@247.1]
-<LI>[iï¿½itarum	+ pey. of tï¿½ 
+<LI>[i©itarum	+ pey. of tà 
 <BR>@78.3 
 <BR>@95.1 
 <BR>@134.6 
@@ -1561,36 +1561,36 @@
 <BR>@284.7 
 <BR>@332.5 
 <BR>@339.3]
-<LI>[iï¿½puï¿½ï¿½um	+ pey. of uï¿½u 
+<LI>[i­puŸåum	+ pey. of uŸu 
 <BR>@61.3]
-<LI>[ukuttarum	+ pey. of tï¿½ 
+<LI>[ukuttarum	+ pey. of tà 
 <BR>@251.6]
-<LI>[uï¿½aitarum	+ pey. of tï¿½ 
+<LI>[uñaitarum	+ pey. of tà 
 <BR>@351.4 
 <BR>@381.6]
 <LI>uvarkkum	intr. pey. 
 <BR>@196.5
-<LI>[ï¿½rtarum	+ pey. of tï¿½ 
+<LI>[årtarum	+ pey. of tà 
 <BR>@205.7]
-<LI>[eï¿½itarum	+ pey. of tï¿½ 
+<LI>[eŸitarum	+ pey. of tà 
 <BR>@110.7]
-<LI>[ï¿½rtarum	+ pey. of tï¿½ 
+<LI>[›rtarum	+ pey. of tà 
 <BR>@287.8]
-<LI>[cilitarum	+ pey. of tï¿½ 
+<LI>[cilaitarum	+ pey. of tà 
 <BR>@94.7]
-<LI>[cï¿½rtarum	+ pey. of tï¿½ 
+<LI>[c›rtarum	+ pey. of tà 
 <BR>@275.3]
-<LI>tï¿½am		pey. 
+<LI>tàam		pey. 
 <BR>@329.3
-<LI>teï¿½im		pey. 
+<LI>teëim		pey. 
 <BR>@273.8?
-<LI>[pukutarï¿½um + pey. of tï¿½ 
+<LI>[pukutaråum + pey. of tà 
 <BR>@162.2]
-<LI>puï¿½aï¿½kï¿½um + pey. of kï¿½u 
+<LI>puŸaïkåŸum + pey. of kåŸu 
 <BR>@364.4
-<LI>[mayakkuï¿½ï¿½um + pey. of uï¿½u 
+<LI>[mayakkuŸåum + pey. of uŸu 
 <BR>@226.3]
-<LI>[malakkuï¿½um + pey. of uï¿½u 
+<LI>[malakkuŸum + pey. of uŸu 
 <BR>@43.5 
 <BR>@194.5]
 </OL>
@@ -1600,28 +1600,28 @@
 
 <H3><A NAME="_pe2">LIST of peyar eccam forms of ceyta type</A> found by Eva in KT</H3>
 <OL>
-<LI>akaï¿½ï¿½a	PE2. 
+<LI>aka­Ÿa	PE2. 
 <BR>@41.6
-<LI>akaï¿½nta	PE2. 
+<LI>aka©nta	PE2. 
 <BR>@379.2
-<LI>aciiya	PE2. 
+<LI>acaiiya	PE2. 
 <BR>@303.1
-<LI>acitta		PE2. 
+<LI>acaitta		PE2. 
 <BR>@294.6
-<LI>aï¿½ciya		PE2. 
+<LI>a¤ciya		PE2. 
 <BR>@117.2
-<LI>aï¿½aï¿½kiya	PE2.
+<LI>añaïkiya	PE2.
 <BR>@338.7
-<LI>aï¿½ï¿½a		PE2.
+<LI>añña		PE2.
 <BR>@34.5 
 <BR>@167.4
-<LI>aï¿½aï¿½kiya	PE2. 
+<LI>aõaïkiya	PE2. 
 <BR>@362.5
-<LI>aï¿½aiiya	PE2. 
+<LI>aõaiiya	PE2. 
 <BR>@318.6
-<LI>amaï¿½ï¿½a	PE2. 
+<LI>ama­Ÿa	PE2. 
 <BR>@202.2
-<LI>aminta	PE2. 
+<LI>amainta	PE2. 
 <BR>@4.3 
 <BR>@182.7 
 <BR>@373.8
@@ -1631,19 +1631,19 @@
 <BR>@71.2
 <LI>avinta		PE2. 
 <BR>@356.1
-<LI>aviï¿½nta	PE2. 
+<LI>avi©nta	PE2. 
 <BR>@220.5 
 <BR>@254.2 
 <BR>@265.5 
 <BR>@282.5 
 <BR>@366.4
-<LI>aï¿½uï¿½kiya	PE2.
+<LI>a©uïkiya	PE2.
 <BR>@140.4v
-<LI>aï¿½uta		PE2. 
+<LI>a©uta		PE2. 
 <BR>@82.2 
 <BR>@291.5 
 <BR>@366.6
-<LI>ï¿½kiya		PE2. 
+<LI>àkiya		PE2. 
 <BR>@57.3 
 <BR>@57.5 
 <BR>@57.6 
@@ -1655,30 +1655,30 @@
 <BR>@263.8 
 <BR>@266.2 
 <BR>@341.3
-<LI>ï¿½ï¿½ï¿½iya		PE2. 
+<LI>àññiya		PE2. 
 <BR>@303.7
-<LI>ï¿½ï¿½iya		PE2. 
+<LI>àñiya		PE2. 
 <BR>@60.1
-<LI>ï¿½ynta		PE2. 
+<LI>àynta		PE2. 
 <BR>@245.1 
 <BR>@316.6
-<LI>ï¿½rnta		PE2. 
+<LI>àrnta		PE2. 
 <BR>@256.2 
 <BR>@259.2
-<LI>ï¿½rttiya		PE2. 
+<LI>àrttiya		PE2. 
 <BR>@293.1v
-<LI>iï¿½itta		PE2. 
+<LI>iñitta		PE2. 
 <BR>@238.1
-<LI>iï¿½ï¿½a		PE2. 
+<LI>iñña		PE2. 
 <BR>@105.2 
 <BR>@171.2 
 <BR>@203.1 
 <BR>@241.5 
 <BR>@248.4 
 <BR>@330.2
-<LI>[iï¿½aiyiï¿½ï¿½a	+ PE2. of iï¿½u 
+<LI>[iñaiyiñña	+ PE2. of iñu 
 <BR>@203.1]
-<LI>iyaï¿½ï¿½a		PE2. 
+<LI>iya­Ÿa		PE2. 
 <BR>@288.3
 <LI>irunta	PE2. 
 <BR>@26.2 
@@ -1693,72 +1693,72 @@
 <BR>@340.7 
 <BR>@350.4 
 <BR>@391.7
-<LI>iruï¿½iya		PE2. 
+<LI>iruëiya		PE2. 
 <BR>@314.3
 <LI>ivarnta	PE2. 
 <BR>@240.1
-<LI>iï¿½anta		PE2. 
+<LI>i©anta		PE2. 
 <BR>@19.1 
 <BR>@81.3 
 <BR>@231.5
-<LI>iï¿½ukkiya	PE2. 
+<LI>i©ukkiya	PE2. 
 <BR>@90.4
-<LI>iï¿½anta		PE2. 
+<LI>iŸanta		PE2. 
 <BR>@209.3 
 <BR>@297.3
-<LI>iï¿½aiï¿½ciya	PE2. 
+<LI>iŸai¤ciya	PE2. 
 <BR>@198.4 
 <BR>@213.3
 <LI>ã­Ÿa		PE2. 
 <BR>@394.2
-<LI>uï¿½ainta	PE2. 
+<LI>uñainta	PE2. 
 <BR>@86.1
-<LI>uï¿½ï¿½a		PE2. 
+<LI>uõña		PE2. 
 <BR>@79.1 
 <BR>@105.3 
 <BR>@112.5 
 <BR>@133.2 
 <BR>@133.5 
 <BR>@236.6
-<LI>uï¿½arnta	PE2. 
+<LI>uõarnta	PE2. 
 <BR>@327.2 
 <BR>@360.1
 <LI>urukiya	PE2. 
 <BR>@261.1
-<LI>urï¿½iya		PE2. 
+<LI>urãiya		PE2. 
 <BR>@297.1
 <LI>ulanta	PE2. 
 <BR>@77.3
 <LI>uvanta	PE2. 
 <BR>@225.3
-<LI>uï¿½anta		PE2. 
+<LI>u©anta		PE2. 
 <BR>@13.2 
 <BR>@141.4 
 <BR>@357.1
-<LI>uï¿½ariya	PE2. 
+<LI>uëariya	PE2. 
 <BR>@278.1
-<LI>uï¿½ï¿½a		PE2. 
+<LI>uŸŸa		PE2. 
 <BR>@53.7 
 <BR>@261.8 
 <BR>@305.8 
 <BR>@308.3
-<LI>uï¿½utta		PE2. 
+<LI>uŸutta		PE2. 
 <BR>@253.6
-<LI>ï¿½rnta		PE2. 
+<LI>årnta		PE2. 
 <BR>@212.1 
 <BR>@275.1
-<LI>ï¿½tta		PE2. withered 
+<LI>å©tta		PE2. withered 
 <BR>@66.4 
 <BR>@110.5 
 <BR>@138.4
-<LI>ï¿½iya		PE2. 
+<LI>åŸiya		PE2. 
 <BR>@267.4
-<LI>eï¿½ciya		PE2. 
+<LI>e¤ciya		PE2. 
 <BR>@232.4 
 <BR>@237.2
-<LI>eï¿½utta		PE2. 
+<LI>eñutta		PE2. 
 <BR>@272.2
-<LI>eï¿½ï¿½iya	PE2. 
+<LI>eõõiya	PE2. 
 <BR>@400.3
 <LI>etirnta		PE2. 
 <BR>@297.3v
@@ -1766,64 +1766,64 @@
 <BR>@318.5
 <LI>eytiya		PE2. 
 <BR>@226.2
-<LI>eï¿½unta		PE2. 
+<LI>e©unta		PE2. 
 <BR>@24.3 
 <BR>@154.3
-<LI>eï¿½utiya	PE2. 
+<LI>e©utiya	PE2. 
 <BR>@89.5 
 <BR>@276.3
-<LI>eï¿½inta		PE2. 
+<LI>eŸinta		PE2. 
 <BR>@0.4 
 <BR>@269.3
-<LI>eï¿½ï¿½a		PE2. 
+<LI>e­Ÿa		PE2. 
 <BR>@79.7 
 <BR>@248.2 
 <BR>@300.5 
 <BR>@358.4
-<LI>ï¿½ntiya		PE2. 
+<LI>›ntiya		PE2. 
 <BR>@356.5
-<LI>ï¿½ï¿½iya		PE2. 
+<LI>›Ÿiya		PE2. 
 <BR>@273.6
-<LI>ï¿½ï¿½ï¿½a		PE2. 
+<LI>›ŸŸa		PE2. 
 <BR>@29.2 
 <BR>@121.3 
 <BR>@291.8 
 <BR>@382.1
-<LI>oï¿½inta		PE2. 
+<LI>o©inta		PE2. 
 <BR>@251.5 
 <BR>@348.2
-<LI>oï¿½ukiya	PE2. 
+<LI>o©ukiya	PE2. 
 <BR>@115.4 
 <BR>@147.2
-<LI>oï¿½itta		PE2. 
+<LI>oëitta		PE2. 
 <BR>@374.2
-<LI>oï¿½ï¿½iya		PE2. 
+<LI>oŸŸiya		PE2. 
 <BR>@343.5
-<LI>ï¿½ï¿½kiya	PE2. 
+<LI>ïkiya	PE2. 
 <BR>@92.3 
 <BR>@201.6 
 <BR>@351.6 
 <BR>@367.7
-<LI>ï¿½mpiya	PE2. 
+<LI>mpiya	PE2. 
 <BR>@223.6
-<LI>kaï¿½ï¿½iya	PE2. 
+<LI>kaññiya	PE2. 
 <BR>@21.2
-<LI>kaï¿½anta	(left behind?!) PE2. 
+<LI>kañanta	(left behind?!) PE2. 
 <BR>@151.1
-<LI>kaï¿½inta	PE2. 
+<LI>kañinta	PE2. 
 <BR>@151.1v 
 <BR>@309.5 
 <BR>@333.2
-<LI>kaï¿½ï¿½a		PE2. 
+<LI>kaõña		PE2. 
 <BR>@60.2 
 <BR>@224.4 
 <BR>@241.7 
 <BR>@265.3 
 <BR>@306.6 
 <BR>@328.7
-<LI>kaï¿½ï¿½iya	PE2. 
+<LI>kaõõiya	PE2. 
 <BR>@341.5
-<LI>karinta	PE2. 
+<LI>karainta	PE2. 
 <BR>@210.6
 <LI>kalanta	PE2. 
 <BR>@134.7 
@@ -1837,48 +1837,48 @@
 <BR>@282.1 
 <BR>@291.1 
 <BR>@318.1
-<LI>kaï¿½inta	PE2. 
+<LI>ka©inta	PE2. 
 <BR>@124.1 
 <BR>@251.5 
 <BR>@311.3 
 <BR>@323.7
-<LI>kaï¿½ï¿½iya	PE2. 
+<LI>ka©ãiya	PE2. 
 <BR>@13.1
-<LI>kaï¿½ainta	PE2. 
+<LI>kaëainta	PE2. 
 <BR>@354.6
-<LI>kaï¿½aitta	PE2. 
+<LI>ka­aitta	PE2. 
 <BR>@35.3
-<LI>kiï¿½itta		PE2. 
+<LI>ki©itta		PE2. 
 <BR>@179.4
-<LI>kiï¿½anta	PE2. 
+<LI>kiëanta	PE2. 
 <BR>@374.2
-<LI>kiï¿½aiiya	PE2. 
+<LI>kiëaiiya	PE2. 
 <BR>@337.2
 <LI>kuttiya	PE2. 
 <BR>@396.4
-<LI>kuï¿½ï¿½iya	PE2. 
+<LI>ku©ãiya	PE2. 
 <BR>@31.1 
 <BR>@372.5
-<LI>kuï¿½itta	PE2. 
+<LI>kuëitta	PE2. 
 <BR>@127.1
-<LI>kuï¿½ainta	PE2. 
+<LI>kuŸainta	PE2. 
 <BR>@227.2
-<LI>kï¿½mpiya	PE2. 
+<LI>kåmpiya	PE2. 
 <BR>@46.2
-<LI>kï¿½iya		PE2. 
+<LI>kåŸiya		PE2. 
 <BR>@66.2 
 <BR>@217.4
-<LI>keï¿½ï¿½iya	PE2. 
+<LI>keõñiya	PE2. 
 <BR>@233.1
-<LI>keï¿½ï¿½iya		PE2. 
+<LI>ke©ãiya		PE2. 
 <BR>@2.3 
 <BR>@264.1
-<LI>kï¿½ï¿½ï¿½a		PE2. 
+<LI>k›ñña		PE2. 
 <BR>@207.7
-<LI>koï¿½ï¿½a		PE2. 
+<LI>ko­Ÿa		PE2. 
 <BR>@155.1 
 <BR>@198.1
-<LI>koï¿½ï¿½a		PE2. 
+<LI>koõña		PE2. 
 <BR>@22.3 
 <BR>@67.2 
 <BR>@81.1 
@@ -1888,13 +1888,13 @@
 <BR>@280.2 
 <BR>@320.2 
 <BR>@365.5
-<LI>ciï¿½anta	PE2. 
+<LI>ciŸanta	PE2. 
 <BR>@331.8
-<LI>cuï¿½ï¿½a		PE2. 
+<LI>cuñña		PE2. 
 <BR>@198.1
-<LI>cuvitta	PE2. 
+<LI>cuvaitta	PE2. 
 <BR>@179.6
-<LI>cï¿½ï¿½iya		PE2. 
+<LI>cåñiya		PE2. 
 <BR>@221.5
 <LI>cekutta	PE2. 
 <BR>@283.6
@@ -1904,9 +1904,9 @@
 <BR>@61.1 
 <BR>@202.4 
 <BR>@318.7
-<LI>cerï¿½iya		inf./PE2. 
+<LI>cerãiya		inf./PE2. 
 <BR>@92.4
-<LI>ceï¿½ï¿½a		PE2. 
+<LI>ce­Ÿa		PE2. 
 <BR>@12.4 
 <BR>@37.4 
 <BR>@39.4 
@@ -1918,7 +1918,7 @@
 <BR>@255.8 
 <BR>@292.1 
 <BR>@330.7
-<LI>cï¿½rnta		PE2. 
+<LI>c›rnta		PE2. 
 <BR>@385.1
 <LI>corinta	PE2. 
 <BR>@169.4 
@@ -1926,90 +1926,90 @@
 <LI>colliya		PE2. 
 <BR>@283.3 
 <BR>@285.4
-<LI>ï¿½à­Ÿu	DEDR 2920: when, since (forming temporal cluses with a PE2.) 
+<LI>¤à­Ÿu	DEDR 2920: when, since (forming temporal clauses with a PE2.) 
 <BR>@25.5 
 <BR>@41.6 
 <BR>@109.3 
 <BR>@303.7
-<LI>ï¿½ekiï¿½tta	PE2. 
+<LI>¤eki©tta	PE2. 
 <BR>@252.1
-<LI>taï¿½aiiya	plump (= PE2. of *taï¿½ai-ttal?) 
+<LI>tañaiiya	plump (= PE2. of *tañai-ttal?) 
 <BR>@134.3
-<LI>taï¿½inta	PE2. 
+<LI>taõinta	PE2. 
 <BR>@387.2
 <LI>tatumpiya	PE2. 
 <BR>@365.3
-<LI>tatinta	PE2. 
+<LI>tatainta	PE2. 
 <BR>@21.1
 <LI>tappiya	PE2. 
 <BR>@125.5
 <LI>tanta		PE2. 
 <BR>@170.2 
 <BR>@293.2
-<LI>talippaï¿½ï¿½a	PE2. 
+<LI>talaippañña	PE2. 
 <BR>@209.1
-<LI>talimaï¿½anta	PE2. 
+<LI>talaimaõanta	PE2. 
 <BR>@186.1 
 <BR>@281.5
-<LI>taliiya	PE2. 
+<LI>talaiiya	PE2. 
 <BR>@35.4 
 <BR>@222.7
-<LI>taï¿½ï¿½iya		PE2. 
+<LI>ta©ãiya		PE2. 
 <BR>@31.2 
-<LI>tï¿½ï¿½kiya	PE2. 
+<LI>tàïkiya	PE2. 
 <BR>@140.4
-<LI>tï¿½aya		PE2. 
+<LI>tàaya		PE2. 
 <BR>@200.2
-<LI>tï¿½nta		PE2. 
+<LI>tà©nta		PE2. 
 <BR>@284.6 
 <BR>@311.5
-<LI>tiraï¿½kiya	PE2. 
+<LI>tiraïkiya	PE2. 
 <BR>@331.1
-<LI>tiraï¿½ï¿½a		PE2. 
+<LI>tiraõña		PE2. 
 <BR>@72.3 
 <BR>@252.1
-<LI>tiï¿½anta		PE2. 
+<LI>tiŸanta		PE2. 
 <BR>@382.2
-<LI>tiï¿½ï¿½a		PE2. 
+<LI>ti­Ÿa		PE2. 
 <BR>@179.5 
 <BR>@262.4
-<LI>tï¿½ynta		PE2. 
+<LI>tãynta		PE2. 
 <BR>@211.4
-<LI>tï¿½rnta		PE2. 
+<LI>tãrnta		PE2. 
 <BR>@183.3
-<LI>tuï¿½aitta	PE2. 
+<LI>tuõaitta	PE2. 
 <BR>@326.1
-<LI>tuï¿½aiiya	PE2. 
+<LI>tu©aiiya	PE2. 
 <BR>@215.4
-<LI>tuï¿½anta	PE2. 
+<LI>tuŸanta	PE2. 
 <BR>@174.1
-<LI>tï¿½ytta		PE2. 
+<LI>t›ytta		PE2. 
 <BR>@1.1
-<LI>tiiya		PE2. 
+<LI>taiiya		PE2. 
 <BR>@345.5
 <LI>tokka		PE2. 
 <BR>@399.1
 <LI>tokutta	PE2. 
 <BR>@103.1 
 <BR>@372.2
-<LI>toï¿½ï¿½a		PE2. 
+<LI>toñña		PE2. 
 <BR>@342.1
-<LI>toï¿½ï¿½a		PE2. 
+<LI>toñña		PE2. 
 <BR>@342.1
-<LI>toï¿½utta		PE2. 
+<LI>toñutta		PE2. 
 <BR>@103.1v 
 <BR>@257.2 
 <BR>@374.6
-<LI>tolinta	PE2. 
+<LI>tolainta	PE2. 
 <BR>@185.6 
 <BR>@253.3
-<LI>tï¿½ï¿½ï¿½iya	PE2. 
+<LI>t­Ÿiya	PE2. 
 <BR>@15.2
 <LI>nakka		PE2. 
 <BR>@169.3
-<LI>nacinta?	PE2. (cf. maï¿½anta? in KT 106_6, picinta? in KT 289_3) 
+<LI>nacainta?	PE2. (cf. maõanta? in KT 106_6, picainta? in KT 289_3) 
 <BR>@52.2
-<LI>naï¿½ï¿½iya	PE2. 
+<LI>naõõiya	PE2. 
 <BR>@41.3 
 <BR>@53.5 
 <BR>@79.5 
@@ -2023,50 +2023,50 @@
 <BR>@347.6
 <LI>nalkiya	PE2. 
 <BR>@328.4
-<LI>naï¿½ainta	PE2. 
+<LI>na­ainta	PE2. 
 <BR>@175.3
-<LI>nï¿½ï¿½iya	inf./PE2. 
+<LI>nàõiya	inf./PE2. 
 <BR>@10.5
-<LI>niï¿½ï¿½a		PE2. 
+<LI>ni­Ÿa		PE2. 
 <BR>@165.3 
 <BR>@236.4 
 <BR>@340.4
-<LI>niliiya	PE2. 
+<LI>nilaiiya	PE2. 
 <BR>@262.8
 <LI>nivanta	PE2. 
 <BR>@9.4 
 <BR>@253.5 
 <BR>@262.6
-<LI>nï¿½tta		PE2. 
+<LI>nãtta		PE2. 
 <BR>@368.2
-<LI>nï¿½ï¿½kiya	PE2. 
+<LI>nãïkiya	PE2. 
 <BR>@191.4
-<LI>nï¿½ï¿½iya		PE2. 
+<LI>nãñiya		PE2. 
 <BR>@99.4 
 <BR>@180.4 
-<LI>nï¿½ï¿½iï¿½a		PE2. 
+<LI>nãñi­a		PE2. 
 <BR>@309.3
-<LI>nuï¿½ukiya	PE2. 
+<LI>nuõukiya	PE2. 
 <BR>@71.3
-<LI>nekiï¿½nta	PE2. 
+<LI>neki©nta	PE2. 
 <BR>@303.4
-<LI>nekiï¿½tta	PE2. 
+<LI>neki©tta	PE2. 
 <BR>@31.5 
 <BR>@111.1 
 <BR>@176.3 
 <BR>@210.5 
 <BR>@289.2
-<LI>paï¿½ï¿½a		PE2. 
+<LI>pañña		PE2. 
 <BR>@92.1 
 <BR>@125.4 
 <BR>@131.4 
 <BR>@289.6 
 <BR>@341.1 
 <BR>@393.5
-<LI>paï¿½utta	PE2. 
+<LI>pañutta	PE2. 
 <BR>@241.3 
 <BR>@400.5
-<LI>paï¿½ï¿½iya	PE2. 
+<LI>paõõiya	PE2. 
 <BR>@323.2
 <LI>payanta	PE2. 
 <BR>@210.2 
@@ -2077,38 +2077,38 @@
 <BR>@294.5
 <LI>parukiya	PE2. 
 <BR>@65.1
-<LI>pï¿½ya		PE2. 
+<LI>pàya		PE2. 
 <BR>@143.7
-<LI>pï¿½ï¿½iya		PE2. 
+<LI>pàñiya		PE2. 
 <BR>@23.5
-<LI>picinta	PE2. 
+<LI>picainta	PE2. 
 <BR>@167.1 
-<BR>@289.3? (cf. maï¿½anta? 106_6, nacinta? 52_2)
-<LI>piï¿½itta		PE2. 
+<BR>@289.3? (cf. maõanta? 106_6, nacainta? 52_2)
+<LI>piñitta		PE2. 
 <BR>@156.3
-<LI>piï¿½itta		PE2. 
+<LI>piõitta		PE2. 
 <BR>@258.3
 <LI>pirinta	PE2. 
 <BR>@197.5 
 <BR>@272.3
-<LI>puï¿½arnta	PE2. 
+<LI>puõarnta	PE2. 
 <BR>@326.3
 <LI>purinta	PE2. 
 <BR>@292.5
 <LI>pularnta	PE2. 
 <BR>@347.1
-<LI>puï¿½uï¿½kiya	PE2. 
+<LI>pu©uïkiya	PE2. 
 <BR>@391.2
-<LI>puï¿½antanta	PE2. 
+<LI>puŸantanta	PE2. 
 <BR>@126.3 
 <BR>@162.1
-<LI>puï¿½ainta	PE2. 
+<LI>pu­ainta	PE2. 
 <BR>@53.3
-<LI>pï¿½tta		PE2. 
+<LI>påtta		PE2. 
 <BR>@220.3 
 <BR>@291.6 
 <BR>@323.4
-<LI>pï¿½ï¿½ï¿½a		PE2. 
+<LI>påõña		PE2. 
 <BR>@181.6
 <LI>peyta		PE2. 
 <BR>@176.6 
@@ -2125,7 +2125,7 @@
 <LI>potinta	PE2. 
 <BR>@59.3 
 <BR>@376.5
-<LI>potuï¿½iya	PE2. 
+<LI>potuëiya	PE2. 
 <BR>@281.1
 <LI>poruta		PE2. 
 <BR>@175.2 
@@ -2140,82 +2140,82 @@
 <BR>@295.2 
 <BR>@304.1 
 <BR>@376.5v
-<LI>poï¿½inta	PE2. 
+<LI>po©inta	PE2. 
 <BR>@249.3
-<LI>pï¿½kiya	PE2. 
+<LI>pkiya	PE2. 
 <BR>@41.4 
 <BR>@73.3 
 <BR>@227.4 
 <BR>@255.7 
 <BR>@336.4 
 <BR>@378.5
-<LI>pï¿½kkiya	PE2. 
+<LI>pkkiya	PE2. 
 <BR>@73.3v
-<LI>maï¿½utta	PE2. 
+<LI>mañutta	PE2. 
 <BR>@304.2
-<LI>maï¿½anta	PE2. 
+<LI>maõanta	PE2. 
 <BR>@25.5 
 <BR>@36.4 
 <BR>@50.5 
 <BR>@68.4 
 <BR>@106.6? 
 <BR>@281.5
-<LI>[maï¿½antaï¿½aiyam PE2.? + 1.pl. of aï¿½ai 106_6]
-<LI>mayaï¿½kiya	PE2. 
+<LI>[maõanta­aiyam PE2.? + 1.pl. of a­ai 106_6]
+<LI>mayaïkiya	PE2. 
 <BR>@197.3 
 <BR>@374.7
-<LI>marï¿½iya	PE2. 
+<LI>marãiya	PE2. 
 <BR>@30.2 
 <BR>@320.6
 <LI>malarnta	PE2. 
 <BR>@26.1 
 <BR>@175.4 
 <BR>@309.2
-<LI>maï¿½anta	PE2. 
+<LI>maŸanta	PE2. 
 <BR>@225.4 
 <BR>@279.5 
 <BR>@342.2
-<LI>maï¿½ï¿½iya	PE2. 
+<LI>ma­­iya	PE2. 
 <BR>@357.4
-<LI>mï¿½ï¿½ï¿½iya	PE2. 
+<LI>màññiya	PE2. 
 <BR>@150.1 
 <BR>@398.4
-<LI>mï¿½ï¿½ï¿½a		PE2. 
+<LI>màõña		PE2. 
 <BR>@62.3 
 <BR>@222.4 
 <BR>@272.1
-<LI>miï¿½ainta	PE2. 
+<LI>miñainta	PE2. 
 <BR>@173.1 
 <BR>@392.4
 <LI>mititta		PE2. 
 <BR>@24.4 
 <BR>@52.1 
 <BR>@208.2
-<LI>muï¿½itta	PE2. 
+<LI>muñitta	PE2. 
 <BR>@270.5 
 <BR>@275.5
-<LI>muyaï¿½kiya	PE2. 
+<LI>muyaïkiya	PE2. 
 <BR>@393.2
-<LI>muraï¿½iya	PE2. 
+<LI>muraõiya	PE2. 
 <BR>@250.5
-<LI>muï¿½aï¿½kiya	PE2. 
+<LI>mu©aïkiya	PE2. 
 <BR>@90.2
-<LI>muï¿½aiiya	PE2. 
+<LI>mu­aiiya	PE2. 
 <BR>@261.3
-<LI>mï¿½mpaï¿½ï¿½a	PE2. 
+<LI>m›mpañña	PE2. 
 <BR>@125.4
-<LI>mï¿½ynta	PE2. 
+<LI>m›ynta	PE2. 
 <BR>@220.2
 <LI>moytta	PE2. 
 <BR>@56.2
-<LI>yï¿½tta		PE2. 
+<LI>yàtta		PE2. 
 <BR>@172.5 
 <BR>@181.4 
 <BR>@279.2 
 <BR>@388.1
 <LI>vatinta	PE2. 
 <BR>@107.6
-<LI>vayaï¿½kiya	PE2. 
+<LI>vayaïkiya	PE2. 
 <BR>@339.1
 <LI>vanta		PE2. 
 <BR>@14.1 
@@ -2230,13 +2230,13 @@
 <BR>@391.6
 <LI>varitta		PE2. 
 <BR>@351.2
-<LI>vaï¿½aiiya	PE2. 
+<LI>vaëaiiya	PE2. 
 <BR>@101.1
-<LI>vï¿½ï¿½kiya	PE2. 
+<LI>vàïkiya	PE2. 
 <BR>@10.3
-<LI>vï¿½ytta		PE2. 
+<LI>vàytta		PE2. 
 <BR>@299.4
-<LI>viï¿½ï¿½a		PE2. 
+<LI>viñña		PE2. 
 <BR>@74.1
 <LI>vittiya		PE2. 
 <BR>@72.4 
@@ -2244,26 +2244,26 @@
 <LI>virinta		PE2. 
 <BR>@359.2 
 <BR>@386.1
-<LI>vilaï¿½kiya	PE2. 
+<LI>vilaïkiya	PE2. 
 <BR>@59.5 
 <BR>@260.7
-<LI>viï¿½ainta	PE2. 
+<LI>viëainta	PE2. 
 <BR>@210.3 
 <BR>@375.3
-<LI>vï¿½ciya		PE2. 
+<LI>vãciya		PE2. 
 <BR>@372.4
-<LI>vï¿½nta		PE2. 
+<LI>vã©nta		PE2. 
 <BR>@391.5
 <LI>venta		PE2. 
 <BR>@356.3
-<LI>vï¿½ï¿½ï¿½iya	PE2. 
+<LI>v›õñiya	PE2. 
 <BR>@349.5
-<LI>vï¿½ynta	PE2. 
+<LI>v›ynta	PE2. 
 <BR>@312.5 
 <BR>@401.2
-<LI>vï¿½ï¿½ï¿½a	PE2. 
+<LI>v›ñña	PE2. 
 <BR>@143.4
-<LI>vikiya	PE2. 
+<LI>vaikiya	PE2. 
 <BR>@9.2
 </OL>
 

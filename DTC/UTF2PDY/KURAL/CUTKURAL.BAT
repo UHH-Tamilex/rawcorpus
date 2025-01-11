@@ -4,10 +4,10 @@ copy fr_kural.cnv fr_kural.bar
 convers fr_kural.bar conv6
 delz fr_kural.cnv
 copy fr_kural.cnv f_kural.utf
-puse
+pause
 xtr /P1 f_kural.utf
 copy f_kural.xxx \az\f_krl001.htm
-puse
+pause
 xtr /P2 f_kural.utf
 copy f_kural.xxx \az\f_krl002.htm
 xtr /P3 f_kural.utf

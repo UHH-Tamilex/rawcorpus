@@ -4,10 +4,10 @@ copy fr_na.cnv fr_na.bar
 convers fr_na.bar conv6
 delz fr_na.cnv
 copy fr_na.cnv f_na.utf
-puse
+pause
 xtr /P1 f_na.utf
 copy f_na.xxx \az\f_na001.htm
-puse
+pause
 xtr /P2 f_na.utf
 copy f_na.xxx \az\f_na002.htm
 xtr /P3 f_na.utf

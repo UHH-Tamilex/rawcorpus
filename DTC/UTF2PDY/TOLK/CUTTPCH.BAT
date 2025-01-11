@@ -4,10 +4,10 @@ copy fr_tptoc.cnv fr_tptoc.bar
 convers fr_tptoc.bar conv6
 delz fr_tptoc.cnv
 copy fr_tptoc.cnv f_tpchap.utf
-puse
+pause
 xtr /P1 f_tpchap.utf
 copy f_tpchap.xxx \az\tp_chap1.htm
-puse
+pause
 xtr /P2 f_tpchap.utf
 copy f_tpchap.xxx \az\tp_chap2.htm
 xtr /P3 f_tpchap.utf

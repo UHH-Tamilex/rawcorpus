@@ -13,7 +13,7 @@
 <li>Select everything
 <li>Start "BlocNote" (NotePad)
 <li>Paste, and save in UTF8 text format (NeEvaLst.utf)
-<li>apply UTF_2pdy.bat and obtin a new file  (NeEvaLst.pdy)
+<li>apply UTF_2pdy.bat and obtain a new file  (NeEvaLst.pdy)
 <li>run the dos command: [find "v.r." NeEvaLst.pdy &gt; ne_vr.pdy
 <li>"slightly" edit the result and make it into an hyperlinked file
 <BR>(for instance make a search and replace of *.[0-9]* by ^J&lt;BR&gt;@*.?*, etc.
@@ -25,7 +25,7 @@
 <H3>STATISTICS</H3>
 
 <UL>
-<li>Anthology name: Akanï¿½ï¿½u (Neytal subset) (=AN, neytal; =NE)
+<li>Anthology name: Akanà­åŸu (Neytal subset) (=AN, neytal; =NE)
 <li>Anthology length: 658 lines
 <li>Number of "v.r.": 215 occ. (of 116 distinct elements)
 <li>Density of "v.r.": 215/658 = 33%
@@ -42,28 +42,28 @@
 <li>Verbal roots: <A HREF="#_vr">215 words</A> (and vocab. = 116)
 <li>Peyar Eccam (ceyyum type) <A HREF="#_pe1">86 words</A> (and vocab. = 70)
 <li>Peyar Eccam (ceyta type) <A HREF="#_pe2">140 words</A> (and vocab. = 100)
-<li>Negative Peyar Eccam (Model: ceyyï¿½tu) <A HREF="#_PEneg">20 words</A> (and vocab. = 19)
-<li>Comparative Peyar Eccam (Model: ceytaï¿½ï¿½a) <A HREF="#_PEcomp">9 words</A> (and vocab. = 7)
+<li>Negative Peyar Eccam (Model: ceyyàtu) <A HREF="#_PEneg">20 words</A> (and vocab. = 19)
+<li>Comparative Peyar Eccam (Model: ceyta­­a) <A HREF="#_PEcomp">9 words</A> (and vocab. = 7)
 <HR>
-<li>Viï¿½ai Eccam type 1 (ceytu): 200 words (and vocabulary = 129)
+<li>Vi­ai Eccam type 1 (ceytu): 200 words (and vocabulary = 129)
 <ul>
-<li>Viï¿½ai Eccam type 1a: <A HREF="#_VE1a">88 words</A> (and vocab. = 59)
-<li>Viï¿½ai Eccam type 1b: <A HREF="#_VE1b">109 words</A> (and vocab. = 67)
-<li>Viï¿½ai Eccam type 1c: <A HREF="#_VE1c">2 words</A> (and vocab. = 2)
+<li>Vi­ai Eccam type 1a: <A HREF="#_VE1a">88 words</A> (and vocab. = 59)
+<li>Vi­ai Eccam type 1b: <A HREF="#_VE1b">109 words</A> (and vocab. = 67)
+<li>Vi­ai Eccam type 1c: <A HREF="#_VE1c">2 words</A> (and vocab. = 2)
 </ul>
-<li>Viï¿½ai Eccam type 2 (ceyyï¿½/ceyyï¿½): <A HREF="#_VE2">2 words</A> (and vocab. = 1)
-<li>Viï¿½ai Eccam type 3 (ceypu): <A HREF="#_VE3">8 words</A> (and vocab. = 7)
-<li>Viï¿½ai Eccam type 4 (ceyteï¿½a): <A HREF="#_VE4">4 words</A> (and vocab. = 4)
-<li>Viï¿½ai Eccam type 5 (ceyyiyar): <A HREF="#_VE5">1 words</A> (and vocab. = 1)
-<li>Viï¿½ai Eccam type 6 (ceyyiya): <A HREF="#_VE6">2 words</A> (and vocab. = 2)
-<li>Viï¿½ai Eccam type 7 (ceyiï¿½): <A HREF="#_VE7">15 words</A> (and vocab. = 13)
-<li>Viï¿½ai Eccam type 8 (ceya):183 words (and vocabulary = 92)
+<li>Vi­ai Eccam type 2 (ceyyå/ceyyà): <A HREF="#_VE2">2 words</A> (and vocab. = 1)
+<li>Vi­ai Eccam type 3 (ceypu): <A HREF="#_VE3">8 words</A> (and vocab. = 7)
+<li>Vi­ai Eccam type 4 (ceyte­a): <A HREF="#_VE4">4 words</A> (and vocab. = 4)
+<li>Vi­ai Eccam type 5 (ceyyiyar): <A HREF="#_VE5">1 words</A> (and vocab. = 1)
+<li>Vi­ai Eccam type 6 (ceyyiya): <A HREF="#_VE6">2 words</A> (and vocab. = 2)
+<li>Vi­ai Eccam type 7 (ceyi­): <A HREF="#_VE7">15 words</A> (and vocab. = 13)
+<li>Vi­ai Eccam type 8 (ceya):183 words (and vocabulary = 92)
 <ul>
-<li>Viï¿½ai Eccam type 8a: <A HREF="#_VE8a">159 words</A> (and vocab. = 72)
-<li>Viï¿½ai Eccam type 8b: <A HREF="#_VE8b">24 words</A> (and vocab. = 20)
+<li>Vi­ai Eccam type 8a: <A HREF="#_VE8a">159 words</A> (and vocab. = 72)
+<li>Vi­ai Eccam type 8b: <A HREF="#_VE8b">24 words</A> (and vocab. = 20)
 </ul>
-<li>Negative Viï¿½ai Eccam (ceyyï¿½tu): <A HREF="#_VEneg">16 words</A> (and vocab. = 13)
-<li>Comparative Viï¿½ai Eccam (ceytï¿½ï¿½ku): <A HREF="#_VEcomp">1 words</A> (and vocab. = 1)
+<li>Negative Vi­ai Eccam (ceyyàtu): <A HREF="#_VEneg">16 words</A> (and vocab. = 13)
+<li>Comparative Vi­ai Eccam (ceytàïku): <A HREF="#_VEcomp">1 words</A> (and vocab. = 1)
 </UL>
 
 <HR>
@@ -73,17 +73,17 @@
 <li> akal		DED2 8: 3. to leave; to widen - v.r. 
 <BR>@370.3 
 <BR>@380.4
-<li> aci               DED2 37: 4. to move - v.r. 
+<li> acai               DED2 37: 4. to move - v.r. 
 <BR>@40.5 
 <BR>@340.22
-<li>[aï¿½ai-kari	v.r. 
+<li>[añai-karai	v.r. 
 <BR>@10.11 
 <BR>@30.7 
 <BR>@60.9 
 <BR>@80.7 
 <BR>@130.4 
 <BR>@280.3]
-<li>aï¿½i		4. to adorn - v.r. 
+<li>aõi		4. to adorn - v.r. 
 <BR>@20.9 
 <BR>@100.9 
 <BR>@210.4 
@@ -91,99 +91,99 @@
 <BR>@320.10
 <li> amar		DED2: 161: 4. to abide - v.r. 
 <BR>@320.9v
-<li>ami		DED2 161: 4. to become still - v.r. 
+<li>amai		DED2 161: 4. to become still - v.r. 
 <BR>@400.5
 <li> ayar		DED2 39: 4. to immerse oneself - v.r. 
 <BR>@320.4
 <li> aruntu	DED2 368: 5. to eat - v.r. 
 <BR>@120.2 
 <BR>@360.16
-<li>ari		ind. = DED2 228(a): ari 11. to grind - v.r. 
+<li>arai		ind. = DED2 228(a): arai 11. to grind - v.r. 
 <BR>@100.1 ??
-<li> [alkuï¿½u	+ v.r. of uï¿½u 
+<li> [alkuŸu	+ v.r. of uŸu 
 <BR>@40.5 
 <BR>@290.5]
-<li> aviï¿½		TL (= DED2 12: to become lose?): 4. to open (refl./tr.) - v.r. 
+<li> avi©		TL (= DED2 12: to become lose?): 4. to open (refl./tr.) - v.r. 
 <BR>@80.11 
 <BR>@90.3
-<li> aï¿½i		4. to perish - v.r. 
+<li> a©i		4. to perish - v.r. 
 <BR>@190.13 
 <BR>@290.9
-<li> aï¿½i		DED2 314: 4. to know - v.r. 
+<li> aŸi		DED2 314: 4. to know - v.r. 
 <BR>@20.12 
 <BR>@140.9 
 <BR>@320.14
-<li> ï¿½ï¿½u		DED2 347: 5. to dance, play - v.r. 
+<li> àñu		DED2 347: 5. to dance, play - v.r. 
 <BR>@100.9 
 <BR>@260.4 
 <BR>@370.15
-<li> ï¿½y		DED2 363: 4. to select - v.r. 
+<li> ày		DED2 363: 4. to select - v.r. 
 <BR>@280.4 
 <BR>@330.14
-<li> ï¿½r		DED2 368: 4. to become full - v.r. 
+<li> àr		DED2 368: 4. to become full - v.r. 
 <BR>@40.3 
 <BR>@150.14 
 <BR>@180.6 
 <BR>@300.4
 <li> iku		TL (not DED): 6. to break - v.r. 
 <BR>@400.12
-<li> iï¿½u		DED2 442: 6. to place - v.r. 
+<li> iñu		DED2 442: 6. to place - v.r. 
 <BR>@20.7
 <li> imir		DED2 466: 4. to sound, hum - v.r. 
 <BR>@170.2 
 <BR>@250.3 
 <BR>@280.13 
 <BR>@340.18
-<li> ilaï¿½ku	DED2 829: 5. to shine - v.r. 
+<li> ilaïku	DED2 829: 5. to shine - v.r. 
 <BR>@200.1 
 <BR>@350.10
 <li> ivar		DED2 3730: 4. to climb - v.r. 
 <BR>@130.9
-<li> iï¿½i		DED2 502: 4. to fall --- v.r. 
+<li> i©i		DED2 502: 4. to fall --- v.r. 
 <BR>@350.13 
 <BR>@360.14
-<li>uï¿½ai		DED2 946: 4. intr. to break --- v.r. 
+<li>uñai		DED2 946: 4. intr. to break --- v.r. 
 <BR>@10.9 
 <BR>@200.8 
 <BR>@310.16
-<li> uï¿½		DED2 600: 7. to eat --- v.r. 
+<li> uõ		DED2 600: 7. to eat --- v.r. 
 <BR>@380.4
-<li> umiï¿½		DED2 636: 4. to shoot --- v.r. 
+<li> umi©		DED2 636: 4. to shoot --- v.r. 
 <BR>@210.3
 <li> uyar		4. to be high --- v.r. 
 <BR>@160.14 
 <BR>@190.6 
-<li>uï¿½ï¿½u 		5. to remember --- v.r. 
+<li>uëëu 		5. to remember --- v.r. 
 <BR>@220.10
-<li> uï¿½u		DED2 710 (711?): 6. to have --- v.r. 
+<li> uŸu		DED2 710 (711?): 6. to have --- v.r. 
 <BR>@40.5 
 <BR>@170.13 
 <BR>@210.2 
 <BR>@230.1 
 <BR>@290.5 
-<li>eï¿½u		DED2 851(a): 4. to rise --- v.r. 
+<li>e©u		DED2 851(a): 4. to rise --- v.r. 
 <BR>@150.3
-<li>[eï¿½utarum	+ v.r. of taru 
+<li>[e©utarum	+ v.r. of taru 
 <BR>@150.3]
-<li> eï¿½i		DED2 859: 4. to throw --- v.r. 
+<li> eŸi		DED2 859: 4. to throw --- v.r. 
 <BR>@210.2 
 <BR>@350.2 
 <BR>@350.10
-<li> eï¿½ 		DED2 668: 8. to say --- v.r. 
+<li> e­ 		DED2 668: 8. to say --- v.r. 
 <BR>@110.13 
 <BR>@170.12 
 <BR>@190.15
-<li> ï¿½ntu		DED2 870: 5. to be eminent --- v.r. 
+<li> ›ntu		DED2 870: 5. to be eminent --- v.r. 
 <BR>@230.13 
 <BR>@350.8
-<li> ï¿½muï¿½u	TL: 6. to be delighted, to be confused --- v.r. 
+<li> ›muŸu	TL: 6. to be delighted, to be confused --- v.r. 
 <BR>@210.2
-<li> ï¿½r		TL (not DED): 4. to resemble --- v.r. 
+<li> ›r		TL (not DED): 4. to resemble --- v.r. 
 <BR>@180.14 
 <BR>@290.15 
 <BR>@290.16 
 <BR>@320.6
-<li> oï¿½uï¿½ku	5. to be restrined --- v.r. 
+<li> oñuïku	5. to be restrained --- v.r. 
 <BR>@160.1
 <li> oy		DED2 984: 4. to carry --- v.r. 
 <BR>@30.5 
@@ -193,18 +193,18 @@
 <BR>@390.7
 <li> oli		DED2 997: 4.? to sprout --- v.r. 
 <BR>@350.12 
-<li> ï¿½ï¿½ku		DED2 1033: 5. to become high --- v.r. 
+<li> ïku		DED2 1033: 5. to become high --- v.r. 
 <BR>@20.5 
 <BR>@200.9 
 <BR>@320.1
-<li>kaï¿½/kï¿½ï¿½	DED2 1159: 13. to see --- v.r. 
+<li>kaõ/kàõ	DED2 1159: 13. to see --- v.r. 
 <BR>@150.12 
 <BR>@220.7 
 <BR>@250.4
-<li> kataï¿½		DED2 1188: 4. to hasten - v.r. 
+<li> kata©		DED2 1188: 4. to hasten - v.r. 
 <BR>@140.5 
 <BR>@180.4
-<li> kamaï¿½	DED2 1247: 4. to be fragrant --- v.r. 
+<li> kama©	DED2 1247: 4. to be fragrant --- v.r. 
 <BR>@10.12 
 <BR>@170.5 
 <BR>@250.4 
@@ -213,75 +213,75 @@
 <BR>@130.10
 <li> kuvi		DED2 1741: 4./11. to heap --- v.r. 
 <BR>@240.11
-<li>koï¿½u		DED2 2053: 11. to give - v.r. 
+<li>koñu		DED2 2053: 11. to give - v.r. 
 <BR>@50.13
-<li>koï¿½		DED2 2151: 2. to take --- v.r. 
+<li>koë		DED2 2151: 2. to take --- v.r. 
 <BR>@250.5 
 <BR>@300.3 
 <BR>@370.14
 <li> koy		DED2 2119: 1. to pluck --- v.r. 
 <BR>@270.8
-<li> cï¿½y		DED2 2456: 11. to bend - v.r. 
+<li> cày		DED2 2456: 11. to bend - v.r. 
 <BR>@220.18
-<li> cï¿½l		DED2 2470: 3. to be worthy --- v.r. 
+<li> càl		DED2 2470: 3. to be worthy --- v.r. 
 <BR>@280.5
 <li> curi		DED2 2684: 4. to wind --- v.r. 
 <BR>@390.5
-<li> ceï¿½i		DED2 1980: 4. to be tight --- v.r. 
+<li> ceŸi		DED2 1980: 4. to be tight --- v.r. 
 <BR>@40.15 
 <BR>@300.7
-<li> cï¿½r		DED2 2814: 4. intr. to join --- v.r. 
+<li> c›r		DED2 2814: 4. intr. to join --- v.r. 
 <BR>@50.11 
 <BR>@290.9
 <li> tatar 		DED2 2322: 4. to be squashed --- v.r. 
 <BR>@390.3v
-<li> tati		DED2 3315: 4. to be densely packed --- v.r. 
+<li> tatai		DED2 3315: 4. to be densely packed --- v.r. 
 <BR>@180.3
-<li> taru/tï¿½	DED2 3098: 13. to give --- v.r. 
+<li> taru/tà	DED2 3098: 13. to give --- v.r. 
 <BR>@60.14
-<li> tï¿½ï¿½ku		DED2 3153: 5. to endure --- v.r. 
+<li> tàïku		DED2 3153: 5. to endure --- v.r. 
 <BR>@400.10
-<li> tiraï¿½		DED2 3245: 2. to become round --- v.r. 
+<li> tiraë		DED2 3245: 2. to become round --- v.r. 
 <BR>@280.12
-<li>tuï¿½cu		DED2 3291: 5. to sleep --- v.r. 
+<li>tu¤cu		DED2 3291: 5. to sleep --- v.r. 
 <BR>@360.12
 <li>tuyal		DED2 3376(b): 5. to swing --- v.r. 
 <BR>@370.11 
 <BR>@400.20
-<li> teï¿½		DED2 3433: 9. to become clear --- v.r. 
+<li> teë		DED2 3433: 9. to become clear --- v.r. 
 <BR>@290.13 
 <BR>@340.24
-<li> toï¿½u		DED2 3525: 1. to worship --- v.r. 
+<li> to©u		DED2 3525: 1. to worship --- v.r. 
 <BR>@310.3
-<li>[toï¿½utaku	+ v.r. taku 
+<li>[to©utaku	+ v.r. taku 
 <BR>@310.3]
-<li> tï¿½ï¿½ï¿½u		5. to appear --- v.r. 
+<li> t­Ÿu		5. to appear --- v.r. 
 <BR>@310.12
-<li> naï¿½uï¿½ku	5. to shiver --- v.r. 
+<li> nañuïku	5. to shiver --- v.r. 
 <BR>@320.11
-<li>[nalampeï¿½u	+ v.r. peï¿½u 
+<li>[nalampeŸu	+ v.r. peŸu 
 <BR>@280.2]
-<li> nï¿½ï¿½u		5. to be fragrant --- v.r. 
+<li> nàŸu		5. to be fragrant --- v.r. 
 <BR>@130.8 
 <BR>@150.11 
 <BR>@160.6 
 <BR>@180.10
-<li> nï¿½ï¿½u		DED2 3692: 5. to prolong --- v.r. 
+<li> nãñu		DED2 3692: 5. to prolong --- v.r. 
 <BR>@150.5 
 <BR>@400.26
-<li> nuï¿½aï¿½ku	5. to become fine --- v.r. 
+<li> nuõaïku	5. to become fine --- v.r. 
 <BR>@300.2
-<li> nekiï¿½		DED2 2923: 4. to become loose --- v.r. 
+<li> neki©		DED2 2923: 4. to become loose --- v.r. 
 <BR>@260.14
-<li> nï¿½r		DED2 3770?: 11. to resemble --- v.r. (
+<li> n›r		DED2 3770?: 11. to resemble --- v.r. (
 <BR>@180.14) (
 <BR>@290.16)
-<li> nï¿½ï¿½		8. to endure --- v.r. 
+<li> n­		8. to endure --- v.r. 
 <BR>@30.6 
 <BR>@400.14
 <li> paku		DED2 3808: 6. to be split --- v.r. 
 <BR>@160.7
-<li> paï¿½u	DED2 3852/3853?: 6. to happen --- v.r. 
+<li> pañu	DED2 3852/3853?: 6. to happen --- v.r. 
 <BR>@20.2 
 <BR>@80.6 
 <BR>@170.9 
@@ -291,49 +291,49 @@
 <BR>@310.15 
 <BR>@330.17 
 <BR>@390.2
-<li>paï¿½ar		(DED2 3844?): 4. to set out; to think of --- v.r. 
+<li>pañar		(DED2 3844?): 4. to set out; to think of --- v.r. 
 <BR>@210.6
-<li> paï¿½i		DED2 3888: 4. to be humble --- v.r. 
+<li> paõi		DED2 3888: 4. to be humble --- v.r. 
 <BR>@220.2 
 <BR>@310.4
 <li> payil		DED2 3942: 3. to become dense --- v.r. 
 <BR>@210.5
-<li> pï¿½ï¿½u		DED2 4065: 5. to sing --- v.r. 
+<li> pàñu		DED2 4065: 5. to sing --- v.r. 
 <BR>@30.2 
 <BR>@40.2 
 <BR>@50.1 
 <BR>@260.4 
 <BR>@350.5 
 <BR>@400.25
-<li> pï¿½y		DED2 4087: 4. to spring - DED2 4088: 4. to spread --- v.r. 
+<li> pày		DED2 4087: 4. to spring - DED2 4088: 4. to spread --- v.r. 
 <BR>@160.18 
 <BR>@240.10
-<li> pï¿½ï¿½u		DED2 4020: 5. to be scattered - v.r. 
+<li> pàŸu		DED2 4020: 5. to be scattered - v.r. 
 <BR>@300.7
-<li> puï¿½ar		DED2 4160(b): 4. intr. to unite --- v.r. 
+<li> puõar		DED2 4160(b): 4. intr. to unite --- v.r. 
 <BR>@30.3 
 <BR>@80.5 
 <BR>@260.6
 <li> pular		DED2 4305: 4. to dawn - v.r. 
 <BR>@100.15
-<li> pï¿½ï¿½ï¿½u		DED2 4361: 5. to fasten --- v.r. 
+<li> påññu		DED2 4361: 5. to fasten --- v.r. 
 <BR>@300.6
 <li> peyar		DED2 4409: 4. to move --- v.r. 
 <BR>@330.7
-<li> poï¿½ku	DED2 4469: 5. to foam --- v.r. 
+<li> poïku	DED2 4469: 5. to foam --- v.r. 
 <BR>@190.9
 <li> poti		DED2 4509: 4. to bundle --- v.r. 
 <BR>@160.13
-<li> pï¿½l		DED2 4597: 3. to be similar --- v.r. 
+<li> pl		DED2 4597: 3. to be similar --- v.r. 
 <BR>@150.8 
 <BR>@170.4 
 <BR>@230.2
-<li> maï¿½i		DED2 4652: 4.? to droop - v.r. 
+<li> mañi		DED2 4652: 4.? to droop - v.r. 
 <BR>@50.11 
 <BR>@170.11
-<li> mayaï¿½ku	DED2 4706: 5. to be confused --- v.r. 
+<li> mayaïku	DED2 4706: 5. to be confused --- v.r. 
 <BR>@250.1
-<li> marï¿½u	= maruvu? DED2 4722: 5. to join together - v.r. 
+<li> maråu	= maruvu? DED2 4722: 5. to join together - v.r. 
 <BR>@280.7
 <li> malku	to increase --- v.r. 
 <BR>@250.2
@@ -341,62 +341,62 @@
 <BR>@200.1 
 <BR>@300.17v 
 <BR>@400.20
-<li> miï¿½ai		TL (DED 3977?): 4. to be set close - v.r. 
+<li> miñai		TL (DED 3977?): 4. to be set close - v.r. 
 <BR>@270.12
-<li> muï¿½aï¿½ku	DED2 4919: 5. to bend --- v.r. 
+<li> muñaïku	DED2 4919: 5. to bend --- v.r. 
 <BR>@220.17
 <li> mutir		DED2 4954: 4. to ripen --- v.r. 
 <BR>@10.3
 <li> muyal	DED2 4067: 3. to make an effort - v.r. 
 <BR>@140.11
-<li> muï¿½aï¿½ku	5. to thunder --- v.r. 
+<li> mu©aïku	5. to thunder --- v.r. 
 <BR>@70.14 
 <BR>@220.12
 <li> melku	5. to become soft - v.r. 
 <BR>@290.5
-<li> mï¿½y		DED2 5093: 4. to graze --- v.r. 
+<li> m›y		DED2 5093: 4. to graze --- v.r. 
 <BR>@150.7 
 <BR>@200.7
-<li> vaï¿½i		DED2 5223: 4. to trickle; to be clear - v.r. 
+<li> vañi		DED2 5223: 4. to trickle; to be clear - v.r. 
 <BR>@350.7
-<li> vaï¿½ar		DED2 5236: 4. to curve --- v.r. 
+<li> vaõar		DED2 5236: 4. to curve --- v.r. 
 <BR>@390.5
 <li> varu		DED2 5270: 13. to come --- v.r. 
 <BR>@190.3 
 <BR>@360.6
-<li> vaï¿½aï¿½ku	DED2 5292: 5. to roam --- v.r. 
+<li> va©aïku	DED2 5292: 5. to roam --- v.r. 
 <BR>@260.13
-<li> vï¿½ï¿½ku	DED2 5335: 5. to bend; to drag --- v.r. 
+<li> vàïku	DED2 5335: 5. to bend; to drag --- v.r. 
 <BR>@130.12 
 <BR>@270.6 
 <BR>@320.1 
 <BR>@390.10
-<li>vï¿½y		DED2 5350: 4. to be fit; to surpass - v.r. 
+<li>vày		DED2 5350: 4. to be fit; to surpass - v.r. 
 <BR>@370.1?
-<li> vï¿½r		DED2 5356: 4. to overflow --- v.r. 
+<li> vàr		DED2 5356: 4. to overflow --- v.r. 
 <BR>@300.6
-<li> vï¿½		DED2 5372: 4. to live --- v.r. 
+<li> và©		DED2 5372: 4. to live --- v.r. 
 <BR>@390.11
 <li> viri		DED2 5411: 4. to expand --- v.r. 
 <BR>@100.12 
 <BR>@280.11 
 <BR>@310.12 
-<li> viri		DED2 5417: 12. hurry --- v.r. 
+<li> virai		DED2 5417: 12. hurry --- v.r. 
 <BR>@190.14
-<li> viï¿½aï¿½ku	DED2 5496(a): 5. to shine --- v.r. 
+<li> viëaïku	DED2 5496(a): 5. to shine --- v.r. 
 <BR>@80.11
-<li> viï¿½ai		DED2 5437: 4. to ripen --- v.r. 
+<li> viëai		DED2 5437: 4. to ripen --- v.r. 
 <BR>@390.1
-<li> vï¿½ï¿½ku		DED2 5448(a): 5. to swell --- v.r. 
+<li> vãïku		DED2 5448(a): 5. to swell --- v.r. 
 <BR>@400.10
-<li> vï¿½		DED2 5430: 4. to descend --- v.r. 
+<li> vã©		DED2 5430: 4. to descend --- v.r. 
 <BR>@20.6 
 <BR>@380.6
 <li> [veruvaru	+ v.r. varu 
 <BR>@360.6]
 <li> vel		DED2 5493: 3. to overcome --- v.r. 
 <BR>@70.15
-<li>vï¿½y		DED2 5532: 4. to cover - v.r. 
+<li>v›y		DED2 5532: 4. to cover - v.r. 
 <BR>@200.2 
 <BR>@230.14 
 <BR>@240.14 
@@ -410,7 +410,7 @@
 <OL>
 <li> akavum	pey. 
 <BR>@120.15
-<li> acï¿½am	pey. 
+<li> acàam	pey. 
 <BR>@170.9
 <li> ayarum	pey. 
 <BR>@240.9 
@@ -418,77 +418,77 @@
 <BR>@120.2v 
 <li> alamarum	pey. 
 <BR>@270.11
-<li> ï¿½kum		pey. 
+<li> àkum		pey. 
 <BR>@160.7
-<li>ï¿½m		pey. 
+<li>àm		pey. 
 <BR>@400.13
-<li> ï¿½ï¿½um		pey. 
+<li> àñum		pey. 
 <BR>@90.2
-<li> ï¿½rkkum	pey. 
+<li> àrkkum	pey. 
 <BR>@40.5
-<li> iï¿½ï¿½um	pey. 
+<li> iñåum	pey. 
 <BR>@380.6
 <li>iyalum	pey. 
 <BR>@390.9
-<li> iraï¿½kum	pey. 
+<li> iraïkum	pey. 
 <BR>@70.14 
 <BR>@400.25
-<li>[iï¿½itarum	+ pey. of taru 
+<li>[i©itarum	+ pey. of taru 
 <BR>@350.13]
-<li>[uï¿½aitarum 	+ pey. of taru 
+<li>[uñaitarum 	+ pey. of taru 
 <BR>@10.9 
 <BR>@200.8 
 <BR>@310.16]
-<li> uyaï¿½kum 	pey. 
+<li> uyaïkum 	pey. 
 <BR>@60.11 
 <BR>@270.14
 <li> uyirkkum	pey. 
 <BR>@140.5
-<li> uï¿½arum	pey. 
+<li> uëarum	pey. 
 <BR>@320.9
-<li> uï¿½aikkum	pey. 
+<li> uŸaikkum	pey. 
 <BR>@80.12
-<li> uï¿½aiyum	pey. 
+<li> uŸaiyum	pey. 
 <BR>@260.12
-<li> eï¿½ï¿½um	pey. 
+<li> eõõum	pey. 
 <BR>@190.3
-<li> eï¿½ï¿½um	pey. 
+<li> e­­um	pey. 
 <BR>@210.13
 <li> olikkum	pey. 
 <BR>@160.16
-<li> ï¿½mpum	pey. 
+<li> mpum	pey. 
 <BR>@160.8
-<li> ï¿½rum		pey. 
+<li> rum		pey. 
 <BR>@310.6
-<li> kaï¿½ukkum	pey. 
+<li> kañukkum	pey. 
 <BR>@140.11
-<li> kamaï¿½um	pey. 
+<li> kama©um	pey. 
 <BR>@70.2
 <li> karakkum	pey. 
 <BR>@50.13
-<li> kaï¿½avum	pey. 
+<li> ka­avum	pey. 
 <BR>@170.12
-<li>kiï¿½arum	pey. 
+<li>kiëarum	pey. 
 <BR>@170.7
-<li> kuï¿½aï¿½um	pey. 
+<li> ku©aŸum	pey. 
 <BR>@260.13
-<li> kï¿½um		pey. 
+<li> kåum		pey. 
 <BR>@310.13
-<li> kï¿½ï¿½ï¿½um	pey. 
+<li> kåññum	pey. 
 <BR>@70.12 
-<li> koï¿½kum	pey. 
+<li> koñkum	pey. 
 <BR>@20.16 
 <BR>@220.12 
 <BR>@340.10
-<li> koï¿½ukkum	pey. 
+<li> koñukkum	pey. 
 <BR>@60.6 
-<li>koï¿½ï¿½um	pey. 
+<li>ko­­um	pey. 
 <BR>@60.12
-<li> citikkum	pey. 
+<li> citaikkum	pey. 
 <BR>@90.2
-<li> ceï¿½ikkum	pey. 
+<li> ceŸikkum	pey. 
 <BR>@220.17
-<li> cï¿½kkum	pey. 
+<li> c›kkum	pey. 
 <BR>@40.16 
 <BR>@360.17
 <li> tatumpum	pey. 
@@ -500,28 +500,28 @@
 <BR>@200.8 
 <BR>@310.16 
 <BR>@350.13
-<li> taï¿½arum	pey. 
+<li> taëarum	pey. 
 <BR>@170.7v
-<li> tï¿½am		pey. 
+<li> tàam		pey. 
 <BR>@360.18
-<li> tuï¿½cum	pey. 
+<li> tu¤cum	pey. 
 <BR>@30.11
 <li>[tuyalvarum	+ pey. of varu 
 <BR>@400.20]
-<li> tï¿½ï¿½kum	pey. 
+<li> tåïkum	pey. 
 <BR>@340.23
-<li> teï¿½iyumï¿½ï¿½u	pey. 
+<li> teëiyumàŸu	pey. 
 <BR>@220.22
-<li> tï¿½yum	pey. 
+<li> tyum	pey. 
 <BR>@270.6
-<li> tï¿½ï¿½ï¿½um	pey. 
+<li> t­Ÿum	pey. 
 <BR>@100.10 
 <BR>@310.10 
 <li> naralum	pey. 
 <BR>@290.7
-<li> naï¿½aitta	pey. pa. 
+<li> na­aitta	pey. pa. 
 <BR>@150.9
-<li> nuï¿½aï¿½kum	pey. 
+<li> nuñaïkum	pey. 
 <BR>@110.18
 <li> nuvalum	pey. 
 <BR>@390.9v
@@ -531,38 +531,38 @@
 <BR>@10.12 
 <BR>@70.4 
 <BR>@280.13
-<li> paï¿½arum	pey. 
+<li> pañarum	pey. 
 <BR>@390.2
-<li>[paï¿½artarum	+ pey. of taru 
+<li>[pañartarum	+ pey. of taru 
 <BR>@210.6]
 <li> paruvarum	pey. 
 <BR>@150.13
-<li> paï¿½ikkum	pey. 
+<li> pa­ikkum	pey. 
 <BR>@220.10
-<li> pï¿½kum	pey. 
+<li> pkum	pey. 
 <BR>@140.4 
 <BR>@390.3
-<li> pï¿½kkum	pey. 
+<li> pkkum	pey. 
 <BR>@30.5
 <li> malarum	pey. 
 <BR>@150.11
-<li> maï¿½akkum	pey. 
+<li> maŸakkum	pey. 
 <BR>@200.6
-<li> mï¿½ntum	pey. 
+<li> màntum	pey. 
 <BR>@100.17
-<li> miliyum	pey. 
+<li> milaiyum	pey. 
 <BR>@270.3
 <li> varikkum	pey. 
 <BR>@70.9
 <li> varuntum	pey. 
 <BR>@90.7
-<li> vaï¿½aï¿½kum	pey. 
+<li> va©aïkum	pey. 
 <BR>@80.1 
 <BR>@150.7 
 <BR>@170.11
-<li> vï¿½m		pey. 
+<li> vàm		pey. 
 <BR>@400.13?
-<li> vï¿½ï¿½kum	pey. 
+<li> vàïkum	pey. 
 <BR>@140.13
 </OL>
 
@@ -571,17 +571,17 @@
 
 <H3><A NAME="_pe2">LIST of peyar eccam forms of ceyta type</A> found by Eva in AN neytal</H3>
 <OL>
-<li> acitta	pey. p.a. 
+<li> acaitta	pey. p.a. 
 <BR>@100.9
-<li> aciiya	pey. p.a. 
+<li> acaiiya	pey. p.a. 
 <BR>@190.1
-<li> aï¿½aiiya           pey. p.a. 
+<li> añaiiya           pey. p.a. 
 <BR>@360.4
-<li> aï¿½inta	pey. p.a. 
+<li> aõinta	pey. p.a. 
 <BR>@120.7
-<li> amaï¿½ï¿½a	pey. p.a. 
+<li> ama­Ÿa	pey. p.a. 
 <BR>@180.5
-<li> aminta	pey. p.a. 
+<li> amainta	pey. p.a. 
 <BR>@100.1
 <li> ayarnta	pey. p.a. 
 <BR>@330.5
@@ -593,109 +593,109 @@
 <BR>@400.3
 <li>[avintirunta	+ pey. p.a. of iru 
 <BR>@100.5] 
-<li> aï¿½itta		pey. p.a. 
+<li> a©itta		pey. p.a. 
 <BR>@130.8
-<li> aï¿½untiya	pey. p.a. 
+<li> a©untiya	pey. p.a. 
 <BR>@140.12
-<li> aï¿½utta		pey. p.a. 
+<li> aŸutta		pey. p.a. 
 <BR>@220.5
-<li> ï¿½kiya		pey. p.a. 
+<li> àkiya		pey. p.a. 
 <BR>@90.4
-<li> ï¿½ynta		pey. p.a. 
+<li> àynta		pey. p.a. 
 <BR>@20.15 
 <BR>@190.16 
 <BR>@220.20
-<li> [iï¿½ampaï¿½utta	 + pey. p.a. of paï¿½uttu]
-<li> iyaï¿½ï¿½iya	pey. p.a. 
+<li> [iñampañutta	 + pey. p.a. of pañuttu]
+<li> iyaŸŸiya	pey. p.a. 
 <BR>@180.6
-<li> iyinta           pey. p.a. 
+<li> iyainta           pey. p.a. 
 <BR>@360.7
 <li> irunta		pey. p.a. 
 <BR>@100.5 
 <BR>@190.7 
 <BR>@230.3 
 <BR>@280.4
-<li> iruntaï¿½am	pey. p.a. 
+<li> irunta­am	pey. p.a. 
 <BR>@110.9
-<li> iï¿½inta		pey. p.a. 
+<li> i©inta		pey. p.a. 
 <BR>@110.16
-<li>[iï¿½aikoï¿½ï¿½a	+ pey. p.a. of koï¿½ 
+<li>[iŸaikoõña	+ pey. p.a. of koë 
 <BR>@180.11]
-<li> iï¿½aiï¿½ciya	pey. p.a. 
+<li> iŸai¤ciya	pey. p.a. 
 <BR>@110.15
-<li> ï¿½ï¿½ï¿½iya		pey. p.a. 
+<li> ãññiya		pey. p.a. 
 <BR>@60.9
 <li> ukka		pey. p.a. 
 <BR>@300.3
-<li> uï¿½ï¿½a		pey. p.a. 
+<li> uõña		pey. p.a. 
 <BR>@320.13
 <li> utirtta	pey. p.a. 
 <BR>@230.6 
 <BR>@380.4v
 <li>utirnta	pey. p.a. 
 <BR>@380.4
-<li> uï¿½anta	pey. p.a. 
+<li> u©anta	pey. p.a. 
 <BR>@240.5 
 <BR>@250.2 
-<li> uï¿½ï¿½iya		pey. p.a. 
+<li> uëëiya		pey. p.a. 
 <BR>@240.2
-<li> uï¿½ï¿½a		pey. p.a. 
+<li> uŸŸa		pey. p.a. 
 <BR>@20.11 
 <BR>@400.4
-<li> ï¿½tiya		pey. p.a. 
+<li> åtiya		pey. p.a. 
 <BR>@170.6
-<li> ï¿½rnta		pey. p.a. 
+<li> årnta		pey. p.a. 
 <BR>@330.11
-<li> ï¿½tta		pey. p.a. 
+<li> å©tta		pey. p.a. 
 <BR>@10.2
 <li> etiriya	pey. p.a. 
 <BR>@10.1
-<li> eï¿½inta		pey. p.a. 
+<li> eŸinta		pey. p.a. 
 <BR>@120.10
-<li> oï¿½ï¿½iya	pey. p.a. 
+<li> o­Ÿiya	pey. p.a. 
 <BR>@400.8
-<li> ï¿½ï¿½kiya	pey. p.a. 
+<li> ïkiya	pey. p.a. 
 <BR>@120.14
 <li> kalitta	pey. p.a. 
 <BR>@70.11 
 <BR>@80.7 
 <li> kavitta	pey. p.a. 
 <BR>@70.15
-<li> kaï¿½aitta	pey. p.a. 
+<li> ka­aitta	pey. p.a. 
 <BR>@150.8
-<li> kï¿½ï¿½ï¿½iya	pey. p.a. 
+<li> kàññiya	pey. p.a. 
 <BR>@240.6
-<li> kiï¿½itta		pey. p.a. 
+<li> ki©itta		pey. p.a. 
 <BR>@340.21
-<li> kuï¿½itta	pey. p.a. 
+<li> kuŸitta	pey. p.a. 
 <BR>@110.21
-<li> kuï¿½ainta	pey. p.a. 
+<li> kuŸainta	pey. p.a. 
 <BR>@160.13
-<li> kuï¿½ï¿½iya	pey. p.a. 
+<li> ku­Ÿiya	pey. p.a. 
 <BR>@190.13
-<li> kï¿½ï¿½iya	pey. p.a. 
+<li> kåñiya	pey. p.a. 
 <BR>@70.8
-<li> keï¿½ï¿½iya	pey. p.a. 
+<li> ke©ãiya	pey. p.a. 
 <BR>@130.4
-<li> koï¿½ï¿½a		pey. p.a. 
+<li> koõña		pey. p.a. 
 <BR>@180.11 
 <BR>@290.16
-<li> koï¿½ï¿½a		pey. p.a. 
+<li> ko­Ÿa		pey. p.a. 
 <BR>@10.10v
 <li> ceyta		pey. p.a. 
 <BR>@140.2 
 <BR>@260.14 
 <BR>@360.19
-<li> ceï¿½ï¿½a		pey. p.a. 
+<li> ce­Ÿa		pey. p.a. 
 <BR>@40.17 
 <BR>@330.8
 <li> colliya	pey. p.a. 
 <BR>@300.9
-<li> ï¿½à­Ÿu		DED2 2920: time (particle for forming temporal cluse with pey. p.a.) 
+<li> ¤à­Ÿu		DED2 2920: time (particle for forming temporal clause with pey. p.a.) 
 <BR>@150.14
-<li> taï¿½anta	pey. p.a. 
+<li> taõanta	pey. p.a. 
 <BR>@150.14
-<li> tatinta 	pey. p.a. 
+<li> tatainta 	pey. p.a. 
 <BR>@370.10
 <li> tanta		pey. p.a. 
 <BR>@20.1 
@@ -704,47 +704,47 @@
 <BR>@320.2 
 <BR>@340.16 
 <BR>@400.21
-<li> tiï¿½anta	pey. p.a. 
+<li> tiŸanta	pey. p.a. 
 <BR>@130.12
-<li> tuï¿½anta	pey. p.a. 
+<li> tu©anta	pey. p.a. 
 <BR>@60.5 
 <BR>@270.5
-<li> tuï¿½aiiya	pey. p.a. 
+<li> tu©aiiya	pey. p.a. 
 <BR>@320.8
 <li> tokutta	pey. p.a. 
 <BR>@30.8
-<li> toï¿½utta	pey. p.a. 
+<li> toñutta	pey. p.a. 
 <BR>@20.5
-<li> naviï¿½ï¿½a	pey. p.a. 
+<li> navi­Ÿa	pey. p.a. 
 <BR>@160.11
-<li> nikaï¿½ttiya	pey. p.a. 
+<li> nika©ttiya	pey. p.a. 
 <BR>@340.17
-<li> niï¿½ï¿½a		pey. p.a. 
+<li> ni­Ÿa		pey. p.a. 
 <BR>@180.13 
 <BR>@310.1 
 <BR>@390.15
-<li> niï¿½ainta	pey. p.a. 
+<li> ni­ainta	pey. p.a. 
 <BR>@380.8
-<li> nuï¿½ainta	pey. p.a. 
+<li> nu©ainta	pey. p.a. 
 <BR>@350.6 
-<li> nekiï¿½nta	pey. p.a. 
+<li> neki©nta	pey. p.a. 
 <BR>@250.13 
 <BR>@270.4v
-<li> neï¿½itta	pey. p.a. 
+<li> neŸitta	pey. p.a. 
 <BR>@150.1
-<li> noï¿½utta 	pey. p.a. 
+<li> noñutta 	pey. p.a. 
 <BR>@340.14
-<li> pukaï¿½nta	pey. p.a. 
+<li> puka©nta	pey. p.a. 
 <BR>@250.8
-<li> puï¿½arnta	pey. p.a. 
+<li> puõarnta	pey. p.a. 
 <BR>@70.5
-<li> putitta	pey. p.a. 
+<li> putaitta	pey. p.a. 
 <BR>@160.5
-<li>[puï¿½aï¿½koï¿½utta + pey. p.a. of koï¿½u 
+<li>[puŸaïkoñutta + pey. p.a. of koñu 
 <BR>@130.13]
-<li> puï¿½ainta	pey. p.a. 
+<li> pu­ainta	pey. p.a. 
 <BR>@390.6
-<li> pï¿½ï¿½ï¿½a		pey. p.a. 
+<li> påõña		pey. p.a. 
 <BR>@100.2
 <li> peyarnta	pey. p.a. 
 <BR>@110.20
@@ -756,14 +756,14 @@
 <BR>@80.11 
 <BR>@370.14 
 <BR>@390.16
-<li> pï¿½kiya	pey. p.a. 
+<li> pkiya	pey. p.a. 
 <BR>@100.16 
 <BR>@290.2 
 <BR>@350.3 
 <BR>@380.3
-<li> pï¿½ï¿½nta	pey. p.a. 
+<li> p©nta	pey. p.a. 
 <BR>@320.11
-<li> maï¿½utta         pey. p.a. 
+<li> mañutta         pey. p.a. 
 <BR>@100.6 
 <BR>@330.15 
 <BR>@340.19
@@ -777,13 +777,13 @@
 <li> mukanta	pey. p.a. 
 <BR>@220.16 
 <BR>@300.1
-<li> muï¿½itta	pey. p.a. 
+<li> muñitta	pey. p.a. 
 <BR>@220.6
-<li> muï¿½aiiya	pey. p.a. 
+<li> mu­aiiya	pey. p.a. 
 <BR>@400.7
-<li> mï¿½kiya	pey. p.a. 
+<li> må©kiya	pey. p.a. 
 <BR>@350.11
-<li> yï¿½tta		pey. p.a. 
+<li> yàtta		pey. p.a. 
 <BR>@220.7
 <li> vanta		pey. p.a. 
 <BR>@40.7 
@@ -795,21 +795,21 @@
 <BR>@110.8
 <li> valanta	pey. p.a. 
 <BR>@30.1
-<li>vaï¿½artta	pey. p.a. 
+<li>vaëartta	pey. p.a. 
 <BR>@310.8
-<li> vaï¿½arnta	pey. p.a. 
+<li> vaëarnta	pey. p.a. 
 <BR>@310.8v
 <li> virinta	pey. p.a. 
 <BR>@240.13
-<li> verï¿½iya	pey. p.a. 
+<li> verãiya	pey. p.a. 
 <BR>@40.14 
 <BR>@140.9
-<li> vï¿½ynta	pey. p.a. 
+<li> v›ynta	pey. p.a. 
 <BR>@280.2 
 <BR>@370.5
-<li> vitta		pey. p.a. 
+<li> vaitta		pey. p.a. 
 <BR>@60.13
-<li> vikiya	pey. p.a. 
+<li> vaikiya	pey. p.a. 
 <BR>@60.3
 </OL>
 
@@ -817,186 +817,186 @@
 
 
 <H3><A NAME="_PEneg">LIST of negative peyar eccam forms</A> found by Eva in AN neytal</H3>
-<P><B>NB (ERRATA, Eva): I had to add many items with final -ï¿½, which Eva classified as negative abs. (see below)</B>
+<P><B>NB (ERRATA, Eva): I had to add many items with final -à, which Eva classified as negative abs. (see below)</B>
 
 <OL>
-<LI> ï¿½kï¿½	PE_neg. 
+<LI> àkà	PE_neg. 
 <BR>@220.9
-<LI> ï¿½ï¿½ï¿½		PE_NEG.? 
+<LI> ñà		PE_NEG.? 
 <BR>@100.8
-<LI> uï¿½arï¿½	PE_neg. 
+<LI> uõarà	PE_neg. 
 <BR>@200.3
-<LI> keï¿½ï¿½a		PE_NEG. 
+<LI> keñàa		PE_NEG. 
 <BR>@220.3
-<LI> citiyï¿½	PE_neg. 
+<LI> citaiyà	PE_neg. 
 <BR>@110.19 
 <BR>@220.21
-<LI> cellï¿½	PE_neg. 
+<LI> cellà	PE_neg. 
 <BR>@340.6
-<LI> takï¿½		PE_NEG. 
+<LI> takà		PE_NEG. 
 <BR>@390.3
-<LI> taï¿½avï¿½	PE_NEG. 
+<LI> taõavà	PE_NEG. 
 <BR>@290.10
-<LI> tuï¿½cï¿½		PE_NEG. 
+<LI> tu¤cà		PE_NEG. 
 <BR>@270.11
-<LI> tï¿½yï¿½	PE_neg. 
+<LI> t›yà	PE_neg. 
 <BR>@370.5 
-<LI> nï¿½lï¿½	PE_neg. 
+<LI> nlà	PE_neg. 
 <BR>@220.14
-<LI> piï¿½aiyï¿½	PE_neg. 
+<LI> pi©aiyà	PE_neg. 
 <BR>@360.11
-<LI> puï¿½arï¿½	PE_neg. 
+<LI> puõarà	PE_neg. 
 <BR>@270.13
-<LI> pï¿½ï¿½ï¿½	PE_neg. 
+<LI> p›õà	PE_neg. 
 <BR>@300.13v
-<LI> maï¿½ï¿½ï¿½	PE_neg. 
+<LI> maõõà	PE_neg. 
 <BR>@30.13
-<LI> maï¿½avï¿½	PE_neg. 
+<LI> maõavà	PE_neg. 
 <BR>@290.11
-<LI> mï¿½ï¿½ï¿½	PE_neg. 
+<LI> màŸà	PE_neg. 
 <BR>@220.15
-<LI> varuttï¿½	PE_neg. 
+<LI> varuttà	PE_neg. 
 <BR>@90.6
-<LI> viï¿½aiyï¿½	PE_neg. 
+<LI> viëaiyà	PE_neg. 
 <BR>@400.22
 </OL>
 
 <H3><A NAME="_PEcomp">LIST of comparative peyar eccam forms</A> found by Eva in AN neytal</H3>
 <OL>
-<LI>aï¿½arntaï¿½ï¿½a	PE_COMP. 
+<LI>añarnta­­a	PE_COMP. 
 <BR>280.1
-<LI>olittaï¿½ï¿½a	PE_COMP. 
+<LI>olitta­­a	PE_COMP. 
 <BR>100.14
-<LI>kaï¿½ï¿½aï¿½ï¿½a	PE_COMP. 
+<LI>kaõña­­a	PE_COMP. 
 <BR>10.2 
 <BR>400.15, 
 <BR>400.16
-<LI>kaï¿½intaï¿½ï¿½a	PE_COMP. 
+<LI>ka©inta­­a	PE_COMP. 
 <BR>400.14
-<LI>pï¿½yntaï¿½ï¿½a	PE_COMP. 
+<LI>pàynta­­a	PE_COMP. 
 <BR>400.13
-<LI>mukittaï¿½ï¿½a	PE_COMP. 
+<LI>mukaitta­­a	PE_COMP. 
 <BR>240.11
-<LI>vï¿½rntaï¿½ï¿½a	PE_COMP. 
+<LI>vàrnta­­a	PE_COMP. 
 <BR>400.9
 </OL>
 
 <HR>
 
 
-<H3><A NAME="_VE1a">LIST viï¿½ai eccam forms (type 1a)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE1a">LIST vi­ai eccam forms (type 1a)</A> found by Eva in AN neytal</H3>
 <OL>
 <li> amarntu	VE1a. 
 <BR>@190.5 
 <BR>@220.14
-<li> amittu	VE1a. 
+<li> amaittu	VE1a. 
 <BR>@30.10
 <li> ayarntu	VE1a. 
 <BR>@330.2
-<li> [ariyuï¿½ï¿½u	+ VE1a. of uï¿½u 
+<li> [araiyuŸŸu	+ VE1a. of uŸu 
 <BR>@100.1]
-<li> alittu	VE1a. 
+<li> alaittu	VE1a. 
 <BR>@180.6
-<li>aviï¿½ntu	VE1a. 
+<li>avi©ntu	VE1a. 
 <BR>@400.23 
-<li> aï¿½intu	VE1a. 
+<li> a©intu	VE1a. 
 <BR>@210.5
-<li> ï¿½yntu	VE1a. 
+<li> àyntu	VE1a. 
 <BR>@340.3 
 <li> ikantu	VE1a. 
 <BR>@330.17
-<li> iï¿½ï¿½u	VE1a. 
+<li> iññu	VE1a. 
 <BR>@80.2v 
 <BR>@400.18?
-<li> iyintu	VE1a. 
+<li> iyaintu	VE1a. 
 <BR>@220.1 
 <BR>@400.8
-<li> iï¿½aittu	VE1a. 
+<li> i©aittu	VE1a. 
 <BR>@110.7
-<li> iï¿½antu	VE1a. 
+<li> iŸantu	VE1a. 
 <BR>@400.2
 <li> ã­Ÿu	VE1a. 
 <BR>@160.5
-<li> uï¿½uttu	VE1a. 
+<li> uñuttu	VE1a. 
 <BR>@200.3
-<li> uï¿½ï¿½u	VE1a. 
+<li> uõñu	VE1a. 
 <BR>@110.12 
 <BR>@360.5
 <li> uruttu	VE1a. 
 <BR>@150.3
-<li> uï¿½antu	VE1a. 
+<li> u©antu	VE1a. 
 <BR>@190.1 
 <BR>@280.8v 
-<li> uï¿½utu	VE1a. 
+<li> u©utu	VE1a. 
 <BR>@280.8
-<li> etirkoï¿½ï¿½u	VE1a. 
+<li> etirkoõñu	VE1a. 
 <BR>@300.15
-<li> eï¿½untu	VE1a. 
+<li> e©untu	VE1a. 
 <BR>@40.2 
 <BR>@310.15 
 <BR>@400.25
-<li> eï¿½ï¿½u	VE1a. 
+<li> e­Ÿu	VE1a. 
 <BR>@90.8 
-<li> kaï¿½ï¿½u	VE1a. 
+<li> kaõñu	VE1a. 
 <BR>@110.14 
 <BR>@400.23
-<li> kaluï¿½ntu	VE1a. 
+<li> kalu©ntu	VE1a. 
 <BR>@300.9v
-<li>kaviï¿½ntu	VE1a. 
+<li>kavi©ntu	VE1a. 
 <BR>@300.9
-<li> kurittu	VE1a. 
+<li> kuraittu	VE1a. 
 <BR>@310.15
-<li> kuï¿½ï¿½u	VE1a. 
+<li> kuŸŸu	VE1a. 
 <BR>@330.1
-<li>[kitoï¿½utu	+ VE1a. of toï¿½u 
+<li>[kaito©utu	+ VE1a. of to©u 
 <BR>@240.8]
-<li> koï¿½ï¿½u	VE1a. 
+<li> koõñu	VE1a. 
 <BR>@10.8 
 <BR>@20.12 
 <BR>@250.9 
 <BR>@280.12 
 <BR>@380.5
-<li> ciï¿½antu	
+<li> ciŸantu	
 <BR>@VE1a.160
 <BR>@.18 
 <BR>@170.6
 <li> ceytu	VE1a. 
 <BR>@40.9
-<li> ceï¿½ï¿½u	VE1a. 
+<li> ce­Ÿu	VE1a. 
 <BR>@50.9 
 <BR>@310.11v
 <li> corintu	VE1a. 
 <BR>@60.5
-<li> tuï¿½antu	VE1a. 
+<li> tuŸantu	VE1a. 
 <BR>@370.14
 <li> terintu	VE1a. 
 <BR>@280.6
-<li>toï¿½utu	VE1a. 
+<li>to©utu	VE1a. 
 <BR>@240.8
 <li> nayantu	VE1a. 
 <BR>@400.2
-<li> niï¿½ï¿½u	VE1a. 
+<li> ni­Ÿu	VE1a. 
 <BR>@130.1 
 <BR>@330.7
 <li> nivantu	VE1a. 
 <BR>@330.17
-<li> niï¿½aintu	VE1a. 
+<li> ni­aintu	VE1a. 
 <BR>@150.5 
 <BR>@180.8
-<li> noï¿½ï¿½u	VE1a. 
+<li> noõñu	VE1a. 
 <BR>@230.7
-<li> paï¿½intu	VE1a. 
+<li> paõintu	VE1a. 
 <BR>@330.3
-<li> payiï¿½ï¿½u	VE1a. 
+<li> payi­Ÿu	VE1a. 
 <BR>@50.6
-<li> pï¿½yntu	VE1a. 
+<li> pàyntu	VE1a. 
 <BR>@260.2 
 <BR>@340.20v
 <li> pukku	VE1a. 
 <BR>@280.9
 <li> pucittu	VE1a. 
 <BR>@400.4
-<li> puï¿½arntu	VE1a. 
+<li> puõarntu	VE1a. 
 <BR>@250.5 
 <BR>@330.3
 <li> purintu	VE1a. 
@@ -1007,15 +1007,15 @@
 <BR>@280.7
 <li> porutu	VE1a. 
 <BR>@130.8
-<li> maï¿½antu	VE1a. 
+<li> maõantu	VE1a. 
 <BR>@180.12
-<li> maï¿½aittu	VE1a. 
+<li> maŸaittu	VE1a. 
 <BR>@160.5
 <li> mukantu	VE1a. 
 <BR>@30.2
-<li> muntuï¿½uttu	VE1a. 
+<li> muntuŸuttu	VE1a. 
 <BR>@310.3
-<li> muyaï¿½ï¿½u	VE1a. 
+<li> muya­Ÿu	VE1a. 
 <BR>@220.6
 <li> melintu	VE1a. 
 <BR>@120.11
@@ -1031,140 +1031,140 @@
 <BR>@320.12 
 <BR>@340.1 
 <BR>@380.1 
-<li> viï¿½ï¿½u	VE1a. 
+<li> viññu	VE1a. 
 <BR>@340.22
 </OL>
 
 <HR>
 
 
-<H3><A NAME="_VE1b">LIST viï¿½ai eccam forms (type 1b)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE1b">LIST vi­ai eccam forms (type 1b)</A> found by Eva in AN neytal</H3>
 <OL>
-<li> acii	VE1b. 
+<li> acaii	VE1b. 
 <BR>@20.3 
 <BR>@120.11 
 <BR>@190.15
-<li> aï¿½ci	VE1b. 
+<li> a¤ci	VE1b. 
 <BR>@160.9
 <li> alki	VE1b. 
 <BR>@330.1
-<li> ï¿½ki	VE1b. 
+<li> àki	VE1b. 
 <BR>@50.5 
 <BR>@90.10
-<li> ï¿½ï¿½ï¿½i	VE1b. 
+<li> àññi	VE1b. 
 <BR>@280.3
-<li> ï¿½ï¿½i	VE1b. 
+<li> àñi	VE1b. 
 <BR>@20.8 
 <BR>@110.6 
 <BR>@370.4
-<li> iraï¿½ki	VE1b. 
+<li> iraïki	VE1b. 
 <BR>@330.7
-<li> uï¿½akki	VE1b. 
+<li> u©akki	VE1b. 
 <BR>@210.5
-<li> uï¿½ï¿½i	VE1b. 
+<li> uëëi	VE1b. 
 <BR>@210.7
 <li> eyti	VE1b. 
 <BR>@330.9
-<li> ï¿½ï¿½ki	VE1b. 
+<li> ›ïki	VE1b. 
 <BR>@120.8
-<li> ï¿½tti	VE1b. 
+<li> ›tti	VE1b. 
 <BR>@240.8
-<li> ï¿½ï¿½i	VE1b. 
+<li> ›Ÿi	VE1b. 
 <BR>@180.2 
 <BR>@190.2
-<li> oï¿½ukki	VE1b. 
+<li> oñukki	VE1b. 
 <BR>@230.14
-<li> otuï¿½ki	VE1b. ?
-<li> orï¿½i	VE1b. 
+<li> otuïki	VE1b. ?
+<li> orãi	VE1b. 
 <BR>@290.15
 <li> olki	VE1b. 
 <BR>@390.7
-<li> ï¿½ppi	VE1b. 
+<li> ppi	VE1b. 
 <BR>@20.2
-<li> ï¿½mpi	VE1b. 
+<li> mpi	VE1b. 
 <BR>@360.12
-<li> kaï¿½aii	VE1b. 
+<li> kañaii	VE1b. 
 <BR>@80.10 
 <BR>@180.4
-<li> kalaï¿½ki	VE1b. 
+<li> kalaïki	VE1b. 
 <BR>@250.12
-<li> kaviï¿½i	VE1b. 
+<li> kavi­i	VE1b. 
 <BR>@70.10
-<li> kaï¿½ippi	VE1b. 
+<li> ka©ippi	VE1b. 
 <BR>@120.4 
 <BR>@200.10 
 <BR>@340.2
-<li> kï¿½ï¿½ï¿½i	VE1b. 
+<li> kàññi	VE1b. 
 <BR>@160.10 
 <BR>@380.7
-<li> kuvii	VE1b. 
+<li> kuvaii	VE1b. 
 <BR>@110.7
-<li> kuï¿½ï¿½i	VE1b. 
+<li> ku©ãi	VE1b. 
 <BR>@30.6
-<li> kï¿½i	VE1b. 
+<li> kåŸi	VE1b. 
 <BR>@110.3 
 <BR>@110.22 
 <BR>@150.4 
-<li> keï¿½ï¿½i	VE1b. 
+<li> keõñi	VE1b. 
 <BR>@10.11v 
 <BR>@20.4
-<li> keï¿½ï¿½i	VE1b. 
+<li> ke©ãi	VE1b. 
 <BR>@180.12
-<li> koï¿½ï¿½i	VE1b. 
+<li> koëãi	VE1b. 
 <BR>@320.1
-<li> cï¿½ï¿½ï¿½i	VE1b. 
+<li> càŸŸi	VE1b. 
 <BR>@30.10 
 <BR>@140.3 
 <BR>@390.1
-<li> cï¿½ï¿½ï¿½i	VE1b. 
+<li> cåññi	VE1b. 
 <BR>@180.7
-<li> cï¿½rtti	VE1b. 
+<li> c›rtti	VE1b. 
 <BR>@160.4 
-<li> taï¿½ki	VE1b. 
+<li> taïki	VE1b. 
 <BR>@300.19
-<li> taï¿½ï¿½i	VE1b. 
+<li> ta©ãi	VE1b. 
 <BR>@290.6 
 <BR>@400.10
-<li> tï¿½kki	VE1b. 
+<li> tàkki	VE1b. 
 <BR>@190.11
 <li> tirutti	VE1b. 
 <BR>@300.7
-<li> tï¿½ï¿½ï¿½i	VE1b. 
+<li> tãõñi	VE1b. 
 <BR>@120.2
-<li> tuvaï¿½ï¿½i	VE1b. 
+<li> tuva­Ÿi	VE1b. 
 <BR>@30.4 
-<li> tuï¿½aii	VE1b. 
+<li> tu©aii	VE1b. 
 <BR>@80.5 
 <BR>@180.10
-<li> tï¿½kki	VE1b. 
+<li> tåkki	VE1b. 
 <BR>@40.6
-<li> tï¿½ï¿½ki	VE1b. 
+<li> tåïki	VE1b. 
 <BR>@20.6 
 <BR>@40.6v
-<li> tii	VE1b. 
+<li> taii	VE1b. 
 <BR>@20.9 
 <BR>@60.10 
 <BR>@370.1
-<li> nacii	VE1b. 
+<li> nacaii	VE1b. 
 <BR>@170.5 
-<li> nï¿½kki	VE1b. 
+<li> nãkki	VE1b. 
 <BR>@250.6 
 <BR>@310.1 
 <BR>@350.10 
 <BR>@360.13 
 <BR>@380.1
-<li> nï¿½ï¿½ki	VE1b. 
+<li> nãïki	VE1b. 
 <BR>@50.1 
-<li> nï¿½nti	VE1b. 
+<li> nãnti	VE1b. 
 <BR>@50.7 
 <BR>@80.2 
 <BR>@360.14 
 <BR>@400.18
-<li> nï¿½vi	VE1b. 
+<li> nãvi	VE1b. 
 <BR>@100.1 
 <BR>@240.10 
 <BR>@300.7
-<li> nï¿½kki	VE1b. 
+<li> nkki	VE1b. 
 <BR>@110.4 
 <BR>@110.23 
 <BR>@150.3 
@@ -1173,167 +1173,167 @@
 <BR>@270.7 
 <BR>@340.3 
 <BR>@390.12
-<li> payiï¿½ï¿½i	VE1b. 
+<li> payiŸŸi	VE1b. 
 <BR>@220.2
-<li> paï¿½ï¿½i	VE1b. 
+<li> paŸŸi	VE1b. 
 <BR>@110.24
-<li> paï¿½aii	VE1b. 
+<li> paŸaii	VE1b. 
 <BR>@170.7v
-<li> pï¿½rï¿½ï¿½ï¿½i	VE1b. 
+<li> pàràññi	VE1b. 
 <BR>@70.3 
 <BR>@200.9 
 <BR>@210.9
-<li> piï¿½iï¿½ï¿½i	VE1b. 
+<li> piëiŸŸi	VE1b. 
 <BR>@40.15
-<li> pï¿½ï¿½ï¿½i	VE1b. 
+<li> påññi	VE1b. 
 <BR>@400.11
 <li> peruki	VE1b. 
 <BR>@400.6
 <li> porunti	VE1b. 
 <BR>@110.15
-<li> pï¿½ki	VE1b. 
+<li> pki	VE1b. 
 <BR>@210.4 
 <BR>@400.16
-<li> maï¿½uki	VE1b. 
+<li> maŸuki	VE1b. 
 <BR>@220.2
-<li> mï¿½ï¿½ï¿½i	VE1b. 
+<li> màŸŸi	VE1b. 
 <BR>@210.11
-<li> muyaï¿½ki	VE1b. 
+<li> muyaïki	VE1b. 
 <BR>@100.3 
 <BR>@150.5
-<li> muï¿½aii	VE1b. 
+<li> mu­aii	VE1b. 
 <BR>@40.11
 <li> varunti	VE1b. 
 <BR>@140.14
-<li> vï¿½ï¿½ki	VE1b. 
+<li> vàïki	VE1b. 
 <BR>@30.7 
 <BR>@160.3 
 <BR>@380.5
-<li> virï¿½i	VE1b. 
+<li> virãi	VE1b. 
 <BR>@130.7
-<li> viï¿½aii	VE1b. 
+<li> vi­aii	VE1b. 
 <BR>@300.15
-<li> vï¿½ci	VE1b. 
+<li> vãci	VE1b. 
 <BR>@30.9 
 <BR>@140.6
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE1c">LIST viï¿½ai eccam forms (type 1c)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE1c">LIST vi­ai eccam forms (type 1c)</A> found by Eva in AN neytal</H3>
 <OL>
-<li> ï¿½ey	VE1c. 
+<li> ›ey	VE1c. 
 <BR>@300.6v
-<li> cï¿½ay	VE1c. 
+<li> càay	VE1c. 
 <BR>@250.10
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE2">LIST viï¿½ai eccam forms (type 2)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE2">LIST vi­ai eccam forms (type 2)</A> found by Eva in AN neytal</H3>
 <OL>
-<li> koï¿½ï¿½a		(ERRATA EVA who thought this as negative
+<li> koëàa		(ERRATA EVA who thought this as negative
 <BR>@260.9 
 <BR>@360.8
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE3">LIST viï¿½ai eccam forms (type 3)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE3">LIST vi­ai eccam forms (type 3)</A> found by Eva in AN neytal</H3>
 <OL>
-<li>aï¿½upu	VE3. 
+<li>aŸupu	VE3. 
 <BR>@40.8
-<li> iï¿½ipu	VE3. 
+<li> i©ipu	VE3. 
 <BR>@330.14
-<li> ï¿½rpu	VE3. 
+<li> årpu	VE3. 
 <BR>@330.14
-<li> kï¿½ï¿½ï¿½upu	VE3. 
+<li> kåññupu	VE3. 
 <BR>@340.17
-<li>[kiyaï¿½upu	+ VE3. of aï¿½u 
+<li>[kaiyaŸupu	+ VE3. of aŸu 
 <BR>@40.8]
-<li> cï¿½rpu	VE3. 
+<li> c›rpu	VE3. 
 <BR>@110.15 
 <BR>@190.7
-<li> pï¿½ypu	VE3. 
+<li> pàypu	VE3. 
 <BR>@340.20
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE4">LIST viï¿½ai eccam forms (type 4)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE4">LIST vi­ai eccam forms (type 4)</A> found by Eva in AN neytal</H3>
 <OL>
-<li> eï¿½inteï¿½a	VE4. 
+<li> eŸinte­a	VE4. 
 <BR>@190.12
-<li> ceï¿½ï¿½eï¿½a	VE4. 
+<li> ce­Ÿe­a	VE4. 
 <BR>@300.5 
-<li> paï¿½ï¿½eï¿½a	VE4. 
+<li> paññe­a	VE4. 
 <BR>@290.4 
-<li> vï¿½ytteï¿½a	VE4. 
+<li> vàytte­a	VE4. 
 <BR>@70.1
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE5">LIST viï¿½ai eccam forms (type 5)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE5">LIST vi­ai eccam forms (type 5)</A> found by Eva in AN neytal</H3>
 <OL>
-<LI> celï¿½iyar	VE5. 
+<LI> celãiyar	VE5. 
 <BR>@300.5
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE6">LIST viï¿½ai eccam forms (type 6)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE6">LIST vi­ai eccam forms (type 6)</A> found by Eva in AN neytal</H3>
 <OL>
-<LI> takiiya	VE6. 
+<LI> takaiiya	VE6. 
 <BR>@330.8
-<LI> paï¿½aiiya	?VE6. 
+<LI> paŸaiiya	?VE6. 
 <BR>@170.7v
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE7">LIST viï¿½ai eccam forms (type 7)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE7">LIST vi­ai eccam forms (type 7)</A> found by Eva in AN neytal</H3>
 <OL>
-<LI> iruppiï¿½	VE7. 
+<LI> iruppi­	VE7. 
 <BR>@280.10
-<LI> uï¿½iï¿½		VE7. 
+<LI> uŸi­		VE7. 
 <BR>@160.9
-<LI> kï¿½ï¿½iï¿½		VE7. 
+<LI> kàõi­		VE7. 
 <BR>@60.12
-<LI> celiï¿½		VE7. 
+<LI> celi­		VE7. 
 <BR>@30.15 
 <BR>@120.13 
 <BR>@370.8
-<LI> cï¿½ppiï¿½	VE7. 
+<LI> c›ppi­	VE7. 
 <BR>@340.13
-<LI> colliï¿½		VE7. 
+<LI> colli­		VE7. 
 <BR>@50.10
-<LI> taï¿½kiï¿½	VE7. 
+<LI> taïki­	VE7. 
 <BR>@110.13
-<LI> tï¿½ï¿½ï¿½iï¿½	VE7. 
+<LI> t­Ÿi­	VE7. 
 <BR>@300.14
-<LI> piriyiï¿½	VE7. 
+<LI> piriyi­	VE7. 
 <BR>@300.11
-<LI> puï¿½ariï¿½	VE7. 
+<LI> puõari­	VE7. 
 <BR>@230.9
-<LI> peyariï¿½	VE7. 
+<LI> peyari­	VE7. 
 <BR>@360.9
-<LI> peï¿½iï¿½		VE7. 
+<LI> peŸi­		VE7. 
 <BR>@300.22
-<LI> muï¿½aiyiï¿½	VE7. 
+<LI> mu­aiyi­	VE7. 
 <BR>@20.7
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE8a">LIST viï¿½ai eccam forms (type 8a)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE8a">LIST vi­ai eccam forms (type 8a)</A> found by Eva in AN neytal</H3>
 <OL>
 <LI> akala		VE8. 
 <BR>@360.13 
 <BR>@400.3
-<LI> aï¿½aiya		VE8. 
+<LI> añaiya		VE8. 
 <BR>@150.5
-<LI>[aï¿½ittaka	+ VE8. of taku 
+<LI>[aõittaka	+ VE8. of taku 
 <BR>@20.9]
 <LI> ayara		VE8. 
 <BR>@180.3 
@@ -1342,17 +1342,17 @@
 <BR>@330.14
 <LI> aviya		VE8. 
 <BR>@260.5
-<LI> aviï¿½a		VE8. 
+<LI> avi©a		VE8. 
 <BR>@150.9
-<LI> [aï¿½itaka 	2 + VE8. of taku 
+<LI> [a©itaka 	2 + VE8. of taku 
 <BR>@40.7]
-<LI> aï¿½iya		VE8. 
+<LI> a©iya		VE8. 
 <BR>@30.2
-<LI> aï¿½iya		VE8. 
+<LI> aŸiya		VE8. 
 <BR>@110.3
-<LI>[aï¿½puï¿½a	+ VE8. of uï¿½u 
+<LI>[a­puŸa	+ VE8. of uŸu 
 <BR>@290.7]
-<LI> ï¿½ka		VE8. 
+<LI> àka		VE8. 
 <BR>@110.9 
 <BR>@230.13 
 <BR>@350.8 
@@ -1360,16 +1360,16 @@
 <LI> iriya		VE8. 
 <BR>@190.8 
 <BR>@310.15
-<LI>[iï¿½puï¿½a	+ VE8. of uï¿½u 
+<LI>[i­puŸa	+ VE8. of uŸu 
 <BR>@300.20 
 <BR>@330.3]
-<LI> iï¿½aiya	VE8. 
+<LI> i­aiya	VE8. 
 <BR>@40.8
-<LI> uï¿½a		VE8. 
+<LI> uõa		VE8. 
 <BR>@290.14
-<LI> uï¿½aï¿½ka	VE8. 
+<LI> uõaïka	VE8. 
 <BR>@300.2
-<LI> uï¿½a		VE8. 
+<LI> uŸa		VE8. 
 <BR>@200.10 
 <BR>@230.16 
 <BR>@260.10 
@@ -1377,19 +1377,19 @@
 <BR>@300.19 
 <BR>@300.20 
 <BR>@330.3
-<LI> ï¿½ta		VE8. 
+<LI> åta		VE8. 
 <BR>@260.2
-<LI> etirkoï¿½a	VE8. 
+<LI> etirkoëa	VE8. 
 <BR>@350.13
 <LI> eyta		VE8. 
 <BR>@110.9
-<LI> eï¿½a		VE8. 
+<LI> e©a		VE8. 
 <BR>@90.4 
 <BR>@220.1
-<LI> eï¿½ï¿½a		irr. VE8. of eï¿½? 
+<LI> e­­a		irr. VE8. of e­? 
 <BR>@110.23 
 <BR>@380.2
-<LI> eï¿½a	VE8. 
+<LI> e­a	VE8. 
 <BR>@20.14 
 <BR>@20.16 
 <BR>@50.12 
@@ -1431,53 +1431,53 @@
 <BR>@390.11 
 <BR>@390.14 
 <BR>@400.2
-<LI> ï¿½muï¿½a	VE8. 
+<LI> ›muŸa	VE8. 
 <BR>@300.19
-<LI> oï¿½iya		VE8. 
+<LI> o©iya		VE8. 
 <BR>@370.13
-<LI> kï¿½ï¿½a		VE8. 
+<LI> kàõa		VE8. 
 <BR>@160.17
-<LI>[kï¿½ï¿½vara	+ VE8. 
+<LI>[kàõvara	+ VE8. 
 <BR>@250.4] 
-<LI>kaliï¿½a		VE8. 
+<LI>kali©a		VE8. 
 <BR>@310.5
-<LI> kaluï¿½a	VE8. 
+<LI> kalu©a	VE8. 
 <BR>@10.5 
 <BR>@120.6 
 <BR>@310.5v
-<LI> kiï¿½ara		VE8. 
+<LI> kiëara		VE8. 
 <BR>@260.1
-<LI> kï¿½mpa	VE8. 
+<LI> kåmpa	VE8. 
 <BR>@40.1 
 <BR>@150.10 
 <BR>@350.1
-<LI> kï¿½a		VE8. 
+<LI> kåŸa		VE8. 
 <BR>@300.19
-<LI> koï¿½a		VE8. 
+<LI> koëa		VE8. 
 <BR>@100.3 
 <BR>@340.3 
 <BR>@350.13
-<LI> citiya	VE8. 
+<LI> citaiya	VE8. 
 <BR>@120.8 
 <BR>@160.3 
 <BR>@320.12 
 <BR>@380.5
-<LI> ceï¿½iya		VE8. 
+<LI> ceŸiya		VE8. 
 <BR>@60.14 
 <BR>@260.5
-<LI> cï¿½ra		VE8. 
+<LI> c›ra		VE8. 
 <BR>@40.4 
 <BR>@250.7 
 <BR>@260.7
-<LI> tatiya	VE8. 
+<LI> tataiya	VE8. 
 <BR>@220.4
 <LI> tavira		VE8. 
 <BR>@190.14
-<LI> taï¿½ara		VE8. 
+<LI> taëara		VE8. 
 <BR>@40.6
-<LI> tï¿½a		VE8. 
+<LI> tà©a		VE8. 
 <BR>@180.7
-<LI> tï¿½ra		VE8. 
+<LI> tãra		VE8. 
 <BR>@110.8 
 <BR>@140.13 
 <BR>@340.1
@@ -1485,20 +1485,20 @@
 <BR>@370.11]
 <LI> tåŸŸa		VE8. 
 <BR>@70.6
-<LI> toliya	VE8. 
+<LI> tolaiya	VE8. 
 <BR>@270.10 
 <BR>@340.8
-<LI> tï¿½ï¿½ï¿½a		VE8. 
+<LI> t­Ÿa		VE8. 
 <BR>@260.6
-<LI> naï¿½uï¿½ka	VE8. 
+<LI> nañuïka	VE8. 
 <BR>@60.1
-<LI> nï¿½ï¿½a		VE8. 
+<LI> nàŸa		VE8. 
 <BR>@400.22
-<LI> niï¿½pa		VE8. 
+<LI> niŸpa		VE8. 
 <BR>@50.4
-<LI> nï¿½ï¿½ka		VE8. 
+<LI> nãïka		VE8. 
 <BR>@320.7
-<LI> paï¿½a		VE8. 
+<LI> paña		VE8. 
 <BR>@190.2 
 <BR>@210.3 
 <BR>@240.12 
@@ -1508,17 +1508,17 @@
 <BR>@400.16
 <LI> pariya	VE8. 
 <BR>@330.14v
-<LI> pï¿½rï¿½ï¿½ï¿½a	VE8. 
+<LI> pàràñña	VE8. 
 <BR>@310.7
-<LI> puraï¿½a 	VE8. 
+<LI> puraëa 	VE8. 
 <BR>@390.5
-<LI> pï¿½ï¿½a		VE8. 
+<LI> påõa		VE8. 
 <BR>@350.7
-<LI> peï¿½a		VE8. 
+<LI> peŸa		VE8. 
 <BR>@390.6
 <LI> porunta	VE8. 
 <BR>@190.11
-<LI> pï¿½la		VE8. 
+<LI> pla		VE8. 
 <BR>@30.8 
 <BR>@70.16 
 <BR>@120.1 
@@ -1532,13 +1532,13 @@
 <BR>@30.9
 <LI> malara	VE8. 
 <BR>@80.8
-<LI> maï¿½uka	VE8. 
+<LI> ma©uka	VE8. 
 <BR>@260.1
-<LI>[maï¿½uppaï¿½a	+ VE8. of paï¿½u 
+<LI>[maŸuppaña	+ VE8. of pañu 
 <BR>@210.3]
-<LI> maï¿½uka	VE8. 
+<LI> maŸuka	VE8. 
 <BR>@300.3
-<LI> maï¿½aiya	VE8. 
+<LI> maŸaiya	VE8. 
 <BR>@360.3
 <LI> mika		VE8. 
 <BR>@110.11 
@@ -1548,36 +1548,36 @@
 <BR>@400.10
 <LI> vara		VE8. 
 <BR>@330.3
-<LI> viï¿½a		VE8. 
+<LI> viña		VE8. 
 <BR>@150.1 
 <BR>@150.2
-<LI> vilaï¿½ka	VE8. 
+<LI> vilaïka	VE8. 
 <BR>@210.12
-<LI> viï¿½aiyï¿½ï¿½a	VE8. 
+<LI> viëaiyàña	VE8. 
 <BR>@250.5
-<LI> vï¿½ï¿½a		VE8. 
+<LI> vãña		VE8. 
 <BR>@340.12
-<LI>[veï¿½ippaï¿½a	+ VE8. of paï¿½u 
+<LI>[veëippaña	+ VE8. of pañu 
 <BR>@330.4]
 </OL>
 
 <HR>
 
-<H3><A NAME="_VE8b">LIST viï¿½ai eccam forms (type 8b)</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VE8b">LIST vi­ai eccam forms (type 8b)</A> found by Eva in AN neytal</H3>
 <OL>
-<LI> alippa	VE8b. 
+<LI> alaippa	VE8b. 
 <BR>@190.9
-<LI> aï¿½ippa	VE8b. 
+<LI> a©ippa	VE8b. 
 <BR>@190.12
-<LI> aï¿½uppa	VE8b. 
+<LI> aŸuppa	VE8b. 
 <BR>@80.9
-<LI> ï¿½rppa	VE8b. 
+<LI> àrppa	VE8b. 
 <BR>@350.12
 <LI>irippa	VE8b. 
 <BR>@400.4
 <LI> ukappa	VE8b. 
 <BR>@120.3
-<LI>uï¿½uppa	VE8b. 
+<LI>u©uppa	VE8b. 
 <BR>@10.5v
 <LI> oppa	VE8b. 
 <BR>@30.6 
@@ -1589,23 +1589,23 @@
 <BR>@400.11
 <LI> karappa	VE8b. 
 <BR>@260.8
-<LI> kï¿½ppa	VE8b. 
+<LI> kàppa	VE8b. 
 <BR>@130.6
-<LI> kurippa	VE8b. 140. 9
+<LI> kuraippa	VE8b. 140. 9
 <LI> ceppa	VE8b. 
 <BR>@330.10
-<LI> taï¿½appa	VE8b. 
+<LI> taõappa	VE8b. 
 <BR>@50.7
-<LI> tuï¿½appa	VE8b. 
+<LI> tuŸappa	VE8b. 
 <BR>@360.5
-<LI> teï¿½irppa	VE8b. 
+<LI> teëirppa	VE8b. 
 <BR>@140.6
 <LI> nivappa	VE8b. 
 <BR>@240.3 
 <BR>@350.4
-<LI> nï¿½ppa	VE8b. 
+<LI> nãppa	VE8b. 
 <BR>@350.4v
-<LI> maï¿½appa	VE8b. 
+<LI> maŸappa	VE8b. 
 <BR>@260.4
 <LI> varippa	VE8b. 
 <BR>@250.3
@@ -1613,45 +1613,45 @@
 
 <HR>
 
-<H3><A NAME="_VEneg">Negative viï¿½ai eccam forms</A> found by Eva in AN neytal</H3>
-<P><B>NB (ERRATA, Eva): I had to remove many items with final -ï¿½, which I view as peyar eccam (see above)</B>
+<H3><A NAME="_VEneg">Negative vi­ai eccam forms</A> found by Eva in AN neytal</H3>
+<P><B>NB (ERRATA, Eva): I had to remove many items with final -à, which I view as peyar eccam (see above)</B>
 <OL>
-<LI> ï¿½ï¿½tu		VE_neg. 
+<LI> à­àtu		VE_neg. 
 <BR>120.8 
 <BR>210.10 
-<LI> uï¿½ï¿½atu	VE_neg. 
+<LI> u©àatu	VE_neg. 
 <BR>140.2
-<LI> eï¿½ï¿½ï¿½tu	VE_neg. 
+<LI> e­­àtu	VE_neg. 
 <BR>20.14 
 <BR>50.8
-<LI> ï¿½vï¿½tu		VE_neg. 
+<LI> ›vàtu		VE_neg. 
 <BR>350.7
-<LI> karavï¿½tu	VE_neg. 
+<LI> karavàtu	VE_neg. 
 <BR>160.15
-<LI> kaï¿½aï¿½ï¿½tu	VE_neg. 
+<LI> ka©aŸàtu	VE_neg. 
 <BR>170.1
-<LI> kï¿½ï¿½tu	VE_neg. 
+<LI> kåŸàtu	VE_neg. 
 <BR>170.1
-<LI> cellï¿½tu	VE_neg. 
+<LI> cellàtu	VE_neg. 
 <BR>120.12
-<LI> tï¿½ï¿½kï¿½tu	VE_neg. 
+<LI> tàïkàtu	VE_neg. 
 <BR>300.10
-<LI> nillï¿½tu	VE_neg. 
+<LI> nillàtu	VE_neg. 
 <BR>110.20 
 <BR>180.9
-<LI> nï¿½ï¿½kï¿½tu	VE_neg. 
+<LI> nãïkàtu	VE_neg. 
 <BR>260.11 
-<LI> miciyï¿½tu     VE_neg. 
+<LI> micaiyàtu     VE_neg. 
 <BR>290.5
-<LI> moï¿½iyï¿½tu	VE_neg. 
+<LI> mo©iyàtu	VE_neg. 
 <BR>170.2
 </OL>
 
 <HR>
 
-<H3><A NAME="_VEcomp">Comparative viï¿½ai eccam forms</A> found by Eva in AN neytal</H3>
+<H3><A NAME="_VEcomp">Comparative vi­ai eccam forms</A> found by Eva in AN neytal</H3>
 <OL>
-<li> niï¿½ï¿½ï¿½ï¿½ku	VE1a. 
+<li> ni­Ÿàïku	VE1a. 
 <BR>@370.12
 </OL>
 
