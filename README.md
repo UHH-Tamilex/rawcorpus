@@ -2,7 +2,7 @@
 
 Sourced from:
 
-* Project Maduri (https://projectmaduri.org)
+* Project Madurai (https://projectmadurai.org)
 
 * GRETIL (https://gretil.sub.uni-goettingen.de/gretil.html) 
 
