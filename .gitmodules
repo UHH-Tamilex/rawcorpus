@@ -1,0 +1,3 @@
+[submodule "tfa-tamilnadu-epigraphy"]
+	path = tfa-tamilnadu-epigraphy
+	url = https://github.com/erc-dharma/tfa-tamilnadu-epigraphy.git
