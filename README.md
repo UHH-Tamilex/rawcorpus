@@ -2,6 +2,9 @@
 
 Sourced from:
 
+* Tamilex
+    * Kuṟuntokai — rough transcriptions reconstructed from the apparatus criticus
+
 * Project Madurai (https://projectmadurai.org)
 
 * GRETIL (https://gretil.sub.uni-goettingen.de/gretil.html) 
