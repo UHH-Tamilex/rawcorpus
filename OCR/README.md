@@ -6,6 +6,7 @@ Konkuvēḷir iyarriya Peruṅkatai, edited by U. V. Cāminātaiyar, 2nd ed. (Ce
 
 https://archive.org/details/perunkatai
 
+Currently being proofread and corrected by Kamalambal.
 
 ## maimkalai00matu.txt
 
