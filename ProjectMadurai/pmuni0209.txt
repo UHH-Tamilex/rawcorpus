@@ -1,170 +1,2404 @@
-[]
-
-------------------------------------------------------------------------
-
-cēkkiḻār aruḷiya
-tiruttoṇṭar purāṇam eṉṟa periya purāṇam
-mutaṟ kāṇṭam (paṉṉiraṇṭām tirumuṟi )
-carukkam 1 (tirumalic carukkam) &
-2 (tilli vāḻ antaṇar carukkam)
-
-periya purANam of cEkkizAr Canto 1, Carukkam -1 & 2 In tamil script, TSCII format
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-Acknowledgements:
-
-Our Sincere thanks go to Dr. Thomas Malten and Colleagues of the Univ.
-of Koeln, Germany
-for providing us with the transliterated/romanized version of the etext
-and giving us permission
-to release the TSCII version as part of Project Maduri etext
-collections.
-TSCII proof reading by tiruciRRampalam aRakaTTaLai, Kovilpatti,
-Tamilnadu.
-Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram Lausanne,
-Switzerland.
-This webpage presents the Etext in Tamil script but in Unicode encoding.
-To view the Tamil text correctly you need to set up the following:
-i). You need to have Unicode fonts contining Tamil Block (Latha,
-Arial Unicode MS, TSCu_Inimathi, Code2000, UniMyli,...) installed on
-your computer
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
-XP).
-ii)Use a browser that is capable of handling UTF-8 based pages
-(Netscape 6, Internet Explorer 5) with the Unicode Tamil font chosen as
-the default font for the UTF-8 char-set/encoding view.
-. In case of difficulties send an emil request to kalyan@geocities.com
-or kumar@vt.edu
-
-ṉa Project Maduri 1999 - 2004
-Project Maduri is an open, voluntary, worldwide initiative devoted to
-preparation of electronic texts of tamil literary works and to
-distribute them free on the Internet. Detils of Project Maduri are
-avilable at the website
-
-http://www.projectmaduri.org/
-You are welcome to freely distribute this file, provided this header
-page is kept intact.
-
-------------------------------------------------------------------------
-
-cēkkiḻār aruḷiya tiruttoṇṭar purāṇam eṉṟa periya purāṇam mutaṟ kāṇṭam
-
-uḷḷuṟi
-1. tirumalic carukkam
-
-1.00
-
-pāyiram
-
-(1-10)
-
-miṉpatippu
-
-1.01
-
-tirumalic ciṟappu
-
-(11-50)
-
-miṉpatippu
-
-1.02
-
-tiru nāṭṭuc ciṟappu
-
-(51-85)
-
-miṉpatippu
-
-1.03
-
-tirunakarac ciṟappu
-
-(86-135)
-
-miṉpatippu
-
-1.04
-
-tirukkūṭṭac ciṟappu
-
-(136-146)
-
-miṉpatippu
-
-1.05
-
-taṭuttāṭkoṇṭa purāṇam
-
-(147-349)
-
-miṉpatippu
-
-2. tilli vāḻ antaṇar carukkam
-
-2.01
-
-tilli vāḻ antaṇar purāṇam
-
-(350-359)
-
-miṉpatippu
-
-2.02
-
-tirunīlakaṇṭa nāyaṉār purāṇam
-
-(360-403)
-
-miṉpatippu
-
-2.03
-
-iyaṟpaki nāyaṉār purāṇam
-
-(404-439)
-
-miṉpatippu
-
-2.04
-
-iḷiyāṉ kuṭi māṟa nāyaṉār purāṇam
-
-(440 -466)
-
-miṉpatippu
-
-2.05
-
-meyp poruḷ nāyaṉār purāṇam
-
-(467-494)
-
-miṉpatippu
-
-2.06
-
-viṟaṉmiṇṭa nāyaṉār purāṇam
-
-(495 - 505)
-
-miṉpatippu
-
-2.07
-
-amar nīti nāyaṉār purāṇam
-
-(506-550)
-
-miṉpatippu
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-This webpage was last updated on 28 July 2004
-Please send your comments to the webmasters of this website.
+                                 [pmdr0.gif]
+                     ___________________________________
+
+                           cēkkiḻār aruḷiya
+            tiruttoṇṭar purāṇam eṉṟa periya purāṇam
+           mutaṟ kāṇṭam (paṉṉiraṇṭām tirumuṟai )
+                     carukkam 1 (tirumalaic carukkam) &
+                    2 (tillai vāḻ antaṇar carukkam)
+
+                         periya purANam of cEkkizAr
+                          Canto 1, Carukkam -1 & 2
+                        In tamil script, TSCII format
+                     ___________________________________
+     __________________________________________________________________
+
+   Acknowledgements:
+
+   Our Sincere thanks go to Dr. Thomas Malten and Colleagues of the Univ.
+   of Koeln, Germany
+   for providing us with the transliterated/romanized version of the etext
+   and giving us permission
+   to release the TSCII version as part of Project Madurai etext
+   collections.
+   TSCII proof reading by tiruciRRampalam aRakaTTaLai, Kovilpatti,
+   Tamilnadu.
+   Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram Lausanne,
+   Switzerland.
+   This webpage presents the Etext in Tamil script but in Unicode
+   encoding.
+   To view the Tamil text correctly you need to set up the following:
+   i). You need to have Unicode fonts containing Tamil Block (Latha,
+   Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on
+   your computer
+   and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
+   XP).
+   ii)Use a browser that is capable of handling UTF-8 based pages
+   (Netscape 6, Internet Explorer 5) with the Unicode Tamil font chosen as
+   the default font for the UTF-8 char-set/encoding view.
+   . In case of difficulties send an email request to
+   [1]kalyan@geocities.com or [2]kumar@vt.edu
+
+   ṉa Project Madurai 1999 - 2004
+   Project Madurai is an open, voluntary, worldwide initiative devoted to
+   preparation of electronic texts of tamil literary works and to
+   distribute them free on the Internet. Details of Project Madurai are
+   available at the website
+   [3]http://www.projectmadurai.org/
+   You are welcome to freely distribute this file, provided this header
+   page is kept intact.
+     __________________________________________________________________
+
+                           cēkkiḻār aruḷiya
+            tiruttoṇṭar purāṇam eṉṟa periya purāṇam
+                             mutaṟ kāṇṭam
+
+                                uḷḷuṟai
+                           1. tirumalaic carukkam
+
+             1.00 pāyiram               (1-10)    [4]miṉpatippu
+             1.01 tirumalaic ciṟappu    (11-50)   [5]miṉpatippu
+             1.02 tiru nāṭṭuc ciṟappu   (51-85)   [6]miṉpatippu
+             1.03 tirunakarac ciṟappu   (86-135)  [7]miṉpatippu
+             1.04 tirukkūṭṭac ciṟappu   (136-146) [8]miṉpatippu
+             1.05 taṭuttāṭkoṇṭa purāṇam (147-349) [9]miṉpatippu
+
+                     2. tillai vāḻ antaṇar carukkam
+
+      2.01 tillai vāḻ antaṇar purāṇam        (350-359)   [10]miṉpatippu
+      2.02 tirunīlakaṇṭa nāyaṉār purāṇam     (360-403)   [11]miṉpatippu
+      2.03 iyaṟpakai nāyaṉār purāṇam         (404-439)   [12]miṉpatippu
+      2.04 iḷaiyāṉ kuṭi māṟa nāyaṉār purāṇam (440 -466)  [13]miṉpatippu
+      2.05 meyp poruḷ nāyaṉār purāṇam        (467-494)   [14]miṉpatippu
+      2.06 viṟaṉmiṇṭa nāyaṉār purāṇam        (495 - 505) [15]miṉpatippu
+      2.07 amar nīti nāyaṉār purāṇam         (506-550)   [16]miṉpatippu
+                 __________________________________________
+
+  1.00 pāyiram
+
+   001 ulakelām uṇarn tōtaṟ kariyavaṉ;
+   nilavu lāviya nīrmali vēṇiyaṉ,
+   alakil cōtiyaṉ ampalattāṭuvāṉ;
+   malar cilampaṭi vāḻtti vaṇaṅkuvām. 1.0.1
+   002 ūṉ aṭainta uṭampiṉ piṟaviyē
+   tāṉ aṭainta uṟutiyaic cārumāl;
+   tēṉ aṭainta malarp poḻil tillaiyuḷ
+   mā naṭañ cey varatar poṟṟāḷ toḻa. 1.0.2 003 eṭukkum mākkatai iṉtamiḻc
+   ceyyuḷāy
+   naṭakkum mēṉmai namakkaruḷ ceytiṭat
+   taṭakkai aintuṭait tāḻcevi nīḷmuṭik
+   kaṭak kaḷiṟṟaik karuttuḷ iruttu vām. 1.0.3 004 mativaḷar caṭaimuṭi
+   maṉṟuḷārai muṉ
+   tuti ceyum nāyaṉmār tūya colmalarp
+   poti nalaṉ nukartaru puṉitar pēravai
+   viti muṟai ulakiṉil viḷaṅki velkavē. 1.0.4 005 aḷavilāta
+   perumaiyarākiya
+   aḷavilā aṭiyār pukaḻ kūṟukēṉ
+   aḷavu kūṭa uraippatu aritu āyiṉum
+   aḷavilācai turaippa aṟaikuvēṉ. 1.0.5 006 terivarum perumait tirut
+   toṇṭar tam
+   poruvarum cīr pukalaluṟṟēṉ muṟṟap
+   peruku teṇ kaṭal ūṟṟuṇ peru nacai
+   oru cuṇaṅkaṉai okkum takaimaiyēṉ. 1.0.6 007 ceppaluṟṟa poruḷiṉ
+   ciṟappiṉāl
+   ap poruṭku urai yāvarum koḷvar āl
+   ip poruṭku eṉ urai ciṟitu āyiṉum
+   meyp poruṭku uriyār koḷvar mēṉmaiyāl. 1.0.7 008 mēya iv urai koṇṭu
+   virumpumām
+   cēyavaṉ tirup pēr ampalam ceyya
+   tūya poṉṉaṇi cōḻaṉ nīṭūḻipār
+   āya cīr anapāyaṉ aracavai. 1.0.8 009 aruḷiṉ nīrmait tirut toṇṭaṟivarum
+   teruḷil nīritu cepputaṟkām eṉiṉ
+   veruḷil mey moḻi vāṉ niḻal kūṟiya
+   poruḷiṉ ākum eṉap pukalvām aṉṟē. 1.0.9 010 iṅkitaṉ nāmam kūṟiṉ iv
+   ulakattu muṉṉāḷ
+   taṅkiruḷ iraṇṭil mākkaḷ cintaiyuḷ cārntu niṉṟa
+   poṅkiya iruḷai ēṉaip puṟa iruḷ pōkku kiṉṟa
+   ceṅ katiravaṉ pōl nīkkum tirut toṇṭar purāṇam eṉpām. 1.0.10
+       [17]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+                           1. tirumalaic carukkam
+
+    1. 1 tirumalaic ciṟappu tirucciṟṟampalam
+
+   011 poṉṉiṉ veṇtiru nīṟu puṉainteṉap
+   paṉṉum nīḷpaṉi mālvaraip pālatu
+   taṉṉai yārkkum aṟivariyāṉ eṉṟum
+   maṉṉivāḻ kayilait tiru māmalai. 1.1.1
+   012 aṇṇal vīṟṟirukkap peṟṟatātaliṉ
+   naṇṇum mūṉṟu ulakun nāṉmaṟaikaḷum
+   eṇṇil mātavam ceyya vanteytiya
+   puṇṇiyan tiraṇṭu uḷḷatu pōlvatu. 1.1.2 013 nilavum eṇṇil talaṅkaḷum
+   nīṭoḷi
+   ilaku taṇtaḷir āka eḻuntatōr
+   ulakam eṉṉum oḷimaṇi vallimēl
+   malarum veṇmalar pōlvatam mālvarai. 1.1.3 014 mēṉmai nāṉmaṟai nātamum
+   viñcaiyar
+   kāṉa vīṇaiyiṉ ōcaiyum kāretir
+   tāṉa mākkaḷ muḻakkamum tāvil cīr
+   vāṉa tuntupi ārppum maruṅkelām. 1.1.4 015 paṉi vicumpil amarar
+   paṇintucūḻ
+   aṉita kōṭi aṇimuṭi mālaiyum
+   puṉita kaṟpakap poṉṉari mālaiyum
+   muṉivar añcali mālaiyum muṉṉeṉalām. 1.1.5 016 nīṭu tēvar nilaikaḷum
+   vēṇṭiṭiṉ
+   nāṭum aim perum pūtamum nāṭṭuva
+   kōṭi kōṭi kuṟaṭciṟu pūtaṅkaḷ
+   pāṭi āṭum parappatu pāṅkelām. 1.1.6 017 nāyakaṉ kaḻal cēvikka nāṉmukaṉ
+   mēya kālam alāmaiyiṉ mīṇṭavaṉ
+   tūyamālvaraic cōtiyil mūḻkiyoṉṟu
+   āya aṉṉamum kāṇā tayarkkumāl. 1.1.7 018 kātil veṇkuḻaiyōṉ kaḻal toḻa
+   neṭiyōṉ kālam pārttiruntum aṟiyāṉ
+   cōti veṇ kayilait tāḻvarai muḻaiyil
+   tutikkaiyōṉ ūrtiyaik kaṇṭu
+   mīteḻu paṇṭaic ceñ cuṭar iṉṟu
+   veṇcuṭar āṉatu eṉṟataṉ kīḻ
+   āti ēṉamatāy iṭakkaluṟṟāṉ
+   eṉṟataṉai vantaṇaitarum kaluḻaṉ. 1.1.8 019 arampaiyar āṭal muḻavuṭaṉ
+   maruṅkil aruvikaḷ etir etir muḻaṅka
+   varam peṟu kātal maṉattuṭaṉ teyva
+   matu malar irukaiyum ēnti
+   nirantaram miṭainta vimāṉa cōpāṉa
+   nīṭuyar vaḻiyiṉāl ēṟip
+   purantaraṉ mutalāṅ kaṭavuḷar pōṟṟap
+   polivatat tirumalaip puṟampu. 1.1.9 020 vēta nāṉmukaṉ māl purantaraṉ
+   mutalām viṇṇavar eṇṇilār maṟṟum
+   kātalāl miṭainta mutal perunt taṭaiyām katir maṇik kōpurattuḷḷār
+   pūta vētāḷap perum kaṇa nātar pōṟṟiṭap potuvil niṉṟu āṭum
+   nātaṉār āti tēvaṉār kōyil nāyakaṉ nanti emperumāṉ. 1.1.10 022 neṟṟiyiṉ
+   kaṇṇar nāṟ peruntōḷar nīṟaṇi mēṉiyar anēkar
+   peṟṟamēl koṇṭa tampirāṉ aṭiyār piññakaṉ taṉ aruḷ peṟuvār
+   maṟṟavark kellām talaimaiyām paṇiyum malakkaiyil curikaiyum pirampum
+   kaṟṟaivār caṭaiyāṉ aruḷiṉāl peṟṟāṉ kāppatak kayilaimāl varaitāṉ. 1.1.11
+   022 kaiyilmāṉ maḻuvar kaṅkaicūḻ caṭaiyil katiriḷam piṟainaṟuṅ kaṇṇi
+   aiyar vīṟṟirukkum taṉmaiyiṉālum aḷapparum perumaiyiṉālum
+   meyyoḷi taḻaikkum tūymaiyiṉālum veṉṟi veṇkuṭai anapāyaṉ
+   ceyyakōl apayaṉ tirumaṉattōṅkum tirukkayilāya nīḷcilampu. 1.1.12 023
+   aṉṉa taṉtirut tāḻvaraiyiṉ iṭattu
+   iṉṉa taṉmaiyaṉ eṉṟaṟiyāc civaṉ
+   taṉṉaiyē uṇarntu ārvam taḻaikkiṉṟāṉ
+   uṉṉārum cīr upamaṉ ṉiya muṉi. 1.1.13 024 yātavaṉ tuvaraikkiṟai yākiya
+   mātavaṉ muṭimēl aṭi vaittavaṉ
+   pūtanātaṉ poruvarun toṇṭiṉukku
+   āti antam ilāmai aṭaintavaṉ. 1.1.14 025 attar tanta aruṭ pāṟkaṭal uṇṭu
+   cittam ārntu teviṭṭi vaḷarntavaṉ
+   pattarāya muṉivar pallāyiravar
+   cutta yōkikaḷ cūḻa iruntuḻi. 1.1.15 026 aṅkaṇ ōroḷi āyira ñāyiṟu
+   poṅku pēroḷi pōṉṟu muṉ tōṉṟiṭat
+   tuṅka mātavar cūḻntiruntārelām
+   iṅki teṉkol aticayam eṉṟalum. 1.1.16 027 anti vāṉmati cūṭiya aṇṇaltāḷ
+   cintiyā uṇarntam muṉi teṉ ticai
+   vanta nāvalar kōṉpukaḻ vaṉtoṇṭaṉ
+   entaiyār aruḷāl aṇaivāṉ eṉa. 1.1.17 028 kaikaḷ kūppit toḻuteḻuntu at
+   ticai
+   meyyil āṉanta vāri viraviṭac
+   ceyya nīḷcaṭai māmuṉi celvuḻi
+   aiyam nīṅka viṉavuvōr antaṇar. 1.1.18 029 "campuviṉ aṭit tāmaraip
+   pōtalāl
+   empirāṉ iṟaiñcāyiḵteṉ" eṉat
+   "tampirāṉait taṉ uḷḷam taḻīyavaṉ
+   nampi ārūraṉ nāmtoḻum taṉmaiyāṉ". 1.1.19 030 eṉṟukūṟa iṟaiñci iyampuvār
+   veṉṟa pēroḷiyār cey viḻuttavam
+   naṉṟu kēṭka virumpum nacaiyiṉōm
+   iṉṟemakkurai ceytu aruḷ eṉṟalum. 1.1.20 031 uḷḷa vaṇṇam muṉivaṉ
+   uraiceyvāṉ
+   " veḷḷa nīrccaṭai meypporuḷākiya
+   vaḷḷal cāttum matumalar mālaiyum
+   aḷḷum nīṟum eṭuttaṇai vāṉuḷaṉ. 1.1.21 032 aṉṉavaṉ peyar ālāla cuntaraṉ
+   muṉṉam āṅku orunāḷ mutalvaṉ taṉakku
+   iṉṉa āmeṉum nāṇmalar koytiṭat
+   tuṉṉiṉāṉ nantavaṉac cūḻalil. 1.1.22 033 aṅku muṉṉarē āḷuṭai nāyaki
+   koṅku cēr kuḻaṟkām malar koytiṭat
+   tiṅkaḷ vāḷmukac cēṭiyar eytiṉār
+   poṅku kiṉṟa kaviṉuṭaip pūvaimār. 1.1.23 034 antamil cīr aṉintitai
+   āykuḻal
+   kanta mālaik kamaliṉi eṉpavar
+   kontu koṇṭa tirumalar koyvuḻi
+   vantu vāṉavar īcar aruḷ eṉa. 1.1.24 035 mātavam ceyta teṉticai
+   vāḻntiṭat
+   tītu ilāt tirut toṇṭat tokai tarap
+   pōtuvār avar mēlmaṉam pōkkiṭak
+   kātal mātarum kāṭciyil kaṇṇiṉār. 1.1.25 036 muṉṉam āṅkavaṉ moymmukai
+   nāṇmalar
+   eṉṉai āṭkoṇṭa īcaṉukkēyvaṉa
+   paṉ malar koytu cellap paṉimalar
+   aṉṉam aṉṉavaruṅ koṇṭakaṉṟa piṉ. 1.1.26 037 āti mūrtti avaṉtiṟam nōkkiyē
+   ' mātar mēl maṉam vaittaṉai teṉpuvi
+   mītu tōṉṟi am melliyalār uṭaṉ
+   kātal iṉpam kalantu aṇaivāy' eṉa. 1.1.27 038 kaikaḷ añcali kūppik
+   kalaṅkiṉāṉ
+   'ceyya cēvaṭi nīṅkuñ ciṟumaiyēṉ
+   maiyal māṉuṭamāy mayaṅkum vaḻi
+   aiyaṉē taṭuttāṇṭaruḷ cey' eṉa. 1.1.28 039 aṅkaṇāḷaṉ ataṟkaruḷ ceyta piṉ
+   naṅkai māruṭaṉ nampimaṟṟat ticai
+   taṅku tōṟṟattil iṉpuṟṟuc cāṟumeṉṟu
+   aṅkavaṉ ceyal ellām aṟaintaṉaṉ. 1.1.29 040 antaṇāḷarum āṅkatu kēṭṭavar
+   "panta māṉiṭap pāṟpaṭu teṉticai
+   inta vāṉticai eṭṭiṉum mēṟpaṭa
+   vanta puṇṇiyam yāte"ṉa mātavaṉ. 1.1.30 041 "poruvarun tavattāṉ pulik
+   kālaṉām
+   aru muṉi entai arccittum uḷḷatu
+   perumai cērperum paṟṟappuliyūr eṉṟu
+   orumaiyāḷar vaippām pati ōṅkumāl. 1.1.31 042 at tiruppatiyil namai
+   āḷuṭai
+   meyt tavakkoṭi kāṇa viruppuṭaṉ
+   attaṉ nīṭiya ampalattāṭum maṟṟu
+   it tiṟam peṟalām ticai etticai.. 1.1.32 043 pūtam yāvaiyiṉ uḷḷalar
+   pōteṉa
+   vēta mūlam veḷippaṭu mētiṉik
+   kātal maṅkai itaya kamalamām
+   mātor pākaṉār ārūr malarntatāl. 1.133 044 empirāṭṭi ivvēḻulaku īṉṟavaḷ
+   tampirāṉait taṉit tavattāl eytik
+   kampai āṟṟil vaḻipaṭu kāñci eṉṟu
+   umpar pōṟṟum patiyum uṭaiyatu. 1.1.34 045 naṅkaḷ nātaṉām nanti
+   tavañceytu
+   poṅku nīṭaruḷ eytiya poṟpatu
+   kaṅkai vēṇi malarak kaṉalmalar
+   ceṅkai yāḷar aiyāṟum tikaḻvatu. 1.1.35 046 tēcam ellām viḷakkiya teṉ
+   ticai
+   īcar tōṇi purattuṭaṉ eṅkaṇum
+   pūcaṉaikkup poruntum iṭam pala
+   pēcil atticai ovvā piṟaticai". 1.1.36 047 eṉṟu māmuṉi vaṉtoṇṭar
+   ceykaiyai
+   aṉṟu coṉṉa paṭiyāl aṭiyavar
+   toṉṟu cīrttirut toṇṭat tokaiviri
+   iṉṟu eṉ ātaravāl iṅkiyampukēṉ. 1.1.37 048 maṟṟitaṟkup patikam vaṉtoṇṭar
+   tām
+   puṟṟu iṭattu empurāṇar aruḷiṉāl
+   coṟṟa meyt tiruttoṇṭattokai eṉap
+   peṟṟa naṟpatikam toḻap peṟṟatām. 1.1.38 049 anta meyp patikattu
+   aṭiyārkaḷai
+   namtam nātaṉām nampiyāṇṭār nampi
+   punti ārap pukaṉṟa vakaiyiṉāl
+   vanta vāṟu vaḻāmal iyampuvām. 1.1.39 050 ulakam uyyavum caivam niṉṟu
+   ōṅkavum
+   alakil cīrnampi ārūrar pāṭiya
+   nilavu toṇṭartam kūṭṭam niṟaintuṟai
+   kulavu taṇpuṉal nāṭṭaṇi kūṟuvām. 1.1.40
+       [18]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  1.2 tirunāṭṭuc ciṟappu
+       tirucciṟṟampalam
+
+   051 pāṭṭiyal tamiḻurai payiṉṟa ellaiyuḷ
+   kōṭṭuyar paṉivaraik kuṉṟiṉ ucciyil
+   cūṭṭiya vaḷar pulic cōḻar kāviri
+   nāṭṭiyalpataṉai yāṉ navilal uṟṟaṉaṉ. 1.2.1
+   052 āti mātavamuṉi akattiyaṉ taru
+   pūta nīrk kamaṇṭalam poḻinta kāviri
+   mātar maṇ maṭantai poṉ mārpil tāḻntatōr
+   ōtanīr nittilat tāmam okkumāl. 1.2.2 053 caiyamāl varai payil talaimai
+   cāṉṟatu
+   ceyya pū makaṭku naṟ cevili pōṉṟatu
+   vaiyakam palluyir vaḷarttu nāṭoṟum
+   uyyavē curantaḷit tūṭṭum nīratu. 1.2.3 054 māliṉ unticcuḻi malar taṉ
+   mēl varum
+   cālpiṉāl palluyir tarum taṉ māṇpiṉāl
+   kōla naṟkuṇṭikai tāṅkuṅ koḷkaiyāl
+   pōlum nāṉmukaṉaiyum poṉṉi mānati. 1.2.41 055 tiṅkaḷ cūṭiya muṭic
+   cikarattu ucciyil
+   poṅku veṇ talai nurai porutu pōtalāl
+   eṅkaḷ nāyakaṉ muṭimicai niṉṟēyiḻi
+   kaṅkaiyām poṉṉiyām kaṉṉi nīttamē. 1.2.5 056 vaṇṇa nīḷ varai tara vanta
+   mēṉmaiyāl
+   eṇṇil pēr aṟaṅkaḷum vaḷarkkum īkaiyāl
+   aṇṇal pākattai āḷuṭaiya nāyaki
+   uṇṇekiḻ karuṇaiyiṉ oḻukkam pōṉṟatu. 1.2.6 057 vampulā malar nīrāl
+   vaḻipaṭṭuc
+   cempoṉ vārkarai eṇṇil civālayattu
+   empirāṉai iṟaiñcaliṉ īrm poṉṉi
+   umpar nāyakarkkaṉparum okkumāl. 1.2.7 058 vācanīr kuṭai maṅkaiyar
+   koṅkaiyil
+   pūcum kuṅkumamum puṉai cāntamum
+   vīcu teṇṭirai mītiḻantōṭum nīr
+   tēcuṭait teṉiṉum teḷivillatē. 1.2.8 059 māvirait teḻuntu ārppa varai
+   taru
+   pū viritta putumatup poṅkiṭa
+   vāviyiṟ poli nāṭu vaḷamtarak
+   kāvirip puṉal kālparantu ōṅkumāl. 1.2.9 060 oṇ tuṟait talai māmata kūṭu
+   pōy
+   maṇṭu nīrvayaluṭpuka vantetir
+   koṇṭa maḷḷar kurait takai ōcaipōy
+   aṇṭar vāṉattiṉ appuṟañ cārumāl. 1.2.10 061 mātar nāṟu paṟippavar
+   māṭciyum
+   cīta nīrmuṭi cērppavar ceykaiyum
+   otaiyār cey uḻunar oḻukkamum
+   kātal ceyvatōr kāṭci malintatē. 1.2.11 062 uḻuta cālmika vūṟit teḷinta
+   cēṟu
+   iḻutu ceyyiṉuḷ intirat teyvatam
+   toḻutu nāṟu naṭuvār tokutiyē
+   paḻutil kāviri nāṭṭiṉ parappelām. 1.2.12 063 maṇṭupuṉal parantavayal
+   vaḷarmutaliṉ curuḷviriyak
+   kaṇṭuḻavar pataṅkāṭṭak kaḷaikaḷaiyuṅ kaṭaiciyarkaḷ
+   taṇṭaraḷañ coripaṇilam iṭaṟiyiṭai taḷarntacaivār
+   vaṇṭalaiyum kuḻalalaiya maṭanaṭaiyiṉ varampaṇaivār. 1.2.13 064
+   ceṅkuvaḷai paṟittaṇivār karuṅkuḻalmēl ciṟai vaṇṭai
+   aṅkai malarkaḷaik koṭukaittayal vaṇṭum varavaḻaippār
+   tiṅkaḷnutal veyarvarumpac ciṟumuṟuval taḷavarumpap
+   poṅkumalark kamalattiṉ putumatuvāy maṭuttayarvār. 1.2.14 065 karumpalla
+   nelleṉṉak kamukalla karumpeṉṉac
+   karumpalli kuṭainīlat tukaḷalla pakalellām
+   arumpalla mulaiyeṉṉa amutalla moḻiyeṉṉa
+   varumpallāyiram kaṭaici maṭantaiyarkaḷ vayalellām. 1.2.15 066 kayalpāy
+   paintaṭa nantūṉ kaḻinta karuṅkuḻici
+   viyalvāy veḷvaḷait taraḷa malarvēri ulaippeytaṅ
+   kayalāmai aṭuppēṟṟi arakkāmpal neruppūtum
+   vayalmātar ciṟumakaḷir viḷaiyāṭṭu varampellām. 1.2.16 067 kāṭellām
+   kaḻaikkarumpu kāvellām kuḻaikkarumpu
+   māṭellām karuṅkuvaḷai vayalellām neruṅkuvaḷai
+   kōṭellām maṭaaṉṉam kuḷamellām kaṭalaṉṉa
+   nāṭellām nīrnāṭu taṉai ovvā nalamellām. 1.2.17 068 ālai pāypavar
+   ārppuṟum ōlamum
+   cōlai vāyvaṇṭu iraitteḻu cummaiyum
+   ñālam ōṅkiya nāṉmaṟai ōtaiyum
+   vēlai ōcaiyiṉ mikku viravumāl. 1.2.18 069 aṉṉam āṭum akaṉtuṟaip
+   poykaiyil
+   tuṉṉum mētipaṭiyat tutainteḻum
+   kaṉṉi vāḷai kamukiṉ mēṟpāyvaṉa
+   maṉṉu vāṉmicai vāṉavil pōlumāl. 1.2.19 070 kāviṉiṟ payiluṅkaḷi vaṇṭiṉam
+   vāviyiṟ paṭintu uṇṇum malar matu
+   mēvi attaṭam mīteḻap pāykayal
+   tāvi appoḻiliṟ kaṉi cāṭumāl 1.2.20 071 cālinīḷ vayaliṉ ōṅkit tannikar
+   iṉṟi mikku
+   vālitām veṇmai uṇmaik karuviṉām vaḷattavākic
+   cūlmutir pacalai koṇṭu curul virittāṉuk kaṉpar
+   āliṉa cintai pōla alarntaṉa katirkaḷellām. 1.2.21 072 pattiyiṉ pālar
+   ākip paramaṉukku āḷām aṉpar
+   tattamiṟ kūṭiṉārkaḷ talaiyiṉāl vaṇaṅku māpōl
+   moyttanīḷ pattiyiṉpāl mutirtalai vaṇaṅki maṟṟai
+   vittakar taṉmai pōla viḷaintaṉa cāliyellām. 1.2.22 073 aritaru cenneṟ
+   cūṭṭiṉ aṭukkiya aṭukkal cērppār
+   parivuṟat taṭinta paṉmīṉ paṭarneṭuṅ kuṉṟu ceyvār
+   curivaḷai corinta muttiṉ cuṭarp perum poruppu yāppar
+   virimalar kaṟṟai vēri poḻintiḻi veṟpu vaippār. 1.2.23 074 cāliyiṉ
+   kaṟṟai tuṟṟa taṭavarai mukaṭu cāyttuk
+   kālirum pakaṭu pōkkum karumperum pāṇṭil īṭṭam
+   āliya mukiliṉ kūṭṭam aruvaraic cimayac cāral
+   mēl valaṅ koṇṭu cūḻuṅ kāṭciyiṉ mikkataṉṟē. 1.2.24 075 vaiterin takaṟṟi
+   āṟṟi maḻaip peyal māṉat tūṟṟic
+   ceyya poṟ kuṉṟum vēṟu navamaṉic cilampum eṉṉak
+   kaiviṉai maḷḷar vāṉam karakkavākkiya nel kuṉṟāl
+   moyvarai ulakam pōlum muḷarinīr maruta vaippu. 1.2.25 076 aracukoḷ
+   kaṭaṉkaḷ āṟṟi mikutikoṇṭaṟaṅkaḷ pēṇip
+   paravaruṅ kaṭavuṭ pōṟṟik kuravarum viruntum paṇpiṉ
+   viraviya kiḷaiyum tāṅki viḷaṅkiya kuṭikaḷ ōṅki
+   varaipurai māṭamnīṭi malrntuḷa patikaḷ eṅkum. 1.2.26 077 karumpaṭu
+   kaḷamar ālaik kamaḻnaṟum pukaiyō mātar
+   curumpeḻa akilāl iṭṭa tūpamō yūpa vēḷvip
+   perum peyarc cālai tōṟum piṟaṅkiya pukaiyō vāṉiṉ
+   varuṅkaru mukilō cūḻva māṭamum kāvum eṅkum. 1.2.27 078 nāḷikērañ
+   cerunti naṟumalar narantam eṅkum
+   kōḷi cālanta mālam kuḷirmalark kuravam eṅkum
+   tāḷirum pōntu cantu taṇmalar nākam eṅkum
+   nīḷilai vañci kāñci niṟaimalark kōṅkam eṅkum. 1.2.28 079 cūta
+   pāṭalaṅkaḷ eṅkum cūḻ vaḻai ñāḻal eṅkum
+   cāti mālatikaḷ eṅkum taṇtaḷir naṟavam eṅkum
+   mātavi caraḷam eṅkum vakuḷa caṇpakaṅkaḷ eṅkum
+   pōtaviḻ kaitai eṅkum pūka puṉṉākam eṅkum. 1.2.29 080 maṅkala viṉaikaḷ
+   eṅkum maṇañ cey kampalaikaḷ eṅkum
+   paṅkaya vataṉam eṅkum paṇkaḷiṉ maḻalai eṅkum
+   poṅkoḷik kalaṉkaḷ eṅkum putu malarp pantar eṅkum
+   ceṅkayal paḻaṉam eṅkum tirumakaḷ uṟaiyuḷ eṅkum. 1.2.30 081 mēkamum
+   kaḷiṟum eṅkum vētamum kiṭaiyum eṅkum
+   yākamum caṭaṅkum eṅkum iṉpamum makiḻvum eṅkum
+   yōkamum tavamum eṅkum ūcalum maṟukum eṅkum
+   pōkamum polivum eṅkum puṇṇiya muṉivar eṅkum. 1.2.31 082 paṇtaru vipañci
+   eṅkum pāta cempañci eṅkum
+   vaṇṭaṟai kuḻalkaḷ eṅkum vaḷar icaik kuḻalkaḷ eṅkum
+   toṇṭar tam irukkai eṅkum colluva tirukkai eṅkum
+   taṇṭalai palavum eṅkum tātaki palavum eṅkum. 1.2.32 083 māṭu pōtakaṅkaḷ
+   eṅkum vaṇṭu pōtakaṅkaḷ eṅkum
+   pāṭum ammaṉaikaḷ eṅkum payilum ammaṉaikaḷ eṅkum
+   nīṭu kētaṉaṅkaḷ eṅkum niti nikētaṉaṅkaḷ eṅkum
+   tōṭu cūḻ mālai eṅkum tuṇaivar cūḻ mālai eṅkum. 1.2.33 084 vītikaḷ
+   viḻaviṉ ārppum virumpiṉar viruntiṉ ārppum
+   cātikaḷ neṟiyil tappā taṉayarum maṉaiyil tappā
+   nītiya puḷḷum māvum nilattirup puḷḷu māvum
+   ōtiya eḻuttām añcum uṟupiṇi varat tām añcum 1.2.34 085 naṟṟamiḻ
+   varaippiṉ ōṅku nāmpukaḻ tirunāṭu eṉṟum
+   poṟ taṭan tōḷāl vaiyam potuk kaṭintu iṉitu kākkum
+   koṟṟavaṉ anapāyaṉ poṟ kuṭai niḻal kuḷirvateṉṟāl
+   maṟṟataṉ perumai nammāl varampuṟa viḷampalāmō. 1.2.35
+       tirucciṟṟampalam
+       [19]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  1.3 tirunakarac ciṟappu
+       tirucciṟṟampalam
+
+   086 coṉṉa nāṭṭiṭait toṉmaiyil mikkatu
+   maṉṉu māmalarāḷ vaḻi paṭṭatu
+   vaṉṉiyāṟu mati poti ceñ caṭaic
+   ceṉṉiyār tiruvārūrt tirunakar. 1.3.1
+   087 vēta ōcaiyum vīṇaiyiṉ ōcaiyum
+   cōti vāṉavar tōttira ōcaiyum
+   mātar āṭal pāṭal maṇi muḻavōcaiyum
+   kīta ōcaiyum māyk kiḷaruṟṟavē. 1.3.2 088 palliyaṅkaḷ paranta oliyuṭaṉ
+   celva vītic ceḻumaṇit tēroli
+   mallal yāṉai oliyuṭaṉ māvoli
+   ellai iṉṟi eḻuntuḷa eṅkaṇum. 1.3.3 089 māṭa māḷikai cūḷikai maṇṭapam
+   kūṭa cālaikaḷ kōpuram teṟṟikaḷ
+   nīṭu cāḷara nīṭaraṅku eṅkeṇum
+   āṭal mātar aṇi cilam pārppaṉa . 1.3.4 090 aṅkuraikkeṉṉa aḷavap
+   patiyilār
+   taṅkaḷ māḷikaiyiṉ oṉṟu campuviṉ
+   paṅkiṉāḷ tiruc cēṭi paravaiyām
+   maṅkaiyār avatārañ cey māḷikai. 1.3.5 091 paṭarnta pēroḷip paṉmaṇi
+   vītitāṉ
+   iṭanta ēṉamum aṉṉamum tēṭuvār
+   toṭarntu koṇṭavaṉ toṇṭarkkut tūtu pōy
+   naṭanta centāmarai aṭi nāṟumāl. 1.3.6 092 ceṅkaṇ mātar teruvil teḷitta
+   ceṅ
+   kuṅkumattiṉ kuḻampai avar kuḻal
+   poṅku kōtaiyiṟ pūntukaḷ vīḻntuṭaṉ
+   aṅkaṇ mēvi aḷaṟu pularttumāl. 1.3.7 093 uḷḷam ār urukātavar ūr viṭai
+   vaḷḷalār tiruvārūr maruṅkelām
+   teḷḷum ōcait tiruppatikaṅkaḷ paiṅ
+   kiḷḷai pāṭuva kēṭpaṉa pūvaikaḷ. 1.3.8 094 viḷakkam mikka kalaṉkaḷ
+   viravalāl
+   tuḷakkil pēroliyāl tuṉṉu paṇṭaṅkaḷ
+   vaḷat toṭum palavāṟu maṭuttalāl
+   aḷakkar pōṉṟaṉa āvaṇa vītikaḷ. 1.3.9 095 āraṇaṅkaḷē alla maṟukiṭai
+   vāraṇaṅkaḷum māṟi muḻaṅkumāl
+   cīraṇaṅkiya tēvarkaḷē alāl
+   tōraṇaṅkaḷil tāmamum cūḻumāl. 1.3.10 096 tāḻnta vēṇiyar caivar
+   tapōtaṉar
+   vāḻnta cintai muṉivar maṟaiyavar
+   vīḻnta iṉpat tuṟaiyuḷ viravuvār
+   cūḻnta palvēṟu iṭattat tol nakar. 1.3.11 097 nila makaṭku aḻakār tiru
+   nīḷ nutal
+   tilakam oppatu cempiyar vāḻpati
+   malar makaṭku vaṇtāmarai pōlmalarn(tu)
+   alakil cīrttiruvārūr viḷaṅkumāl. 1.3.12 098 aṉṉa tol nakarukku aracu
+   āyiṉāṉ
+   tuṉṉu ceṅ katirōṉ vaḻit tōṉṟiṉāṉ
+   maṉṉu cīr anapāyaṉ vaḻi mutal
+   miṉṉum māmaṇip pūṇmaṉu vēntaṉē. 1.3.13 099 maṇṇil vāḻtaru maṉṉuyirkaṭku
+   ellām
+   kaṇṇum āviyum āmperuṅ kāvalāṉ
+   viṇṇuḷār makiḻvu eytiṭa vēḷvikaḷ
+   eṇṇilātaṉ māṇa iyaṟṟiṉāṉ . 1.3.14 100 koṟṟa āḻikuvalayañ cūḻntiṭac
+   cuṟṟu maṉṉar tiṟai kaṭai cūḻntiṭac
+   ceṟṟam nīkkiya cemmaiyiṉ meym maṉup
+   peṟṟa nītiyum taṉpeyar ākkiṉāṉ. 1.3.15 101 poṅku mā maṟaip puṟṟiṭaṅ
+   koṇṭavar
+   eṅkum āki iruntavar pūcaṉaikku
+   aṅkaṇ vēṇṭum nipantam ārāyntuḷāṉ
+   tuṅka ākamam coṉṉa muṟaimaiyāl. 1.3.16 102 aṟam poruḷ iṉpam āṉa aṟaneṟi
+   vaḻāmaṟ pulli
+   maṟaṅ kaṭintu aracar pōṟṟa vaiyakam kākkum nāḷil
+   ciṟanta nal tavattāl tēvi tirumaṇi vayiṟṟiṉ maintaṉ
+   piṟantaṉaṉ ulakam pōṟṟap pēr arik kuruḷai aṉṉāṉ. 1.3.17 103 tavamuyaṉṟu
+   aritil peṟṟa taṉi iḷaṅ kumaraṉ nāḷum
+   civa muyaṉṟaṭaiyun teyvak kalai pala tirunta ōtik
+   kavaṉavām puravi yāṉai tērp paṭait toḻilkaḷ kaṟṟup
+   pavamuyaṉṟatuvum pēṟē eṉavarum paṇpiṉ mikkāṉ. 1.3.18 104 aḷavil tol
+   kalaikaḷ muṟṟi arum peṟal tantai mikka
+   uḷamakiḻ kātal kūra ōṅkiya kuṇattāl nīṭi
+   iḷavaracu eṉṉum taṉmai eytutaṟkaṇiyaṉ āki
+   vaḷariḷam pariti pōṉṟu vāḻunāḷ orunāḷ maintaṉ. 1.3.19 105 tiṅkaḷ veṇ
+   kavikai maṉṉaṉ tiru vaḷar kōyil niṉṟu
+   maṅkul tōy māṭa vīti maṉṉiḷaṅ kumarar cūḻak
+   koṅkalar mālai tāḻnta kuṅkumam kulavu tōḷāṉ
+   poṅkiya tāṉai cūḻt tērmicaip polintu pōntāṉ. 1.3.20 106 paracu vantiyar
+   muṉ cūtar mākatar orupāl pāṅkar
+   virai naṟuṅ kuḻalār cintum veḷ vaḷai orupāl mikka
+   muracoṭu caṅkam ārppa muḻaṅkoli orupāl veṉṟi
+   araciḷaṅ kumaraṉ pōtum aṇi maṇi māṭa vīti. 1.3.21 107 taṉipperun
+   tarumam tāṉōr tayāiṉṟit tāṉai maṉṉaṉ
+   paṉippil cintaiyiṉil uṇmai pāṉmai cōtittāl eṉṉa
+   maṉittar taṉ varavu kāṇā vaṇṇam ōr vaṇṇam nal āṉ
+   puṉiṟṟiḷaṅ kaṉṟu tuḷḷip pōntatam maṟukiṉūṭē. 1.3.22 108 ampuṉiṟṟāviṉ
+   kaṉṟōr apāyattiṉ ūṭu pōkic
+   cempoṉiṉ tērkkāl mītu vicaiyiṉāl cellap paṭṭē
+   umpariṉ aṭaiyak kaṇṭaṅku urukutāy alamantōṭi
+   vempiṭum alaṟum cōrum meyn naṭukkuṟṟu vīḻum. 1.3.23 109 maṟṟutu kaṇṭu
+   maintaṉ "vantatiṅku apāyam" eṉṟu
+   coṟṟaṭumāṟi neñcil tuyaruḻantu aṟivu aḻintu
+   "peṟṟamum kaṉṟum iṉṟu eṉ uṇarvu eṉum perumai māḷac
+   ceṟṟa, eṉ ceykēṉ" eṉṟu tēriṉiṉ iṉṟu iḻintu vīḻntāṉ. 1.3.4 110 alaṟu pēr
+   āvai nōkki āruyir pataittuc cōrum
+   nilamicaik kaṉṟai nōkki neṭituyirttu iraṅki niṟkum
+   "malar talai ulakaṅ kākkum maṉuveṉum eṉ kōmāṉuk(ku)
+   ulakil ip paḻi vantu eytap piṟantavā oruvaṉ" eṉpāṉ. 1.3.5 111 "vanta ip
+   paḻiyai māṟṟum vakaiyiṉai maṟai nūl vāymai
+   antaṇar vititta āṟṟāl āṟṟuvatu aṟamē ākil
+   entai ītu aṟiyā muṉṉam iyaṟṟuvaṉ" eṉṟu maintaṉ
+   cintai ven tuyaram tīrppāṉtiru maṟaiyavar muṉ ceṉṟāṉ. 1.3.26 112
+   taṉṉuyirk kaṉṟu vīyat taḷarnta āt tariyātāki
+   muṉ neruppuyirttu vimmi mukattiṉil kaṇṇīr vāra
+   maṉṉuyir kākkuñ ceṅkōl maṉuviṉ poṟ kōyil vāyil
+   poṉṉaṇi maṇiyaic ceṉṟu kōṭṭiṉāl puṭaittatu aṉṟē. 1.3.27 113 paḻippaṟai
+   muḻakkō ārkkum pāvattiṉ oliyō vēntaṉ
+   vaḻittiru maintaṉ āvi koḷavarum maṟali ūrtik
+   kaḻuttaṇi maṇiyiṉ ārppō eṉṉattaṉ caṭaimuṉ kōḷāt
+   teḻitteḻum ōcai maṉṉaṉ cevippulam pukka pōtu. 1.3.28 114 āṅkatu kēṭṭa
+   vēntaṉ ariyaṇai iḻintu pōntu
+   pūṅkoṭi vāyil naṇṇak kāvalar etirē pōṟṟi
+   "īṅkitōr pacuvanteyti iṟaiva! niṉ koṟṟa vāyil
+   tūṅkiya maṇiyaik kōṭṭāl tuḷakkiyatu" eṉṟu coṉṉār. 1.3.29 115 maṉṉavaṉ
+   ataṉaik kēḷā varuntiya pacuvai nōkki
+   "eṉ itaṟkuṟṟatu" eṉpāṉ amaiccarai ikaḻntu nōkka
+   muṉṉuṟa nikaḻnta ellām aṟintuḷāṉ mutirnta kēḷvit
+   tol neṟi amaiccaṉ maṉṉaṉ tāḷiṇai toḻutu colvāṉ. 1.3.30 116 "vaḷava! niṉ
+   putalvaṉ āṅkōr maṇi neṭun tērmēl ēṟi
+   aḷavil tērttāṉai cūḻa araculān teruvil pōṅkāl
+   iḷaiyaāṉ kaṉṟu tērkkāl iṭaip pukuntu iṟantatāka
+   taḷarvuṟum ittāy vantu viḷaittatit taṉmai" eṉṟāṉ. 1.3.31 117 avvurai
+   kēṭṭa vēntaṉ āvuṟu tuyaram eyti
+   vevviṭan talaik koṇṭāṟ pōl vētaṉai akattu mik"kiṅku
+   iv viṉai viḷaintavāṟu" eṉṟu iṭaruṟum iraṅkum ēṅkum
+   "cevvitu eṉ ceṅkōl!" eṉṉum terumarum teḷiyum tēṟāṉ. 1.3.32 118
+   "maṉṉuyir purantu vaiyam potuk kaṭintu aṟattil nīṭum
+   eṉṉeṟi naṉṟāl" eṉṉum "eṉceytāl tīrum" eṉṉum
+   taṉṉiḷaṅ kaṉṟu kāṇāt tāymukaṅ kaṇṭu cōrum
+   an nilai aracaṉ uṟṟa tuyaram ōr aḷaviṟṟu aṉṟāl. 1.3.33 119 mantirikaḷ
+   atukaṇṭu maṉṉavaṉai aṭi vaṇaṅkic
+   "cintai taḷarntu aruḷuvatu maṟṟu itaṟku tīrvu aṉṟāl
+   kontalarttār maintaṉai muṉ kōvatai ceytārkku maṟai
+   antaṇarkaḷ vitittamuṟai vaḻiniṟuttal aṟam" eṉṟār. 1.3.34 120 "vaḻakku
+   eṉṟu nīr moḻintāl maṟṟatu tāṉ valippaṭṭu
+   kuḻakkaṉṟai iḻantalaṟum kōvuṟu nōy maruntāmō?
+   iḻakkiṉṟēṉ maintaṉai eṉṟu ellīruñ colliya ic
+   caḻakku iṉṟu nāṉ icaintāl taruman tāṉ caliyātō?" 1.3.35 121 mānilaṅ
+   kāvalaṉ āvāṉ maṉṉuyir kākkuṅ kālait
+   tāṉa taṉakku iṭaiyūṟu taṉṉāl taṉ paricaṉattāl
+   ūṉa miku pakait tiṟattāl kaḷvarāl uyir tammāl
+   āṉa payam aintum tīrttu aṟam kāppāṉ allaṉō? 1.3.36 122 "eṉ makaṉ cey
+   pātakattukku iruntavaṅkaḷ ceya icaintē
+   aṉṉiyaṉ ōr uyir koṉṟāl avaṉaik kolvēṉ āṉāl
+   toṉ maṉunūl toṭai maṉuvāl tuṭaippu uṇṭatu eṉum vārttai
+   maṉṉulakil peṟa moḻintīr! mantirikaḷ! vaḻakku" eṉṟāṉ. 1.3.37 123 eṉṟu
+   aracaṉ ikaḻtu uraippa etir niṉṟa mati amaiccar
+   "niṉṟa neṟi ulakiṉ kaṇ itu pōl muṉ nikaḻntatāl
+   poṉṟu vittal marapu aṉṟu maṟai moḻinta aṟam purital
+   toṉṟu toṭu neṟi yaṉṟō? tol nilaṅ kāvala!" eṉṟār. 1.3.38 124 av vaṇṇam
+   toḻuturaitta amaiccarkaḷai mukam nōkki
+   mey vaṇṇam terintu uṇarnta maṉu veṉṉum viṟal vēntaṉ
+   iv vaṇṇam paḻutu uraittīr eṉṟu eriyiṉ iṭait tōynta
+   cev vaṇṇak kamalam pōl mukam pulantu ceyirtturaippāṉ. 1.3.39 125
+   "avvuraiyil varuneṟikaḷ avai niṟka aṟaneṟiyiṉ
+   cevviya uṇmait tiṟam nīr cintai ceyātu uraikkiṉṟīr
+   ev ulakil ep peṟṟam ippeṟṟit tām iṭarāl
+   vevvuyirttuk kataṟi maṇi eṟintu viḻuntatu?" viḷampīr. 1.3.40 126
+   "pōṟṟicaittup purantaraṉ māl ayaṉ mutalōr pukaḻntu iṟaiñca
+   vīṟṟirunta perumāṉār mēviyuṟai tiruvārūrt
+   tōṟṟamuṭai uyir koṉṟāṉ ātaliṉāl tuṇiporuḷ tāṉ
+   āṟṟavumaṟṟu avaṟ kollum atuvēyām eṉa niṉaimiṉ". 1.3.41 127 eṉa moḻintu
+   "maṟṟu itaṉukku iṉi ituvē ceyal iv āṉ
+   maṉam aḻiyun tuyar akaṟṟa māṭṭātēṉ varuntum itu
+   taṉatuṟu pēr iṭar yāṉum tāṅkuvatē karumam" eṉa
+   aṉakaṉ arum poruḷ tuṇintāṉ amaiccarum añciṉar akaṉṟār. 1.3.42 128
+   maṉṉavaṉ taṉ maintaṉai aṅku aḻaittoru mantiri taṉṉai
+   "muṉṉivaṉai avvīti muraṇ tērkkāl ūrka" eṉa
+   aṉṉavaṉum atu ceyyātu akaṉṟu taṉ āruyir tuṟappat
+   taṉṉuṭaiya kulamakaṉait tāṉ koṇṭu maṟuṅkaṇaintāṉ. 1.3.43 129 oru
+   maintaṉ taṉ kulattukku uḷḷāṉ eṉpatum uṇarāṉ
+   tarumam taṉ vaḻiccelkai kaṭaṉ eṉṟu taṉ maintaṉ
+   marumam taṉ tērāḻi uṟaūrntāṉ maṉu vēntaṉ
+   arumanta aracāṭci aritō? maṟṟu eḷitō tāṉ. 1.3.44 130 taṇṇaḷi veṇ kuṭai
+   vēntaṉ ceyal kaṇṭu tariyātu
+   maṇṇavar kaṇmaḻai poḻintār vāṉavar pū maḻai corintār
+   aṇṇal avaṉ kaṇ etirē aṇi vīti maḻa viṭai mēl
+   viṇṇavarkaḷ toḻa niṉṟāṉ vīti viṭaṅkap perumāṉ. 1.3.45 131 caṭai
+   maruṅkil iḷam piṟaiyum taṉi viḻikkun tirunutalum
+   iṭam maruṅkil umaiyāḷum em maruṅkum pūtakaṇam
+   puṭai neruṅkum perumaiyum muṉ kaṇṭu aracaṉ pōṟṟi icaippa
+   viṭai maruvum perumāṉum viṟal vēntaṟku aruḷ koṭuttāṉ. 1.3.46 132 an
+   nilaiyē uyir pirinta āṉ kaṉṟum av aracaṉ
+   maṉṉurimait taṉikkaṉṟum mantiriyum uṭaṉ eḻalum
+   iṉṉa paricāṉāṉ eṉṟu aṟintilaṉ vēntaṉum yārkkum
+   muṉṉavaṉē muṉ niṉṟāl muṭiyāta poruḷ uḷatō? 1.3.47 133 aṭi paṇinta
+   tirumakaṉai ākamuṟa eṭuttu aṇaittu
+   neṭitu makiḻntu arun tuyaram nīṅkiṉāṉ nilavēntaṉ
+   maṭi curantu poḻitīm pāl varuṅ kaṉṟu makiḻntuṇṭu
+   paṭi naṉaiya varum pacuvum paruvaral nīṅkiyatu aṉṟē. 1.3.48 134 poṉ
+   tayaṅku matilārūrp pūṅkōyil amarntapirāṉ
+   veṉṟimaṉu vēntaṉukku vītiyilē aruḷkoṭuttu
+   ceṉṟu aruḷum perum karuṇait tiṟam kaṇṭu taṉ aṭiyārkku
+   eṉṟum eḷivarum perumai ēḻ ulakum eṭuttēttum. 1.3.49 135 iṉaiya vakai
+   aṟa neṟiyil eṇṇiṟantōrkku aruḷ purintu
+   muṉaivar avar makiḻntaruḷap peṟṟuṭaiya mūtūr mēl
+   puṉaiyum urai nammaḷavil pukalalān takaimaiyatō?
+   aṉaiya taṉuk kakamalarām aṟavaṉār pūṅkōyil. 1.3.50
+       tirucciṟṟampalam
+       [20]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  1.4 tirukkūṭṭac ciṟappu
+       tirucciṟṟampalam
+
+   136 pūta nāyakar puṟṟu iṭam koṇṭavar
+   āti tēvar amarnta pūṅ kōyiliṟ
+   cōti māmaṇi nīḷ cuṭar muṉṟil cūḻ
+   mūteyil tiru vāyil muṉṉāyatu. 1.4.1
+   137 pūvār ticai mukaṉ intiraṉ pū micai
+   mā vāḻ akalattu māl mutal vāṉavar
+   ōvātu evarum niṟaintu uḷḷatu
+   tēvā ciriyaṉ eṉun tiruk kāvaṇam. 1.4.2 138 arantai tīrkkum aṭiyavar
+   mēṉimēl
+   niranta nīṟṟu oḷiyāl niṟai tūymaiyāl
+   puranta añcu eḻuttu ōcai politalāl
+   paranta āyiram pāṟ kaṭal pōlvatu. 1.4.3 139 akila kāraṇar tāḷa
+   paṇivārkaḷ tām
+   akila lōkamum āḷaṟku uriyar eṉṟu
+   akila lōkattu uḷārkaḷ aṭaitaliṉ
+   akila lōkamum pōlvata taṉiṭai. 1.4.4 140 attar vēṇṭi muṉ āṇṭavar
+   aṉpiṉāl
+   meyt taḻaintu vitirppuṟu cintaiyār
+   kait tirut toṇṭu ceykaṭap pāṭṭiṉār
+   ittiṟattavar aṉṟiyum eṇṇilār. 1.4.5 141 mācilāta maṇi tikaḻ mēṉi mēl
+   pūcu nīṟu pōl uḷḷum puṉitarkaḷ
+   tēciṉāl et ticaiyum viḷaṅkiṉār
+   pēca oṇṇāp perumai piṟaṅkiṉār. 1.4.6 142 pūtam aintum nilaiyiṟ
+   kalaṅkiṉum
+   mātōr pākar malarttāḷ maṟappilār
+   ōtu kātal uṟaippiṉ neṟi niṉṟār
+   kōtilāta kuṇap peruṅ kuṉṟaṉār. 1.4.7 143 kēṭum ākkamum keṭṭa tiruviṉār
+   ōṭum cempoṉum okkavē nōkkuvār
+   kūṭum aṉpiṉil kumpiṭalē aṉṟi
+   vīṭum vēṇṭā viṟaliṉ viḷaṅkiṉār. 1.4.8 144 āram kaṇṭikai āṭaiyum
+   kantaiyē
+   pāram īcaṉ paṇi alātu oṉṟu ilār
+   īra aṉpiṉar yātuṅ kuṟaivu ilār
+   vīram eṉṉāl viḷampum takaiyatō? 1.4.9 145 vēṇṭu māṟu viruppuṟum
+   vēṭattar
+   tāṇṭavap perumāṉ taṉit toṇṭarkaḷ
+   nīṇṭa tol pukaḻār tam nilaimaiyai
+   īṇṭu vāḻttukēṉ eṉṉaṟintu ēttukēṉ. 1.4.10 146 inta mātavar kūṭṭattai
+   empirāṉ
+   antam il pukaḻ ālāla cuntaraṉ
+   cuntarat tirut toṇṭat tokait tamiḻ
+   vantu pāṭiya vaṇṇam urai ceyvām. 1.4.11
+       tirucciṟṟampalam
+       [21]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  1.5. taṭuttāṭkoṇṭa purāṇam
+       tirucciṟṟampalam
+
+   147 kaṅkaiyum matiyum pāmpum kaṭukkaiyum muṭi mēl vaitta
+   aṅkaṇar ōlai kāṭṭi āṇṭavar tamakku nāṭu
+   maṅkaiyar vataṉa cīta mati irumaruṅkum ōṭic
+   ceṅkayal kuḻaikaḷ nāṭum tirumuṉaippāṭi nāṭu . 1.5.1
+   148 perukiya nalattāl mikka perum tiru nāṭu taṉṉil
+   aru maṟaic caivam ōṅka aruḷiṉāl avataritta
+   maruviya tavattāl mikka vaḷampati vāymai kuṉṟāt
+   tiru maṟaiyavarkaḷ nīṭum tiru nāvalūrām aṉṟē. 1.5.2 149 māto oru
+   pākaṉārkku vaḻi vaḻi aṭimai ceyyum
+   vētiyar kulattuḷ tōṉṟi mēmpaṭu caṭaiyaṉārk(ku)
+   ētamil kaṟpiṉ vāḻkkai maṉai icai ñāṉiyārpāl
+   tītakaṉṟu ulakam uyyat tiru avatāram ceytār. 1.5.3 150 tampirāṉ
+   aruḷiṉālē tavattiṉāl mikkōr pōṟṟum,
+   nampi ārūrar eṉṟē nāmamum cāṟṟimikka
+   aim paṭai cataṅkai cātti aṇimaṇic cuṭṭic cātti
+   cem poṉ nāṇ araiyil miṉṉat teruvil tēr uruṭṭu nāḷil. 1.5.4 151 nara
+   ciṅka muṉaiyar eṉṉum nāṭu vāḻ aracar kaṇṭu
+   paravaruṅ kātalkūrap payantavar tampāl ceṉṟu
+   viraviya naṇpiṉālē vēṇṭiṉar peṟṟut taṅkaḷ
+   araciḷaṅ kumaraṟku ēṟpa aṉpiṉāl makaṉmai koṇṭār. 1.5.5 152 perumaicāl
+   aracar kātaṟ piḷḷaiyāyp piṉṉum taṅkaḷ
+   varu muṟai marapil vaiki vaḷarntu maṅkalam cey kōlattu
+   aru maṟai mun nūl cātti aḷavil tol kalaikaḷ āyntu
+   tiru mali ciṟappiṉ ōṅkic cīr maṇap paruvañ cērntār. 1.5.6 153 tantaiyār
+   caṭaiyaṉār tam taṉit tiru makaṟkuc caiva
+   antaṇar kulattuḷ taṅkaḷ arum perum marapukku ēṟpa
+   vanta tol ciṟappiṟ puttūrc caṭaṅkavi maṟaiyōṉ taṉpāl
+   cen tiru aṉaiya kaṉṉi maṇat tiṟañ ceppi viṭṭār. 1.5.7 154 kula mutal
+   aṟiviṉ mikkōr kōttira muṟaiyum tērntār
+   nala miku mutiyōr collac caṭaṅkavi naṉmai ēṟṟu
+   malar taru mukattaṉ āki maṇam puri ceyaliṉ vāymai
+   palavuṭaṉ pēci otta paṇpiṉāl aṉpu nērntāṉ 1.5.8 155 maṟṟavaṉ icainta
+   vārttai kēṭṭavar vaḷḷal taṉṉaip
+   peṟṟavar tampāl ceṉṟu coṉṉa piṉ peruku cintai
+   uṟṟatōr makiḻcci eyti maṇa viṉai uvantu cāṟṟik
+   koṟṟavar tiruvukku ēṟpak kuṟittu nāḷ ōlai viṭṭār. 1.5.9 156 maṅkalam
+   poliyac ceyta maṇa viṉai ōlai ēnti
+   aṅkayaṟ kaṇṇiṉārum āṭavar palarum īṇṭik
+   koṅkalarc cōlai mūtūr kuṟukiṉār etirē vantu
+   paṅkaya vataṉi mārum maintarum paṇintu koṇṭār. 1.5.10 157 makiḻcci yāl
+   maṇam mīk kūṟi maṅkala viṉaikaḷ ellām
+   pukaḻcciyāl polintu tōṉṟap pōṟṟiya toḻilarāki
+   ikaḻcci oṉṟāṉum iṉṟi ēntu pū mālaip pantar
+   nikaḻcciyiṉ maintar īṇṭi nīḷ muḷai cāttiṉārkaḷ. 1.5.11 158 maṇa
+   viṉaikku amainta ceykai mātiṉaip payantār ceyyat
+   tuṇar malark kōtait tāmac curumpaṇai tōḷiṉāṉaip
+   puṇar maṇat tirunāḷ muṉṉāṭ poruntiya vitiyiṉālē
+   paṇai muracu iyampa vāḻtti paim poṉ nāṇ kāppuc cērttār. 1.5.12 159 mā
+   maṟai viti vaḻāmal maṇattuṟaik kaṭaṉkaḷ āṟṟit
+   tū maṟai mūtūrk kaṅkul maṅkalan tuṉṟi ārppat
+   tēmaru toṭaiyal mārpaṉ tiru maṇak kōlam kāṇak
+   kāmuṟu maṉattāṉ pōlak katiravaṉ utayam ceytāṉ. 1.5.13 160 kālai cey
+   viṉaikaḷ muṟṟik kaṇita nūl pulavar coṉṉa
+   vēlai vantu aṇaiyum muṉṉar viti maṇakkōlam koḷvāṉ
+   nūl acaintu ilaṅku mārpiṉ nuṇaṅkiya kēḷvi mēlōṉ
+   mālaiyun tārum poṅka mañcaṉa cālai pukkāṉ. 1.5.14 161 vāca ney ūṭṭi
+   mikka malar virai aṭutta tū nīrp
+   pācaṉattu amainta pāṅkarp parumaṇi paimpoṉ tiṇkāl
+   ācaṉattu aṇi nīr āṭṭi aricaṉam cātti aṉpāl
+   īcaṉukku iṉiyāṉ mēṉi eḻil peṟa viḷakkiṉārkaḷ 1.5.15 162 akil virait
+   tūpam ēynta aṇi koḷ paṭṭāṭai cātti
+   mukil nuḻai matiyam pōlak kaivalāṉ muṉ kai cūḻnta
+   tukil koṭu kuñci īram pularttit taṉ tūya ceṅkai
+   ukir nuti muṟaiyil pōkki oḷir naṟuñcikaḻi ārttāṉ. 1.5.16 163 tūnaṟum
+   pacum karppūrac cuṇṇattāl vaṇṇap pōtil
+   āṉa taṇ paṉi nīr kūṭṭi amainta cantaṉac cēṟāṭṭi
+   māṉmatac cāntu tōynta maṅkalak kalavai cāttip
+   pāṉ maṟai munnūl miṉṉap pavittirañ ciṟanta kaiyāṉ. 1.5.17 164 tūmalarp
+   piṇaiyal mālai tuṇar iṇark kaṇṇik kōtai
+   tāmam eṉṟu iṉaiya vēṟu takutiyāl amaiyac cātti
+   mā maṇi aṇinta tūya vaḷar oḷi iruḷkāl cīkkum
+   nāma nīḷ kalaṉkaḷ cātti naṉmaṇak kōlam koṇṭāṉ. 1.5.18 165 maṉṉavar
+   tiruvum taṅkaḷ vaitikat tiruvum poṅka
+   naṉnakar viḻavu koḷḷa nampi ārūrar nātaṉ
+   taṉ aṭi maṉattuḷ koṇṭu takum tirunīṟu cāttip
+   poṉ aṇi maṇiyār yōkap puravimēṟ koṇṭu pōntār. 1.5.19 166 iyam pala
+   tuvaippa eṅkum ēttoli eṭuppa mātar
+   nayantu pallāṇṭu pōṟṟa nāṉmaṟai oliyiṉ ōṅka
+   viyantupār virumpa vantu viraviṉarkku iṉpañ ceytē
+   uyarnta vākaṉa yāṉaṅkaḷ micai koṇṭār uḻaiyarāṉār. 1.5.20 167 maṅkala
+   kīta nāta maṟaiyavar kuḻāṅkaḷōṭu
+   toṅkalum viraiyum cūḻnta maintarum tuṉṟic cūtum
+   paṅkaya mukaiyum cāyattup paṇaittu eḻun taṇiyil mikka
+   kuṅkuma mulaiyiṉārum paranteḻu koḷkait tāki. 1.5.21 168 aruṅkaṭi eḻunta
+   pōḻtiṉ ārtta veḷvaḷai kaḷālum
+   iruṅkuḻai makarat tālum ilaṅkoḷi maṇikaḷālum
+   neruṅkiya pīlic cōlai nīla nīrt taraṅkat tālum
+   karuṅkaṭal kiḷarntatu eṉṉak kāṭciyil polintatu aṉṟē. 1.5.22 169 neruṅku
+   tūriyaṅkaḷ ēṅka niraitta cāmaraikaḷ ōṅkap
+   peruṅkuṭai miṭaintu cellap piṇaṅku pūṅ koṭikaḷ āṭa
+   aruṅ kaṭi maṇam vantu eyta aṉṟu toṭṭu eṉṟum aṉpil
+   varuṅkula maṟaiyōr puttūr maṇam vanta puttūrāmāl. 1.5.23 170 niṟai
+   kuṭam tūpam tīpam neruṅku pālikaikaḷ ēnti
+   naṟai malar aṟuku cuṇṇam naṟum pori palavum vīci
+   uṟaimali kalavai cāntiṉ uṟupuṉal teḷittu vīti
+   maṟaiyavar maṭavār vaḷḷal maṇam etir koḷḷa vantār. 1.5.24 171 kaṇkaḷ
+   eṇṇilāta vēṇṭuṉṅ kāḷaiyaik kāṇa eṉpār
+   peṇkaḷil uyara nōṉ tāḷ caṭaṅkavi pētai eṉpār
+   maṇ kaḷi kūra vanta maṇam kaṇṭu vāḻntōm eṉpār
+   paṇkaḷil niṟainta kītam pāṭuvār āṭuvārkaḷ. 1.5.25 172 "āṇṭakai aruḷiṉ
+   nōkkiṉ veḷḷattuḷ alaintōm" eṉpār
+   "tāṇṭiya pariyum nampāl takutiyiṉ naṭantatu" eṉpār
+   "pūṇṭayaṅku ivaṉē kāṇum puṇṇiya mūrtti" eṉpār
+   īṇṭiya maṭavār kūṭṭam iṉṉaṉa icaippac ceṉṟār. 1.5.26 173 varumaṇak
+   kōlattu eṅkaḷ vaḷḷalār teḷḷum vācat
+   tirumaṇap pantar muṉpu ceṉṟu veṇ caṅkam eṅkum
+   perumaḻaik kulattiṉ ārppap parimicai iḻintu pēṇum
+   oru maṇat tiṟattiṉ aṅku nikaḻntatu moḻivēṉ uyntēṉ. 1.5.27 174 ālumaṟai
+   cūḻkayilaiyiṉ kaṇ aruḷ ceyta
+   cālumoḻiyāl vaḻi taṭuttu aṭimai koḷvāṉ
+   mēluṟa eḻuntu miku kīḻuṟa akaḻntu
+   mālum ayaṉukkum ariyār oruvar vantār. 1.5.28 175 kaṇṇiṭai karanta katir
+   veṇpaṭam eṉac cūḻ
+   puṇṇiya nutal puṉita nīṟu polivu eytat
+   taṇmati mutirntu katir cāyvatu eṉa mītē
+   veṇṇarai muṭittatu viḻuntiṭai caḻaṅka. 1.5.29 176 kātil aṇi kaṇṭikai
+   vaṭinta kuḻai tāḻac
+   cōti maṇi mārpiṉ acai nūliṉoṭu tōḷiṉ
+   mītu puṉai uttariya veṇ tukil nuṭaṅka
+   ātapam maṟaik kuṭai aṇikkaram viḷaṅka. 1.5.30 177 paṇṭicari kōvaṇa
+   uṭaip paḻamai kūrak
+   koṇṭatōr caḻaṅkaluṭai ārntu aḻaku koḷḷa
+   veṇ tukiluṭaṉ kucai muṭintu viṭu vēṇut
+   taṇṭorukai koṇṭu kaḻal taḷḷu naṭai koḷḷa. 1.5.31 178 moyttu vaḷar
+   pēraḻaku mūttavaṭi vēyō
+   attakaiya mūppeṉum ataṉ paṭiva mēyō
+   meytta neṟi vaitikam viḷainta muta஧lyō
+   ittakaiya vēṭam eṉa aiyamuṟa eyti . 1.5.32 179 vantutiru māmaṟai maṇat
+   toḻil toṭaṅkum
+   pantariṭai nampi etir paṉṉu capai muṉ niṉṟu
+   "inta moḻi kēṇmiṉ etir yāvarkaḷum" eṉṟāṉ
+   muntai maṟai āyiram moḻinta tiru vāyāṉ. 1.5.33 180 eṉṟurai cey
+   antaṇaṉai eṇṇil maṟai yōrum
+   maṉṟal viṉai maṅkala maṭaṅkal aṉai yāṉum
+   "naṉṟu umatu nalvaravu naṅkaḷ tavam eṉṟu ē
+   niṉṟatu ivaṇ nīr moḻimiṉ nīrmoḻivatu" eṉṟār. 1.5.34 181 piññakaṉum
+   nāvalar peruntakaiyai nōkki
+   eṉṉiṭaiyum niṉṉiṭaiyum niṉṟa icai vālyāṉ
+   muṉṉuṭaiyatu ōrperu vaḻakkiṉai muṭittē
+   niṉṉuṭaiya vēḷviyiṉai nī muyalti eṉṟāṉ. 1.5.35 182 neṟṟi viḻiyāṉ moḻiya
+   niṉṟa nikar illāṉ
+   " uṟṟatōr vaḻakku eṉiṭai nī uṭaiyatu uṇṭēl
+   maṟṟatu muṭittal alatu yāṉ vatuvai ceyyēṉ
+   muṟṟa itu colluka" eṉa ellai muṭivu illāṉ. 1.5.36 183 " āvatitu kēṇmiṉ
+   maṟaiyōr! eṉ aṭiyāṉ in
+   nāval nakar ūraṉ itu nāṉ moḻivatu" eṉṟāṉ
+   tēvaraiyum mālayaṉ mutaṉ tiruviṉ mikkōr
+   yāvaraiyum vēṟu aṭimai yāvuṭaiya emmāṉ. 1.5.37 184 eṉṟāṉ iṟaiyōṉ atu
+   kēṭṭavar em maruṅkum
+   niṉṟār iruntār "ivaṉ eṉ niṉaintāṉ kol" eṉṟu
+   ceṉṟār vekuṇṭār cirittār tiru nāval ūrāṉ
+   "naṉṟāl maṟaiyōṉ moḻi" eṉṟu etir nōkki nakkāṉ. 1.5.38 185 . nakkāṉ
+   mukam nōkki naṭuṅki nuṭaṅki yārkkum
+   mikkāṉ micaiyuttariyat tukil tāṅki mēl ceṉṟu
+   "ak kālam uṉ tantai taṉ tantai āḷōlai ītāl
+   ik kāriyattai nī iṉṟu cirittatu eṉ ēṭa" eṉṉa. 1.5.39 186 mācilā marapil
+   vanta vaḷḷal vētiyaṉai nōkki
+   nēcamuṉ kiṭanta cintai nekiḻcciyāl cirippu nīṅki
+   "ācil antaṇarkaḷ vēṟōr antaṇarkku aṭimai ātal
+   pēca iṉṟu uṉṉaik kēṭṭō m pittaṉō maṟaiyōṉ" eṉṟār 1.5.40 187 "pittaṉum
+   ākap piṉṉum pēyaṉum āka nī iṉṟu
+   ettaṉai tīṅku coṉṉāl yātu maṟṟu avaṟṟāl nāṇēṉ
+   attaṉaikku eṉṉai oṉṟum aṟintilai ākil niṉṟu
+   vittakam pēca vēṇṭām paṇi ceya vēṇṭum" eṉṟār 1.5.41 188 "kaṇṭatōr
+   vaṭivāl uḷḷam kātal ceytu urukā niṟkum
+   koṇṭatōr pitta vārttai kōpamum uṭaṉē ākkum
+   uṇṭorāḷ ōlai eṉṉum ataṉ uṇmai aṟivēṉ" eṉṟu
+   toṇṭaṉār "ōlai kāṭṭuka" eṉṟaṉar tuṇaivaṉārai. 1.5.42 189 "ōlai kāṭṭu"
+   eṉṟu nampi uraikka "nī ōlai kāṇal
+   pālaiyō avai muṉ kāṭṭap paṇiceyaṟ pālai" eṉṟa
+   vēlaiyil nāvalūrar vekuṇṭu mēl viraintu ceṉṟu
+   mālayaṉ toṭarā tāṉai valintu piṉtoṭaral uṟṟār. 1.5.43 190 āvaṇam
+   paṟikkac ceṉṟa aḷaviṉil antaṇāḷaṉ
+   kāvaṇattu iṭaiyē ōṭak kaṭitu piṉtoṭarntu nampi
+   pūvaṉattu avarai uṟṟār avaralāl puraṅkaḷ ceṟṟa
+   ēvaṇac cilaiyiṉārai yār toṭarntu eṭṭa vallār? 1.5.44 191 maṟaikaḷ āyiṉa
+   muṉ pōṟṟi malarppatam paṟṟi niṉṟa
+   iṟaivaṉait toṭarntu paṟṟi eḻutumāḷ ōlai vāṅki
+   aṟai kaḻal aṇṇal "āḷāy antaṇar ceytal eṉṉa
+   muṟai"S eṉak kīṟiyiṭṭār muṟaiyiṭṭāṉ muṭivilātāṉ. 1.5.45 192 arumaṟai
+   muṟaiyiṭṭiṉṉum aṟivataṟku aṟiyāṉ paṟṟi
+   oru muṟai muṟaiyō eṉṉa uḻai niṉṟār vilakki "intap
+   peru muṟai ulakil illā neṟi koṇṭu piṇaṅku kiṉṟa
+   tiru maṟai muṉivarē eṅkuḷīr ceppum" eṉṟār. 1.5.46 193 eṉṟalum niṉṟa
+   aiyar "iṅkuḷēṉ iruppuñ cēyatu
+   aṉṟinta veṇṇey nallūr atuniṟka aṟattāṟu iṉṟi
+   vaṉṟiṟal ceytu eṉ kaiyil āvaṇam valiya vāṅki
+   niṉṟivaṉ kiḻittut tāṉē nirappiṉāṉ aṭimai" eṉṟāṉ. 1.5.47 194 kuḻai maṟai
+   kātiṉāṉai kōl ārūrar nōkkip
+   paḻaiya maṉṟāṭi pōlum ivaṉ eṉṟu paṇpiṉ mikka
+   viḻaivuṟu maṉamum poṅka "veṇṇey nallūrāyēl uṉ
+   piḻai neṟi vāḻkkai āṅkē pēca nī pōtāy" eṉṟār. 1.5.48 195 vētiyaṉ
+   ataṉaik kēṭṭu "veṇṇey nallūrilē nī
+   pōtiṉum naṉṟu maṟṟap puṉita nāṉmaṟaiyōr muṉṉar
+   ātiyil mūla ōlai kāṭṭi nī aṭimai ātal
+   cātippaṉ" eṉṟu muṉṉē taṇṭumuṉ tāṅkic ceṉṟāṉ. 1.5.49 196 cellu nāṉ
+   maṟaiyōṉ taṉpiṉ tirimukak kāntañ cērnta
+   vallirumpaṇaiyu mā pōl vaḷḷalum kaṭitu ceṉṟāṉ
+   ellaiyil cuṟṟattārum "itu eṉṉām" eṉṟu cella
+   nalla antaṇarkaḷ vāḻum veṇṇey nallūrai naṇṇi. 1.5.50 197 vēta pārakariṉ
+   mikkār viḷaṅku pēr avai muṉ ceṉṟu
+   nātaṉām maṟaiyōṉ collum "nāvalūr ārūraṉ taṉ
+   kātal eṉ aṭiyāṉ eṉṉak kāṭṭiya ōlai kīṟi
+   mūtaṟivīr muṉ pōntāṉitu maṟṟeṉ muṟaipāṭu" eṉṟāṉ. 1.5.51 198 antaṇar
+   avaiyil mikkār "maṟaiyavar aṭimai ātal
+   inta mā nilattil illai eṉ coṉṉāy aiyar" eṉṟār
+   vantavāṟicaivē aṉṟō vaḻakku ivaṉ kiḻitta ōlai
+   tantai taṉ tantai nērntatu eṉṟaṉaṉ taṉiyāy niṉṟāṉ. 1.5.52 199
+   "icaiviṉāl eḻutum ōlai kāṭṭiṉāṉ ākil iṉṟu
+   vicaiyiṉāl valiya vāṅkik kiḻippatu veṟṟi āmō?
+   tacaiyelām oṭuṅka mūttāṉ vaḻakkiṉai cārac coṉṉāṉ
+   acaivil ārūrar eṇṇam eṉ" eṉṟār avaiyilmikkār. 1.5.53 200 "aṉaittu nūl
+   uṇarntīr! āti caivaṉ eṉṟu aṟivīr! eṉṉait
+   taṉakku vēṟu aṭimai eṉṟu iv antaṇaṉ cātittāṉēl
+   maṉattiṉāl uṇartaṟku eṭṭā māyai eṉ collukēṉ yāṉ
+   eṉakku itu teḷiya oṇṇātu eṉṟaṉaṉ" eṇṇam mikkāṉ. 1.5.54 201 avvurai
+   avaiyiṉ muṉpu nampi ārūrar collac
+   cevviya maṟaiyōr niṉṟa tiru maṟai muṉiyai nōkki
+   "ivvulakiṉ kaṇ nī iṉṟu ivarai uṉ aṭimai eṉṟa
+   vevvurai emmuṉpu ēṟṟa vēṇṭum" eṉṟu uraittu mīṇṭum. 1.5.55 202 āṭciyil
+   āvaṇattil aṉṟi maṟṟu ayalār taṅkaḷ
+   kāṭciyil mūṉṟil oṉṟu kāṭṭuvāy eṉṉa "muṉṉē
+   mūṭciyiṟ kiḻitta ōlai paṭiyōōlai mūla ōlai
+   māṭciyil kāṭṭa vaittēṉ" eṉṟaṉaṉ māyai vallāṉ. 1.5.56 203 vallaiyēl
+   kāṭṭiṅku eṉṉa maṟaiyavaṉ vali ceyyāmal
+   colla nīr vallīr ākil kāṭṭuvēṉ eṉṟu collac
+   celva nāṉ maṟaiyōy! nāṅkaḷ tīṅkuṟa oṭṭō m eṉṟār
+   allal tīrttu āḷa niṉṟār āvaṇam koṇṭu ceṉṟār. 1.5.57 204 iruḷ maṟai
+   miṭaṟu oṉ kaiyil ōlai kaṇṭu avaiyōr ēva
+   aruḷ peṟu kāraṇattāṉum āvaṇam toḻutu vāṅkic
+   curuḷ peṟu maṭiyai nīkki virittaṉaṉ toṉmai nōkkit
+   teruḷ peṟu capaiyōr kēṭpa vācakam ceppu kiṉṟāṉ. 1.5.58 205 aru maṟai
+   nāval āti caivaṉ ārūraṉceykai
+   peru muṉi veṇṇey nallūrp pittaṉukkiyāṉum eṉpāl
+   varu muṟai marapuḷōrum vaḻit toṇṭu ceytaṟku ōlai
+   irumaiyāl eḻuti nērntēṉ itaṟku ivai eṉ eḻuttu. 1.5.59 206 vācakam kēṭṭa
+   piṉṉar maṟṟu mēl eḻuttu iṭṭārkaḷ
+   ācilā eḻuttai nōkki avaiyokkum eṉṟa piṉṉar
+   mācilā maṟaiyōr "aiyā! maṟṟuṅkaḷ pēraṉār tam
+   tēcuṭai eḻuttē ākil teḷiyap pārttu aṟimiṉ" eṉṟār. 1.5.60 207 antaṇar
+   kūṟa "iṉṉum āḷ ōlai ivaṉē kāṇpāṉ
+   tantai taṉ tantai tāṉ vēṟu eḻutukaic cāttuṇṭākil
+   inta āvaṇattiṉōṭum eḻuttu nīr oppu nōkki
+   vantatu moḻimiṉ" eṉṟāṉ valiya āṭkoḷḷum vaḷḷal. 1.5.61 208 tiraṇṭa mā
+   maṟaiyōr tāmum tiru nāvalūrar kō muṉ
+   maruṇṭatu teḷiya maṟṟa maṟaiyavaṉ eḻuttāl ōlai
+   araṇ taru kāppil vēṟu oṉṟu aḻaittu uṭaṉ oppu nōkki
+   "iraṇṭum ottiruntatu eṉṉē! iṉic ceyal illai" eṉṟār 1.5.62 209 "nāṉ
+   maṟai muṉiva ṉārkku nampi ārūrar tōṟṟīr
+   pāṉmaiyiṉ ēval ceytal kaṭaṉ" eṉṟu paṇpil mikka
+   mēṉmaiyōr viḷampa nampi "viti muṟai ituvē ākil
+   yāṉ itaṟku icaiyēṉ eṉṉa icaiyumō" eṉṟu niṉṟār. 1.5.63 210 tirumiku
+   maṟaiyōr niṉṟa ceḻumaṟai muṉiyai nōkki
+   "arumuṉi! nīmuṉ kāṭṭum āvaṇam ataṉil eṅkaḷ
+   perumaicēr patiyēyākap pēciyatumakku ivvūril
+   varumuṟai maṉaiyum nīṭu vāḻkkaiyum kāṭṭuka" eṉṟār. 1.5.64 211 peruvarum
+   vaḻakkāl veṉṟa puṇṇiya muṉivar eṉṉai
+   oruvarum aṟiyīrākil 'pōtum' eṉṟuraittuc cūḻnta
+   perumaṟaiyavar kuḻāmum nampiyum piṉpu cellat
+   tiruvaruṭ tuṟaiyē pukkār kaṇṭilar tikaittu niṉṟār. 1.5.65 212 empirāṉ
+   kōyil naṇṇa ilaṅku nūl mārpar "eṅkaḷ
+   nampar taṅkōyil pukkatu eṉkolō" eṉṟu nampi
+   tamperu viruppiṉōṭu taṉit toṭarntu aḻaippa mātō(ṭu)
+   umpariṉ viṭai mēl tōṉṟi avar tamakku uṇarttal uṟṟār. 1.5.66 213 "muṉpu
+   nī namakkut toṇṭaṉ muṉṉiya vēṭkai kūrap
+   piṉpu nam ēvalālē piṟantaṉai maṇṇiṉ mītu
+   tuṉpuṟu vāḻkkai niṉṉait toṭarvaṟat toṭarntu vantu
+   naṉpula maṟaiyōr muṉṉar nām taṭuttāṇṭō m" eṉṟār. 1.5.67 214 eṉṟu eḻum
+   ōcai kēḷā īṉṟaāṉ kaṉaippuk kēṭṭa
+   kaṉṟu pōl kataṟi nampi karacaraṇ āti aṅkam
+   tuṉṟiya puḷakam ākat toḻuta kai talai mēl āka
+   "maṉṟuḷīr ceyalō vantu valiya āṭ koṇṭatu" eṉṟār. 1.5.68 215 eṇṇiya ōcai
+   aintum vicumpiṭai niṟaiya eṅkum
+   viṇṇavar poḻi pū māri mētiṉi niṟaintu vimma
+   maṇṇavar makiḻcci poṅka maṟaikaḷum muḻaṅki ārppa
+   aṇṇalai ōlai kāṭṭi āṇṭavar aruḷic ceyvār. 1.5.69 216 "maṟṟu nī vaṉmai
+   pēci vaṉtoṇṭaṉ eṉṉum nāmam
+   peṟṟaṉai namakkum aṉpil perukiya ciṟappiṉ mikka
+   aṟcaṉai pāṭṭē ākum ātalāl maṇ mēl nammaic
+   coṟ tamiḻ pāṭuka eṉṟār" tūmaṟai pāṭum vāyār. 1.5.70 217 . tēṭiya ayaṉum
+   mālum teḷivuṟā aintu eḻuttum
+   pāṭiya poruḷāy uḷḷāṉ "pāṭuvāy nammai" eṉṉa
+   nāṭiya maṉattarāki nampi ārūrar maṉṟuḷ
+   āṭiya ceyya tāḷai añcali kūppi niṉṟu. 1.5.71 218 vētiyaṉ āki eṉṉai
+   vaḻakkiṉāl vella vanta
+   ūtiyam aṟiyātēṉukku uṇarvu tantu uyyak koṇṭa
+   kōtilā amutē! iṉṟu uṉ kuṇap peruṅ kaṭalai nāyēṉ
+   yātiṉai aṟintu eṉ collip pāṭukēṉ" eṉa moḻintār 1.5.72 219 aṉpaṉai
+   aruḷiṉ nōkki aṅkaṇar aruḷic ceyvār
+   "muṉpu eṉaip pittaṉ eṉṟē moḻintaṉai ātalāllē
+   eṉ peyar pittaṉ eṉṟē pāṭuvāy" eṉṟār niṉṟa
+   vaṉperun toṇṭar āṇṭa vaḷḷalaip pāṭal uṟṟār. 1.5.73 220 kottār malark
+   kuḻalāḷ oru kūṟāy aṭiyavar pāl
+   meyt tāyiṉum iṉiyāṉai avviyaṉ nāvalar perumāṉ
+   "pittā piṟai cūṭi eṉap peritām tirup patikam
+   ittāraṇi mutalām ulaku ellām uyya eṭuttār. 1.5.74 221 muṟaiyāl varu
+   maturat tuṭaṉ moḻi intaḷa mutalil
+   kuṟaiyā nilai mummaippāṭik kūṭuṅ kiḻamai yiṉāl
+   niṟai pāṇiyiṉ icai kōḷpuṇar nīṭum pukaḻ vakaiyāl
+   iṟaiyāṉ makiḻ icai pāṭiṉaṉ ellām nikar illāṉ. 1.5.75 222 collār tamiḻ
+   icai pāṭiya toṇṭaṉ taṉai iṉṉum
+   pallāṟu ulakiṉil nam pukaḻ pāṭu" eṉṟuṟu parivil
+   nallār veṇṇey nallūr aruḷtuṟai mēviya nampaṉ
+   ellā ulakum uyyap puram eytāṉ aruḷ ceytāṉ. 1.5.76 223 ayalōr tavam
+   muyalvār piṟar aṉṟē maṇam aḻiyum
+   ceyalāl nikaḻ puttūr varu civa vētiyaṉ makaḷum
+   uyar nāvalar taṉi nātaṉai oḻiyātu uṇar vaḻiyil
+   peyarātu uyar civalōkamum eḷitām vakai peṟṟāḷ. 1.5.77 224 nāvalar kōṉ
+   ārūraṉ taṉai veṇṇey nal ūril
+   mēvum aruḷtuṟai amarnta vētiyar āṭkoṇṭu ataṟpiṉ
+   pū alarum taṭam poykait tirunāvalūr pukuntu
+   tēvar pirāṉ taṉaip paṇintu tirup patikam pāṭiṉār. 1.5.78 225 civaṉ
+   uṟaiyun tiruttuṟaiyūr ceṉṟaṇaintu tīviṉaiyāl
+   ava neṟiyil cellāmē taṭuttu āṇṭāy aṭiyēṟkut
+   tava neṟi tantu aruḷ eṉṟu tampirāṉ muṉ niṉṟu
+   pava neṟikku vilakku ākun tiruppatikam pāṭiṉār. 1.5.79 226 pulaṉ oṉṟum
+   paṭi tavattiṟ purinta neṟi koṭuttu aruḷa
+   alar koṇṭa naṟuñ cōlait tirut tuṟaiyūr amarntu aruḷum
+   nilavum taṇ puṉalum oḷir nīḷcaṭaiyōṉ tiruppātam
+   malar koṇṭu pōṟṟicaittu vantittār vaṉa toṇṭar. 1.5.80 227 tirut
+   tuṟaiyūr taṉaip paṇintu civaperumāṉ amarntu aruḷum
+   poruttamām iṭam palavum pukkiṟaiñci poṟpuliyūr
+   niruttaṉār tiruk kūttut toḻuvataṟku niṉaivuṟṟu
+   varuttam miku kātaliṉāl vaḻik koḷvāṉ maṉaṅ koṇṭār 1.5.81 228 malai
+   vaḷar cantu akil pīli malar parappi maṇi koḻikkum
+   alai tarutaṇ puṉal peṇṇai yāṟu kaṭantu ēṟiya piṉ
+   nilavu pacum puravineṭum tēr iravi mēl kaṭalil
+   celavaṇaiyum poḻutu aṇaiyat tiruvatikai puṟattu aṇaintār 1.5.82 229
+   "uṭaiya aracu ulakēttum uḻavārap paṭaiyāḷi
+   viṭaiyavarkkuk kaittoṇṭu virumpu perum patiyai mitittu
+   aṭaiyum ataṟku añcuvāṉ" eṉṟu an nakaril pukutātē
+   maṭai vaḷar taṇ puṟam paṇaiyiṟ cittavaṭa maṭam pukuntār 1.5.83 230 vari
+   vaḷar pūñcōlai cūḻ maṭattiṉ kaṇ vaṉtoṇṭar
+   viritirai nīrk keṭila vaṭa vīraṭṭāṉattu iṟai tāḷ
+   purivuṭaiya maṉattiṉarāyp puṭai eṅkum miṭaikiṉṟa
+   paricaṉamum tuyil koḷḷap paḷḷi amarntu aruḷiṉār. 1.5.84 231 atu kaṇṭu
+   vīraṭṭattu amarntu aruḷum aṅkaṇarum
+   mutu vaṭiviṉ maṟaiyavarāy muṉ oruvar aṟiyāmē
+   potu maṭattiṉ uḷpukuntu pūn tārāṉ tiru muṭi mēl
+   patuma malart tāḷ vaittup paḷḷi koḷvār pōl payiṉṟār. 1.5.85 232 annilai
+   ārūraṉ uṇarntu arumaṟaiyōy uṉṉaṭi eṉ
+   ceṉṉiyil vaittaṉai eṉṉat ticai aṟiyā vakai ceyta(tu)
+   eṉṉuṭaiya mūppuk kāṇ eṉṟu aruḷa ataṟku icaintu
+   taṉ muṭi appāl vaittē tuyil amarntāṉ tamiḻ nātaṉ. 1.5.86 233 aṅkumavaṉ
+   tiru muṭimēl mīṭṭum avar tāḷ nīṭṭac
+   ceṅkayal pāy taṭam puṭai cūḻ tiru nāvalūrāḷi
+   iṅku eṉṉaip palakālum mitittaṉai nī yār eṉṉak
+   kaṅkai caṭaik karanta pirāṉ aṟintilaiyō eṉak karantāṉ. 1.5.87 234
+   cemmāntu iṅku yāṉ aṟiyātu eṉ ceytēṉ eṉat teḷintu
+   tammāṉai aṟiyāta catiyār uḷarē eṉ(ṟu)
+   ammāṉait tiruvatikai vīraṭṭā ṉattu amarnta
+   kaimmāviṉ uriyāṉaik kaḻal paṇintu pāṭiṉār. 1.5.88 235 poṉ tiraḷum maṇit
+   tiraḷum poru kariveṇ kōṭukaḷum
+   miṉṟiraṇṭa veṇmuttum viraimalarum naṟuṅ kuṟaṭum
+   vaṉṟiraikaḷāṟ koṇarntu tiruvatikai vaḻipaṭalāl
+   teṉ ticaiyil kaṅkai eṉum tiruk keṭilam tiḷaittāṭi. 1.5.89 236 aṅkaṇarai
+   aṭipōṟṟi aṅku akaṉṟu maṟṟu antap
+   poṅku natit teṉkarai pōyp pōr valittōḷ māvali taṉ
+   maṅkala vēḷviyil paṇṭu vāmaṉaṉāy maṇ iranta
+   ceṅkaṇavaṉ vaḻi paṭṭa tiru māṇikkuḻi aṇaintār. 1.5.90 237 param
+   poruḷaip paṇintu tāḷ paravippōyp paṇintavarkku
+   varam taruvāṉ tiṉai nakarai vaṇaṅkiṉar vaṇ tamiḻ pāṭi
+   narampuṭai yāḻ oli muḻaviṉ nāta oli vēta oli
+   arampaiyar tam kīta oli aṟāt tillai maruṅku aṇaintār. 1.5.91 238 tēm
+   alaṅkal aṇi mā maṇi mārpiṉ cemmal aṅkayalkaḷ ceṅkamalat taṇ
+   pū malaṅka etir pāyvaṉa māṭē puḷḷalampu tirai veḷ vaḷai vāvi
+   tā malaṅkukaḷ taṭam paṇai cūḻum taṇ maruṅku toḻuvārkaḷ tammummai
+   mā malaṅkaḷaṟa vīṭu aruḷ tillai mallal ampatiyiṉ ellai vaṇaṅki . 1.5.92
+   239 nāka cūta vakuḷañ caraḷañ cūḻ nāḷikēram ilavaṅkam narantam
+   pūka ñāḻal kuḷir vāḻai matūkam potuḷum vañci pala eṅkum neruṅki
+   mēka cālamali cōlaikaḷ āki mītu kōkilam miṭaintu miḻaṟṟap
+   pōka pūmiyiṉum mikku viḷaṅkum pūmpuṟampaṇai kaṭantu pukuntār. 1.5.93
+   240 vaṉṉi koṉṟai vaḻai caṇpakam āram malarp palācoṭu cerunti mantāram
+   kaṉṉi kāraṅ kuravaṅ kamaḻ puṉṉai kaṟpu pāṭalam kūviḷam ōṅkit
+   tuṉṉu cāti maru mālati mauval tutainta nantikaram vīram miṭainta
+   paṉ malarp puṉita nantavaṉaṅkaḷ paṇintu ceṉṟaṉaṉ maṇaṅkamaḻ tārāṉ.
+   1.5.94 241 iṭam maruṅku taṉi nāyaki kāṇa ēḻ perum puvaṉam uyya eṭuttu
+   naṭanaviṉṟu aruḷ cilampoli pōṟṟum nāṉ maṟaip patiyai nāḷum vaṇaṅka
+   kaṭal valaṅ koḷvatu pōl puṭai cūḻuṅ kāṭci mēvi miku
+   cēṭ cela ōṅkum taṭamaruṅku vaḷar mañcivar
+   iñci taṇ kiṭaṅkai etir kaṇṭu makiḻntār. 1.5.95 242 maṉṟuḷāṭu matuviṉ
+   nacaiyālē maṟaic curumpaṟai puṟattiṉ maruṅkē
+   kuṉṟu pōlumaṇi māmatil cūḻuṅ kuṇṭa kaḻakkamala vaṇṭalar kaitait
+   tuṉṟu nīṟupuṉai mēṉiya vākit tūya nīṟu puṉai toṇṭarkaḷ eṉṉac
+   ceṉṟu ceṉṟu muralkiṉṟaṉa kaṇṭu cintai aṉpoṭu tiḷaittu etir ceṉṟār.
+   1.5.96 243 pār viḷaṅka vaḷar nāṉ maṟai nātam payiṉṟa paṇpumika veṇkoṭi
+   āṭum
+   cīr viḷaṅku maṇi nāvoliyālum ticaikaḷ nāṉku etir puṟappaṭalālum
+   tār viḷaṅku varai mārpiṉ ayaṉ poṉ caturmukaṅkaḷ eṉa āyiṉa tillai
+   ūrviḷaṅku tiruvāyilkaḷ nāṉkiṉ uttarat ticai vāyil muṉ eyti. 1.5.97 244
+   aṉpiṉ vantu etir koṇṭa cīr aṭiyār avarkaḷō nampi ārūrar tāmō
+   muṉ piṟaiñciṉari yāvar eṉṟu aṟiyā muṟaimaiyāl etir vaṇaṅki makiḻntu
+   piṉpu kumpiṭum viruppil niṟaintu peruku nāval nakarār perumāṉum
+   poṉ piṟaṅku maṇi māḷikai nīṭum poruviṟanta tiruvīti pukuntār 1.5.98 245
+   aṅkaṇ māmaṟai muḻaṅkum maruṅkē āṭarampaiyar araṅku muḻaṅkum
+   maṅkul vāṉiṉmicai aintum muḻaṅkum vāca mālaikaḷil vaṇṭu muḻaṅkum
+   poṅkum aṉparuvi kaṇpoḻi toṇṭar pōṟṟicaikkum oli eṅkum muḻaṅkum
+   tiṅkaḷ taṅku caṭai kaṅkai muḻaṅkum tēva tēvar puriyum tiruvīti. 1.5.99
+   246 pōka nīṭu niti maṉṉavaṉ maṉṉum puraṅkaḷ oppaṉa varampila ōṅki
+   mākam muṉ parukukiṉṟaṉa pōlum māḷikaik kulam miṭainta patākai
+   yōka cintai maṟaiyōrkaḷ vaḷarkkum ōmatūmam uyarvāṉil aṭuppa
+   mēka pantikaḷiṉ mītiṭaieṅkum miṉ nuṭaṅkuvaṉa eṉṉa viḷaṅkum. 1.5.100 247
+   āṭu tōkai puṭai nācikaḷ tōṟum araṇi tanta cuṭar ākuti tōṟum
+   māṭutāmamaṇi vāyilkaḷ tōṟum maṅkalak kalacam vētikai tōṟum
+   cēṭu koṇṭa oḷi tēr nirai tōṟum cennel aṉṉamalai cālaikaḷ tōṟum
+   nīṭu taṇpuṉalkaḷ pantarkaḷ tōṟum niṟainta tēvar kaṇam nīḷiṭai tōṟum.
+   1.5.101 248 eṇṇil pēr ulaku aṉaittiṉum uḷḷa ellaiyil aḻaku colliya
+   ellām
+   maṇṇil ippatiyil vantaṉa eṉṉa maṅkalam poli vaḷattaṉa ākip
+   puṇṇiyap puṉita aṉparkaḷ muṉpu pukaḻntu pāṭal puri poṟpiṉ viḷaṅkum
+   aṇṇal āṭu tiruampalam cūḻnta ampoṉ vītiyiṉai nampi vaṇaṅki . 1.5.102
+   249 māl ayaṉ catamakaṉ perum tēvar maṟṟum uḷḷavarkaḷ muṟṟum neruṅki
+   cīla māmuṉivar ceṉṟu muṉ tuṉṉit tirup pirampiṉ aṭi koṇṭu tiḷaittuk
+   kālam nēr paṭutal pārttayal niṟpak kātal aṉpar kaṇanātar pukumpoṟ
+   kōla nīṭu tiruvāyil iṟaiñcik kuvitta ceṅkai talai mēṟkoṭu pukkār.
+   1.5.103 250 peru matil ciṟanta cem poṉ māḷikai miṉ piṟaṅkum pērampalam
+   mēru
+   varumuṟai valam koṇṭiṟaiñciya piṉṉar vaṇaṅkiya makiḻvoṭum pukuntār
+   arumaṟai mutalil naṭuviṉil kaṭaiyil aṉpar tam cintaiyil alarnta
+   tiru vaḷar oḷi cūḻ tirucciṟṟampalam muṉ tiru aṇukkaṉ tiru vāyil.
+   1.5.104 251 vaiyakam poliya maṟaic cilampu ārppa maṉṟuḷē māl ayaṉ tēṭa
+   aiyar tām veḷiyē āṭukiṉṟārai añcali malartti muṉ kuvitta
+   kaikaḷō tiḷaitta kaṇkaḷō antak karaṇamō kalanta aṉpuntac
+   cey tavap periyōṉ ceṉṟu tāḻntu eḻuntāṉ tiruk kaḷiṟṟuppaṭi maruṅku.
+   1.5.105 252 aintu pēr aṟivum kaṇkaḷē koḷḷa aḷapparum karaṇaṅkaḷ nāṉkum
+   cintaiyē ākak kuṇam oru mūṉṟum tiruntu cāttu vikamē āka
+   intu vāḻ caṭaiyāṉ āṭum āṉanta ellaiyil taṉip peruṅ kūttiṉ
+   vanta pēriṉpa veḷḷattuḷ tiḷaittu māṟilā makiḻcciyiṉ malarntār. 1.5.106
+   253 "teṇṇilā malarnta vēṇiyāy uṉṟaṉ tirunaṭam kumpiṭap peṟṟu
+   maṇṇilē vanta piṟaviyē eṉakku vālitām iṉpam ām" eṉṟu
+   kaṇṇil āṉanta aruvi nīr coriyak kaimmalar ucci mēṟ kuvittup
+   paṇṇiṉāl nīṭi aṟivarum patikam pāṭiṉār paraviṉār paṇintār. 1.5.107 254
+   taṭuttu muṉ āṇṭa toṇṭaṉār muṉpu taṉip perun tāṇṭavam puriya
+   eṭutta cēvaṭiyār aruḷiṉāl "taraḷam eṟipuṉal maṟi tiraip poṉṉi
+   maṭutta nīḷ vaṇṇap paṇṇai ārūril varuka nampāl" eṉa vāṉil
+   aṭutta pōtiṉil vantu eḻuntatu ōr nātam kēṭṭalum atu uṇarntu eḻuntār.
+   1.5.108 255 āṭu kiṉṟavar pēr aruḷiṉāl nikaḻnta ap paṇi ceṉṉi mēṟ koṇṭu
+   cūṭu taṅkaraṅkaḷ añcali koṇṭu toḻun toṟum puṟaviṭai koṇṭu
+   māṭu pēroḷiyiṉ vaḷarum ampalattai valaṅ koṇṭu vaṇaṅkiṉar pōntu
+   nīṭuvāṉ paṇiya uyarnta poṉ varai pōl nilai eḻu kōpuraṅ kaṭantu. 1.5.109
+   256 niṉṟu kōpurattai nilamuṟap paṇintu neṭun tiruvītiyai vaṇaṅki
+   maṉṟalār celva maṟukiṉūṭēki maṉṉiya tiruppati ataṉil
+   teṉticai vāyil kaṭantu muṉ pōntu cēṭpaṭun tiru ellai iṟaiñcik
+   koṉṟai vār caṭaiyāṉ aruḷaiyē niṉaivār koḷḷiṭat tirunati kaṭantār.
+   1.5.110 257 puṟan taruvār pōṟṟi icaippa puri munnūl aṇimārpar
+   aṟam payantāḷ tirumulaip pāl amutuṇṭu vaḷarntavar tām
+   piṟantu aruḷum perumpēṟu peṟṟatu eṉa muṟṟulakil
+   ciṟanta pukaḻk kaḻumalamām tiruppatiyaic ceṉṟu aṇaintār. 1.5.111 258
+   piḷḷaiyār tiru avatāram ceyta perum pukali
+   uḷḷu nāṉ mitiyēṉ eṉṟūr ellaip puṟam vaṇaṅki
+   vaḷḷalār valamāka varumpoḻutiṉ maṅkai iṭaṅ
+   koḷḷumāl viṭaiyāṉum etir kāṭci koṭuttu aruḷa. 1.5.112 259 maṇṭiya
+   pēraṉpiṉāl vaṉtoṇṭar niṉṟu iṟaiñcit
+   teṇ tirai vēlaiyil mitanta tirut tēṇi purat tāraik
+   kaṇṭu koṇṭēṉ kayilaiyiṉil vīṟṟu irunta paṭi eṉṟu
+   paṇṭarum iṉṉicai payiṉṟa tirup patikam pāṭiṉār. 1.5.113 260 irukkōlam
+   iṭumperumāṉ etir niṉṟum eḻuntu aruḷa
+   veruk kōḷuṟṟatu nīṅka ārūr mēṟ cela virumpip
+   perukkōtam cūḻpuṟavap perum patiyai vaṇaṅkip pōyt
+   tirukkōlakkā vaṇaṅki centamiḻ mālaikaḷ pāṭi. 1.5.114 261 tēṉ ārkkum
+   malarc cōlait tirup puṉkūr nampar pāl
+   āṉāp pēraṉpu mika aṭi paṇintu tamiḻ pāṭi
+   māṉārkkum karatalattār makiḻta iṭam pala vaṇaṅkik
+   kāṉārkkum malart taṭañ cūḻ kāviriyiṉ karai aṇaintār. 1.5.115 262
+   vampulā malar alai maṇikoḻittu vantiḻiyum
+   paim poṉ vār karaip poṉṉip payil tīrttam paṭintāṭi
+   tampirāṉ mayilāṭutuṟai vaṇaṅkit tāvil cīr
+   ampar mākāḷattiṉ amarnta pirāṉ aṭi paṇintār. 1.5.116 263 miṉṉār
+   ceñcaṭai aṇṇal virumpu tiruppukalūrai
+   muṉṉākap paṇintētti mutalvaṉ taṉ aruḷ niṉaintu
+   poṉṉārum uttariyam puri munnūl aṇi mārpar
+   teṉ nāvalūrāḷi tiruvārūr ceṉṟu aṇaintār. 1.5.117 264 tēr ārum neṭu
+   vītit tiruvārūr vāḻvārkku
+   "ārāta kātaliṉ nam ārūraṉ nām aḻaikka
+   vārā niṉṟāṉ avaṉai makiḻntu etir koḷvīr" eṉṟu
+   nīrārum caṭai muṭimēl nilavaṇintār aruḷ ceytār. 1.5.118 265 tampirāṉ
+   aruḷ ceyta tirut toṇṭar atu cāṟṟi
+   "em pirāṉār aruḷ tāṉ irunta paricu ituvāṉāl
+   nam pirāṉār āvār avaraṉṟē" eṉum nalattāl
+   umpar nāṭu iḻintatu eṉa etir koḷḷa uṭaṉ eḻuntār. 1.5.119 266 māḷikaikaḷ
+   maṇṭapaṅkaḷ maruṅku peruṅ koṭi neruṅkat
+   tāḷiṉ neṭun tōraṇamum taḻaik kamukum kuḻait toṭaiyum
+   nīḷ ilaiya katalikaḷum niṟainta pacum poṟṟacumpum
+   oḷi neṭu maṇiviḷakkum uyar vāyil toṟum niraittār. 1.5.120 267 cōti maṇi
+   vētikaikaḷ tū naṟuñ cāntu aṇi nīvik
+   kōtil pori poṟ cuṇṇaṅ kuḷir taraḷa maṇi parappi
+   tātivar pūn toṭai mālait taṇ pantarkaḷuñ camaittu
+   vītikaḷ nuṇ tukaḷ aṭaṅka viraip paṉinīr mikatteḷittār. 1.5.121 268
+   maṅkala kītam pāṭa maḻai nikar tūriyam muḻaṅkac
+   ceṅ kayaṟ kaṇ muṟṟiḻaiyār teṟṟi toṟum naṭam payila
+   naṅkaḷ pirāṉ tiruvārūr nakar vāḻvār nampiyai muṉ
+   poṅkeyil nīḷ tiruvāyil puṟam uṟavantu etirkoṇṭār. 1.5.122 269 vantu
+   etir koṇṭu vaṇaṅkuvār muṉ vaṉtoṇṭar añcali kūppi vantu
+   cintai kaḷippuṟa vītiyūṭu celvār tirut toṇṭar tammai nōkki
+   "entai iruppatum ārūr avar emmaiyum āḷvarō kēḷīr" eṉṉum
+   canta icaip patikaṅkaḷ pāṭit tam perumāṉ tiruvāyil cārntār. 1.5.123 270
+   vāṉuṟa nīḷ tiru vāyil nōkki maṇṇuṟa aintu uṟuppāl vaṇaṅkit
+   tēṉuṟai kaṟpaka vācamālait tēvāciriyaṉ toḻutu iṟaiñci
+   ūṉum uyirum urukkum aṉpāl ucci kuvitta ceṅkaika஧ḷ஡ṭum
+   tūnaṟuṅ koṉṟaiyāṉ mūlaṭṭāṉam cūḻ tiru māḷikai vāyil pukkār. 1.5.124 271
+   puṟṟiṭaṅ koṇṭa purātaṉaṉaip pūṅkōyil mēya pirāṉaiyārkkum
+   paṟṟu iṭam āya param poruḷaip pārppati pākaṉai paṅkayattāḷ
+   arccaṉai ceyya aruḷ purinta aṇṇalai maṇmicai vīḻntu iṟaiñci
+   naṟṟamiḻ nāvalar kōṉ uṭampāl naṉmaiyiṉ taṉmaiyai meymmai peṟṟār.
+   1.5.125 272 aṉpu peruka uruki uḷḷam alaiya aṭṭāṅka pañcāṅkam āka
+   muṉpu muṟaimai yiṉāl vaṇaṅki muṭivu ilāk kātal mutira ōṅki
+   naṉ pulaṉ ākiya aintum oṉṟi nāyakaṉ cēvaṭi eytap peṟṟa
+   iṉpa veḷḷattiṭai mūḻki niṉṟē iṉṉicai vaṇṭamiḻ mālai pāṭa . 1.5.126 273
+   vāḻiya mā maṟaip puṟṟiṭaṅkoḷ maṉṉavaṉār aruḷālōr vākku
+   "tōḻamai āka uṉakku nammait tantaṉam nām muṉpu toṇṭu koṇṭa
+   vēḷviyil aṉṟu nī koṇṭa kōlam eṉṟum puṉaintu niṉ vēṭkai tīra
+   vāḻi maṇ mēl viḷaiyāṭuvāy" eṉṟu ārūrar kēṭka eḻuntatu aṉṟē. 1.5.127 274
+   kēṭka virumpi vaṉṟoṇṭar eṉṟum kēṭu ilātāṉai iṟaiñci niṉṟē
+   āṭkoḷa vanta maṟaiyavaṉē ārūr amarnta arumaṇiyē
+   vāṭkayal koṇṭa kaṇmaṅkai paṅkā! maṟṟu uṉ periya karuṇai aṉṟē
+   nāṭkamalap patam tantatu iṉṟu nāyiṉēṉai poruḷāka eṉṟār. 1.5.128 275
+   eṉṟu pala muṟaiyāl vaṇaṅki eytiya uḷḷak kaḷippiṉoṭum
+   veṉṟi aṭal viṭaipōl naṭantu vīti viṭaṅkap perumāṉ muṉpu
+   ceṉṟu toḻutu tutittu vāḻntu tirumāḷikai valam ceytu pōntār
+   aṉṟu mutal aṭiyārkaḷ ellām tampirāṉ tōḻar eṉṟē aḻaittār. 1.5.129 276
+   maivaḷar kaṇṭar aruḷiṉālē vaṇṭamiḻ nāvalar tam perumāṉ
+   caiva viṭaṅkiṉ aṇipuṉaintu cāntamum mālaiyum tārum āki
+   mey vaḷar kōlam ellām poliya mikka viḻuttava vēntar eṉṉat
+   teyva maṇip puṟṟuḷāraip pāṭittiḷaittu makiḻvoṭuñ cellā niṉṟār. 1.5.130
+   277 itaṟku muṉ ellai illāt tiru nakar itaṉuḷ vantu
+   mutal peruṅ kayilai āti mutalvar tam paṅkiṉāṭkup
+   potuk kaṭintu urimai ceyyum pūṅkuḻaṟ cēṭimāril
+   katirtta pūṇ ēntu koṅkai kamaliṉi avatarittāḷ. 1.5.131 278 katir maṇi
+   piṟantatu eṉṉa uruttira kaṇikai mārām
+   patiyilār kulattuḷ tōṉṟip paravaiyār eṉṉum nāmam
+   vitiyuḷi viḷakkattālē mētaku cāṉṟōr āṉṟa
+   matiyaṇi puṉitaṉ naṉṉāḷ maṅkala aṇiyāl cāṟṟi. 1.5.132 279 paraviṉar
+   kāppup pōṟṟip payil peruñ cuṟṟam tiṅkaḷ
+   viraviya paruvam tōṟum viḻā aṇi eṭuppa mikkōr
+   "vara malar maṅkai iṅku vantaṉaḷ" eṉṟu cintai
+   tara varu makiḻcci poṅkat taḷar naṭaip paruvañ cērntār. 1.5.133 280
+   māṉiḷam piṇaiyō? teyva vaḷariḷa mukaiyō? vācat
+   tēṉiḷam patamō? vēlait tirai iḷam pavaḷa vallik
+   kāṉiḷam koṭiyō? tiṅkaḷ katiriḷaṅ koḻuntō? kāmaṉ
+   tāṉiḷam paruvam kaṟkum taṉi iḷan taṉuvō eṉṉa. 1.5.134 281 nāṭum iṉ
+   poṟpu vāyppu nāḷum nāḷ vaḷarntu poṅka
+   āṭum meṉ kaḻaṅkum pantum ammāṉai ūcal iṉṉa
+   pāṭum iṉṉicaiyum taṅkaḷ paṉimalai valli pātam
+   kūṭum aṉpu urukap pāṭum koḷkaiyōr kuṟipput tōṉṟa.. 1.5.135 282
+   piḷḷaimaip paruvam mītām pētaimaip paruvam nīṅki
+   aḷḷutaṟku amainta poṟ pāl anaṅkaṉ meyt taṉaṅkaḷ īṭṭam
+   keḷḷa mikkuyarva pōṉṟa koṅkaikōṅ karumpai vīḻppa
+   uḷḷa meyt taṉmai muṉṉai uṇmaiyum tōṉṟa uyppār . 1.5.136 283 pāṅkiyar
+   maruṅku cūḻap paṭaroḷi maṟuku cūḻat
+   tēṅkamaḻ kuḻaliṉ vācam ticaiyelām ceṉṟu cūḻa
+   ōṅku pūṅ kōyil uḷḷār oruvarai aṉpi ṉōṭum
+   pūṅkaḻal vaṇaṅka eṉṟum pōtuvār orunāṭ pōntār. 1.5.137 284 aṇi cilampu
+   aṭikaḷ pār veṉṟaṭip paṭuttaṉam eṉṟu ārppa
+   maṇi kiḷar kāñci alkul vari ara ulakai veṉṟa
+   tuṇivu koṇṭu ārppa mañcu curi kuḻaṟ kaḻiya viṇṇum
+   paṇiyum eṉṟiṉa vaṇṭu ārppa paravaiyār pōtum pōtil. 1.5.138 285 puṟṟiṭam
+   virumpiṉāraip pōṟṟiṉar toḻutu celvār
+   cuṟṟiya paricaṉaṅkaḷ cūḻa āḷuṭai nampi
+   naṟ perum pāṉmai kūṭṭa nakaipotintu ilaṅku cevvāy
+   viṟ purai nutaliṉ vēṟkaṇ viḷaṅku iḻaiyavaraik kaṇṭār. 1.5.139 286
+   kaṟpakattiṉ pūṅ kompō? kāmaṉ taṉ peru vāḻvō?
+   poṟpuṭaiya puṇṇiyattiṉ puṇṇiyamō puyal cumantu
+   viṟ kuvaḷai pavaḷa malar matipūtta viraik koṭiyō?
+   aṟputamō? civaṉaruḷō? aṟiyēṉ eṉṟu aticayittār 1.5.140 287 ōviya
+   nāṉmukaṉ eḻuta oṇṇāmai uḷḷattāl
+   mēviya taṉ varuttamuṟa vitittatoru maṇi viḷakkō
+   mūvulakiṉ payaṉāki muṉ niṉṟatu eṉa niṉaintu
+   nāvalar kāvalar niṉṟār naṭu niṉṟār paṭai mataṉār. 1.5.141 288 taṇṭaraḷa
+   maṇit tōṭum takaittōṭum kaṭai piṟaḻum
+   keṇṭai neṭuṅ kaṇ viyappap kiḷar oḷip pūṇ uravōṉai
+   aṇṭar pirāṉ tiruvaruḷāl ayal aṟiyā maṉam virumpap
+   paṇṭai viti kaṭai kūṭṭap paravaiyāruṅ kaṇṭār. 1.5.142 289 kaṇ koḷḷāk
+   kaviṉ poḻinta tirumēṉi katir virippa
+   viṇ koḷḷāp pēroḷiyāṉ etir nōkkum melliyalukku
+   eṇ koḷḷā kātaliṉ muṉpu eytāta oru vēṭkai
+   maṇ koḷḷā nāṇ maṭam accam payirppai valintu eḻalum . 1.5.143 290 muṉṉē
+   vantu etir tōṉṟum murukaṉō? peruku oḷiyāl
+   taṉṉēril māraṉō? tār mārpiṉ viñcaiyaṉō?
+   miṉ nēr ceñ caṭai aṇṇal meyyaruḷ peṟṟu uṭaiyavaṉō?
+   eṉṉē eṉ maṉam tiritta ivaṉ yārō eṉa niṉaintār. 1.5.144 291 aṇṇal avaṉ
+   taṉ maruṅkē aḷavu iṟanta kātaliṉāl
+   uṇṇiṟaiyum kuṇam nāṉkum oru puṭaic cāyntaṉa eṉiṉum
+   vaṇṇa malark karum kūntal maṭak koṭiyai valitākkik
+   kaṇ nutalait toḻum aṉpē kaik koṇṭu celavuyppa. 1.5.145 292 pāṅku ōṭic
+   cilai vaḷaittup paṭai anaṅkaṉ viṭu pāṇam
+   tāṅkōli em maruṅkum taṭai ceyya maṭavaralum
+   tēṅkōtai malark kuḻal mēl ciṟai vaṇṭu kalantu ārppap
+   pūṅkōyil amarnta pirāṉ poṟ kōyil pōyp pukuntāṉ. 1.5.146 293 vaṉtoṇṭar
+   atu kaṇṭu "eṉ maṉam koṇṭa mayil iyaliṉ
+   iṉ toṇṭaic ceṅkaṉi vāy iḷaṅ koṭi tāṉ yār" eṉṉa
+   aṉṟaṅku muṉ niṉṟār avar naṅkai paravaiyār
+   ceṉṟumpar tarattārkkum cērvu ariyār eṉac ceppa. 1.5.147 294 "pēr
+   paravai peṇmaiyiṉil perum paravai virumpalkul
+   ārparavai aṇi tikaḻum maṇi muṟuval arum paravai
+   cīr paravai āyiṉāḷ tiru uruviṉ meṉ cāyal
+   ēr paravai iṭaip paṭṭa eṉ ācai eḻu paravai". 1.5.148 295 eṉṟiṉaiya
+   palavum niṉaintu emperumāṉ aruḷ vakaiyāṉ
+   muṉ toṭarntu varuṅ kātal muṟaimai yiṉāl toṭakkuṇṭu
+   "naṉṟu eṉai āṭ koṇṭavar pāl naṇṇuvaṉ" eṉṟuḷ makiḻntu
+   ceṉṟuṭaiya nampiyum pōyt tēvar pirāṉ kōyil puka. 1.5.149 296 paravaiyār
+   valaṅ koṇṭu paṇintu ētti muṉṉarē
+   puravalaṉār kōyiliṉ niṉṟu oru maruṅku puṟappaṭṭār
+   viravu peruṅ kātaliṉāl melliyalār tamai vēṇṭi
+   araviṉ āram puṉaintār aṭi paṇintār ārūrar. 1.5.150 297 avvāṟu paṇintu
+   ētti aṇi ārūr maṇip puṟṟiṉ
+   mai vāḻum tiru miṭaṟṟu vāṉavar pāl niṉṟum pōntu
+   evvāṟu ceṉṟāḷ eṉ iṉṉuyirām aṉṉam eṉac
+   cevvāy veṇ nakaik koṭiyait tēṭuvār āyiṉār. 1.5.151 298 "pācamām viṉaip
+   paṟṟu aṟuppāṉ mikum
+   ācai mēlum ōr ācai aḷippatōr
+   tēciṉ maṉṉi eṉ cintai mayakkiya
+   īcaṉār aruḷ eṉ neṟic ceṉṟatē". 1.5.152 299 "umpar nāyakar taṅkaḻal
+   allatu
+   nampumāṟu aṟiyēṉai naṭukkuṟa
+   vampu māl ceytu valliyiṉ olkiyiṉṟu
+   em pirāṉ aruḷ enneṟic ceṉṟatē". 1.5.153 300 "pantam vīṭu tarum paramaṉ
+   kaḻal
+   cintai āravum uṉṉum eṉ cintaiyai
+   vantu māl ceytu māṉ eṉavē viḻittu
+   entaiyār aruḷ en neṟic ceṉṟatē 1.5.154 301 eṉṟu cālavum āṟṟalar"
+   eṉṉuyir
+   niṉṟatu eṅku eṉa nittilap pūṇ mulai
+   maṉṟal vārkuḻal vañciyait tēṭuvāṉ
+   ceṉṟu tēva āciriyaṉaic cērnta piṉ. 1.5.155 302 kāvi nēr varum kaṇṇiyai
+   naṇṇuvāṉ
+   yāvarōṭum uraiyiyampātu iruntu
+   "āvi nalkuvār ārūrai āṇṭavar
+   pūviṉ maṅkaiyait tantu" eṉum pōḻtiṉil . 1.5.156 303 nāṭṭu nallicai
+   nāvalūraṉ cintai
+   vēṭṭa miṉṉiṭai iṉ amutattiṉaik
+   kāṭṭuvaṉ kaṭalai kaṭaintatu eṉpa pōl
+   pūṭṭum ēḻ parit tērōṉ kaṭal puka. 1.5.157 304 eytu meṉ peṭaiyōṭum irai
+   tērntu uṇṭu
+   poykaiyiṟ pakal pōkkiya puḷḷiṉam
+   vaiku cēkkai kaṇ mēṟcela vantatu
+   paiyuḷ mālai tamiyōr puṉippuṟa. 1.5.158 305 pañciṉ mel aṭip pāvaiyar
+   uḷḷamum
+   vañca mākkaḷ tam val viṉaiyum araṉ
+   añcu eḻuttum uṇarā aṟivilōr
+   neñcum eṉṉa iruṇṭatu nīṇṭa vāṉ. 1.5.159 306 "maṟuvil cintai vaṉtoṇṭar
+   varuntiṉāl
+   iṟu maruṅkulārkku yār piḻaippār" eṉṟu
+   naṟu malark kaṅkul naṅkai muṉ koṇṭa puṉ
+   muṟuval eṉṉa mukiḻttatu veṇ nilā . 1.5.160 307 arantai ceyvārkku
+   aḻuṅkit tam āruyir
+   varaṉ kai tīṇṭa malar kulamātar pōl
+   paranta vem pakaṟkolkip paṉi matik
+   karaṅkaḷ tīṇṭa alarnta kayiravam. 1.5.161 308 tōṟṟum maṉ uyirkaṭku elām
+   tūymaiyē
+   cāṟṟum iṉpamum taṇmaiyum tantu pōy
+   āṟṟa aṇṭam elām parantu aṇṇal veṇ
+   nīṟṟiṉ pēroḷi pōṉṟatu nīḷ nilā. 1.5.162 309 vāvi puḷḷoli māṟiya
+   mālaiyil
+   nāvalūrarum naṅkai paravaiyām
+   pāvai tanta paṭar peruṅ kātalum
+   āvi cūḻnta taṉimaiyum āyiṉār. 1.5.163 310 "tantiruk kaṇ eritaḻaliṟ
+   paṭṭu
+   venta kāmaṉ veḷiyē uruc ceytu
+   vantu eṉ muṉ niṉṟu vāḷi toṭuppatē
+   entaiyār aruḷ iv vaṇṇamō?" eṉpār. 1.5.164 311 ārtti kaṇṭum eṉ mēl niṉṟu
+   aḻal katir
+   tūrppatē! eṉait toṇṭu koṇṭu āṇṭavar
+   nīrt taraṅka neṭuṅ kaṅkai nīḷ muṭic
+   cāttum veṇ mati pōṉṟilai taṇ mati!. 1.5.165 312 "aṭuttu mēṉ mēl alaittu
+   eḻum āḻiyē
+   taṭuttu muṉ eṉai āṇṭavar tām uṇak
+   kaṭutta nañcuṉ taraṅkak karaṅkaḷāl
+   eṭuttu nīṭṭu nī eṉṉai iṉṟu eṉ ceyāy ?" 1.5.166 313 "piṟantatu eṅkaḷ
+   pirāṉ malayattu iṭaic
+   ciṟantu aṇaintatu teyva nīr nāṭṭiṉil
+   puṟam paṇait taṭam poṅkaḻal vīciṭa
+   maṟam payiṉṟatu eṅkō? tamiḻ mārutam!" 1.5.167 314 iṉṉa taṉmaiya piṉṉum
+   iyampuvāṉ
+   maṉṉu kātalaṉ ākiya vaḷḷal pāl
+   taṉ arum peṟal neñcu tayaṅkap pōm
+   aṉṉam aṉṉavaḷ ceykai aṟaikuvām. 1.5.168 315 kaṉaṅkoṇṭa maṇi kaṇṭar
+   kaḻal
+   vaṇaṅkik kaṇavaṉai muṉ peṟuvāḷ pōla
+   iṉaṅ koṇṭa cēṭiyarkaḷ puṭai cūḻa eytu peruṅ kātalōṭum
+   taṉaṅ koṇṭu taḷar maruṅkuṟ paravaiyum vaṉtoṇṭar pāl
+   taṉittuc ceṉṟa maṉaṅkoṇṭu varum periya mayal
+   koṇṭu taṉmaṇimāḷikaiyaic cārntāḷ. 1.5.169 316 cīṟaṭi mēl nūpuraṅkaḷ
+   aṟintaṉa pōl ciṟitaḷavē olippa muṉṉar
+   vēṟoruvar uṭaṉ pēcāḷ mella aṭi otuṅki māḷikaiyiṉ mēlāl
+   ēṟi marakatat tūṇattu ilaṅku maṇi vētikaiyil nalaṅ koḷ poṟ kāl
+   māṟil malarc cēkkai micai maṇi nilā muṉṟil maruṅkiruntāḷ vantu. 1.5.170
+   317 avvaḷavil arukirunta cēṭitaṉai mukanōkki "ārūr āṇṭa
+   maiviravu kaṇṭārai nām vaṇaṅkap pōm maṟuketir vantavarār?" eṉṉa
+   "ivvulakil antaṇarāy iruvar tēṭoruvar tām etir niṉṟu āṇṭa
+   caiva mutal tirut toṇṭar tampirāṉ tōḻaṉār nampi" eṉṟāḷ. 1.5.171 318
+   eṉṟavurai kēṭṭalumē "em pirāṉ tamarēyō" eṉṉā muṉṉam
+   vaṉ toṇṭar pāl vaitta maṉak kātal aḷavu iṉṟi vaḷarntu poṅka
+   niṉṟa niṟai nāṇmutalāṅ kuṇaṅkaḷuṭaṉ nīṅka uyir oṉṟum tāṅki
+   miṉ tayaṅku nuṇ iṭaiyāḷ vevvuyirttu mel aṇai mēl vīḻnta pōtu. 1.5.172
+   319 āra naṟuñ cēṟu āṭṭi arum paṉi nīr naṟuntivalai aruku vīci
+   īra iḷan taḷirkkuḷiri paṭuttu maṭavār ceyta ivaiyum ellām
+   pēraḻaliṉ ney corintāl ottaṉa maṟṟu ataṉ mītu camitai eṉṉa
+   māraṉum taṉ peruñ cilaiyiṉ valikāṭṭi malar vāḷi corintāṉ vantu. 1.5.173
+   320 malaramaḷit tuyil āṟṟāḷ varum teṉṟal maruṅku āṟṟāḷ maṅkul vāṉil
+   nilavumiḻum taḻal āṟṟāḷ niṟai āṟṟum poṟai āṟṟā nīrmai yōṭum
+   kalava mayil eṉa eḻuntu karuṅ kuḻaliṉ paramāṟṟāk kaiyaḷ āki
+   ilava itaḻc centuvar vāy nekiḻntu āṟṟāmaiyiṉ vaṟitē iṉṉa coṉṉāḷ.
+   1.5.174 321 kantam kamaḻ meṉ kuḻalīr! itu eṉ? kalai vāṇ matiyam
+   kaṉalvāṉ eṉai ic
+   cantiṉ taḻalaip paṉi nīr aḷavit taṭavuṅ koṭiyīr! tavirīr! tavirīr!
+   vantu iṅku ulavum nilavum viraiyār malaiyāṉilamum eriyāy varumāl
+   antaṇ puṉalum aravum viravum caṭaiyāṉ aruḷ peṟṟuṭaiyār aruḷār". 1.5.175
+   322 "pularum paṭi yaṉṟi iraveṉṉaḷavum; poṟaiyum niṟaiyum iṟaiyum
+   tariyā,
+   ularum taṉamum maṉamum viṉaiyēṉ oruvēṉ aḷavō? peru vāḻvuraiyīr
+   palarum puriyum tuyartāṉ ituvō paṭai maṉ mataṉār puṭai niṉṟu akalār!
+   alarum nilavum malarum muṭiyār aruḷ peṟṟu uṭaiyār avarō aṟiyār 1.5.176
+   323 "tērum koṭiyum miṭaiyum maṟukil tiruvā rūrir! nīrē allāl
+   āreṉ tuyaram aṟivār? aṭikēḷ aṭiyēṉ ayarum paṭiyō itutāṉ?
+   nīrum piṟaiyum poṟivāḷ araviṉ niraiyum nirai veṇṭalaiyiṉ puṭaiyē
+   ūrum caṭaiyīr! viṭaimēl varuvīr! umatu aṉpilar pōl yāṉō uṟuvēṉ? 1.5.177
+   324 eṉṟiṉṉave palavum pukalum iruḷār aḷakac curuḷ ōtiyaiyum
+   vaṉ toṇṭaraiyum paṭimēl vara muṉpu aruḷuvāṉ aruḷum vakaiyār niṉaivār
+   ceṉṟu umparkaḷum paṇiyum celvat tiruvārūr vāḻ perumāṉ aṭikaḷ
+   aṉṟu aṅku avar maṉṟalai nīr ceyum eṉṟu aṭiyār aṟiyum paṭiyāl aruḷi.
+   1.5.178 325 maṉṉum pukaḻ nāvalar kōṉ makiḻa "maṅkai paravai taṉṉait
+   tantōm
+   iṉṉavvakai nam aṭiyār aṟiyum paṭiyē urai ceytaṉam" eṉṟu aruḷip
+   poṉṉiṉ puri puṉ caṭaiyaṉ viṭaiyaṉ porumā kariyiṉ urivai puṉaivāṉ
+   aṉṉan naṭaiyāḷ paravaikku "aṇiyatu ārūraṉ pāl maṇam" eṉṟu aruḷa.
+   1.5.179 326 kāmat tuyaril kavalvār neñciṟ karaiyil iruḷum kaṅkul kaḻi
+   pōm
+   yāmattu iruḷum pularak katirōṉ eḻukālaiyil vantu aṭiyār kūṭic
+   cēmat tuṇaiyām avar pēr aruḷait toḻutē tiru nāvalar kōṉ makiḻat
+   tāmak kuḻalāḷ paravai vatuvai taku nīrmai yiṉāl nikaḻac ceytār. 1.5.180
+   327 teṉ nāvalūr maṉṉaṉ tēvar pirāṉ tiruvaruḷāl
+   miṉṉāruṅ koṭi maruṅkul paravai eṉum melliyal taṉ
+   poṉ ārum mulai ōṅkal puṇar kuvaṭē cārvākap
+   paṉṉāḷum payil yōka paramparaiyiṉ virumpiṉār. 1.5.181 328
+   taṉṉaiyāḷuṭaiya pirāṉ caraṇara vinta malar
+   ceṉṉiyilum cintaiyilum malarvittut tirup patikam
+   paṉṉu tamiḻt toṭai mālai pala cāttip paravai eṉum
+   miṉṉiṭaiyāḷ uṭaṉ kūṭi viḷaiyāṭic celkiṉṟār. 1.5.182 329 mātu uṭaṉ kūṭa
+   vaiki māḷikai maruṅku cōlai
+   pōtalar vāvi māṭu cey kuṉṟiṉ puṭaiyōr teṟṟic
+   cītaḷat taraḷap pantarc ceḻun tavici iḻintu taṅkaḷ
+   nātar pūṅ kōyil naṇṇik kumpiṭum viruppāl nampi. 1.5.183 330 antarattu
+   amarar pōṟṟum aṇi kiḷar āṭai cāttic
+   cantaṉattu aḷaṟu tōynta kuṅkumak kalavai cāttic
+   cuntarac cuḻiyañ cāttic cuṭar maṇik kalaṉkaḷ cātti
+   intirat tiruviṉ mēlām eḻil mika viḷaṅkit tōṉṟa 1.5.184 331 kaiyiṉiṟ
+   puṉai poṟkōlum kātiṉil ilaṅku tōṭum
+   meyyiṉil tuvaḷu nūlum neṟṟiyil viḷaṅkum nīṟum
+   aiyaṉukku aḻaku itām eṉṟu āyiḻai makaḷir pōṟṟac
+   caiva meyt tiruviṉ kōlam taḻaippa vītiyiṉaic cārntār 1.5.185 332
+   "nāvalūr vanta caiva naṟ tavak kaḷiṟē" eṉṟum
+   "mēlavar puraṅkaḷ ceṟṟa viṭaiyavarkku aṉpar" eṉṟum
+   "tāvil cīrp perumai ārūr maṟaiyavar talaiva" eṉṟum
+   mēviṉar iraṇṭu pālum vēṟu vēṟāyam pōṟṟa. 1.5.186 333 kaik kiṭā kuraṅku
+   kōḻi cival kavutāri paṟṟip
+   pakkam muṉ pōtuvārkaḷ payil moḻi payiṟṟic cella
+   mikka pūm piṭakai koḷvōr viraiyaṭaippaiyōr cūḻa
+   maikkaruṅ kaṇṇiṉārkaḷ maṟuka nīḷ maṟukil vantār. 1.5.187 334 polaṅ
+   kalap puravi paṇṇip pōtuvār piṉpu pōta
+   ilaṅkoḷi valayap poṟtōḷ iṭai iṭaimiṭaintu toṅkal
+   nalaṅ kiḷar nīḻal cūḻa nāṉmaṟai muṉivarōṭum
+   alaṅkalan tōḷiṉāṉ vantu aṇaintāṉ aṇṇal kōyil. 1.5.188 335 kaṇ nutal
+   kōyil tēva āciriyaṉ ām kāvaṇattu
+   viṇṇavar oḻiya maṇ mēl mikka cīr aṭiyār kūṭi
+   eṇ ilār irunta pōtil ivarkku yāṉ aṭiyēṉ ākap
+   paṇṇu nāḷ ennāḷ eṉṟu paramar tāḷ paravic ceṉṟār. 1.5.189 336
+   "aṭiyavarkku aṭiyaṉ āvēṉ" eṉṉum ātaravu kūrak
+   koṭi neṭum koṟṟa vāyil paṇintu kai kuvittup pukkār
+   kaṭi koḷpūṅ koṉṟai vēyntār avarkku etir kāṇak kāṭṭum
+   paṭi etir tōṉṟi niṟkap pātaṅkaḷ paṇintu pūṇṭu. 1.5.190 337 maṉ perun
+   tirumā maṟai vaṇṭu cūḻn(tu)
+   aṉpar cintai alarnta cen tāmarai
+   naṉ perum parama āṉanta naṉ matu
+   eṉ tarattum aḷittu etir niṉṟaṉa. 1.5.191 338 ñālam uyya naṭam maṉṟuḷ
+   āṭiṉa;
+   kālaṉ āruyir māḷak karuttaṉa;
+   mālai tāḻ kuḻal māmalaiyāḷ ceṅ kai
+   cīlam āka varuṭac civantaṉa. 1.5.192 339 nīti mātavar neñcil polintaṉa;
+   vēti yātavar tammai vētippaṉa;
+   cōtiyāy eḻuñ cōtiyuṭ cōtiya ;
+   āti māl ayaṉ kāṇā aḷaviṉa . 1.5.193 340 vētam āraṇam mēl koṇṭu
+   iruntaṉa;
+   pētaiyēṉ cey piḻai poṟuttu āṇṭaṉa;
+   ētam āṉavai tīrkka icaintaṉa;
+   pūta nāta! niṉ puṇṭarīkap patam . 1.5.194 341 iṉṉavāṟu ēttu nampik kēṟu
+   cēvakaṉār tāmum
+   an nilai avartām vēṇṭum ataṉaiyē aruḷa vēṇṭi
+   maṉṉu cīr aṭiyār taṅkaḷ vaḻit toṇṭai uṇara nalkip
+   piṉṉaiyum avarkaḷ taṅkaḷ perumaiyai aruḷic ceyvār. 1.5.195 342
+   "perumaiyāl tammai oppār; pēṇalāl emmaip peṟṟār
+   orumaiyāl ulakai velvār; ūṉam mēl oṉṟum illār;
+   arumaiyām nilaiyil niṉṟār; aṉpiṉāl iṉpam ārvār
+   irumaiyum kaṭantu niṉṟār; ivarai nī aṭaivāy" eṉṟu 1.5.196 343 nātaṉār
+   aruḷic ceyya nampi ārūrar" nāṉ iṅku
+   ētan tīr neṟiyaip peṟṟēṉ" eṉṟetir vaṇaṅkip pōṟṟa
+   " nītiyāl avarkaḷ tammaip paṇintu nī niṟai coṉ mālai
+   kōtilā vāymaiyālē pā"ṭeṉa aṇṇal kūṟa. 1.5.197 344 taṉṉai āḷuṭaiya nātaṉ
+   tāṉ aruḷ ceyyak kēṭṭuc
+   ceṉṉiyāl vaṇaṅki niṉṟa tirumuṉaippāṭi nāṭar
+   "iṉṉavāṟu iṉṉa paṇpu eṉṟu ēttukēṉ ataṟku yāṉ yār
+   paṉṉupā mālai pāṭum paricu eṉakku aruḷ cey" eṉṉa. 1.5.198 345 tollai
+   māl varai payanta tūy āḷ taṉ tirup pākaṉ
+   allal tīrntu ulaku uyya maṟai aḷitta tiru vākkāl
+   " tillai vāḻ antaṇar tam aṭiyārkkum aṭiyēṉ" eṉṟu
+   "ellaiyil vaṇ pukaḻārai eṭuttu icaippā moḻi" eṉṟār. 1.5.199 346 maṉṉu
+   cīr vayal ārūr maṉṉavarai vaṉ toṇṭar
+   ceṉṉiyuṟa aṭi vaṇaṅkit tiruvaruḷ mēl koḷ poḻutil
+   muṉṉam māl ayaṉ aṟiyā mutalvar tām eḻuntu aruḷa
+   an nilai kaṇṭu aṭiyavar pāl cārvataṉukku aṇaikiṉṟār. 1.5.200 347
+   tūrattē tiruk kūṭṭam pala muṟaiyāl toḻutu aṉpu
+   cērat tāḻntu eḻuntu aruku ceṉṟu eyti niṉṟu aḻiyā
+   vīrattār ellārkkum taṉit taṉi vēṟu aṭiyēṉ eṉṟu
+   ārvattāl tirut toṇṭat tokaip patikam aruḷ ceyvār. 1.5.201 348 tam
+   perumāṉ koṭutta moḻi mutal ākat tamiḻ mālaic
+   cem poruḷāl tirut toṇṭat tokai āṉa tirup patikam
+   umpar pirāṉ tāṉ aruḷum uṇarvu peṟa ulakētta
+   em perumāṉ vaṉ toṇṭar pāṭi avar etir paṇintār. 1.5.202 349 umpar
+   nāyakar aṭiyār pēr uvakai tām eyta
+   nampi ārūrar tiruk kūṭṭattiṉ naṭuvaṇaintār
+   tampirāṉ tōḻar avar tām moḻinta tamiḻ muṟaiyē
+   empirāṉ tamarkaḷ tirut toṇṭu ēttal uṟukiṉṟēṉ. 1.5.203
+
+                    tirumalaic carukkam muṟṟiṟṟu.
+                  carukkam oṉṟukkut tiruviruttam - 349
+
+       [22]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+                     2. tillai vāḻ antaṇar carukkam
+
+       2. 1 tillai vāḻ antaṇar purāṇam tirucciṟṟampalam
+
+   350 ātiyāy naṭuvumāki aḷavu ilā aḷavumākic
+   cōtiyāy uṇarvumākit tōṉṟiya poruḷumākip
+   pētiyā ēkam ākip peṇṇumāy āṇum ākip
+   pōtiyā niṟkum tillaip potu naṭam pōṟṟi pōṟṟi 2.1.1
+   351 kaṟpaṉai kaṭanta cōti karuṇaiyē uruvam āki
+   aṟputak kōlam nīṭi aru maṟaic ciṟattiṉ mēlām
+   ciṟpara viyōmam ākum tiruc ciṟṟampalattuḷ niṉṟu
+   poṟpuṭaṉ naṭam ceykiṉṟa pūṅ kaḻal pōṟṟi pōṟṟi 2.1.2 352 pōṟṟi nīḷ
+   tillai vāḻ antaṇar tiṟam pukalal uṟṟēṉ
+   nīṟṟiṉāl niṟainta kōla niruttaṉukku uriya toṇṭām
+   pōṟṟiṉār perumaikku ellai āyiṉār pēṇi vāḻum
+   āṟṟiṉār perukum aṉpāl aṭittavam purintu vāḻvār 2.1.3 353 poṅkiya
+   tiruvil nīṭum poṟpuṭaip paṇikaḷ ēnti
+   maṅkalat toḻilkaḷ ceytu maṟaikaḷāl tutittu maṟṟum
+   taṅkaḷukku ēṟṟa paṇpil tarum paṇit talai niṉṟu uyttē
+   aṅkaṇar kōyil uḷḷā akam paṭit toṇṭu ceyvār 2.1.4 354 varu muṟai eri
+   mūṉṟu ōmpi maṉṉuyir aruḷāl malka
+   tarumamē poruḷāk koṇṭu tattuva neṟiyil cellum
+   arumaṟai nāṉkiṉōṭu āṟu aṅkamum payiṉṟu vallār
+   tiru naṭam purivārkku āḷām tiruviṉāl ciṟanta cīrār 2.1.5 355 maṟuvilā
+   marapiṉ vantu māṟilā oḻukkam pūṇṭār
+   aṟu toḻil āṭciyālē aruṅkali nīkki uḷḷār
+   uṟuvatu nīṟṟiṉ celvam eṉak koḷum uḷḷam mikkār
+   peṟuvatu civaṉ pāl aṉpām pēṟu eṉap peruki vāḻvār 2.1.6 356 ñāṉamē
+   mutalām nāṉkum navai aṟat terintu mikkār
+   tāṉamum tavamum vallār takutiyiṉ pakuti cārntār
+   ūṉamēl oṉṟum illār ulakelām pukaḻntu pōṟṟum
+   māṉamum poṟaiyum tāṅki maṉai aṟam purintu vāḻvār 2.1.7 357 cemmaiyāl
+   taṇinta cintait teyva vētiyarkaḷ āṉār
+   mummai āyiravar tāṅkaḷ pōṟṟiṭa mutalvaṉārai
+   immaiyē peṟṟu vāḻvār iṉip peṟum pēṟu oṉṟu illār
+   tammaiyē tamakku oppāṉa nilaimaiyāl talaimai cārntār 2.1.8 358 iṉṟivar
+   perumai emmāl iyampalām ellaittāmō
+   teṉ tamiḻp payaṉāy uḷḷa tirut toṇṭat tokai muṉ pāṭa
+   aṉṟu vaṉ toṇṭar tammai aruḷiya ārūr aṇṇal
+   muṉ tiru vākkāl kōtta mutal poruḷ āṉār eṉṟāl 2.1.9 359 akal iṭattu
+   uyarnta tillai antaṇar akilam ellām
+   pukaḻ tiru maṟaiyōr eṉṟum potu naṭam pōṟṟi vāḻa
+   nikaḻ tiru nīla kaṇṭak kuyavaṉār nīṭu vāymai
+   tikaḻum aṉpuṭaiya toṇṭar cey tavam kūṟal uṟṟām 2.1.10
+       tirucciṟṟampalam
+       [23]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  2.2. tirunīlakaṇṭa nāyaṉār purāṇam
+       tirucciṟṟampalam
+
+   360 vētiyar tillai mūtūr vēṭ kōvar kulattu vantār
+   mātoru pākam nōkki maṉṉu ciṟṟampalattē
+   ātiyum muṭivum illā aṟputat taṉik kūttu āṭum
+   nātaṉār kaḻalkaḷ vāḻti vaḻipaṭum nalattiṉ mikkār 2.2.1
+   361 poy kaṭintu aṟattiṉ vāḻvār puṉaṟ caṭai muṭiyārkku aṉpar
+   mey aṭiyār kaṭku āṉa ceyum viruppil niṉṟār
+   vaiyakam pōṟṟum ceykai maṉai aṟam purintu vāḻvār
+   caiva meyt tiruviṉ cārvē poruḷ eṉac cāru nīrār 2.2.2 362 aḷavilā
+   marapiṉ vāḻkkai maṇ kalam amutukku ākki
+   vaḷariḷam tiṅkaḷ kaṇṇi maṉṟuḷār aṭiyārkku eṉṟum
+   uḷa makiḻ ciṟappiṉ malka ōṭu aḷittu oḻukum nāḷil
+   iḷamai mītu ūra iṉpat tuṟaiyiṉil eḷiyar āṉār 2.2.3 363 avar tam kaṇ
+   maṉaiviyārum aruntati kaṟpiṉ mikkār
+   puvaṉaṅkaḷ uyya aiyar poṅku nañcu uṇṇa yām cey
+   tava niṉṟu aṭuttatu eṉṉat takaintu tāṉ tarittatu eṉṟu
+   civaṉ entai kaṇṭam taṉṉait tiru nīla kaṇṭam eṉpār 2.2.4 364 āṉa tam
+   kēḷvar aṅkōr parattai pāl aṇaintu naṇṇa
+   māṉamuṉ poṟātu vanta ūṭalāl maṉaiyiṉ vāḻkkai
+   ēṉaiya ellāñ ceytē uṭaṉ uṟaivu icaiyār āṉār
+   tēṉalar kamalap pōtil tiruviṉum uruvam mikkār 2.2.5 365 mūṇṭa ap pulavi
+   tīrkka aṉpaṉār muṉpu ceṉṟu
+   pūṇṭayaṅku iḷameṉ cāyal poṉ koṭi aṉaiyār tammai
+   vēṇṭuva irantu kūṟi meyyuṟa aṇaiyum pōtil
+   tīṇṭuvīr āyiṉ emmait tiru nīla kaṇṭam eṉṟār 2.2.6 366 ātiyār nīla
+   kaṇṭattu aḷavu tām koṇṭa ārvam
+   pētiyā āṇai kēṭṭa periyavar peyarntu nīṅki
+   ētilār pōla nōkki emmai eṉṟataṉāl maṟṟai
+   mātarār tamaiyum eṉ taṉ maṉattiṉum tīṇṭēṉ eṉṟār 2.2.7 367 kaṟpuṟu
+   maṉaiviyārum kaṇavaṉārkku āṉa ellām
+   poṟpuṟa mey uṟāmal poruntuva pōṟṟic ceyya
+   il puṟampu oḻiyātu aṅ kaṇ iruvarum vēṟu vaiki
+   aṉpuṟu puṇarcci iṉmai ayalaṟiyāmai vāḻntār 2.2.8 368 iḷamaiyiṉ
+   mikkuḷārkaḷ iruvarum aṟiya niṉṟa
+   aḷavil cīr āṇai pōṟṟi āṇṭukaḷ palavum cella
+   vaḷa mali iḷamai nīṅki vaṭivuṟu mūppu vantu
+   taḷarvoṭu cāyntum aṉpu tampirāṉ tiṟattuc cāyār 2.2.9 369 in neṟi oḻukum
+   nāḷil eri taḷarntatu eṉṉa nīṇṭa
+   miṉṉoḷir caṭaiyōṉ tāṉun toṇṭarai viḷakkaṅ kāṇa
+   naṉṉeṟi ituvām eṉṟu ñālattār virumpi uyyum
+   an neṟi kāṭṭum āṟṟal aruḷ civa yōki āki 2.2.10 370 kīḷ oṭu kōvaṇam
+   cāttik kēṭu ilā
+   vāḷ viṭu nīṟṟu oḷi malarnta mēṉi mel
+   tōḷoṭu mārpiṭait tuvaḷum nūluṭaṉ
+   nīḷoḷi vaḷar tiru muṇṭa neṟṟiyum 2.2.11 371 neṭuñ caṭai karantiṭa
+   neṟitta pampaiyum
+   viṭuṅ katir muṟuval veṇṇilavum mēmpaṭa
+   iṭum palip pāttiram ēntu kaiyarāy
+   naṭantu vēṭkōvar tam maṉaiyil naṇṇiṉār 2.2.12 372 naṇṇiya tavac civa
+   yōka nātaraik
+   kaṇṇuṟa nōkkiya kātal aṉpar tām
+   puṇṇiyat toṇṭarām eṉṟu pōṟṟi ceytu
+   eṇṇiya vakaiyiṉāl etir koṇṭu ēttiṉār 2.2.13 373 piṟai vaḷar caṭai muṭip
+   pirāṉait toṇṭar eṉṟu
+   uṟai uḷil aṇaintu pēr uvakai kūrntiṭa
+   muṟaimaiyiṉ vaḻi paṭa moḻinta pūcaikaḷ
+   niṟai peru viruppoṭu ceytu niṉṟa piṉ 2.2.14 374 empirāṉ yāṉ ceyum paṇi
+   etu eṉṟaṉar
+   vampulā malarc caṭai vaḷḷal toṇṭaṉār
+   umpar nāyakaṉum ivvōṭu niṉpāl vaittu
+   nampi nī taruka nām vēṇṭum pōtu eṉṟu 2.2.15 375 taṉṉai oppu ariyatu
+   talattut taṉ uḻait
+   tuṉṉiya yāvaiyum tūymai ceyvatu
+   poṉṉiṉum maṇiyiṉum pōṟṟa vēṇṭuvatu
+   iṉṉa taṉmaiyatu itu vāṅku nī eṉa 2.2.16 376 tollai vēṭkōvar tam
+   kulattuḷ tōṉṟiya
+   malku cīrt toṇṭaṉār vaṇaṅki vāṅkik koṇṭu
+   ollaiyiṉ maṉaiyil ōr maruṅku kāppuṟum
+   ellaiyil vaittu vantu iṟaiyai eytiṉār 2.2.17 377 vaitta piṉ maṟaiyavar
+   āki vantu aruḷ
+   nittaṉār nīṅkiṭa niṉṟa toṇṭarum
+   uyttu uṭaṉ pōy viṭai koṇṭu mīṇṭaṉar
+   attar tām ampalam aṇaiya mēviṉār 2.2.18 378 cāla nāḷ kaḻinta piṉpu
+   talaivaṉār tām muṉ vaitta
+   kōlamār ōṭu taṉṉaik kuṟi iṭattu akalap pōkkic
+   cīlamār koḷkai eṉṟum tiruntu vēṭkōvar tampāl
+   vāli tām nilaimai kāṭṭa muṉpu pōl maṉaiyil vantār 2.2.19 379 vanta piṉ
+   toṇṭaṉārum etir vaḻi pāṭu ceytu
+   cintai ceytu aruḷil eṅkaḷ ceytavam eṉṟu niṟpa
+   muntai nāḷ uṉpāl vaitta meyyoḷi viḷaṅkum ōṭu
+   tantu nil eṉṟāṉ ellām tāṉ vaittu vāṅka vallāṉ 2.2.20 380 eṉṟavar
+   viraintu kūṟa iruntavar īnta ōṭu
+   ceṉṟu muṉ koṇarvāṉ pukkār kaṇṭilar tikaittu nōkki
+   niṉṟavar tammaik kēṭṭār tēṭiyum kāṇār māyai
+   oṉṟum aṅku aṟintilār tām uraippatu oṉṟu iṉṟi niṉṟār 2.2.21 381
+   maṟaiyavaṉ āki niṉṟa malaimakaḷ kēḷvaṉ tāṉum
+   uṟai uḷil pukku niṉṟa oru perun toṇṭar kēṭṭa
+   iṟaiyil iṅku eytap pukkāy tāḻttatu eṉ eṉṉa vantu
+   kaṟai maṟai miṭaṟṟiṉāṉaik kai toḻutu uraikkal uṟṟār 2.2.22 380 iḻaiyaṇi
+   munnūl mārpiṉ entai nīr tantu pōṉa
+   viḻai takum ōṭu vaitta vēṟu iṭam tēṭik kāṇēṉ
+   paḻaiya maṟṟu ataṉil nalla pāttiram taruvaṉ koṇṭu ip
+   piḻaiyiṉaip poṟukka vēṇṭum peruma eṉṟu iṟaiñci niṉṟār 2.2.23 383
+   ceṉṉiyāl vaṇaṅki niṉṟa toṇṭaraic ceyirttu nōkki
+   eṉṉitu moḻintavā nī yāṉ vaitta maṇ ōṭu aṉṟip
+   poṉṉiṉāl amaittut tantāy āyiṉuṅ koḷḷēṉ pōṟṟa
+   muṉṉai nāṉ vaitta ōṭē koṇṭu vā eṉṟāṉ muṉṉōṉ 2.2.24 384 kēṭu ilāp
+   periyōy eṉpāl vaittatu keṭutalālē
+   nāṭiyum kāṇēṉ vēṟu nallatu ōr ōṭu cāla
+   nīṭu celvatu tāṉ oṉṟu tarukiṟēṉ eṉavum koḷḷātu
+   ūṭi niṉṟu uraittatu eṉ taṉ uṇarvu elām oḻittatu eṉṉa 2.2.25 385 āvateṉ
+   uṉpāl vaitta aṭaikkalap poruḷai vauvip
+   pāvakam palavum ceytu paḻikku nī oṉṟum nāṇāy
+   yāvarum kāṇa uṉṉai vaḷaittu nāṉ koṇṭē aṉṟip
+   pōvatum ceyyēṉ eṉṟāṉ puṇṇiyap poruḷāy niṉṟāṉ 2.2.26 386 vaḷattiṉāl
+   mikka ōṭu vauviṉēṉ allēṉ ollai
+   uḷattiṉum kaḷavilāmaikku eṉ ceykēṉ uraiyum eṉṉa
+   kaḷattu nañcu oḷittu niṉṟāṉ kātal uṉ makaṉaip paṟṟik
+   kuḷattiṉil mūḻkip pō eṉṟu aruḷiṉāṉ koṭumai illāṉ 2.2.27 387 aiyar nīr
+   aruḷic ceyta vaṇṇam yāṉ ceyvataṟkup
+   poyyil cīrp putalvaṉ illai eṉ ceykēṉ pukalum eṉṉa
+   maiyaṟu ciṟappiṉ mikka maṉaiyavaḷ taṉṉaip paṟṟi
+   moy alar vāvi pukku mūḻkuvāy eṉa moḻintār 2.2.28 388 kaṅkai nati
+   karanta caṭai karantu aruḷi etir niṉṟa
+   veṅ kaṇ viṭaiyavar aruḷa vēṭkōvar uraiceyvār
+   eṅkaḷil ōr capatattāl uṭaṉ mūḻka icaivu illai
+   poṅku puṉal yāṉmūḻkit tarukiṉṟēṉ pōtum eṉa 2.2.29 389 tantatu muṉ
+   tārātē koḷḷāmaikku uṉ maṉaivi
+   an taḷirc ceṅ kaippaṟṟi alai puṉalil mūḻkātē
+   cintai valittu irukkiṉṟāy tillai vāḻ antaṇarkaḷ
+   vantu irunta pēr avaiyil maṉṉuvaṉ yāṉ eṉac ceṉṟār 2.2.30 390 nal
+   oḻukkam talai niṉṟār nāṉ maṟaiyiṉ tuṟai pōṉār
+   tillai vāḻ antaṇarkaḷ vantu irunta tiruntavaiyil
+   ellai ilāṉ muṉ cella iruntoṇṭar avar tāmum
+   malku perum kātaliṉāl vaḻakku mēliṭṭu aṇaintār 2.2.31 391 antaṇaṉ ām
+   entai pirāṉ aru maṟaiyōr muṉ pakarvāṉ
+   inta vēṭkōvaṉpāl yāṉ vaitta pāttirattait
+   tantu oḻiyāṉ keṭuttāṉēl taṉ maṉaivi kaippaṟṟi
+   vantu mūḻkiyum tārāṉ vali ceykiṉṟāṉ eṉṟār 2.2.32 392 naṟai kamaḻum
+   caṭai muṭiyum nāṟṟōḷum muk kaṇṇum
+   kaṟai maruvum tiru miṭarum karantu aruḷi eḻuntu aruḷum
+   maṟaiyavaṉ ittiṟam moḻiya mā maṟaiyōr urai ceyvār
+   niṟaiyuṭaiya vēṭkōvar nīr moḻiyum pukuntatu eṉa 2.2.33 393 nīṇitiyām
+   itu eṉṟu niṉṟa ivar tarum ōṭu
+   pēṇi nāṉ vaitta iṭam peyarntu karantatu kāṇēṉ
+   pūṇ aṇi nūl maṇi mārpīr pukunta paricu itu eṉṟu
+   cēṇiṭaiyum tīṅku aṭaiyāt tiruttoṇṭar uraiceytār 2.2.34 394 tiruvuṭai
+   antaṇāḷar ceppuvār tikaḻnta nīṟṟiṉ
+   uruvuṭai ivar tām vaitta ōṭṭiṉaik koṭuttīr āṉāl
+   tarumivar kuḷattil mūḻkit taruka eṉṟu uraittār ākil
+   maruviya maṉaiviyoṭu mūḻkutal vaḻakkē eṉṟār 2.2.35 395 arun tavat
+   toṇṭar tāmum antaṇar moḻiyak kēṭṭut
+   tiruntiya maṉaiviyārait tīṇṭāmai ceppa māṭṭār
+   poruntiya vakaiyāl mūḻkit tarukiṉṟēṉ pōtum eṉṟu
+   perun tava muṉivarōṭum peyarntu tam maṉaiyaic cārntār 2.2.36 396
+   maṉaiviyār tammaik koṇṭu maṟaic civa yōkiyār muṉ
+   ciṉaviṭaip pākar mēvum tiruppulīc curattu muṉṉar
+   naṉai malarc cōlai vāvi naṇṇit tam uṇmai kāppār
+   puṉai maṇi vēṇut taṇṭiṉ iru talai piṭittup pukkār 2.2.37 397 taṇṭiru
+   talaiyum paṟṟip pukum avar tammai nōkki
+   veṇ tiru nīṟṟu muṇṭa vētiyar mātait tīṇṭik
+   koṇṭu uṭaṉ mūḻkīr eṉṉak kūṭāmai pārōr kēṭkap
+   paṇṭu tam ceykai colli mūḻkiṉār paḻutu ilātār 2.2.38 398 vāviyiṉ mūḻki
+   ēṟum kaṇavarum maṉaivi yārum
+   mēviya mūppu nīṅki viruppuṟum iḷamai peṟṟut
+   tēvarum muṉivar tāmum ciṟappoṭu poḻiyun teyvap
+   pūviṉ mā maḻaiyiṉ mīḷa mūḻkuvār pōṉṟu tōṉṟa 2.2.39 399 annilai avaraik
+   kāṇum aticayam kaṇṭār ellām
+   muṉnilai niṉṟa vēta mutal varaik kaṇṭār illai
+   innilai irunta vaṇṇam eṉ eṉa maruṇṭu niṉṟār
+   tuṉṉiya vicumpiṉ ūṭu tuṇaiyuṭaṉ viṭai mēl koṇṭār 2.2.40 400 kaṇṭaṉar
+   kaikaḷārat toḻutaṉar kalanta kātal
+   aṇṭarum ēttiṉārkaḷ aṉpartam perumai nōkki
+   viṇṭarum polivu kāṭṭi viṭaiyiṉ mēl varuvār tammait
+   toṇṭarum maṉaiviyārum toḻutu uṭaṉ pōṟṟi niṉṟār 2.2.41 401 maṉṟuḷē tiruk
+   kūttu āṭi aṭiyavar maṉaikaḷ tōṟum
+   ceṉṟavar nilaimai kāṭṭum tēvarkaḷ tēvar tāmum
+   veṉṟa aim pulaṉāl mikkīr viruppuṭaṉ irukka nampāl
+   eṉṟum iv iḷamai nīṅkātu eṉṟu eḻuntu aruḷiṉārē 2.2.42 402 viṟaluṭait
+   toṇṭaṉārum veṇṇakaic cevvāy meṉ tōḷ
+   aṟal iyal kūntal āḷām maṉaiviyum aruḷiṉ ārnta
+   tiṟaluṭaic ceykai ceytu civalōkam ataṉai eytip
+   peṟal arum iḷamai peṟṟup pēr iṉpam uṟṟār aṉṟē 2.2.43 403 ayal aṟiyāta
+   vaṇṇam aṇṇalār āṇai uytta
+   mayalil cīrt toṇṭaṉārai yāṉ aṟivakaiyāl vāḻttip
+   puyal vaḷar māṭam nīṭum pūmpukār vaṇikar poyyil
+   ceyal iyaṟ pakaiyār ceyta tirut toṇṭu ceppal uṟṟēṉ. 2.2.44
+       tirucciṟṟampalam
+       [24]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  2.3 iyaṟpakai nāyaṉār purāṇam
+       tirucciṟṟampalam
+
+   404 ceṉṉi veṇkuṭai nīṭu anapāyaṉ tiruk kulam pukaḻ perukkiya ciṟappiṉ
+   maṉṉu tol pukaḻ maruta nīr nāṭṭu vayal vaḷam tara iyalpiṉil aḷittup
+   poṉṉi nal nati mikka nīr pāyntu puṇari taṉṉaiyum puṉita mākkuvatōr
+   naṉṉeṭum perum tīrtta muṉṉuṭaiya nalam ciṟantatu vaḷam pukār nakaram
+   2.3.1
+   405 ak kulap patik kuṭi mutal vaṇikar aḷavil celvattu vaḷamaiyiṉ
+   amaintār
+   cekkar veṇ piṟaic caṭaiyavar aṭimait tiṟattiṉ mikkavar maṟaic
+   cilampaṭiyār
+   mikka cīr aṭiyārkaḷ yār eṉiṉum vēṇṭum yāvaiyum illai eṉṉātē
+   ik kaṭal paṭi nikaḻa muṉ koṭukkum iyalpiṉ niṉṟavar ulaku iyaṟ pakaiyār
+   2.3.2 406 āṟu cūṭiya aiyar mey aṭimai aḷavilāta ōr uḷam niṟai aruḷāl
+   nīṟu cēr tiru mēṉiyār maṉattu niṉaitta yāvaiyum viṉaippaṭa muṭittu
+   māṟu ilāta naṉṉeṟiyiṉil viḷaṅkum maṉai aṟam puri makiḻcciyiṉ vanta
+   pēṟelām avar ēviṉa ceyyum perumaiyē eṉap pēṇi vāḻ nāḷil 2.3.3 407 āyum
+   nuṇ poruḷ ākiyum veḷiyē ampalattuḷ niṉṟu āṭuvār umpar
+   nāyakikkum aḵtu aṟiyavō piriyā naṅkaitāṉ aṟiyāmaiyō aṟiyōm
+   tūya nīṟu poṉ mēṉiyil viḷaṅkat tūrtta vēṭamum tōṉṟa vētiyarāy
+   māya vaṇṇamē koṇṭu tam toṇṭar māṟāta vaṇṇamum kāṭṭuvāṉ vantār 2.3.4 408
+   vantu taṇpukār vaṇikar tam maṟukiṉ maruṅku iyaṟ pakaiyār maṉai pukunta
+   entai empirāṉ aṭiyavar aṇaintār eṉṟu niṉṟatōr iṉpa ātaravāl
+   cintai aṉpoṭu ceṉṟu etir vaṇaṅkic ciṟappiṉ mikka arccaṉaikaḷ muṉ ceytu
+   muntai em perum tavattiṉāleṉkō muṉivar iṅku eḻuntu aruḷiyatu eṉṟār
+   2.3.5 409 eṉṟu kūṟiya iyaṟpakaiyār muṉ eyti niṉṟa ak kaitava maṟaiyōr
+   koṉṟa vārcaṭaiyār aṭiyārkaḷ kuṟittu vēṇṭiṉa kuṇam eṉak koṇṭē
+   oṉṟum nīr etir maṟātu uvantu aḷikkum uṇmai kēṭṭu num pāloṉṟu vēṇṭi
+   iṉṟu nāṉ iṅku vantaṉaṉ ataṉukku icaiyalām eṉil iyampalām eṉṟār 2.3.6
+   410 eṉṉa avvurai kēṭṭu iyaṟpakaiyār yātum oṉṟum eṉ pakkal uṇṭākil
+   aṉṉatu empirāṉ aṭiyavar uṭaimai aiyam illai nīr aruḷ ceyum eṉṉa
+   maṉṉu kātal uṉ maṉaiviyai vēṇṭi vantatu iṅku eṉa aṅkaṇar etirē
+   coṉṉa pōtilum muṉṉaiyiṉ makiḻntu tūya toṇṭaṉār toḻutu urai ceyvār 2.3.7
+   411 itu eṉakku muṉpu uḷḷatē vēṇṭi em pirāṉ ceyta pēṟu eṉakku eṉṉāk
+   katumeṉac ceṉṟu tam maṉaivāḻ vāḻkkai kaṟpiṉ mēmpaṭu kātali yārai
+   viti maṇak kula maṭantai iṉṟuṉai im meyt tavarkku nāṉ koṭuttaṉaṉ eṉṉa
+   matu malark kuḻalāḷ maṉaiviyār kalaṅki maṉam teḷinta piṉ maṟṟu itu
+   moḻivār 2.3.8 412 iṉṟu nīr eṉakku aruḷ ceytatu ituvēl eṉa uyirkku oru
+   nāta nīr uraittatu
+   oṉṟai nāṉ ceyum attaṉai allāl urimai vēṟu uḷatō eṉakku eṉṟu
+   taṉ taṉipperuṅ kaṇavarai vaṇaṅkat tāḻntu toṇṭaṉār tām etir vaṇaṅka
+   ceṉṟu mātavaṉ cēvaṭi paṇintu tikaittu niṉṟaṉaḷ tiruviṉum periyāḷ 2.3.9
+   413 mātu taṉṉai muṉ koṭutta mātavar tām maṉam makiḻntu pēr uvakaiyiṉ
+   malarntē
+   yātu nāṉ iṉic cey paṇi eṉṟē iṟaiñci niṉṟavar tam etir nōkki
+   cāti vētiyar ākiya talaivar taiyal taṉṉai yāṉ taṉik koṭu pōkak
+   kātal mēviya cuṟṟamum patiyum kaṭakka nī tuṇai pōtuka eṉṟār 2.3.10 414
+   eṉṟu avar aruḷic ceyya yāṉē muṉ cey kuṟṟēval
+   oṉṟiyatu taṉṉai eṉṉai uṭaiyavar aruḷic ceyya
+   niṉṟatu piḻaiyām eṉṟu niṉaintu vēṟu iṭattup pukkup
+   poṉ tikaḻ aṟuvai cātti pūṅkaccup poliya vīkki 2.3.11 415 vāḷoṭu palakai
+   ēnti vantu etir vaṇaṅki mikka
+   āḷari ēṟu pōlvār avarai muṉ pōkkip piṉṉē
+   tōḷiṇai tuṇaiyē ākap pōyiṉār tuṉṉiṉārai
+   nīḷiṭaip paṭa muṉ kūṭi nilattiṭai vīḻtta nērvār 2.3.12 416 maṉaiviyār
+   cuṟṟattārum vaḷḷalār cuṟṟattārum
+   iṉaiyatu oṉṟi yārē ceytār iyaṟpakai pittaṉ āṉāl
+   puṉai iḻai taṉṉaik koṇṭu pōvatām oruvaṉ eṉṟu
+   tuṉai perum paḻiyai mīṭpāṉ toṭarvataṟku eḻuntu cūḻvār 2.3.13 417 vēloṭu
+   villum vāḷum curikaiyum eṭuttu mikka
+   kāleṉa vicaiyil ceṉṟu kaṭinakar puṟattup pōkip
+   pāliru maruṅkum īṇṭip paranta ārvam poṅka
+   māl kaṭal kiḷarntatu eṉṉa vantu etir vaḷaittuk koṇṭār 2.3.14 418 vaḻi
+   viṭum tuṇai piṉ pōta vaḻittuṇai āki uḷḷār
+   kaḻi perum kātal kāṭṭik kārikai uṭaṉ pōm pōtil
+   aḻitakaṉ pōkēl īṇṭav varuṅ kulak koṭiyai viṭṭup
+   paḻiviṭa nī pō eṉṟu pakarntu etir nirantu vantār 2.3.15 419 . maṟai
+   muṉi añciṉāṉ pōl mātiṉaip pārkka mātum
+   iṟaivaṉē añca vēṇṭām iyaṟpakai vellum eṉṉa
+   aṟai kaḻal aṇṇal kēḷā aṭiyaṉēṉ avarai ellām
+   taṟai iṭaip paṭuttukiṉṟēṉ taḷarntu aruḷ ceyyēl eṉṟu 2.3.16 420 peru
+   viṟal āḷi eṉṉap piṟaṅku eri citaṟa nōkkip
+   paripavap paṭṭu vanta paṭar peruñ cuṟṟat tārai
+   oruvarum etir nillāmē ōṭip pōyp piḻaiyum aṉṟēl
+   eri cuṭar vāḷil kūṟāyt tuṭikkiṉṟīr eṉṟu nērntār 2.3.17 421 ēṭa! nī eṉ
+   ceytāyāl? ittiṟam iyampu kiṉṟāy
+   nāṭuṟu paḻiyum oṉṉār nakaiyaiyum nāṇāy iṉṟu
+   pāṭavam uraippatu uṉṟaṉ maṉaiviyaip paṉavaṟku īntō
+   kūṭavē maṭivatu aṉṟik koṭukka yām ōṭṭō m eṉṟār 2.3.18 422 maṟṟavar
+   coṉṉa māṟṟam kēṭṭalum maṉattiṉ vanta
+   ceṟṟa muṉ poṅka uṅkaḷ uṭal tuṇi eṅkum cinti
+   muṟṟu num uyirai ellām mutal vicumpu ēṟṟik koṇṭu
+   naṟṟavar tammaip pōka viṭuvēṉ eṉṟu eḻuntār nallōr 2.3.19 423 nērntavar
+   etirnta pōtu niṟainta ac cuṟṟattārum
+   cārntavar tam muṉ cellār taiyalaik koṇṭu peṟṟam
+   ūrntavar paṭimēṟ cella uṟṟu etir uṭaṉṟu poṅki
+   ārnta veñ ciṉattāl mēl ceṉṟu aṭarntu etir taṭuttār (aṉṟē. 2.3.20 424
+   ceṉṟu avar taṭutta pōtil iyaṟpakaiyār muṉ cīṟi
+   vaṉṟuṇai vāḷē yākac cārikai māṟi vantu
+   tuṉṟiṉar tōḷum tāḷum talaikaḷum tuṇittu vīḻttu
+   veṉṟaṭu puliyēṟu aṉṉa amar viḷaiyāṭṭil mikkār 2.3.21 425 mūṇṭu muṉ
+   palarāy vantār taṉi vantu muṭṭiṉārkaḷ
+   vēṇṭiya ticaikaḷ tōṟum vēṟu vēṟu amar cey pōḻtil
+   āṇṭakai vīrar tāmē aṉaivarkkum aṉaivar ākik
+   kāṇṭaku vicaiyil pāyntu kalantu muṉ tuṇittu vīḻttār 2.3.22 426
+   corintaṉa kuṭalkaḷ eṅkum tuṇintaṉa uṭalkaḷ eṅkum
+   virintaṉa talaikaḷ eṅkum miṭaintaṉa kaḻukum eṅkum
+   erintaṉa viḻikaḷ eṅkum etirppavar oruvar iṉṟit
+   tirintaṉar kaḷaṉil eṅkum civaṉ kaḻal puṉainta vīrar 2.3.23 427 māṭalai
+   kuruti poṅka maṭinta ceṅ kaḷattiṉ niṉṟum
+   āṭuṟu ceyaliṉ vanta kiḷaiñarōṭu aṇaintār tammil
+   ōṭiṉār uḷḷār uyntār oḻintavar oḻintē māṇṭār
+   nīṭiya vāḷum tāmum niṉṟavar tāmē niṉṟār 2.3.24 428 tiruvuṭai
+   maṉaiviyāraik koṭuttu iṭaic ceṟuttu muṉpu
+   varu perum cuṟṟam ellām vāḷiṉāl tuṇittu māṭṭi
+   arumaṟai muṉiyai nōkki aṭikaḷ nīr añcā vaṇṇam
+   poruvaruṅ kāṉam nīṅka viṭuvaṉ eṉṟu uṭaṉē pōntār 2.3.25 429 iruvarāl
+   aṟiya oṇṇā oruvar piṉ cellum ēḻai
+   poru tiṟal vīrar piṉpu pōka muṉ pōkum pōtil
+   arumaṟai muṉivaṉ cāykkāṭu ataṉ maruṅku aṇaiya mēvit
+   tiru mali tōḷiṉāṉai mīḷ eṉac ceppiṉāṉē 2.3.26 430 tava muṉi taṉṉai
+   mīḷac coṉṉa piṉ talaiyāl āra
+   avaṉ malarp pataṅkaḷ cūṭi añcali kūppi niṉṟu
+   puvaṉam mūṉṟu uyya vanta pūcuraṉ taṉṉai ētti
+   ivaṉ aruḷ peṟap peṟṟēṉ eṉṟu iyaṟpakaiyārum mīṇṭār 2.3.27 431 ceyvataṟku
+   ariya ceykai ceyta nal toṇṭar pōka
+   mai tikaḻ kaṇṭaṉ eṇtōḷ maṟaiyavaṉ makiḻntu nōkkip
+   poy tarum uḷḷam illāṉ pārkkilaṉ pōṉāṉ eṉṟu
+   mey taru cintaiyārai mīḷavum aḻaikkal uṟṟāṉ 2.3.28 432 iyaṟpakai muṉivā
+   ōlam īṇṭu nī varuvāy ōlam
+   ayarppu ilātāṉē ōlam aṉpaṉē ōlam ōlam
+   ceyaṟkaruñ ceykai ceyta tīraṉē ōlam eṉṟāṉ
+   mayakkaṟu maṟai ōliṭṭu māl ayaṉ tēṭa niṉṟāṉ 2.3.29 433 aḻaitta pēr ōcai
+   kēḷā aṭiyaṉēṉ vantēṉ vantēṉ
+   piḻaittavar uḷarēl iṉṉum peruvali taṭakkai vāḷiṉ
+   iḻaittavar ākiṉṟār eṉṟu iyaṟpakaiyār vantu eytak
+   kuḻaip poli kātiṉāṉum maṟaintaṉaṉ kōlam koḷvāṉ 2.3.30 434 ceṉṟavar
+   muṉiyaik kāṇār cēyiḻai taṉṉaik kaṇṭār
+   poṉtikaḻ kuṉṟu veḷḷip poruppiṉ mēl polintatu eṉṉa
+   taṉtuṇai uṭaṉē vāṉil talaivaṉai viṭai mēl kaṇṭār
+   niṉṟilar toḻutu vīḻntār nilattiṉiṉṟu eḻuntār nērntār 2.3.31 435
+   colluvatu aṟiyēṉ vāḻi tōṟṟiya tōṟṟam pōṟṟi
+   vallai vantu aruḷi eṉṉai vaḻittoṇṭu koṇṭāy pōṟṟi
+   ellaiyil iṉpa veḷḷam eṉakku aruḷ ceytāy pōṟṟi
+   tillai ampalattuḷ āṭum cēvaṭi pōṟṟi eṉṉa 2.3.32 436 viṇṇiṭai niṉṟa
+   veḷḷai viṭaiyavar aṭiyār tammai
+   eṇṇiya ulaku taṉṉil ippaṭi nampāl aṉpu
+   paṇṇiya parivu kaṇṭu makiḻntaṉam paḻutu ilātāy
+   naṇṇiya maṉaivi yōṭu nammuṭaṉ pōtuka eṉṟu 2.3.33 437 tiruvaḷar ciṟappiṉ
+   mikka tirut toṇṭar tamakkun tēṟṟam
+   maruviya teyvak kaṟpiṉ maṉaiviyār tamakkun takka
+   perukiya aruḷiṉ nīṭu pēṟu aḷittu imaiyōr ēttap
+   poru viṭaip pākar maṉṉum poṟ potu ataṉuḷ pukkār 2.3.34 438 vāṉavar
+   pūviṉ māri poḻiya mā maṟaikaḷ ārppa
+   ñāṉa mā muṉivar pōṟṟa nala miku civalōkattil
+   ūṉamil toṇṭar kumpiṭṭu uṭaṉ uṟai perumai peṟṟār
+   ēṉaiya cuṟṟattārum vāṉiṭai iṉpam peṟṟār 2.3.35 439 iṉpuṟu tāram taṉṉai
+   īcaṉukku aṉpar eṉṟē
+   tuṉpuṟātu utavum toṇṭar perumaiyait toḻutu vāḻtti
+   aṉpuṟu maṉattāl nātaṉ aṭiyavarkku aṉpu nīṭu
+   maṉpukaḻ iḷaicai māṟaṉ vaḷattiṉai vaḻuttal uṟṟēṉ 2.3.36
+       tirucciṟṟampalam
+       [25]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  2.4 iḷaiyāṉ kuṭi māṟa nāyaṉār purāṇam
+       tirucciṟṟampalam
+
+   440 am poṉ nīṭiya ampalattiṉil āṭuvār aṭi cūṭuvār
+   tampirāṉ aṭimait tiṟattu uyar cālpiṉ mēṉmai tarittuḷār
+   nampu vāymaiyil nīṭu cūttira naṟ kulam cey tavattiṉāl
+   impar ñālam viḷakkiṉār iḷaiyāṉ kuṭip pati māṟaṉār 2.4.1
+   441 ēriṉ malku vaḷattiṉāl varum ellai illator celvamum
+   nīriṉ malkiya vēṇiyār aṭiyār tiṟattu niṟaintatōr
+   cīriṉ malkiya aṉpiṉ mēṉmai tirunta maṉṉiya cintaiyum
+   pāriṉ malka virumpi maṟṟavai peṟṟa nīṭu payaṉ koḷvār 2.4.2 442 āram
+   eṉpu puṉainta aiyar tam aṉpar eṉpatōr taṉmaiyāl
+   nēra vantavar yāvar āyiṉum nittam ākiya patti muṉ
+   kūra vantu etir koṇṭu kaikaḷ kuvittu niṉṟu cevip pulattu
+   īram meṉ maturap patam parivu eyta muṉṉurai ceytapiṉ 2.4.3 443 koṇṭu
+   vantu maṉaip pukuntu kulāvu pātam viḷakkiyē
+   maṇṭu kātaliṉ ātaṉattu iṭaivaittu aruccaṉai ceyta piṉ
+   uṇṭi nālu vitattil āṟu cuvait tiṟattiṉil oppu ilā
+   aṇṭar nāyakar toṇṭar iccaiyil amutu ceyya aḷittuḷār 2.4.4 444 āḷum
+   nāyakar aṉpar āṉavar aḷavu ilār uḷam makiḻavē
+   nāḷum nāḷum niṟaintu vantu nukarnta taṉmaiyiṉ naṉmaiyāl
+   nīḷum mā nitiyiṉ parappu neruṅku celvam nilāvi eṇ
+   tōḷiṉār aḷakaikku iruttiya tōḻaṉār eṉa vāḻum nāḷ 2.4.5 445 celvam
+   mēviya nāḷil icceyal ceyvatu aṉṟiyum meyyiṉāl
+   allal nalkuravu āṉa pōtiṉum vallar eṉṟu aṟivikkavē
+   mallal nīṭiya celvam mella maṟaintu nāḷ toṟum māṟi vantu
+   ollaiyil vaṟumaip patam puka uṉṉiṉār tillai maṉṉiṉār 2.4.6 446 iṉṉavāṟu
+   vaḷam curuṅkavum empirāṉ iḷaiyāṉ kuṭi
+   maṉṉaṉ māṟaṉ maṉam curuṅkutal iṉṟi uḷḷaṉa māṟiyum
+   taṉṉai māṟi iṟukka uḷḷa kaṭaṉkaḷ takkaṉa koṇṭu piṉ
+   muṉṉai māṟil tiruppaṇik kaṇ mutirnta koḷkaiyar āyiṉār 2.4.7 447 maṟṟu
+   avar ceyal iṉṉa taṉmaiyatu āka māl ayaṉāṉa ak
+   koṟṟa ēṉamum aṉṉamum teriyāta koḷkaiyar āyiṉar
+   peṟṟam ūrvatum iṉṟi nīṭiya pētaiyāḷuṭaṉ iṉṟi ōr
+   naṟṟavattavar vēṭamē koṭu ñālam uyntiṭa naṇṇiṉār 2.4.8 448 mārik
+   kālattu iraviṉil vaikiyōr
+   tārippu iṉṟip paci talaik koḷvatu
+   pārittu illam aṭainta piṉ paṇpuṟa
+   vērittu ārāṉ viruntu etir koṇṭaṉaṉ 2.4.9 449 īra mēṉiyai nīkki iṭaṅ
+   koṭuttu
+   āra iṉṉamutu ūṭṭutaṟku ācaiyāl
+   tāra mātarai nōkkit tapōtaṉar
+   tīravē pacittār ceyvatu eṉ eṉṟu 2.4.10 450 . namakku muṉpu iṅku
+   uṇavilai āyiṉum
+   imak kulakkoṭi pākarkku iṉiyavar
+   tamakku nām iṉ aṭicil takavuṟa
+   amaikku māṟu eṅṅaṉē aṇaṅkē eṉa 2.4.11 451 . mātu kūṟuvāḷ maṟṟu oṉṟuṅ
+   kāṇkilēṉ
+   ētilārum iṉit taruvār illai
+   pōtum vaikiṟṟup pōm iṭam vēṟillai
+   tītu ceyviṉai yēṟku eṉ ceyal 2.4.12 452 .cellal nīṅkap pakal vittiya
+   cennel
+   mallal nīr muḷai vārik koṭu vantāl
+   vallavāṟu amutu ākkalum ākum maṟṟu
+   allatu oṉṟu aṟiyēṉ eṉṟu ayarvuṟa 2.4.13 453 . maṟṟa māṟṟam maṉaiviyār
+   kūṟa muṉ
+   peṟṟa celvam eṉap peritu uḷ makiḻntu
+   uṟṟa kātaliṉāl orup paṭṭaṉar
+   cuṟṟu nīr vayal cellat toṭaṅkuvār 2.4.14 454 .peruku vāṉam piṟaṅka
+   maḻai poḻintu
+   aruku nāppaṇ aṟivaruṅ kaṅkul tāṉ
+   karuku mai iruḷiṉ kaṇam kaṭṭu viṭṭu
+   uruku kiṉṟatu pōṉṟatu ulaku elām 2.4.15 455 .eṇṇum iv ulakattavar
+   yāvarum
+   tuṇṇeṉumpaṭi tōṉṟa muṉ tōṉṟiṭil
+   vaṇṇa nīṭiya maikkuḻampām eṉṟu
+   naṇṇal ceyyā naṭuviruḷ yāmattu 2.4.16 456 .uḷḷam aṉpu koṇṭu ūkkavōr
+   pēriṭāk
+   koḷḷa muṉ kavittuk kuṟiyiṉ vaḻip
+   puḷḷum uṟaṅkum vayal pukap pōyiṉār
+   vaḷḷalār iḷaiyāṉ kuṭi māṟaṉār 2.4.17 457 .kāliṉāl taṭavic ceṉṟu
+   kaikaḷāl
+   cāli veṇ muḷai nīr vaḻic cārntaṉa
+   kōli vāri iṭā niṟaiyak koṇṭu
+   mēl eṭuttuc cumantu ollai mīṇṭār 2.4.18 458 .vanta piṉ maṉaiviyārum
+   vāytaliṉ niṉṟu vāṅkic
+   cintaiyil virumpi nīril cēṟṟiṉai alampi ūṟṟi
+   vem taḻal aṭuppiṉ mūṭṭa viṟaku illai eṉṉa mēlōr
+   antamil maṉaiyil nīṭum alakiṉai aṟuttu vīḻttār 2.4.19 459 . muṟittu
+   avai aṭuppiṉ māṭṭi muḷai vittup patam muṉ koḷḷa
+   vaṟutta piṉ ariciyākki vākkiya ulaiyil peytu
+   veṟuppil iṉ aṭicil ākkimēm paṭu kaṟpiṉ mikkār
+   kaṟikku iṉi eṉ ceykōm eṉṟu iṟaiñciṉār kaṇavaṉārai 2.4.20 460 .vaḻi
+   varum iḷaippiṉ ōṭum varuttiya paciyiṉālē
+   aḻivuṟum aiyaṉ eṉṉum aṉpiṉil polintu ceṉṟu
+   kuḻi nirampāta puṉceyk kuṟumpayir taṭavip pācap
+   paḻi mutal paṟippār pōlap paṟittu avai kaṟikku nalka 2.4.21 461
+   maṉaiviyār koḻunar tanta maṉam makiḻ kaṟikaḷ āyntu
+   puṉal iṭaik kaḻuvit takka puṉita pāttirattuk kaimmai
+   viṉaiyiṉāl vēṟu vēṟu kaṟi amutu ākkip paṇṭai
+   niṉaiviṉāl kuṟaiyai nērntu tiruvamutu amaittu niṉṟu 2.4.22 462
+   kaṇavaṉār tammai nōkkik kaṟi amutu āṉa kāṭṭi
+   iṇai ilātārai īṇṭa amutu ceyvippōm eṉṉa
+   uṇaviṉāl uṇara oṇṇā oruvarai uṇartta vēṇṭi
+   aṇaiya muṉ ceṉṟu niṉṟu aṅku avar tuyil akaṟṟal uṟṟār 2.4.23 463
+   aḻuntiya iṭaruḷ nīṅki aṭiyaṉēṉ uyya eṉpāl
+   eḻuntaruḷ periyōy īṇṭu amutu ceytu aruḷka eṉṟu
+   toḻumpaṉār uraitta pōtil cōtiyāy eḻuntut tōṉṟac
+   ceḻun tiru maṉaiviyārum toṇṭarum tikaittu niṉṟār 2.4.24 464 mālayaṟku
+   ariya nātaṉ vaṭivu oru cōti ākac
+   cālavē mayaṅkuvārkkuc caṅkaraṉ tāṉ makiḻntē
+   ēlavār kuḻalāḷ taṉṉōṭu iṭapa vākaṉaṉāy tōṉṟic
+   cīlamār pūcai ceyta tirut toṇṭar tammai nōkki 2.4.25 465 aṉpaṉē aṉpar
+   pūcai aḷitta nī aṇaṅkiṉōṭum
+   eṉ perum ulakam eyti irunitik kiḻavaṉ tāṉē
+   muṉ peru nitiyam ēnti moḻi vaḻi ēval kēṭpa
+   iṉpam ārntu irukka eṉṟē ceytāṉ evarkkum mikkāṉ 2.4.26 466 ipparicu
+   ivarkkut takka vakaiyiṉāl iṉpam nalki
+   muppuram ceṟṟār aṉpar muṉpu eḻuntu aruḷip pōṉār
+   ap periyavar tam tūya aṭi iṇai talai mēl koṇṭu
+   meyp poruḷ cōti vēntaṉ ceyaliṉai viḷampal uṟṟēṉ 2.4.27
+       tirucciṟṟampalam
+       [26]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  2.5. meyp poruḷ nāyaṉār purāṇam
+       tirucciṟṟampalam
+
+   467 cēti naṉṉāṭṭu nīṭu tiruk kōvalūriṉ maṉṉi
+   mātoru pākar aṉpiṉ vaḻi varu malāṭar kōmāṉ
+   vēta nal neṟiyiṉ vāymai viḷaṅkiṭa mēṉmai pūṇṭu
+   kātalāl īcarkku aṉpar karuttu aṟintu ēval ceyvār 2.5.1
+   468 araciyal neṟiyiṉ vanta aṟaneṟi vaḻāmal kāttu
+   varai neṭumntōḷāl veṉṟu māṟṟalar muṉaikaḷ māṟṟi
+   urai tiṟampāta nīti ōṅku nīrmaiyiṉiṉ mikkār
+   tirai cey nīrccaṭaiyāṉ aṉpar vēṭamē cintai ceyvār 2.5.2 469 maṅkaiyaip
+   pākamāka uṭaiyavar maṉṉum kōyil
+   eṅkaṇum pūcai nīṭi ēḻicaip pāṭal āṭal
+   poṅkiya ciṟappiṉ malkap pōṟṟutal purintu vāḻvār
+   taṅkaḷ nāyakarukku aṉpar tāḷalāl cārpu oṉṟu illār 2.5.3 470 tēṭiya māṭu
+   nīṭu celvamum tillai maṉṟuḷ
+   āṭiya perumāṉ aṉparkku āvaṉa ākum eṉṟu
+   nāṭiya maṉattiṉōṭu nāyaṉmār aṇainta pōtu
+   kūṭiya makiḻcci poṅkak kuṟaivu aṟak koṭuttu vantār 2.5.4 471 iṉṉavāṟu
+   oḻukum nāḷil ikal tiṟam purintu ōr maṉṉaṉ
+   aṉṉavar tammai vellum ācaiyāl amar mēṟkoṇṭu
+   poṉ aṇi ōṭai yāṉaip poru pari kālāḷ maṟṟum
+   paṉ muṟai iḻantu tōṟṟup paripavap paṭṭup pōṉāṉ 2.5.5 472 ippaṭi iḻanta
+   māṟṟāṉ ikaliṉāl vella māṭṭāṉ
+   meyp poruḷ vēntaṉ cīlam aṟintu veṇ nīṟu cāttum
+   apperu vēṭam koṇṭē aṟṟattil velvāṉ ākac
+   cepparu nilaimai eṇṇit tiruk kōvalūril cērvāṉ 2.5.6 473 mey ellām nīṟu
+   pūci vēṇikaḷ muṭittuk kaṭṭik
+   kaiyiṉil paṭai karanta puttakak kavaḷi ēnti
+   mai poti viḷakkē eṉṉa maṉattiṉuḷ kaṟuppu vaittup
+   poy tava vēṭam koṇṭu pukuntaṉaṉ mutta nātaṉ 2.5.7 474 mā tava vēṭam
+   koṇṭa vaṉkaṇāṉ māṭam tōṟum
+   kōtai cūḻ aḷaka pārak kuḻaik koṭi āṭa mītu
+   cōti veṇ koṭikaḷ āṭuñ cuṭar neṭu maṟukil pōkic
+   cēyatir perumāṉ kōyil tirumaṇi vāyil cērntāṉ 2.5.8 475 kaṭai uṭaik
+   kāvalāḷar kai toḻutu ēṟa niṉṟē
+   uṭaiyavar tāmē vantār uḷ eḻuntu aruḷum eṉṉat
+   taṭai pala pukka piṉpu taṉit taṭai niṉṟa tattaṉ
+   iṭai terintu aruḷa vēṇṭum tuyil koḷḷum iṟaivaṉ eṉṟāṉ 2.5.9 476 eṉṟu
+   avaṉ kūṟak kēṭṭē yāṉ avaṟku uṟuti kūṟa
+   niṉṟiṭu nīyum eṉṟē avaṉaiyum nīkkip pukkup
+   poṉ tikaḻ paḷḷik kaṭṭil puravalaṉ tuyila māṭē
+   maṉṟalaṅ kuḻal meṉ cāyal mā tēvi iruppak kaṇṭāṉ 2.5.10 477 kaṇṭu ceṉṟu
+   aṇaiyum pōtu katum eṉa iḻintu tēvi
+   vaṇṭalar mālaiyāṉai eḻuppiṭa uṇarntu maṉṉaṉ
+   aṇṭar nāyakaṉār toṇṭarām eṉak kuvitta ceṅkai
+   koṇṭu eḻuntu etirē ceṉṟu koḷkaiyiṉ vaṇaṅki niṉṟu 2.5.11 478 maṅkalam
+   peruka maṟṟu eṉ vāḻvu vantu aṇaintatu eṉṉa
+   iṅku eḻuntu aruḷap peṟṟatu eṉ kolō eṉṟu kūṟa
+   uṅkaḷ nāyakaṉār muṉṉam uraitta ākama nūl maṇmēl
+   eṅkum ilātatu oṉṟu koṭu vantēṉ iyampa eṉṟāṉ 2.5.12 479 pēṟu eṉakku itaṉ
+   mēl uṇṭō pirāṉ aruḷ ceyta inta
+   māṟilā ākamattai vācittu aruḷa vēṇṭum eṉṉa
+   nāṟu pūṅ kōtai mātu taviravē nāṉum nīyum
+   vēṟu iṭattu irukka vēṇṭum eṉṟu avaṉ viḷampa vēntaṉ 2.5.13 480 tirumakaḷ
+   eṉṉa niṉṟa tēviyār tammai nōkkip
+   parivuṭaṉ viraiya antappurattiṭaip pōka ēvit
+   taru tava vēṭattāṉait taviciṉ mēl iruttit tāmum
+   iru nilattu iruntu pōṟṟi iṉi aruḷ ceyyum eṉṟāṉ 2.5.14 481 kait talattu
+   irunta vañcak kavaḷikai maṭi mēl vaittup
+   puttakam aviḻppāṉ pōṉṟu purinta avar vaṇaṅkum pōtil
+   pattiram vāṅkit tāṉ muṉ niṉaitta ap paricē ceyya
+   meyt tava vēṭamē meypporuḷ eṉat toḻutu veṉṟār 2.5.15 482 maṟaittavaṉ
+   pukunta pōtē maṉam aṅku vaitta tattaṉ
+   iṟaip poḻutiṉ kaṇ kūṭi vāḷiṉāl eṟiyal uṟṟāṉ
+   niṟaitta ceṅ kuruti cōra vīḻkiṉṟār nīṇṭa kaiyāl
+   taṟaip paṭum aḷavil tattā namar eṉat taṭuttu vīḻntār 2.5.16 483 vētaṉai
+   eyti vīḻnta vēntarāl vilakkap paṭṭa
+   tātaṉān tattaṉ tāṉum talaiyiṉāl vaṇaṅkit tāṅki
+   yātu nāṉ ceykēṉ eṉṉa empirāṉ aṭiyār pōka
+   mītiṭai vilakkā vaṇṇam koṇṭu pōy viṭu nī eṉṟār 2.5.17 484 at tiṟam
+   aṟintār ellām aracaṉait tīṅku ceyta
+   poyt tavaṉ taṉṉaik kolvōm eṉap puṭai cūḻnta pōtu
+   tattaṉum avarai ellām taṭuttu uṭaṉ koṇṭu pōvāṉ
+   it tavaṉ pōkap peṟṟatu iṟaivaṉatu āṇai eṉṟāṉ 2.5.18 485 avvaḻi avarkaḷ
+   ellām añciyē akaṉṟu nīṅkac
+   cevviya neṟiyil tattaṉ tirunakar kaṭantu pōntu
+   kai vaṭi neṭuvāḷ ēnti āḷuṟāk kāṉañ cēra
+   vev viṉaik koṭiyōṉ taṉṉai viṭṭa piṉ mīṇṭu pōntāṉ 2.5.19 486 maṟṟu avaṉ
+   koṇṭu pōṉa vañcaṉai vēṭattāṉ mēl
+   ceṟṟavar tammai nīkkit tītu ilā neṟiyil viṭṭa
+   col tiṟam kēṭka vēṇṭic cōrkiṉṟa āvi tāṅkum
+   koṟṟavaṉ muṉpu ceṉṟāṉ kōmakaṉ kuṟippil niṉṟāṉ 2.5.20 487 ceṉṟu aṭi
+   vaṇaṅki niṉṟu cey tava vēṭam koṇṭu
+   veṉṟavaṟku iṭaiyūṟu iṉṟi viṭṭaṉaṉ eṉṟu kūṟa
+   iṉṟu eṉakku aiyaṉ ceytatu yār ceya vallār eṉṟu
+   niṉṟavaṉ taṉṉai nōkki niṟai perum karuṇai kūrntār 2.5.21 488 araciyal
+   āyattārkkum aḻivuṟum kātalārkkum
+   viraviya ceykai taṉṉai viḷampuvār vitiyiṉālē
+   paraviya tiru nīṟṟu aṉpu pātu kāttu uyppīr eṉṟu
+   puravalar maṉṟuḷ āṭum pūṅ kaḻal cintai ceytār 2.5.22 489 toṇṭaṉārkku
+   imayap pāvai tuṇaivaṉār avar muṉ tammaik
+   kaṇṭavāṟu etirē niṉṟu kāṭci tantaruḷi mikka
+   aṇṭa vāṉavar kaṭku eṭṭā aruḷ kaḻal nīḻal cērak
+   koṇṭavāṟu iṭai aṟāmal kumpiṭum koḷkai īntār 2.5.23 490 iṉṉuyir cekukkak
+   kaṇṭum empirāṉ aṉpar eṉṟē
+   naṉ neṟi kātta cēti nātaṉār perumai taṉṉil
+   eṉ urai ceytēṉ āka ikal viṟaṉ miṇṭar poṟ tāḷ
+   ceṉṉi vaittu avar muṉ ceyta tirut toṇṭu ceppal uṟṟēṉ 2.5.24
+       tirucciṟṟampalam
+       [27]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  2.6. viṟaṉmiṇṭa nāyaṉār purāṇam
+       tirucciṟṟampalam
+
+   491 virai cey naṟum pūn toṭai itaḻi vēṇiyār tam kaḻal paravip
+   paracupeṟu mā tava muṉivaṉ paracu rāmaṉ peṟu nāṭu
+   tirai cey kaṭaliṉ peruvaḷavaṉum tiruntu nilaṉiṉ ceḻu vaḷaṉum
+   varaiyiṉ vaḷaṉum uṭaṉ peruki malku nāṭu malai nāṭu 2.6.1
+   492 vāri coriyum katir muttum vayalmeṉ karumpil paṭu muttum
+   vēral viḷaiyum kuḷir muttum vēḻa maruppiṉ oḷir muttum
+   mūral eṉac col veṇ mutta nakaiyār terintu muṟai kōkkum
+   cērar tiru nāṭṭu ūrkaḷiṉ muṉ ciṟanta mūtūr ceṅkuṉṟūr 2.6.2 493 eṉṉum
+   peyariṉ viḷaṅki ulakēṟum perumai uṭaiyatu tāṉ
+   aṉṉam payilum vayal uḻaviṉ amainta vaḷattāl āynta maṟai
+   coṉṉa neṟiyiṉ vaḻi oḻukum tūya kuṭimait talai niṉṟār
+   maṉṉum kulattiṉ mā maṟai nūl marapiṟ periyōr vāḻ patiyām 2.6.3 494 ap
+   poṉ patiyiṉ iṭai vēḷāṇ kulattai viḷakka avatarittār
+   ceppaṟku ariya perum cīrttic civaṉār ceyya kaḻal paṟṟi
+   ep paṟṟiṉaiyum aṟa eṟivār ellai teriya oṇṇātār
+   meyp pattarkaḷ pāl parivuṭaiyār empirāṉār viṟaṉ miṇṭar 2.6.4 495
+   natiyum matiyum puṉainta caṭai nampar virumpi nalam ciṟanta
+   patikaḷ eṅkum kumpiṭṭup paṭarum kātal vaḻic celvār
+   mutirum aṉpil perum toṇṭar muṟaimai nīṭu tiruk kūṭṭattu
+   etir muṉ paravum aruḷ peṟṟē iṟaivar pātam toḻap peṟṟār 2.6.5 496 poṉ
+   tāḻ aruvi malaināṭu kaṭantu kaṭal cūḻ puvi eṅkum
+   ceṉṟu āḷ uṭaiyār aṭiyavar tam tiṇmai oḻukka naṭai celutti
+   vaṉ tāḷ mēruc cilai vaḷaittup puraṅkaḷ ceṟṟa vaitikat tēr
+   niṉṟār irunta tiruvārūr paṇintār nikar oṉṟu illātār 2.6.6 497 tiruvār
+   perumai tikaḻkiṉṟa tēva āciriyaṉ iṭaip polintu
+   maruvā niṉṟa civaṉaṭiyār tammait toḻutu vantu aṇaiyātu
+   oruvāṟu otuṅkum vaṉ toṇṭaṉ puṟakeṉṟu uraippac civaṉ aruḷāl
+   perukā niṉṟa perum pēṟu peṟṟār maṟṟum peṟa niṉṟār 2.6.7 498 cēṇ ār
+   mēruc cilai vaḷaitta civaṉār aṭiyār tirukkūṭṭam
+   pēṇātu ēkum ūraṉukkum pirāṉām taṉmaip piṟai cūṭip
+   pūṇār aravam puṉaintārkkum puṟaku eṉṟu uraikka maṟṟavar pāl
+   kōṇā aruḷaip peṟṟār maṟṟu iṉiyār perumai kūṟuvār 2.6.8 499 ñālam uyya
+   nām uyya nampi caiva naṉ ṉeṟiyiṉ
+   cīlam uyyat tirut toṇṭat tokai muṉ pāṭac ceḻu maṟaikaḷ
+   ōlam iṭavum uṇarvu ariyār uṭaṉām uḷatu eṉṟāl
+   ālam amutu ceyta pirāṉ aṭiyār perumai aṟintārār 2.6.9 500 okka neṭu nāḷ
+   iv ulakil uyarnta caivap perun taṉmai
+   tokka nilaimai neṟi pōṟṟit toṇṭu peṟṟa viṟaṉ miṇṭar
+   takka vakaiyāl tam perumāṉ aruḷiṉālē tāḷ niḻalṟkīḻ
+   mikka kaṇa nāyakar ākum taṉmai peṟṟu viḷaṅkiṉār 2.6.10 501 vēṟu piriteṉ
+   tirut toṇṭat tokaiyāl ulaku viḷaṅka varum
+   pēṟu taṉakkuk kāraṇarām pirāṉār viṟaṉ miṇṭariṉ perumai
+   kūṟum aḷavu eṉ aḷaviṟṟē avar tāḷ ceṉṉi mēṟ koṇṭē
+   āṟai vaṇikar amar nīti aṉpar tirut toṇṭu aṟaikuvām 2.6.11
+       tirucciṟṟampalam
+       [28]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  2.7. amar nīti nāyaṉār purāṇam
+       tirucciṟṟampalam
+
+   502 cīril nīṭiya cempiyar poṉṉi naṉṉāṭṭuk
+   kāriṉ mēviya kaḷi aḷi malarp poḻil cūḻntu
+   tēriṉ mēviya ceḻu maṇivītikaḷ ciṟantu
+   pāril nīṭiya perumai cēr pati paḻaiyāṟai 2.7.1
+   503 maṉṉum ap pati vaṇikar tam kulattiṉil vantār
+   poṉṉum muttum nal maṇikaḷum pūntukil mutalā
+   en nilattiṉum uḷḷaṉa varu vaḷattu iyalpāl
+   an nilaikkaṇ mikkavar amar nītiyār eṉpār 2.7.2 504 cintai ceyvatu civaṉ
+   kaḻal allatu oṉṟu illār
+   anti vaṇṇar tam aṭiyavarkku amutu ceyvittuk
+   kantai kīḷ uṭai kōvaṇam karuttu aṟintu utavi
+   vanta celvattiṉ vaḷattiṉāl varum payaṉ koḷvār 2.7.3 505 mukkaṇ nakkarām
+   mutalvaṉār avar tiru nalūr
+   mikka cīr vaḷar tiruviḻā viruppuṭaṉ vaṇaṅkit
+   takka aṉparkaḷ amutu cey tirumaṭam camaittār
+   tokka cuṟṟamum tāmum vantu aṇaintaṉar tūyōr 2.7.4 506 maruvum aṉpoṭu
+   vaṇaṅkiṉar maṇi kaṇṭar nallūrt
+   tiru viḻā aṇi cēvittut tiru maṭattu aṭiyār
+   perukum iṉpamōṭu amutu ceytiṭa aruḷ pēṇi
+   uruku cintaiyiṉ makiḻntu uṟai nāḷ iṭai orunāḷ 2.7.5 507 piṟait taḷir
+   caṭaip peruntakaip perum tiru nallūrk
+   kaṟaik kaḷattu iṟai kōvaṇap perumai muṉ kāṭṭi
+   niṟaitta aṉpuṭait toṇṭarkku nīṭaruḷ koṭuppāṉ
+   maṟaik kulattoru piramacāriyiṉ vaṭivu āki 2.7.6 508 ceyya puṉ caṭai
+   karantatu ōr tirumuṭic cikaiyum
+   caiva veṇ tiru nīṟṟu muṇṭakattu oḷit taḻaippum
+   meyyiṉ veṇ puri nūluṭaṉ viḷaṅkum māṉ tōlum
+   kaiyil maṉṉiya pavittira marakatak katirum 2.7.7 509 muñci nāṇuṟa
+   muṭintatu cāttiya araiyil
+   tañca mā maṟaik kōvaṇa āṭaiyiṉ acaivum
+   vañca val viṉaik kaṟuppaṟum maṉattu aṭiyārkaḷ
+   neñcil nīṅkiṭā aṭi malar nīṇilam poliya 2.7.8 510 kaṇṭavarkku uṟu
+   kātaliṉ maṉam karaintu urukat
+   toṇṭar aṉpu eṉum tū neṟi veḷip paṭuppār āyt
+   taṇṭiṉ mītu tiru kōvaṇam nīṟṟuppai taruppai
+   koṇṭu vantu amar nītiyār tiru maṭam kuṟuka 2.7.9 511 vaṭivu kāṇṭalum
+   maṉattiṉum mika mukam malarntu
+   kaṭitu vantu etir vaṇaṅki im maṭattiṉil kāṇum
+   paṭi ilāta nīr aṇaiya muṉ payil tavam eṉṉō
+   aṭiyaṉēṉ ceytatu eṉṟaṉar amarnīti aṉpar 2.7.10 512 pēṇum aṉparai nōkki
+   nīr perukiya aṭiyārkku
+   ūṇum mēṉmaiyil ūṭṭi naṟ kantai kīḷ uṭaikaḷ
+   yāṇar veṇ kiḻik kōvaṇam ītal kēṭṭu ummaik
+   kāṇa vantaṉam eṉṟaṉaṉ kaṇ nutal karantōṉ 2.7.11 513 eṉṟu tampirāṉ aruḷ
+   ceya it tiru maṭattē
+   naṉṟu nāṉ maṟai naṟṟavar amutu ceytu aruḷat
+   tuṉṟu vētiyar tūymaiyiṉ amaippatum uḷatāl
+   iṉṟu nīrum iṅku amutu ceytu aruḷum eṉṟu iṟaiñca 2.7.12 514 vaṇaṅkum
+   aṉparai nōkki am maṟaiyavar icaintē
+   aṇaṅku nīrp poṉṉi āṭi nāṉ vara maḻai variṉum
+   uṇaṅku kōvaṇam vaittu nīr tārum eṉṟu oru veṇ
+   kuṇaṅ koḷ kōvaṇam taṇṭiṉil aviḻttuk koṭuppār 2.7.13 515 ōṅku kōvaṇap
+   perumaiyai uḷḷavāṟu umakkē
+   īṅku nāṉ colla vēṇṭuvatu illai nīr itaṉai
+   vāṅki nāṉ varum aḷavum ummiṭattu ikaḻātē
+   āṅku vaittu nīr tārum eṉṟu avar kaiyil koṭuttār 2.7.14 516 koṭutta
+   kōvaṇam kaik koṇṭu kōtu ilā aṉpar
+   kaṭuppil iṅku eḻuntu aruḷum nīr kuḷittu eṉak kaṅkai
+   maṭutta tumpiya vaḷar caṭai maṟaitta am maṟaiyōr
+   aṭutta teṇṭiraip poṉṉi nīr āṭa eṉṟu akaṉṟār 2.7.15 517 tanta kōvaṇam
+   vāṅkiya taṉip perun toṇṭar
+   muntai antaṇar moḻi koṇṭu muṉpu tām koṭukkum
+   kantai kīḷ uṭai kōvaṇam aṉṟi ōr kāppuc
+   cintai ceytu vēṟu iṭattu oru cēmattiṉ vaittār 2.7.16 518 pōṉa vētiyar
+   vaitta kōvaṇattiṉaip pōkkip
+   pāṉalantuṟaip poṉṉi nīr paṭintu vantārō
+   tūnaṟuñ caṭaik kaṅkai nīr tōyntu vantārō
+   vāṉam nīr maḻai poḻintiṭa naṉaintu vantu aṇaintār 2.7.17 519 katir iḷam
+   piṟaik kaṇṇiyar naṇṇiya poḻutil
+   mutirum aṉpu uṭait toṇṭar tām muṟaimaiyiṉ muṉṉē
+   atika naṉmaiyiṉ aṟu cuvait tiruvamutu ākki
+   etir eḻuntu ceṉṟu iṟaiñciṭa niṟainta nūl mārpar 2.7.18 520 toṇṭar aṉpu
+   eṉum tūya nīr āṭutal vēṇṭi
+   maṇṭu taṇ puṉal mūḻkiya īrattai māṟṟat
+   taṇṭiṉ mēlatum īram nāṉ tanta kōvaṇattaik
+   koṇṭu vārum eṉṟu uraittaṉar kōvaṇak kaḷvar 2.7.19 521 aiyar kaitavam
+   aṟivuṟātu avar kaṭitu aṇuki
+   eyti nōkkuṟak kōvaṇam irunta vēṟu iṭattil
+   mai il cintaiyar kaṇṭilar vaitta kōvaṇam muṉ
+   ceytatu eṉ eṉṟu tikaittaṉar tēṭuvār āṉār 2.7.20 522 poṅku veṇ kiḻik
+   kōvaṇam pōyiṉa neṟi mēl
+   caṅkai iṉṟiyē tappiṉatu eṉṟu tam carakkil
+   eṅku nāṭiyum kaṇṭilar eṉ ceyvār niṉṟār
+   aṅkaṇ vētiyar perum toṭakkiṉil akap paṭṭār 2.7.21 523 maṉaivi yāroṭu
+   maṉṉiya kiḷaiñarum tāmum
+   iṉaiyatu oṉṟu vantu eytiyatu eṉa iṭar kūrntu
+   niṉaivatu oṉṟu ilar varuntiṉar niṟkavum māṭṭār
+   puṉaiya vēṟu oru kōvaṇam koṭu puṟappaṭṭār 2.7.22 524 attar muṉpu ceṉṟu
+   aṭikaḷ nīr tanta kōvaṇattai
+   vaitta iṭattu nāṉ kaṇṭilēṉ maṟṟum ōr iṭattil
+   uyttu oḷittaṉar illai aḵtu oḻintavāṟu aṟiyēṉ
+   ittakaitta vēṟu aticayam kaṇṭilēṉ eṉṟu 2.7.23 525 vēṟu nallatu ōr
+   kōvaṇam virumpi muṉ koṇarntēṉ
+   kīṟu kōvaṇam aṉṟu neytamaittatu kiḷar koḷ
+   nīṟu cāttiya neṟṟiyīr maṟṟutu kaḷaintu
+   māṟu cātti eṉ piḻai poṟuppīr eṉa vaṇaṅka 2.7.24 526 niṉṟa vētiyar
+   vekuṇṭu amar nītiyār nilaimai
+   naṉṟu cālavum nāḷ iṭai kaḻintatum aṉṟāl
+   iṉṟu nāṉ vaitta kōvaṇam koṇṭu ataṟku etir vēṟu
+   oṉṟu koḷka eṉa uraippatē nīr eṉa uraiyā 2.7.25 527 nalla kōvaṇam
+   koṭuppaṉ eṉṟu ulakiṉ mēl nāḷum
+   collum vitattatu eṉ kōvaṇam koḷvatu tuṇintō
+   ollai īṅku uṟu vāṇipam aḻakitē umakku eṉṟu
+   ellai illavaṉ eri tuḷḷiṉāl eṉa vekuṇṭāṉ 2.7.26 528 maṟi karantu taṇṭu
+   ēntiya maṟaivar vekuḷap
+   poṟi kalaṅkiya uṇarviṉar āy mukam pularntu
+   ciṟiya eṉ perum piḻai poṟuttu aruḷ ceyvīr aṭiyēṉ
+   aṟiya vantatu oṉṟu eṉa aṭi paṇintu ayarvār 2.7.27 529 ceyattakum paṇi
+   ceyvaṉ ik kōvaṇam aṉṟi
+   nayat takuntaṉa nalla paṭṭu āṭaikaḷ maṇikaḷ
+   uyartta kōṭi koṇṭu aruḷum eṉṟu uṭampiṉil aṭaṅkāp
+   payattoṭuṅkulaintu aṭi micaip pala muṟai paṇintār 2.7.28 530 paṇiyum
+   aṉparai nōkki ap param poruḷāṉār
+   taṇiyum uḷḷattār āyiṉār pōṉṟu nīr tanta
+   maṇiyum poṉṉum nal āṭaiyum maṟṟum eṉ ceyya
+   aṇiyum kōvaṇam nēr tara amaiyum eṉṟāṉ 2.7.29 531 malarnta cintaiyar
+   ākiya vaṇikar ēṟu aṉaiyār
+   alarnta veṇṇiṟak kōvaṇam ataṟku nērāka
+   ilaṅku pūn tukil koḷvataṟku icaintu aruḷ ceyyīr
+   nalaṅ koḷ kōvaṇam tarum paricu yāteṉa nampar 2.7.30 532 uṭutta kōvaṇam
+   oḻiya nām um kaiyil tara nīr
+   koṭuttatāka muṉ collum ak kiḻinta kōvaṇanēr
+   aṭutta kōvaṇam itu eṉṟu taṇṭiṉil aviḻātu
+   eṭuttu maṟṟu itaṉ eṭaiyiṭum kōvaṇam eṉṟār 2.7.31 533 naṉṟu cāla eṉṟu
+   aṉparum oru tulai nāṭṭak
+   kuṉṟa villiyār kōvaṇam oru taṭṭil iṭṭār
+   niṉṟa toṇṭarum kaiyiṉil neyta kōvaṇat taṭṭu
+   oṉṟilē iṭa niṟai nilātu oḻintamai kaṇṭār 2.7.32 534 nāṭum aṉpoṭu
+   nāyaṉmārk kaḷikka muṉ vaitta
+   nīṭu kōvaṇam aṭaiya nērāka oṉṟu oṉṟāk
+   kōṭu taṭṭiṉ mītu iṭak koṇṭu eḻuntatu kaṇṭu
+   āṭu cēvaṭikku ayarum aṟputam eyti 2.7.33 535 ulakil illatōr māyai ik
+   kōvaṇam oṉṟukku
+   alakil kōvaṇam ottila eṉṟu aticayattup
+   palavum meṉ tukil paṭṭuṭaṉ iṭa iṭa uyara
+   ilaku pūntukiṟ potikaḷai eṭuttu mēl iṭṭār 2.7.34 536 muṭṭil aṉpar tam
+   aṉpiṭun taṭṭukku mutalvar
+   maṭṭu niṉṟa taṭṭu aruḷoṭu tāḻvu uṟum vaḻakkāl
+   paṭṭoṭum tukil anēka kōṭikaḷiṭum pattar
+   taṭṭu mēṟ paṭat tāḻntatu kōvaṇat taṭṭu 2.7.35 537 āṉa taṉmai kaṇṭu
+   aṭiyavar añci antaṇar muṉ
+   tū naṟun tukil varkka nūl varkkamē mutalā
+   māṉam illaṉa kuvikkavum taṭṭiṉ maṭṭu ituvāl
+   ēṉai eṉ taṉam iṭappeṟa vēṇṭum eṉṟu iṟaiñca 2.7.36 538 maṅkai pākarām
+   maṟaiyavar maṟṟu ataṟku icaintē
+   iṅku nām iṉi vēṟu oṉṟu colvatu eṉ kol
+   aṅku maṟṟu uṅkaḷ taṉaṅkaḷiṉākilum iṭuvīr
+   eṅkaḷ kōvaṇam nēr niṟka vēṇṭuvatu eṉṟār 2.7.37 539 nalla poṉṉoṭum
+   veḷḷiyum nava maṇit tiraḷum
+   pal vakait tiṟattu ulōkamum puṇarccikaḷ palavum
+   ellai il poruḷ cumantu avar iṭa iṭak koṇṭē
+   malku taṭṭu mītu eḻuntatu viyantaṉar maṇṇōr 2.7.38 540 tavam niṟainta
+   nāṉ maṟaip poruḷ nūlkaḷāl camainta
+   civaṉ virumpiya kōvaṇam iṭum ceḻuntaṭṭukku
+   avaṉi mēlamar nītiyār taṉamelām aṉṟip
+   puvaṉam yāvaiyum nēr nilā eṉpatu pukaḻō 2.7.39 541 nilaimai maṟṟatu
+   nōkkiya nikar ilār nēr niṉṟu
+   ulaivil paḵṟaṉam oṉṟu oḻiyāmai uyttu oḻintēṉ
+   talaiva yāṉum eṉ maṉaiviyum ciṟuvaṉum takumēl
+   tulaiyil ēṟiṭap peṟuvatu uṉ aruḷ eṉat toḻutār 2.7.40 542 poccamilla
+   aṭimait tiṟam purintavar etirniṉṟu
+   acca muṉpuṟa uraittalum aṅkaṇar aruḷāl
+   niccayittavar nilaiyiṉait tulai eṉuñ calattāl
+   ic caḻakkiṉiṉṟu ēṟṟuvār ēṟutaṟku icaintār 2.7.41 543 maṉam makiḻntu
+   avar malarkkaḻal ceṉṉiyāl vaṇaṅkip
+   puṉai malark kuḻal maṉaiviyār tammoṭu putalvaṉ
+   taṉai uṭaṉ koṭu taṉit tulai valam koṇṭu takavāl
+   iṉaiya ceykaiyil ēṟuvār kūṟuvār eṭuttu 2.7.42 544 iḻaitta aṉpiṉil iṟai
+   tirunīṟṟu mey aṭimai
+   piḻaittilōm eṉil peruntulai nēr niṟka eṉṟu
+   maḻait taṭam poḻil tiru nallūr iṟaivarai vaṇaṅkit
+   taḻaitta añceḻuttu ōtiṉār ēṟiṉār taṭṭil 2.7.43 545 maṇṭu kātaliṉ
+   maṟṟavar makiḻntu uṭaṉ ēṟa
+   aṇṭar tampirāṉ tiru araik kōvaṇam atuvum
+   koṇṭa aṉpiṉil kuṟaipaṭā aṭiyavar aṭimait
+   toṇṭum ottalāl ottu nēr niṉṟatu at tulaitāṉ 2.7.44 546 mati viḷaṅkiya
+   toṇṭar tam perumaiyai maṇṇōr
+   tuti ceytu eṅkaṇum aticayam uṟa etir toḻutār
+   katir vicumpu iṭai karantiṭa niranta kaṟpakattiṉ
+   putiya pū maḻai imaiyavar makiḻvuṭaṉ poḻintār 2.7.45 547 aṇṭar pū maḻai
+   poḻiya maṟṟu ataṉiṭai oḷitta
+   muṇṭa vētiyar oru vaḻiyāṉ mutal nallūrp
+   paṇṭu tām payil kōlamē vicumpiṉiṟ pākaṅ
+   koṇṭa pētaiyum tāmumāyk kāṭci muṉ koṭuttār 2.7.46 548 toḻutu pōṟṟi at
+   tulai micai niṉṟu nēr tutikkum
+   vaḻuvil aṉparum maintarum maṉaiviyār tāmum
+   muḻutum iṉṉaruḷ peṟṟut tam muṉ toḻutu irukkum
+   aḻivil vāṉ pataṅ koṭuttu eḻuntu aruḷiṉār aiyar 2.7.47 549 nātar tam
+   tiru aruḷiṉāl nal perun tulaiyē
+   mītu koṇṭeḻu vimāṉam atuvāki mēl cellak
+   kōtil aṉparum kuṭumpamum kuṟaivu aṟak koṭutta
+   āti mūrttiyār uṭaṉ civa puriyiṉai aṇaintār 2.7.48 550 malar micai
+   ayaṉum mālum kāṇutaṟku ariya vaḷḷal
+   palar pukaḻ veṇṇey nallūr avaṇap paḻamai kāṭṭi
+   ulaku uyya āṇṭu koḷḷap peṟṟavar pātam uṉṉit
+   talai micai vaittu vāḻum talaimai nam talaimai ākum 2.7.49
+       tirucciṟṟampalam
+
+              tillaivāḻ antaṇar carukkam muṟṟiṟṟu.
+                 carukkam iraṇṭukkut tiruviruttam - 550
+          ________________________________________________________
+
+   This webpage was last updated on 28 July 2004
+   Please send your comments to the [29]webmasters of this website.
+
+References
+
+   1. mailto:kalyan@geocities.com
+   2. mailto:kumar@vt.edu
+   3. http://www.projectmadurai.org/
+   4. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt100
+   5. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt101
+   6. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt102
+   7. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt103
+   8. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt104
+   9. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt105
+  10. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt201
+  11. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt202
+  12. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt203
+  13. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt204
+  14. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt205
+  15. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt206
+  16. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#dt207
+  17. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd100
+  18. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd101
+  19. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd102
+  20. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd103
+  21. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd104
+  22. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd105
+  23. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd201
+  24. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd202
+  25. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd201
+  26. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd201
+  27. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd205
+  28. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0209.html#hd206
+  29. mailto:kalyan@softhome.net, kumar@vt.edu?subject=PM209 periya puranam-part-1

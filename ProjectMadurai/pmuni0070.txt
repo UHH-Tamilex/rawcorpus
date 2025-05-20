@@ -1,252 +1,247 @@
-[pm logo]
+                                   pm logo
+                     ___________________________________
 
-------------------------------------------------------------------------
+                                neTunalvATai
+                 of maturaik kaNakkAyanAr makanAr nakkiirar
+                      (one of pattuppATTu anthologies)
+                    in Tamil script, unicode/utf-8 format
+                pattuppāṭṭu nūlkaḷuḷ oṉṟāṉa,
+                   maturaik kaṇakkāyaṉār makaṉār
+                   nakkīrar aruḷiya "neṭunalvāṭai"
+                     ___________________________________
+     __________________________________________________________________
 
-neTunalvATai
-of maturik kaNakkAyanAr makanAr nakkiirar
-(one of pattuppATTu anthologies)
-in Tamil script, unicode/utf-8 format
-pattuppāṭṭu nūlkaḷuḷ oṉṟāṉa,
-maturik kaṇakkāyaṉār makaṉār
-nakkīrar aruḷiya "neṭunalvāṭi"
+   Acknowledgement:
+   Our Sincere thanks go to the following persons for their assistance in
+   the preparation of this work.
+   Etext Preparation : Staff & Students of K.A.P. Viswanatham Higher
+   Secondary School, Tiruchirappalli, Tamilnadu, India
+   Dr. C. Kesavaraj, BDS, FICD, Trustee, K.A.P. Viswanatham Higher
+   Secondary School (Project Sponsor)
+   Dr. R. Vasudevan, Former Director, School of Energy, Bharathidasan
+   University, Trichi, Tamilnadu (Tech. support)
+   Dr. R. Rajendran, Senior Teacher, K.A.P. Viswanatham Higher Secondary
+   School, Trichi, Tamilnadu (coordination)
+   Text Input : Ms. J. Jayanthi (Librarian); S. Sinnakannan (Typist),
+   Sivadayal, Christopher (Students), K.A.P. Viswanatham Higher Secondary
+   School, Trichi, Tamilnadu, India
+   Proof-reading: Ms. Sarala Sandirasegarane, Kanpur, India
+   Web version: K. Kalyanasundaram, Lausanne, Switzerland.
+   This page was first put up on the Internet on April 27, 2000
+   This webpage presents the Etext in Tamil script in Unicode encoding
+   (utf-8 format).
+   © Project Madurai, 1998-2021.
+   Project Madurai is an open, voluntary, worldwide initiative devoted to
+   the preparation
+   of electronic texts of tamil literary works and to distribute them free
+   on the Internet.
+   Details of Project Madurai are available at the website
+   https://www.projectmadurai.org/
+   You are welcome to freely distribute this file, provided this header
+   page is kept intact.
+     __________________________________________________________________
 
-------------------------------------------------------------------------
+           caṅka kāla nūlkaḷāṉa pattup pāṭṭukkaḷil
+                    ēḻāvatāṉa "neṭunalvāṭai"
 
-------------------------------------------------------------------------
+   pāṭiyavar :: maturaik kaṇakkāyaṉār makaṉār nakkīrar
+   tiṇai :: vākai
+   tuṟai :: kūtirppācaṟai
+   pāvakai :: āciriyappā
+   motta aṭikaḷ :: 188
+   -----------------------------
+   vaiyakam paṉippa, valaṉērpu vaḷaiip
+   poyyā vāṉam putuppeyal poḻinteṉa
+   ārkali muṉaiiya koṭuṅkōṟ kōvalar
+   ēṟuṭai iṉanirai vēṟupulam parappip
+   pulampeyar pulampoṭu kalaṅkik kōṭal
+   nīṭitaḻk kaṇṇi nīralaik kalāva
+   meykkoḷ perumpaṉi naliyap palaruṭaṉ
+   kaikkoḷ koḷḷiyar kavuḷpuṭaiyūu naṭuṅka
+   māmēyal maṟappa manti kūrap
+   paṟavai paṭivaṉa vīḻak kaṟavai       10
+   kaṉṟukō ḷaḻiyak kaṭiya vīcik
+   kuṉṟukuḷirp paṉṉa kūtirp pāṉāḷ
+   puṉkoṭi mucuṇṭaip poṟippuṟa vāṉpūp
+   poṉpōṟ pīramoṭu putaṟputal malarap
+   paiṅkāṟ kokkiṉ meṉpaṟait toḻuti
+   iruṅkaḷi paranta īra veṇmaṇaṟ
+   cevvari nāraiya ṭevvāyuṅ kavarak
+   kayalaṟal etirak kaṭumpuṉaṟ cāayp
+   peyalulan teḻunta poṅkal veṇmaḻai
+   akaliru vicumpil tuvalai kaṟpa       20
+   aṅkaṇ akalvayal ārpeyaṟ kalitta
+   vaṇtōṭṭu nelliṉ varukatir vaṇaṅka
+   muḻumutaṟ kamukiṉ maṇiyuṟaḻ eruttiṟ
+   koḻumaṭal aviḻnta kurūukkoḷ peruṅkulai
+   nuṇṇīr teviḷa vīṅkip puṭaitiraṇṭu
+   teṇṇīrp pacuṅkāy cēṟukoḷa muṟṟa
+   naḷikoḷ cimaiya viravumalar viyaṉkāk
+   kuḷirkoḷ ciṉaiya kurūuttuḷi tūṅka
+   māṭa mōṅkiya mallaṉ mūtūr
+   āṟukiṭan taṉṉa akaṉeṭun teruviṟ       30
+   paṭalaik kaṇṇip parēreṟuḻt tiṇitōḷ
+   muṭalai yākkai muḻuvali mākkaḷ
+   vaṇṭumūcu tēṟal mānti makiḻciṟantu
+   tuvalait taṇtuḷi pēṇār pakaliṟantu
+   irukōṭṭa ṭaṟuvaiyar vēṇṭuvayiṉ tiritara
+   veḷḷi vaḷḷi vīṅkiṟaip paṇaittōḷ
+   metteṉ cāyal muttuṟaḻ muṟuval
+   pūṅkuḻaik kamarnta ēnteḻil maḻaikkaṇ
+   maṭavaral makaḷir piṭakaip peyta
+   cevvi yarumpiṉ paiṅkāṟ pittikattu       40
+   avvita ḻaviḻpataṅ kamaḻap poḻutaṟintu
+   irumpucey viḷakkiṉ īrntirik koḷīi
+   nellu malarun tūuyk kaitoḻutu
+   mallal āvaṇam mālai yayara
+   maṉaiyuṟai puṟaviṉ ceṅkāṟ cēval
+   iṉpuṟu peṭaiyaṭu maṉṟutērn tuṇṇātu
+   iravum pakalum mayaṅkik kaiyaṟṟu
+   matalaip paḷḷi māṟuvaṉa iruppak
+   kaṭiyuṭai viyaṉakarc ciṟukuṟun toḻuvar
+   koḷḷuṟaḻ naṟuṅkal palakūṭṭu maṟuka       50
+   vaṭavar tanta vāṉkēḻ vaṭṭam
+   teṉpula maruṅkiṟ cāntoṭu tuṟappak
+   kūntal makaḷir kōtai puṉaiyār
+   palliruṅ kūntal ciṉmalar peymmār
+   taṇṇaṟun takara muḷari neruppamaittu
+   iruṅkāḻ akiloṭu veḷḷayir pukaippak
+   kaival kammiyaṉ kaviṉpeṟap puṉainta
+   ceṅkēḻ vaṭṭañ curukkik koṭuntaṟic
+   cilampi vāṉūl valantaṉa tūṅka
+   vāṉuṟa nivanta mēṉilai maruṅkiṉ       60
+   vēṉiṟ paḷḷit teṉvaḷi tarūum
+   nērvāyk kaṭṭaḷai tiriyātu tiṇṇilaip
+   pōrvāyk katavam tāḻoṭu tuṟappak
+   kalleṉ tuvalai tūvaliṉ yāvarum
+   tokuvāyk kaṉṉal taṇṇīr uṇṇār
+   pakuvāyt taṭavil cennerup pāra
+   āṭal makaḷir pāṭalkoḷap puṇarmār
+   taṇmaiyiṟ ṟirinta iṉkural tīntoṭai
+   kommai varumulai vemmaiyiṟ ṟaṭaiik
+   karuṅkōṭṭuc cīṟiyāḻ paṇṇumuṟai niṟuppak       70
+   kātalarp pirintōr pulampap peyalkaṉaintu
+   kūtirniṉ ṟaṉṟāṟ pōtē mātiram
+   virikatir parappiya viyalvāy maṇṭilam
+   irukōṟ kuṟinilai vaḻukkātu kuṭakkēr
+   porutiṟañ cārā araināḷ amayattu
+   nūlaṟi pulavar nuṇṇitiṟ kayiṟiṭṭut
+   tēeṅ koṇṭu teyvam nōkkip
+   perumpeyar maṉṉark koppa maṉaivakuttu
+   oruṅkuṭaṉ vaḷaii ōṅkunilai varaippiṟ
+   paruvirumpu piṇittuc celvarak kurīit       80
+   tuṇaimāṇ katavam porutti iṇaimāṇṭu
+   nāḷaṭu peyariya kōḷamai viḻumarattup
+   pōtaviḻ kuvaḷaip putuppiṭi kālamaittut
+   tāḷaṭu kuyiṉṟa pōramai puṇarppiṟ
+   kaival kammiyaṉ muṭukkaliṟ puraitīrntu
+   aiyavi yappiya neyyaṇi neṭunilai
+   veṉṟeḻu koṭiyōṭu vēḻañ ceṉṟupukak
+   kuṉṟukuyiṉ ṟaṉṉa ōṅkunilai vāyil
+   tirunilai peṟṟa tītutīr ciṟappiṉ
+   tarumaṇal ñemiriya tirunakar muṟṟattu       90
+   neṭumayi rekiṉat tūniṟa ēṟṟai
+   kuṟuṅkāl aṉṉamō ṭukaḷu muṉkaṭaip
+   paṇainilai muṉaiiya palluḷaip puravi
+   pulluṇāt teviṭṭum pulampuviṭu kuraloṭu
+   nilavuppayaṉ koḷḷum neṭuveṇ muṟṟattuk
+   kimpurip pakuvāy ampaṇa niṟaiyak
+   kaluḻntuvīḻ aruvip pāṭiṟan tayala
+   olineṭum pīli olka melliyal
+   kalimayil akavum vayirmaruḷ iṉṉicai
+   naḷimalaic cilampiṟ cilampuṅ kōyil       100
+   yavaṉar iyaṟṟiya viṉaimāṇ pāvai
+   kaiyēn taiyakal niṟaiyaney corintu
+   parūuttiri koḷīiya kurūuttalai nimireri
+   aṟuaṟu kālaitō ṟamaivarap paṇṇip
+   palvēṟu paḷḷitoṟum pāyiruḷ nīṅkap
+   pīṭukeḻu ciṟappiṟ peruntakai yallatu
+   āṭavar kuṟukā aruṅkaṭi varaippiṉ
+   varaikaṇ ṭaṉṉa tōṉṟala varaicērpu
+   vilkiṭan taṉṉa koṭiya palvayiṉ
+   veḷḷi yaṉṉa viḷaṅkuñ kataiyurīi       110
+   maṇikaṇ ṭaṉṉa māttiraḷ tiṇkāḻc
+   cempiyaṉ ṟaṉṉa ceyvuṟu neṭuñcuvar
+   uruvap palpū orukoṭi vaḷaiik
+   karuvoṭu peyariya kāṇpi ṉallil
+   tacanāṉ keytiya paṇaimaruḷ nōṉṟāḷ
+   ikaṉmīk kūṟum ēnteḻil varinutal
+   porutoḻi nāka moḻiyeyi ṟarukeṟintu
+   cīruñ cemmaiyum oppa vallōṉ
+   kūruḷik kuyiṉṟa īrilai yiṭaiyiṭupu
+   tūṅkiyal makaḷir vīṅkumulai kaṭuppap       120
+   puṭaitiraṇ ṭirunta kuṭatta iṭaitiraṇṭu
+   uḷḷi nōṉmutal porutti aṭiyamaittup
+   pēraḷa veytiya perumpeyarp pāṇṭil
+   maṭaimāṇ nuṇṇiḻai poliyat toṭaimāṇṭu
+   muttuṭaic cālēkam nāṟṟik kuttuṟuttup
+   pulippoṟik koṇṭa pūṅkēḻt taṭṭattut
+   takaṭukaṇ putaiyak koḷīit tukaḷtīrntu
+   ūṭṭuṟu paṉmayir viraii vayamāṉ
+   vēṭṭam poṟittu viyaṉkaṭ kāṉattu
+   mullaip palpō tuṟaḻap pūniraittu       130
+   mellitiṉ virinta cēkkai mēmpaṭat
+   tuṇaipuṇar aṉṉat tūniṟat tūvi
+   iṇaiyaṇai mēmpaṭap pāyaṇai yiṭṭuk
+   kāṭi koṇṭa kaḻuvuṟu kaliṅkattut
+   tōṭamai tūmaṭi viritta cēkkai
+   āran tāṅkiya alarmulai yākattup
+   piṉṉamai neṭuvīḻ tāḻat tuṇaituṟantu
+   naṉṉutal ulaṟiya ciṉmel lōti
+   neṭunīr vārkuḻai kaḷainteṉak kuṟuṅkaṇ
+   vāyuṟai yaḻuttiya vaṟituvīḻ kātiṟ       140
+   polantoṭi tiṉṟa mayirvār muṉkai
+   valampuri vaḷaiyaṭu kaṭikainūl yāttu
+   vāḷaip pakuvāy kaṭuppa vaṇakkuṟuttuc
+   cevviraṟ koḷīiya ceṅkēḻ viḷakkattup
+   pūntukil marīiya ēntukōṭ ṭalkul
+   ammā cūrnta avirnūṟ kaliṅkamoṭu
+   puṉaiyā ōviyaṅ kaṭuppap puṉaivil
+   taḷirēr mēṉit tāya cuṇaṅkiṉ
+   ampaṇait taṭaiiya meṉṟōḷ mukiḻmulai
+   vampuvicit tiyātta vāṅkucāy nucuppiṉ       150
+   melliyal makaḷir nallaṭi varuṭa
+   naraivirā vuṟṟa naṟumeṉ kūntal
+   cemmukac ceviliyar kaimmikak kuḻīik
+   kuṟiyavum neṭiyavum uraipala payiṟṟi
+   iṉṉē varukuvar iṉtuṇai yōreṉa
+   ukattavai moḻiyavum ollāḷ mikakkaluḻntu
+   nuṇcēṟu vaḻitta nōṉilait tiraḷkāl
+   ūṟā vaṟumulai koḷīiya kāṟiruttip
+   putuva tiyaṉṟa meḻukucey paṭamicait
+   tiṇṇilai maruppiṉ āṭutalai yāka       160
+   viṇṇūrpu tiritarum vīṅkucelal maṇṭilattu
+   muraṇmiku ciṟappiṟ celvaṉoṭu nilaiiya
+   urōkiṇi niṉaivaṉaḷ nōkki neṭituyirā
+   māyitaḻ ēntiya malintuvīḻ arippaṉi
+   cevviral kaṭaikkaṇ cērttic cilateṟiyāp
+   pulampoṭu vatiyu nalaṅkiḷar arivaikku
+   iṉṉā arumpaṭar tīra viṟaṟantu
+   iṉṉē muṭikatil amma miṉṉavir
+   ōṭaiyaṭu polinta viṉainavil yāṉai
+   nīḷtiraḷ taṭakkai nilamicaip puraḷak       170
+   kaḷiṟukaḷam paṭutta peruñcey yāṭavar
+   oḷiṟuvāḷ viḻuppuṇ kāṇiya puṟampōntu
+   vaṭantait taṇvaḷi eṟitoṟum nuṭaṅkit
+   teṟkēr piṟaiñciya talaiya naṟpal
+   pāṇṭil viḷakkiṟ parūuccuṭa raḻala
+   vēmputalai yātta nōṉkāḻ e·kamoṭu
+   muṉṉōṉ muṟaimuṟai kāṭṭap piṉṉar
+   maṇipuṟat tiṭṭa māttāṭ piṭiyaṭu
+   parumaṅ kaḷaiyāp pāyparik kalimā
+   iruñcēṟṟut teruviṉ eṟituḷi vitirppap . .180
+   puṭaivīḻ antukil iṭavayiṉ taḻīi
+   vāḷtōḷ kōtta vaṉkaṭ kāḷai
+   cuvalmicai yamaitta kaiyaṉ mukaṉamarntu
+   nūlkāl yātta mālai veṇkuṭai
+   tavveṉ ṟacaiit tātuḷi maṟaippa
+   naḷḷeṉ yāmattum paḷḷi koḷḷāṉ
+   cilaroṭu tiritarum vēntaṉ
+   palaroṭu muraṇiya pācaṟait toḻilē. . . .188
+   neṭunalvāṭai muṟṟiṟṟu.
+   ----------------------
+     __________________________________________________________________
 
-Acknowledgement:
-Our Sincere thanks go to the following persons for their assistance in
-the preparation of this work.
-Etext Preparation : Staff & Students of K.A.P. Viswanatham Higher
-Secondary School, Tiruchirappalli, Tamilnadu, India
-Dr. C. Kesavaraj, BDS, FICD, Trustee, K.A.P. Viswanatham Higher
-Secondary School (Project Sponsor)
-Dr. R. Vasudevan, Former Director, School of Energy, Bharathidasan
-University, Trichi, Tamilnadu (Tech. support)
-Dr. R. Rajendran, Senior Teacher, K.A.P. Viswanatham Higher Secondary
-School, Trichi, Tamilnadu (coordination)
-Text Input : Ms. J. Jayanthi (Librarian); S. Sinnakannan (Typist),
-Sivadayal, Christopher (Students), K.A.P. Viswanatham Higher Secondary
-School, Trichi, Tamilnadu, India
-Proof-reading: Ms. Sarala Sandirasegarane, Kanpur, India
-Web version: K. Kalyanasundaram, Lausanne, Switzerland.
-This page was first put up on the Internet on April 27, 2000
-This webpage presents the Etext in Tamil script in Unicode encoding
-(utf-8 format).
-© Project Maduri, 1998-2021.
-Project Maduri is an open, voluntary, worldwide initiative devoted to
-the preparation
-of electronic texts of tamil literary works and to distribute them free
-on the Internet.
-Detils of Project Maduri are avilable at the website
-https://www.projectmaduri.org/
-You are welcome to freely distribute this file, provided this header
-page is kept intact.
-
-------------------------------------------------------------------------
-
-caṅka kāla nūlkaḷāṉa pattup pāṭṭukkaḷil
-ēḻāvatāṉa "neṭunalvāṭi"
-
-pāṭiyavar :: maturik kaṇakkāyaṉār makaṉār nakkīrar
-tiṇi :: vāki
-tuṟi :: kūtirppācaṟi
-pāvaki :: āciriyappā
-motta aṭikaḷ :: 188
------------------------------
-viyakam paṉippa, valaṉērpu vaḷiip
-poyyā vāṉam putuppeyal poḻinteṉa
-ārkali muṉiiya koṭuṅkōṟ kōvalar
-ēṟuṭi iṉaniri vēṟupulam parappip
-pulampeyar pulampoṭu kalaṅkik kōṭal
-nīṭitaḻk kaṇṇi nīralik kalāva
-meykkoḷ perumpaṉi naliyap palaruṭaṉ
-kikkoḷ koḷḷiyar kavuḷpuṭiyūu naṭuṅka
-māmēyal maṟappa manti kūrap
-paṟavi paṭivaṉa vīḻak kaṟavi       10
-kaṉṟukō ḷaḻiyak kaṭiya vīcik
-kuṉṟukuḷirp paṉṉa kūtirp pāṉāḷ
-puṉkoṭi mucuṇṭip poṟippuṟa vāṉpūp
-poṉpōṟ pīramoṭu putaṟputal malarap
-piṅkāṟ kokkiṉ meṉpaṟit toḻuti
-iruṅkaḷi paranta īra veṇmaṇaṟ
-cevvari nāriya ṭevvāyuṅ kavarak
-kayalaṟal etirak kaṭumpuṉaṟ cāayp
-peyalulan teḻunta poṅkal veṇmaḻi
-akaliru vicumpil tuvali kaṟpa       20
-aṅkaṇ akalvayal ārpeyaṟ kalitta
-vaṇtōṭṭu nelliṉ varukatir vaṇaṅka
-muḻumutaṟ kamukiṉ maṇiyuṟaḻ eruttiṟ
-koḻumaṭal aviḻnta kurūukkoḷ peruṅkuli
-nuṇṇīr teviḷa vīṅkip puṭitiraṇṭu
-teṇṇīrp pacuṅkāy cēṟukoḷa muṟṟa
-naḷikoḷ cimiya viravumalar viyaṉkāk
-kuḷirkoḷ ciṉiya kurūuttuḷi tūṅka
-māṭa mōṅkiya mallaṉ mūtūr
-āṟukiṭan taṉṉa akaṉeṭun teruviṟ       30
-paṭalik kaṇṇip parēreṟuḻt tiṇitōḷ
-muṭali yākki muḻuvali mākkaḷ
-vaṇṭumūcu tēṟal mānti makiḻciṟantu
-tuvalit taṇtuḷi pēṇār pakaliṟantu
-irukōṭṭa ṭaṟuviyar vēṇṭuvayiṉ tiritara
-veḷḷi vaḷḷi vīṅkiṟip paṇittōḷ
-metteṉ cāyal muttuṟaḻ muṟuval
-pūṅkuḻik kamarnta ēnteḻil maḻikkaṇ
-maṭavaral makaḷir piṭakip peyta
-cevvi yarumpiṉ piṅkāṟ pittikattu       40
-avvita ḻaviḻpataṅ kamaḻap poḻutaṟintu
-irumpucey viḷakkiṉ īrntirik koḷīi
-nellu malarun tūuyk kitoḻutu
-mallal āvaṇam māli yayara
-maṉiyuṟi puṟaviṉ ceṅkāṟ cēval
-iṉpuṟu peṭiyaṭu maṉṟutērn tuṇṇātu
-iravum pakalum mayaṅkik kiyaṟṟu
-matalip paḷḷi māṟuvaṉa iruppak
-kaṭiyuṭi viyaṉakarc ciṟukuṟun toḻuvar
-koḷḷuṟaḻ naṟuṅkal palakūṭṭu maṟuka       50
-vaṭavar tanta vāṉkēḻ vaṭṭam
-teṉpula maruṅkiṟ cāntoṭu tuṟappak
-kūntal makaḷir kōti puṉiyār
-palliruṅ kūntal ciṉmalar peymmār
-taṇṇaṟun takara muḷari neruppamittu
-iruṅkāḻ akiloṭu veḷḷayir pukippak
-kival kammiyaṉ kaviṉpeṟap puṉinta
-ceṅkēḻ vaṭṭañ curukkik koṭuntaṟic
-cilampi vāṉūl valantaṉa tūṅka
-vāṉuṟa nivanta mēṉili maruṅkiṉ       60
-vēṉiṟ paḷḷit teṉvaḷi tarūum
-nērvāyk kaṭṭaḷi tiriyātu tiṇṇilip
-pōrvāyk katavam tāḻoṭu tuṟappak
-kalleṉ tuvali tūvaliṉ yāvarum
-tokuvāyk kaṉṉal taṇṇīr uṇṇār
-pakuvāyt taṭavil cennerup pāra
-āṭal makaḷir pāṭalkoḷap puṇarmār
-taṇmiyiṟ ṟirinta iṉkural tīntoṭi
-kommi varumuli vemmiyiṟ ṟaṭiik
-karuṅkōṭṭuc cīṟiyāḻ paṇṇumuṟi niṟuppak       70
-kātalarp pirintōr pulampap peyalkaṉintu
-kūtirniṉ ṟaṉṟāṟ pōtē mātiram
-virikatir parappiya viyalvāy maṇṭilam
-irukōṟ kuṟinili vaḻukkātu kuṭakkēr
-porutiṟañ cārā arināḷ amayattu
-nūlaṟi pulavar nuṇṇitiṟ kayiṟiṭṭut
-tēeṅ koṇṭu teyvam nōkkip
-perumpeyar maṉṉark koppa maṉivakuttu
-oruṅkuṭaṉ vaḷii ōṅkunili varippiṟ
-paruvirumpu piṇittuc celvarak kurīit       80
-tuṇimāṇ katavam porutti iṇimāṇṭu
-nāḷaṭu peyariya kōḷami viḻumarattup
-pōtaviḻ kuvaḷip putuppiṭi kālamittut
-tāḷaṭu kuyiṉṟa pōrami puṇarppiṟ
-kival kammiyaṉ muṭukkaliṟ puritīrntu
-aiyavi yappiya neyyaṇi neṭunili
-veṉṟeḻu koṭiyōṭu vēḻañ ceṉṟupukak
-kuṉṟukuyiṉ ṟaṉṉa ōṅkunili vāyil
-tirunili peṟṟa tītutīr ciṟappiṉ
-tarumaṇal ñemiriya tirunakar muṟṟattu       90
-neṭumayi rekiṉat tūniṟa ēṟṟi
-kuṟuṅkāl aṉṉamō ṭukaḷu muṉkaṭip
-paṇinili muṉiiya palluḷip puravi
-pulluṇāt teviṭṭum pulampuviṭu kuraloṭu
-nilavuppayaṉ koḷḷum neṭuveṇ muṟṟattuk
-kimpurip pakuvāy ampaṇa niṟiyak
-kaluḻntuvīḻ aruvip pāṭiṟan tayala
-olineṭum pīli olka melliyal
-kalimayil akavum vayirmaruḷ iṉṉici
-naḷimalic cilampiṟ cilampuṅ kōyil       100
-yavaṉar iyaṟṟiya viṉimāṇ pāvi
-kiyēn tiyakal niṟiyaney corintu
-parūuttiri koḷīiya kurūuttali nimireri
-aṟuaṟu kālitō ṟamivarap paṇṇip
-palvēṟu paḷḷitoṟum pāyiruḷ nīṅkap
-pīṭukeḻu ciṟappiṟ peruntaki yallatu
-āṭavar kuṟukā aruṅkaṭi varippiṉ
-varikaṇ ṭaṉṉa tōṉṟala varicērpu
-vilkiṭan taṉṉa koṭiya palvayiṉ
-veḷḷi yaṉṉa viḷaṅkuñ katiyurīi       110
-maṇikaṇ ṭaṉṉa māttiraḷ tiṇkāḻc
-cempiyaṉ ṟaṉṉa ceyvuṟu neṭuñcuvar
-uruvap palpū orukoṭi vaḷiik
-karuvoṭu peyariya kāṇpi ṉallil
-tacanāṉ keytiya paṇimaruḷ nōṉṟāḷ
-ikaṉmīk kūṟum ēnteḻil varinutal
-porutoḻi nāka moḻiyeyi ṟarukeṟintu
-cīruñ cemmiyum oppa vallōṉ
-kūruḷik kuyiṉṟa īrili yiṭiyiṭupu
-tūṅkiyal makaḷir vīṅkumuli kaṭuppap       120
-puṭitiraṇ ṭirunta kuṭatta iṭitiraṇṭu
-uḷḷi nōṉmutal porutti aṭiyamittup
-pēraḷa veytiya perumpeyarp pāṇṭil
-maṭimāṇ nuṇṇiḻi poliyat toṭimāṇṭu
-muttuṭic cālēkam nāṟṟik kuttuṟuttup
-pulippoṟik koṇṭa pūṅkēḻt taṭṭattut
-takaṭukaṇ putiyak koḷīit tukaḷtīrntu
-ūṭṭuṟu paṉmayir virii vayamāṉ
-vēṭṭam poṟittu viyaṉkaṭ kāṉattu
-mullip palpō tuṟaḻap pūnirittu       130
-mellitiṉ virinta cēkki mēmpaṭat
-tuṇipuṇar aṉṉat tūniṟat tūvi
-iṇiyaṇi mēmpaṭap pāyaṇi yiṭṭuk
-kāṭi koṇṭa kaḻuvuṟu kaliṅkattut
-tōṭami tūmaṭi viritta cēkki
-āran tāṅkiya alarmuli yākattup
-piṉṉami neṭuvīḻ tāḻat tuṇituṟantu
-naṉṉutal ulaṟiya ciṉmel lōti
-neṭunīr vārkuḻi kaḷinteṉak kuṟuṅkaṇ
-vāyuṟi yaḻuttiya vaṟituvīḻ kātiṟ       140
-polantoṭi tiṉṟa mayirvār muṉki
-valampuri vaḷiyaṭu kaṭikinūl yāttu
-vāḷip pakuvāy kaṭuppa vaṇakkuṟuttuc
-cevviraṟ koḷīiya ceṅkēḻ viḷakkattup
-pūntukil marīiya ēntukōṭ ṭalkul
-ammā cūrnta avirnūṟ kaliṅkamoṭu
-puṉiyā ōviyaṅ kaṭuppap puṉivil
-taḷirēr mēṉit tāya cuṇaṅkiṉ
-ampaṇit taṭiiya meṉṟōḷ mukiḻmuli
-vampuvicit tiyātta vāṅkucāy nucuppiṉ       150
-melliyal makaḷir nallaṭi varuṭa
-narivirā vuṟṟa naṟumeṉ kūntal
-cemmukac ceviliyar kimmikak kuḻīik
-kuṟiyavum neṭiyavum uripala payiṟṟi
-iṉṉē varukuvar iṉtuṇi yōreṉa
-ukattavi moḻiyavum ollāḷ mikakkaluḻntu
-nuṇcēṟu vaḻitta nōṉilit tiraḷkāl
-ūṟā vaṟumuli koḷīiya kāṟiruttip
-putuva tiyaṉṟa meḻukucey paṭamicit
-tiṇṇili maruppiṉ āṭutali yāka       160
-viṇṇūrpu tiritarum vīṅkucelal maṇṭilattu
-muraṇmiku ciṟappiṟ celvaṉoṭu niliiya
-urōkiṇi niṉivaṉaḷ nōkki neṭituyirā
-māyitaḻ ēntiya malintuvīḻ arippaṉi
-cevviral kaṭikkaṇ cērttic cilateṟiyāp
-pulampoṭu vatiyu nalaṅkiḷar arivikku
-iṉṉā arumpaṭar tīra viṟaṟantu
-iṉṉē muṭikatil amma miṉṉavir
-ōṭiyaṭu polinta viṉinavil yāṉi
-nīḷtiraḷ taṭakki nilamicip puraḷak       170
-kaḷiṟukaḷam paṭutta peruñcey yāṭavar
-oḷiṟuvāḷ viḻuppuṇ kāṇiya puṟampōntu
-vaṭantit taṇvaḷi eṟitoṟum nuṭaṅkit
-teṟkēr piṟiñciya taliya naṟpal
-pāṇṭil viḷakkiṟ parūuccuṭa raḻala
-vēmputali yātta nōṉkāḻ e·kamoṭu
-muṉṉōṉ muṟimuṟi kāṭṭap piṉṉar
-maṇipuṟat tiṭṭa māttāṭ piṭiyaṭu
-parumaṅ kaḷiyāp pāyparik kalimā
-iruñcēṟṟut teruviṉ eṟituḷi vitirppap . .180
-puṭivīḻ antukil iṭavayiṉ taḻīi
-vāḷtōḷ kōtta vaṉkaṭ kāḷi
-cuvalmici yamitta kiyaṉ mukaṉamarntu
-nūlkāl yātta māli veṇkuṭi
-tavveṉ ṟaciit tātuḷi maṟippa
-naḷḷeṉ yāmattum paḷḷi koḷḷāṉ
-cilaroṭu tiritarum vēntaṉ
-palaroṭu muraṇiya pācaṟit toḻilē. . . .188
-neṭunalvāṭi muṟṟiṟṟu.
-----------------------
-
-------------------------------------------------------------------------
-
-This webpage was last revised on 8 August 2021.
-Feel free to send the corrections by emil to the webmaster
-(pmaduri@gmil.com).
+   This webpage was last revised on 8 August 2021.
+   Feel free to send the corrections by email to the webmaster
+   (pmadurai@gmail.com).

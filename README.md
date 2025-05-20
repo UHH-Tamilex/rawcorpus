@@ -6,6 +6,7 @@ Sourced from:
     * Kuṟuntokai — rough transcriptions reconstructed from the apparatus criticus
 
 * Project Madurai (https://projectmadurai.org)
+    * downloaded & transliterated on 20 May 2025
 
 * GRETIL (https://gretil.sub.uni-goettingen.de/gretil.html) 
 

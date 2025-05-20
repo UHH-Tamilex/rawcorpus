@@ -1,1296 +1,718 @@
-[]
-
-------------------------------------------------------------------------
-
-ekkalak kaNNi (author not known) (in tamil script, unicode format)  ekkālak kaṇṇi (āciriyar yāreṉa teriyavilli)
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-Etext input : K. Kalyanasundaram, Lausanne, Switzerland
-Proof-reading: Dr. N. Kannan, Boelingen, Germany
-Web & pdf versions: Dr.K. Kalyanasundaram, Lausanne, Switzerland
-This webpage presents the Etxt in Tamil script but in Unicode encoding.
-To view the Tamil text correctly you need to set up the following:
-i). You need to have Unicode fonts contining Tamil Block (Latha,
-Arial Unicode MS, TSCu_Inimathi, Code2000, UniMyli,...) installed on
-your computer
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
-XP).
-ii)Use a browser that is capable of handling UTF-8 based pages
-(Netscape 6, Internet Explorer 5) with the Unicode Tamil fontchosen as
-the default font for the UTF-8 char-set/encoding view.
-. In case of difficulties send an emil request to kalyan@geocities.com
-or kumar@vt.edu
-© Project Maduri 1999 - 2003
-Project Maduri is an open, voluntary, worldwide initiative devotedto
-preparation of electronic texts of tamil literary works and to
-distribute them free on the Internet. Detils of Project Maduri are
-avilable at the website http://www.tamil.net/projectmaduri/
-
-You are welcome to freely distribute this file, provided this header
-page is kept intact.
-
-------------------------------------------------------------------------
-
-ekkālak kaṇṇi **
-(āciriyar yāreṉa teriyavilli)
-
-(**Text taken from the "Bulleltin of The Government Oriental Manuscripts
-Library" Madras,
-vol. VI, No. 1, edited by T. Chandrasekaran, M.A.L.T, Curator,Govt.
-Oriental Manuscripts Library, Madras,
-Printed by the Superintendent, Govt. Press, Madras, 1953)
-
-muṉṉuri (V.S. kiruṣṇaṉ, 1953)
-
-itu iraṇṭiraṇṭu varikaḷ koṇṭa "kaṇṇi" eṉṉum oruvakip pāliṉāl amintuḷḷa ciṟu
-nūlākum. itaṉuḷ 201 kaṇṇikaḷ uḷḷaṉa. ovvoru kaṇṇiyiṉ iṟutiyilum "ekkālam" eṉṟu
-muṭivatāl "ekkālak kaṇṇi" eṉṟa peyar innūlukku amintuḷḷatu pōlum. tāyumāṉavar
-pāṭal tokuppiṉuḷ kāṇappeṟum, ennāṭ kaṇṇi, parāparak kaṇṇi mutaliyaṉavaṟṟiṟkum
-iṅṅaṉamē peyar vantuḷḷami nōkkat takkatu. kaṇṇi eṉpatu oruvaki icippāṭṭu eṉṟu
-ceṉṉip palkalik kaḻaka vuiyīṭāṉa tamiḻ leksakiṉil kuṟikkappaṭṭuḷḷatu. iḵtu iṉiya eḷiya
-naṭi vāynatatu. ariya periya vētāntak karuttukkaḷi yellām makkaḷaṉivarum uṇarumāṟu
-tuivāka viḷaṅkukiṉṟatu. ulaka vāḻkkiyil akappaṭṭu uḻalum aṉivarum iṟivaṉ iṇiyaṭi
-niḻali yaṭintu uyyum vakiyiṉi naṉku eṭuttuk kūṟukiṉṟatu.
-ittuṇic ciṟappukkaḷ poruntiya ic ciṟunūli iyaṟṟi namakkaḷitta āciriyar iṉṉār eṉṟu
-teriyavilli. ivvāciriyar tāyumāṉavarukkuc ciṟitu kālam muṉpō, piṉpō
-iruntavarātal vēṇṭum. innūṟ pāṭalkaḷ tāyumāṉavar pāṭalkaḷip pōṉṟa taṉṉiyuṭiyaṉavāy
-iruppatāl, ennāṭ kaṇṇi, parāparak kaṇṇi mutaliyavaṟṟi iyaṟṟiya tāyumāṉavarē itaṉiyum
-iyaṟṟiyirukkalām eṉṟu ūkikkavum iṭamuṇṭu. āyiṉ, tāyumāṉavar pāṭṭukkaḷiṉ
-tokuppik koṇṭa accup piratiyiṉuḷ "ekkālak kaṇṇi" eṉṉum ippakuti kāṇap
-peṟṟilatu. iḵtu aṟiñarkaḷ ārāyccik kuriyatoṉṟu.
-itu, in nūlniliya mūvaruṭak kāṭlākkil R..912(b) eṉṟa eṇkoṭuttu
-varuṇikkappaṭṭuḷḷa paṉiyōlip piratiyiyum, ataṉip peyarttu eḻutappeṟṟa R. No. 3434
-eṉṟa kākita kiyeḻuttup piratiyiṉiyum ātaramākak koṇṭu iṅku vuiyiṭap paṭukiṉṟatu.
-** innūliṉ ciṟappiyalpukaḷ 1952-ām āṇṭu jūṉ mātam 14-ām nāḷ in nūl niliyattic
-cērnta sarī vi. ār. kalyāṇacuntaram avarkaḷāl ceṉṉi akila intiya vāṉoli
-niliyattiliruntu pēcappeṟṟaṉa.
---------
-
-------------------------------------------------------------------------
-
-muttitarum vēta moḻintameñ ñāṉañcolla
-vattimukavar pāta maruḷpuriya tekkalām.
-
-1
-
-āṅkāra muḷḷaṭaṅki yimpulaṉic cuṭṭaṟuttut
-tūṅkāmal tūṅkic cukampeṟuva tekkālam.
-
-2
-
-nīṅkāc civayōka nittirikoṇ ṭēyiruntu
-tēṅkāk karuṇiveḷḷañ cēruvatu mekkālam.
-
-3
-
-tēṅkāk karuṇiveḷḷan tēṅkiyirun tuṇpavarkku
-vāṅkāmal viṭṭakuṟi vantaṭuppa tekkālam
-
-4
-
-ōyāk kavaliyiṉā luḷḷiliruntu vāṭāmal
-māyāp piṟavi mayakkaṟuppa tekkālam.
-
-5
-
-māyāp piṟavi mayakkatti yūṭaṟuttuk
-kāyā purikkōṭṭi kikkoḷḷuva tekkālam
-
-6
-
-kāyā purikkōṭṭi kivacamāyk koḷvataṟku
-māyā vaṉupūti vantaṭiva tekkālam.
-
-7
-
-cēyāyc camittuc ceviṭūmi pōltirintu
-pēypō liruntu piramikoḷva tekkālam
-
-8
-
-kālkāṭṭik kikāṭṭik kaṇkīḷmukan tāṉkāṭṭi
-mālkāṭṭu maṅkiyari maṟantiruppa tekkālam
-
-9
-
-peṇṇinallā ḷāci piramitaṉi viṭṭoḻinteṉ
-kaṇṇiraṇṭu mūṭik kaviḻntiruppa tekkālam.
-
-10
-
-veṭṭuṇṭa puṇpōl virantavalkuṟ pitaṉilē
-kaṭṭuṇṭu nillāmal karutiyiruppa tekkālam.
-
-11
-
-āṟāta puṇṇi laḻuntikkiṭa vāmalyāṉ
-tērāta cintitaṉit tēṟuvatu tekkālam.
-
-12
-
-tantitāy makkaḷuñ cakōtaramum poyyeṉavē
-cintitaṉiṟ kaṇṭu tuintiruppa tekkālam.
-
-13
-
-maṉṉuyirik koṉṟu vatittuyirip pārkkāmal
-taṉṉuyirip pōleṇṇit tavamuṭippa tekkālam.
-
-14
-
-pāliyeṉṟu pērpaṭittup pāḻnarakil vīḻāmal
-āviniṉṟa cūttiratti yaṭivatiṉi yekkālam.
-
-15
-
-uḷiyiṭṭa kallu muruppiṭitta ceñcāntum
-puḷiyiṭṭa cempatupōṟ poruḷteriva tekkālam..
-
-16
-
-vēṭikki yuñcokucu meyppakaṭṭum poyppakaṭṭum
-vāṭikki yellām mayakkaṟuppa tekkālam.
-
-17
-
-paṭṭuṭiyu moppaṉiyum pāviṉiyum tīviṉiyum
-viṭṭuviṭ ṭuṉpātam virumpuvatu mekkālam.
-
-18
-
-taṇṭikiyuñ cāvaṭiyuñ cālikiyum mālikiyuṅ
-kaṇṭu kaḷittuk karuttilvippa tekkālam.
-
-19
-
-atta ṉirukkumiṭa mārāyntu pārttunittam
-cetta calampōlē tirivatiṉi yekkālam.
-
-20
-
-āmivaru māṉkaṇ ṭaviyaṭakkañ ceytāppōl
-ūmiyuruk koṇṭē yoṭuṅkuvatu mekkālam.
-
-21
-
-uḷḷē karuttuvit tuḷḷirumpu veḷḷirumpāyk
-kaḷḷippiṇam pōliruntu kāṇpataṉi yekkālam.
-
-22
-
-aṟpa cukamaṟin taṟiviyaṟi vālmaṟantu
-kerppattil vīḻntukoṇṭē kōḷaṟuppa tekkālam.
-
-23
-
-karuppaṭutti yeṉṉiyemaṉ kippiṭittuk koḷḷumuṉṉē
-uruppaṭutti yāṇṭaruḷa uṭaṉpaṭuva tekkālam.
-
-24
-
-tuāṇṭu viḷakkamiyat toṭantiruḷkaḷ cūḻntāppōl
-māṇṭu piḻittuvanta vakiteriva tekkālam.
-
-25
-
-tūriyil mīṉampōl kaḻaṉṟumaṉam vāṭāmal
-āriyaṉit tēṭi yaṭipaṇiva tekkālam
-
-26
-
-eṇṇū ṟukamiruntu meyyāta vīṭupeṟa
-veṇṇīṟu pūci viḷaṅkuvatu mekkālam.
-
-27
-
-avavēṭam pūṇṭu malintutiri yāmalyāṉ
-civavēṭam pūṇṭu ciṟantiruppa tekkālam.
-
-28*
-
-aṇṭarukkāy nañcarunti yampalatti lāṭukiṉṟāṉ
-toṇṭarukkut toṇṭaṉeṉat toṇṭuceyva tekkālam
-
-29
-
-paṉṟi vaṭiveṭuttup pāriṭanta mālkāṇak
-kuṉṟil viḷakkoḷiyik kūṭuvatu yekkālam
-
-30
-
-tittikkun teḷḷamutic cittānta tuṉporuḷi
-muttikku vitti mutalniṉippa tekkālam.
-
-31
-
-vētānta vētamellām viṭṭoḻintē ṉicciyiṉāl
-ēkānta māki yiruppatiṉi yekkālam.
-
-32
-
-mattiṭattit tēṭiyentaṉ vāṇāḷip pōkkāmalemak
-kottiṭattit tēṭi yuṟaṅkuvatu mekkālam.
-
-33
-
-iṉṟuḷḷōr nāḷi iruppatuvum poyyeṉavē
-maṉṟuḷḷōr collum vaviteriva tekkālam.
-
-34*
-
-kañcā lapiṉuṇṭu kaḷḷuṇṭu vāṭāmal
-pañcā mirutaviṉpam parukuvatu mekkālam.
-
-35
-
-ceñcalatti ṉāltiraṇṭa kaṉamōkkam peṟavē
-cañcalatti viṭṭuc caraṇaṭiva tekkālam.
-
-36
-
-kumpik kiritēṭik koṭuppā riṭantōṟuñ
-cōmpit tiriyāmaṟ ṟaṭuppatiṉi yekkālam
-
-37
-
-āṭukiṉṟa cūttirantā ṉāmaḷavu mētirintu
-pōṭukiṉṟa nāḷvarumuṉ pōṟṟuvatu mekkālam
-
-38
-
-navacūtti rampōṭṭu nāṉalla veṉṟirunta
-civacūtti rattiyiṉit tērntaṟiva tekkālam
-
-39
-
-immitaṉil pātakaru miruviṉikki ṭāyeṭuttup
-poymitaṉip pōṭṭuṉaṭi pōṟṟiniṟpa tekkālam
-
-40
-
-uppiṭṭa pāṇṭamatu uṭintukaru muṉṉēnāṉ
-appiṭṭa vēṇiyaruk kāḷāva tekkālam
-
-41
-
-cēvi tiṉampurintu civarūpak kāṭcikaṇṭu
-pārvitaṉik kaḻaṟṟip paramaṭiva tekkālam
-
-42
-
-parantu malālaṅkaḷ pāyumpuḻak kūṭṭiviṭṭuk
-kalantuṉ ṉaṭikkīḻk kalantuniṟpa tekkālam
-
-43
-
-cōṟṟut turuttiyitic cumantularntu vāṭāmal
-ūṟṟac caṭampōkaṭ ṭuṉiyaṭiva tekkālam
-
-44
-
-tuṭakkic catameṉavē cumantuluttup pōkāmal
-iṭakkik kaḻaṟṟiyuṉṉi yaṭivatiṉi yekkālam
-
-45
-
-cūtuṅ kaḷavuñ cuṭarviṉiyuñ cuṟṟivarkāṟ
-ṟūtivarun turuttipōṭ ṭuṉiyaṭiva tekkālam
-
-46
-
-ācivalip pākamati lakappaṭṭu māḷāma
-lōcimalar tīpamati loṉṟiniṟpa tekkālam
-
-47
-
-kuralneriya yāṉikattip kūppiṭuṅkāṇātamuntap
-paramaraka ciyattip pārttiruppa tekkālam.
-
-48
-
-pullāy vilaṅkāyp puḻuvāy naravaṭivāy
-ellāp piṟappu miruḷakalva tekkālam
-
-49
-
-takkavakik kōrniṉivu cārāma lēniṉivil
-pakkuvat tuṉṉaruḷip pārttiruppa tekkālam
-
-50
-
-kallāy maramāyk kayalāyp paṟaviyāyp
-pullāyp piṟacaṉaṉam pōkkuvatu mekkālam
-
-51
-
-puruvat talivarōṭu pulkiyiṉpaṅ koḷvataṟkut
-terivip paruvamvantu cikkuvatu mekkālam
-
-52
-
-teriviyiṉ pakkuvattiṉ cīrāṭṭel lāmaṟintu
-kuruviyaṟi vālniṉittuk kumpiṭuva tekkālam
-
-53
-
-vaḷampaṭikkum mātaruṭaṉ maṇṇulakil vāḻntavalum
-puḷiyam paḻattōṭu pōṉṟiruppa tekkālam
-
-54
-
-paṟṟaṟṟu nīriṟ paṭarntavaṇṇac ciṟṟilipōl
-cuṟṟatti nīkkimaṉan tūraniṟpa tekkālam
-
-55
-
-callāpa līliyilē taṉmaṉivi ceytacukañ
-collārkaṇ ṭōṉukkuc colvatiṉi yekkālam
-
-56
-
-maruvu mayaṟpuruṭaṉ varunēraṅ kāṇāma
-lurukumaṉam pōleṉuḷḷa murukuvatu mekkālam
-
-57
-
-taṉkaṇavaṉ taṉcukattil taṉmaṉam vēṟāppōl
-eṉkarutti luṉpatatti yēttuvatu mekkālam
-
-58
-
-kūṭip pirintuviṭṭa kompaṉiyik kāṇāmal
-tēṭit tavirppārpōl cinticeyva tekkālam
-
-59
-
-evvaraṇap peṇmōka meppaṭiyuṇ ṭappaṭippōl
-kivataṉṟi yāṉuṉmēl kalantiruppa tekkālam
-
-60
-
-kaṇṇā laruvi kacintuniṉṟu mutturuḷac
-corṇap paḻamporuḷit tokuttaṟiva tekkālam
-
-61
-
-ākamika vuruka vakamuruka veṉpuruka
-yōkavaṉu pūticinti yukantiruppa tekkālam
-
-62
-
-nīril kumiḻiyippōl nīcamaṟṟa vāḻviviṭṭuṉ
-pēril kirupiveḷḷap perukkeṭuppa tekkālam
-
-63
-
-aṉputaṉi yurukki yaṟivitaṉ mēlpukaṭṭit
-tuṉpavalip pācattit tuṭakkaṟuppa tekkālam
-
-64
-
-karuṇivaḻi yaṟintu karutticcelut tāmaṟkaṇkaḷ
-aruvicoriya vuṉmē laṉpuvippa tekkālam
-
-65
-
-tuiyat tuiyamikac cittāntan taṉṉilaṉpu
-poḻiyap poḻiyamaṉam pūṇṭiruppa tekkālam
-
-66
-
-ātāra mūlat taṭiyiṟkaṇa patiyikkaṇṭu
-pātara vintam paṇintuniṟpa tekkālam
-
-67
-
-maṇvaḷiya nāccatiril vaḷintirunta vētāvik
-kaṇkaḷintu pārtteṉuḷḷē kaṇṭiruppa tekkālam
-
-68
-
-appup piṟinaṭuvē yamintirunta viṭṭuvinā
-ṉuppuk kuṭukakiyuḷḷē yukantaṟiva tekkālam
-
-69
-
-mūṉṟu vaḷiyamiṭṭu muḷitteḻunta veṇṇeruppil
-tōṉṟu muruttiraṉit toḻutuniṟpa tekkālam
-
-70
-
-vāyuvaṟu kōṇamatil vāḻu makēcuraṉit
-tōyumvakik kēṭkat toṭaṅkuvatu mekkālam
-
-71
-
-vaṭṭaviḻikkuḷḷē maruvuñ catācivattik
-kiṭṭavaḻi tēṭakkirupiceyva tekkālam
-
-72
-
-uccik kiṭinaṭuvē yōṅku kurupatatti
-iccittuk koṇṭirukka liṉikkāṇpa tekkālam
-
-73
-
-parāpara mītiṟ pañcavarṇa nañcāki
-vērāki nīrmuḷitta vittaṟiva tekkālam
-
-74
-
-kaṭṭaṟukka voṇṇāk karuvikā rātiyellāñ
-cuṭṭaṟuttu niṭṭiyilē tūṅkuvatu mekkālam
-
-75
-
-tūrō ṭacittuc cuḻaṉṟuniṉṟa tattuvattit
-vērō ṭaṟuttu viḷaṅkuvatu mekkālam
-
-76
-
-kaḷḷak karuttiyellāṅ kaṭṭōṭu vēraṟuttē
-luḷḷak karutti yuṇarntiruppa tekkālam
-
-77
-
-aṭṭakā cañceluttu mavattit tavattuṭaṉē
-paṭṭapā ṭattaṉiyum pakuttaṟiva tekkālam
-
-78
-
-aṟivuk kuviyuṭaṉē avattippaṭum pāṭṭiyellām
-piṟivupaṭa niṟuttip palappaṭuva tekkālam
-
-79
-
-pūtam poṟikaraṇam pōntavintu nātamumāyp
-pētam palavitamum pirittaṟiva tekkālam
-
-80
-
-tōṉṟāci mūṉṟun toṭarntuvantu cuṟṟuminta
-mūṉṟāci lēriyaṭi mūṭaṟuppa tekkālam
-
-81
-
-puṉcaṉaṉam poṉṟumuḷḷē purivaṭṭam pōtiliṉi
-yeṉcaṉaṉa mīṭēṟu meṉṟaṟiva tekkālam
-
-82
-
-naṭṭa naṭuvilniṉṟa naṟṟirō tāyacatti
-kiṭṭavaḻik kāṭṭik kirupiceyva tekkālam
-
-83
-
-nāṉē ṉeṉaviruntāl naṭuvuniṉṟa kaṭṭaḻaki
-tāṉē vuippaṭuttit taruvateṉpa tekkālam
-
-84
-
-aṭarnta maṉakkāṭṭi yañceḻuttu vāḷālē
-toṭarntuveṭṭit toṭarntu veṭṭic cuṭuvataṉi yekkālam
-
-85
-
-aintu poṟivaḻipō yaliyumintap pāḻmaṉatti
-ventuviṭap pārttu viḻippatiṉi yekkālam
-
-86
-
-iṉamāṇṭu cērntiruntō rellōrun tāṉmāṇṭu
-maṉamāṇṭu pōkavaruḷ vantiruppa tekkālam
-
-87
-
-ciṉamāṇṭu pēcuñ ceyalmāṇṭu nāṉmāṇṭu
-maṉamāṇṭu muttinili vantaṭiva tekkālam
-
-88
-
-amiyā maṉattamiyu māṉanta vīṭukaṇṭāl
-imiyāmal nōkki yiruppatiṉi yekkālam
-
-89
-
-kūṭuviṭṭuc cīvaṉmeḷḷak koṭṭāvi koṇṭāppōl
-māṭuviṭu muṉṉēmaṉa māṇṭiruppa tekkālam
-
-90
-
-ūṉiṟakkak kāya muyiritu pōkumuṉṉē
-nāṉiṟantu pōkaviṉi nāḷvaruva tekkālam
-
-91
-
-keṭṭuviṭu mātar keruvitaṅkaḷ pēcivantu
-cuṭṭuviṭu muṉṉeṉṉic cuṭṭiruppa tekkālam
-
-92
-
-tōlēṇi vittēṟit tūranaṭan teyyāmal
-nūlēṇi vittēṟi nōkkuvatu mekkālam
-
-93
-
-vāyōṭu kaṇmūṭi mayakkamuṟṟu nillāmal
-tāyōṭu kaṇkūṭit taḻuviniṟpa tekkālam
-
-94
-
-muṉṉiviṉi yālaṟivu muntāmal piṉmaṟintār
-aṉṉitaṉit tēṭimuli yaruntiniṟpa tekkālam
-
-95
-
-iṇipirinta pōtaṟivi ṉiṉpamuṟum nilipōlat
-tuṇipirinta pōtaruḷnūl toṭarntiruppa tekkālam
-
-96
-
-pākaṉaṭu māṟip payanteṭutta cittiratti
-yēkaṉaṭu mūlat tiruttuvatu mekkālam
-
-97
-
-kācitaṉil naṭantu kālōyntu pōkāmal
-vācitaṉi lēṟi varuvatiṉi yekkālam
-
-98
-
-oḷipaṭaruṅ kuṇṭaliyi yuṉṉiṉivā lēyeḻuppic
-cuḻimuṉit tāḷtuṟantu tūṇṭuvatu mekkālam
-
-99
-
-iṭipiṅ kalinaṭuvē iyaṅkuñ cuḻimuṉimēl
-taṭiyaṟavē niṉṟucalip pāṟṟuvatu mekkālam
-
-100
-
-mūli neruppiviṭṭu mūṭinilā maṇṭalattil
-pāli yiṟakkiyuṇṭu paciyoḻiva tekkālam
-
-101
-
-ākavuik kuḷḷē yaṭaṅkāp puravilaṉā
-ṉēkavui kāṭṭi yiruppatiṉi yekkālam
-
-102
-
-paṉṉiraṇṭu kālpuravi pāyntucillan taṭṭāmal
-piṉṉiniṉṟu caṅkulikkup piḻippatiṉi yekkālam
-
-103
-
-nāṭṭukkā liraṇṭuviṭṭu naṭuvukkā lūṭēpōy
-āṭṭukkāl kaṇṭaṉuḷḷē yamarntiruppa tekkālam
-
-104
-
-pālpacuvip pūṭṭip patiyilvittuc cīrāṭṭik
-kālpacuvip pōṭṭiyatil kaṭṭivippa tekkālam
-
-105
-
-palaviṭatti lēmaṉattip parappiviṭṭup pārāmal
-nilavariyi ṉūṭēpōy nekappaṭuva tekkālam
-
-106
-
-kāmak kaṉalkaṭantu kariyēṟip pōvataṟku
-ōmak kaṉalvaḷarttiṅ kuḷḷiruppa tekkālam
-
-107
-
-utayac cuṭarmūṉṟu muḷvīṭṭi lēkoḷutti
-itayat tirunaṭaṉa miṉikkāṇpa tekkālam
-
-108
-
-vētānta vētamellām viṭṭēṟi yēkaṭantu
-nātānta mūla naṭuviruppa tekkālam
-
-109
-
-paṭṭamatu kāṟṟil pāyntāṭuñ cūttirampōl
-viṭṭuvuip pāynta vicumpeṟiva tekkālam
-
-110
-
-aṭṭāṅka yōka matukkappā lākaniṉṟa
-kiṭṭāp poruḷeṉakkuk kiṭṭuvatu mekkālam
-
-111
-
-oṭṭāma loṭṭiniṟku muṭalumuyi rumpariti
-leṭṭāp paḻampaṟikka vēṇivippa tekkālam
-
-112
-
-pācatti nīkkip pacuvip patiyilviṭṭu
-nēcatti ṉuḷḷē niṟintiruppa tekkālam
-
-113
-
-ācāra nēma maṉuṭṭā ṉamumaṟantu
-pēcāmal ñāṉanili peṟṟiruppa tekkālam
-
-114
-
-pallā yiraṅkōṭi pakiraṅka mumpaṭippu
-mallātu vēṟiliyeṉa ṟaṟivatiṉi yekkālam
-
-115
-
-ātimuta lākiniṉṟa variyeṉṉu maṭcaratti
-yōtiyaṟin tuḷḷē yuṇarvatiṉi yekkālam
-
-116
-
-cāttirattic cuṭṭuc catumaṟiyip pēyākkic
-cūttirattik kaṇṭu tuyāṟuppa tekkālam
-
-117
-
-pañcarittup pēcum palakalikkeṭ ṭāpporuḷil
-cañcarittu vāḻntu talampeṟuva tekkālam
-
-118
-
-malamuñ calamumaṟṟu māykiyaṟṟu māṉamaṟṟu
-nalamum kulamumaṟṟu nāṉiruppa tekkālam
-
-119
-
-ōṭāma lōṭi yulaki valamvantu
-tēṭāma leṉṉiṭamāyt tericippa tekkālam
-
-120
-
-aññāṉam viṭṭu maruḷñāṉa .... tēval toṭṭuṉ
-meññāṉa vīṭupeṟa viṭivatiṉi yekkālam
-
-121
-
-vellumaṭṭum pārttu vekuḷiyelām viṭṭakaṉṟu
-cellumaṭṭuñ cinti celuttuvatu yekkālam
-
-122
-
-mēlām patantēṭi meypporuḷi yuḷḷirutti
-nālām patantēṭi nāṉpeṟuva tekkālam
-
-123
-
-eṇṇāta tūramellā meṇṇippā rāmaluṉṉik
-kaṇṇāṭik kuḷḷoḷipōṟ kaṇṭaṟiva tekkālam
-
-124
-
-eṉṉi yaṟintukoṇṭē yeṅkōmā ṉōṭirukkat
-taṉṉi yaṟintu camintiruppa tekkālam
-
-125
-
-āṟāta raṅkaṭanta yāṉantap pēroḷiyip
-pērākak kaṇṭu peṟṟippa tekkālam
-
-126
-
-āṇava kāmiyattā laḻintucaṭam pōkāmal
-kāṇuta liṉpamuṟṟuk kaṇṭaruḷva tekkālam
-
-127
-
-māyatti nīkki varumviṉiyip pāḻākkik
-kāyatti vēṟākki kāṇpatuṉi yekkālam
-
-128
-
-mūmmalamuñ cērntu muḷitteḻunta kāyamiti
-niṉmalamāyk kaṇṭuviṉi nīkkiniṟpa tekkālam
-
-129
-
-muṉṉi viṉikeṭavē mūṉṟuvakik kāṭciyiṉāl
-uṉṉi vuippaṭutti yuṟuvatiṉi yekkālam
-
-130
-
-kaṇṇiṉoḷi pāyntatuvuṅ karuttaṟintu koṇṭatuvum
-viṇṇoḷi kaṇṭatuvum vuippaṭuvata tekkālam
-
-131
-
-kaṉavukaṇṭāp pōleṉakkuk kāṭṭimaṟin tēyirunta
-niṉivip paravuimēl niṉintatuvu mekkālam
-
-132
-
-āreṉṟu kēṭṭatuvu maṟivuvantu kaṇṭatuvum
-pāreṉṟu coṉṉatuvum pakuttaṟiva tekkālam
-
-133
-
-niṉikkun tiṉantōṟum niṟintaparipūraṇatti
-muṉikkumēṟ kaṇṭukoṇṭu muttutirppa tekkālam
-
-134
-
-iṉṉateṉṟu collavoṇṇā velliyaṟṟa vāṉporuḷic
-coṉṉateṉṟu nāṉaṟintu colvatiṉi yekkālam
-
-135
-
-muppāḻum pāḻāy mutalpāḻum niṟṟuḷā
-yappālum pāḻā yaṉpuceyta tekkālam
-
-136
-
-maṉattiyoru villākki vāṉpoṟiyi nāṇākki
-yeṉataṟivi yampākki yeyvatiṉi yekkālam
-
-137
-
-eṉṉi yiṟakkaveytu yeṉpatiyi yūṭaḻitta
-yuṉṉi vuiyilvittu yoḷittuniṟpa tekkālam
-
-138
-
-cīyeṉ ṟeḻuttil ciṟantuniṉṟa vāṉporuḷi
-nīyeṉṟu kaṇṭu nilipeṟuva tekkālam
-
-139
-
-avveḻuttu mivveḻuttu maḷaviniṟkuñ cīyeḻuttum
-yavveḻutti ṉuḷḷē yaṭaṅkiniṟpa tekkālam
-
-140
-
-eḻuttellā māṇṭiṟat tēkamāy niṉṟatilē
-yaḻuttamāyc cintitayivit taṉpuceyta tekkālam
-
-141
-
-aruvā yuruvāki yātiyanta mākiniṉṟu
-kuruvāki vanteṉiyāṭ koṇṭaruḷva tekkālam
-
-142
-
-nāṉeṉ ṟaṟintaveṉṉi nāṉaṟiyāk kālamellān
-tāṉeṉṟu nīyiruntu taṉuvaṟiva tekkālam
-
-143
-
-oḷiyi loḷivāyu uruppiṟanta vāṟatupōl
-vuiyilvui yāyirunta vitamaṟiva tekkālam
-
-144
-
-oḷiyiṭṭa meypporuḷi yuḷvuiyi lēyaṭittu
-vuiyiṭṭuc cāṟṟivittu vīṟṟiruppa tekkālam
-
-145
-
-maṉṉum paravuiyi maṉavuiyi lēyaṭittu
-yeṉṟu moruniṉivi yeḻuppiniṟpa tekkālam
-
-146
-
-poṉṉumaveṉa ḷiyum pūṇṭa poṟpatatti yuḷḷamittu
-miṉṉu moḻiviḻiyil viṭṭaṭipap tekkālam
-
-147
-
-appiluṟi yappu māṉaṭiyiṟ cēravoru
-ceppilev vāṟateṉṟu ceppuvatu mekkālam
-
-148
-
-kūṭṭilaṭi paṭṭa kuḷaviyuruk koṇṭatupōl
-vīṭṭilaṭi paṭṭaruḷi vēṇṭuvatu mekkālam
-
-149
-
-aruṇap pirakāca maṇṭameṅku muṟṟatupōl
-karuṇit tiruvaṭiyiṟ kalantiruppa tekkālam.
-
-150
-
-kaṭiya veḻuntaruntak kaṉaleḻuppi vantāppōl
-uṭali loḷittaciva moḷipiṟappa tekkālam
-
-151
-
-poṉṉil palavitamāyp pūṭaṇamuṇ ṭāṉatupōl
-uṉṉil piṟantuṉṉi loṭuṅkuvatu mekkālam
-
-152
-
-nāyil kaṭippiṟappāy nāṉpiṟanta tuṉpamaṟa
-veyyiṟ kaṉaloḷipol viḻuṅkuvatu mekkālam
-
-153
-
-cūriya kāntavoḷi cūḻntapañcic cuṭṭatupōl
-lāriyaṉ tōṟṟa maruḷpeṟuva tekkālam
-
-154
-
-kāntam valittirumpik kavarntiḻuttuk koṇṭāppōl
-pāyntu valittiḻuttup patattilvippa tekkalām
-
-155
-
-irumpil kaṉalmūṭṭi yivvuruppō yavvuruvāyk
-karumpil cuviracattik kaṇṭaṟiva tekkālam
-
-156
-
-karukkoṇṭa muṭṭitaṉik kaṇṭāmi tāṉirukka
-urukkoṇṭa vāṟatupō luṉiniṉippa tekkālam
-
-157
-
-vīṭuviṭṭup pāyntu vuiyilvaru vārpōlnī
-kūṭuviṭṭup pāynta kuṟippaṟiva tekkālam
-
-158
-
-uṭintaveṇṇey mōril kalavāta vāṟatupōl
-aṭintatami yēṉuṉakkē yāṭpaṭuva tekkālam
-
-159
-
-eḷḷuṅ karumpu miḷamalaruṅ kāyamumpō
-luḷḷum puṟampumniṉṟa tuṇarntaṟiva tekkālam
-
-160
-
-iruḷi vuiviḻuṅki yēkavuruk koṇṭatupō
-laruḷi viḻuṅkumiru ḷakaṉṟuniṟpa tekkālam
-
-161
-
-miṉṉeḻuntu miṉṉōṅki viṇṇuluṟin tāppōlnī
-eṉṉuḷ niṟintuniṉṟatu yāṉaṟiva tekkālam
-
-162
-
-viḷaṅkiniṉṟa tārakiyi veyyōṉ maṟittalpōl
-kaḷaṅkamaṟa vuṉkāṭci kaṇṭaṟiva tekkālam
-
-163
-
-aṉṉam puṉalvakut tamutatti yuṇṭāppōl
-yeṉṉi vakuttuṉṉi yiṉik kāṇpa tekkālam
-
-164
-
-kaṇṭapuṉal vakuttatil katiroḷikaḷ pāyntāppōl
-koṇṭa corūpamatik kūrntaṟiva tekkālam
-
-165
-
-pūṇukiṉṟa poṉṉaṇintār poṉcumakku mōyuṭalit
-tōṇukiṉṟa teṉkaruttil tōṟṟuvatu mekkālam
-
-166
-
-cempilniṉṟa kāḷitampōṟ civarūpat tiviḻuṅki
-vempiniṉṟa mummalatti vēraṟuppa tekkālam
-
-167
-
-āviyuṅ kāyamumpō laṉṉattil niṉṟatittāṉ
-pāvi yaṟintumaṉam paṟṟiniṟpa tekkālam
-
-168
-
-ūmikkaṉāk kaṇṭurikka vūṟiya liṉpamati
-nāmaṟintu koḷvataṟku nāḷvaruva tekkālam
-
-169
-
-cākāc civaṉaṭiyē tappātā reppōtum
-pōkā ruṭalkaṇṭu pōvareṉpa tekkālam
-
-170
-
-kāṭṭumaruḷ ñāṉak kaṭaliliṉpak kappalviṭṭu
-mūṭṭukaru ṇikkaṭalil mūḻkuvatu mekkālam
-
-171
-
-tāṉārō nīyārō taṟparamāy niṉṟārō
-nāṉārō veṉṟaṟiya nāḷvaruva tekkālam
-
-172
-
-niṭṭi taṉiviṭṭu niṉivaṟivu tappaviṭṭu
-veṭṭa vuikkuḷḷē viraviniṟpa tekkālam
-
-173
-
-veṭṭa vuitaṉilē viḷintaveṟum pāḻināṉ
-tiṭṭamaṟak kaṇṭu tuivatiṉi yekkālam
-
-174
-
-eṅkum palavaṭivā yeṉvaṭivum niṉvaṭivāyk
-kaṅkulpaka laṟiyavuṉṉik kaṇṭiruppa tekkālam
-
-175
-
-uṇṭatuvu mātaruṭaṉ ūṭic cērvatuvuṅ
-kaṇṭatuvum nīyeṉavē kaṇṭukoḷva tekkālam
-
-176
-
-evarevarka ḷeppaṭikkaṇ ṭentap paṭiniṉittār
-avaravarkkut tāṉappaṭi yāvatuvu mekkālam
-
-177
-
-īmeṉṟu kēṭṭatuvu meṉṉuḷḷē niṉṟatuvum
-nāmeṉṟu coṉṉatuvum namakkaṟiva tekkālam
-
-178
-
-cittampiṟan tiṭamunti ciṉmayamāy niṉṟatuvuñ
-cittamaṟan tiṭamun tērntaṟiva tekkālam
-
-179
-
-āṭṭamoṉṟu millāmal acivucaṟṟuṅ kāṇāmal
-tēṭṭamaṟṟa vāṉporuḷit tēṭuvatu mekkālam
-
-180
-
-pōkkum varavum piṟappumuḷḷu mākaniṉṟu
-kākkamoru poruḷik kalantuniṟpa tekkālam
-
-181
-
-nāṉeṉavum nīyeṉavu miraṇṭumitu voṉṟāṉāl
-ñāṉeṉavuñ cintitaṉi leṇṇuvatu mekkālam
-
-182
-
-aṟiviyaṟi vālaṟinta vaṟivumaṟi yāmaṟivil
-pirivupaṭa nillāmal piṭipaṭuva tekkālam
-
-183
-
-nīṭum puvaṉamellām niṟintuniṉṟa cittiramāy
-āṭum tirukkūtti yaṟivatiṉi yekkālam
-
-184
-
-tittiyeṉṟa kūttil tiruccilampi ṉōcikaḷum
-pattiyuṭaṉ kēṭṭup paṇivatiṉi yekkālam
-
-185
-
-nayaṉat tiṭivaḻipōy naṇṇum paravuiyiṟ
-cayaṉatti ṉiltirintu talippaṭuva tekkālam
-
-186
-
-antarattil pūttalānteḻunta tāmaripōl
-tantirattāl nōkkit talippaṭuva tekkālam
-
-187
-
-aruvi malinaṭuvē yāyirakkāl maṇṭapattuḷ
-tiruviḷi yāṭṭaṅkaṇṭu tericippa tekkālam
-
-188
-
-uṟṟuṟṟup pārkka voḷitarumā ṉantamati
-neṟṟikkuḷ nērēkaṇṭu nilippatiṉi yekkālam
-
-189
-
-mīṉirompa vuṇṭukakki vikkiniṉṟa kokkatupōl
-ñāṉatti rompavuṇṭu nāṉiṟpa tekkālam
-
-190
-
-kaḷḷuṇṭa vāyatupōl kalitarumā ṉantamatil
-taḷḷuṇṭu tiṇṭāṭi taṭipuraḷva tekkālam
-
-191
-
-tāṉeṉṟa vāṇavamun tattuvamuṅ keṭṭoḻintu
-tāṉeṉṟa pēccumatu taṅkiniṟpa tekkālam
-
-192
-
-piṟappu miṟappumaṟṟup pēccumaṟṟu mūccumaṟṟu
-maṟappum niṉippu maṟṟu māyntiruppa tekkālam
-
-193
-
-eṉvacamuṅ keṭṭu yiruntava camumaḻintu
-taṉvacamuṅ keṭṭaruḷic cārntuniṟpa tekkālam
-
-194
-
-taṉamaṟantu tavatti ṉilimaṟantu malakkuṟṟak
-kaṉamaṟantu kaṭiyaṉēṉ katipeṟuva tekkālam
-
-195
-
-eṉṉiyeṉṉi lēmaṟan tiruntapati yummaṟantu
-taṉṉiyun tāṉmaṟantu taṉittuniṟpa tekkālam
-
-196
-
-taṉṉiyeṉṉi lēmaṟantu talivācal tāṉpōṭṭu
-uṉṉiniṉin tuḷḷa murukiniṟpa tekkālam
-
-197
-
-nāṉuṉṉip pūṇṭatellā ñāṉavaḻi yālaṟintu
-tāṉavaṉāy niṉṟu caraṇaṭiva tekkālam
-
-198
-
-tāṉanta millāta taṟparatti lēyaṭintu
-māṉantaṉ kaṇṭupati yaṟṟiruppa tekkālam
-
-199
-
-eṉṉiṉivō nāṉaṟiyē ṉintavaṇṇañ coṉṉatellām
-muṉṉiṉivōr kikkoḷḷunāṉ muṭipaṭuva tekkālam
-
-200
-
-naccaravi nīkki naṉmaṇikik koṇṭāppōl
-coṟcaravit tīrttanallōr tuṇikkoḷva tekkālam
-
-201
-
-muṟṟum
-
-------------------------------------------------------------------------
-
-ārāycciyuri (muṉivar nā. kaṇṇaṉ, 2002 )
-
-aṉparkaḷē:
-ekkālak kaṇṇi eṉṟa inta nūl araciṉar kīḻattiya cuvaṭi nūlakattiṉāl 1953-m āṇṭu
-vuiyiṭappaṭṭuḷḷatu. itaṟku muṉṉuri vaḻaṅkiyuḷḷa tiru.vi.es.kiruṣṇaṉ avarkaḷ
-ittokuppiṉ āciriyar aṟiyappaṭātatāl piṉ varumāṟu eḻutukiṟār:
-"tāyumāṉavar pāṭal tokuppiṉuḷ kāṇappeṟum, ennāṭ kaṇṇi, parāparak kaṇṇi
-mutaliyaṉavaṟṟiṟkum iṅṅaṉamē peyar vantuḷḷami nōkkat takkatu. ittuṇic ciṟappukkaḷ
-poruntiya ic ciṟunūli iyaṟṟi namakkaḷitta āciriyar iṉṉār eṉṟu teriyavilli.
-ivvāciriyar tāyumāṉavarukkuc ciṟitu kālam muṉpō, piṉpō iruntavarātal vēṇṭum.
-innūṟ pāṭalkaḷ tāyumāṉavar pāṭalkaḷip pōṉṟa taṉṉiyuṭiyaṉavāy iruppatāl, ennāṭ kaṇṇi,
-parāparak kaṇṇi mutaliyavaṟṟi iyaṟṟiya tāyumāṉavarē itaṉiyum iyaṟṟiyirukkalām eṉṟu
-ūkikkavum iṭamuṇṭu. āyiṉ, tāyumāṉavar pāṭṭukkaḷiṉ tokuppik koṇṭa accup
-piratiyiṉuḷ "ekkālak kaṇṇi" eṉṉum ippakuti kāṇap peṟṟilatu. iḵtu aṟiñarkaḷ
-ārāyccikkuriyatoṉṟu."
-eṉṟu muṭikkiṟār. uṇmiyil itu āyvukkuriya oṉṟutāṉ. ēṉeṉil āṟu varuṭaṅkaḷ
-kaḻittu ceṉṉi pirēmā piracuram vuiyīṭāka itē pāṭalkaḷ caṟṟu vittiyācaṅkaḷuṭaṉ
-"pattirakiriyār meyñāṉap pulampal" eṉap peyariṭappaṭṭu, 'cittar periya ñāṉak kōvi eṉa
-vaḻaṅkum cittar pāṭalkaḷ' eṉṟa puttakattiṉ oru tokutiyāka vantirukkiṟatu. vitvāṉ
-nā.tēvanātaṉum, aru.rāmanātaṉum pāṭapētaṅkaḷip paricōtittu, tiruttamāka viḷakkak
-kuṟippukaḷuṭaṉ iti vuiyiṭṭuḷḷaṉar. ivarkaḷ araciṉar kīḻattiya cuvaṭi nūlakattiṉāl
-1953-m āṇṭu vuiyiṭappaṭṭa "ekkālak kaṇṇi" eṉṟa nūliṉi aṟintārkaḷā? atiyum
-ittokuppiṉ āyvukku uṭpaṭuttiṉārkaḷāveṉat teriyavilli. periya tokuppākiya
-'cittar pāṭal' kaḷil mūlappirati paṟṟiya kuṟippētum illi.
-eṉavē ippāṭalkaḷ teriyāta āciriyar oruvarāl eḻutappaṭṭaṉa eṉpatu pōy iti eḻutiyavar
-tāyumāṉavarā? illi pattirakiriyārā? eṉṟa cantēkattil nām ippōtu niṟkiṟōm! ōlikaḷ
-eḻutum pōtu tavaṟukaḷ ēṟpaṭuvatu mika cakajam. itik kīḻkkāṇum kuṟippu cuṭṭukiṟatu:
-"itu namma nāṭṭu nāyattu ōli. rompakkālam paḻakip pōṉapaṭiyāl koñcam eḻuttu
-pōyirunta paṭiyālum anta ōlikkup patil putu ōli pōṭṭu yuva varuṣam appici mātam
-15 tēti eḻutiyirukkiṟōm. ēṭṭuk kuttam, eḻuttuk kuttam, vācakat tappu, vari
-māṟāṭṭam iruntapōtilum nīṅkaḷ aṉivarum poṟuttuk koḷḷa vēṇṭiyatu. kaṭavuḷ tuṇi! "
-(koṅku nāṭṭuc camutāya āvaṇaṅkaḷ. āciriyar pulavar ce.irācu, tamiḻp palkalik kaḻakam,
-tañcāvūr 1991. pak. 217)
-iṉi ekkālak kaṇṇiyiṉ iru patippukkaḷukkuḷ uḷḷa oṟṟumi vēṟṟumikaḷik kāṇpōm.
-talippiṭuvatilēyē māṟṟam terikiṟatu. kīḻattiya cuvaṭi nūlakam iti 'ekkālak kaṇṇi'
-eṉṟaḻikka, pirēmā piracuram iti 'pattirakiriyār meyññāṉap pulampal' eṉṟaḻikkiṟatu.
-muṉṉataṉ mutal pāṭṭu, piṉṉatil kāppuc ceyyuḷāka karutappaṭukiṟatu, ciṟu
-māṟṟattiṭaṉ,
-muttitarum ñāṉa moḻiyām pulampal colla
-atti mukavantaṉ aruḷpeṟuvatu ekkālam?
-eṉpatu kāppuc ceyyuḷ. iruvēṭukaḷilum atti mukam koṇṭa vināyakaṉukku
-kāppiṭṭālum, "ñāṉa moḻip pulampal" eṉṟa vacaṉam oru ēṭṭilum, "vētamoḻinta
-meññāṉam" eṉṟa vacaṉam iṉṉoru ēṭṭilum kāṇappaṭukiṟatu. iviyē 'ñāṉappulampal' eṉṟu
-oru patippil peyar peruvataṟkum, maṟṟoṉṟil 'ekkālak kaṇṇi' eṉṟu peyar peruvataṟkum
-kāraṇamākiṟatu eṉṟu ūkikkalām.
-intak kāppu ceyyuḷ cittarkaḷ cintaṉi marapuṭaṉ neruṅkik kāṇappaṭukiṟatu. ēṉeṉil,
-cittarkaḷ niṟuvaṉappaṭuttappaṭṭa matattiṟku etirākak kural koṭuttavarkaḷ. civavākkiyariṉ
-piṉvarum pāṭal itit teḷḷattuivākak kāṭṭum,
-"cāttiraṅkaḷ ōtukiṉṟa caṭṭanāta paṭṭarē!
-vērttu irippu vantapōtu vētam vantu utavumō?
-māttirippō tummuḷē maṟintu tokka vallirēl
-cāttirappi nōykaḷ ētu? cattimutti cittiyē!"
-eṉavē ekkālam, ekkālam eṉṟu pulampal ceyta cittar "muttitarum vēta moḻintameñ
-ñāṉañcolla" eṉṟu colliyiruppārā? eṉṟa kēḷvi eḻukiṟatu. vētam eṉpatu acikkiyalā
-atikāramāka uruppeṟṟu niṟuvaṉappaṭuttap paṭṭu, piṟappāl uyar cātikkārarkaḷē vētam
-colla vallavar eṉṟa iṟukkamāṉa oru camūka kaṭṭuppāṭṭi cittarkaḷ uṭikkiṟārkaḷ. niṟuvaṉam
-pēcum ācāram aṉuṣṭṭāṉaṅkaḷi kēli ceytu parāparattiṉ uṇmi nili kāṭṭukiṉṟaṉar.
-utāraṇamāka,
-"cittamaṟṟu cintiyaṟṟu cīvaṉaṟṟu niṉṟiṭam
-cattiyaṟṟu campuvaṟṟu cātipētamaṟṟunaṉ
-mittiyaṟṟu mūlamaṟṟu mūlamantiraṅkaḷum
-vittiitti īṉṟavittil viḷintatē civāyamē!"
-mēlum cittar pāṭalkaḷil varum pattirakiriyār meyññāṉap pulampal mottam 231
-kaṇṇikaḷik koṇṭuḷḷatu. vināyakaṉ tutiyuṭaṉ ārampikkum ittokuppu avaṉatu iṇiyaṭiyit
-toḻutu muṭikiṉṟatu.
-"aintu karattāṉi aṭi iṇip pōṟṟiceytu
-neñcil porutti nilipeṟuvatu ekkālam?"
-inta vakiyil pattirakiriyār meyññāṉap pulampal oru muḻumi peṟṟa tokuppākat
-tōṉṟukiṟatu. kamparāmāyaṇattiṟku ataṉ ciṟappu kuṟittu palvēṟu paṭikaḷ iruppatupōl
-pattirakiriyār pāṭalukkum paṭikaḷ iruppatu, ippāṭal makkaḷ mattiyil evvaḷavu
-pirapalamāka iruntirukkiṟatu eṉpatik kāṭṭukiṟatu. ippāṭalkaḷip paṭippavar maṉatit
-toṭum vaṇṇam, atē nērattil avartam āṟṟāmiyi pulampum vaṇṇam ippāṭalkaḷ
-eḻutappaṭṭiruppatu itaṉ ciṟappu.
-pattirakiriyār eṉpavar paṭṭiṇattāriṉ cīṭar eṉpatu marapu. paṭṭiṇattāriṉ pāṭalkaḷil
-peṇṇāci kuṟitta oru veṟuppu mēlōṅki irukkum. utāraṇamāka,
-"māṉiṭarkkellām yāṉeṭutturippēṉ
-viḻivui mākkaḷ tuivuṟak kēṇmiṉ......
-nakuvārkku iṭamāy nāṉṟu vaṟṟum
-muliyip pārttu muḷarimoṭṭeṉṟum
-kuliyuṅ kāmak kuruṭarkku urippēṉ!"
-ittoṇi "ekkālak kaṇṇi"yilum olikkiṟatu!
-peṇṇinallā ḷāci piramitaṉi viṭṭoḻinteṉ
-kaṇṇiraṇṭu mūṭik kaviḻntiruppa tekkālam. 10
-veṭṭuṇṭa puṇpōl virintavalkuṟ pitaṉilē
-kaṭṭuṇṭu nillāmal karutiyiruppa tekkālam. 11
-veṭṭuṇṭa puṇ pōla virinta alkul eṉṉum uvamiyic cittarkaḷ tavira vēṟu yārum
-pēcamuṭiyātu!
-mēlum cittarkaḷāltāṉ,
-vētānta vētamellām viṭṭoḻintē ṉicciyiṉāl
-ēkānta māki yiruppatiṉi yekkālam. 32
-cāttirattic cuṭṭuc catumaṟiyip pēyākkic
-cūttirattik kaṇṭu tuyāṟuppa tekkālam 117*
-eṉṟum collamuṭiyum! itu taṉṉicciyāka alintu tiriyum oru ēkāntiyiṉ ñāṉamāka
-irukka muṭiyumē tavira, pūji, puṉaskāram ceyyum oru vētiyariṉ ñāṉamāka irukka
-muṭiyātu!
-tamiḻ maṇṇil cittarkaḷip paṟṟiya oru potu apippirāyam vara kīḻkkaṇṭa pāṭalkaḷ
-utaviyirukkum eṉṟu nampalām. citti peṟṟavarkaḷ palvēṟu vakikaḷil ulāvukiṉṟaṉar.
-cilar jaṭāmuṭi tarikkiṉṟaṉar, cilar kañcā, apiṉ kuṭikkiṉṟaṉar, cilar muṉiyāka
-uḷḷaṉar, ippaṭi ettaṉiyō...
-cēyāyc camittuc ceviṭūmi pōltirintu
-pēypō liruntu piramikoḷva tekkālam 8
-tantitāy makkaḷuñ cakōtaramum poyyeṉavē
-cintitaṉiṟ kaṇṭu tuintiruppa tekkālam. 13
-avavēṭam pūṇṭu malintutiri yāmalyāṉ
-civavēṭam pūṇṭu ciṟantiruppa tekkālam. 28
-kañcā lapiṉuṇṭu kaḷḷuṇṭu vāṭāmal
-pañcā mirutaviṉpam parukuvatu mekkālam. 35
-vaḷampaṭikkum mātaruṭaṉ maṇṇulakil vāḻntavalum
-puḷiyam paḻattōṭu pōṉṟiruppa tekkālam 54
-paṟṟaṟṟu nīriṟ paṭarntavaṇṇac ciṟṟilipōl
-cuṟṟatti nīkkimaṉan tūraniṟpa tekkālam 55
-ācāra nēma maṉuṭṭā ṉamumaṟantu
-pēcāmal ñāṉanili peṟṟiruppa tekkālam 114
-mēlum cittarkaḷ camayam kaṭanta oru yōka nili paṟṟi nirampac pēcukiṉṟaṉar. atu 'ekkālak
-kaṇṇi'yilum olikkiṟatu.
-ātāra mūlat taṭiyiṟkaṇa patiyikkaṇṭu
-pātara vintam paṇintuniṟpa tekkālam 67
-kācitaṉil naṭantu kālōyntu pōkāmal
-vācitaṉi lēṟi varuvatiṉi yekkālam 98
-cittarkaḷ peṇ cukattik kaṇṭittālum, atu tarum cuviyi meññāṉa viḷakka
-mēṟkōḷkaḷukku payaṉpaṭuttat tavaṟuvatilli. tirumūlar toṭarntu pala cittarkaḷ uṭaliṉpatti
-muktikkāṉa pātiyākavum (tantiram- pariyaṅka yōkam) karutuvatuṇṭu.
-callāpa līliyilē taṉmaṉivi ceytacukañ
-collārkaṇ ṭōṉukkuc colvatiṉi yekkālam 56
-taṉkaṇavaṉ taṉcukattil taṉmaṉam vēṟāppōl
-eṉkarutti luṉpatatti yēttuvatu mekkālam 58
-uṇṭatuvu mātaruṭaṉ ūṭic cērvatuvuṅ
-kaṇṭatuvum nīyeṉavē kaṇṭukoḷva tekkālam 176
-pārati pōl kaḷḷuṇṇum cukam paṟṟiyum uvami varukiṟatu !
-kaḷḷuṇṭa vāyatupōl kalitarumā ṉantamatil
-taḷḷuṇṭu tiṇṭāṭi taṭipuraḷva tekkālam 191
-cittarkaḷ tamiḻ marapil vantavarkaḷ. niṟuvaṉa mataṅkaḷik kēli pēcat tayaṅkātavarkaḷ. cittarkaḷ
-palvēṟu kulaṅkaḷiliruntu varupavarkaḷ. avarkaḷ vāyiliruntu civaṉi 'āriyaṉ' eṉṉum
-pōtu iccol mariyāti nimittam payaṉpaṭum uyarvu naviṟci eṉṟu koḷḷavēṇṭumē tavira
-'āriyaṉ' eṉpatu oru maṉita iṉam eṉṟu koḷḷalākātu. atu oru moḻic collāṭci eṉṟu
-palar viḷakkiyam inta āriya-tirāviṭa caṇṭi tamiḻ maṇṇil ōynta pāṭilli!
-tūriyil mīṉampōl kaḻaṉṟumaṉam vāṭāmal
-āriyaṉit tēṭi yaṭipaṇiva tekkālam 26
-vāṭiya payirik kaṇṭu vāṭiya irāmaliṅka vaḷḷalār pōl pattirakiriyārum maṉṉuyirit
-taṉṉuyir eṉṟu karuta vēṇṭum eṉkiṟār.
-maṉṉuyirik koṉṟu vatittuyirip pārkkāmal
-taṉṉuyirip pōleṇṇit tavamuṭippa tekkālam. 14
-kaṇṇā laruvi kacintuniṉṟu mutturuḷac
-corṇap paḻamporuḷit tokuttaṟiva tekkālam 61
-meññāṉam terikkum pāṭalkaḷ palap pala, avaṟṟuḷ cila....
-iṉṟuḷḷōr nāḷi iruppatuvum poyyeṉavē
-maṉṟuḷḷōr collum vaviteriva tekkālam. 34
-aintu poṟivaḻipō yaliyumintap pāḻmaṉatti
-ventuviṭap pārttu viḻippatiṉi yekkālam 86
-ciṉamāṇṭu pēcuñ ceyalmāṇṭu nāṉmāṇṭu
-maṉamāṇṭu muttinili vantaṭiva tekkālam 88
-ūṉiṟakkak kāya muyiritu pōkumuṉṉē
-nāṉiṟantu pōkaviṉi nāḷvaruva tekkālam 91
-poṉṉil palavitamāyp pūṭaṇamuṇ ṭāṉatupōl
-uṉṉil piṟantuṉṉi loṭuṅkuvatu mekkālam 152
-cempilniṉṟa kāḷitampōṟ civarūpat tiviḻuṅki
-vempiniṉṟa mummalatti vēraṟuppa tekkālam 167
-ūmikkaṉāk kaṇṭurikka vūṟiya liṉpamati
-nāmaṟintu koḷvataṟku nāḷvaruva tekkālam 169
-veṭṭa vuitaṉilē viḷintaveṟum pāḻināṉ
-tiṭṭamaṟak kaṇṭu tuivatiṉi yekkālam 174
-eṅkum palavaṭivā yeṉvaṭivum niṉvaṭivāyk
-kaṅkulpaka laṟiyavuṉṉik kaṇṭiruppa tekkālam 175
-cittarkaḷip paṟṟiya toṉmaṅkaḷil avarkaḷ kūṭuviṭṭuk kūṭu pāyum tiṟaṉum oṉṟu. atu
-paṟṟip pēcum pāṭaloṉṟu.
-vīṭuviṭṭup pāyntu vuiyilvaru vārpōlnī
-kūṭuviṭṭup pāynta kuṟippaṟiva tekkālam 158
-atupōl, cittarkaḷ iracavātam pōṉṟa viññāṉa cāttiraṅkaḷilum vallavarkaḷ. iyaṟpiyal pēcum
-pāṭalkaḷ...
-cūriya kāntavoḷi cūḻntapañcic cuṭṭatupōl
-lāriyaṉ tōṟṟa maruḷpeṟuva tekkālam 154
-viḷaṅkiniṉṟa tārakiyi veyyōṉ maṟittalpōl
-kaḷaṅkamaṟa vuṉkāṭci kaṇṭaṟiva tekkālam 163
-cittarkaḷiṉ kālam 10 nūṟṟāṇṭiṟkup piṉtāṉ eṉpatu aṟiviyalār karuttu.
-pattirakiriyār 'kaṇṇāṭi' paṟṟiya uvamiyik kiyāḷkiṟār. kaṇṇāṭi eṉpatit 'taṭṭoḷi'
-eṉṟu cittarkaḷ kālattiṟku muṉ vāḻnta āṇṭāḷ pēcukiṟāḷ. pattirakiriyār kālattil
-iracam pūciya kaṇṇāṭi iruntirukkalām. atu avar piṟkālattavar eṉṟu yūkikkavum iṭam
-koṭukkalām.
-eṇṇāta tūramellā meṇṇippā rāmaluṉṉik
-kaṇṇāṭik kuḷḷoḷipōṟ kaṇṭaṟiva tekkālam 124
-pattirakiriyār māṇikkavācakar kālattiṟku piṟpaṭṭavar eṉpati avar kiyāḷum tiruvācaka
-vacaṉaṅkaḷ cuṭṭukiṉṟaṉa.
-pullāy vilaṅkāyp puḻuvāy naravaṭivāy
-ellāp piṟappu miruḷakalva tekkālam 49
-kallāy maramāyk kayalāyp paṟaviyāyp
-pullāyp piṟacaṉaṉam pōkkuvatu mekkālam 51
-pōkkum varavum piṟappumuḷḷu mākaniṉṟu
-kākkamoru poruḷik kalantuniṟpa tekkālam 181
-iviyaṉittum 'civapurāṇattil' pēcappaṭum viṣayaṅkaḷākum. 'pōkkum varavumaṟṟa puṇṇiyaṉ'
-eṉpatu māṇikkavācakar vākku. pattirakiriyār, viṇava cittāntattil varuvatu pōl
-pōkkum varavum iṟivaṉukku uṇṭu eṉṟum, atil antaryāmiyāmiyāka iṟivaṉ uḷḷāṉ
-eṉṟum colkiṟār!
-cittarkaḷiṉ tamiḻ eḷiya tamiḻ, putiya tamiḻ. atu makkaḷ tamiḻum kūṭa!
-tāṉārō nīyārō taṟparamāy niṉṟārō
-nāṉārō veṉṟaṟiya nāḷvaruva tekkālam 172
-tāyiṉ tālāṭṭu kēṭkiṟatā ippāṭalil?
-mīṉirompa vuṇṭukakki vikkiniṉṟa kokkatupōl
-ñāṉatti rompavuṇṭu nāṉiṟpa tekkālam 190
-cātāraṇamāṉa utāraṇamum, kakki-vikki pōṉṟa makkaḷ tamiḻum iṅkuṇṭu.
-oruvakiyil 'ekkālam, ekkālam' eṉṟu ivar pulampuvatu oru cātāraṇaṉaṉukkāka
-vakkālattāka ivar pulampuvatu pōl uḷḷatu. nam maṉattiṉ āṉmīka āṟṟāmikaḷ ikkaṇṇikaḷil
-paṭṭut terikkiṉṟaṉa. oruvakiyil pattirakiriyārē nammip pōl pulampuvatu namakku
-āṟutal aḷippatākavuḷḷatu. kaṭiciyākac colkiṟār, ippaṭip pēcumpaṭi ivaric
-ceyvittavaṉ evaṉ? eṉṟu. ittaṉi ñāṉamum uḷḷoḷiyāy vantateṉṟum purikiṟatu.
-aruṇakirikku kantavēḷ coṉṉatupōl 'collaṟa, cummā iru' eṉṉum nilipaṟṟip pēci
-muṭikkiṟār!
-eṉṉiṉivō nāṉaṟiyē ṉintavaṇṇañ coṉṉatellām
-muṉṉiṉivōr kikkoḷḷunāṉ muṭipaṭuva tekkālam 200
-naccaravi nīkki naṉmaṇikik koṇṭāppōl
-coṟcaravit tīrttanallōr tuṇikkoḷva tekkālam 201.
-aṉpaṉ
-nā.kaṇṇaṉ
-pōpliṅkaṉ, jermaṉi
-ēpral 06.04.2002
+                                 [pmdr0.gif]
+                     ___________________________________
+
+                                ekkalak kaNNi
+                             (author not known)
+                      (in tamil script, unicode format)
+                             ekkālak kaṇṇi
+                     (āciriyar yāreṉa teriyavillai)
+                     ___________________________________
+     __________________________________________________________________
+
+   Etext input : K. Kalyanasundaram, Lausanne, Switzerland
+   Proof-reading: Dr. N. Kannan, Boelingen, Germany
+   Web & pdf versions: Dr.K. Kalyanasundaram, Lausanne, Switzerland
+   This webpage presents the Etxt in Tamil script but in Unicode encoding.
+   To view the Tamil text correctly you need to set up the following:
+   i). You need to have Unicode fonts containing Tamil Block (Latha,
+   Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on
+   your computer
+   and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
+   XP).
+   ii)Use a browser that is capable of handling UTF-8 based pages
+   (Netscape 6, Internet Explorer 5) with the Unicode Tamil fontchosen as
+   the default font for the UTF-8 char-set/encoding view.
+   . In case of difficulties send an email request to
+   [1]kalyan@geocities.com or [2]kumar@vt.edu
+   © Project Madurai 1999 - 2003
+   Project Madurai is an open, voluntary, worldwide initiative devoted to
+   preparation of electronic texts of tamil literary works and to
+   distribute them free on the Internet. Details of Project Madurai are
+   available at the website [3]http://www.tamil.net/projectmadurai/
+
+   You are welcome to freely distribute this file, provided this header
+   page is kept intact.
+     __________________________________________________________________
+
+                            ekkālak kaṇṇi **
+                     (āciriyar yāreṉa teriyavillai)
+
+   (**Text taken from the "Bulleltin of The Government Oriental
+   Manuscripts Library" Madras,
+   vol. VI, No. 1, edited by T. Chandrasekaran, M.A.L.T, Curator, Govt.
+   Oriental Manuscripts Library, Madras,
+   Printed by the Superintendent, Govt. Press, Madras, 1953)
+
+  muṉṉurai
+  (V.S. kiruṣṇaṉ, 1953)
+
+   itu iraṇṭiraṇṭu varikaḷ koṇṭa "kaṇṇi" eṉṉum oruvakaip pāliṉāl
+   amaintuḷḷa ciṟu nūlākum. itaṉuḷ 201 kaṇṇikaḷ uḷḷaṉa. ovvoru kaṇṇiyiṉ
+   iṟutiyilum "ekkālam" eṉṟu muṭivatāl "ekkālak kaṇṇi" eṉṟa peyar
+   innūlukku amaintuḷḷatu pōlum. tāyumāṉavar pāṭal tokuppiṉuḷ kāṇappeṟum,
+   ennāṭ kaṇṇi, parāparak kaṇṇi mutaliyaṉavaṟṟiṟkum iṅṅaṉamē peyar
+   vantuḷḷamai nōkkat takkatu. kaṇṇi eṉpatu oruvakai icaippāṭṭu eṉṟu
+   ceṉṉaip palkalaik kaḻaka vauiyīṭāṉa tamiḻ leksakiṉil
+   kuṟikkappaṭṭuḷḷatu. iḵtu iṉiya eḷiya naṭai vāynatatu. ariya periya
+   vētāntak karuttukkaḷai yellām makkaḷaṉaivarum uṇarumāṟu tauivāka
+   viḷaṅkukiṉṟatu. ulaka vāḻkkaiyil akappaṭṭu uḻalum aṉaivarum iṟaivaṉ
+   iṇaiyaṭi niḻalai yaṭaintu uyyum vakaiyiṉai naṉku eṭuttuk kūṟukiṉṟatu.
+   ittuṇaic ciṟappukkaḷ poruntiya ic ciṟunūlai iyaṟṟi namakkaḷitta
+   āciriyar iṉṉār eṉṟu teriyavillai. ivvāciriyar tāyumāṉavarukkuc ciṟitu
+   kālam muṉpō, piṉpō iruntavarātal vēṇṭum. innūṟ pāṭalkaḷ tāyumāṉavar
+   pāṭalkaḷaip pōṉṟa taṉṉaiyuṭaiyaṉavāy iruppatāl, ennāṭ kaṇṇi, parāparak
+   kaṇṇi mutaliyavaṟṟai iyaṟṟiya tāyumāṉavarē itaṉaiyum iyaṟṟiyirukkalām
+   eṉṟu ūkikkavum iṭamuṇṭu. āyiṉ, tāyumāṉavar pāṭṭukkaḷiṉ tokuppaik koṇṭa
+   accup piratiyiṉuḷ "ekkālak kaṇṇi" eṉṉum ippakuti kāṇap peṟṟilatu. iḵtu
+   aṟiñarkaḷ ārāyccik kuriyatoṉṟu.
+   itu, in nūlnilaiya mūvaruṭak kāṭlākkil R..912(b) eṉṟa eṇkoṭuttu
+   varuṇikkappaṭṭuḷḷa paṉaiyōlaip piratiyaiyum, ataṉaip peyarttu
+   eḻutappeṟṟa R. No. 3434 eṉṟa kākita kaiyeḻuttup piratiyiṉaiyum
+   ātaramākak koṇṭu iṅku vauiyiṭap paṭukiṉṟatu.
+   ** innūliṉ ciṟappiyalpukaḷ 1952-ām āṇṭu jūṉ mātam 14-ām nāḷ in nūl
+   nilaiyattaic cērnta sarī vi. ār. kalyāṇacuntaram avarkaḷāl ceṉṉai akila
+   intiya vāṉoli nilaiyattiliruntu pēcappeṟṟaṉa.
+   --------
+     __________________________________________________________________
+
+   muttitarum vēta moḻintameñ ñāṉañcolla
+   vattimukavar pāta maruḷpuriya tekkalām. 1
+   āṅkāra muḷḷaṭaṅki yaimpulaṉaic cuṭṭaṟuttut
+   tūṅkāmal tūṅkic cukampeṟuva tekkālam. 2
+   nīṅkāc civayōka nittiraikoṇ ṭēyiruntu
+   tēṅkāk karuṇaiveḷḷañ cēruvatu mekkālam. 3
+   tēṅkāk karuṇaiveḷḷan tēṅkiyirun tuṇpavarkku
+   vāṅkāmal viṭṭakuṟai vantaṭuppa tekkālam 4
+   ōyāk kavalaiyiṉā luḷḷiliruntu vāṭāmal
+   māyāp piṟavi mayakkaṟuppa tekkālam. 5
+   māyāp piṟavi mayakkattai yūṭaṟuttuk
+   kāyā purikkōṭṭai kaikkoḷḷuva tekkālam 6
+   kāyā purikkōṭṭai kaivacamāyk koḷvataṟku
+   māyā vaṉupūti vantaṭaiva tekkālam. 7
+   cēyāyc camaittuc ceviṭūmai pōltirintu
+   pēypō liruntu piramaikoḷva tekkālam 8
+   kālkāṭṭik kaikāṭṭik kaṇkīḷmukan tāṉkāṭṭi
+   mālkāṭṭu maṅkaiyarai maṟantiruppa tekkālam 9
+   peṇṇinallā ḷācai piramaitaṉai viṭṭoḻinteṉ
+   kaṇṇiraṇṭu mūṭik kaviḻntiruppa tekkālam. 10
+   veṭṭuṇṭa puṇpōl virantavalkuṟ paitaṉilē
+   kaṭṭuṇṭu nillāmal karutiyiruppa tekkālam. 11
+   āṟāta puṇṇi laḻuntikkiṭa vāmalyāṉ
+   tērāta cintaitaṉait tēṟuvatu tekkālam. 12
+   tantaitāy makkaḷuñ cakōtaramum poyyeṉavē
+   cintaitaṉiṟ kaṇṭu tauintiruppa tekkālam. 13
+   maṉṉuyiraik koṉṟu vataittuyiraip pārkkāmal
+   taṉṉuyiraip pōleṇṇit tavamuṭippa tekkālam. 14
+   pāliyeṉṟu pērpaṭaittup pāḻnarakil vīḻāmal
+   āviniṉṟa cūttirattai yaṭaivatiṉi yekkālam. 15
+   uḷiyiṭṭa kallu muruppiṭitta ceñcāntum
+   puḷiyiṭṭa cempatupōṟ poruḷteriva tekkālam.. 16
+   vēṭikkai yuñcokucu meyppakaṭṭum poyppakaṭṭum
+   vāṭikkai yellām mayakkaṟuppa tekkālam. 17
+   paṭṭuṭaiyu moppaṉaiyum pāviṉaiyum tīviṉaiyum
+   viṭṭuviṭ ṭuṉpātam virumpuvatu mekkālam. 18
+   taṇṭikaiyuñ cāvaṭiyuñ cālikaiyum mālikaiyuṅ
+   kaṇṭu kaḷittuk karuttilvaippa tekkālam. 19
+   atta ṉirukkumiṭa mārāyntu pārttunittam
+   cetta calampōlē tirivatiṉi yekkālam. 20
+   āmaivaru māṉkaṇ ṭavaiyaṭakkañ ceytāppōl
+   ūmaiyuruk koṇṭē yoṭuṅkuvatu mekkālam. 21
+   uḷḷē karuttuvait tuḷḷirumpu veḷḷirumpāyk
+   kaḷḷippiṇam pōliruntu kāṇpataṉi yekkālam. 22
+   aṟpa cukamaṟin taṟivaiyaṟi vālmaṟantu
+   kerppattil vīḻntukoṇṭē kōḷaṟuppa tekkālam. 23
+   karuppaṭutti yeṉṉaiyemaṉ kaippiṭittuk koḷḷumuṉṉē
+   uruppaṭutti yāṇṭaruḷa uṭaṉpaṭuva tekkālam. 24
+   tuāṇṭu viḷakkamaiyat toṭantiruḷkaḷ cūḻntāppōl
+   māṇṭu piḻaittuvanta vakaiteriva tekkālam. 25
+   tūriyil mīṉampōl kaḻaṉṟumaṉam vāṭāmal
+   āriyaṉait tēṭi yaṭipaṇiva tekkālam 26
+   eṇṇū ṟukamiruntu meyyāta vīṭupeṟa
+   veṇṇīṟu pūci viḷaṅkuvatu mekkālam. 27
+   avavēṭam pūṇṭu malaintutiri yāmalyāṉ
+   civavēṭam pūṇṭu ciṟantiruppa tekkālam. 28*
+   aṇṭarukkāy nañcarunti yampalatti lāṭukiṉṟāṉ
+   toṇṭarukkut toṇṭaṉeṉat toṇṭuceyva tekkālam 29
+   paṉṟi vaṭiveṭuttup pāriṭanta mālkāṇak
+   kuṉṟil viḷakkoḷiyaik kūṭuvatu yekkālam 30
+   tittikkun teḷḷamutaic cittānta tuṉporuḷai
+   muttikku vittai mutalniṉaippa tekkālam. 31
+   vētānta vētamellām viṭṭoḻintē ṉiccaiyiṉāl
+   ēkānta māki yiruppatiṉi yekkālam. 32
+   mattiṭattait tēṭiyentaṉ vāṇāḷaip pōkkāmalemak
+   kottiṭattait tēṭi yuṟaṅkuvatu mekkālam. 33
+   iṉṟuḷḷōr nāḷai iruppatuvum poyyeṉavē
+   maṉṟuḷḷōr collum vavaiteriva tekkālam. 34*
+   kañcā lapiṉuṇṭu kaḷḷuṇṭu vāṭāmal
+   pañcā mirutaviṉpam parukuvatu mekkālam. 35
+   ceñcalatti ṉāltiraṇṭa kaṉamōkkam peṟavē
+   cañcalattai viṭṭuc caraṇaṭaiva tekkālam. 36
+   kumpik kiraitēṭik koṭuppā riṭantōṟuñ
+   cōmpit tiriyāmaṟ ṟaṭuppatiṉi yekkālam 37
+   āṭukiṉṟa cūttirantā ṉāmaḷavu mētirintu
+   pōṭukiṉṟa nāḷvarumuṉ pōṟṟuvatu mekkālam 38
+   navacūtti rampōṭṭu nāṉalla veṉṟirunta
+   civacūtti rattaiyiṉit tērntaṟiva tekkālam 39
+   immaitaṉil pātakaru miruviṉaikki ṭāyeṭuttup
+   poymaitaṉaip pōṭṭuṉaṭi pōṟṟiniṟpa tekkālam 40
+   uppiṭṭa pāṇṭamatu uṭaintukaru muṉṉēnāṉ
+   appiṭṭa vēṇiyaruk kāḷāva tekkālam 41
+   cēvai tiṉampurintu civarūpak kāṭcikaṇṭu
+   pārvaitaṉaik kaḻaṟṟip paramaṭaiva tekkālam 42
+   parantu malālaṅkaḷ pāyumpuḻak kūṭṭaiviṭṭuk
+   kalantuṉ ṉaṭikkīḻk kalantuniṟpa tekkālam 43
+   cōṟṟut turuttiyitaic cumantularntu vāṭāmal
+   ūṟṟac caṭampōkaṭ ṭuṉaiyaṭaiva tekkālam 44
+   tuṭakkaic catameṉavē cumantuluttup pōkāmal
+   iṭakkaik kaḻaṟṟiyuṉṉai yaṭaivatiṉi yekkālam 45
+   cūtuṅ kaḷavuñ cuṭarviṉaiyuñ cuṟṟivarkāṟ
+   ṟūtivarun turuttipōṭ ṭuṉaiyaṭaiva tekkālam 46
+   ācaivalaip pākamati lakappaṭṭu māḷāma
+   lōcaimalar tīpamati loṉṟiniṟpa tekkālam 47
+   kuralneriya yāṉaikattip kūppiṭuṅkāṇātamuntap
+   paramaraka ciyattaip pārttiruppa tekkālam. 48
+   pullāy vilaṅkāyp puḻuvāy naravaṭivāy
+   ellāp piṟappu miruḷakalva tekkālam 49
+   takkavakaik kōrniṉaivu cārāma lēniṉaivil
+   pakkuvat tuṉṉaruḷaip pārttiruppa tekkālam 50
+   kallāy maramāyk kayalāyp paṟavaiyāyp
+   pullāyp piṟacaṉaṉam pōkkuvatu mekkālam 51
+   puruvat talaivarōṭu pulkiyiṉpaṅ koḷvataṟkut
+   terivaip paruvamvantu cikkuvatu mekkālam 52
+   terivaiyiṉ pakkuvattiṉ cīrāṭṭel lāmaṟintu
+   kuruvaiyaṟi vālniṉaittuk kumpiṭuva tekkālam 53
+   vaḷampaṭikkum mātaruṭaṉ maṇṇulakil vāḻntavalum
+   puḷiyam paḻattōṭu pōṉṟiruppa tekkālam 54
+   paṟṟaṟṟu nīriṟ paṭarntavaṇṇac ciṟṟilaipōl
+   cuṟṟattai nīkkimaṉan tūraniṟpa tekkālam 55
+   callāpa līlaiyilē taṉmaṉaivi ceytacukañ
+   collārkaṇ ṭōṉukkuc colvatiṉi yekkālam 56
+   maruvu mayaṟpuruṭaṉ varunēraṅ kāṇāma
+   lurukumaṉam pōleṉuḷḷa murukuvatu mekkālam 57
+   taṉkaṇavaṉ taṉcukattil taṉmaṉam vēṟāppōl
+   eṉkarutti luṉpatattai yēttuvatu mekkālam 58
+   kūṭip pirintuviṭṭa kompaṉaiyaik kāṇāmal
+   tēṭit tavirppārpōl cintaiceyva tekkālam 59
+   evvaraṇap peṇmōka meppaṭiyuṇ ṭappaṭippōl
+   kaivataṉṟi yāṉuṉmēl kalantiruppa tekkālam 60
+   kaṇṇā laruvi kacintuniṉṟu mutturuḷac
+   corṇap paḻamporuḷait tokuttaṟiva tekkālam 61
+   ākamika vuruka vakamuruka veṉpuruka
+   yōkavaṉu pūticintai yukantiruppa tekkālam 62
+   nīril kumiḻiyaippōl nīcamaṟṟa vāḻvaiviṭṭuṉ
+   pēril kirupaiveḷḷap perukkeṭuppa tekkālam 63
+   aṉputaṉai yurukki yaṟivaitaṉ mēlpukaṭṭit
+   tuṉpavalaip pācattait tuṭakkaṟuppa tekkālam 64
+   karuṇaivaḻi yaṟintu karuttaiccelut tāmaṟkaṇkaḷ
+   aruvicoriya vuṉmē laṉpuvaippa tekkālam 65
+   tauiyat tauiyamikac cittāntan taṉṉilaṉpu
+   poḻiyap poḻiyamaṉam pūṇṭiruppa tekkālam 66
+   ātāra mūlat taṭiyiṟkaṇa patiyaikkaṇṭu
+   pātara vintam paṇintuniṟpa tekkālam 67
+   maṇvaḷaiya nāccatiril vaḷaintirunta vētāvaik
+   kaṇkaḷaintu pārtteṉuḷḷē kaṇṭiruppa tekkālam 68
+   appup piṟainaṭuvē yamaintirunta viṭṭuvainā
+   ṉuppuk kuṭukakaiyuḷḷē yukantaṟiva tekkālam 69
+   mūṉṟu vaḷaiyamiṭṭu muḷaitteḻunta veṇṇeruppil
+   tōṉṟu muruttiraṉait toḻutuniṟpa tekkālam 70
+   vāyuvaṟu kōṇamatil vāḻu makēcuraṉait
+   tōyumvakaik kēṭkat toṭaṅkuvatu mekkālam 71
+   vaṭṭaviḻikkuḷḷē maruvuñ catācivattaik
+   kiṭṭavaḻi tēṭakkirupaiceyva tekkālam 72
+   uccik kiṭainaṭuvē yōṅku kurupatattai
+   iccittuk koṇṭirukka liṉikkāṇpa tekkālam 73
+   parāpara mītiṟ pañcavarṇa nañcāki
+   vērāki nīrmuḷaitta vittaṟiva tekkālam 74
+   kaṭṭaṟukka voṇṇāk karuvikā rātiyellāñ
+   cuṭṭaṟuttu niṭṭaiyilē tūṅkuvatu mekkālam 75
+   tūrō ṭacaittuc cuḻaṉṟuniṉṟa tattuvattait
+   vērō ṭaṟuttu viḷaṅkuvatu mekkālam 76
+   kaḷḷak karuttaiyellāṅ kaṭṭōṭu vēraṟuttē
+   luḷḷak karuttai yuṇarntiruppa tekkālam 77
+   aṭṭakā cañceluttu mavattait tavattuṭaṉē
+   paṭṭapā ṭattaṉaiyum pakuttaṟiva tekkālam 78
+   aṟivuk kuviyuṭaṉē avattaippaṭum pāṭṭaiyellām
+   piṟivupaṭa niṟuttip palappaṭuva tekkālam 79
+   pūtam poṟikaraṇam pōntavintu nātamumāyp
+   pētam palavitamum pirittaṟiva tekkālam 80
+   tōṉṟācai mūṉṟun toṭarntuvantu cuṟṟuminta
+   mūṉṟācai lēraiyaṭi mūṭaṟuppa tekkālam 81
+   puṉcaṉaṉam poṉṟumuḷḷē purivaṭṭam pōtiliṉi
+   yeṉcaṉaṉa mīṭēṟu meṉṟaṟiva tekkālam 82
+   naṭṭa naṭuvilniṉṟa naṟṟirō tāyacatti
+   kiṭṭavaḻik kāṭṭik kirupaiceyva tekkālam 83
+   nāṉē ṉeṉaviruntāl naṭuvuniṉṟa kaṭṭaḻaki
+   tāṉē vauippaṭuttit taruvateṉpa tekkālam 84
+   aṭarnta maṉakkāṭṭai yañceḻuttu vāḷālē
+   toṭarntuveṭṭit toṭarntu veṭṭic cuṭuvataṉi yekkālam 85
+   aintu poṟivaḻipō yalaiyumintap pāḻmaṉattai
+   ventuviṭap pārttu viḻippatiṉi yekkālam 86
+   iṉamāṇṭu cērntiruntō rellōrun tāṉmāṇṭu
+   maṉamāṇṭu pōkavaruḷ vantiruppa tekkālam 87
+   ciṉamāṇṭu pēcuñ ceyalmāṇṭu nāṉmāṇṭu
+   maṉamāṇṭu muttinilai vantaṭaiva tekkālam 88
+   amaiyā maṉattamaiyu māṉanta vīṭukaṇṭāl
+   imaiyāmal nōkki yiruppatiṉi yekkālam 89
+   kūṭuviṭṭuc cīvaṉmeḷḷak koṭṭāvi koṇṭāppōl
+   māṭuviṭu muṉṉēmaṉa māṇṭiruppa tekkālam 90
+   ūṉiṟakkak kāya muyiritu pōkumuṉṉē
+   nāṉiṟantu pōkaviṉi nāḷvaruva tekkālam 91
+   keṭṭuviṭu mātar keruvitaṅkaḷ pēcivantu
+   cuṭṭuviṭu muṉṉeṉṉaic cuṭṭiruppa tekkālam 92
+   tōlēṇi vaittēṟit tūranaṭan teyyāmal
+   nūlēṇi vaittēṟi nōkkuvatu mekkālam 93
+   vāyōṭu kaṇmūṭi mayakkamuṟṟu nillāmal
+   tāyōṭu kaṇkūṭit taḻuviniṟpa tekkālam 94
+   muṉṉaiviṉai yālaṟivu muntāmal piṉmaṟaintār
+   aṉṉaitaṉait tēṭimulai yaruntiniṟpa tekkālam 95
+   iṇaipirinta pōtaṟivi ṉiṉpamuṟum nilaipōlat
+   tuṇaipirinta pōtaruḷnūl toṭarntiruppa tekkālam 96
+   pākaṉaṭu māṟip payanteṭutta cittirattai
+   yēkaṉaṭu mūlat tiruttuvatu mekkālam 97
+   kācitaṉil naṭantu kālōyntu pōkāmal
+   vācitaṉi lēṟi varuvatiṉi yekkālam 98
+   oḷipaṭaruṅ kuṇṭaliyai yuṉṉiṉaivā lēyeḻuppic
+   cuḻimuṉait tāḷtuṟantu tūṇṭuvatu mekkālam 99
+   iṭaipiṅ kalainaṭuvē iyaṅkuñ cuḻimuṉaimēl
+   taṭaiyaṟavē niṉṟucalip pāṟṟuvatu mekkālam 100
+   mūlai neruppaiviṭṭu mūṭinilā maṇṭalattil
+   pālai yiṟakkiyuṇṭu paciyoḻiva tekkālam 101
+   ākavauik kuḷḷē yaṭaṅkāp puravilaṉā
+   ṉēkavaui kāṭṭi yiruppatiṉi yekkālam 102
+   paṉṉiraṇṭu kālpuravi pāyntucillan taṭṭāmal
+   piṉṉiniṉṟu caṅkulikkup piḻaippatiṉi yekkālam 103
+   nāṭṭukkā liraṇṭuviṭṭu naṭuvukkā lūṭēpōy
+   āṭṭukkāl kaṇṭaṉuḷḷē yamarntiruppa tekkālam 104
+   pālpacuvaip pūṭṭip patiyilvaittuc cīrāṭṭik
+   kālpacuvaip pōṭṭiyatil kaṭṭivaippa tekkālam 105
+   palaviṭatti lēmaṉattaip parappiviṭṭup pārāmal
+   nilavaraiyi ṉūṭēpōy nekappaṭuva tekkālam 106
+   kāmak kaṉalkaṭantu karaiyēṟip pōvataṟku
+   ōmak kaṉalvaḷarttiṅ kuḷḷiruppa tekkālam 107
+   utayac cuṭarmūṉṟu muḷvīṭṭi lēkoḷutti
+   itayat tirunaṭaṉa miṉikkāṇpa tekkālam 108
+   vētānta vētamellām viṭṭēṟi yēkaṭantu
+   nātānta mūla naṭuviruppa tekkālam 109
+   paṭṭamatu kāṟṟil pāyntāṭuñ cūttirampōl
+   viṭṭuvauip pāynta vicumpeṟiva tekkālam 110
+   aṭṭāṅka yōka matukkappā lākaniṉṟa
+   kiṭṭāp poruḷeṉakkuk kiṭṭuvatu mekkālam 111
+   oṭṭāma loṭṭiniṟku muṭalumuyi rumpariti
+   leṭṭāp paḻampaṟikka vēṇivaippa tekkālam 112
+   pācattai nīkkip pacuvaip patiyilviṭṭu
+   nēcatti ṉuḷḷē niṟaintiruppa tekkālam 113
+   ācāra nēma maṉuṭṭā ṉamumaṟantu
+   pēcāmal ñāṉanilai peṟṟiruppa tekkālam 114
+   pallā yiraṅkōṭi pakiraṅka mumpaṭaippu
+   mallātu vēṟilaiyeṉa ṟaṟivatiṉi yekkālam 115
+   ātimuta lākiniṉṟa variyeṉṉu maṭcarattai
+   yōtiyaṟin tuḷḷē yuṇarvatiṉi yekkālam 116
+   cāttirattaic cuṭṭuc catumaṟaiyaip pēyākkic
+   cūttirattaik kaṇṭu tuyāṟuppa tekkālam 117
+   pañcarittup pēcum palakalaikkeṭ ṭāpporuḷil
+   cañcarittu vāḻntu talampeṟuva tekkālam 118
+   malamuñ calamumaṟṟu māykaiyaṟṟu māṉamaṟṟu
+   nalamum kulamumaṟṟu nāṉiruppa tekkālam 119
+   ōṭāma lōṭi yulakai valamvantu
+   tēṭāma leṉṉiṭamāyt tericippa tekkālam 120
+   aññāṉam viṭṭu maruḷñāṉa .... tēval toṭṭuṉ
+   meññāṉa vīṭupeṟa viṭivatiṉi yekkālam 121
+   vellumaṭṭum pārttu vekuḷiyelām viṭṭakaṉṟu
+   cellumaṭṭuñ cintai celuttuvatu yekkālam 122
+   mēlām patantēṭi meypporuḷai yuḷḷirutti
+   nālām patantēṭi nāṉpeṟuva tekkālam 123
+   eṇṇāta tūramellā meṇṇippā rāmaluṉṉaik
+   kaṇṇāṭik kuḷḷoḷipōṟ kaṇṭaṟiva tekkālam 124
+   eṉṉai yaṟintukoṇṭē yeṅkōmā ṉōṭirukkat
+   taṉṉai yaṟintu camaintiruppa tekkālam 125
+   āṟāta raṅkaṭanta yāṉantap pēroḷiyaip
+   pērākak kaṇṭu peṟṟippa tekkālam 126
+   āṇava kāmiyattā laḻintucaṭam pōkāmal
+   kāṇuta liṉpamuṟṟuk kaṇṭaruḷva tekkālam 127
+   māyattai nīkki varumviṉaiyaip pāḻākkik
+   kāyattai vēṟākki kāṇpatuṉai yekkālam 128
+   mūmmalamuñ cērntu muḷaitteḻunta kāyamitai
+   niṉmalamāyk kaṇṭuviṉai nīkkiniṟpa tekkālam 129
+   muṉṉai viṉaikeṭavē mūṉṟuvakaik kāṭciyiṉāl
+   uṉṉai vauippaṭutti yuṟuvatiṉi yekkālam 130
+   kaṇṇiṉoḷi pāyntatuvuṅ karuttaṟintu koṇṭatuvum
+   viṇṇoḷi kaṇṭatuvum vauippaṭuvata tekkālam 131
+   kaṉavukaṇṭāp pōleṉakkuk kāṭṭimaṟain tēyirunta
+   niṉaivaip paravauimēl niṉaintatuvu mekkālam 132
+   āreṉṟu kēṭṭatuvu maṟivuvantu kaṇṭatuvum
+   pāreṉṟu coṉṉatuvum pakuttaṟiva tekkālam 133
+   niṉaikkun tiṉantōṟum niṟaintaparipūraṇattai
+   muṉaikkumēṟ kaṇṭukoṇṭu muttutirppa tekkālam 134
+   iṉṉateṉṟu collavoṇṇā vellaiyaṟṟa vāṉporuḷaic
+   coṉṉateṉṟu nāṉaṟintu colvatiṉi yekkālam 135
+   muppāḻum pāḻāy mutalpāḻum niṟṟuḷā
+   yappālum pāḻā yaṉpuceyta tekkālam 136
+   maṉattaiyoru villākki vāṉpoṟiyai nāṇākki
+   yeṉataṟivai yampākki yeyvatiṉi yekkālam 137
+   eṉṉai yiṟakkaveytu yeṉpatiyai yūṭaḻitta
+   yuṉṉai vauiyilvaittu yoḷittuniṟpa tekkālam 138
+   cīyeṉ ṟeḻuttil ciṟantuniṉṟa vāṉporuḷai
+   nīyeṉṟu kaṇṭu nilaipeṟuva tekkālam 139
+   avveḻuttu mivveḻuttu maḷaviniṟkuñ cīyeḻuttum
+   yavveḻutti ṉuḷḷē yaṭaṅkiniṟpa tekkālam 140
+   eḻuttellā māṇṭiṟat tēkamāy niṉṟatilē
+   yaḻuttamāyc cintaitayaivait taṉpuceyta tekkālam 141
+   aruvā yuruvāki yātiyanta mākiniṉṟu
+   kuruvāki vanteṉaiyāṭ koṇṭaruḷva tekkālam 142
+   nāṉeṉ ṟaṟintaveṉṉai nāṉaṟiyāk kālamellān
+   tāṉeṉṟu nīyiruntu taṉuvaṟiva tekkālam 143
+   oḷiyi loḷivāyu uruppiṟanta vāṟatupōl
+   vauiyilvaui yāyirunta vitamaṟiva tekkālam 144
+   oḷiyiṭṭa meypporuḷai yuḷvauiyi lēyaṭaittu
+   vauiyiṭṭuc cāṟṟivaittu vīṟṟiruppa tekkālam 145
+   maṉṉum paravauiyai maṉavauiyi lēyaṭaittu
+   yeṉṟu moruniṉaivai yeḻuppiniṟpa tekkālam 146
+   poṉṉumaveṉa ḷiyum pūṇṭa poṟpatattai yuḷḷamaittu
+   miṉṉu moḻiviḻiyil viṭṭaṭaipap tekkālam 147
+   appiluṟai yappu māṉaṭiyiṟ cēravoru
+   ceppilev vāṟateṉṟu ceppuvatu mekkālam 148
+   kūṭṭilaṭai paṭṭa kuḷaviyuruk koṇṭatupōl
+   vīṭṭilaṭai paṭṭaruḷai vēṇṭuvatu mekkālam 149
+   aruṇap pirakāca maṇṭameṅku muṟṟatupōl
+   karuṇait tiruvaṭiyiṟ kalantiruppa tekkālam. 150
+   kaṭaiya veḻuntaruntak kaṉaleḻuppi vantāppōl
+   uṭali loḷittaciva moḷipiṟappa tekkālam 151
+   poṉṉil palavitamāyp pūṭaṇamuṇ ṭāṉatupōl
+   uṉṉil piṟantuṉṉi loṭuṅkuvatu mekkālam 152
+   nāyil kaṭaippiṟappāy nāṉpiṟanta tuṉpamaṟa
+   veyyiṟ kaṉaloḷipol viḻuṅkuvatu mekkālam 153
+   cūriya kāntavoḷi cūḻntapañcaic cuṭṭatupōl
+   lāriyaṉ tōṟṟa maruḷpeṟuva tekkālam 154
+   kāntam valittirumpaik kavarntiḻuttuk koṇṭāppōl
+   pāyntu valittiḻuttup patattilvaippa tekkalām 155
+   irumpil kaṉalmūṭṭi yivvuruppō yavvuruvāyk
+   karumpil cuvairacattaik kaṇṭaṟiva tekkālam 156
+   karukkoṇṭa muṭṭaitaṉaik kaṇṭāmai tāṉirukka
+   urukkoṇṭa vāṟatupō luṉainiṉaippa tekkālam 157
+   vīṭuviṭṭup pāyntu vauiyilvaru vārpōlnī
+   kūṭuviṭṭup pāynta kuṟippaṟiva tekkālam 158
+   uṭaintaveṇṇey mōril kalavāta vāṟatupōl
+   aṭaintatami yēṉuṉakkē yāṭpaṭuva tekkālam 159
+   eḷḷuṅ karumpu miḷamalaruṅ kāyamumpō
+   luḷḷum puṟampumniṉṟa tuṇarntaṟiva tekkālam 160
+   iruḷai vauiviḻuṅki yēkavuruk koṇṭatupō
+   laruḷai viḻuṅkumiru ḷakaṉṟuniṟpa tekkālam 161
+   miṉṉeḻuntu miṉṉōṅki viṇṇuluṟain tāppōlnī
+   eṉṉuḷ niṟaintuniṉṟatu yāṉaṟiva tekkālam 162
+   viḷaṅkiniṉṟa tārakaiyai veyyōṉ maṟaittalpōl
+   kaḷaṅkamaṟa vuṉkāṭci kaṇṭaṟiva tekkālam 163
+   aṉṉam puṉalvakut tamutattai yuṇṭāppōl
+   yeṉṉai vakuttuṉṉai yiṉik kāṇpa tekkālam 164
+   kaṇṭapuṉal vakuttatil katiroḷikaḷ pāyntāppōl
+   koṇṭa corūpamataik kūrntaṟiva tekkālam 165
+   pūṇukiṉṟa poṉṉaṇintār poṉcumakku mōyuṭalait
+   tōṇukiṉṟa teṉkaruttil tōṟṟuvatu mekkālam 166
+   cempilniṉṟa kāḷitampōṟ civarūpat taiviḻuṅki
+   vempiniṉṟa mummalattai vēraṟuppa tekkālam 167
+   āviyuṅ kāyamumpō laṉṉattil niṉṟataittāṉ
+   pāvi yaṟintumaṉam paṟṟiniṟpa tekkālam 168
+   ūmaikkaṉāk kaṇṭuraikka vūṟiya liṉpamatai
+   nāmaṟintu koḷvataṟku nāḷvaruva tekkālam 169
+   cākāc civaṉaṭiyē tappātā reppōtum
+   pōkā ruṭalkaṇṭu pōvareṉpa tekkālam 170
+   kāṭṭumaruḷ ñāṉak kaṭaliliṉpak kappalviṭṭu
+   mūṭṭukaru ṇaikkaṭalil mūḻkuvatu mekkālam 171
+   tāṉārō nīyārō taṟparamāy niṉṟārō
+   nāṉārō veṉṟaṟiya nāḷvaruva tekkālam 172
+   niṭṭai taṉaiviṭṭu niṉaivaṟivu tappaviṭṭu
+   veṭṭa vauikkuḷḷē viraviniṟpa tekkālam 173
+   veṭṭa vauitaṉilē viḷaintaveṟum pāḻaināṉ
+   tiṭṭamaṟak kaṇṭu tauivatiṉi yekkālam 174
+   eṅkum palavaṭivā yeṉvaṭivum niṉvaṭivāyk
+   kaṅkulpaka laṟiyavuṉṉaik kaṇṭiruppa tekkālam 175
+   uṇṭatuvu mātaruṭaṉ ūṭic cērvatuvuṅ
+   kaṇṭatuvum nīyeṉavē kaṇṭukoḷva tekkālam 176
+   evarevarka ḷeppaṭikkaṇ ṭentap paṭiniṉaittār
+   avaravarkkut tāṉappaṭi yāvatuvu mekkālam 177
+   īmeṉṟu kēṭṭatuvu meṉṉuḷḷē niṉṟatuvum
+   nāmeṉṟu coṉṉatuvum namakkaṟiva tekkālam 178
+   cittampiṟan tiṭamunti ciṉmayamāy niṉṟatuvuñ
+   cittamaṟan tiṭamun tērntaṟiva tekkālam 179
+   āṭṭamoṉṟu millāmal acaivucaṟṟuṅ kāṇāmal
+   tēṭṭamaṟṟa vāṉporuḷait tēṭuvatu mekkālam 180
+   pōkkum varavum piṟappumuḷḷu mākaniṉṟu
+   kākkamoru poruḷaik kalantuniṟpa tekkālam 181
+   nāṉeṉavum nīyeṉavu miraṇṭumitu voṉṟāṉāl
+   ñāṉeṉavuñ cintaitaṉi leṇṇuvatu mekkālam 182
+   aṟivaiyaṟi vālaṟinta vaṟivumaṟi yāmaṟivil
+   pirivupaṭa nillāmal piṭipaṭuva tekkālam 183
+   nīṭum puvaṉamellām niṟaintuniṉṟa cittiramāy
+   āṭum tirukkūttai yaṟivatiṉi yekkālam 184
+   tittiyeṉṟa kūttil tiruccilampi ṉōcaikaḷum
+   pattiyuṭaṉ kēṭṭup paṇivatiṉi yekkālam 185
+   nayaṉat tiṭaivaḻipōy naṇṇum paravauiyiṟ
+   cayaṉatti ṉiltirintu talaippaṭuva tekkālam 186
+   antarattil pūttalānteḻunta tāmaraipōl
+   tantirattāl nōkkit talaippaṭuva tekkālam 187
+   aruvi malainaṭuvē yāyirakkāl maṇṭapattuḷ
+   tiruviḷai yāṭṭaṅkaṇṭu tericippa tekkālam 188
+   uṟṟuṟṟup pārkka voḷitarumā ṉantamatai
+   neṟṟikkuḷ nērēkaṇṭu nilaippatiṉi yekkālam 189
+   mīṉairompa vuṇṭukakki vikkiniṉṟa kokkatupōl
+   ñāṉattai rompavuṇṭu nāṉiṟpa tekkālam 190
+   kaḷḷuṇṭa vāyatupōl kalitarumā ṉantamatil
+   taḷḷuṇṭu tiṇṭāṭi taṭipuraḷva tekkālam 191
+   tāṉeṉṟa vāṇavamun tattuvamuṅ keṭṭoḻintu
+   tāṉeṉṟa pēccumatu taṅkiniṟpa tekkālam 192
+   piṟappu miṟappumaṟṟup pēccumaṟṟu mūccumaṟṟu
+   maṟappum niṉaippu maṟṟu māyntiruppa tekkālam 193
+   eṉvacamuṅ keṭṭu yiruntava camumaḻintu
+   taṉvacamuṅ keṭṭaruḷaic cārntuniṟpa tekkālam 194
+   taṉamaṟantu tavatti ṉilaimaṟantu malakkuṟṟak
+   kaṉamaṟantu kaṭaiyaṉēṉ katipeṟuva tekkālam 195
+   eṉṉaiyeṉṉi lēmaṟan tiruntapati yummaṟantu
+   taṉṉaiyun tāṉmaṟantu taṉittuniṟpa tekkālam 196
+   taṉṉaiyeṉṉi lēmaṟantu talaivācal tāṉpōṭṭu
+   uṉṉainiṉain tuḷḷa murukiniṟpa tekkālam 197
+   nāṉuṉṉaip pūṇṭatellā ñāṉavaḻi yālaṟintu
+   tāṉavaṉāy niṉṟu caraṇaṭaiva tekkālam 198
+   tāṉanta millāta taṟparatti lēyaṭaintu
+   māṉantaṉ kaṇṭupati yaṟṟiruppa tekkālam 199
+   eṉṉiṉaivō nāṉaṟiyē ṉintavaṇṇañ coṉṉatellām
+   muṉṉiṉaivōr kaikkoḷḷunāṉ muṭipaṭuva tekkālam 200
+   naccaravai nīkki naṉmaṇikaik koṇṭāppōl
+   coṟcaravait tīrttanallōr tuṇaikkoḷva tekkālam 201
+
+   muṟṟum
+     __________________________________________________________________
+
+  ārāycciyurai
+  (muṉaivar nā. kaṇṇaṉ, 2002 )
+
+   aṉparkaḷē:
+   ekkālak kaṇṇi eṉṟa inta nūl araciṉar kīḻattiya cuvaṭi nūlakattiṉāl
+   1953-m āṇṭu vauiyiṭappaṭṭuḷḷatu. itaṟku muṉṉurai vaḻaṅkiyuḷḷa
+   tiru.vi.es.kiruṣṇaṉ avarkaḷ ittokuppiṉ āciriyar aṟiyappaṭātatāl piṉ
+   varumāṟu eḻutukiṟār:
+   "tāyumāṉavar pāṭal tokuppiṉuḷ kāṇappeṟum, ennāṭ kaṇṇi, parāparak kaṇṇi
+   mutaliyaṉavaṟṟiṟkum iṅṅaṉamē peyar vantuḷḷamai nōkkat takkatu. ittuṇaic
+   ciṟappukkaḷ poruntiya ic ciṟunūlai iyaṟṟi namakkaḷitta āciriyar iṉṉār
+   eṉṟu teriyavillai. ivvāciriyar tāyumāṉavarukkuc ciṟitu kālam muṉpō,
+   piṉpō iruntavarātal vēṇṭum. innūṟ pāṭalkaḷ tāyumāṉavar pāṭalkaḷaip
+   pōṉṟa taṉṉaiyuṭaiyaṉavāy iruppatāl, ennāṭ kaṇṇi, parāparak kaṇṇi
+   mutaliyavaṟṟai iyaṟṟiya tāyumāṉavarē itaṉaiyum iyaṟṟiyirukkalām eṉṟu
+   ūkikkavum iṭamuṇṭu. āyiṉ, tāyumāṉavar pāṭṭukkaḷiṉ tokuppaik koṇṭa accup
+   piratiyiṉuḷ "ekkālak kaṇṇi" eṉṉum ippakuti kāṇap peṟṟilatu. iḵtu
+   aṟiñarkaḷ ārāyccikkuriyatoṉṟu."
+   eṉṟu muṭikkiṟār. uṇmaiyil itu āyvukkuriya oṉṟutāṉ. ēṉeṉil āṟu
+   varuṭaṅkaḷ kaḻittu ceṉṉai pirēmā piracuram vauiyīṭāka itē pāṭalkaḷ
+   caṟṟu vittiyācaṅkaḷuṭaṉ "pattirakiriyār meyñāṉap pulampal" eṉap
+   peyariṭappaṭṭu, 'cittar periya ñāṉak kōvai eṉa vaḻaṅkum cittar
+   pāṭalkaḷ' eṉṟa puttakattiṉ oru tokutiyāka vantirukkiṟatu. vitvāṉ
+   nā.tēvanātaṉum, aru.rāmanātaṉum pāṭapētaṅkaḷaip paricōtittu,
+   tiruttamāka viḷakkak kuṟippukaḷuṭaṉ itai vauiyiṭṭuḷḷaṉar. ivarkaḷ
+   araciṉar kīḻattiya cuvaṭi nūlakattiṉāl 1953-m āṇṭu vauiyiṭappaṭṭa
+   "ekkālak kaṇṇi" eṉṟa nūliṉai aṟintārkaḷā? ataiyum ittokuppiṉ āyvukku
+   uṭpaṭuttiṉārkaḷāveṉat teriyavillai. periya tokuppākiya 'cittar pāṭal'
+   kaḷil mūlappirati paṟṟiya kuṟippētum illai.
+   eṉavē ippāṭalkaḷ teriyāta āciriyar oruvarāl eḻutappaṭṭaṉa eṉpatu pōy
+   itai eḻutiyavar tāyumāṉavarā? illai pattirakiriyārā? eṉṟa cantēkattil
+   nām ippōtu niṟkiṟōm! ōlaikaḷ eḻutum pōtu tavaṟukaḷ ēṟpaṭuvatu mika
+   cakajam. itaik kīḻkkāṇum kuṟippu cuṭṭukiṟatu:
+   "itu namma nāṭṭu nāyattu ōlai. rompakkālam paḻakip pōṉapaṭiyāl koñcam
+   eḻuttu pōyirunta paṭiyālum anta ōlaikkup patil putu ōlai pōṭṭu yuva
+   varuṣam appicai mātam 15 tēti eḻutiyirukkiṟōm. ēṭṭuk kuttam, eḻuttuk
+   kuttam, vācakat tappu, vari māṟāṭṭam iruntapōtilum nīṅkaḷ aṉaivarum
+   poṟuttuk koḷḷa vēṇṭiyatu. kaṭavuḷ tuṇai! " (koṅku nāṭṭuc camutāya
+   āvaṇaṅkaḷ. āciriyar pulavar ce.irācu, tamiḻp palkalaik kaḻakam,
+   tañcāvūr 1991. pak. 217)
+   iṉi ekkālak kaṇṇiyiṉ iru patippukkaḷukkuḷ uḷḷa oṟṟumai vēṟṟumaikaḷaik
+   kāṇpōm.
+   talaippiṭuvatilēyē māṟṟam terikiṟatu. kīḻattiya cuvaṭi nūlakam itai
+   'ekkālak kaṇṇi' eṉṟaḻaikka, pirēmā piracuram itai 'pattirakiriyār
+   meyññāṉap pulampal' eṉṟaḻaikkiṟatu. muṉṉataṉ mutal pāṭṭu, piṉṉatil
+   kāppuc ceyyuḷāka karutappaṭukiṟatu, ciṟu māṟṟattiṭaṉ,
+   muttitarum ñāṉa moḻiyām pulampal colla
+   atti mukavantaṉ aruḷpeṟuvatu ekkālam?
+   eṉpatu kāppuc ceyyuḷ. iruvēṭukaḷilum atti mukam koṇṭa vināyakaṉukku
+   kāppiṭṭālum, "ñāṉa moḻip pulampal" eṉṟa vacaṉam oru ēṭṭilum,
+   "vētamoḻinta meññāṉam" eṉṟa vacaṉam iṉṉoru ēṭṭilum kāṇappaṭukiṟatu.
+   ivaiyē 'ñāṉappulampal' eṉṟu oru patippil peyar peruvataṟkum, maṟṟoṉṟil
+   'ekkālak kaṇṇi' eṉṟu peyar peruvataṟkum kāraṇamākiṟatu eṉṟu ūkikkalām.
+   intak kāppu ceyyuḷ cittarkaḷ cintaṉai marapuṭaṉ neruṅkik
+   kāṇappaṭukiṟatu. ēṉeṉil, cittarkaḷ niṟuvaṉappaṭuttappaṭṭa matattiṟku
+   etirākak kural koṭuttavarkaḷ. civavākkiyariṉ piṉvarum pāṭal itait
+   teḷḷattauivākak kāṭṭum,
+   "cāttiraṅkaḷ ōtukiṉṟa caṭṭanāta paṭṭarē!
+   vērttu iraippu vantapōtu vētam vantu utavumō?
+   māttiraippō tummuḷē maṟintu tokka vallirēl
+   cāttirappai nōykaḷ ētu? cattimutti cittiyē!"
+   eṉavē ekkālam, ekkālam eṉṟu pulampal ceyta cittar "muttitarum vēta
+   moḻinta meñ ñāṉañcolla" eṉṟu colliyiruppārā? eṉṟa kēḷvi eḻukiṟatu.
+   vētam eṉpatu acaikkiyalā atikāramāka uruppeṟṟu niṟuvaṉappaṭuttap paṭṭu,
+   piṟappāl uyar cātikkārarkaḷē vētam colla vallavar eṉṟa iṟukkamāṉa oru
+   camūka kaṭṭuppāṭṭai cittarkaḷ uṭaikkiṟārkaḷ. niṟuvaṉam pēcum ācāram
+   aṉuṣṭṭāṉaṅkaḷai kēli ceytu parāparattiṉ uṇmai nilai kāṭṭukiṉṟaṉar.
+   utāraṇamāka,
+   "cittamaṟṟu cintaiyaṟṟu cīvaṉaṟṟu niṉṟiṭam
+   cattiyaṟṟu campuvaṟṟu cātipētamaṟṟunaṉ
+   mittiyaṟṟu mūlamaṟṟu mūlamantiraṅkaḷum
+   vittaiittai īṉṟavittil viḷaintatē civāyamē!"
+   mēlum cittar pāṭalkaḷil varum pattirakiriyār meyññāṉap pulampal mottam
+   231 kaṇṇikaḷaik koṇṭuḷḷatu. vināyakaṉ tutiyuṭaṉ ārampikkum ittokuppu
+   avaṉatu iṇaiyaṭiyait toḻutu muṭikiṉṟatu.
+   "aintu karattāṉai aṭi iṇaip pōṟṟiceytu
+   neñcil porutti nilaipeṟuvatu ekkālam?"
+   inta vakaiyil pattirakiriyār meyññāṉap pulampal oru muḻumai peṟṟa
+   tokuppākat tōṉṟukiṟatu. kamparāmāyaṇattiṟku ataṉ ciṟappu kuṟittu
+   palvēṟu paṭikaḷ iruppatupōl pattirakiriyār pāṭalukkum paṭikaḷ iruppatu,
+   ippāṭal makkaḷ mattiyil evvaḷavu pirapalamāka iruntirukkiṟatu eṉpataik
+   kāṭṭukiṟatu. ippāṭalkaḷaip paṭippavar maṉatait toṭum vaṇṇam, atē
+   nērattil avartam āṟṟāmaiyai pulampum vaṇṇam ippāṭalkaḷ
+   eḻutappaṭṭiruppatu itaṉ ciṟappu.
+   pattirakiriyār eṉpavar paṭṭiṇattāriṉ cīṭar eṉpatu marapu. paṭṭiṇattāriṉ
+   pāṭalkaḷil peṇṇācai kuṟitta oru veṟuppu mēlōṅki irukkum. utāraṇamāka,
+   "māṉiṭarkkellām yāṉeṭutturaippēṉ
+   viḻivaui mākkaḷ tauivuṟak kēṇmiṉ......
+   nakuvārkku iṭamāy nāṉṟu vaṟṟum
+   mulaiyaip pārttu muḷarimoṭṭeṉṟum
+   kulaiyuṅ kāmak kuruṭarkku uraippēṉ!"
+   ittoṇi "ekkālak kaṇṇi"yilum olikkiṟatu!
+   peṇṇinallā ḷācai piramaitaṉai viṭṭoḻinteṉ
+   kaṇṇiraṇṭu mūṭik kaviḻntiruppa tekkālam. 10
+   veṭṭuṇṭa puṇpōl virintavalkuṟ paitaṉilē
+   kaṭṭuṇṭu nillāmal karutiyiruppa tekkālam. 11
+   veṭṭuṇṭa puṇ pōla virinta alkul eṉṉum uvamaiyaic cittarkaḷ tavira vēṟu
+   yārum pēcamuṭiyātu!
+   mēlum cittarkaḷāltāṉ,
+   vētānta vētamellām viṭṭoḻintē ṉiccaiyiṉāl
+   ēkānta māki yiruppatiṉi yekkālam. 32
+   cāttirattaic cuṭṭuc catumaṟaiyaip pēyākkic
+   cūttirattaik kaṇṭu tuyāṟuppa tekkālam 117*
+   eṉṟum collamuṭiyum! itu taṉṉiccaiyāka alaintu tiriyum oru ēkāntiyiṉ
+   ñāṉamāka irukka muṭiyumē tavira, pūjai, puṉaskāram ceyyum oru vētiyariṉ
+   ñāṉamāka irukka muṭiyātu!
+   tamiḻ maṇṇil cittarkaḷaip paṟṟiya oru potu apippirāyam vara kīḻkkaṇṭa
+   pāṭalkaḷ utaviyirukkum eṉṟu nampalām. citti peṟṟavarkaḷ palvēṟu
+   vakaikaḷil ulāvukiṉṟaṉar. cilar jaṭāmuṭi tarikkiṉṟaṉar, cilar kañcā,
+   apiṉ kuṭikkiṉṟaṉar, cilar mauṉiyāka uḷḷaṉar, ippaṭi ettaṉaiyō...
+   cēyāyc camaittuc ceviṭūmai pōltirintu
+   pēypō liruntu piramaikoḷva tekkālam 8
+   tantaitāy makkaḷuñ cakōtaramum poyyeṉavē
+   cintaitaṉiṟ kaṇṭu tauintiruppa tekkālam. 13
+   avavēṭam pūṇṭu malaintutiri yāmalyāṉ
+   civavēṭam pūṇṭu ciṟantiruppa tekkālam. 28
+   kañcā lapiṉuṇṭu kaḷḷuṇṭu vāṭāmal
+   pañcā mirutaviṉpam parukuvatu mekkālam. 35
+   vaḷampaṭikkum mātaruṭaṉ maṇṇulakil vāḻntavalum
+   puḷiyam paḻattōṭu pōṉṟiruppa tekkālam 54
+   paṟṟaṟṟu nīriṟ paṭarntavaṇṇac ciṟṟilaipōl
+   cuṟṟattai nīkkimaṉan tūraniṟpa tekkālam 55
+   ācāra nēma maṉuṭṭā ṉamumaṟantu
+   pēcāmal ñāṉanilai peṟṟiruppa tekkālam 114
+   mēlum cittarkaḷ camayam kaṭanta oru yōka nilai paṟṟi nirampac
+   pēcukiṉṟaṉar. atu 'ekkālak kaṇṇi'yilum olikkiṟatu.
+   ātāra mūlat taṭiyiṟkaṇa patiyaikkaṇṭu
+   pātara vintam paṇintuniṟpa tekkālam 67
+   kācitaṉil naṭantu kālōyntu pōkāmal
+   vācitaṉi lēṟi varuvatiṉi yekkālam 98
+   cittarkaḷ peṇ cukattaik kaṇṭittālum, atu tarum cuvaiyai meññāṉa viḷakka
+   mēṟkōḷkaḷukku payaṉpaṭuttat tavaṟuvatillai. tirumūlar toṭarntu pala
+   cittarkaḷ uṭaliṉpattai muktikkāṉa pātaiyākavum (tantiram- pariyaṅka
+   yōkam) karutuvatuṇṭu.
+   callāpa līlaiyilē taṉmaṉaivi ceytacukañ
+   collārkaṇ ṭōṉukkuc colvatiṉi yekkālam 56
+   taṉkaṇavaṉ taṉcukattil taṉmaṉam vēṟāppōl
+   eṉkarutti luṉpatattai yēttuvatu mekkālam 58
+   uṇṭatuvu mātaruṭaṉ ūṭic cērvatuvuṅ
+   kaṇṭatuvum nīyeṉavē kaṇṭukoḷva tekkālam 176
+   pārati pōl kaḷḷuṇṇum cukam paṟṟiyum uvamai varukiṟatu !
+   kaḷḷuṇṭa vāyatupōl kalitarumā ṉantamatil
+   taḷḷuṇṭu tiṇṭāṭi taṭipuraḷva tekkālam 191
+   cittarkaḷ tamiḻ marapil vantavarkaḷ. niṟuvaṉa mataṅkaḷaik kēli pēcat
+   tayaṅkātavarkaḷ. cittarkaḷ palvēṟu kulaṅkaḷiliruntu varupavarkaḷ.
+   avarkaḷ vāyiliruntu civaṉai 'āriyaṉ' eṉṉum pōtu iccol mariyātai
+   nimittam payaṉpaṭum uyarvu naviṟci eṉṟu koḷḷavēṇṭumē tavira 'āriyaṉ'
+   eṉpatu oru maṉita iṉam eṉṟu koḷḷalākātu. atu oru moḻic collāṭci eṉṟu
+   palar viḷakkiyam inta āriya-tirāviṭa caṇṭai tamiḻ maṇṇil ōynta
+   pāṭillai!
+   tūriyil mīṉampōl kaḻaṉṟumaṉam vāṭāmal
+   āriyaṉait tēṭi yaṭipaṇiva tekkālam 26
+   vāṭiya payiraik kaṇṭu vāṭiya irāmaliṅka vaḷḷalār pōl pattirakiriyārum
+   maṉṉuyirait taṉṉuyir eṉṟu karuta vēṇṭum eṉkiṟār.
+   maṉṉuyiraik koṉṟu vataittuyiraip pārkkāmal
+   taṉṉuyiraip pōleṇṇit tavamuṭippa tekkālam. 14
+   kaṇṇā laruvi kacintuniṉṟu mutturuḷac
+   corṇap paḻamporuḷait tokuttaṟiva tekkālam 61
+   meññāṉam terikkum pāṭalkaḷ palap pala, avaṟṟuḷ cila....
+   iṉṟuḷḷōr nāḷai iruppatuvum poyyeṉavē
+   maṉṟuḷḷōr collum vavaiteriva tekkālam. 34
+   aintu poṟivaḻipō yalaiyumintap pāḻmaṉattai
+   ventuviṭap pārttu viḻippatiṉi yekkālam 86
+   ciṉamāṇṭu pēcuñ ceyalmāṇṭu nāṉmāṇṭu
+   maṉamāṇṭu muttinilai vantaṭaiva tekkālam 88
+   ūṉiṟakkak kāya muyiritu pōkumuṉṉē
+   nāṉiṟantu pōkaviṉi nāḷvaruva tekkālam 91
+   poṉṉil palavitamāyp pūṭaṇamuṇ ṭāṉatupōl
+   uṉṉil piṟantuṉṉi loṭuṅkuvatu mekkālam 152
+   cempilniṉṟa kāḷitampōṟ civarūpat taiviḻuṅki
+   vempiniṉṟa mummalattai vēraṟuppa tekkālam 167
+   ūmaikkaṉāk kaṇṭuraikka vūṟiya liṉpamatai
+   nāmaṟintu koḷvataṟku nāḷvaruva tekkālam 169
+   veṭṭa vauitaṉilē viḷaintaveṟum pāḻaināṉ
+   tiṭṭamaṟak kaṇṭu tauivatiṉi yekkālam 174
+   eṅkum palavaṭivā yeṉvaṭivum niṉvaṭivāyk
+   kaṅkulpaka laṟiyavuṉṉaik kaṇṭiruppa tekkālam 175
+   cittarkaḷaip paṟṟiya toṉmaṅkaḷil avarkaḷ kūṭuviṭṭuk kūṭu pāyum tiṟaṉum
+   oṉṟu. atu paṟṟip pēcum pāṭaloṉṟu.
+   vīṭuviṭṭup pāyntu vauiyilvaru vārpōlnī
+   kūṭuviṭṭup pāynta kuṟippaṟiva tekkālam 158
+   atupōl, cittarkaḷ iracavātam pōṉṟa viññāṉa cāttiraṅkaḷilum vallavarkaḷ.
+   iyaṟpiyal pēcum pāṭalkaḷ...
+   cūriya kāntavoḷi cūḻntapañcaic cuṭṭatupōl
+   lāriyaṉ tōṟṟa maruḷpeṟuva tekkālam 154
+   viḷaṅkiniṉṟa tārakaiyai veyyōṉ maṟaittalpōl
+   kaḷaṅkamaṟa vuṉkāṭci kaṇṭaṟiva tekkālam 163
+   cittarkaḷiṉ kālam 10 nūṟṟāṇṭiṟkup piṉtāṉ eṉpatu aṟiviyalār karuttu.
+   pattirakiriyār 'kaṇṇāṭi' paṟṟiya uvamaiyaik kaiyāḷkiṟār. kaṇṇāṭi
+   eṉpatait 'taṭṭoḷi' eṉṟu cittarkaḷ kālattiṟku muṉ vāḻnta āṇṭāḷ
+   pēcukiṟāḷ. pattirakiriyār kālattil iracam pūciya kaṇṇāṭi
+   iruntirukkalām. atu avar piṟkālattavar eṉṟu yūkikkavum iṭam koṭukkalām.
+   eṇṇāta tūramellā meṇṇippā rāmaluṉṉaik
+   kaṇṇāṭik kuḷḷoḷipōṟ kaṇṭaṟiva tekkālam 124
+   pattirakiriyār māṇikkavācakar kālattiṟku piṟpaṭṭavar eṉpatai avar
+   kaiyāḷum tiruvācaka vacaṉaṅkaḷ cuṭṭukiṉṟaṉa.
+   pullāy vilaṅkāyp puḻuvāy naravaṭivāy
+   ellāp piṟappu miruḷakalva tekkālam 49
+   kallāy maramāyk kayalāyp paṟavaiyāyp
+   pullāyp piṟacaṉaṉam pōkkuvatu mekkālam 51
+   pōkkum varavum piṟappumuḷḷu mākaniṉṟu
+   kākkamoru poruḷaik kalantuniṟpa tekkālam 181
+   ivaiyaṉaittum 'civapurāṇattil' pēcappaṭum viṣayaṅkaḷākum. 'pōkkum
+   varavumaṟṟa puṇṇiyaṉ' eṉpatu māṇikkavācakar vākku. pattirakiriyār,
+   vaiṇava cittāntattil varuvatu pōl pōkkum varavum iṟaivaṉukku uṇṭu
+   eṉṟum, atil antaryāmiyāmiyāka iṟaivaṉ uḷḷāṉ eṉṟum colkiṟār!
+   cittarkaḷiṉ tamiḻ eḷiya tamiḻ, putiya tamiḻ. atu makkaḷ tamiḻum kūṭa!
+   tāṉārō nīyārō taṟparamāy niṉṟārō
+   nāṉārō veṉṟaṟiya nāḷvaruva tekkālam 172
+   tāyiṉ tālāṭṭu kēṭkiṟatā ippāṭalil?
+   mīṉairompa vuṇṭukakki vikkiniṉṟa kokkatupōl
+   ñāṉattai rompavuṇṭu nāṉiṟpa tekkālam 190
+   cātāraṇamāṉa utāraṇamum, kakki-vikki pōṉṟa makkaḷ tamiḻum iṅkuṇṭu.
+   oruvakaiyil 'ekkālam, ekkālam' eṉṟu ivar pulampuvatu oru
+   cātāraṇaṉaṉukkāka vakkālattāka ivar pulampuvatu pōl uḷḷatu. nam
+   maṉattiṉ āṉmīka āṟṟāmaikaḷ ikkaṇṇikaḷil paṭṭut terikkiṉṟaṉa.
+   oruvakaiyil pattirakiriyārē nammaip pōl pulampuvatu namakku āṟutal
+   aḷippatākavuḷḷatu. kaṭaiciyākac colkiṟār, ippaṭip pēcumpaṭi ivaraic
+   ceyvittavaṉ evaṉ? eṉṟu. ittaṉai ñāṉamum uḷḷoḷiyāy vantateṉṟum
+   purikiṟatu. aruṇakirikku kantavēḷ coṉṉatupōl 'collaṟa, cummā iru' eṉṉum
+   nilaipaṟṟip pēci muṭikkiṟār!
+   eṉṉiṉaivō nāṉaṟiyē ṉintavaṇṇañ coṉṉatellām
+   muṉṉiṉaivōr kaikkoḷḷunāṉ muṭipaṭuva tekkālam 200
+   naccaravai nīkki naṉmaṇikaik koṇṭāppōl
+   coṟcaravait tīrttanallōr tuṇaikkoḷva tekkālam 201.
+   aṉpaṉ
+   nā.kaṇṇaṉ
+   pōpliṅkaṉ, jermaṉi
+   ēpral 06.04.2002
+
+References
+
+   1. mailto:kalyan@geocities.com
+   2. mailto:kumar@vt.edu
+   3. http://www.tamil.net/projectmadurai/

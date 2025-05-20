@@ -1,0 +1,4578 @@
+
+                                 [pmdr0.gif]
+                     ___________________________________
+
+         Kalevala - A Finland Epic (in tamil script, unicode format)
+
+                kalēvalā - piṉlāntiṉ tēciya kāviyam
+                     ___________________________________
+
+   tokuppu: eliyās loṇrot
+   tamiḻ moḻipeyarppu: ār. civaliṅkam (utayaṇaṉ)
+   nūl amaippum aṟimukamum: ṭākṭar asko pārpolā (pērāciriyar - intiya
+   iyal)
+   Compiled by: Elias Lonnrot
+   Translated into Tamil by R.Sivalingam
+   Edited with an introduction by Asko Parpola
+     __________________________________________________________________
+
+   [1]kuṟippukaḷ
+   [2]pāṭalkaḷiṉ poruḷaṭakkam
+   [3]katānāyakarkaḷiṉ peyarkaḷ
+   [4]Introduction: Dr. Asko Parpola
+   [5]aṟimukam (tamiḻākkam) ṭākṭar askō pārpolā
+   [6]eṉṉurai: ār. civaliṅkam (utayaṇaṉ)
+   [7]kalēvalā - coṟṟokuti
+   [8]kalēvalā - viḷakkak kuṟippukaḷ
+   [9]kalēvalā - ātāra nūlkaḷ
+     __________________________________________________________________
+
+   Etext Preparation (input) : Ms. Sarala Sandirasegarane
+   Etext Preparation (proof-reading) : Udhayanan
+   Etext Preparation (webpage) : Kumar Mallikarjunan
+   This webpage presents the Etxt in Tamil script but in Unicode encoding.
+   To view the Tamil text correctly you need to set up the following:
+   i). You need to have Unicode fonts containing Tamil Block (Latha,
+   Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on
+   your computer
+   and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
+   XP).
+   ii)Use a browser that is capable of handling UTF-8 based pages
+   (Netscape 6, Internet Explorer 5) with the Unicode Tamil font chosen as
+   the default font for the UTF-8 char-set/encoding view.
+   . In case of difficulties send an email request to
+   [10]kalyan@geocities.com or [11]kumar@vt.edu
+   ṉa Project Madurai 1999
+   Project Madurai is an open, voluntary, worldwide initiative devoted
+   to preparation of electronic texts of tamil literary works and to
+   distribute them free on the Internet. Details of Project Madurai are
+   available at the website http://www.tamil.net/projectmadurai
+   You are welcome to freely distribute this file, provided this
+   header page is kept intact.
+     __________________________________________________________________
+
+  pāṭal 36 - kullarvōviṉ maraṇam [12]*
+     __________________________________________________________________
+
+   aṭikaḷ 1-154 : kullarvō pōrukku āyattamākit taṉ
+   kuṭumpattāriṭam viṭai peṟukiṟāṉ. avaṉuṭaiya tāy maṭṭum
+   avaṉaip paṟṟiyum avaṉ eṅkē pōkiṟāṉ eṉpataip
+   paṟṟiyum avaṉ iruppāṉā iṟappāṉā eṉpataip paṟṟiyum
+   eṇṇi varuntukiṟāḷ.
+   aṭikaḷ 155-250 : kullarvō untamōviṉ tōṭṭattukku
+   vantu ellōraiyum vīḻtti ellā vacippiṭaṅkaḷukkum tī
+   vaittu aḻikkiṟāṉ.
+   aṭikaḷ 251-296 : avaṉ vīṭṭukkut tirumpi vantapoḻutu
+   vīṭṭil yārumē illāmal veṟumaiyāka irukkiṟatu.
+   āṉāl aṅkē oru kiḻaṭṭuk kaṟuppu nāy maṭṭum niṟkiṟatu.
+   vēṭṭaiyāṭi vāḻvataṟkāka anta nāyuṭaṉ kāṭṭukkuḷ
+   pōkiṟāṉ.
+   aṭikaḷ 297-360 : kāṭṭukkuc cellum vaḻiyil, muṉṉoru
+   nāḷ taṉatu cakōtariyaic cantittu avaḷuṭaṉ takāta
+   muṟaiyil naṭantu koṇṭa iṭattukku varukiṟāṉ. aṅkē
+   maṉaccāṭciyiṉ uṟuttaliṉāl taṉatu vāḷiṉālēyē taṉatu
+   uyirai māykkiṟāṉ.
+     __________________________________________________________________
+
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   muḻunīl kāluṟai mutiyavaṉ piḷḷai
+   aṅṅaṉam pōrkku āyatta māyiṉaṉ
+   camarp pātaikkut tayārāy niṉṟaṉaṉ;
+   varumoru kaṇattē vāḷait tīṭṭiṉaṉ
+   aṭuttatil īṭṭiyai ākkiṉaṉ kūrmai.
+   ivvitac coṟkaḷil iyampiṉaḷ aṉṉai:
+   "vēṇṭām pākkiya mēyilā eṉmakaṉ
+   perumpō roṉṟaip peṟṟiṭa vēṇṭām
+   vāṭkaḷai mōta vaḻiccela vēṇṭām! 10
+   kāraṇa miṉṟiyē kaṭumpōrk kēkuvōṉ
+   caṇṭaiyait toṭaṅkit tāṉāy vaippavaṉ
+   avaṉum pōril aḻikkap paṭuvāṉ
+   koṭumpō rillavaṉ kollap paṭuvāṉ
+   vevvāḷ kaḷālavaṉ vīḻttap paṭuvāṉ
+   atirvāḷ alakiṉāl aḻakikkap paṭuvāṉ.
+   āṭoṉṟu mītunī amaruk keḻukiṟāy
+   āṭṭuk kaṭāvilē amarporac celkiṟāy
+   veḷḷāṭu viraivil veṉṟiṭa vumpaṭum
+   kaṭāvum aḻukkil kaṭituvīḻt tappaṭum 20
+   nāyoṉṟil ēṟinī naṇṇuvāy vīṭṭai
+   tavaḷaiyiṉ mītutāṉ muṉṟilai yaṭaivāy."
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "appaṭi yāyilnāṉ amiḻēṉ cēṟṟil
+   allatu vīḻēṉ akalpacum puṟṟarai
+   allatu aṇṭaṅ kākat takattil
+   allatu kākam aṇmivā ḻiṭaṅkaḷil
+   pōrkkaḷat tilnāṉ pōyamiḻ vēḷaiyil
+   pōrkkaḷa mītil pōyvīḻ vēḷaiyil. 30
+   māḷvatu pōriṉ vaḻimikac ciṟantatu
+   vāḷkaḷiṉ mōtalil vīḻvatum nallatē!
+   amareṉum nōyō atumika iṉiyatu
+   tiṭīreṉa atilē celvāṉ paiyaṉ
+   varuntatuta liṉṟi viraintavaṉ celvāṉ
+   nalivu ṟāmalē naṭunilam vīḻvāṉ."
+   ivvitac coṟkaḷil iyampiṉaḷ aṉṉai:
+   "pōrukku nīpōyp poṉṟuva tāṉāl
+   uṉtan taikku uṟamiñ cuvatetu
+   vayatām avaratu vaṟiyanāṭ kaḷilē?" 40
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "toḻuvat teruviṉ kuvaiccā kaṭṭum
+   tōṭṭattu vīḻntu toṭucā vavuṟaṭṭum."
+   "uṉaṉ ṉaikku miñcuva tetuvō
+   vayatām avaḷatu vaṟiyanāṭ kaḷilē?"
+   "māḷaṭ ṭumkai vaikkōṟ kaṭṭuṭaṉ
+   māṭṭuk koṭṭilil mūccaṭaik kaṭṭum."
+   "uṉcakō taraṟku miñcuva tetuvō
+   iṉivarap pōkum naṉināṭ kaḻikka?" 50
+   "avaṉaik kāṭṭai aṭaintiṭa viṭalām
+   kāṇtōṭ ṭaveḷik kaiviṭap paṭalām."
+   "uṉcakō tarikku miñcuva tetuvō
+   iṉivarap pōkum naṉināṭ kaḻikka?"
+   "kiṇaṟṟu vaḻiyavaḷ kiṭantucā kaṭṭum
+   tōykkum tuṟaiyavaḷ āḻntu pōkaṭṭum."
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   vīṭṭai viṭṭē viraintē eḻuntāṉ
+   uraittāṉ tantaik korucol ivvitam:
+   "viṭaipeṟ ṟēṉeṉ ṉuṭaiyaṉ pentaiyē! 60
+   nikaḻumā eṉakkāy nīṅkaḷ aḻuvatu
+   aṅkiṟan tēṉeṉa aṟiyavum nērntāl
+   emmaṉu mattiyil iruntē tolaintāl
+   arumiṉam pirintu āḻntē ṉeṉṟāl?"
+   intac coṟkaḷil iyampiṉār tantai:
+   "aṟintuṉak kāynāṉ aḻappōva tillai
+   aṅkiṟan tāyeṉa aṟiyavum nērntāl
+   peṟṟuk koḷalām piṟitoru makaṉai
+   iṉṉamum mikamika iyaiciṟap piṉaṉai
+   pāril peruntiṟaṉ paṭaittatōr makaṉai." 70
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "āmumak kāynāṉ aḻappōva tillai
+   iṟantunīr pōṉīr eṉpatai aṟintāl;
+   itupōl tantaiyai ivvitam peṟuvēṉ:
+   kaḷimaṇ vāyum kallilē talaiyum
+   cēṟṟu nilattuc **ciṟupaḻak kaṇkaḷum
+   vāṭik kāynta vaṟupul tāṭiyum
+   **alarik kavarttaṭi yākiya kālkaḷum
+   makki maṭinta marattilē tacaiyum!" 80
+   cōtaraṟ pārttuc coṉṉāṉ avaṉpiṉ:
+   "viṭaipeṟ ṟēṉeṉ ṉuṭaiccō taraṉē!
+   nikaḻumā eṉakkāy nīyum aḻuvatu
+   aṅkiṟan tēṉeṉa aṟiyavum nērntāl
+   emmaṉu mattiyil iruntē tolaintāl
+   arumiṉam pirintu āḻntē ṉeṉṟāl?"
+   cakōtaraṉ intac coṟkaḷil cāṟṟiṉaṉ:
+   "aṟintuṉak kāynāṉ aḻappōva tillai
+   aṅkiṟan tāyeṉa aṟiyavum nērntāl
+   peṟṟuk koḷḷalām piṟitoru cōtaraṉ 90
+   iṉṉamum mikamika iṉiyacō taraṉai
+   iraṇṭu maṭaṅku eḻilār oruvaṉai."
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "āmuṉak kāynāṉ aḻappōva tillai
+   iṟantunī pōṉāy eṉpatai aṟintāl;
+   itupōl cōtaraṉ ivvitam peṟuvēṉ:
+   kallilē talaiyum kaḷimaṇ vāyum
+   cēṟṟu nilattuc **ciṟupaḻak kaṇkaḷum
+   vāṭik kāynta vaṟupuṟ kēcamum 100
+   **alarik kavarttaṭi yākiya kālkaḷum
+   makki maṭinta marattilē tacaiyum!"
+   coṉṉāṉ piṉṉar cōtarik kavaṉē
+   "viṭaipeṟ ṟēṉeṉ ṉuṭaiccō tariyē!
+   nikaḻumā eṉakkāy nīyum aḻuvatu
+   aṅkiṟan tēṉeṉa aṟiyavum nērntāl
+   emmaṉu mattiyil iruntē tolaintāl
+   arumiṉam pirintu āḻntē ṉeṉṟāl?"
+   ivvāṟu cōtari iyampiṉaḷ coṟkaḷil:
+   "āmuṉak kāynāṉ aḻappōva tillai 110
+   āṅkiṟan tāyeṉ ṟaṟiyavum nērntāl
+   peṟṟuk koḷḷalām piṟitoru cōtaraṉ
+   iṉṉamum mikamika iṉiya cōtaraṉai
+   iṉṉamum vivēkam iyainta oruvaṉai."
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "āmuṉak kāynāṉ aḻappōva tillai
+   iṟantunī pōṉāy eṉpatai yaṟintāl;
+   itupōṟ cōtari ivvitam peṟuvēṉ:
+   kallilē talaiyum kaḷimaṇ vāyum 120
+   cēṟṟu nilattuc **ciṟupaḻak kaṇkaḷum
+   vāṭik kāynta vaṟupuṟ kūntalum
+   kuḷattu **allik koḻumalarc cevikaḷum
+   uṭaloṉṟu piṉṉar **'māppiḷ' marattilum!"
+   ataṉpiṉ uraittaṉaṉ aṉṉaik kivvitam:
+   "aṉṉaiyē, eṉṟaṉ aṉpumik kuṭaiyaḷē!
+   eṉṉaic cumantaeṉ eḻilār aṇaṅkē!
+   karuvil tāṅkiya kaṉakam aṉaiyaḷē!
+   nīṅkaḷ aḻuvatu nikaḻumā eṉakkāy
+   aṅkiṟan tēṉeṉ ṟaṟiyavum nērntāl 130
+   emmaṉu mattiyil iruntē tolaintāl
+   arumiṉam pirintu āḻntē ṉeṉṟāl?"
+   ivvitac coṟkaḷil iyampiṉaḷ aṉṉai
+   iyampiṉaḷ avaḷē iyampiṉaḷ ivvitam:
+   "aṉṉaiyiṉ maṉattai aṟiyamāṭ ṭāynī
+   aṉṉaiyiṉ itayam ataiyuṇa rāynī
+   āmappā, uṉakkāy aḻuvēṉ nāṉum
+   aṅkiṟan tāyeṉa aṟintaav vēḷai
+   eṉmaṉu mattiyil iruntunī pirintāl
+   arumiṉam pirintu āḻn஡y eṉṟāl: 140
+   veḷḷam varumvarai vīṭṭil aḻuvēṉ
+   akattiṉ taraiyil alaiyeḻa aḻuvēṉ
+   vaḻikaḷ eṅṅaṇum vaḷainta uṭaluṭaṉ
+   toḻuvam aṉaittilum toṭukūṉ mutukuṭaṉ;
+   paṉiyaik kaṭṭiyāyp paṭaikka aḻuvēṉ
+   paṉikkaṭṭi māṟi paṭiveṟi tākum
+   piṉṉar veṟuntarai viyaṉpacum nilamām
+   pacumai nilampiṉ veḷuṟiyē pōkum.
+   eṉakkaḻa muṭiyā nilaiyuḷa etuveṉil
+   varunta muṭiyā vakainilai etuveṉil 150
+   makkaḷ mattiyil mikkaḻu vatuvām
+   aḻuvēṉ rakaciya māyccavu ṉāvil
+   amarum vāṅkilnīr atuvaḻin tōṭa
+   cavuṉāp palakaiyil tavaḻalai eṟinteḻa."
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   muḻunīl kāluṟai mutiyavaṉ piḷḷai
+   icaippā ṭaluṭaṉ ēkiṉāṉ pōrkku
+   kaḷippuṭaṉ avaṉum kaṭumpōrk kēkiṉaṉ;
+   icaittaṉaṉ cēṟṟil icaittaṉaṉ taraiyil
+   pacumpuṟ ṟaraikaḷil paṇṇeti rolittaṉaṉ 160
+   perumpul veḷikaḷil perumuḻak kiṭṭaṉaṉ
+   vaikkōl nilattiṉil vantoli yeḻuppiṉaṉ.
+   oruputi ṉamtoṭarn tōṭiyē vantatu
+   ceyti vantavaṉ ceviyil viḻuntatu;
+   "untai iṟantaṉar uṉṟaṉa tillam
+   vaḷarpukaḻ peṟṟavar maraṇittu vīḻntaṉar
+   ātalāl celvāy avviṭam pārkka
+   iṟantava ruṭaiya īmak kiriyaiyai!"
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   kūṟiṉaṉ avaṉtāṉ kūṟiṉaṉ patilurai: 170
+   "iṟantā ravareṉiṉ iṟantupō kaṭṭum!
+   emmakat tuḷḷatu eḻilār polippari
+   avaraip pūmik kataṉil koṇṭupōy
+   kallaṟai yoṉṟil kaṭṭivaik kaṭṭum!"
+   cellum pōtiṉil cēṟṟi licaittaṉaṉ
+   veṭṭic cuṭṭa veḷiyiṉi lolittaṉaṉ
+   oruputi ṉamtoṭarn tōṭiyē vantatu
+   ceyti vantatu ceviyil viḻuntatu;
+   "illat(til) uṉṟaṉ cōtara ṉiṟantaṉaṉ
+   niṉaiīṉ ṟōrpi(ḷ)ḷai neṭuntuyi lāḻntaṉaṉ 180
+   ātalāl celvāy avviṭam pārkka
+   iṟantava ṉuṭaiya īmak kiriyaiyai !"
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   kūṟiṉaṉ avaṉtāṉ kūṟiṉaṉ patilurai:
+   "iṟantāṉ avaṉeṉil iṟantu pōkaṭṭum!
+   aṅkuḷa vīṭṭiṉil aḻakiya polippari
+   avaṉaip pumik kataṉil koṇṭupoy
+   kallaṟai yoṉṟil kaṭṭivaik kaṭṭum!"
+   cēṟṟiṉil naṭakkaiyil ceṉṟaṉaṉ icaittu
+   tāruviṉ iṭaikuḻa lūtic ceṉṟaṉaṉ 190
+   oruputi ṉamtoṭarn tōṭaṭiyē vantatu
+   ceyti vantavaṉ ceviyil viḻuntatu:
+   "illat(til) uṉṟaṉ cōtari yiṟantaṉaḷ
+   niṉaiīṉ ṟōrpi(ḷ)ḷai neṭuntuyi lāḻntaṉaḷ
+   ātalāl celvāy avviṭam pārkka
+   iṟantava ḷuṭaiya īmak kiriyaiyai!"
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   kūṟiṉaṉ avaṉtāṉ kūṟiṉaṉ patilurai:
+   "iṟantā ḷavaḷeṉil iṟantupō kaṭṭum!
+   emmiṭam vīṭṭilē iruppatu peṇpari 200
+   avaḷaip pūmikku ataṉil koṇṭupōy
+   kallaṟai yoṉṟil kaṭṭivaik kaṭṭum!"
+   eḻiṟpuṟ ṟaraimēl icaittuc ceṉṟaṉaṉ
+   vaikkōl nilattil makiḻntolit tēkiṉaṉ
+   oruputi ṉamtoṭarn tōṭiyē vantatu
+   ceyti vantavaṉ ceviyil viḻuntatu:
+   "untaṉaṉ pāṉa uyartā yiṟantaṉaḷ
+   iṉiyauṉ tāy iṟantē vīḻntaṉaḷ
+   ātalāl celvāy avviṭam pārkka
+   avaḷai ūrmakkaḷ aṭakkam ceyvatai!" 210
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "ō,nāṉ atirṣṭam oṉṟilāp paiyaṉē
+   iṟantē pōṉatāl eṉṉuṭai aṉṉaiyum
+   tiraittuṇi ceytavaḷ kaḷaittu ōyntaṉaḷ
+   vīḻntaṉaḷmē lāṭai vicittiram varaintavaḷ
+   nūlkanaḷai nīḷamāy nūṟṟē vaippavaḷ
+   nūṟpuk kaḻiyai noṭiyiḻut tacaippavaḷ;
+   iṟutinē rattil illaināṉ arukil
+   āvi pirikaiyil avaḷayal nāṉilai 220
+   maraṇum vantatā vaṉkuḷir vantatāl
+   allatūṇ roṭṭi atuilā tāṉatāl!
+   maṉaikkaḻu vaṭṭum māṇṭavaḷ uṭaliṉai
+   taṇṇīr jērmaṉic cavarkka(஡)ram kūṭṭi
+   piṉpaṭ ṭuttuṇi **naṉkucuṟ ṟaṭṭum
+   caṇalnūl vaṇṇattut tuṇiyilvaik kaṭṭum
+   cellaṭṭum eṭuttāṅkē cērpūmi avaḷaippiṉ
+   avaḷaik kallaṟai aṭakki mūṭaṭṭum
+   pulampaliṉ oliyoṭu puviyuḷē kaṭṭum
+   iṟaṅkaṭṭum kallaṟai iṉiyapāṭ ṭicaiyoṭu 230
+   illattuk kiṉumnāṉ ēkiṭu nilaiyilai
+   tiruppik koṭupaṭṭa tilaiyun tōkkiṉum
+   vīḻttavum paṭavilai ventī māṉuṭaṉ
+   aḻikkavum paṭavilai atikeṭu māṉuṭaṉ."
+   icaitta paṭiyē ēkiṉaṉ camarkku
+   untōnāṭ ṭukku uvakaiyō ṭēkiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "ō,mutu maṉitaṉē, uyarmā teyvamē!
+   eṉakkoru vāḷiṅ kiṉitu taruvaiyēl
+   atilum ciṟappām alakuḷa oṉṟiṉai 240
+   orumuḻak kuḻuvuk kuraikkum atuvakai
+   orunūṟu pērkku uṟunikar niṉṟiṭum."
+   peṟṟaṉaṉ oruvāḷ nacciya vāṟē
+   aṉaittilum ciṟanta alaku paṭaittatai
+   ataṉāl ōriṉam aṉaittum vīḻttiṉaṉ
+   untamō eṉpāṉ uṟukūṭ ṭaḻittaṉaṉ;
+   maṉaikaḷai erittu māṟṟiṉāṉ cāmparāy
+   aḻittu aṉaittaiyum ākkiṉaṉ tukaḷtukaḷ;
+   kaṟkaḷai aṭuppaṅ karaiyilē viṭṭaṉaṉ
+   muṟṟattu viṭṭaṉaṉ mutuuyar pēriyai. 250
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   ippō tirumpiṉaṉ illam nōkki
+   kāla mākiya kaviṉpitā vacippiṭam
+   peṟṟavar vāḻnta peruntōṭ ṭaveḷi;
+   vantatum veṟṟu vacippiṭam kaṇṭaṉaṉ
+   tiṟantatum kaṇṭaṉaṉ teripāḻ illam;
+   aṇaittiṭa oruvarum aṅkē vantilar
+   irukarat tēṟka evarumē yaṅkilar.
+   aṭuppuk kariyil avaṉkai vaittaṉaṉ
+   aṭuppiṉ kariyō atikuḷirn tiruntatu; 260
+   aṅkavaṉ vantatum aṟintē koṇṭaṉaṉ
+   aṉṉaiyum uyirō ṭaṅkilai yeṉpatai.
+   kaiyai nuḻaittuk kaṇappil pārttaṉaṉ
+   kaṟkaḷ kuḷirāyk kaṇappil iruntaṉa
+   aṅkavaṉ vantatum aṟintē koṇṭaṉaṉ
+   tantai uyiroṭu tāṉilai yeṉpatai.
+   viḻikaḷai valamvara viṭṭaṉaṉ nilattil
+   paṭartarai perukkap paṭāmal iruntatu
+   aṅkavaṉ vantatum aṟintē koṇṭaṉaṉ
+   cakōtari uyiroṭu tāṉilai yeṉpatai. 270
+   pārtaṉaṉ nīrttuṟaip pakkam ceṉṟu
+   tōṇikaḷ etuvumē tuṟaiyiṉil illai
+   aṅkavaṉ vantatum aṟintē koṇṭaṉaṉ
+   cakōtaraṉ uyiroṭu tāṉilai yeṉpatai.
+   avaṉaṅ kappō aḻavē toṭaṅkiṉaṉ
+   orunāḷ aḻutaṉaṉ irunāḷ aḻutaṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "ō,aṉ pāṉa uyarntaeṉ aṉṉāy!
+   eṉakkāy iṅkunī etaṉai viṭṭaṉai
+   nīṭumip pūmiyil nīvāḻ kālam? 280
+   āyiṉum aṉṉāy atainī kēṭṭilai
+   vimmināṉ untaṉ viḻikaḷil aḻukaiyil
+   pulampiṭum vēḷaiyuṉ puruvatti lēnāṉ
+   kūṟiyuṉ cirattil kuṟaimuṟaip paṭukaiyil."
+   kallaṟai yiruntu nallatāy eḻuntaṉaḷ
+   maṇṇiṉkī ḻiruntu naṉṉiṉai vuṟuttiṉaḷ:
+   **" 'musti' nāyiṉai viṭṭuc ceṉṟuḷēṉ
+   vēṭṭaik kataṉuṭaṉ veḷiccela lāmatāl;
+   kūṭauṉ nāyiṉaik koṇṭunī ceṉṟiṭu
+   kāṭṭiṉuḷ aṅkunī vēṭṭaik(ku) ēkiṭu 290
+   aṭarnta aṭaviyiṉ ataṉuṭ puṟamcel
+   vaṉattiṉ vaṉitaiyar vāḻiṭat tukku
+   nīlniṟap peṇkaḷ vāḻmuṟ ṟattē
+   tēva tāruviṉ ceṟikōṭ(ṭai) ellai
+   ākā rapporuṭkaḷ aṅkē peṟaṟku
+   vaṉattiṉ āṭalai tiṉamnā ṭippeṟa!"
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   kūṭavē taṉnāy koṇṭē ceṉṟaṉaṉ
+   teruviṉ vaḻiyē ceṉṟāṉ naṭantu
+   aṭarnta aṭaviyai aṭaitaṟ kākavē 300
+   ciṟutolai aṅṅaṉam ceṉṟiṭum nēram
+   ciṟutolai pātaiyil aṭivait tēkaiyil
+   antat tīvataṉ akaliṭam vantaṉaṉ
+   nikaḻcci naṭantaan nilaiyam vantaṉaṉ
+   pāvaiyiṉ kaṟpaip paṟitta iṭattē
+   taṉtāy īṉṟaḷait tāṉkeṭut taviṭam.
+   aḻutukoṇ ṭiruntāṅ keḻilār pulnilam
+   pulampikkoṇ ṭiruntatu pulariṉ vaṉaveḷi
+   varuntikkoṇ ṭiruntatu vaḷariḷam puṟkaḷ
+   poḻintaṉa kaṇṇīr pulveḷi malarkaḷ 310
+   pāvaiyiṉ kaṟpaip paṟittakā raṇattāl
+   taṉtāy īṉṟalait tāṉē keṭuttatāl
+   iḷampul etuvum ilaiyē muḷaittatum
+   vaḷarntatē yillai vaḷarpul veḷimalar
+   eḻuntatē yillai eḻiyaat talattil
+   antak koṭiya akalnilap parappilē
+   pāvaiyiṉ kaṟpaip paṟitta iṭattilē
+   taṉtāy īṉṟaḷaik keṭuttavat taraiyilē.
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   uruviṉaṉ kaṭitil uyarkū riyavāḷ 320
+   ataṉaip pārttaṉaṉ ataṉait tiruppiṉaṉ
+   ataṉaik kēṭṭaṉaṉ ataṉai ucāviṉaṉ;
+   antavāḷ viruppai avaṉē kēṭṭaṉaṉ
+   avvitam ataṟku amaintatā eṇṇam
+   kuṟṟam purinta koṭuntacai yuṇṇa
+   pāvam purinta cōriyaip paruka.
+   maṉitaṉiṉ maṉatai vāḷum aṟintatu
+   nāyakaṉ niṉaivai nalvāḷ uṇarntatu
+   intac coṟkaḷil iyampiṟ ṟatuviṭai:
+   "nacciya ataṉai nāṉēṉ uṇṇēṇ 330
+   kuṟṟam purinta koṭuntacai ēṉuṇēṉ
+   pāvak kurutiyai parukēṉ ēṉnāṉ?
+   taṉikkuṟ ṟamilāt tacaiyaiyum uṇpēṉ
+   koḷpāva milāk kurutiyum kuṭippēṉ."
+   kullarvō eṉpāṉ kalarvō maintaṉ
+   muḻunīl kāluṟai mutiyavaṉ piḷḷai
+   vāḷiṉ piṭiyai vayaluḷ taḷḷiṉaṉ
+   pacumpuṟ ṟaraiyil pāycciṉaṉ kaippiṭi
+   mārpuk ketirāy vāṭkūr tiruppiṉaṉ
+   taṉṉaik kūrmēl tāṉē celuttiṉaṉ 340
+   avvitam iṟappiṉai aṭaintaṉaṉ avaṉē
+   taṉmara ṇattiṉait taḻuvik koṇṭaṉaṉ.
+   iḷaiñaṉ oruvaṉiṉ iṟappumaṟ ṟituvē
+   nāyakaṉ kullarvō nāṭiya maraṇam
+   nāyakaṉ oruvaṉiṉ navilkaṭai muṭivu
+   uyarpāk kiyamil oruvaṉiṉ maraṇam.
+   mutiya vaiṉā moyiṉaṉap pōtu
+   iṟantāṉ avaṉeṉa aṟintaav vēḷai
+   iṟantāṉ kullarvō eṉpataik kēṭṭatum
+   uraittāṉ orucol uraittāṉ ivvitam: 350
+   "varuṅkā lamvāḻ makkaḷē vēṇṭām
+   kōṇalāyp piḷḷaiyai pēṇalum vēṇṭām
+   mūṭat taṉamāyt tālāṭ(ṭa) yārum
+   evarum anniyar iyaituyi lākka!
+   kōṇalāy vaḷartta kumāraṉ eppōtum
+   mūṭat taṉamāyt tālāṭ ṭumciṟāṉ
+   viṭayam potuvāy viḷaṅkavē māṭṭāṉ
+   maṉitaṉiṉ maṉatai maṟṟavaṉ peṟṟiṭāṉ
+   vayōtipam varaiyum vāḻntā lumavaṉ
+   uramuṟum uṭalai uṭaiya ṉāyiṭiṉum." 360
+     __________________________________________________________________
+
+  pāṭal 37 - poṉṉilum veḷḷiyilum maṇamakaḷ [13]*
+     __________________________________________________________________
+
+   aṭikaḷ 1-162 : ilmariṉaṉ taṉatu iṟanta maṉaivikkāka vekukālam
+   aḻukiṟāṉ. piṉṉar mikavum pirayācaippaṭṭup poṉṉilum veḷḷiyilum
+   - āṉāl uyir mūccu illāta - oru maṇamakaḷai uruvākkukiṟāṉ.
+   aṭikaḷ 163-196 : iravilē taṉatu poṉ maṇamakaḷiṉ arukil uṟaṅkukiṟāṉ.
+   antap poṉṉuruviṉ entap pakkamāy avaṉ uṟaṅkukiṟāṉō antap
+   pakkam kuḷirāy iruppataik kālaiyil uṇarukiṟāṉ.
+   aṭikaḷ 197-250 : ilmariṉaṉ antap poṉ maṇamakaḷai vaiṉāmoyiṉaṉukkuk
+   koṭukkiṟāṉ. vaiṉāmoyiṉaṉ ataṉai ēṟka maṟuttu, atiliruntu vēṟu
+   payaṉuḷḷa poruṭkaḷaic ceyyumpaṭi allatu poṉṉai virumpakkūṭiya makkaḷ
+   vāḻum vēṟu nāṭukaḷukku aṉuppumpaṭi kūṟukiṟāṉ.
+     __________________________________________________________________
+
+   antak kollaṉ avvil mariṉaṉ
+   aḻutāṉ maṉaivik kāymuḻu mālaiyum
+   aḻutāṉ iravilum avaṉtuyi liṉṟiyē
+   aḻutāṉ pakalilum avaṉuṇ ṇāmal
+   pulampiṉaṉ eḻuntu pularvai kaṟaiyil
+   eṟintaṉaṉ perumūc cellāk kālaiyum
+   iḷamaip peṇṇavaḷ iṟantē pōṉatāl
+   kallaṟai aḻakiyaik kaṭṭi viṭṭatāl.
+   avaṉatu kaiyil acaintatē yillai
+   ceppiṉil ceyta cuttiyal alaku, 10
+   oliyeḻa villai uḻaikkum toḻiltalam
+   kaṭantu muṭintatōr kāla mātamāy.
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam:
+   "apākkiyap paiya(ṉ)nāṉ aṟintilaṉ etaiyum
+   eppaṭi iruppatu eṅṅaṉam vāḻvatu;
+   iravilē uṭkārn tiruppatā tuyilvatā
+   nīṇṭatō iravu nēramō tuyaram
+   niṟaintatu tollai kuṟaintatu uṭaṟpalam.
+   eṉmālai vēḷaikaḷ ēkkam niṟaintavai
+   eṉkālai vēḷaikaḷ ellām maṉattuyar 20
+   iravil iruppatu iṉṉal maṭṭumē
+   tuyilviṭ ṭeḻuvatu tuṉpam ataiviṭa
+   eḻilmā laippoḻu(tu) **ēkkam koṇṭilaṉ
+   varukālai vēḷai maṉattuyar koṇṭilaṉ
+   maṟṟaiya pōtum maṉattuyar koṇṭilaṉ;
+   aṉpuk kuriyaḷāl aṭaintēṉ ēkkamē
+   maṉatuk kiṉiyaḷāl maṉattuyar peṟṟēṉ
+   karumpuru vattaḷāl kaṭuntuyar koṇṭuḷēṉ.
+   iṅkē ippō ittaku nāṭkaḷil
+   maṉaccōr(pu) maṭṭum maṉat teḻukiṟatu 30
+   naḷḷirāt tōṉṟum naṉavilāk kāṭcikaḷ
+   kaitoṭṭa iṭattil kāṇpatu veṟumai
+   karampaṭṭa iṭattil kāṇpatu poymai
+   iṭuppiṉ kīḻē iraṇṭu puṟattilum."
+   kōtaiyil lāmal kollaṉ vāḻntaṉaṉ
+   vāḻkkait tuṇaiyilā vayōtipa maṭaintaṉaṉ;
+   mātamōr iraṇṭu mūṉṟumā yaḻutāṉ
+   āmappā, ataṉmēl nālām mātam
+   poṉṉaik kaṭalil poṟukkiyē yeṭuttāṉ
+   alaiyil koñcam aḷḷiṉāṉ veḷḷi; 40
+   marattuṇ(ṭu) cilatai maṟṟavaṉ cērttāṉ
+   marattuṇ(ṭu) caṟukku vaṇṭimup patilām;
+   erittu marattaik karittuṇ ṭākki
+   kollulai karittuṇ ṭuḷḷē tiṇittāṉ.
+   taṉṉiṭat tirunta taṅkam eṭuttāṉ
+   attoṭu veḷḷiyum avaṉtērn teṭuttāṉ
+   tikaḻilai yutirrutuc cemmaṟi aḷavilē
+   kaṭuṅkuḷir rutumuyal kaṉattiṉ tarattilē
+   taṅkattai veppat tataṉuḷ tiṇittu
+   veḷḷiyum vaittāṉ viyaṉulaik kaḷattuḷ 50
+   aṭimaikaḷ koṇṭu aṅkē ceytaṉaṉ
+   aḻuttalaic ceytāṉ akkū likaḷāl.
+   aṭimaikaḷ ūtiṉar aṭimaikaḷ viciṟiṉar
+   aḻuttalaic ceytaṉar aṅkaṭai kūlikaḷ
+   kaiyuṟai etuvum kaiyilil lāmal
+   evvita mukkā(ṭum) iṉṟiyē talaiyil;
+   avaṉē kollaṉ avvil mariṉaṉ
+   kollulaik karumamāyk kūṭavē iruntaṉaṉ
+   taṅkat tōrurut tāṉpeṟaṟ kāka
+   veḷḷiyil maṇamakaḷ vēṭṭeṭup pataṟkāy. 60
+   aṭimaikaḷ oḻuṅkāy aṅkūta villai
+   aḻuttavum illai akkū likaḷē
+   antak kollaṉ avvil mariṉaṉ
+   ulaikkaḷam tāṉē ūtutal ceytāṉ;
+   orumuṟai ūtiṉāṉ irumuṟai ūtiṉaṉ
+   avvitam mūṉṟām muṟaiyumāy ūtiṉaṉ
+   eṭṭi ulaikkaḷat tiṉuṭ pārttāṉ
+   kollulai viḷimpaik kūrntavaṉ pārttāṉ
+   ulaikkaḷat teṉṉa urukko(ṇ)ṭu varumeṉa
+   ūṭuru viyetu ūtulai varumeṉa. 70
+   orucem maṟiyā ṭutittatu ulaiyilē
+   ulaiyilē iruntatu vantatū ṭuruvi
+   taṅkattō(r) rōmam taṉiccep(pil) i(ṉ)ṉoṉṟu
+   veḷḷiyil mūṉṟām vitarōma miruntatu;
+   ataṟkāy ēṉaiyōr atikaḷi koṇṭaṉar
+   āyiṉil mariṉaṉō atāṟkaḷi aṭaintilaṉ.
+   kollaṉil mariṉaṉ kūṟiṉṉ ivvitam:
+   "ōnāy oṉṟē uṉaiyetir pārttiṭum
+   etirppārt tēṉpoṉ ṉilvāḻ tuṇaiyai
+   iruntēṉ kāttunāṉ iṇaiyoṉ(ṟu) veḷḷiyil." 80
+   ataṉpiṉ kollaṉ avaṉil mariṉaṉ
+   cemmaṟi āṭṭaic cērttaṉaṉ neruppil
+   mēlum koñcam mikupoṉ ṉiṭṭāṉ
+   niṟaiyum varaiyum niṟaittāṉ veḷḷi
+   ūtutal aṭimaikaḷ utaviyāl ceytāṉ
+   aḻuttalaic ceytāṉ akkū likaḷāl.
+   aṭimaikaḷ ūtiṉar aṭimaikaḷ viciṟiṉar
+   aḻuttalaic ceytaṉar aṅkaṭai kūlikaḷ
+   kaiyuṟai etuvum kaiyilil lāmal
+   evvita mukkā(ṭum) iṉṟiyē talaiyil; 90
+   avaṉē kollaṉ avvil mariṉaṉ
+   kollulaik karumamāyk kūṭavē iruntaṉaṉ
+   taṅkat tōrurut tāṉpeṟaṟ kāka
+   veḷḷiyil maṇamakaḷ vēṭṭeṭup pataṟkāy.
+   aṭimaikaḷ oḻuṅkāy aṅkūta villai
+   aḻuttavum illai akkū likaḷē
+   antak kollaṉ avvil mariṉaṉ
+   ulaikkaḷam tāṉē ūtutal ceytāṉ;
+   orumuṟai ūtiṉāṉ irumuṟai ūtiṉaṉ
+   avvitam mūṉṟām muṟaiyumāy ūtiṉaṉ 100
+   eṭṭi ulaikkaḷat tiṉuṭ pārttāṉ
+   kollulai viḷimpaik kūrntavaṉ pārttāṉ
+   ulaikkaḷat teṉṉa urukko(ṇ)ṭu varumeṉa
+   ūṭuru viyetu ūtulai varumeṉa.
+   ulaiyirun tutittatu oruparik kuṭṭi
+   ūṭuru viyatatu ūtulai yiruntu
+   taṅkap piṭarmayir talaiyō veḷḷi
+   kāṟkuḷam paṉaittum kaviṉcem pāṉavai;
+   ataṟkāy ēṉaiyōr atikaḷikoṇṭaṉar
+   āyiṉil mariṉaṉō atāṟkaḷi aṭaintilaṉ. 110
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam:
+   "ōnāy oṉṟē uṉaiyetir pārttiṭum
+   etirppārt tēṉpoṉ ṉilvāḻ tuṇaiyai
+   iruntēṉ kāttunāṉ iṇaiyoṉ(ṟu) veḷḷiyil."
+   ataṉpiṉ kollaṉ avaṉil mariṉaṉ
+   kutiraik kuṭṭiyaik koṭukaṉal taḷḷiṉaṉ
+   mēlum koñcam mikupoṉ ṉiṭṭāṉ
+   niṟaiyum varaiyum niṟaittāṉ veḷḷi
+   aṭimaikaḷ koṇṭu aṅkūtal ceytaṉaṉ
+   aḻuttalaic ceytāṉ akkū likaḷāl. 120
+   aṭimaikaḷ ūtiṉar aṭimaikaḷ viciṟiṉar
+   aḻuttalaic ceytaṉar aṅkaṭai kūlikaḷ
+   kaiyuṟai etuvum kaiyilil lāmal
+   evvita mukkā(ṭum) iṉṟiyē talaiyil;
+   avaṉē kollaṉ avvil mariṉaṉ
+   kollulaik karumamāyk kūṭavē iruntaṉaṉ
+   taṅkat tōrurut tāṉpeṟaṟ kāka
+   veḷḷiyil maṇamakaḷ vēṭṭeṭup pataṟkāy.
+   aṭimaikaḷ oḻuṅkāy aṅkūta villai
+   aḻuttavum illai akkū likaḷē 130
+   antak kollaṉ avvil mariṉaṉ
+   ulaikkaḷam tāṉē ūtutal ceytāṉ;
+   orumuṟai ūtiṉāṉ irumuṟai ūtiṉaṉ
+   avvitam mūṉṟām muṟaiyumāy ūtiṉaṉ
+   eṭṭi ulaikkaḷat tiṉuṭ pārttāṉ
+   kollulai viḷimpaik kūrntavaṉ pārttāṉ
+   ulaikkaḷat teṉṉa urukko(ṇ)ṭu varumeṉa
+   ūṭuru viyetu ūtulai varumeṉa.
+   utittaṉaḷ orupeṇ ulaiyiṉi liruntu
+   orupoṟ kūntalāḷ ūtulai yiruntu 140
+   talaiyō veḷḷi talaimayir taṅkam
+   avaḷatu uṭalō aḻakil miḷirntatu;
+   ataṟkāy ēṉaiyōr atituya ruṟṟaṉar
+   āyiṉil mariṉaṉō aṭaintilaṉ tuyaram.
+   ataṉpiṉ kollaṉ avvil mariṉaṉ
+   taṭṭiyōr poṉṉurut tāṉē yamaittaṉaṉ
+   taṭṭiyōy viṉṟit tāṉirā vamaittaṉaṉ
+   uyirttiṭap poḻutilā tuḻaittaṉaṉ pakalum;
+   pāvaik kataṉpiṉ pa(஡)taṅkaḷ ceytaṉaṉ
+   ceytaṉaṉ kālkaḷ ceytaṉaṉ kaikaḷ 150
+   āyiṉum kālkaḷai avaḷmēl uyarttilaḷ
+   aṇaikkavu millai avaḷkaram tiruppi.
+   taṉpeṇ ṇukkuc camaittāṉ kātukaḷ
+   āyiṉum cevikaḷ avaikēṭ ṭilavē;
+   avvitam vāyai aḻakāyp poruttiṉaṉ
+   uyirō(ṭ)ṭa viḻikaḷum uṟuveḻil vāyum
+   vāyō moḻiyetum vaḻaṅkavu millai
+   iṉitām pārvaiyum illai viḻikaḷil.
+   kollaṉil mariṉaṉ kūṟiṉaṉ iṅṅaṉam:
+   "ivaḷoru ciṟanta ēntiḻai yāvāḷ 160
+   ivaḷāṟ coṟkaḷai iyampa muṭintāl
+   neñcōṭu nallatōr nīḷnā viruntāl."
+   piṉṉar taṉatu peṇṇaik koṇarntaṉaṉ
+   arumaiyāyc ceyta amaḷit tiraikkuḷ
+   meṉmaiyāyc ceyta viyaṉtalai yaṇaiyil
+   paṭṭiṉāl iyaṟṟiya paṭukkaiyiṉ mītu.
+   ataṉpiṉ kollaṉ avvil mariṉaṉ
+   veppa mākkiṉaṉ virumpik kuḷippaṟai
+   cavarkka(஡)rac cavuṉā tayārā yākkiṉaṉ
+   ilaikkuc(cit) tūrikai eṭuttaṉaṉ tayārāy 170
+   toṭṭi mūṉṟiṉil cuttanī reṭuttaṉaṉ
+   antap **paṟavaiyai aṅkē kaḻuviṉaṉ
+   naṟcutta mākkiṉaṉ navaveṇ **kuruviyai
+   poṉṉiṉ kaḷimpukaḷ pōkak kaḻuviṉaṉ.
+   kollaṉum ataṉpiṉ kuḷittāṉ niṟaivāy
+   taṉṉaik kaḻuviṉāṉ taṉvirup paḷavum
+   nīḷamāyp paṭuttāṉ nēriḻai arukil
+   arumaiyāyc ceyta amaḷiyiṉ tiraikkuḷ
+   urukkilē ceyta uyarkū ṭāram
+   irumpiṉāl ceyta iṉvalai yamaippuḷ. 180
+   aṅkē kollaṉ avvil mariṉaṉ
+   aṉṟē vanta ammuta liravil
+   cilapōr vaikaḷait tiṇṇamāyk kēṭṭāṉ
+   tayārā yākkiṉāṉ caṭṭaip pōrvaikaḷ
+   iraṇṭō mūṉṟō iruṅkara ṭittōl
+   aintō āṟu amaḷi virippukaḷ
+   paṭuppataṟ kāyttaṉ pāvait tuṇaiyuṭaṉ
+   taṉatu taṅkat taṉiyuru vattuṭaṉ.
+   appuṟam uṇmaiyil veppam iruntatu
+   pōrvaic caṭṭaip puṟamā yavaṉatu; 190
+   āṉāl iḷampeṇ avaḷatu pakkam
+   taṅkat tamainta taṉṉurup pakkam
+   kuḷirāy vantatu kūṟumap pakkam
+   kuḷiril kaṭiṉamāyk kūṭa viṟaittatu
+   kaṭaliṉ uṟaipaṉik kaṭṭiyā yāṉatu
+   tiṇmaip pāṟaiyāyc cērntiṟu kiṟṟu.
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam:
+   "ituvō eṉakku ēṟṟatu alla;
+   vaiṉō nāṭu vaṉitaiyaik ko(ṇ)ṭupōy
+   a(v)vaiṉā moyiṉaṟ kātara vākkalām 200
+   avaṉmuḻaṅ kālil āyuḷ tuṇaiyāy
+   avaṉatu aṇaippil amaiyak kōḻiyāy.
+   vaiṉō nāṭu vaṉitaiyaik koṇarntāṉ
+   aṅṅaṉam avviṭam aṭaintataṉ piṉṉar
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "ōkō, mutiya vaiṉā moyiṉa!
+   itōuṉak kiṅkōr ēntiḻai yirukkiṟāḷ
+   uṉaikkava ṉikkavōr uyareḻil maṅkai
+   vīṇpēc curaikkum viyaṉvā yuḷaḷalaḷ
+   akalamā yitaḻkaḷ amaintava ḷallaḷ." 210
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uruva mītutaṉ uṟuviḻi vaittaṉaṉ
+   taṅkattu mītutaṉ kaṇkaḷ celuttiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "etaṟkāy itaṉai eṉṉiṭam koṇarntāy
+   poṉṉilē puṉaintavip putumā(ya) **vuruvai?"
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam:
+   "vēṟu etaṟku? mikunalat tukkē!
+   āyuḷnāḷ tuṇaiyāy ākaniṉ muḻaṅkāl
+   orukōḻi yāka uṉaṇaip piṉilē." 220
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "ō,naṟ kollaeṉ nēcac cōtara!
+   tīkkuḷ nīyē tiṇippāy niṉpeṇ
+   ellā vitamām iyalporuḷ ceyvāy
+   allatu eṭuttu akalnā ṭiraṣṣiyā
+   jērmaṉi nāṭṭuk(ku) nīniṉ uruviṉai
+   paṇamuḷōr pōṭṭi pōṭuvar maṇakka
+   uyarntōr peṇṇuk(ku) uṟupōr purivar;
+   eṉatu iṉattuk kituiṇai yalla
+   eṉakkē kūṭa ituporun tātu 230
+   taṅkat tāṉatōr takupeṇ eṭuppatu
+   āmveḷ(ḷi) uruvuk kakkaṟai koḷvatu."
+   aṅṅaṉam taṭuttāṉ a(v)vaiṉā moyiṉaṉ
+   maṇappeṇait tavirttāṉ *amaitinīr maṉitaṉ
+   vaḷarum talaimuṟai maṉitarait taṭuttāṉ
+   vaḷarntu varuvōr vaḻiyiṉait tavirttāṉ
+   taṅkat tukkāyt talaivaṇaṅ kutalai
+   veḷḷik kāka vīṇtaṭu māṟalai;
+   iṉivarum coṟkaḷil ivvitam moḻintāṉ
+   inta moḻikaḷil ivvitam moḻintāṉ: 240
+   "pākkiya maṟṟa paiyaṉkāḷ, vēṇṭām!
+   ippō vaḷarntuyar ikalvī rarkaḷē!
+   celvanta rākanīr tikaḻnta pōtilē
+   allatu celvamaṟ ṟamainta pōtilum
+   eṉṟumē uṅkaḷ evvāḻ nāḷilum
+   poṉṉilāt tikaḻum poṟpoḻu tellām
+   taṅkatti lāṉa taiyalar eṭātīr
+   koḷātīr akkaṟai veḷḷi uru(vu)kku
+   taṅkat toḷiyō tavaḻkuḷi rāṉatu
+   veḷḷiyiṉ miṉukkam mikucī taḷamām." 250
+     __________________________________________________________________
+
+  pāṭal 38 - vaṭa nāṭṭiliruntu ilmariṉaṉiṉ putiya maṇamakaḷ
+  [14]*
+     __________________________________________________________________
+
+   aṭikaḷ 1-124 : ilmariṉaṉ vaṭanāṭṭukkuc ceṉṟu taṉatu muṉṉāḷ
+   maṉaiviyiṉ taṅkaiyait taṉakku maṇam ceytu tarumpaṭi kēṭkiṟāṉ.
+   āṉāl avaṉukku ōr ikaḻcciyāṉa maṟumoḻiyē kiṭaikkiṟatu.
+   ataṉāl avaṉ kōpamaṭaintu peṇṇaik kavarntu vīṭu nōkkip
+   puṟappaṭukiṟāṉ.
+   aṭikaḷ 125-286 : antap peṇ vaḻiyil ilmariṉaṉai avamatittup
+   pēciyatāl avaṉ ciṉam koṇṭu appeṇṇaik kaṭaṟpaṟavai
+   ākumpaṭi capittup pāṭukiṟāṉ.
+   aṭikaḷ 287-328 : ilmariṉaṉ vīṭṭukkut tirumpi vantu campōvaic
+   ceytu koṭuttatāl vaṭanāṭṭu makkaḷ evvaḷavu makiḻvuṭaṉ
+   vāḻkiṟārkaḷ eṉpataiyum maṇappeṇ peṟum poruṭṭut tāṉ
+   vaṭanāṭṭukkuc ceṉṟu tōlvi aṭaintataiyum vaiṉāmoyiṉaṉukkuk
+   kūṟukiṟāṉ.
+     __________________________________________________________________
+
+   appō(tu) kollaṉ avaṉil mariṉaṉ
+   kaviṉaḻi villāk kaiviṉaik kalaiñaṉ
+   tāṉtolai eṟintaṉaṉ taṅkap patumaiyai
+   veḷḷiyi lāṉa viyaṉpeṇ uruvai
+   amparik kuṭṭik kaṇikaḷ cūṭṭiṉaṉ
+   maṇṇiṟap puravi vaṇṭimuṉ niṉṟatu
+   avaṉē ēṟi amarntaṉaṉ vaṇṭiyil
+   vaṇṭiyil ēṟi vacatiyā yamarntaṉaṉ;
+   eṭuttaṉaṉ muṭivu eḻuntē ēkiṭa
+   attuṭaṉ eṇṇam avaṉum koṇṭaṉaṉ 10
+   vaṭanā ṭēki vāñcaiyāyk kēṭka
+   vaṭapulam vāḻum vaṉitaimaṟ ṟavaḷai.
+   orunāṭ payaṇam oḻuṅkāy naṭantatu
+   irunāṭ payaṇam iṉitāy muṭintatu
+   mūṉṟā vatunāḷ muṉvaru pōtiṉil
+   vantu cērntaṉaṉ vaṭapāl muṟṟam.
+   lovhi eṉpavaḷ vaṭapulat talaivi
+   muṟṟap parappiṉil muṉtāṉ vantāḷ
+   aṅku vanturai yāṭat toṭaṅkiṉaḷ
+   aṭuttut tirumpiṉaḷ avaḷviṉa vaṟkāy 20
+   eṅṅaṉam taṉmakaḷ irukkiṟāḷ eṉṟu
+   iṉiyavaḷ evvitam irukkiṟāḷ eṉṟu
+   maṇāḷaṉ vīṭṭil marumaka ḷāka
+   māmiyār illil maṉaiviyē yāka.
+   antak kollaṉ avvil mariṉaṉ
+   tāḻnta talaiyuṭaṉ vīḻnta maṉattuṭaṉ
+   toyntu carinta toppiyai aṇintu
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "eṉṟaṉ māmiyē, ippō(tu) vēṇṭām!
+   vēṇṭām atucār viṉavutal ippō(tu) 30
+   eṅṅaṉam vāḻkiṟāḷ eṉpatai uṉmakaḷ
+   evvitam irukkiṟāḷ eṉpatai uṉmakaḷ!
+   maraṇam ēlavē vāykkoṇṭa tavaḷai
+   vantu cērntatu vaṉkoṭum muṭivu
+   irukkiṟāḷ puviyuḷ eṉciṟu paḻamavaḷ
+   pacumpuṟ ṟaraikkuḷē paṭuppaḷeṉ aḻaki
+   karumpuru vattaḷpuṟ kaḷiṉnaṭu viṉilē
+   veḷḷi nikarttavaḷ vaikkōl mattiyil.
+   aṭuttauṉ makaḷuk kākanāṉ vantuḷēṉ
+   uṉiḷam peṇṇuk(ku) ōṭiyē vantēṉ: 40
+   aṉpueṉ māmiyē, avaḷainī taruvāy,
+   aṭutta uṉmakaḷai aṉuppuvāy eṉṉoṭu,
+   maṉaivieṉ muntiyaḷ vāḻntaav viṭattē
+   avaḷuṭaic cōtari amarntaav viṭattē."
+   lovhi eṉpavaḷ vaṭapulat talaivi
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "atirṣṭam aṟṟanāṉ aṭācceyal ceytēṉ
+   pākkiyam aṟṟanāṉ paḻiperi tāṟṟiṉēṉ
+   vākkaḷit teṉmakaḷ vaḻaṅkiya nēramnāṉ
+   tavamakaḷ uṉṉiṭam tantiṭṭa pōtilē 50
+   uṟaṅkavē tantēṉ uḷaiḷam vayatilē
+   aḻakuceṅ katuppiṉāḷ aḻiyavē viṭṭēṉ:
+   ōnāy vāykkuḷ oppaṭait tāṟpōl
+   kattum koṭiya karaṭiyiṉ alakiṉuḷ.
+   ippō nāṉtarēṉ iraṇṭām makaḷai
+   aṭutta makaḷaiyum aṉupputaṟ killaināṉ
+   uṉṟaṉ kuppai oṭṭaṭai perukka
+   curaṇṭi eṭuttiṭat tukaḷkaḷoṭ ṭiyatai;
+   ataṉilum eṉmakaḷ avaḷaik koṭukkalām
+   eṉṟaṉ uramuṟum eḻilpiḷḷai yiṭalām 60
+   iraintu pāyumōr ikalnīr vīḻcciyil
+   pukaintu cuḻikkumōr pukunīrc cuḻiyil
+   maraṇa ulakiṉ **vaḷamīṉ vāykkuḷ
+   tuvōṉikkō lāccit tolmīṉ paṟkaḷil."
+   ataṉpiṉ kollaṉ avvil mariṉaṉ
+   taṉvāy kōṇit talaiyait tiruppi
+   kaṟuttat tāṭiyaik kaiyāl muṟukki
+   taṉatu curuṇṭa talaiyiṉai yacaittāṉ;
+   tuṇivāyt tāṉē toṭarntil pukuntu
+   kūraiyiṉ kīḻē koṇṭē naṉnaṭai 70
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "eṉṉiṭam varuvāy ippō peṇṇē!
+   uṉatu cakōtarik kuriya iṭattē
+   maṉaivieṉ muntiyaḷ vāḻnta iṭattē
+   roṭṭi- tēṉ cērntataic cuṭṭē yeṭukka
+   'pīr'ppā ṉattaip piṉvaṭit teṭukka!"
+   perunilat tiruntoru piḷḷaipā ṭiṟṟu
+   pāṭiya tōṭu pakarntatu ivvitam:
+   "emkōṭ(ṭai) yiruntupō, etumpaya ṉaṟṟavā!
+   anniyōy, yi(v)vāyi liruntē yakalvāy! 80
+   ikkōṭ(ṭai) pakutiyoṉ ṟiṭittē muṭittaṉai
+   kōṭṭaiyaic ciṟitē koṭitā yaḻittaṉai
+   muṉṉoru muṟainī vantanē rattil
+   akalik katavunī aṭaintanē rattil.
+   peṇnī, cakōtari, pēcutal kēṭpāy!
+   maṇamakaṉ kaṇṭu mayaṅkiṭa vēṇṭām
+   māppiḷai vāyil varumoḻi kēṭṭu
+   avaṉatu pāta aḻakiṉaip pārttu!
+   māppiḷai muracu ōṉāy muracu
+   nariyiṉ vaḷainta nakaṅkaḷ paiyilē 90
+   kakkat tiruppavai karaṭiyiṉ nakaṅkaḷ
+   kurutiyuṇ pōriṉ kolaivāḷ iṭuppil
+   ataṉāl cīvuvār aḻakiya uṉtalai
+   mutukai veṭṭi mutaṟkiḻit tiṭuvār."
+   peṇṇavaḷ tāṉē pēciṉaḷ ivvitam
+   ilmari ṉaṉeṉum kollaṉ taṉakku:
+   "puṟappaṭ ṭuṉṉuṭaṉ varaṟkunā ṉillai
+   aṭācciṟu matiyaril akkaṟai yeṉakkilai;
+   koṭitumuṉ muṭitta kōtaiyaik koṉṟaṉai
+   aḻakeṉ cōtari aḻittē māyttaṉai 100
+   aṅṅaṉam eṉṉaiyum aḻikka muyaluvāy
+   eṉṉaiyum avvitam eṉṟumē māykkalām;
+   pārappā intap pāvaiyum ippō(tu)
+   etirpārt tirukkiṟāḷ iṉiyakīrt tiyaṉai
+   aḻakār uṭaluṟum aruntarac cōṭiyai
+   cuntaraṉ oruttaṉiṉ vaṇṭiyai niṟaittiṭa
+   mikamikac ciṟappām virumpiṭa maṭaintiṭa
+   ikamatil mikauyar iruppiṭam cērntiṭa
+   allaōr kollaṉiṉ akkari illam
+   mūṭaṉ oruvaṉiṉ mūḷaṉa liṭamala." 110
+   antak kollaṉ avvil mariṉaṉ
+   kaviṉaḻi villāk kaiviṉaik kalaiñaṉ
+   taṉvāy kōṇit talaiyait tiruppi
+   kaṟuttat tāṭiyaik kaiyāl muṟukkiṉaṉ;
+   akkaṇat tuṭaṉē arivaiyaip paṟṟiṉaṉ
+   irukaram vaḷaittu iṟukap piṭittaṉaṉ
+   paṉippuyal pōla pāyntaṉaṉ veḷiyē
+   caṟukku vaṇṭiyil miṭukkō ṭēṟiṉaṉ
+   arivaiyai vaṇṭi ataṉuḷ tiṇittaṉaṉ
+   vaṉitaiyait tiṇittu vaṇṭiyuḷ aṭaittaṉaṉ 120
+   avaṉē puṟappaṭa lāyiṉa ṉuṭaṉaṭi
+   avaṉpuṟap paṭaṟku āyatta māyiṉaṉ
+   parikkaṭi vāḷat torukai iruntatu
+   maṟukai maṅkaiyiṉ mārpuk kāmpiṉil.
+   kārikai aḻutaṉaḷ kattip pulampiṉaḷ
+   uraittāḷ orucol uraittāḷ ivvitam:
+   **"ciṟupaḻat tukkuc ceṉṟēṉ catuppu
+   **cēmpaṅ kiḻaṅkuk kēkiṉaṉ cēṟṟiṭai
+   tolaivē ṉaṅkunāṉ tuṭikkumōr kōḻiyāy
+   akālat tiṟappēṉ aṅkoru paṟavaiyāy. 130
+   kollail mariṉa, collum moḻikēḷ!
+   iruppaiyēl viṭuviyā tiṅkirun teṉṉai
+   vaṇṭiyai utaippēṉ tuṇṭutuṇ ṭāka
+   caṟukkuvaṇ ṭiyiṉai norukkuvēṉ tukaḷāy
+   eṉmuḻaṅ kālāl iṭippēṉ poṭippaṭa
+   kālāl aṭittuk kaṭuntuka ḷākkuvēṉ."
+   antak kollaṉ avvil mariṉaṉ
+   uraittāṉ orucol uraittāḷ ivvitam:
+   "ataṉāl tāṉkol laṉiṉratap puṟaṅkaḷ
+   irumpaik koṇṭu iyaṟṟap paṭṭatu 140
+   tāṅki utaikaḷait tapputaṟ kāka
+   putteḻiṟ kaṉṉiyiṉ pōriṉait tāṅka."
+   kārikai appō kattip pulampiṉaḷ
+   amceppu **vāraṇi avaḷmuṟai yiṭṭaṉaḷ
+   viralkaḷaip piṉṉit tiruppi muṟukkiṉaḷ
+   uṭaṉtaṉ karaṅkaḷai utaṟip pārttaṉaḷ
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "iruppaiyēl viṭuviyā tiṅkirun teṉṉai
+   āḻimī ṉāyeṉai yākkiṭap pāṭuvēṉ
+   āḻaveṇ mīṉāy alaiyilmā ṟiṭuvēṉ." 150
+   antak kollaṉ avvil mariṉaṉ
+   uraittāṉ orucol uraittāḷ ivvitam:
+   "avviṭam uṉṉāl aṭaintiṭa muṭiyā
+   kōlācci mīṉāyk kumaripiṉ toṭarvēṉ."
+   kārikai appō kattip pulampiṉaḷ
+   amceppu vāraṇi avaḷmuṟai yiṭṭaṉaḷ
+   viralkaḷaip piṉṉit tiruppi muṟukkiṉaḷ
+   uṭaṉtaṉ karaṅkaḷai utaṟip pārttaṉaḷ
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "iruppaiyēl viṭuviyā tiṅkirun teṉṉai 160
+   aṭaviyuṭ ceṉṟu aṅkē maṟaivēṉ
+   **kīriyāyp pāṟaik kīḻkkuḻi pukuvēṉ."
+   antak kollaṉ avvil mariṉaṉ
+   uraittāṉ orucol uraittāḷ ivvitam:
+   "avviṭam uṉṉāl aṭaintiṭa muṭiyā
+   **nīrnāy vaṭivāy niṉpiṉ toṭarvēṉ."
+   kārikai appō kattip pulampiṉaḷ
+   amceppu vāraṇi avaḷmuṟai yiṭṭaṉaḷ
+   viralkaḷaip piṉṉit tiruppi muṟukkiṉaḷ
+   uṭaṉtaṉ karaṅkaḷai utaṟip pārttaṉaḷ 170
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "iruppaiyēl viṭuviyā tiṅkirun teṉṉai
+   mēkappuḷ ḷāy uyaramēṟ paṟappēṉ
+   mēkap piṉpuṟam mikamaṟain tiruppēṉ."
+   antak kollaṉ avvil mariṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "avviṭam uṉṉāl aṭaintiṭa muṭiyā
+   kaḻukuru veṭuttuk kaṉṉippiṉ toṭarvēṉ."
+   ataṉpiṉ payaṇam amaintatu ciṟutolai
+   pātaiyil koñcam pakartolai kaḻintatu 180
+   appō kutirai nimittiṟ ṟataṉcevi
+   taḻaittataṉ cevitām paraparap pāyiṉa.
+   oṇṭoṭi talaiyai uyarttip pārttaṉaḷ
+   orukā laṭittaṭam uṟupaṉik kaṇṭaṉaḷ
+   ivvā ṟucāviṉaḷ ivvā ṟiyampiṉaḷ:
+   "ippō tōṭiya tetuvām kuṟukkāy?"
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam:
+   "ippō kuṟukkāy ēkiya tatumuyal."
+   perumapāk kiyavati perumūc ceṟintaṉaḷ
+   perumūc ceṟintaṉaḷ peritum cōrntaṉaḷ 190
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "aiyakō, eḷiyatōr piṟappā yiṉaṉnāṉ
+   naṉṟirun tirukkum nāṉivvā ṟiruntāl
+   ciṟappirun tirukkum ceyalivvā ṟintāl
+   viraimuyal vaḻittaṭa mītirun tiruntāl
+   **'vaḷaintakāl' cuvaṭṭiṉ vayamirun tiruntāl
+   maṇañceya varumivaṉ vaṇṭiyi lilāmal
+   mikaccuruṅ kumukaṉ mettaiyi lilāmal
+   ēṉeṉil muyalrōmam itilmika naṉṟu
+   viyaṉmuyal vāyō mēlum ciṟappu." 200
+   antak kollaṉ avvil mariṉaṉ
+   taṉitaḻ kaṭittut talaiyait tiruppi
+   toṭarntu vaṇṭiyait tuṭippāyc celuttiṉaṉ;
+   pātaiyil koñcam pakartolai kaḻintatu
+   kutirai mīṇṭum cevinimirt tiṟṟu
+   taḻaittataṉ cevitām paraparap pāyiṉa.
+   oṇṭoṭi talaiyai uyarttip pārttaṉaḷ
+   orukā laṭittaṭam uṟupaṉik kaṇṭaṉaḷ
+   ivvā ṟucāviṉaḷ ivvā ṟiyampiṉaḷ:
+   "ippō tōṭiya tetuvām kuṟukkāy?" 210
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam:
+   "ippō kuṟukkāy ēkiya tatunari."
+   perumapāk kiyavati perumūc ceṟintaṉaḷ
+   perumūc ceṟintaṉaḷ peritum cōrntaṉaḷ
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "aiyakō, eḷiyatōr piṟappā yiṉaṉnāṉ
+   naṉṟirun tirukkum nāṉivvā ṟiruntāl
+   ciṟappirun tirukkum ceyalivvā ṟintāl
+   orunari(yiṉ) vaṇṭiyil cavāricey tiruntāl
+   iruntāl ōyvilā viraintiṭum vaṇṭi 220
+   maṇañceya vantavaṉ vaṇṭiyi lilāmal
+   mikaccuruṅ kumukaṉ mettaiyi lilāmal
+   ēṉeṉil **ōriyiṉ rōmammik kukantatu
+   nariyataṉ vāyō naṉimēṟ ciṟappām."
+   antak kollaṉ avvil mariṉaṉ
+   taṉitaḻ kaṭittut talaiyait tiruppi
+   toṭarntu vaṇṭiyait tuṭippāyc celuttiṉaṉ;
+   pātaiyil koñcam pakartolai kaḻintatu
+   kutirai mīṇṭum cevinimirt tiṟṟu
+   taḻaittataṉ cevitām paraparap pāyiṉa. 230
+   oṇṭoṭi talaiyai uyarttip pārttaṉaḷ
+   orukā laṭittaṭam uṟupaṉik kaṇṭaṉaḷ
+   ivvā ṟucāviṉaḷ ivvā ṟiyampiṉaḷ:
+   "ippō tōṭiya tetuvām kuṟukkāy?"
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam:
+   "ippō kuṟukkāy ēkiya tōnāy."
+   perumapāk kiyavati perumūc ceṟintaṉaḷ
+   perumūc ceṟintaṉaḷ peritum cōrntaṉaḷ
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "aiyakō, eḷiyatōr piṟappā yiṉaṉnāṉ 240
+   naṉṟirun tirukkum nāṉivvā ṟiruntāl
+   ciṟappirun tirukkum ceyalivvā ṟintāl
+   iḷaittō ṭō nāy vaḻittaṭat tiruntāl
+   **'nīḷmuka't taṭicuvaṭ ṭilēyirun tiruntāl
+   maṇañceya vantavaṉ vaṇṭiyi lilāmal
+   mikaccuruṅ kumukaṉ mettaiyi lilāmal
+   ēṉeṉil ōnāy rōmammik kukantatu
+   ōnāy vāyō uyarmēṟ ciṟappām."
+   antak kollaṉ avvil mariṉaṉ
+   taṉitaḻ kaṭittut talaiyait tiruppi 250
+   toṭarntu vaṇṭiyait tuṭippāyc celuttiṉaṉ;
+   iravil putitām eḻilū raṭaintaṉaṉ.
+   vaḻiccela vataṉil vanta kaḷaippiṉāl
+   aṅkē kollaṉ amaitiyāyt tuyiṉṟāṉ
+   peṇṇaiyiṉ ṉoruvaṉ **puṉṉakai yūṭṭiṉaṉ
+   avaḷatu koḻunaṉ aṟattuyil nēram.
+   ataṉpiṉ kollaṉ avaṉil mariṉaṉ
+   kālainal nēram kaṇviḻip puṟṟatum
+   taṉvāy kōṇit talaiyait tiruppi
+   kaṟuttat tāṭiyaik kaiyāl muṟukkiṉaṉ; 260
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam
+   niṉaittu avaṉē uraittāṉ ippaṭi:
+   "ippō tēnāṉ icaikkat toṭaṅkavā?
+   ittakai maṇappe(ṇ)ṇai ippō pāṭavā
+   vaṉattuk kāka vaṉattataṉ contamāy
+   allatu puṉaluk kāyppuṉaṟ contamāy?
+   vaṉattiṉ contamāy vaṉitaiyaip pāṭēṉ
+   ēṉeṉil vaṉattuk kiṉṉaluṇ ṭākum,
+   puṉalataṉ contamāyp pūvaiyaip pāṭēṉ
+   puṉalilē mīṉiṉam pōkum otuṅkiyē; 270
+   vevvāḷ alakatāl viraintē vīḻttuvēṉ
+   arinteṉ vāḷāl aḻittē viṭuvēṉ."
+   vāḷum maṉitaṉiṉ vārttaiyai aṟintatu
+   nāyakaṉ collai naṉṟāy uṇarntatu
+   uraittatu orucol uraittatu ivvitam:
+   "eṉṉaip paṭaittatu itaṟkā yalla
+   mātaraik koṉṟu māyppataṟ kalla
+   eḷiya piṟaviyai oḻippataṟ kalla."
+   antak kollaṉ avvil mariṉaṉ
+   ippō tuṇmaiyāy eḻuntāṉ pāṭa 280
+   kōpam koṇṭu kūṟat toṭaṅkiṉaṉ
+   pāṭiṉaṉ **kaṭaliṉ paṟavaiyāyt taṉpeṇṇai
+   uyarnta pāṟaiyil ōyntupōyt taṅka
+   nīrkkaṟ pāṟaiyil niṉṟukīc ciṭṭiṭa
+   kaṭalmuṉaip parappil kattiyē tiriya
+   kāṟṟiṉ mōtalil kalaṅkit tiriya.
+   ataṉpiṉ kollaṉ avaṉil mariṉaṉ
+   taṉatu vaṇṭiyil tāṉē ēṟi
+   vaṇṭiyaic celuttic ceṉṟaṉaṉ toṭarntu
+   tāḻnta talaiyuṭaṉ vīḻnta maṉattuṭaṉ; 290
+   taṉconta nāṭu tāṉpaya ṇittaṉaṉ
+   tāṉē paḻakiya nāṭṭaivan taṭaintaṉaṉ.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   cantikka vantaṉaṉ tāṉpā taiyiṉmuṉ
+   vantatum ivvitam vārttai toṭaṅkiṉaṉ:
+   "cakōtara, kolla takaiil mariṉa!
+   uḷḷaṉai etaṟku uṟutuyar maṉattuṭaṉ
+   uyarnta toppiēṉ uṟṟatu carivāy
+   vaṭapāl nilatti liruntē varukaiyil
+   vaṭapāl nilattavar vāḻvelā meppaṭi?" 300
+   kollaṉil mariṉaṉ kūṟiṉaṉ ippaṭi:
+   "ettaku vāḻvu iruppatu vaṭapulam
+   aṅkē campō araikkiṟa teṉṟum
+   cuṭarum mūṭiyum cuḻaṉṟē varuvatām
+   uṇpataṟ kāka orunāḷ araikkum
+   viṟpaṉaik kāka maṟunāḷ araikkum
+   cēmikka maṉaiyil tikaḻmūṉ ṟāmnāḷ.
+   nāṉē coṉṉatai navilvēṉ tirumpa
+   coṉṉatai mīṇṭum colvēṉ orumuṟai
+   ettaku vāḻvu iruppatu vaṭapulam 310
+   campō aṅkē tāṉirup pataṉāl!
+   aṅkē uḻuvār aṅkē vitaippār
+   vaḷarum aṉaittu vakaikaḷum uḷavē
+   eṉṟeṉṟu maṅkē iruppatu atirṣṭam."
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "cakōtara, kolla takaiil mariṉa!
+   eṅkē viṭṭaṉai iḷamuṉ maṉaiviyai
+   evviṭat tiluṉ eḻilār maṇappeṇ
+   veṟumkai yuṭaṉē mīṇṭiṅ kuṟṟaṉai
+   vantu cērntaṉai vaṉitaiyil lāmal?" 320
+   antak kollaṉ avvil mariṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "antap peṇṇai appaṭip pāṭiṉēṉ
+   kaṭaliṉ pāṟaiyil orukaṭaṟ paṟavaiyāy;
+   kattit tirikiṟāḷ kaṭaṟpu(ḷ)ḷāy ippō
+   kūvit tirikiṟāḷ kuraikaṭaṟ paṟavaiyāy
+   nīrkkaṟ pāṟaiyil kīcciṭṭa ṭalaikiṟāḷ
+   pāṟaik kuṉṟil paṭarkiṟāḷ alaṟi."
+     __________________________________________________________________
+
+  pāṭal 39 - vaṭanāṭṭiṉ mītu paṭaiyeṭuppu
+  [15]*
+     __________________________________________________________________
+
+   aṭikaḷ 1-330 : vaṭanāṭṭukkuc ceṉṟu campōvai apakarittuk
+   koṇṭu varat taṉṉuṭaṉ varumāṟu vaiṉāmoyiṉaṉ ilmariṉaṉaik
+   kēṭkiṟāṉ. ilmariṉaṉ cammatittatāl paṭakil vaṭanāṭṭukkup
+   puṟappaṭukiṉṟaṉar.
+   aṭikaḷ 331- 426 : vaḻiyil cantitta lemmiṉkaiṉaṉ anta
+   iruvaratu payaṇa nōkkattai aṟintu tāṉum avarkaḷuṭaṉ
+   cella muṉ varukiṟāṉ. avaṉai avarkaḷ ēṟṟuk koṇṭatāl
+   mūṉṟu tōḻarkaḷum payaṇattait toṭarukiṉṟaṉar.
+     __________________________________________________________________
+
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "ōkō, kolla uyaril mariṉa!
+   vaṭanāṭ ṭukkup puṟapaṭ ṭēkuvōm
+   nallacam pōvai nāmē peṟaṟku
+   piraka(஡)ca mūṭiyaip peritum pārkka!"
+   antak kollaṉ avvil mariṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "campō eṉpatai nāmpeṟaṟ killai
+   cuṭarum mūṭiyum koṇarutaṟ killai 10
+   iruḷniṟai vaṭapāl iyainilat tiruntu
+   ceṟipukār nāṭām cariyolā viruntu;
+   eṭutteḻiṟ campō ēkavum paṭṭatu
+   oḷirum mūṭiyum uṭaṉpō yaṭaintatu
+   vaṭanilak kuṉṟiṉ maṇimuka ṭataṉmēl
+   ceppiṉā lamainta cemmalaik kuḷḷē
+   pūṭṭiṉaḷ oṉpatu puṭṭukaḷ pōṭṭu;
+   iṟaṅkiṉa tataiccūḻn(tu) ikalval vērkaḷ
+   oṉpatu maṭaṅkilōr **āṟaṭi yāḻam;
+   aṉṉaiyām pūmiyil atiloṉ ṟiṟaṅka 20
+   maṟṟavēr nīrkkarai vaḻimaruṅ kiṟaṅka
+   mū(ṉṟā)mvēr ceṉṟatu mutuvil malaikkuḷ."
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "cōtarak kolla, tuṇaiccō taraṉē!
+   vaṭapula nāṭu puṟappaṭ ṭēkuvōm
+   accam pōvai aṭaitaṟ kēnām
+   kappal oṉṟaik kaṭṭuvōm peritāy
+   eṭuttuvan tiṭalām atiṟcam pōvai
+   oḷirum mūṭiyum uṭaṉē koṇaralām
+   vaṭanilak kuṉṟataṉ maṇimukaṭ ṭiruntu 30
+   ceppiṉāl iyaintacem malaikaḷi liruntu
+   pūṭṭiya oṉpatu pūṭṭiṉi liruntu."
+   kollaṉil mariṉaṉ kūṟiṉaṉ ivvitam:
+   "paṭartaraip payaṇam pātukāp pāṉatu
+   picācupō kaṭṭum peruṅkaṭal mītu
+   ikalakal āḻiyil iṟappuvan tiṭaṭṭum!
+   cuḻaṟkāṟ ṟaṅkē cuṟṟiya ṭikkum
+   puyaṟkāṟ ṟaṅkē puṟameṭut teṟiyum
+   viralkaḷ tuṭuppai mikavalin tiḻukkum
+   toṭumuḷ ḷaṅkai **taṇṭaip piṭikkum." 40
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "paṭartaraip payaṇam pātukāp pāṉatu
+   pātukāp pāṉatum paṭukaṭi tāṉatum
+   attuṭaṉ cuṟṟiya atitolaip payaṇam;
+   makiḻcciyait taruvatu valikkunīrt tōṇi
+   acaintu marakkalam alaimitan takalvatu
+   parantanīrp parappai **paḷīcciṭac ceyvatu
+   teḷintanīrk kaṭalil celuttutal kappal:
+   kāṟṟup paṭakutā lāṭṭic cellum
+   alaikaḷ tōṇiyai acaittuc celuttum 50
+   mēlkāṟ ṟūrntu metuvāy nakartta
+   teṉkāṟ ṟataṉaic celuttum muṉṉē
+   atuvum avvitam amaivata ṉālē
+   uṇmaiyil nīkaṭa lōṭiyē yalla
+   ātalāl taraivaḻi yākalām payaṇam
+   nīrkkaraip pakkamāyp pōrāṭic cellalām.
+   eṉakkoru putuvāḷ iṉitaṭit teṭuppāy
+   tīppoṟi yalaku tikaḻvāḷ ceyvāy
+   vēṭṭai nāykaḷai ōṭṭuvēṉ ataṉāl
+   viraṭṭi aṭippēṉ viyaṉvaṭa pulaviṉam 60
+   campō peṟaṟkuc cārum camayam
+   kuḷirntavak kirāmam kuṟukum poḻutu
+   iruḷniṟai vaṭapāl iyainilat tāṅkē
+   ceṟipukār nāṭām cariyolā viṭattu."
+   appō(tu) kollaṉ avaṉil mariṉaṉ
+   kaviṉaḻi villāk kaiviṉaik kalaiñaṉ
+   irumpait tiṇittāṉ virumpi neruppil
+   koñca uruknak koṭuṅkaṉa luḷḷē
+   kaippiṭi yaḷavu kaṉakamum pōṭṭāṉ
+   virikai yaḷavu veḷḷiyum cērttāṉ 70
+   ūtutal aṭimaikaḷ utaviyāl ceytāṉ
+   aḻuttalaic ceytāṉ akkū likaḷāl.
+   aṭimaikaḷ ūtiṉar aṭimaikaḷ viciṟiṉar
+   kūlikku vantōr kuṟaivilā taḻuttiṉar:
+   irumpum kūḻāy iḷakiyē vantatu
+   urukkum kaḷiyāy urukiyē vantatu
+   veḷḷiyum nīrāy miṉṉalā yiṟṟu
+   taṅkam alaiyāyt tāṉkotit tiṭṭatu.
+   ataṉpiṉ kollaṉ avaṉil mariṉaṉ
+   lakaviṉ aḻivillāk kaiviṉaik kalaiñaṉ 80
+   eṭṭi ulaikaḷat tiṉuṭ pārttāṉ
+   kollulai viḷimpaik kūrntavaṉ pārttāṉ:
+   vāḷoṉṟu piṟantu vantatataik kaṇṭaṉaṉ
+   uruvāki vantatai uyarpoṉ muṉaiyuṭaṉ.
+   antap poruḷai aṉalirun teṭuttāṉ
+   nallaap poruḷai naṉikarat teṭuttāṉ
+   paṭṭaṭaik **kaṟkup paṭumulai yiruntu
+   cammaṭṭi **kaṭkut takucutti yaṟku
+   virumpiya vāṟē veḷirvāḷ taṭṭiṉaṉ
+   atimikac ciṟanta alakuṟum vāḷiṉai 90
+   taṅkatti ṉālē takumurup peṟṟaṉaṉ
+   alaṅka(஡)ram veḷḷi yataṉāl ceytaṉaṉ.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   avviṭam vantaṉaṉ ataṉaip pārkka
+   tīppoṟi alaku tikaḻvāḷ eṭuttaṉaṉ
+   taṉatu valakkaram tāṉē peṟṟaṉaṉ
+   ataṉaip pārttaṉaṉ ataṉait tiruppiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "malarntaiv vāḷoru maṉitaṉuk kēṟṟatā
+   tarittirup pōṟkut takuntatā ivvāḷ?" 100
+   ām,oru maṉitaṉuk katiyukap pivvāḷ
+   tarittirip pōṟkut takuntatu ivvāḷ
+   ēṉeṉil ataṉmuṉai eḻilnilāt **tikaḻntatu
+   vāḷiṉ pakkam vayaṅkiṉaṉ katirōṉ
+   viyaṉkaip piṭiyilē viṇmīṉ miṉṉiṉa
+   alakiṉil pariyoṉ ṟaḻakāyk kaṉaittatu
+   kuṉin torupuṉai kumiḻkat tiṟṟu
+   uṟaiyil nāyniṉ ṟurakkak kuraittatu.
+   ataṉpiṉ cuḻaṟṟiṉaṉ avaṉatu vāḷai
+   irumpiṉā lāṉa ikalmalai veṭippil 110
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "ippō iṅkē intanal vāḷiṉāl
+   veṟpaiyum kūṭa veṭṭip piḷappēṉ
+   pāṟaiyaik kiḻittup pakuppiraṇ ṭākkuvēṉ."
+   avaṉē kollaṉ avvil mariṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "eṅṅaṉam nāṉum ilātōṉ pākkiyam
+   etaṉāl ēḻai eṉṉaik kāppēṉ
+   kavaca miṭuvēṉ kaviṉvā ramaippēṉ
+   akalnilam nīriṉ apāyat tiruntu? 120
+   kavaca miṭṭē kaṭiteṉai mūṭavā
+   irumpuc caṭṭaiyai ēṟṟaṇin tiṭavā
+   urukkup paṭṭiyāl uṭaṉmū ṭiṭavā?
+   kavaca(ttil) maṉitaṉ kaṭiṉamāy iruppāṉ
+   irumpuc caṭṭai ēṟṟatu ataṉilum
+   urukkup paṭṭi uṟuvalu atikam."
+   puṟappaṭap pōkum poḻutum vantatu
+   veḷippuṟap pāṭṭu vēḷaiyum vantatu
+   mutiya vaiṉā moyiṉaṉ mutalvaṉ
+   aṭuttavaṉ kollaṉ avaṉil mariṉaṉ 130
+   orupari peṟavē uṭaṉpuṟap paṭṭaṉar
+   caṇalpiṭarp **puraviyait tāmē tēṭiṉar
+   oruvaru ṭapparik(kuk) kaṭivaḷam paṭṭiyil
+   turakat taṇikalaṉ tōḷkaḷil iruntaṉa
+   iruvarum tēṭiṉar ikalpari oṉṟiṉai
+   taḷirmarat tūṭāyt talaiyiṉaip pārttaṉar
+   eṅṅaṇum kavaṉamāy ēkiyē tēṭiṉar
+   nīla niṟattu nīḷvaṉam cuṟṟiyē;
+   poḻiloṉ ṟiṉilē puraviyaik kaṇṭaṉar
+   **tāruviṉ naṭuviṉil caṇaṟpiṭarp puraviyai. 140
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   aṭuttavaṉ kollaṉ avvil mariṉaṉ
+   aḻuttip puṭṭiṉar ampoṟ ṟalaiyaṇi
+   oruvaru ṭapparik kuṟuvāyk kaṭivaḷam
+   ataṉpiṉ payaṇam avarkaḷ toṭaṅkiṉar
+   nīrkkarai yōramāy nikariru maṉitarum
+   kēṭṭatōr aḻukural nīrk karaiyiruntu
+   paṭakut tuṟaimuṟaip pāṭatu kēṭṭatu.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam: 150
+   "aṅkoru arivai aḻutukoṇ ṭirukkiṟāḷ
+   kōḻiyoṉ ṟaḻutu kumaikiṟa taṅkē
+   etuveṉap pārkkavaṅ kēkiṭa lāmā
+   arukilē ceṉṟu ārāya lāmā?"
+   avaṉē arukil aṭivait tēkiṉaṉ
+   pakkam ceṉṟaṉaṉ pārppataṟ kāka;
+   aḻutukoṇ ṭiruppatu arivaiyu malla
+   kuralkoṭu pulamputal kōḻiyu malla;
+   atuoru tōṇi aḻutukoṇ ṭiruntatu
+   muṉoru paṭaku muṟaippā ṭiṭṭatu. 160
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ
+   paṭakiṉ pakkam paṭarntatum kēṭṭāṉ:
+   "etaṟku aḻukai irummarap paṭakē
+   **ukaimiṇṭup paṭakē uṉmuṟaip pāṭēṉ
+   palakaiyāl paṭaikkap paṭṭatāl aḻukaiyā
+   ukaimiṇ ṭuramāy uṟṟatāl aḻukaiyā?"
+   marattiṉ paṭaku varupatil coṉṉatu
+   ukaimiṇṭup paṭaku uraittatu ivvitam:
+   "paṭakiṉ viruppam pāypuṉaṟ celvatu
+   uruku**tār puciya uruḷaiyi liruntu 170
+   kārikai virumpuvaḷ kaṇavaṉiṉ vīṭē
+   piṟanta illamē uyarntatā yiruppiṉum;
+   ēḻaip paṭakunāṉ aḻukiṟēṉ ataṟkāy
+   tuyarppaṭṭa tōṇi muṟaippaṭu kiṉṟēṉ
+   aḻukiṟēṉ puṉaleṉaic celuttuvōṟ kāka
+   aḻukiṟēṉ ōṭṭuvōṟ kāyalai kaḷileṉai.
+   eṉaikkaṭ ṭiyapoḻu tiyampap paṭṭatu
+   eṉaicceyta pōtu icaikkap paṭṭatu
+   pōrkkappa loṉṟu ākkap paṭu(kiṟa)teṉa
+   amarkkappa loṉṟu amaikkap paṭu(kiṟa)teṉa 180
+   eṉṉai niṟaittu irumporuḷ koṇara
+   niṟaiyat tiraviyam nirappi varaveṉa;
+   pōrukku nāṉō pōṉatē yillai
+   payaṇittu nāṉporuḷ palakoṇarn tatumilai.
+   taraṅkeṭṭa vēṟu cariyilāp paṭakelām
+   eṉṟumē pōruk kēkiṉ ṟaṉavē
+   amarukku nakarntu avaicel kiṉṟaṉa,
+   payaṇippu mummuṟai paṭarkō ṭaiyilē
+   niṟaiyap paṇattai nirappik koṇara
+   niṟaiyat tiraviyam nirappik koṇara; 190
+   nāṉō tiṟamaiyāy naṉkamai paṭaku
+   palakaiyōr nūṟiṉāl paṭaittanaṟ paṭaku
+   kaḻivut tuṇṭilnāṉ **uḻuttup pōkiṟēṉ
+   nitamcetuk kiyaviṭam nīṇṭē kiṭakkiṟēṉ;
+   mikak kēvalamāy viḷainilap puḻukkaḷ
+   vaḷaiyap paṭṭiyil vacittiṭu kiṉṟaṉa
+   kāṟṟiṉiṟ paṟakkum kaṭuṅkoṭum paṟavaikaḷ
+   kūṭupāy marattil koṇṭamaik kiṉṟaṉa
+   taṉivaṉam vāḻum tavaḷaikaḷ kūṭa
+   toṭumuṉ aṇiyattil tuḷḷit tirivaṉa; 200
+   iruntiruk kumiru maṭaṅkitil naṉṟāy
+   iraṇṭu mūṉṟu maṭaṅkunaṉ ṟākum
+   malaiyilū ciyilai maramā yiruntāl
+   tēvatā rākac ceḻumpuṟ ṟaraiyil
+   oruaṇil ōṭi ulāvarak kiḷaikaḷil
+   kuṭṭināy taraiyil cuṟṟiyē varaṟku."
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "arumarap paṭakē aḻutiṭal vēṇṭām
+   ukaimiṇṭup paṭakē uḻaṉ ṟaraṟṟātē 210
+   pōrkku viraivil pōvāy payaṇam
+   nakarntu camarkku naṉkucel vāynī.
+   iṟaivaṉiṉ paṭaippāy iruntāl tōṇinī,
+   āṇṭavaṉ paṭaippāy aḷippavar koṭaiyāy,
+   muṉṉaṇi yattai mukiḻpuṉal celuttu
+   pakkattai alaiyiṉ pakkamāy tiruppu
+   kaimuṭṭi etuvum kaṭituṉait toṭāmal
+   karaṅkaḷ etuvum kaṭantuṉiṟ paṭāmal
+   vaṉtōḷ etuvum vaḻikāṭ ṭāmal
+   paṭupuyam etaiyum payaṉpaṭut tāmal." 220
+   marattiṉ paṭaku maṟumoḻi coṉṉatu
+   ukaimiṇṭup paṭaku uttaram coṉṉatu:
+   "eṉvēṟu periya iṉattāl muṭiyā
+   eṉcakō tarappaṭa ketālum muṭiyā
+   taḷḷap paṭāmalē taṇpuṉaṟ celvatu
+   aṉuppap paṭāmalē alaikaḷiṟ pōvatu
+   kaimuṭṭi koṇṭu kaṭitu toṭāmal
+   tikaḻpuyam koṇṭu tiruppap paṭāmal."
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "taṇpuṉal nāṉuṉait taḷḷiyē viṭṭāl 230
+   makiḻntōṭa muṭiyumā valikkap paṭāmalē
+   iṭumtuṭup putavi etuvum iṉṟiyē
+   tuḷiyum taṇṭu valittalē yiṉṟi
+   pāyilē kāṟṟup paṭiyā tirukkaiyil?"
+   marattiṉ paṭaku maṟumoḻi coṉṉatu
+   ukaimiṇṭup paṭaku uttaram coṉṉatu:
+   "eṉvēṟu periya iṉattāl muṭiyā
+   entaṉ kuḻuveva rālum muṭiyā
+   viralvalik kāmal viraintatē yillai
+   iṭutuṭup putavi etuvum iṉṟiyē 240
+   tuḷiyum taṇṭu valittalē yiṉṟi
+   pāyilē kāṟṟup paṭiyā tirukkaiyil."
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "makiḻntōṭa muṭiyumā valikkap paṭṭāl
+   uṟutuṭup putaviyum uṉakkē yiruntāl
+   toṭarntu taṇṭu valittal**niṟ kiruntāl
+   pāyilē kāṟṟup paṭintukoṇ ṭiruntāl?"
+   marattiṉ paṭaku maṟumoḻi coṉṉatu
+   ukaimiṇṭup paṭaku uttaram coṉṉatu: 250
+   "niccayam eṉatu maṟṟa iṉattavar
+   eṉatu cakōtara eḻiṟpaṭa kellām
+   uṟuviral valikkaiyil ōṭic ceṉṟaṉa
+   iṭuttuṭup putavikaḷ irunta pōtilē
+   taṇṭu valittal tāṉtoṭarn tirukkaiyil
+   pāyilē kāṟṟup paṭintukoṇ ṭirukkaiyil."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   varupari taraiyil maṇalil viṭṭaṉaṉ
+   kaḻuttup paṭṭiyai kaṭṭiṉaṉ marattil
+   kaṭivā ḷattaik kaṭṭiṉaṉ kiḷaiyil 260
+   taṇṇī rukkuḷ taḷḷiṉaṉ tōṇi
+   paṭaralai mitanta paṭakaip pāṭiṉaṉ
+   perumarap paṭakaip piṉṉar kēṭṭaṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "paṭuvali vaḷaiyap paṭṭiyiṉ paṭakē!
+   uramām ukaimiṇ ṭuyarmarap paṭakē!
+   poruḷniṟait tēkap poruttamā yiruppaiyā
+   pārvaikku naṉṟāyp paṭuvatu pōlavē?"
+   marattiṉ paṭaku maṟumoḻi coṉṉatu
+   ukaimiṇṭup paṭaku uttaram coṉṉatu: 270
+   "āmappā poruḷpeyaṟ kāvēṉ naṉṟunāṉ
+   virikīḻt taḷattiṭam vicālamā yuḷḷatu
+   iruntē valikkalām ikalcata nāyakar
+   āyiram pērum amarntē cellalām."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   pāṭalkaḷ amaitiyāyp pāṭat toṭaṅkiṉāṉ,
+   pāṭiṉaṉ mutalilōr pakkamē niṟaiya
+   ciṟanta talaikoḷ cīrmaṇa vāḷarai,
+   ciṟanta ciraṅkaḷum cīrurak karaṅkaḷum
+   uyarkā laṇiyuṟum uyarvām makkaḷai; 280
+   pāṭiṉāṉ piṉmaṟu pakkamum niṟaiya
+   īya aṇikoḷ eḻiltalaip peṇkaḷai,
+   īya aṇittalai, eḻiṟceppu **vārkaḷ,
+   poṉ viraluṭaiya putteḻiṟ peṇkaḷai.
+   mēlum pāṭiṉaṉ vaiṉā moyiṉaṉ
+   kuṟukiya puṟamelām niṟaiyavē makkaḷai
+   avarkaḷ aṉaivarum atimutu māntarām
+   aṅkē vāḻnāḷ aṉaittilu mirukka
+   iruntatu koñca iṭamē ataṉpiṉ
+   vanta mutaṉmai vaḷaiḷa makārkku. 290
+   avaṉē cukkāṉ pakkamā yamarntāṉ
+   piṉṉāl milāṟuviṉ muṉṉaṇi yattiṉ
+   kappalaip pōka viṭṭaṉaṉ muṉṉē
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "ōṭuka paṭakē, orumara milāviṭam,
+   tōṇiyē, celvāy toṭunīrp parappilē,
+   celvainī kaṭalmēl tikaḻkumi ḻiyaippōla
+   alaiyilnī rāmpal malarkaḷaip pōlanī!"
+   tuṭuppaimāp piḷḷaikaḷ toṭuttu valikkavum
+   arivaiyar veṟumaṉē amaravum ceytaṉaṉ; 300
+   valittaṉar māppiḷḷai vaḷaintaṉa tuṭuppukaḷ
+   etuvumē payaṇat tillaimuṉ ṉēṟṟam.
+   vaṉitaiyar tuṭuppai valikkac ceytaṉaṉ
+   māppiḷḷai amara vaittaṉaṉ vāḷā;
+   valittaṉar peṇkaḷ vaḷaintaṉa viralkaḷ
+   etuvumē payaṇat tillaimuṉ ṉēṟṟam.
+   māṟṟiṉaṉ mutiyarai valikkat tuṭuppu
+   ataṉaip pārkka iḷaiñarai vaittaṉaṉ
+   mutiyōr valittaṉar muṉtalai naṭuṅkiṉa
+   iṉṉamum payaṇat tillai muṉṉēṟṟam. 310
+   ataṉpiṉ kollaṉ avaṉil mariṉaṉ
+   amarntaṉaṉ tuṭuppai avaṉē valikka
+   ōṭiṟ ṟippō uyarmarap paṭaku
+   paṭakō ṭiṟṟup payaṇam viraintatu
+   tuṭuppunīrt teṟippoli tolaivil kēṭṭatu
+   ukaimiṇ ṭō caiyum uyartolaik kēṭṭatu.
+   aṅkē itamāy avaṉum valittaṉaṉ
+   acaintaṉa kuṟukkiṭam vaḷaintaṉa pakkam
+   mōtip porutiṉa **pērit tuṭuppukaḷ
+   kāṭṭuk kōḻiyāyk kattiṉa piṭikaḷ 320
+   karuṅkōḻi pōlak kattiṉa alakukaḷ
+   aṉṉamāyt toṭarāy alaṟiṟṟu muṉṉaṇi(yam)
+   kataṟiṟ ṟaṇṭaṅ kākkaipōl piṉṉaṇi(yam)
+   toṭarvāt taippōl ukaimiṇ ṭiraintatu.
+   mutiya vaiṉā moyiṉaṉ avaṉtāṉ
+   appaya ṇattil ativirai vēkiṉaṉ
+   civappup paṭakiṉ cukkāṉ tikaḻpuṟam
+   peruntuṭup pukku arumpoṟup pāki
+   payaṇap pōtilē paṭṭatōr **kaṭalmuṉai
+   vaṟiyatōr kirāmam vaḷarviḻit terintatu. 330
+   ahti eṉpāṉ kaṭalmuṉai vacippavaṉ
+   ataṉkai vaḷaivil amartūra neñcāṉ
+   tūra neñciṉaṉ mīṉilā taḻutaṉaṉ
+   roṭṭi yilāt tūraneñ(cāṉ) caḻutāṉ
+   ahtiyiṉ kuṭilō atumikac ciṟiyatu
+   ikkuṟum paṉiṉnilai ēḻmaiyē yāṉatu.
+   cetukkiṭa lāyiṉaṉ tikaḻpaṭa kiṉpuṟam
+   oruputup paṭakiṉ **ōṭak kaṭṭaiyai
+   nīḷpaci yuṭaiyavan nērkaṭal muṉaiyil
+   vaṟumaiyē mikkaak kirāmak karaiyil. 340
+   avaṉatu kātukaḷ atikūr maiyaṉa
+   kaṇkaḷō iṉṉum kaṉakūr maiyaṉa
+   vaṭamēṟ pakkamār varuviḻi celuttiṉaṉ
+   ceṅkati rōṉkīḻ ceṉṉiyait tiruppiṉaṉ
+   vāṉavil oṉṟai vaḷartolaik kaṇṭaṉaṉ
+   ataṟkumap pāloru aruñciṟu mukilai.
+   atuvoru vāṉavil lallavē yalla
+   oruciṟu mukiltaṉu muḷḷataṅ kalla
+   ōṭip paṭarumōr ōṭan tāṉatu
+   payaṇittē celum paṭakē tāṉatu 350
+   teḷinta kaṭalataṉ ceṟiviri parappil
+   tiṟantu paranta tikaḻnīrp parappil
+   iruntaṉaṉ uyarntavaṉ iṇaiyilpiṉ aṇiyam
+   tōṉṟeḻil māṉuṭaṉ tuṭuppiṉ pakkamum.
+   kuṟumpaṉ lemmiṉ kaiṉaṉ kūṟiṉaṉ:
+   "antap paṭakaināṉ aṟintatē yillai
+   kaṇṭatē yillaiyik kaviṉcīrp paṭakai
+   piṉlān tiruntu muṉvaru kiṟatatu
+   kiḻakki liruntataṉ tuṭuppacai kiṟatu
+   nōkkiniṟ kiṟatucuk kāṉ vaṭa mēṟkai." 360
+   urattuk kattiṉāṉ uḷapalam maṭṭum
+   avaṉē kattiṉāṉ avaṉē kūviṉāṉ
+   kaṭalmuṉai nuṉiyilē kattiṉāṉ niṉṟē
+   ceṅkaṉṉa muṭaiyōṉ ceṟinīrk kuṟukkāy:
+   "evaratu paṭaku irumnīrc celvatu?
+   evaratu kappal eṟitirai mitappatu?"
+   paṭakiṉ maṉitar pakarntaṉar ivvitam
+   attuṭaṉ arivaiyar aḷittaṉar maṟumoḻi:
+   "yārap pānī naḷirvaṉam vacippavaṉ
+   ceṟikāṉ marattiṭait tiriyum nāyakaṉ, 370
+   intap paṭakainī iṉitaṟin tilaiyā?
+   vaiṉō nāṭṭiṉ vaṉpaṭa kuṇarntilai?
+   vaṉcuk kāṉamar māṉuṭa ṉaṟintilai?
+   tuṭuppiṉ pakkat tiruppoṉait terintilai?"
+   kuṟumpaṉ lemmiṉ kaiṉaṉ kūṟiṉaṉ:
+   "cukkāṉ piṭippavaṉ ippō taṟikiṟēṉ
+   kāṇkiṟēṉ tuṭuppuk kāraṉaik kūṭa
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   cukkāṉ piṭippavaṉ niccaya mavaṉē
+   tuṭuppai valippavaṉ turitail mariṉaṉ; 380
+   maṉitarkāḷ, āyiṉum vaḻiccelal eṅkō
+   payaṇam evviṭam payaṇanā yakarkāḷ?"
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "kaṭaṟpira yāṇam vaṭapulam nōkki
+   uyara eḻuntiṭum nuraikaḷai nōkki
+   nuraittu eḻukiṉṟa alaikaḷai nōkki;
+   muyaṉṟucam pōpeṟum muyaṟcimēṟ koḷḷa
+   oḷirum mūṭiyai uvantē pārttiṭa
+   vaṭanilak kuṉṟiṉ maṇimuka ṭataṉmēl
+   ceppiṉā lamainta cemmalaik kuḷḷē." 390
+   kuṟumpaṉ lemmiṉ kaiṉaṉ kūṟiṉaṉ:
+   "ōkō, mutiya vaiṉā moyiṉaṉē!
+   eṉṉaiyum ēṟpā yiṅkoru maṉitaṉnāṉ
+   mūṉṟām nāyaka ṉāymuṉain tiruppēṉ
+   campō peṟaṟkut tāṉcela lāṉāl
+   pirakāca mūṭiyum koṇarvatā yiruntāl,
+   eṉṉaiyum attuṭaṉ eṇṇalām maṉitaṉāy
+   pōroṉṟu nērntu porupaṅ kēṟpatēl
+   eṉkaraṅ kaḷukkunāṉ iṭuvēṉ kaṭṭaḷai
+   āṇaiyum iṭuvēṉ akaleṉ tōṭkum." 400
+   nilaipeṟum mutiya vaiṉā meyiṉaṉ
+   maṉitaṉaic cērttāṉ vaḷartaṉ payaṇam
+   eṭuttāṉ kuṟumpaṉai iṉitutaṉ tōṇiyuḷ;
+   kuṟumpaṉ lemmiṉ kaiṉaṉ avaṉē
+   avviṭam vantaṉaṉ ativirai naṭaiyil
+   tōṇiyil ēṟat toṭaṅkiṉaṉ viraivāy
+   taṉṉuṭaṉ palakaiyum tāṉcila koṇarntāṉ
+   vaiṉā moyiṉaṉiṉ vaṉtō ṇiyiṉuḷ.
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "eṉṟaṉ tōṇiyil iruppaṉa maraṅkaḷ 410
+   paṭakil pōtiya palakaikaḷ uḷḷaṉa
+   tiṟamiku tarattil niṟaiyavē uḷḷaṉa
+   ēṉiṅku vaittaṉai ēṟṟauṉ palakai
+   ēṉati karittāy ippaṭa kiṉniṟai?"
+   kuṟumpaṉ lemmiṉ kaiṉaṉ kūṟiṉaṉ:
+   **"kavaṉippup paṭakaik kavaḻkkamāṭ ṭātu
+   **vaikkōṟpō rātārak kaṭṭaicin tātu;
+   vaṭapulak kaṭalil vaḻakkamāy nikaḻvatu
+   paṭakiṉ palakaiyaip paṭarkāl kēṭpatu
+   kēṭpatu etirkāl ōṭap pakkamē." 420
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "ataṉā lētāṉ amarkkeḻum tōṇiyiṉ
+   neñcunal lirumpāl nimirttap paṭṭatu
+   muṉṉaṇi urukkāl mūṭṭap paṭṭatu
+   ataṉaik kāṟṟuvan aṭittēkā tirukka
+   eṭutteṟi yātu irukkavan tataippuyal."
+     __________________________________________________________________
+
+  pāṭal 40 - vaiṉāmoyiṉaṉiṉ kantalē eṉṉum yāḻ
+  [16]*
+     __________________________________________________________________
+
+   aṭikaḷ 1 - 94 : campōvaip peṟuvataṟku vanta payaṇattiṉ pōtu
+   paṭaku oru nīrvīḻcciyiṉ kīḻ vantu oru periya kōlācci mīṉiṉ
+   mutukil taṭaipaṭṭu niṟkiṟatu.
+   aṭikaḷ 95 - 204 : avarkaḷ anta mīṉaik koṉṟu ataṉ perum
+   pakutiyait tōṇikkuḷ eṭuttu uṇavu camaittu uṇkiṟārkaḷ.
+   aṭikaḷ 205 - 342 : anta mīṉiṉ alaku elumpiliruntu
+   vaiṉāmoyiṉaṉ 'kantalē' eṉṉum oru yāḻicaik karuviyaic
+   ceykiṟāṉ. anta yāḻai mīṭṭap palar muyaṉṟu tōṟṟu tōlvi
+   aṭaikiṟārkaḷ.
+     __________________________________________________________________
+
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   piṉṉar viraivāyp perumpaṭa kōṭṭiṉaṉ
+   kāṇuman nīṇṭa kaṭalmuṉai yiruntu
+   vaṟiya kirāma valloli yiruntu;
+   pāṭikkoṇṭē paṭarntaṉaṉ nīril
+   akaḻmakiḻ vōṭu alaiyil ceṉṟaṉaṉ.
+   kaṭalmuṉai nuṉiyil kaṉṉiyar iruntaṉar
+   kaṇṭaṉar ivaṉaik kātil kēṭṭaṉar:
+   "kaṭalilē celvatu kaḷippuṭaṉ etaṉāl
+   paṭaralai mītu pāṭalum etaṟku 10
+   muṉṉaraik kāṭṭilum mūṇṭapēr makiḻcci
+   ēṉaiya pāṭṭilum iṇaiyilāp pāṭṭu?"
+   mutiya vaiṉā moyiṉaṉ ceṉṟaṉaṉ
+   tarainīrp pakkamāy orunāḷ ceṉṟaṉaṉ
+   cēṟṟu nīrilē ceṉṟaṉaṉ aṭutta nāḷ
+   mūṉṟām nāḷnīr vīḻccinīrc ceṉṟaṉaṉ.
+   kuṟumpaṉ lemmiṉ kaiṉaṉu māṅkē
+   mantirac colcila maṉatiṉil niṉaittāṉ
+   nērāy iraintupāy nīrvīḻc cippuṟam
+   puṉita aruvinīrp pukucuḻip puṟattē; 20
+   iṉivarum coṟkaḷil ivvitam coṉṉāṉ
+   inta moḻikaḷil ivvitam moḻintāṉ:
+   "niṟuttu, nuraippatai nīrvīḻc ciyēnī!
+   viṟaluṭai nīrē niṟuttu, perukkam!
+   nīriṉ naṅkaiyē, nimirnuraip peṇṇē!
+   nīrirain tōṭum neṭuṅkal lamarka!
+   nīrirain tōṭum pāṟaikku varuka!
+   puyaṅkaḷāl aṇaittu puṉalalai niṟuttu!
+   karaṅkaḷāl avaṟṟaik kaṭṭi yamarttu!
+   kaiyiṉāl nuraiyaik kaṭṭup paṭuttu! 30
+   paṭarumeṉ mārpavai pāyā tirukka!
+   ceṉṉiyil taṇṇīr teṟiyā tirukka!
+   alaiyiṉ aṭivāḻ arummutu mātē!
+   varupuṉal nuraiyil vāḻum peṇṇē!
+   nuraiyiṉ mēṟkaram varamē leḻuvāy
+   alaikaḷai mārpuṭaṉ taḻuvi eḻuvāy
+   nīriṉ nuraiyai nēroṉ ṟamaikka
+   nuraiyuḷa tiraiyai nalvaḻi naṭatta
+   navaiyaṟ ṟōrai avaitāk kāmal
+   piḻaiyaṟ ṟōraip perituruṭ ṭāmal! 40
+   āṟṟiṉ naṭuvil amainta kaṟkaḷum
+   nīrnurait tōṭum nimirntuyar pāṟaiyum
+   tattam neṟṟiyait tāḻtti niṟkaṭṭum
+   kuṉintu talaikaḷai naṉitāḻt taṭṭum
+   cenniṟap paṭaku cellum pātaiyil
+   **tāruṇ tōṇi tāṉpōm vaḻiyil!
+   ituvum pōtā tiṉṉamu meṉṟāl,
+   **cilaivalu makaṉē, tikaḻkaṟ ṟalaivā!
+   tuḷaikaru viyāloru tuvāram amaippāy
+   tuṟappaṇam koṇṭoru toṭupuḻai yamaippāy 50
+   nīrvīḻ pāṟaiyiṉ nērnaṭu viṭattil
+   koṭiya pāṟaiyiṉ iṭamoru pakkam
+   taṭaiyetu miṉṟip paṭakatu ceṉṟiṭa
+   cētama tiṉṟiyē ceṉṟiṭat tōṇi!
+   ituvum pōtā tiṉṉamu meṉṟāl,
+   taṇṇīrt talaivaṉē, taṇṇīr vāḻvōy!
+   pāṟaikaḷ aṉaittaiyum pācika ḷākku
+   māṟṟutō ṇiyaikkō lācciyiṉ **nuraippai
+   naṭuvāyp paṭaku nakarntiṭa nuraiyil
+   uyarnteḻum alaikaḷiṉ ūṭāyp pōka! 60
+   nīrvīḻc ciyilvāḻ nēriḻāy, kēṭpāy!
+   aruviyiṉ arukē amarntuḷḷa kaṉṉi!
+   nūloṉṟu ciṟappāy nūṟpā yippō
+   ciṟappu mikuntiṭum caṇaṟpan tiruntu
+   nīriṉuṭ celāvāy niṉatunū luṭaṉē
+   nīlniṟa nūluṭaṉ nimiralaic celvāy
+   annūl vaḻiyāy empaṭa kēkiṭa
+   tāruṇ mārpuṟu taṉippaṭa kēka
+   carācari aṟivē tāṉuḷa maṉitaṉum
+   aṉṉiya ṉāyiṉum avvaḻic cella! 70
+   tuṭuppiṉ talaiviyē, tūyaaṉ puṭaiyaḷē!
+   iṉtuṭup pataṉai niṉkarat teṭuppāy
+   atāṟcuk kāṉai ariṅkaip piṭippāy
+   mayakkum aruviyiṉ vaḻiyū ṭēkiṭa
+   lāppumān tirīkaṉiṉ ikkuṭil kaṭantu
+   mantira vātiyiṉ vaṉcā ḷarakkīḻ!
+   ituvum pōtā tiṉṉamu meṉṟāl,
+   ō,mutu maṉitā, uyarcork kanātā!
+   cukkāṉ tāṅku toṭarntuṉ vāḷiṉāl
+   uruviya vāḷāl ūkkamāy naṭattu 80
+   payaṇit tēkap parumarap paṭaku
+   tāruviṉ paṭaku tāṉtoṭarn tēka!"
+   mutiya vaiṉā moyiṉaṉ avaṉtāṉ
+   celuttiṉaṉ viraivāyc celpaṭa ketirē
+   nīrppā ṟainaṭu nērāyc celuttiṉaṉ
+   celuttiṉaṉ uyarntu ceṟinurai nīrnaṭu
+   marappaṭa kiṭaiyil vantuniṟ kavumilai
+   takumaṟi ñaṉiṉkalam taṭṭavu milaittarai.
+   anta iṭattē avaṉvan taṭaintatum
+   akaṉṟu paranta annīrp parappilē 90
+   niṟuttiṟ ṟōṭam nikaḻntataṉ ōṭṭam
+   viraintē kuvatai viṭṭatu paṭaku;
+   taraitaṭ(ṭi) iṟukit taṅkiṟ ṟōṭam
+   ōṭam niṉṟatu ōracai viṉṟiyē.
+   antak kollaṉ avvil mariṉaṉ
+   kuṟumpaṉ lemmiṉ kaiṉaṉ aṭuttavaṉ
+   aḻuttiṉaṉ valikkum āḻkaṭal tuṭuppai
+   tāruviṉ tuṭuppait taṇṇīr alaiyil
+   taṭaipaṭṭa paṭakait taḷḷum muyaṟciyil
+   iṟukiya tōṇiyai iḷakkum muyaṟciyil; 100
+   āyiṉum paṭaku atuvirain tilatu
+   marattiṉ paṭaku vaḻinaṭan tilatu.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "ō,nī kuṟumpā, lempiyiṉ maintā!
+   cāyntoru pakkam pārppāy appuṟam
+   taṭaipaṭu tōṇi tarittatu etileṉa
+   etilē yōṭam iṟukiniṟ kiṟateṉa
+   virintu parantaviv viyaṉnīrp parappil
+   nīṇṭu kiṭakkum neṭunīrp parappil 110
+   atuetu kallā allatu kaṭṭaiyā
+   allatu vēṟetum aṭaivaḻit taṭaiyā?"
+   kuṟumpaṉ lemmiṉ kaiṉaṉ avaṉē
+   caṟṟup pārkkat tāṉē tirumpiṉaṉ
+   paṭakiṉ kīḻppuṟam pārvaiyaic celuttiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "paṭaku taṭaiyuṟal pāṟaiyil alla
+   pāṟaiyi lalla paṭumarat talla
+   tōṇikō lācci mīṉiṉ tōḷilē
+   nīrnāy oṉṟataṉ nīḷvaḷai mutukilē." 120
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "āṟṟilē irukkum atuvetu eṉṟāl
+   kōlācci yākalām kaṭṭaiyā yirukkalām;
+   irukkiṟōm kōlācci irumtōḷ eṉṟiṭil
+   nīrnāy vaḷainta nīḷmutu kiṉileṉil
+   nīriṉai vāḷāl nērāyk kiḻittiṭu
+   piḷantiru tuṇṭāyp peyarttiṭu perumīṉ!"
+   kuṟumpaṉ lemmiṉ kaiṉaṉ avaṉē
+   paiyaṉ cenniṟap paṭupōk kiripiṉ 130
+   paṭṭiyi liruntu paruvā ḷuruviṉaṉ
+   elumpai **aḻippatai ikalpak kattirun(tu);
+   nīriṉai vāḷāl nērāyk kiḻittaṉaṉ
+   pakkat tiṉkīḻp pāycci iḻuttaṉaṉ
+   appō nīril avaṉē vīḻntaṉaṉ
+   alaikaḷiṉ aṭiyil āḻntē ceṉṟaṉaṉ.
+   ataṉpiṉ kollaṉ avaṉil mariṉaṉ
+   vīraṉiṉ talaimayir mītilē paṟṟi
+   **vēlaiyi liruntu mēlē tūkkiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē: 140
+   "aṉaivarum māṉuṭar ākkap paṭṭaṉar
+   tāṭi uṭaiyarāy ākkap paṭṭaṉar
+   uṉṉip pārttāl orunū ṟākalām
+   āyira mākavum atuniṟai vākalām."
+   paṭṭiyi liruntu paruvā ḷuruviṉaṉ
+   uṟaiyiṉi liruntu uyarirum palakiṉai
+   ataṉāl mīṉai aṟaintāṉ ōṅki
+   paṭakiṉ pakkamāyp palamāy vīciṉaṉ:
+   uṭaintatu tukaḷāy uṭaṉē avvāḷ
+   uṇarntatā yillai uṟumīṉ etaiyum. 150
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "maṉitaril pātiyum vāyttila tuṉṉiṭam
+   vīraṉil mūṉṟilōr paṅkumē yilaiyē.
+   avaciyam eṉaoṉ ṟāyiṭum poḻutil
+   naṉimā ṉuṭaṉmaṉam nāṭiṭum pōtil
+   appō maṉamum alainteṅ kōpōy
+   kavaṉamum citaṟik kaṭantucel lalumuḷa."
+   appō(tu) vāḷai avaṉē uruviṉaṉ
+   kaṭuṅkūr alakaik kaiyiṟ paṟṟiṉaṉ 160
+   tiṇittaṉaṉ vāḷaic ceṟikaṭa lukkuḷ
+   pakka vaḻiyāyp paṇittataik koṇarntāṉ
+   vāḷkō lācci vaṉtōṭ putaittāṉ
+   nīrnā yataṉiṉ nīḷvaḷai mutukil.
+   taittatu vēkamāyt taṉivāḷ iṟaṅki
+   mūccup puḻaiyil mūrkkamāyc ceṉṟatu;
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   uyarat tūkki uṟumīṉ koṇarntāṉ
+   nīrirun tiḻuttāṉ neṭuṅkō lācciyai
+   iraṇṭāy uṭaittaṉaṉ iruṅkō lāccimīṉ 170
+   aṭiyiṉil tāḻntatu ammīṉ vālō
+   ataṉ talaippakkam mitantatu paṭakil.
+   ataṉpiṉ paṭakum akaṉṟiṭa muṭintatu
+   taṭaiyi liruntatu tāṉviṭu paṭṭatu;
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   pāṟait tīviṭaip paṭakaik koṇarntu
+   karaimaruṅ kataṉaik kaṭṭi niṟuttiṉaṉ
+   ataṉaip pārttaṉaṉ ataṉait tiruppiṉaṉ
+   kōlāc cimīṉ koḻuntalaip pakkam
+   intac coṟkaḷil iyampiṉaṉ avaṉē: 180
+   "māppiḷḷai māril vaḷarmutir vevarō
+   avarkō lācciyai ariyat takuntavar
+   mīṉaik kūṟu pōṭat takuntavar
+   ceṉṉiyait tuṇṭāyc cīviṭa vallavar."
+   paṭakiṉ maṉitar pakarntaṉar ivvitam
+   pakkat tirunta pāvaiyar kūṟiṉar:
+   "mīṉaip piṭittavar viyaṉkaram iṉiyavai
+   mīṉaik koṇṭavar viralkaḷum puṉitam."
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uruviṉaṉ kattiyai uṟaiyiṉi liruntu 190
+   kuḷirnta irumpaik kūṭṭiṉi liruntu
+   kōlāc cimīṉ koṇṭatāṟ piḷantāṉ
+   veṭṭiṉaṉ tuṇṭu tuṇṭatāy mīṉai
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "arivaiyil iḷamaiyāy āṉavaḷ evaḷō
+   avaḷē mīṉai ākkat takuntavaḷ
+   kālai uṇavāyk kaḷittuṇ pataṟkāy
+   mīṉuḷḷa naṇpakal vēḷai uṇavāy."
+   melliyar vantaṉar mīṉaic camaikka
+   pōṭṭiyāy viraintu pōntaṉar patiṉmar 200
+   ataṉpiṉ mīṉum ākki muṭintatu
+   kālai uṇavāyk kaḷittuṇaṟ kāka;
+   ciṟcila elumpukaḷ kaṟkaḷil kiṭantaṉa
+   iṉṉum ciṟcila iruntaṉa pāṟaiyil.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   aṅkē vantu avaṟṟaip pārttāṉ
+   avaṟṟaip pārttāṉ avaṟṟait tiruppiṉāṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "ivaṟṟi liruntu evaṟṟaic ceyyalām
+   ikkō lācci mīṉiṉ eyiṟṟiṉil 210
+   inta akaṉṟa alakiṉ elumpil
+   kollaṉiṉ karumak kūṭat tiruntāl
+   kaiviṉai yāḷaṉiṉ ceytalat tiruntāl
+   kaitēr kalaiñaṉiṉ kaiyil iruntāl?"
+   kollaṉil mariṉaṉ kūṟiṉaṉ iṅṅaṉam:
+   "veṟumaiyi liruntu etuvum varātu
+   karuvi varātumīṉ elumpiṉi liruntu
+   kollaṉiṉ karumak kūṭat tiruppiṉum
+   kaiviṉai yāḷaṉiṉ ceytalat tiruppiṉum
+   kaitēr kalaiñaṉiṉ kaiyil iruppiṉum." 220
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "itaṉilē yiruntu ētēṉum varalām
+   mīṉelum piruntu viḷaiyalām *kantalē
+   iyaṟṟat terintavar evareṉu miruntāl
+   elumpicaik karuvikaḷ iyaṟṟat terintāl."
+   ceyya vallavar ceyyamuṉ varāviṭam
+   illāta pōtiṉil iyaṟṟat terintavar
+   elumpicaik karuvi iyaṟṟat terintavar,
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ 230
+   tāṉē ceypavaṉ ākamuṉ vantaṉaṉ
+   iyaṟṟat terintavaṉ iṭattaip peṟṟaṉaṉ
+   kōlāc celumpu koṇṭuyāḻ ceytaṉaṉ
+   eṉṟumē nilaikkum icaiyamu tīntaṉaṉ.
+   kantalē kīḻppuṟam entavā ṟamaintatu?
+   periyakō lācciyiṉ perumala kelumpiṉāl;
+   kantalē muḷaikaḷ entavā ṟamaintaṉa?
+   kōlāc cimīṉiṉ kūriya paṟkaḷāl;
+   kantalē narampukaḷ entavā ṟamaintaṉa?
+   vīriya maṭakkiya **viṟaṟpicā curōmamāl. 240
+   ippō(tu) yāḻum iṉiturup peṟṟatu
+   tayārnilai peṟṟatāyt tavaḻntatu kantalē
+   periyamīṉ elumpilē piṟantanal yāḻatu
+   mīṉala kelumpilē viḷaintayāḻ kantalē.
+   iḷamai māṉuṭar eḻuntē vantaṉar
+   vivāka mākiya vīrarum vantaṉar
+   vālipak kāḷaikaḷ maṟṟāṅku vantaṉar
+   ciṟiya peṇkaḷum ciṟappuṭaṉ vantaṉar
+   iḷaṅkaṉ ṉiyaroṭu itamutu maṉaiviyar
+   mattima vayatuṟu maṅkaiyar vantaṉar 250
+   kantalē yāḻiṉaik kāṇpataṟ kākavē
+   yāḻicaik karuviyai āyntiṭaṟ kākavē.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   iḷaiyōrk kiyampiṉaṉ mutiyōrk kiyampiṉaṉ
+   mattima vayatuḷa makkaḷuk kiyampiṉaṉ
+   viralkaḷāl yāḻiṉai mīṭṭavē iyampiṉaṉ
+   elumpiṉāl ākiya narampicaik karuviyai
+   kaḻivumī ṉelumpeḻum kantalē yāḻiṉai.
+   icaittaṉar iḷaiyōr icaittaṉar mutiyōr
+   mattima vayatu஧tuṟu makkaḷum icaittaṉar 260
+   vālipar icaittaṉar vaḷaintaṉa viralkaḷ
+   mutiyavar icaittaṉar muṉtalai naṭuṅkiṉa
+   iṉpam iṉpamāy iyaiyavē yillai
+   yāḻicai icaiyāy nalamtara villai.
+   kuṟumpaṉ lemmiṉ kaiṉaṉ kūṟiṉaṉ:
+   "araikuṟaip putti yamaintapai yaṉkaḷnīr
+   attuṭaṉ mūṭat taṉamamai maṅkaiyar
+   maṟṟayōr eḷiya kuṇamuṭai makkaḷ.
+   uṅkaḷil icaippavar oruvaru millai
+   cariyāy icaikkat takuntavar illai; 270
+   eṉṉiṭam yāḻai eṭuttuvā ruṅkaḷ
+   kantalē yāḻaic cumantuvā ruṅkaḷ
+   eṉmuḻaṅ kālkaḷ iraṇṭiṉ mītiṉil
+   eṉviral pattiṉ iyaintiru nuṉiyil!"
+   kuṟumpaṉ lemmiṉ kaiṉaṉ piṉṉar
+   karaṅkaḷil peṟṟaṉaṉ kantalē yāḻai
+   iruntatu avaṉuk kicainalam arukil
+   yāḻatu viralkaḷiṉ kīḻē iruntatu;
+   toṭaṅkiṉaṉ ēṟṟat toṭuyāḻc curutiyai
+   tiruppiṉaṉ cuṟṟit tikaḻkan talēyāḻ 280
+   āyiṉum yāḻiṉil icaiyeḻa villai
+   icainalam etuvum ēṟpaṭ ṭilatē.
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "inta iḷaiñaril evarumē illai
+   evarumē illai itilvaḷar vōril
+   evarumē illai immuti yōrilum
+   inta yāḻiṉai icaikkat terintavar
+   icaiyiṉ pampaṭait tiṉpam tarupavar;
+   orukkāl vaṭapulam uḷōrāl muṭiyalām
+   inta yāḻiṉil icaiyiṉai eḻuppa 290
+   icaiyiṉ pampaṭait tiṉpam nalkiṭa
+   itaṉai vaṭapāl irukkunā ṭaṉuppiṉāl?"
+   vaṭapāl nilattuk kuṭaṉyāḻ aṉuppiṉaṉ
+   cariyolā vukkut taṉyāḻ koṇarntaṉaṉ
+   vaṭapula nilattiṉar vālipar icaittaṉar
+   vālipar icaittaṉar vaṉitaiyar icaittaṉar
+   maṉitarkaḷ icaittaṉar maṉaiviya ruṭaṉē
+   kōtaiyar icaittaṉar koḻuṉarō ṭicaittaṉar
+   tamtam vīṭṭiṉ talaiviyar icaittaṉar
+   ivvitam tiruppiṉar avvitam muyaṉṟaṉar 300
+   vācikka muyaṉṟaṉar valiyatam viralkaḷāl
+   viralkaḷōr pattiṉ ukirkaḷā licaittaṉar.
+   vaṭapulam vāḻum vālipar icaittaṉar
+   maṟṟel lāvakai makkaḷum icaittaṉar
+   eṉiṉum iṉpam iṉpamā yilaiyē
+   curutiyum aṅku cuttamā yilaiyē:
+   oṉṟuṭaṉ oṉṟu narampukaḷ cikkiṉa
+   pariyataṉ **caṭaimayir piṉṉiyē muṟukiṉa
+   ōcaiyum avalamā yuṭaṉeḻa lāṉatu
+   kuṟittayāḻk karuviyum kōramā yolittatu. 310
+   mūlaiyil tuyiṉṟaṉaṉ pārvai yiḻantavaṉ
+   vayōtipaṉ oruvaṉ maṉaiyeṭup pōramāy
+   aṭupparu kuṟaṅkiya avaṉāṅ keḻuntaṉaṉ
+   aṭukkaḷaip pakkamāy amarntavaṉ uraittaṉaṉ
+   uṟaṅkiya iṭattilē uṟumat toṭaṅkiṉaṉ
+   mūlaiyil kiṭantōṉ muṉakat toṭaṅkiṉaṉ:
+   "niṟuttuka icaippatai niṟuttuka olippatai,
+   oḻikkuka, ittoṭu uṭaṉē niṟuttuka,
+   uḷaeṉ cevikaḷai ūṭaṟut tēkiṟa(tu)
+   talaiyait tuḷaittut tarukiṉ ṟatutuyar 320
+   urōmam cilirttu uyarnteḻu kiṉṟatu
+   neṭumpoḻu tuṟakkam niṟuttivaik kiṉṟatu.
+   piṉlāntu makkaḷiṉ pēricaik karuvi
+   icainalam eḻuppa iyalātē viṭiṉ
+   tālāṭ ṭittuyil tarāta vēḷaiyil
+   ōyvāy iruttaṟ kutavāp pōtiṉil
+   tūkki vīcuka toṭarpuṉal ataṉai
+   alaikaḷiṉ aṭiyil āḻat tiṭuka
+   allatu mīṇṭum ataiyeṭut tēkuka
+   yāḻiṉait tiruppi naṉiyaṉup piṭuka 330
+   ataṉaip paṭaitta ammā ṉuṭaṉkaram
+   ataṉai icaikkum ammā ṉuṭaṉviral."
+   yāḻicaik karuvitaṉ nāvāl naviṉṟatu
+   coṟkaḷil kantalē colliya tivvitam:
+   "irumnīr celnilai iṉṉamum nāṉilai
+   nīralai mūḻkiṭum nilaiyilum nāṉilai
+   icaippavaṉ kaikaḷil icaiyiṉait taruvēṉ
+   muyaloru vaṟku mūṭṭuvēṉ icainalam."
+   koṇṭē ceṉṟaṉar kuṟittataik kavaṉamāy
+   aḻakāy ataṉai avarcuman tēkiṉar 340
+   ataṉaip paṭaitta ammā ṉuṭaṉkaram
+   iyaṟṟiya maṉitaṉiṉ iyaimuḻaṅ kāṟkē.
+     __________________________________________________________________
+
+  pāṭal 41 - vaiṉāmoyiṉaṉ kantalē eṉṉum yāḻai icaittal
+  [17]*
+     __________________________________________________________________
+
+   aṭikaḷ 1 - 168 : vaiṉāmoyiṉaṉ kantalē eṉṉum yāḻai icaikkiṟāṉ.
+   anta icaiyaik kēṭka ākāyam nilam nīr ākiyavaṟṟil vāḻum cakala
+   uyiriṉaṅkaḷum viraintu vantu kūṭukiṉṟaṉa.
+   aṭikaḷ 169 - 266 : yāḻicaiyaik kēṭṭa ellōratu itayaṅkaḷum
+   niṟaikiṉṟaṉa. avarkaḷiṉ kaṇkaḷiliruntu kaṇṇīr vaṭikiṟatu.
+   vaiṉāmoyiṉaṉiṉ kaṇkaḷil iruntum kaṇṇīr vaṭikiṟatu;
+   aṅṅaṉam vaḻinta kaṇṇīr taṇṇīruḷ vīḻntu aḻakāṉa nīlaniṟa
+   muttukaḷāka māṟukiṉṟaṉa.
+     __________________________________________________________________
+
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   eṉṟumē nilaitta icaippā ṭakaṉavaṉ
+   āyattam ceytaṉaṉ ariyataṉ viralkaḷai
+   tēyttup peruviral āyatta māyiṉaṉ;
+   kaḷippu eṉṉum kallil amarntaṉaṉ
+   pāṭal eṉṉum pāṟaiyil iruntaṉaṉ
+   veḷḷiyil āṉa viyaṉvarai muṭiyiṉil
+   taṅkattil āṉa taṉikkuṉ ṟucciyil.
+   viralkaḷai vaittaṉaṉ viyaṉyāḻk karuviyil
+   vaḷainta karuviyai muḻaṅkāṟ ṟiruppiṉaṉ 10
+   kantalē yāḻaik karaṅkaḷiṉ kīḻē
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "ippō vantel lōrum kēṭkalām
+   muṉṉoru pōtum muyaṉṟukē ḷātavar
+   nittiyap pāṭaliṉ niṟaintaviṉ pattai
+   kantalē yāḻataṉ kaṉivām ōcaiyai."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   mīṭṭat toṭaṅkiṉaṉ viyaṉeḻil yāḻai
+   kōlācci **eṉpiṉ kuṇayāḻk karuviyai
+   kaṭalmīṉ elumpiṉ kantalēk karuviyai; 20
+   viraivāy eḻuntaṉa viralkaḷ aṉaittum
+   peruviral acaintatu piṟantayā ḻataṉmēl.
+   iṉpamip pōtu iṉpamāy malarntatu
+   āṉanta mippō āṉanta māṉatu
+   iṉpicai yippō iṉpicai yāṉatu
+   pāṭalkaḷ niṟainta pāṭalkaḷākiṉa;
+   kōlācci eyiṟukaḷ kuṇavicai yeḻuppiṉa
+   mīṉataṉ vālum mikuvoli tantatu
+   puraviyiṉ caṭaimayir putuppaṇ icaittatu
+   kutiraiyiṉ urōmam koḻumicai tantatu. 30
+   mutiya vaiṉā moyiṉaṉ icaittaṉaṉ
+   aṅkē kāṭṭil amarntoṉ ṟillai
+   nāṉku kālkaḷil naṉivirai piṟavikaḷ
+   toṭukāl ūṉṟit tuḷḷit tiripavai
+   vaṉappicai kēṭṭu makiḻa varātavai
+   iṉṉicai kēṭṭu iṉpuṟa varātavai.
+   aṇilkaḷ ōṭiṉa aṭaintaṉa ōṭi
+   taḷiruḷa kiḷaiyāl taḷiruḷa kiḷaikku
+   kūṭiṉa **kīrikaḷ kūṭic cērntaṉa
+   vēlikku vantaṉa vēliyil amarntaṉa 40
+   pāyntatu **erutu pacumpul mēṭṭil
+   tuḷḷiṉa **civiṅkikaḷ tuḷḷi makiḻntaṉa.
+   uṭaṉcatup puṟaṅkiya ōnāy eḻuntatu
+   nimirntatu puṟṟarai mēlnilak karaṭi
+   **tēva tāruviṉ ceḻuṅkukai yiruntu
+   **tāru marattut taṉipputa riruntu;
+   ōnāy neṭuntolai ōṭiyē vantatu
+   amputark karaṭi alaintē tirintatu
+   kaṭaiciyāy vēliyil karaṭi yamarntatu
+   vāyiṉ katavavai varicaiyāy iruntaṉa; 50
+   vēli oṭintu vīḻntatu pāṟaiyil
+   kāṭṭu veḷiyil katavam kaviḻntatu;
+   aṉaittum **tāru aṇimarat tēṟiṉa
+   ataṉpiṉ tēva **ratāruvil māṟiṉa
+   icaiyaik kēṭṭu iṉpuṟaṟ kāka
+   icaiyiṉ pattai iṉitē nukara.
+   tappiyō lāviṉ taramuṭait talaivaṉ
+   avaṉē vaṉaṅkaḷiṉ atipati yāvāṉ
+   tappiyō iṉattaic cārntamān tarkkelām
+   vālipar vaṉitaiyar vakaiyiru pāṟkum, 60
+   mutukuṉ ṟēṟi muṭikkuc ceṉṟaṉaṉ
+   maṅkaḷa icaiyai maṉattaṉu pavikka;
+   avaḷē vaṉaṅkaḷ aṉaittiṉ talaivi
+   tappiyō lāviṉ taramuṟu maṉaivi
+   nīlak kāluṟai neṭitaṇin tiruntaṉaḷ
+   civappuc carikaiyaic cīrāyc cūṭiṉaḷ;
+   milāṟuviṉ kūṉiya viyaṉkiḷait tāviṉaḷ
+   vēṟoru **marattiṉ miḷirvaḷai viruntaṉaḷ
+   kantalē yāḻiṉ kaṉivicai kēṭka
+   maṅkaḷa icaiyai maṉamaṉu pavikka. 70
+   nīlavā ṉattu nīntupuḷ ḷiṉamelām
+   iraṇṭu ciṟakuḷa ellāp paṟavaiyum
+   vantaṉa paṟantu vāṉmicaic cuḻaṉṟu
+   viraivāy vantaṉa vēkam koṇṭaṉa
+   icaiyiṉaik kēṭṭu iṉpuṟaṟ kāka
+   icaiyiṉ pattai iṉitē nukara.
+   vīṭṭilē kaḻukukaḷ kēṭṭapō tiṉilē
+   piṉlāntu nāṭṭiṉ pēriṉ ṉicaiyiṉai
+   kuñcukaḷ ṉaittaiyum kūṭṭiṉil viṭṭē
+   tāmē paṟantu taṉittuc ceṉṟaṉa 80
+   iṉiya nāyakaṉ iṉṉicai kēṭka
+   vaiṉā moyiṉaṉiṉ vaṉappicai kēṭka.
+   uyarat tiruntu paṟantatu kaḻuku
+   karuṭaṉ karumukiṟ kaṇattiṉū ṭāka
+   eṟiyalai yaṭiyi liruntu**vāt tukkaḷ
+   uṟaiyāc cēṟṟirun tuyaraṉ ṉaṅkaḷ;
+   vantaṉa ciṟiya vaṉṉap **paṟavaikaḷ
+   kattik kīcciṭum kāṉak kuruvikaḷ
+   nūṟṟuk kaṇakkil nuṇciṟu **kuruvikaḷ
+   **vāṉam pāṭikaḷ varumō rāyiram 90
+   viṇṇilē niṉṟu mikukaḷip puṟṟaṉa
+   avaṉatu tōḷkaḷil aṭittup paṟantaṉa
+   iṉṉicai tantaiyār eḻuppiya pōtiṉil
+   vaiṉā moyiṉaṉ iṉṉicai tarukaiyil.
+   kāṟṟil iyaṟkaik kaṭimaka ḷavaḷē
+   kāṟṟiṉ pāvaiyar kaṉṉiyar attuṭaṉ
+   icaiyiṉ pattai iṉitē nukarntaṉar
+   kantalē yāḻaik kātāl kaḷittaṉar
+   orucilar vāṉat toṇvaḷai viruntaṉar
+   vāṉavil mītilum maṟṟuḷar amarntaṉar 100
+   orucilar iruntaṉar ciṟumukil mēlē
+   cenniṟa vaṉappoṭu miṉṉiya karaitaṉil.
+   nilaviṉ makaḷavaḷ nitaeḻiṟ kaṉṉi
+   ciṟappu mikunta ceṅkatir makaḷavaḷ
+   tāṅki yiruntaṉaḷ tāṉneca vaccai
+   ēnti yiruntaṉaḷ **ūṭiḻaik kayiṟṟai
+   neytukoṇ ṭiruntaṉar nikaril poṟṟuṇi
+   ceytukoṇ ṭiruntaṉar ciṟantaveḷ ḷittuṇi
+   cenniṟa mukiliṉ tikaḻmēl viḷimpil
+   vaḷainta nīṇṭa vāṉavil nuṉiyil. 110
+   avarkaḷ ataṉaik kēṭṭaap pōtilē
+   iṉiya icaiyiṉ iṉṉicai yoliyai
+   accuk kaippiṭi yatilnaḻu viṟṟu
+   vaḻuviṟ(ṟu) nuṉāḻi valiyakai yiruntu
+   aṟuntu vīḻntaṉa ampoṉ iḻaikaḷ
+   oṭintatu veḷḷi ūṭiḻaik kayiṟu.
+   illai aṅkē entap piṟaviyum
+   illainīr vāḻvaṉa etuvumē aṅku
+   āṟu **ciṟakil acaiyum pirāṇikaḷ
+   ciṟanta mīṉiṉak kaṇaṅkaḷ etuvumē 120
+   makiḻa varātavai vaṉappicai kēṭṭu
+   iṉpuṟa varātavai icainalam kēṭṭu.
+   nīntic ceṉṟaṉa neṭuṅkō lāccimīṉ
+   naṉṟāy nakarntunīr nāykaḷ vantaṉa
+   vañciram nīnti vantaṉa pāṟaiyil
+   āḻat tiruntuveṇ ṇaṇiniṟa mīṉkaḷum;
+   vantaṉa **ciṟumīṉ vantaṉa **veṇmīṉ
+   **ciṟumīṉ tammoṭu maṟumīṉ vantaṉa
+   nāṇaṟ puṟkarai naṉinēr vantaṉa
+   nakarntiṭam peṟṟaṉa naḷirnīrk karaiyil 130
+   vaiṉō pāṭalai makiḻvuṭaṉ kēṭka
+   maṅkaḷa icaiyai maṉamaṉu pavikka.
+   ahtō eṉpāṉ alaikaḷiṉ aracaṉ
+   puṟṟāṭi yuṭaiyōṉ polinīrt talaivaṉ
+   nīriṉ mēṟpuṟam nērāy vantaṉaṉ
+   ēṟi amarntaṉaṉ eḻilnīr āmpalil
+   aṅkē kēṭṭaṉaṉ arumicai yiṉpam
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "itupōl muṉnāṉ eṅkum kēṭṭilaṉ
+   vaḷarumiv veṉṟaṉ vāḻnāḷ muḻutum 140
+   vaiṉā moyiṉaṉ vaḻaṅkiya icaiyiṉai
+   nilaipeṟum pāṭakaṉ nikaril icainalam."
+   vaḷarcakō tariyavar, vāttiṉ **caktikaḷ
+   nāṇal puṟkaḷiṉ nalmait tuṉikaḷ,
+   kūntalai vārik koṇṭirun taṉartām
+   kuḻalaic cīvik koṇṭirun taṉartām
+   veḷḷip piṭikoḷ viyaṉvā riyiṉāl
+   poṉṉilē ceyta poṟcīp pataṉāl;
+   anniya māṉatōr aḻakoli kēṭṭaṉar
+   iṉitāy eḻunta icaiyiṉaik kēṭṭaṉar: 150
+   cīppu naḻuvic ceṟipuṉal viḻuntatu
+   vāri vaḻuvi vaḷaralai maṟaintatu
+   vārap paṭāmalē vaṟuṅkuḻa liruntatu
+   paiṅkuḻal cīvutal pātiyil niṉṟatu.
+   taṇṇī rukkut talaiviyum tāṉē
+   kōrainal mārpu koṇṭa kārikai
+   ippō teḻuntaṉaḷ iruṅkaṭa liruntu
+   alaikaḷiṉ aṭiyirun tavaḷē vantaṉaḷ
+   kōraip puṟkaḷiṉ kuvaimēl mitantaṉaḷ
+   orunīrp pāṟaik kuṭaṉē viraintaṉaḷ 160
+   kēṭpataṟ kāyak kiḷarnteḻu mōcai
+   vaiṉā moyiṉaṉ vaḻaṅkiya icaiyai
+   ēṉeṉil avvicai iṉiyaaṟ putamām
+   icaitta icaiyum iṉimaiyā ṉatuvām;
+   aṅkē avaḷum amaitiyā yuṟaṅkiṉaḷ
+   pāṟaiyil vayiṟu paṭiyat tūṅkiṉaḷ
+   orupira kācap peruṅkal mēṟpuṟam
+   taṭitta pāṟait taṉoru pakkamāy.
+   mutiya vaiyiṉā moyiṉaṉu māṅkē
+   icaittāṉ orunāḷ icaittāṉ irunāḷ 170
+   enta vīraṉum eṅkumē yillai
+   evaṉum vallāṉ eṉpavaṉ illai
+   maṉitaṉu millai maṅkaiyu millai
+   illaip piṉṉiya kūntalār evarumē
+   yārumē illai yaḻattoṭaṅ kātōr
+   oruvaru millai yuḷḷuru kātōr
+   aḻutaṉar iḷaiñar aḻutaṉar mutiyar
+   maṇammuṭi yāta maṉitarum maḻutaṉar
+   maṇammuṭit tirunta maṉitarum maḻutaṉar
+   pāti vaḷarnta paiyalkaḷ aḻutaṉar 180
+   paiyaṉ aḻutaṉar pāvaiyar aḻutaṉar
+   ciṟiya peṇkaḷum cērntē aḻutaṉar
+   ēṉeṉil avvicai iṉiyaaṟ putamām
+   mutiyōṉ icaiyum muḻuiṉi maiyatām.
+   vaiṉā moyiṉaṉām maṉitaṉi ṉiṭattum
+   kaṇkaḷili runtu kaṇṇīr vīḻntatu
+   viḻikaḷi liruntu viḻinīr vaḻintatu
+   uruṇṭatu nīrt tuḷi uruṇṭu vīḻntatu
+   paḻamciṟu **paḻattilum parumaṉ uḷḷatu
+   payaṟṟam **vitaiyilum taṭippa māṉatu 190
+   vaṉakkōḻi muṭṭaiyiṉ vaṭṭamā yāṉatu
+   periyatu tūkkaṇaṅ kuruvit talaiyilum.
+   viḻikaḷi liruntu viḻinīr vīḻntatu
+   oṉṟupiṉ oṉṟāy ōṭi vaṭintaṉa
+   ōṭi vaṭintaṉa utirntaṉa katuppiṉil
+   avaṉatu aḻakiya vataṉat tutirntaṉa
+   avaṉatu aḻakiya vataṉat tiruntu
+   akaṉṟa avaṉatu tāṭaiyil vīḻntaṉa
+   akaṉṟa avaṉatu tāṭaiyi liruntu
+   parutta avaṉatu marumat tutirntaṉa 200
+   parutta avaṉatu marumat tiruntu
+   uratta muḻaṅkā luṟṟē yuruṇṭaṉa
+   uratta muḻaṅkā luṟṟati liruntu
+   ciṟappā yamainta cīrpatam vīḻntaṉa
+   ciṟappā yamainta cīrpatat tiruntu
+   pātat tiṉkīḻp paṭimicai vīḻntaṉa
+   aintu kampaḷi aruñcaṭ ṭaiyūṭāy
+   āṟu poṉṉiṉ akalvār ūṭāy
+   ēḻunīl mārpu eḻiṟcaṭ ṭaiyūṭāy
+   eṭṭukaip pi(ṉ)ṉalmēṟ caṭṭaika ḷūṭāy. 210
+   uruṇṭatu nīrttuḷi uruṇṭē vīḻntatu
+   mutiya vaiṉā moyiṉaṉi liruntu
+   nīlak kaṭalataṉ nīḷkarai yōram
+   nīlak kaṭaliṉ nīḷkarai yiruntu
+   teḷinta nīrataṉ tikaḻā ḻattu
+   kaṟuttac cēṟṟiṉ kaṭumūṟ ṟiṉmēl.
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "iṅkuḷa iḷaiñar iṭaiyilē uḷarā
+   iṅkuḷa aḻakiya iḷaiñar mattiyil 220
+   inta māperum iṉattavar mattiyil
+   uyarpitā vaḻivaru putalvarkaḷ mattiyil
+   eṉviḻit tuḷiyeṭut tiṇaippavar ruḷarā
+   teḷinta nīrataṉ tikaḻaṭi yiruntu?"
+   ivvita maṅkuḷa iḷaiñar kūṟiṉar
+   mutiya maṉitarum moḻintaṉar maṟumoḻi:
+   "inta iḷaiñaril evarumē yillai
+   iṅkuḷa aḻakiya iḷaiñari lillai
+   māperu miṉattavar mattiyi lillai
+   uyarpitā vaḻivaru putalvari lillai 230
+   uṉviḻit tuḷikaḷai oruṅkucērp pavarkaḷ
+   teḷinta nīrataṉ tikaḻaṭi yiruntu."
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ
+   uraittāṉ avaṉē uraittāṉ ivvitam:
+   "eṉkaṇ ṇīrai evareṉum koṇarntāl
+   poṟukkic cērttāl poḻiviḻit tuḷikaḷai
+   teḷinta nīrataṉ tikaḻaṭi yiruntu
+   iṟakumē lāṭai eṉṉiṭam peṟuvar."
+   **aṇṭaṅ kākam aṭittuvan tatuciṟai
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ: 240
+   "kākkaiyē eṉṟaṉ kaṇṇīr koṇarvāy
+   teḷinta nīrataṉ tikaḻaṭi yiruntu!
+   iṟaku mēlāṭai īvēṉ uṉakku."
+   āyiṉum kākam atupeṟ ṟilatu.
+   nīlniṟa vāttu niṉṟataik kēṭṭatu
+   ātalāl nīlvāt taṅkē vantatu
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "nīlniṟa vāttē nīyō aṭikkaṭi
+   alakuṭaṉ aṭiyil āḻvatu muṇṭu
+   taṇṇīr mūḻkit tavaḻvatu muṇṭu; 250
+   eṉavē cērttuvā eṉṉuṭaik kaṇṇīr
+   teḷinta nīrataṉ tikaḻaṭi yiruntu!
+   taruvēṉ uṉakkunāṉ taramām vekumati
+   iṟakumē lāṭaiyai eṉṉiṭam peṟuvāy."
+   virinīr poṟukka viraintatu vāttu
+   vaiṉā moyiṉaṉiṉ kaṇṇīrt tuḷikaḷai
+   teḷinta nīrataṉ tikaḻaṭi yiruntu
+   cēṟṟiṉ kaṟutta ūṟṟiṉ mēṟpuṟam;
+   kaṭaliṉi liruntu kaṇṇīr eṭuttatu
+   vaiṉāviṉ kaikku vāttuk koṇarntatu: 260
+   avaivēṟu poruḷkaḷā yāki yiruntaṉa
+   aḻakām poruṭkaḷāy avaivaḷarn tiruntaṉa
+   muttukka ḷāyavai muṟṟi iruntaṉa
+   nittila māyavai nērntē yiruntaṉa
+   aracarai mēṉmai ākkutaṟ kāka
+   maṉṉarai eṉṟumē maṉamakiḻ vikka.
+     __________________________________________________________________
+
+  pāṭal 42 - vaṭanāṭṭiliruntu campōvait tiruṭutal
+  [18]*
+     __________________________________________________________________
+
+   aṭikaḷ 1-58 : mūṉṟu nāyakarkaḷum vaṭanāṭṭukku vantatum, campōvil
+   paṅku peṟat tām vantiruppatākavum, atu tavaṟiṉāl palātkāramākac
+   campō peṟappaṭum eṉṟum vaiṉāmoyiṉaṉ aṟivikkiṟāṉ.
+   aṭikaḷ 59 - 64 : vaṭanāṭṭut talaivi camātāṉamākavō palātkāramākavō
+   campōvai iḻakka virumpavillai. ataṉāl vaiṉāmoyiṉaṉ kuḻuviṉarai
+   etirkka vaṭanāṭṭu makkaḷai aḻaikkiṟāḷ.
+   aṭikaḷ 65 - 164 : vaiṉāmoyiṉaṉ taṉatu kantalē eṉṉum yāḻai eṭuttu
+   icaittu vaṭanāṭṭu makkaḷ aṉaivaraiyum uṟakkattil āḻttukiṟāṉ.
+   ataṉpiṉ vaiṉāmoyiṉaṉ taṉ tōḻarkaḷuṭaṉ campō irunta malaikkuc
+   ceṉṟu campōvaip peyartteṭuttut taṉatu tōṇikkuk koṇṭu celkiṟāṉ.
+   aṭikaḷ 165 - 308 : campōvuṭaṉ makiḻcciyuṭaṉ tamatu vīṭu nōkki
+   puṟappaṭukiṉṟaṉar.
+   aṭikaḷ 309 - 562 : mūṉṟām nāḷil vaṭanāṭṭut talaivi kaṇ viḻittu campō
+   apakarikkappaṭṭatai aṟikiṟāḷ. tāṉ tiruṭarkaḷait toṭarvataṟkāka
+   avarkaḷait taṭuttu niṟuttak kaṭum paṉip pukāraiyum perum kāṟṟaiyum vēṟu
+   taṭaikaḷaiyum vaṭanāṭṭut talaivi uṇṭākkukiṟāḷ. intat taṭaikaḷiṉpōtu
+   vaiṉāmoyiṉaṉiṉ yāḻ kaṭalil viḻuntu maṟaikiṟatu.
+     __________________________________________________________________
+
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   aṭuttavaṉ kollaṉ avaṉil mariṉaṉ
+   kuṟumpaṉ lempiyiṉ makaṉmūṉ ṟāmavaṉ
+   avaṉtāṉ aḻakiya tūra neñciṉaṉ
+   teḷinta kaṭalil eḻuntē ceṉṟaṉar
+   paranta tiraikaḷil payaṇam ceytaṉar
+   antak kuḷirnta akalū rukku
+   iruṇṭu kiṭanta irumvaṭa pulattē
+   maṉitarai uṇṇum ammaṇ ṇukku
+   vīrar āḻntiṭum viyaṉpaku tikku. 10
+   yārappā valippavaṉ āvāṉ tuṭuppai?
+   mutalvaṉ kollaṉ avaṉil mariṉaṉ
+   avaṉē valippavaṉ āvāṉ tuṭuppai
+   amarvāṉ muṉpuṟam avaṉē tuṭuppil
+   kuṟumpaṉ lemmiṉ kaiṉaṉ aṭuttavaṉ
+   amarvāṉ piṉpuṟam avaṉē tuṭuppil.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   avaṉē cukkāṉ pakkam amarntāṉ
+   viraivāyp paṭakai mikamuṉ celuttiṉaṉ
+   tiraikaḷaik kiḻittuc ceṉṟāṉ muṉṉē 20
+   uyarnta nuraikaḷiṉ ūṭāyc ceṉṟaṉaṉ
+   veṇṇurai muṭiyuṟum veḷḷalai yūṭāy
+   vaṭapulap paṭaku vaṉtuṟai nōkki
+   tāṉmuṉ aṟinta tarippiṭam nōkki.
+   avarkaḷ avviṭam aṭainta pōtiṉil
+   muṭitta nēram muyaltam payaṇam
+   tōṇiyai iḻuttaṉar toṭartaraip pakkamāy
+   tāruṇ mārpuḷa takumap paṭakai
+   urukkiṉāl iyaṟṟiya uruḷaikaḷ mītu
+   cempiṉā lākiya tikaḻpaṭa kuttuṟai. 30
+   avviṭa miruntu avaril vantaṉar
+   viraintu ceṉṟaṉar mikanēr uṭpuṟam;
+   vaṭapulat talaivi varumā ṟucāviṉāḷ
+   avaḷpārt tucāviṉāḷ apputu varaviṉar:
+   "uṅkaḷiṉ ceytikaḷ uḷaevai maṉitarē
+   vīrarē putiṉam ētēṉum uḷavō?"
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   ataṟku māṅkē aḷittāṉ maṟumoḻi:
+   "maṉitariṉ ceytikaḷ iṉiyacam pōvām
+   vīrariṉ putiṉam mikkoḷir mūṭiyām 40
+   campō(vil) paṅkuṟat tāṉnām vantuḷḷōm
+   paṭaroḷir mūṭiyaip pārkkavum vantuḷḷōm."
+   avaḷē vaṭanilat talaiviyap pōtu
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "kuḷirkāṉ kōḻiyīr kūṟāyp pakirvatum
+   paṭarmū varkkaṇil pakuppatu milaiyē;
+   naṉṟutāṉ campō naṉkirain tolippatum
+   naṉṟutāṉ kaṭaivatum niṉṟoḷir mūṭi
+   vaṭanilak kuṉṟataṉ maṇimuka ṭataṉmēl
+   ceppiṉāl iyaintacem malaikaḷuk kuḷḷē 50
+   iṅkunāṉ iruppatu naṉṟata ṉālē
+   māperum campō vataṉkāp pāḷāy."
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "orupaṅ kiṉainī ukantaḷi yāyēl
+   accam pōviṉ aṭutta pātiyai
+   aṉaittaiyum nāṅkaḷakalvōm eṭuttu
+   eṭuttakaṉ ṟēṟṟuvōm eṅkaḷ tōṇiyil."
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   kaṇṭaṉaḷ avvurai kaṉamikak koṭiyatāy 60
+   aḻaittaṉaḷ vaṭapulam aṉaittaiyum oṉṟāy
+   vāḷuṭaṉ aḻaittaṉaḷ valliḷa maṉitarai
+   aḻaittaṉaḷ vīrarai arumpaṭaik kalattoṭu
+   vaiṉā moyiṉaṉiṉ vaṉtalai kuṟittu.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   kantalē yāḻiṉaik kaiyiṉi leṭuttaṉaṉ
+   tāṉē amarntaṉaṉ taṉiyicaip pataṟkāy
+   iṉitāy yāḻai icaikkat toṭaṅkiṉaṉ;
+   aṉaivarum niṉṟaṉar avvicaik kēṭka
+   icaiyiṉ pattai iracikka nukarntu 70
+   māṉuṭar nalla maṉanilai koṇṭaṉar
+   vaṉitaiyar ciritta vāyuṭa ṉiruntaṉar
+   vīrar iruntaṉar viḻikaḷil nīruṭaṉ
+   paiyaṉkaḷ **muḻaṅkāṟ paṭiyiṉi liruntaṉar.
+   makkaḷaik kaḷaikka vaittaṉaṉ avaṉum
+   iḷaikka vaittaṉaṉ ellāraiyu mavaṉ
+   kēṭṭē yiruntavar kīḻttuyil vīḻntaṉar
+   pārttē yiruntavar pakaruṇar viḻantaṉar
+   uṟaṅkiṉar iḷaiyōr uṟaṅkiṉar mutiyōr
+   vaiṉā moyiṉaṉiṉ vaṉappicai kēṭṭu. 80
+   vivēki vaiṉā moyiṉaṉap pōtu
+   nilaipeṟum māya neṟiyaṟi mutalvaṉ
+   paiyiṉuk kuḷḷē kaiyiṉai viṭṭaṉaṉ
+   tuḷāvit taṭaviṉaṉ toṭupaik kuḷḷē
+   tūkka ūcikaḷ tūkkiṉaṉ kaiyiṉil
+   tuyilai avarkaḷ tuṇaiviḻip pūciṉaṉ
+   koḷkaṇ imaikaḷaik kuṟukkāyc cērttaṉaṉ
+   koḻuṅkaṇ maṭalkaḷaik kōrttup pūṭṭiṉaṉ
+   aṅkē kaḷaippāy āṉamān tarkku
+   cōrntupō yiruntavat tuvaḷmaṉi tarkku; 90
+   āḻttiṉaṉ nīṇṭa uṟakkat tavarkaḷai
+   nīṇṭa nēram nittirai yākkiṉaṉ
+   āṅku vaṭanāṭ ṭaṉaittuk kuṭumpamum
+   attaṉai kirāmat tammak kaḷaiyum.
+   campō peṟaṟkut tāṉeḻun tēkiṉaṉ
+   ceṉṟaṉaṉ pārkkat tikaḻntoḷir mūṭiyai
+   vaṭanilak kuṉṟataṉ maṇimuka ṭataṉmēl
+   ceppiṉāl iyaintacem malaikaḷuk kuḷḷē
+   pūṭṭiya oṉpatu pūṭṭukaṭ kappāl
+   pūṭṭiya pattām pūṭṭukku mappāl. 100
+   mutiya vaiṉā meyiṉaṉu maṅkē
+   meṉmaiyāy ataṉpiṉ viyaṉicai toṭaṅkiṉaṉ
+   ceppiṉāl iyaintacem malaikaḷiṉ vāyilil
+   kalliṉāl āṉakaṟ kōṭṭaiyiṉ pakkalil:
+   appō(tu) katavukaḷ acaintaṉa kōṭṭaiyil
+   irumpup piṇaiyalkaḷ ellām āṭiṉa.
+   avaṉē kollaṉ avvil mariṉaṉ
+   iruntaṉaṉ aṅkē iraṇṭām maṉitaṉāy
+   pūṭṭukaḷ mītu pūciṉaṉ veṇṇeyai
+   piṇaiyalkaḷ mītu peytaṉaṉ koḻuppai 110
+   katavukaḷ cattam kāṭṭā tirukka
+   oliyaip piṇaiyalkaḷ ūṭṭā tirukka;
+   viralkaḷaip pūṭṭuḷ viṭṭut tiruppiṉaṉ
+   tāḷaiyum metuvāyt taḷarttat toṭaṅkiṉaṉ;
+   appō(tu) tuṇṭutuṇ ṭāyiṉa pūṭṭukaḷ
+   tiṟantu virintaṉa cempalak katavukaḷ.
+   mutiya vaiṉā moyiṉaṉu mataṉpiṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "ō, nī kuṟumpā, lempiyiṉ maintā,
+   eṉatu naṇparil iṉituyar naṇpaṉ 120
+   eṭukkac campō ēkuvai uḷḷē
+   pirakāca mūṭiyum peṟaṟkuc celvāy."
+   kuṟumpaṉ lemmiṉ kaiṉaṉap pōtu
+   atāvatu aḻakiya tūra neñciṉaṉ
+   āṇai yiṭumuṉ āyatta mākiṉaṉ
+   tayārnilai peṟṟaṉaṉ tāṉē tūṇṭumuṉ
+   campō peṟaṟkut tāṉuṭ ceṉṟaṉaṉ
+   pirakāca mūṭi peṟaṟkē ēkiṉaṉ
+   ceṉṟatum avviṭam ceppiṉaṉ iṅṅaṉam:
+   celkaiyil vīmpurai ceppiṉaṉ ivvitam: 130
+   "eṉṉuḷ iruppavaṉ evvakai maṉitaṉ
+   maṉumutal vōṉiṉ maintaṉi ṉuḷḷē
+   campō tūkkutal tāṉnikaḻ ippō
+   tirupputal nikaḻum tikaḻoḷir mūṭiyum
+   valappuṟa eṉṟaṉ vaṉkā lutaviyāl
+   toṭutalaik kālaṇik kutiyāl ceytalāl."
+   appōtu lemmiṉ kaiṉaṉ tūkkiṉaṉ
+   appō tūkkiṉaṉ appō tiruppiṉaṉ
+   campō vaikkait taḻuvip peyarttaṉaṉ
+   nilattil muḻaṅkāl aḻuttip peyarttaṉaṉ: 140
+   āyiṉum campō acaintiṭa villai
+   pirakāca mūṭi peyaravu millai;
+   ēṉeṉil vērviṭ ṭiruntaṉa vērkaḷ
+   oṉpatu maṭaṅkilōr **āṟaṭi āḻam;
+   vaṭanilat torunal valleru tiruntatu
+   urampeṟu muṭalō ṭulaviya terutu
+   ataṉvilāp pakkam ativalu vuṭaiyatu
+   taramā yamaintaṉa tacainār ataṟku
+   ataṉkom pukaḷō āṟaṭi nīḷam
+   vāykkaṭ(ṭut) taṭippam varumoṉ pataṭi. 150
+   erutaip puṟṟarai yiruntē koṇarntaṉar
+   vayaṟkarai yiruntu kalappaiyum koṇarntaṉar
+   campō vērkaḷai tāmatāl uḻutaṉar
+   pirakāca mūṭiyiṉ peruntaḷai uḻutaṉar
+   appō campō acaintatu metuvāy
+   pirakāca mūṭiyum piṉṉar nakarntatu.
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   aṭuttavaṉ kollaṉ avaṉil mariṉaṉ
+   kuṟumpaṉ lemmiṉ kaiṉaṉmūṉ ṟāmavaṉ
+   viyaṉperum campō mēlē tūkkiṉar 160
+   vaṭanilak kuṉṟataṉ maṇimuka ṭiruntu
+   ceppiṉāl iyaintacem malaikaḷi liruntu
+   taṅkaḷtō ṇikkut tāmeṭut tēkiṉar
+   kappaliṉ uḷḷē kavaṉamāy vaittaṉar.
+   tampaṭa kukkuc campō peṟṟaṉar
+   paṭaroḷir mūṭiyaip pakkat tiruttiṉar
+   taḷḷit tōṇiyait taṇṇīr viṭṭaṉar
+   alaiyiṉil palakainū ṟālamai paṭakai;
+   puṉal teṟittiṭavē pōṉatu paṭaku
+   ataṉperum pakkam alaiyiṉiṟ ceṉṟatu. 170
+   ivvitam kollaṉil mariṉaṉ kēṭṭaṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "eṅkucam pōvai eṭuttuc cellalām
+   evvaḻik koṇṭu ēkalām ataṉai
+   intat tīya iṭaṅkaḷi liruntu
+   atirṣṭamil ivvaṭa akalnā ṭiruntu?"
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "aṅkucam pōvai eṭuttuc cellalām
+   cellalām attuṭaṉ tikaḻoḷir mūṭiyum 180
+   pukārpaṭi kaṭalataṉ puṇarmuṉai nuṉikku
+   ceṟipaṉip pukāruḷa tīvataṉ karaikku
+   aṅkē iruppatu atirṣṭam ākalām
+   attuṭaṉ eṉṟum aṅkē yirukkalām;
+   iṉiyatōr ciṟuiṭam irukkiṟa taṅku
+   uṇmaiyil mikavum ukanta ciṟuviṭam
+   aṭipiṭi yillai ayilvatu millai
+   māṉuṭar vāḷkaḷiṉ mōtalu millai."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   akaṉṟāṉ vaṭanilam atilē yiruntu 190
+   nalmaṉa nilaiyil naṉipaya ṇittāṉ
+   uriyanāṭ ṭukku uvakaiyō ṭēkiṉaṉ;
+   ivvitam piṉṉar iyampiṉaṉ avaṉē
+   "paṭakē tirumpuvāy vaṭanā ṭiruntu
+   vīṭṭiṉai nōkki viraivāyt tirumpuvāy
+   piṟanāṭ ṭiṉticai piṉpuṟa mirukka.
+   mārutam tōṇiyai ārāṭ ṭiccel
+   taṇṇīr paṭakait tālāṭ ṭiccel
+   valikkum tuṭuppuk(ku) vaḻaṅkuka utavi
+   toṭartuṭup pukku toṭarntaḷi āṟutal 200
+   akaṉṟu paranta annīrp parappil
+   tiṟantu paranta tikaḻnīrp parappil.
+   intat tuṭuppukaḷ iruntāl ciṟiyatāy
+   tuṭuppai valippavar aṭaintāl taḷarcci
+   cukkāṉ piṭippavar tōṉṟiṉāl ciṟiyarāy
+   perumpaṭa kōṭṭuvōr piḷḷaika ḷāṉāl
+   uṉṟaṉ tuṭuppukaḷ utavuvīr, ahtō!
+   uyarnīrt talaivaṉē, uṉṟaṉ paṭakiṉai!
+   taruvīr putiyavai, taruvīr ciṟantavai,
+   uramiku miṉṉoru tarattuṭup paruḷvīr, 210
+   amarvīr tuṭuppukaḷ arukiṉil nīrē
+   tuṭuppukaḷ valittalait toṭaruvīr nīrē
+   uyarmarap paṭakiṉai ōṭiṭa vaippīr
+   irumpiṉ cukkāṉ iyakkuvīr nīrē
+   uyarnta alaiyiṉ ūṭāyc celuttuka
+   veṇṇurai muṭiyuṟum viriyalai yūṭāy!"
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   viraivāy muṉṉē viyaṉpaṭa kōṭṭiṉaṉ
+   avaṉē kollaṉ avvil mariṉaṉ
+   kuṟumpaṉ lemmiṉ kaiṉaṉ aṭuttavaṉ 220
+   tuṭuppai valittut toṭarntāṅ kēkiṉar
+   valittaṉar tuṭuppai valittuc ceṉṟaṉar
+   teḷinta kaṭaliṉ ceṟinī rataṉmēl
+   parantu virinta paṭaralai kaḷiṉmēl.
+   kuṟumpaṉ lemmiṉ kaiṉaṉ kūṟiṉaṉ:
+   "muṉṉoru kālam eṉvāḻ nāḷil
+   valittiṭat tuṭuppu vaḷanīr iruntatu
+   pāṭiṭak kataikaḷum pāṭakark kiruntaṉa
+   āyiṉum illai āmin nāṭkaḷil
+   eṉṟumē kēṭpatu illaiyē nāṅkaḷ 230
+   paṭakilē mantirap pāṭalkaḷ illai
+   icaittalaik kēṭpatum illai yalaikaḷil."
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "paṭakilum mantirap pāṭalakḷ illai
+   icaittalaik kēṭpatum illai yalaikaḷil;
+   makkaḷaic cōmpalāy māṟṟiṭum pāṭalkaḷ
+   tuṭuppu valittalil koṭuttiṭum tāmatam;
+   poṉṉām pakalatum pōyviṭum veṟitāy
+   aṟputa māyirā akaṉṟiṭum naṭuvil 240
+   inta akaṉṟa irunīrp parappilē
+   parantu virintu paṭaralai kaḷiṉmēl."
+   kuṟumpaṉ lemmiṉ kaiṉaṉ avaṉē
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "eppaṭi yiruppiṉum ippoḻu tiḻiyum
+   aḻakiya pakalum avvā ṟakalum
+   iravum viraivāy etirē vantiṭum
+   mālaip poḻutum vantiṭum muṉṉē
+   pāṭā tiruppiṉum pativāḻ poḻutē
+   eṉṟum icaiyā tiruppiṉum maṉatil." 250
+   mutiya vaiṉā moyiṉaṉ ceṉṟāṉ
+   nīla niṟattu neṭumuyar kaṭaliṉil
+   ceṉṟāṉ orunāḷ ceṉṟāṉ irunāḷ
+   ceṉṟā ṉappā mūṉṟām nāḷilum
+   kuṟumpaṉ lemmiṉ kaiṉaṉap pōtu
+   iraṇṭām muṟaiyāy ivvā ṟuraittāṉ:
+   "vaiṉā moyiṉanī pāṭā tuḷatēṉ?
+   icaiyā(ta) tetaṟku **inna(ṉ)ṉīr maṉitaṉē?
+   nallacam pōnī naṉkaṭain tippō
+   celkiṟāy allavā ticaicari yāṉatil? 260
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   cariyāy avaṉtāṉ cāṟṟiṉaṉ maṟumoḻi:
+   "pāṭalkaḷ pāṭa paṭarntila nēram
+   kaḷittu makiḻavum kālam vantila;
+   pāṭalkaḷ pāṭap paṭarcari nēramum
+   kaḷittu makiḻak kaṉittiṭu kālamum
+   kaṇkaḷil contak katavukaḷ paṭṭiṭum
+   contak katavukaḷ olittiṭum nēramē!"
+   kuṟumpaṉ lemmiṉ kaiṉaṉ kūṟiṉaṉ:
+   "cukkāṉ piṭippatu toṭarnatunā ṉāṉāl 270
+   eṉṉāl iyaṉṟaḷa viṉiṟkup pāṭuvēṉ
+   valuvuḷa varaiyil kuyilāyk kūvuvēṉ;
+   iṉṉoru nēram iyalā tākalām
+   ivvaḷa(vu) caktiyu milāmaṟ pōkalām
+   pāṭuva tākanī pakarntiṭā tiruppiṉ
+   toṭaṅkuvēṉ pāṭal toṭarntunā ṉippō."
+   kuṟumpaṉ lemmiṉ kaiṉaṉu maṅkē
+   avaṉē aḻakiya tūra neñciṉaṉ
+   uṟuvā yacaittu oḻuṅku paṭuttiṉaṉ
+   āyatta mākkiṉaṉ amaittē icaiyai; 280
+   icaiyai yamaittaṉaṉ irāka meṭuttaṉaṉ
+   koṭupalat teḷiyavaṉ kūvat toṭaṅkiṉaṉ
+   kattat toṭaṅkiṉaṉ kaṭuṅkoṭuṅ kuralil
+   kāynta toṇṭaiyāl kataṟat toṭaṅkiṉaṉ.
+   kuṟumpaṉ lemmiṉ kaiṉaṉ pāṭiṉaṉ
+   tūra neñciṉaṉ pērkuraṟ kattiṉaṉ
+   taṉvā yacaintatu tāṭiyā ṭiṟṟu
+   taṉiavaṉ mukattut tāṭaikaḷ naṭuṅkiṉa;
+   toṭaṅkavaṉ pāṭalkaḷ tolaivilum kēṭṭaṉa
+   kēṭṭatu uḷaṟal nīrttuṟaik kappāl 290
+   āṟu kirāmam aṉaittilum kēṭṭatu
+   kaṭalkaḷō rēḻuk kappāl kēṭṭatu.
+   kokkoṉṟu vantu kaṭṭaiyi lamarntatu
+   iruntatu ucciyil īrattu mēṭṭil
+   eṇṇikkoṇ ṭiruntatu iṇaiviral nakaṅkaḷ
+   ceytatu muyaṟci ceḻuṅkāl uyartta;
+   ataṉuḷat tappō accam eḻuntatu
+   lemmiṉ kaiṉaṉ nikaḻttum pāṭalāl.
+   niṟuttiya tataṉceyal nērāyk kokkatu
+   accat tāṟkoṭi talaṟat toṭaṅkiya(tu) 300
+   uṭaṉē eḻuntatu uyarap paṟantatu
+   paṟantatu nōkkip paṭarvaṭa pālnilam;
+   avviṭam appuḷ aṭaintataṉ piṉṉar
+   catuppil vaṭakkē cārntataṉ piṉṉar
+   atupiṉum koṭitāy alaṟik kiṭantatu
+   avalak kuralil atukat tiyatu:
+   avvitam vaṭakkai appuḷ eḻuppiya(tu)
+   cakti - koṭiyatait tāṉtuyi leḻuppiya(tu).
+   anta vaṭanilat talaivi eḻuntāḷ
+   nīṇṭanē rattu nittirai viṭṭē 310
+   uyarmāṭ ṭuttoḻu vuṭpuṟam ceṉṟaṉaḷ
+   kaḷañciyak kūṭam kāṇpataṟ kōṭiṉaḷ
+   kālnaṭai yāvum kavaṉamāy nōkkiṉaḷ
+   caripiḻai pārttaṉaḷ taṉcot tuṭaimaikaḷ:
+   kālnaṭai etuvum kāṇā(tu) pōyila
+   poruḷpaṇ ṭaṅkaḷ pōkā tiruntaṉa.
+   piṉṉar pāṟaiyiṉ kuṉṟavaḷ pōyiṉaḷ
+   ceppiṉāl iyainta cemmalaik katavakam
+   vantu cērntatum varumā ṟuraittaṉaḷ:
+   "aiyakō, pāvināṉ, āṉaeṉ vāḻnāḷ, 320
+   evaṉō aṉṉiyaṉ iṅkuvan tuṟṟaṉaṉ
+   aṉaittup pūṭṭaiyum avaṉnoruk kiṭṭaṉaṉ
+   kōṭṭaik katavukaḷ koṭumacaip puṇṭaṉa
+   irumput tāḷkaḷ iṅkuṭai paṭṭaṉa
+   koṇṭucel paṭṭatā campōviṅ kiruntu
+   aṉumati yiṉṟiyē akaṟṟiṭap paṭṭatā?"
+   ām,aṅ kiruntu campō akaṉṟatu
+   paṭṭoḷir mūṭiyum paṟipōy viṭṭatu
+   vaṭanilak kuṉṟataṉ maṇimukaṭ ṭiruntu
+   ceppiṉāl iyaintacem malaikaḷi liruntu 330
+   pūṭṭiya oṉpatu pūṭṭukaṭ kappāl
+   pūṭṭiya pattām pūṭṭukku mappāl.
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   koṇṭaṉaḷ ataṉaik koṭiyatā yavaḷum
+   taṉatu caktikaḷ taḷarvatai yuṇarntāḷ
+   taṉatati kāram tavaṟutal kaṇṭāḷ
+   *pukār makaḷavaḷaip pirārttaṉai ceytaṉaḷ:
+   "paṉippukārp peṇṇē, paṉippukaip pāvāy!
+   uṉṟaṉ muṟattiṉāl uṭaṉpukār parappu
+   mūṭu paṉiyiṉāl muṟṟilum nirappu 340
+   paṉippaṭa lattai iṟakkucork kattāl
+   vāṉat tiruntu varaṭṭummū ṭiṭupaṉi
+   teḷinta kaṭalataṉ ceṟiviri parappil
+   tiṟantu paranta tikaḻnīrp parappil
+   vaiṉā moyiṉaṉiṉ vaḻitaṉait taṭukka
+   amaitinīr maṉitaṉ akalvatait taṭukka.
+   ituvum pōtā tiṉṉamu meṉṟāl
+   **mutiyavaṉ maintā, muṉaikaṭa **larakkaṉē!
+   iruṅkaṭa liruntuṉ peruntalai yuyarttu
+   alaikaḷi liruntu aruñciram tūkku 350
+   kalēvā makkaḷaik kaṭaṟkīḻ vīḻttu
+   amaitinīr maṉitarai aṭiyiṉil āḻttu
+   kaṭṭō ṭaḻippāy kaṭuṅkoṭu maṉitarai
+   āḻiyiṉ āḻat talaikaḷiṉ kīḻē
+   campōvaik koṇarvāy takuvaṭa pālnilam
+   atukīḻ viḻātu amarntiṭap paṭakil.
+   ituvum pōtā tiṉṉamu meṉṟāl
+   ō, mutu maṉitaṉē, uyarmā teyvamē!
+   vāṉattil vāḻum māpoṉ aracaṉē!
+   āṭciyai naṭattum veḷḷiā ḷuṉaṉē! 360
+   kāla nilaiyiṉaik kaṭuṅkoṭi tākku
+   eḻuppu pāriya ikalkāl caktiyai
+   kāṟṟai ākku kaṭuntirai aṉuppu
+   nērāy anta neṭumpaṭa ketirāy
+   vaiṉā moyiṉaṉiṉ vaḻitaṉait taṭukka
+   amaitinīr maṉitaṉiṉ akalpōk kaṭaikka.
+   paṉippukārp peṇṇavaḷ paṉippukai pāvai
+   paravaiyiṉ mītu paṉippukār uyirttaṉaḷ
+   paṉip paṭalattaip pavaṉam parappiṉaḷ
+   mutiya vaiṉā moyiṉaṉait taṭuttaṉaḷ 370
+   mūṉṟu iravukaḷ muḻumaiyā yaṅkē
+   nīla niṟattuk neṭuṅkaṭal naṭuvē
+   pōkkiṭam nōkki pōkavoṇ ṇāmal
+   evviṭam nōkkiyum ēkavoṇ ṇāmal.
+   mūṉṟu iravukaḷ muḻumaiyā yāṟiṉaṉ
+   nīla niṟattu neṭuṅkaṭal naṭuvē
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ
+   iyampiṉaṉ avaṉē iyampiṉaṉ ivvitam:
+   "tāḻvuṟum maṉitart tāṉum nikaḻā(tu)
+   cōmpalmā ṉiṭarukkut tuḷiyum naṭavā(tu) 380
+   aṭarpaṉip pukārilē āḻntu pōvatu
+   paṉip paṭalattil paṭṭut tōṟpatu."
+   neṭuvāḷ eṭuttu nīraik kiḻittaṉaṉ
+   vāḷiṉai ōṅki vaṉkaṭa laṟaintaṉaṉ
+   ceṉṟa vāḷ vaḻiyil malarttēṉ teṟittatu
+   vāḷkiḻip piṭattil varunaṟai paṟantatu
+   paṉippukār eḻuntatu naṉivāṉ nōkki
+   paṉippukai ceṉṟatu parantuviṇ nōkki
+   paṉippukā riṉṟip paravai iruntatu
+   kaviḻpaṉip pukārilāk kaṭalalai iruntatu 390
+   paravai parantu peritāy virintatu
+   pūmiyum ataṉāl polintatu peritāy.
+   kālam caṟṟuk karaintuceṉ ṟiṭṭatu
+   kaṇanē ramcila kaṭantē muṭintatu
+   appō(tu) kēṭṭatu aṅkōr perumoli
+   civappu niṟattiṉ tikaḻpaṭa kōramāy
+   tirainurai eḻuntatu paṟantatu uyara
+   vaiṉā moyiṉaṉiṉ vaṉpaṭa ketirāy.
+   aṅkē kollaṉ avvil mariṉaṉ
+   atikam payantaṉaṉ accam koṇṭaṉaṉ 400
+   vataṉat(til) irattam varaṇṭu kāyntatu
+   kaṉṉam cenniṟam kāṇā toḻintatu;
+   kampaḷip pōrvaiyāl kaviṉtalai cuṟṟiṉaṉ
+   irucevip pakkamum iḻuttē viṭṭaṉaṉ
+   ataṉāl mukattai aḻakāy mūṭiṉaṉ
+   iruviḻi cīrāy iṉṉum maṟaittaṉaṉ.
+   mutiya vaiṉā moyiṉaṉ avaṉtāṉ
+   pakkam tirumpip pārttaṉaṉ taṇṇīr
+   paṭakiṉ pakkamāyp pārvai celuttiṉaṉ
+   aticaya māṉatu avaṉetō kaṇṭaṉaṉ: 410
+   āḻi arakkaṉām atimuti yōṉmakaṉ
+   civappu niṟattut tikaḻpaṭa kōram
+   paravaiyi liruntutaṉ peruntalai uyarttiṉaṉ
+   alaikaḷi liruntutaṉ aruñciram tūkkiṉaṉ.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   avaṉaip piṭittaṉaṉ avaṉcevi paṟṟi
+   uṟumcevi piṭittē uyarat tūkkiṉaṉ
+   avaṉai viṉaviṉāṉ avaṉuk kuraittāṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "mutiyavaṉ maintā, muṉaikaṭa larakkaṉē! 420
+   etaṟkuk kaṭali liruntunī eḻuntāy
+   etaṟku alaikaḷil iruntunī vantāy
+   maṉita iṉattiṉmuṉ vantatu etaṟku
+   atilum kalēvāviṉ taṉaiyaṉmuṉ vantāy?"
+   mutiyavaṉ maintaṉām, muṉaikaṭa larakkaṉ
+   maṉatilē ataṉāl makiḻcci koṇṭilaṉ
+   āyiṉum akattil accamum koṇṭilaṉ
+   attuṭaṉ maṟumoḻi avaṉetum tantilaṉ.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   aṭuttum kavaṉamāy avaṉum kēṭṭāṉ 430
+   ucāviṉaṉ mummuṟai uratta kuralilē
+   "mutiyavaṉ maintā, muṉaikaṭa larakkaṉē!
+   etaṟkuk kaṭalil iruntunī eḻuntāy
+   etaṟku alaikaḷil iruntunī vantāy?"
+   mutiyavaṉ maintaṉām, muṉaikaṭa larakkaṉ
+   mūṉṟām viṉaviya muṟaiyiṉ pōtiṉil
+   maṟumoḻi yāka vaḻaṅkiṉaṉ orucol:
+   "itaṟkuk kaṭalil iruntunāṉ eḻuntēṉ
+   itaṟku alaikaḷil iruntunāṉ vantēṉ:
+   eṉṟaṉ neñciṉil iruntatu itutāṉ 440
+   kalēvā iṉattaik kaṭṭō ṭaḻippatu
+   ēṟṟuc campō ēkutal vaṭapulam;
+   eṉṉainī alaikaḷil iṭṭāl ippō
+   inta eḷiyōṉ uyirainī īntāl
+   maṟṟoru taṭavaināṉ varavē māṭṭēṉ
+   māṉuṭa iṉattumuṉ varavē māṭṭēṉ."
+   mutiya vaiṉā moyiṉaṉap pōtu
+   alaikaḷil vīciṉaṉ avveḷi yōṉai
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "mutiyavaṉ maintā, muṉaikaṭa larakkaṉē! 450
+   iruṅkaṭa liruntunī eḻutalum vēṇṭām
+   tiraikaḷi liruntunī varutalum vēṇṭām
+   māṉuṭa iṉattumuṉ varavē vēṇṭām
+   innāḷ iruntu iṉivara vēṇṭām!"
+   antanāḷ toṭaṅki ataṉpiṉ eṉṟum
+   eḻuntatē illai iruṅkaṭa larakkaṉ
+   māṉuṭa iṉattumuṉ varavē yillai
+   cantira cūriyar tāmuḷa varaiyilum
+   naṟpakaṟ pōtu naṉivaru varaiyum
+   vāṉam makiḻvuṭaṉ vayaṅkum varaiyilum. 460
+   mutiya vaiṉā moyiṉaṉ piṉṉar
+   taṉatu kappalait tāṉmuṉ celuttiṉaṉ
+   kālam caṟṟuk karaintuceṉ ṟiṭṭatu
+   kaṇanē ramcila kaṭantē muṭintatu
+   māṉiṭa mutalvaṉ, māperun tēvaṉ,
+   avarē vāṉakam aṉaittiṉ tantai
+   kāṟṟiṉai vīcak kaṭṭaḷai yiṭṭaṉar
+   koṭiya kāṟṟuk koṭitāy eḻavē.
+   eḻuntatu kāṟṟu eḻuntuvī ciṟṟu
+   koṭiya kāṟṟuk koṭitā yeḻuntatu 470
+   mēṟpuṟak kāṟṟu mūrkkamāy vantatu
+   vaṭamēṟ kāṟṟu vaṉmaiyāy vantatu
+   teṉpuṟak kāṟṟum vaṉmamā yeḻuntatu
+   kīḻkkāl koṭitāy kiḷarntukū viyatu
+   kōramāy teṉkīḻk kāṟṟu molittatu
+   urattoli iṭṭatu vaṭakkuk kāṟṟu.
+   maraṅkaḷiṉ ilaikaḷai vaṉkāl paṟittatu
+   ūci(yi)lai maraṅkaḷ uḷailai iḻantaṉa
+   putarcceṭi yāvum pūkkaḷai iḻantaṉa
+   pulliṉam yāvum naṟṟāḷ iḻantaṉa 480
+   karuñcē ṟuyarntu kaṭalmēl vantatu
+   teḷintu paranta tikaḻtaṇ ṇīrmēl.
+   koṭuṅkāṟ ṟappō kaṭumaiyā yeḻuntatu
+   alaikaḷ eḻuntu aṭittaṉa paṭakai
+   kōlācci elumpaik koṇṭayāḻ eṭuttaṉa
+   mīṉelum piṉilamai viyaṉkalanta lēyai
+   vellamō makkaḷiṉ nallamaik kāka
+   ahtōviṉ nilaipē ṟāṉaiṉ piṉukkāy;
+   ahtō ataṉai alaikaḷil kaṇṭaṉaṉ
+   ahtōviṉ piḷḷaikaḷ ataittirai kaṇṭaṉar 490
+   nallicaik karuviyai naṉkava reṭuttaṉar
+   eṭuttuk koṇṭatai illat tēkiṉar.
+   mutiya vaiṉā moyiṉaṉuk kāṅkē
+   kaṇkaḷil tuyarāl kaṇṇīr vantatu
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "eṉṟaṉ paṭaippu ivvitam pōṉatē
+   pōṉatē eṉṟaṉ ācaiyāḻk karuvi
+   nilaikkumeṉ ṉiṉpam nērāyt tolaintatē
+   itaṉilum ciṟantatu iṉikkiṭaik kātu
+   eṉṟumē inta ikatala mītilē 500
+   kōlācci pallil koṇṭapē riṉpam
+   mīṉataṉ elumpil viḷainta iṉṉicai."
+   avaṉē kollaṉ avvil mariṉaṉ
+   matilē periya maṉattuyar koṇṭāṉ
+   uraittatāṉ orucol uraittāṉ ivvitam:
+   "aiyakō vāḻnāḷ atirṣṭam aṟṟanāṉ
+   intak kaṭalkaḷil ivvitam vantēṉ
+   tiṟantu paranta tikaḻnīrp parappil
+   kālaṭi vaittēṉ kaṭumcuḻal marattil
+   naṭuṅkum marattu nakarpaṭa kataṉuḷ 510
+   kāṟṟiṉai eṉtalai mayirum kaṇṭatē
+   eṉcikai payaṅkara ikkāl nilaiyai
+   kaṇṭateṉ tāṭiyum kaṭuntī nāṭkaḷai
+   kaṇṭu koṇṭatik kaṭuntaṇ ṇīrilē;
+   oruvaṉ aritilum aritāyk kāṇalām
+   itupōṟ kāṟṟai itaṉmuṉ nāṭkaḷil
+   ivvaḷa vuyarnta ikkoṭu malaikaḷai
+   veṇṇurai muṭiyuṭai vitamām alaikaḷai;
+   ippoḻu teṉakkik kāṟṟē aṭaikkalam
+   kaṭaliṉ alaikaḷē karuṇaiyiṉ pukaliṭam." 520
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   appō tivvitam avaṉcin tittāṉ:
+   "evarumē tōṇiyil iṅkaḻa vēṇṭām
+   evvitap pulampalum ippaṭa kaṇukēl;
+   aḻukaituṉ pattai akaṟṟi viṭātu
+   pulampal tīya nāṭkaḷaip pōkkā."
+   piṉvarum moḻikaḷil piṉavaṉ coṉṉāṉ
+   uraittāṉ avaṉē uraittāṉ ivvitam:
+   "puṉalē, uṉṟaṉ puttira ṉaittaṭu!
+   pēralai yē,uṉ piḷḷaiyai niṟuttu! 530
+   ahtō, inta alaikaḷai aṭakku!
+   vellamō, nīriṉ **nalliṉam amarttu!
+   teṟiyā tirukkat tiṇtō ṇip**puṟam
+   **vaṅkak kālilnīr vantuvī ḻāmal.
+   eḻuvāy kāṟṟē, eḻuvāy viṇṇakam!
+   aṭaivāy mukilkaḷ amaintiṭu miṭattai
+   uṉṟaṉ iṉattai uṉkūṭ ṭattai
+   uṉcon tattai uṉkuṭum pattai!
+   kaviṉmarap paṭakaik kaviḻttu viṭātē
+   ūci(yi)lai marappaṭa kuṭaṉpuraṭ ṭātē 540
+   kāṭṭu veḷimaraṅ kaḷaivīḻt tiṭuka
+   kuṉṟat tūcik koḻumaram puraṭṭuka!"
+   kuṟumpaṉ lemmiṉ kaiṉaṉ avaṉē
+   avaṉtāṉ aḻakiya tūra neñciṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "lāppuviṉ kaḻukē iṅkē varuvāy
+   uṉṟaṉ iṟakukaḷ orumūṉ ṟaḷippāy
+   kaḻukē mūṉṟu kākkaiyē iraṇṭu
+   pātukāt taṟkuip paṭarciṟu paṭakai
+   ippaṭa kiḻintataṉ mēṟpuṟam āka!" 550
+   palakaikaḷ koñcam pārttavaṉ cērttaṉaṉ
+   pakkap paṭakā yattap paṭuttiṉaṉ
+   palakaikaḷ mēlum pakkam poruttiṉaṉ
+   āṟaṭi uyaram atueḻum varaiyum
+   uḷvarum tiraikaḷai uṭakaṉtaṭut taṟkāy
+   niṟuttat teṟippatai nērkala mēṟpuṟam.
+   pōtiya palakaikaḷ poruntiṉa appō
+   paṭakilē pōtiya pakkap palakaikaḷ
+   mūrkkamāyk koṭiya kāṟṟatu vīca
+   mōtip palamāy moymtirai taḷḷa 560
+   nuraitirai yūṭāy nuḻaintucel vēḷai
+   uyarnteḻu malaimī tūrntucel lukaiyil.
+     __________________________________________________________________
+
+  pāṭal 43 - campōvukkāka naṭaipeṟṟa kaṭaṟpōr
+  [19]*
+     __________________________________________________________________
+
+   aṭikaḷ 1-22 : vaṭanilat talaivi oru pōrk kappalait tayār ceytu
+   campōvait
+   tiruṭiyavarkaḷaip piṉtoṭarkiṟāḷ.
+   aṭikaḷ 23 - 258 : campōvait tiruṭiyavarkaḷai vaṭanāṭṭut talaivi
+   aṭaintavuṭaṉ,
+   kalēvā iṉattavarukkum vaṭa nilattavarukkum iṭaiyē pōr mūḷkiṟatu. pōril
+   kalēvā iṉattavar velkiṟārkaḷ.
+   aṭikaḷ 259 - 266 : pōril veṟṟi peṟāta pōtilum vaṭanilat talaivi
+   campōvaik
+   kappalil iruntu kaṭalukku iḻukkiṟāḷ. avvitam iḻukkum poḻutu, atu tuṇṭu
+   tuṇṭukaḷāka uṭaikiṟatu.
+   aṭikaḷ 267 - 304 : periya tuṇṭukaḷ kaṭalil āḻntu kaṭaliṉ celvaṅkaḷ
+   ākiṉṟaṉa.
+   ciṟiya tuṇṭukaḷai alaikaḷ aṭittuk karai cērkkiṉṟaṉa.
+   aṭikaḷ 305 - 368 : vaṭanilat talaivi kalēvā mākāṇam muḻuvataiyum
+   aḻippatākap
+   payamuṟuttukiṟāḷ. ataik kēṭṭu vaiṉāmoyiṉaṉ añcavillai.
+   aṭikaḷ 369 - 384 : vaṭanilat talaivi campōviṉ ciṟu tuṇṭukaḷaip peṟṟup
+   perum
+   tukkattuṭaṉ vaṭanāṭṭukkup pōkiṟāḷ.
+   aṭikaḷ 385 - 434 : vaiṉāmoyiṉaṉ karaiyil kiṭanta tuṇṭukaḷaik
+   kavaṉamākac
+   cērttu, avaṟṟai vaḷarttu, etirkālattil nalla celvam uṇṭākkalām eṉṟu
+   etirpārkkiṟāṉ.
+     __________________________________________________________________
+
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   vaṭanila makkaḷai maṟṟoruṅ kaḻaittaṉaḷ
+   kūṭṭat tārkkuk kuṟukkuvil koṭuttaṉaḷ
+   aṉaittumā ṉiṭarkkum aḷittāḷ vāḷkaḷai
+   muṭittaṉaḷ kaṭṭi vaṭanilap paṭakai
+   tayārcey tiṭṭaṉaḷ camarkkalam oṉṟu.
+   ēṟṟiṉaḷ maṉitarai iyaintataṉ kappalil
+   oḻuṅkāy amarttiṉaḷ uḷapōr vīrarai,
+   vāttoṉ ṟutaṉ vaḷariḷam kuñciṉai
+   ōtak kaṭalvāt toḻuṅkāk kutalpōl, 10
+   vāḷuṭaṉ iruntaṉar maṉitarkaḷ nūṟṟuvar
+   villuṭaṉ iruntaṉar vīrarkaḷ āyiram.
+   uyartti niṟuttiṉaḷ uṭaṉpāy maraṅkaḷai
+   **pāytūk(kum) kompiṉaip pārttaṉaḷ kavaṉamāy
+   pāykaḷaik kaṭṭiṉaḷ pāymaraṅ kaḷilē
+   maraṅkaḷil kaṭṭiṉaḷ vaṉpāyt tuṇikaḷai
+   nīṇṭu kiṭantatōr neṭumukil tiraḷpōl
+   vāṉil kuḻumiya mēkak kaṇampōl;
+   avaḷum puṟappaṭa lāyiṉaḷ ataṉpiṉ
+   puṟappaṭa lāyiṉaḷ pōyiṉaḷ viraintu 20
+   iṟaṅkac campō eṭukkum muyaṟciyil
+   vaiṉā moyiṉaṉiṉ vaṉpaṭa kiruntu.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   nīlak kaṭalil nikaḻttiṉaṉ payaṇam
+   intac coṟkaḷil iyampiṉaṉ avaṉē
+   paṭakiṉ cukkāṉ pakutiyi liruntē:
+   "ō,nī kuṟumpā, lempiyiṉ maintā!
+   eṉatu naṇparil iṉituyar naṇpā!
+   ēṟu pāymara ikalmēl ucci
+   perumpāy marattiṉ arumnuṉi yaṭaivāy 30
+   etirppuṟak **kavinilai evvā ṟeṉavaṟi
+   vāṉap piṉpuṟa vakainilai ārāy
+   tikaḻvāṉ teḷivāyc cīrāy uḷḷatā
+   cīrā yuḷḷatā cīraṟ ṟuḷatā!"
+   kuṟumpaṉ lemmiṉ kaiṉaṉap pōtu
+   paiyaṉ cenniṟap paṭupōk kiripiṉ
+   āṇai yiṭumuṉ āyatta mākiṉaṉ
+   tayārnilai peṟṟaṉaṉ tāṉē tūṇṭumuṉ
+   pāymarak kampap paṭumuc(ci) ēṟiṉaṉ
+   perumpāy marattiṉ arumnuṉi aṭaintaṉaṉ. 40
+   pārttaṉaṉ kiḻakkē pārttaṉaṉ mēṟkē
+   pārttaṉaṉ teṟkum paṭarvaṭa mēṟkum
+   vaṭakkuk karaiyaik kuṟukkē pārttaṉaṉ
+   piṉvarum moḻikaḷil piṉavaṉ coṉṉāṉ:
+   "etirppuṟam kavinilai iruppatu teḷivāy
+   irumpiṉ puṟavāṉ iruḷā yuḷḷatu:
+   vaṭaticai oruciṟu maḻaimuki luḷḷatu
+   mukiltiraḷ uḷḷatu muṉvaṭa mēṟpuṟam."
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "iṅkunī niccayam iyampiṉai poyyurai 50
+   atuoru pōtum mukilā yirātu
+   illaic cāttiyam iruntiṭa mukiltiraḷ
+   pāykaḷ kaṭṭiya paṭakē atuvām
+   mīṇṭum kavaṉam ūṉṟi yataippār!"
+   pārttaṉaṉ mīṇṭum pārttaṉaṉ kavaṉamāy
+   iṉivarum coṟkaḷil ivvitam coṉṉāṉ:
+   "tīvoṉ ṟaṅkē terikiṟa(tu) tolaivil
+   mikattū rattil miṉṉalāyt terikiṟa(tu)
+   niṟaintu **kāṭ ṭaracil niṟpaṉa paruntukaḷ
+   milāṟuvil puḷḷi vīḻkāṉ kōḻikaḷ." 60
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   iṅkunī niccayam iyampiṉai poyyurai
+   avaiparun tukaḷā yākavē māṭṭā
+   kuṟumpuḷḷi vīḻkāṉ kōḻiyu mākā
+   vaṭanilap paiyaṉ mārava rāvar
+   kavaṉamāyp pārttiṭu ataimūṉ ṟāmmuṟai!"
+   kuṟumpaṉ lemmiṉ kaiṉaṉ avaṉē
+   mūṉṟām muṟaiyāy mīṇṭum pārttāṉ
+   iṉivarum coṟkaḷil ivvitam coṉṉāṉ
+   inta moḻikaḷil ivvitam moḻintāṉ: 70
+   "varuvatu vaṭanila vaṉpaṭaku kippō
+   tuṭuppu vaḷaiyamnū ṟamai(tta) paṭaku
+   tuṭuppil nūṟṟuvar iruppavar maṉitar
+   āyiram makkaḷ arukiṉil uḷḷaṉar."
+   mutiya vaiṉā moyiṉaṉap pōtu
+   uṇmai muḻuvatum uṇarntē koṇṭaṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "valil mariṉaṉē, valippāy tuṭuppai!
+   kuṟumpaṉ lemmiṉ kaiṉaṉē, valippāy!
+   oṉṟāy valippīr uḷaelā makkaḷum 80
+   intap paṭaku iṉivirain tōṭa
+   vēkamāy intat tōṇimuṉ ṉēṟa!"
+   valil mariṉaṉ valittaṉaṉ tuṭuppai
+   kuṟumpaṉ lemmiṉ kaiṉaṉ valittaṉaṉ
+   oṉṟāy valittaṉar uḷaelā makkaḷum
+   toṭarkaṉap palakait tuṭuppukaḷ vaḷaintaṉa
+   mōtiṉa pēriyi lāmukai miṇṭu
+   naṭuṅkiṟ ṟūci(i)lai naṉmarap paṭaku;
+   olittatu nīrnāy pōlmuṉ ṉaṇiyam
+   cukkāṉ iraintatu toṭarnīr vīḻccipōl 90
+   kotitta taṇṇīr kumiḻika ḷāyiṉa
+   uruṇ ṭō ṭuṟṟu uyarnurai tiraṇṭu.
+   vīrarkaḷ pōṭṭipōl viraintu celuttiṉar
+   maṉitarpan tayattoṭu valittaṉar tuṭuppu
+   eṉiṉum payaṇat tillaimuṉ ṉēṟṟam
+   viraintiṭa villai viyaṉmarap paṭaku
+   pāyvirit tōṭiya paṭakataṉ muṉṉē
+   vaṭapāl nilattāl varupaṭa kataṉmuṉ.
+   mutiya vaiṉā moyiṉaṉap pōtu
+   taṉakku aḻivu tāṉvaral uṇarntāṉ 100
+   tuyartarum nāṭkaḷ talaimēl varuvatai
+   cintaṉai ceytāṉ cīruṟa niṉaittāṉ
+   eṅṅaṉam iruppatu evvitam vāḻvatu
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "itaṟkoru tantiram iṉṉamum aṟivēṉ
+   aticayam koñcam ākkināṉ pārppēṉ."
+   tītta(ṭ)ṭik kaṟkaḷait tēṭit taṭaviṉaṉ
+   tītta(ṭ)ṭip peṭṭiyuḷ tēṭit tuḻāviṉaṉ
+   tīttaṭṭik kalloṉṟu ciṟiya teṭuttaṉaṉ
+   ciṉṉañ ciṟiyatōr tīttaṭṭik kalliṉai 110
+   ataṉait tūkki āḻiyil eṟintaṉaṉ
+   avaṉatu iṭappuṟa akaltōḷ mēlāy
+   iṉivarum coṟkaḷil ivvitam coṉṉāṉ
+   inta moḻikaḷil ivvitam moḻintāṉ:
+   "eḻaṭṭumōr kaṭalaṭi ikalkaṟ pāṟai
+   irakaciyat tīvatāy eḻuntiṭaṭ ṭumatu
+   vantumō taṭṭum vaṭanilap paṭakatil
+   piḷakkaṭ ṭumcatat **tuṭup(pu)vaḷai(ya)p paṭaku
+   kaṭaṟpuyal vantu kaṭiturāy vēḷaiyil
+   tirainurai eḻuntu tēykkum pōtiṉil." 120
+   kaṭaliṉ pāṟaiyāy atupiṉ eḻuntatu
+   māṟiniṉ ṟatukaṭal valiyatōr kuṉṟamāy
+   ataṉnīḷ pakkam amaintatu kiḻakkē
+   maṟṟataṉ kuṟukku vaṭapuṟam pārttatu.
+   vaṭanilap paṭaku vantatu viraivāy
+   ōṭivan tatuvatu uḷaalai naṭuvē
+   atuvantu mōtiṟ ṟatukaṭaṟ pāṟaiyil
+   paṭaku kuṉṟiṉil paṭṭumuṭ ṭiyatu;
+   uṭaintu paṟantatu uyarmarap paṭaku
+   palakainū ṟamainta paṭaku citaintatu 130
+   kappaliṉ pāykaḷ kaṭalil vīḻntaṉa
+   pāykaḷ acaintu paṟantukīḻ vantaṉa
+   avaṟṟaik kāṟṟu aḷḷic celaṟku
+   puyalum eḻuntu puraṭṭic celaṟku.
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   kālkaḷi ṉālē kaṭalnīr ōṭiṉaḷ
+   tāṅkap paṭakiṉait tāṉavvā ṟōṭiṉaḷ
+   kappalait tūkkik kaṭalil niṟuttiṭa;
+   eṉiṉum paṭakai uyarttiṉāḷ illai
+   tūkki niṟuttiṉāḷ tōṇiyum illai; 140
+   uṭaintē pōyiṉa uṭaṉelāp pakkamum
+   tuṭuppu vaḷaiyam aṉaittum citaṟiṉa.
+   cintāṉa ceytāḷ cīruṟa niṉaittāḷ
+   intac coṟkaḷil iyampiṉaḷ avaḷē:
+   "evvakai yōcaṉai itaiyaṭut teḻuvatu
+   evaratu upāyam iruppatu muṉṉē?"
+   avaḷtaṉ uruvai ataṉpiṉ māṟṟiṉaḷ
+   vēṟoru vitamāy māṟṟiṉaḷ vaṭivai
+   aintari vāḷkaḷ avaḷkai eṭuttaṉaḷ
+   attuṭaṉ tēynta āṟumaṇ veṭṭikaḷ 150
+   avaṟṟai māṟṟiṉaḷ avaḷum nakaṅkaḷāy
+   avaḷtaṉ kaikaḷil ataṉpiṉ māṭṭiṉaḷ;
+   uṭaintupōyp paṭaku kiṭantatu pāti
+   avaḷtaṉ kīḻē ataṉai vaittaṉaḷ
+   pakkap palakaikaḷ paṭarciṟai yākkiṉaḷ
+   valikkum tuṭuppai vālāy māṟṟiṉaḷ
+   iruntaṉar nūṟupēr iṇaiciṟa kiṉkīḻ
+   vāliṉ muṉaiyil maṟṟā yirampēr
+   vāḷuḷōr avviṭam maṟṟum nūṟupēr
+   eyyum vīrarkaḷ iruntaṉar āyiram. 160
+   avaḷum paṟantiṭa akalciṟai virittaṉaḷ
+   uyarat tūkkiṉaḷ uṭaṉtaṉaik kaḻukupōl;
+   uyarat teḻuntu oḻuṅkāyp paṟantaṉaḷ
+   avaṉē vaiṉā moyiṉaṉait tēṭi;
+   oruciṟai mēlē uyarmukil toṭṭatu
+   maṟuciṟai kīḻē varunīr paṭṭatu.
+   nīriṉ aṉṉai, nēreḻil maṅkai,
+   intac coṟkaḷil iyampiṉaḷ avaḷē:
+   "mutiya vaiṉā moyiṉaṉē! ō,nī!
+   ceṅkati rōṉkīḻ ceṉṉiyait tiruppu 170
+   pārvaiyai vaṭamēṟ pakkam celuttu
+   tirumpic caṟṟē tikaḻpiṉ puṟampār!"
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   ceṅkati rōṉkīḻ ceṉṉiyait tiruppiṉaṉ
+   pārvaiyai vaṭamēṟ pakkam celuttiṉaṉ
+   caṟṟē tirumpit taṉpiṉ nōkkiṉaṉ:
+   vaṭanila mātu vantukoṇ ṭiruntaṉaḷ
+   aticayap paṟavai atupaṟan tiruntatu
+   pārttāl tōḷkaḷaip paṟakkum karuṭaṉ
+   **irāṭcacak kaḻukupōl iruntatu uṭalum. 180
+   vaiṉā moyiṉaṉai aticayap paṭuttiṉaḷ
+   pāymara nuṉiyiṉ pakkamāyp paṟantaṉaḷ
+   pāymaram periyataṉ pakkamāy viraintaṉaḷ
+   pāymara ucciyil mēlāy niṉṟaṉaḷ;
+   paṭaku aṭiyil amiḻap pārttatu
+   kappal puraṇṭu kaviḻap pārttatu.
+   aṅkē kollaṉ avvil mariṉaṉ
+   taṉtēva taikkut taṉṉaiyarp paṇittāṉ
+   taṉiṟai karuṇaiyait tāṉē nampiṉaṉ
+   iṉivarum coṟkaḷil ivvitam coṉṉāṉ: 190
+   "valiya teyvamē, vantemaik kāppāy
+   eḻilār teyvamē, eṅkaḷaik kāttaruḷ!
+   paiyaṉ tolaintu cellā tirukka
+   aṉṉaiyiṉ piḷḷai aḻiyā tirukka
+   paṭaittavaṉ paṭaitta paṭaippu(k)ka ḷiruntu
+   ākkiya iṟaivaṉiṉ ākkat tiruntu.
+   maṉumā mutalvaṉē, māperum tēvē!
+   viṇṇula kattu mētaku tantainīr!
+   aṉaluṭai oṉṟai aruḷvāy eṉakku
+   aṇivāy eṉakku aṉalvī cāṭaiyai 200
+   ataṉkā valilē āṟṟuvēṉ pōrai
+   ataṉpiṉ niṉṟu amarnāṉ purivēṉ
+   iṉṉaleṉ talaikku ēṟpaṭā tirukka
+   talaimayi rukku aḻivēṟ paṭāmal
+   oḷirum irumpuvāḷ uyarviḷai yāṭṭil
+   urukkiṉāl āṉa uyarkūr vāḷmuṉai."
+   mutiya vaiṉā moyiṉaṉ avaṉē
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "ōkō, vaṭapulat tēcat talaiviyē!
+   campō(vai) ippō caripaṅ kiṭuvamā 210
+   pukārpaṭi kaṭalataṉ puṇarmuṉai nuṉiyil
+   ceṟipaṉip pukāruḷa tivataṉ karaiyil?"
+   vaṭanilat talaivi varumā ṟuraittāḷ:
+   "eṉṟum pakirtalē ilaiccam pōvai
+   eḷiyamā ṉuṭaṉē illai uṉṉuṭaṉ!
+   vaiṉā moyiṉaṉē uṉṉuṭa ṉillai!"
+   campō(vaip) paṟṟat tāṉē muyaṉṟāḷ
+   vaiṉā moyiṉaṉ vaṉpaṭa kiruntu.
+   kuṟumpaṉ lemmiṉ kaiṉaṉaṉu maṅkē
+   iṭuppup paṭṭiyi liruntuvā ḷuruviṉaṉ 220
+   urukkiṉā lāṉa uyarala kuruviṉaṉ
+   iṭappuṟa miruntu iḻuttāṉ vāḷai
+   kuṟipārt taṟaintaṉaṉ koṭuṅkaḻu kiṉkāl
+   paṟavaiyiṉ pātam paṭaurat taṟaintaṉaṉ.
+   kuṟumpaṉ lemmiṉ kaiṉaṉ aṟaintaṉaṉ
+   aṟaintaṉaṉ attuṭaṉ uraittaṉaṉ ivvitam:
+   "vīḻka māṉuṭar vīḻka vāḷelām
+   vīḻka cōmpal mikavuṭai maṉitarum
+   iṟakiṉ kīḻuṟum orunūṟ ṟuvarum
+   paruciṟai nuṉiyamar patiṉmarum vīḻka!" 230
+   vaṭapula mutiyavaḷ varumā ṟiyampiṉaḷ
+   uccip pāymarat tuḷḷōḷ kūṟiṉaḷ:
+   "ō, nī kuṟumpā lempiyiṉ maintā!
+   iḻintōy, eḷiya ē, tūra neñciṉa!
+   contauṉ aṉṉaiyai vintaiē māṟṟiṉai
+   uṉpeṟ ṟōrkku uraittaṉai poyyurai;
+   pōrkkaḷam pōkēṉ eṉṟunī pukaṉṟaṉai
+   āṟu, pattuk kōṭaikā lattil
+   poṉṉai virumpiyum pōkēṉ eṉṟaṉai
+   veḷḷi vēṇṭiyum viraiyēṉ eṉṟaṉai." 240
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   nilaipeṟum māya neṟiyaṟi mutalvaṉ
+   eṇṇiṉaṉ kūṭiya teṉṟē nēramum
+   taruṇam vantatāyt tāṉē uṇarntaṉaṉ;
+   iḻuttaṉaṉ kaṭalil iruntē tuṭuppiṉai
+   cintura marattiṉ tuṇṭai alaikaḷil
+   aṟaintaṉaṉ ataṉāl ammutu mātai
+   kaḻukiṉ ciṟcila kaṭumukir aṭittaṉaṉ
+   viḻuntaṉa ēṉaiya **vaḷḷukir noruṅki
+   iruntatu oruciṟu eñciya viralē. 250
+   paiyaṉkaḷ vīḻntaṉar parumiṟa kiruntōr
+   tiraikaṭal vīḻntu teṟittaṉar māṉuṭar
+   ciṟakukīḻ irunta orunūṟu māntarum
+   vālataṉ pakka vīrarā yiravarum
+   kaḻukum tāṉāyk kaṭitukīḻ vantatu
+   kappaliṉ vaṅkak kaṭṭaimō tiyatu
+   marattiṉāl vīḻum vaṉakkō ḻiyaippōl
+   ūci yilaimarat toruaṇi laippōl.
+   campōkaip paṟṟat tāṉmuyaṉ ṟaṉaḷpiṉ
+   avaḷ taṉmōtira aṇiyuṟum viralāl 260
+   campōvai appō taṇṇīrp pōṭṭaṉaḷ
+   oḷirum mūṭi muḻutaiyum vīḻttiṉaḷ
+   paṭarcem paṭakiṉ pakkat tiruntu
+   nīla niṟattu neṭuṅkaṭal naṭuvil
+   campō uṭaintu tuṇṭuka ḷāṉatu
+   oḷirum mūṭiyum utirtuṇuk kāṉatu.
+   avvitam ceṉṟaṉa antat tuṇṭukaḷ
+   campōviṉ uṭainta takuperun tuṇṭukaḷ
+   amaiti nīriṉ aṭikkuc ceṉṟaṉa
+   kariya cēṟṟiṉ kaṉamaṭi ceṉṟaṉa. 270
+   taṇṇīrk kāyavai tāmviṭap paṭṭaṉa
+   ahtō iṉattuk kāmnaṟ putaiyalāy;
+   vaḷarumiv vulakiṉ vāḻnā ḷili(l)lai
+   poṉṉilāt tikaḻum poṟpoḻu tellām
+   celvam vēṇṭiya tillainī rukku
+   nikarilāt tiraviyam nīrah tōvuk(ku).
+   uṭainta ēṉaiya uṇmait tuṇṭukaḷ
+   mikamikac ciṟiya viyaṉtuṇ ṭāvaṉa
+   viḻuntaṉa nīla virikaṭaṟ parappil
+   paranta kaṭaliṉ paṭaralaic cērntaṉa 280
+   kāṟṟu ataittā lāṭṭic cella
+   kaṭalalai avaṟṟaik kaṭattip pōka.
+   avvitam kāltā lāṭṭic ceṉṟatu
+   kaṭalalai avvitam kaṭattic ceṉṟatu
+   nīlak kaṭaliṉ nīrpparap piṉilē
+   parantu virinta paṭarkaṭa lalaiyil
+   kāṟṟut taḷḷic cērttatu taraiyil
+   kaṭalalai kaṭattik karaiyiṭaic cērttatu.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   eṟinurai avaṟṟai eṟintataik kaṇṭāṉ 290
+   ceṟitirai taraiyil cērttataik kaṇṭāṉ
+   kaṇṭaṉaṉ cērttataik kaṭalalai karaiyil
+   campōviṉ ciṟiya takutuṇ ṭukaḷai
+   pirakāca mūṭiyiṉ ciṟutuṇ ṭukaḷai.
+   ataṉāl avaṉum āṉanta muṟṟāṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "vitaiyiṉ muḷaiatil iruntuṇ ṭākum
+   nilaipeṟum iṉpam atiluru vākum
+   uḻutali liruntu uṟumvitaip piruntu
+   atilē ellā arumvakai vaḷarum 300
+   atilē kuḷirmati akalnilāt tikaḻum
+   ciṟanta cūriyat tikaḻoḷi oḷirum
+   piṉlāntu nāṭṭiṉ peruntōp pellām
+   piṉlāntu nāṭṭiṉ naṉṉila mellām."
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   uraittāḷ orucol uraittāḷ ivvitam:
+   "itaṟkoru tantiram iṉṉamum aṟivēṉ
+   aṟivēṉ iṉṉamum oruvaḻi kāṇpēṉ
+   uṉuḻa vukketir uṉvitaip pukketir
+   uṉkāl naṭaikketir uṉpayir kaṭketir 310
+   tavaḻum niṉṟaṉ taṇmatik ketirāy
+   oḷiviṭum ātavaṉ uyarkatirk ketirāy
+   pāṟaik kalluḷ pālnilāt tiṇippēṉ
+   aruṇaṉaik kuṉṟu ataṉnaṭu maṟaippēṉ
+   uyarkuḷir vantu uṟaiyac ceyvēṉ
+   niṟuttik kuḷirnāḷ nilaiyiṉai vaippēṉ
+   uṉṟaṉ uḻutalil uṉṟaṉ vitaittalil
+   uṉtā ṉiyattil uṉaṟu vaṭaiyil
+   irumpuk kuṇṭu eṟimaḻai poḻivēṉ
+   urukkut tuṇṭāy ūṟṟuvēṉ māri 320
+   naṉku vaḷarntauṉ naṟpayir mītu
+   uṉṟaṉ ciṟanta uyarvayal kaḷiṉmēl.
+   kaviṉpacum puṟṟaraik karaṭiyai eḻuppuvēṉ
+   periyapaṟ pirāṇiyai naṟuntēva tāruvil
+   uṉviṟal aṭakkiya uyarpari aḻikka
+   peṇpari aṉaittaiyum koṉṟē muṭittiṭa
+   kālnaṭai yāvaiyum kaviḻttē vīḻttiṭa
+   pacuviṉam muḻutaiyum parappiṭac citaṟi;
+   aṉaittumak kaḷaiyum aḻippēṉ nōyiṉāl
+   uṉṟaṉ iṉattai oṉṟilā toḻippēṉ, 330
+   eṉṟumē inta eḻilnila vuḷavarai
+   avarkaḷaip paṟṟi avaṉiyil pēcceḻā(tu)."
+   mutiya vaiṉā moyiṉaṉap pōtu
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "eṉṉaip pāṭi lāppiyar capittalum
+   turyā maṉitariṉ tiṇippum naṭavā;
+   kavinilaik kaṭṭumam kaṭavuḷi ṉiṭattilum
+   atirṣṭat tiṟavukōl āṇṭava ṉiṭattuḷa,
+   kaṭuṅkoṭu maṉitar kaikaḷil avaiyilai
+   veṟuppavar viralkaḷiṉ viṟalnuṉi yilumilai. 340
+   nalliṟai kāppai nāṭināṉ niṉṟāl
+   kaṭavuḷā riṭattil pukaliṭam peṟṟāl
+   eṉpayirp puḻuvai illā tākkuvār
+   eṉniti yiruntu etiriyai nīkkuvār
+   tāṉiyap payirvēr tāṉkiḷam pāmal
+   viḷaipayir etuvum vīḻttap paṭāmal
+   eṉatiḷam muḷaikaḷai eṭuttē kāmal
+   eṉatucel vaṅkaḷ etuvum keṭāmal.
+   nī,vaṭa pāluḷa nilattiṉ talaivi,
+   pāṟaiyil tiṇippāy paṭutuya reṭuttu 350
+   kuṉṟilē aḻuttuvāy koṭumaikaḷ aṉaittaiyum
+   malaiyiṉ muṭiyilē varunō vēṟṟuvāy
+   āyiṉum eṉṟumē allanal matiyai
+   eṉṟumē anta iraviyai alla!
+   vantu kaṭuṅkuḷir valituṟai yaṭṭum
+   niṉṟu kuḷirkavi nilainilaik kaṭṭum
+   uṉakkuc cērnta uṉṉuṭai muḷaikaḷil
+   nīyē vitaitta niṉṉuṭai vitaikaḷil
+   irumpuk kuṇṭu iyaimaḻai eḻaṭṭum
+   urukkut tuṇṭu māriyūṟ ṟaṭṭum 360
+   uṉatu conta uḻavataṉ mēlē
+   vaṭapāl nilattu vayalkaḷiṉ mītē!
+   kaviṉpacum puṟṟaraik karaṭiyai eḻuppu
+   ciṉamuṟum pūṉaiyai ceṟiputa riruntu
+   vaḷaiyukirp pirāṇiyai vaṉkā ṭiruntu
+   ūci(yi)lai marattaṭi **eyiṟakal mirukam
+   vaṭapāl nilattiṉ vaḻioḻuṅ kaikaḷil
+   vaṭapulak kālnaṭai naṭantucel taṭattil."
+   anta vaṭanilat talaiviyum ataṉpiṉ
+   uraittāḷ orucol uraittāḷ ivvitam: 370
+   "ippō teṉvalu iṟaṅkukiṟa teṉṉāl
+   vaṟṟi vaṭinteṉ vallamai pōkiṟa(tu)
+   eṉṟaṉ celvam ēkiya tāḻiyuḷ
+   noruṅkic campō nuṭaṅkalai vīḻntatu!"
+   aḻutukoṇ ṭavaḷ aṭaintaṉaḷ illam
+   pulampik koṇṭavaḷ pōyiṉaḷ vaṭanilam,
+   kiṭaittavai ivaiyeṉa vaḻuttutaṟ killai
+   muḻuccam pōvilum **muyaṉṟil koṇarntavai;
+   āyiṉum ciṟitē avaḷkoṇ ṭēkiṉaḷ
+   taṉatu mōtirat taṉivira latilē; 380
+   vaṭanāṭ ṭukkavaḷ koṇarntāḷ mūṭiyai
+   kaippiṭi koṇarntaṉaḷ kāṇcari yōlō;
+   vaṭanilat tataṉāl vaṟumaiyum vantatu
+   vantatu roṭṭiyil vāḻvulāp piṉilē.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   avaṉē karaiyai aṭaintiṭu nēram
+   campōt tuṇṭukaḷ tammaik kaṇṭaṉaṉ
+   oḷirum mūṭiyiṉ uṭaitukaḷ kaṇṭaṉaṉ
+   ōtanīrk karaiyiṉ ōrap pakutiyil
+   meṉmai maṇalkaḷ viraviya iṭattil. 390
+   campōtat tuṇṭukaḷ tāṉeṭut tēkiṉaṉ
+   viyaṉoḷir mūṭiyiṉ vēṟupal tuṇṭukaḷ
+   pukārpaṭi kaṭalataṉ puṇarmuṉai nuṉikku
+   ceṟipaṉip pukāruḷa tīvataṉ karaikku
+   vaḷartteṭup pataṟku vaḷapperuk kukku
+   vi஢ḷaivip pataṟku viriceḻip pukku
+   pārarlit tāṉiyap parukupīrp pāṉamāy
+   **tāṉiya uṇavām taṭṭiya roṭṭiyāy.
+   mutiya vaiṉā moyiṉaṉu māṅkē
+   intac coṟkaḷil iyampiṉaṉ avaṉē: 400
+   "tantaruḷ karttaṉē, tantaruḷ iṟaivaṉē!
+   tantaruḷ pākkiyam tāṉniṟai vāḻvai
+   eṉṟum ciṟappāy iṉituvāḻ varattai
+   tantaruḷ mēṉmai tāṉmiku maraṇam
+   ippiṉ lāntu iṉimaiyām nāṭṭil
+   kaviṉniṟain tiṭumik karyalāp pakutiyil.
+   nilaipeṟum teyvamē, nīkāp paruḷvāy!
+   iṉiyaem iṟaivaṉē, iṉikkāp pāyirum!
+   maṉitariṉ tīya maṉaniṉai vavaikku
+   mutiya mātariṉ catiniṉai vavaikku; 410
+   koṭumpuvic caktikaḷ kuppuṟa vīḻttuvīr
+   puṉaṟcū ṉiyattaraip puviyilveṉ ṟaruḷuvīr.
+   umatu makkaḷiṉ uṟumaruṅ kiruppīr
+   eṉṟum piḷḷaikaṭ kiruppīr utaviyāy
+   niciyilep pōtum niṟpīr kāvalāy
+   pakalilum taruvīr pātukāp piṉaiyē
+   oḷirkatir koṭitāy oḷirā tirukka
+   tikaḻmati koṭitāyt tikaḻā tirukka
+   virikāl koṭitāy vīcā tirukka
+   poḻimaḻai koṭitāyp poḻiyā tirukka 420
+   uṟukuḷir vantu uṟaiyā tirukka
+   koṭiya kavinilai kūṭā tirukka.
+   irumpāl vēli oṉṟiyaṟ ṟiṭuvīr
+   kallāl kōṭṭai oṉṟaik kaṭṭuvīr
+   eṉṟaṉ vativiṭam itaṉaic cuṟṟiyē
+   eṉṉiṉa makkaḷiṉ iraṇṭu pakkamum
+   maṇṇilē yiruntu viṇṇakam varaikkum
+   viṇṇakat tiruntu viripuvi varaikkum
+   eṉṟumē vāḻviṭam eṉakkā kaṭṭum
+   pukaliṭa māka puṉarkāp pāka 430
+   etirikaḷ uṇavai eṭuttuṇā tirukka
+   celvam pakaivar tiruṭā tirukka
+   vaḷarumiv vulakiṉ vāḻnāḷ eṉṟum
+   poṉṉilāt tikaḻum poṟpoḻu tellām!
+     __________________________________________________________________
+
+  pāṭal 44 - vaiṉāmoyiṉaṉiṉ putiya yāḻ
+  [20]*
+     __________________________________________________________________
+
+   aṭikaḷ 1 - 76 : vaiṉāmoyiṉaṉ taṉatu tolainta yāḻaik kaṭalil tēṭip
+   pārkkiṟāṉ; āṉāl kiṭaikkavillai.
+   aṭikaḷ 77 - 334 : vaiṉāmoyiṉaṉ milāṟu marattiliruntu oru putiya yāḻaic
+   ceytu, ataṉai mīṭṭi, ellā uyiriṉaṅkaḷum iṉpam aḷikkiṟāṉ.
+     __________________________________________________________________
+
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   taṉmū ḷaiyilē tāṉ cintittāṉ:
+   "icaippatu poruttamāy irukkum ippō
+   iracittu makiḻvatum irukkum naṉṟāy
+   ippō vantuḷa ipputuc cūḻnilai
+   inta aḻakiya iṉiyatōṭ ṭaveḷi;
+   āyiṉum kantalē atutolain tiṭṭatu
+   iṉpamum aṭiyō ṭillā tāṉatu
+   vāḻum mīṉkaḷiṉ vativiṭaṅ kaḷukku
+   vañciram vāḻum vaṉpā ṟaikku 10
+   āḻiyiṉ āḻam āḷpavar kaṭku
+   vellamō viṉatu maṉṉuyir kaṭku
+   koṇarap pōvatu ataimīṇ ṭumilai
+   ahtō mīṇṭum atutaru vatumilai.
+   ō,nī kolla, uyaril mariṉa!
+   muṉṉarum nēṟṟum muṉaintē ceytaṉai
+   iṉṟum oṉṟai iyaṟṟuvāy aṅṅaṉam
+   irumpilē vāri iṉitoṉ ṟākkuvāy
+   mūṭṭuka vāri muṭkaḷai nerukki
+   nerukkamāy muṭkaḷ nīḷamāyk kaipiṭi 20
+   ataṉāl nāṉum alaikaḷai vāruvēṉ
+   tiraikaḷai ataṉāl tiṉamnāṉ kalakkuvēṉ
+   vāripuṟ paṭukaiyai vaikkōṟ pōrāy
+   karaikaḷaik kūlak katirāy alacuvēṉ
+   yāḻicaik karuviyai mīḷap peṟanāṉ
+   kantalē eṉṉum karuviyai aṭaiya
+   uṟaiyum mīṉiṉat tuṟaiviṭaṅ kaḷilē
+   vañciram vāḻum vaṉkaṟ pāṟaiyil!"
+   antak kollaṉ avvil mariṉaṉ
+   kaviṉaḻi villāk kaiviṉaik kalaiñaṉ 30
+   ākkiṉaṉ vāriyai akalulai irumpāl
+   ataṟkuc ceppilē amaittāṉ kaipiṭi
+   ataṉmuṉ nīḷam **aṟuṟū ṟaṭiyām
+   ataṉkaip piṭiyō **ainnūṟ ṟāṟaṭi.
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   eṭuttaṉaṉ irumpiṉāl iyaṟṟiya vāriyai
+   aṭivait tēkiṉaṉ avaṉciṟu pātaiyil
+   ceytaṉaṉ payaṇam ciṟutolai tūram
+   urukkiṉāl ceyta uruḷaiyiṉ iṭattē
+   ceppiṉāl ceyta ceṟipaṭa kuttuṟai. 40
+   paṭakukaḷ iruntaṉa paṭakiraṇ ṭavviṭam
+   iruntaṉa paṭakukaḷ iraṇṭā yattamāy
+   urukkiṉāl ceyta uruḷaikaḷ mītiṉil
+   cempiṉāl ceyta ceṟipaṭa kuttuṟai:
+   avaṟṟilōr paṭaku atiputi tāṉatu
+   iṉṉoru paṭaku iruntatu paḻaiyatu.
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ
+   pukaṉṟaṉaṉ irunta putuppaṭa kukku:
+   "celvāy paṭakē teḷipuṉal mēlē
+   tōṇiyē viraivāy toṭartirai kaḷiṉmēl 50
+   uṉṉaik kaikaḷāl uṟappuraṭ ṭāmal
+   viralkaḷ vaittu viraintuṉait toṭāmal!"
+   ceṉṟatu paṭaku teḷipuṉal mēlē
+   tōṇi viraintatu toṭartirai mītu;
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   tāṉē cukkāṉ taṉmaruṅ kamarntaṉaṉ
+   kaṭalaip perukkik kāṇap pōyiṉaṉ
+   alaikaḷaik kūṭṭi alacap pōyiṉaṉ;
+   nīrām palmalar niṟaittoṉ ṟākkiṉaṉ
+   kuppaikū ḷattaik koṇarntaṉaṉ karaikku 60
+   kōrait tuṇukkukaḷ vārik kuvittaṉaṉ
+   kōrait tuṇukkukaḷ nāṇal tuṇṭukaḷ
+   āḻap pakutikaḷ aṉaittum vāriṉaṉ
+   akalkaṟ pāṟaikaḷ aṉaittum vāriṉaṉ
+   kāṇavum illaik kaippaṭa vummilai
+   iyaintakō lācci elumpuk karuviyai
+   aṭiyō ṭicainalam aḻintē pōṉatu
+   kantalē yāḻum kāṇā toḻintatu.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   illam nōkki eṭuttaṭi vaittaṉaṉ 70
+   tāḻnta talaiyuṭaṉ vīḻnta maṉattuṭaṉ
+   uyarnta toppiyum uṟaccarin tiruntatu
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "itaṉmēl eṉṟum irukkamāṭ ṭātu
+   kōlācci eyiṟṟil miḻaṟṟiya iṉṉicai
+   mīṉiṉ elumpiṉil viḷainta paṇṇicai."
+   aṭaviyiṉ veḷiyil avaṉē kukaiyil
+   vaṉattiṉ ellaiyil vantanē rattil
+   aṅkoru milāṟu aḻutataik kēṭṭaṉaṉ
+   puricuruḷ marattiṉ pulampoli kēṭṭaṉaṉ; 80
+   ataṉpak kattai avaṉceṉ ṟaṭaintaṉaṉ
+   arukil ceṉṟaṉaṉ arukil niṉṟaṉaṉ.
+   viṉaviṉaṉ ivvitam viḷampiṉaṉ ivvitam:
+   "aḻakuṟum milāṟuvē, aḻuvatu etaṟku?
+   pacciḷam maramē, pulamputal etaṟku?
+   **veṇpa(ṭ)ṭi maramē, vicaṉamum etaṟku?
+   ikalpōrk kuṉṉai eṭuttē kiṭārkaḷ
+   cerutaṟ killait tēvaip paṭuvatum."
+   tiṟamāy milāṟu ceppiya tippatil
+   pacumai maramum pakarntatu ivvitam: 90
+   "āmappā cilapēr aṟaivar ippaṭi
+   cilapēr ippaṭic cintaṉai ceyvar
+   maṟṟunāṉ iṅkunal makiḻvuṭa ṉirukkiṟēṉ
+   uvakaiyil tiḷaittu uyirvāḻ kiṟēṉeṉa;
+   eḷiya maramnāṉ iṉṉalil irukkiṟēṉ
+   tuṉpat tilētāṉ iṉpam kāṇkiṟēṉ
+   allal nāṭkaḷil akappaṭ ṭuḻalkiṟēṉ
+   muṉmaṉat tuyarāl muṇumuṇuk kiṉṟēṉ.
+   aḻukiṟēṉ eṉatu aṟiyā(mai) veṟumaik(ku)
+   payaṉilā eṉnilai pārttup pulampiṉēṉ 100
+   atirṣṭa maṟṟanāṉ āta(஡)ra maṟṟanāṉ
+   allalē paṭṭanāṉ apalaiyu māṉanāṉ
+   tīmaikaḷ niṟaintavit tītā miṭaṅkaḷil
+   tiṟantu parantavic ceṟipul veḷikaḷil.
+   pēṟupeṟ ṟavarkaḷ peruṅkaḷi koṇṭavar
+   eṉṟumē avarkaḷ itaiyetir pārppar
+   aḻakiya kōṭai āmparu vamvara
+   viyaṉcīrk kōṭai veppa nilaivara;
+   āyiṉum maṭamaik kāḷām nāṉō
+   accam koṇṭu allaṟ paṭukiṉṟēṉ; 110
+   uriyaeṉ paṭṭai urikkap paṭuvatāl
+   ilaiyuḷa kiḷaikaḷ eṭuttiṭap paṭuvatāl.
+   aṉēkamāy eṉṟaṉ āmiruḷ nilaiyil
+   perumpā(um) eṉṟaṉ pēriruḷ nilaiyil
+   viraintē cellum vacantap piḷḷaikaḷ
+   eṉatu maruṅkē iṉitē varuvār
+   kiṭaittaaiṅ **kattiyāl kīṟik kiḻippar
+   cāṟuār vayiṟṟait tāmpiḷan takaṟṟuvar;
+   kōṭaikā lattil koṭiya iṭaiyarkaḷ
+   eṉveṇ paṭṭiyai eṭuttuc celvar 120
+   nīrppaik koṉṟu, neṭuvāḷ uṟaik koṉ(ṟu),
+   iṉṉoṉṟu ciṟupaḻam eṭuttakal kūṭaik(ku).
+   aṉēkamāy eṉṟaṉ āmiruḷ nilaiyil
+   perumpāl(um) eṉṟaṉ pēriruḷ nilaiyil
+   peṇṭir varuvār eṉkīḻ iruppār
+   kūṭiyeṉ pakkam kummāḷa miṭuvār
+   ilaiyuḷa kiḷaikaḷai eṭuppār veṭṭi
+   **ilaikkaṭ ṭamaittuk kiḷaikaḷai muṭippār.
+   aṉēkamāy eṉṟaṉ āmiruḷ nilaiyil
+   perumpāl(um) eṉṟaṉ pēriruḷ nilaiyil 130
+   veṭṭi yerikka vīḻttap paṭaluḷa
+   viṟakāy erikka veṭṭip piḷappuḷa
+   mūṉṟu muṟaikaḷ moḻiyumik kōṭaiyil
+   intak kōṭai iyaikā lattil
+   eṉkīḻ varuvār iruppar maṉitar
+   kōṭari eṭuppar kūrmaip paṭuttuvar
+   ēḻaieṉ talaiyai vīḻat taṟikka
+   valimai kuṟaintaeṉ vāḻviṉai muṭikka.
+   kōṭai kālak kutūkalam atuvām
+   ciṟappuṟu kōṭait tiṉakkaḷip pituvām; 140
+   atilum ciṟappāy ākā kuḷirnāḷ
+   atilum naṉṟāy ākā paṉināḷ.
+   aṉēkamāy muṉpelām amaiyu mivvāṟu
+   tuyaramē eṉṟaṉ tōṟṟam māṟṟiṭum
+   talaiyum māṟiṭum taṉipperum pāramāy
+   veḷuttu mukamum veṇṇiṟa mākiṭum
+   niṉaivilē ōṭi nitamvarum iruḷnāḷ
+   tīya kālamum cintaiyil varumē.
+   iṉṉalaik koṇarum itaṉpiṉ kāṟṟu
+   kavalaiyīṉ paṉippukār kavaṉit tiṭumpiṉ: 150
+   eṉpacum mēluṭai eṭuttē kiṭumkāl
+   eḻiṟpā vāṭaiyai eṭukkum kaviḻpaṉi
+   ataṉāl eṉakkō atikam poruḷila
+   eḷiya milāṟunāṉ iṅkoru pāvi
+   nirva(஡)ṇa māka niṟkiṟēṉ ivviṭam
+   āṭaikaḷ muṟṟāy aṇiyā niṟkiṟēṉ
+   uyarkaṭum kuḷirāl utaṟa leṭukkiṟēṉ
+   naṉippaṉip pukārāl naṭuṅkik kiṭakkiṟēṉ."
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "aḻakupaim maramē, aḻutalum vēṇṭām! 160
+   poṟpacun taḻaiyē, pulampalum vēṇṭām!
+   veṇṇiṟ paṭṭiyē, iṉṉalum vēṇṭām!
+   peṟuvāy nīyum perumpāk kiyattai
+   iṉiya vāḻviṉai eḻiṟputu vāḻviṉai;
+   kaḷippiṉ kaṇṇīr kāṇpāy viraivil
+   makiḻcciyaik kaṇṭu maṉaṅkaḷi kūrvāy."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   icainaṟ karuviyāy iyaṟṟiṉaṉ milāṟuvai;
+   orukōṭai nāḷmuḻu tuvantē cetukkiṉāṉ
+   kantalē yāḻām karuviyai iyaṟṟiṉāṉ 170
+   pukārpaṭi kaṭalataṉ puṇarmuṉai nuṉiyil
+   ceṟipaṉip pukāruḷa tīvataṉ karaiyil
+   kantalē karuviyiṉ kaviṉuruc cetukkiṉaṉ
+   putticai iṉpap polivuṭa lamaippai
+   vaira milāṟuvil vaṭivam vantatu
+   uṟucuruḷ milāṟuvil uṭalamaip pāṉatu.
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ
+   uraittāṉ avaṉē uraittāṉ ivvitam:
+   "atōiruk kiṟatu eḻiṟkan talēyuru
+   aḻiyā iṉpat taḻakuṭa lamaippu 180
+   eṉiṉum muḷaikaḷai eṅkē peṟalām
+   eṅkē peṟalām itaṉmuṟuk kāṇikaḷ?"
+   toḻuvamuṉ ṟililcin tūram vaḷarntatu
+   muṟṟat tellaiyil mutirntatōr uyarmaram
+   cintura marattil ciṟappuṟum kompukaḷ
+   ovvoru kiḷaiyilum ovvoru **paḻamām
+   ovvoru poṟpan tovvoru paḻattilum
+   ovvōr(poṟ) pantilum ovvoru kuyilām.
+   kuyilov voṉṟum kūviya nēram
+   curutikaḷ aintu toṭarntoli tarukaiyil 190
+   pāyntatu vāyilē pacumpoṉ curantu
+   vāyilē veḷḷiyum vaḻintē vīḻntatu
+   poṉṉā lākiya poṉmē ṭoṉṟilē
+   veḷḷiyil viḷainta veṇṇiṟak kuṉṟil
+   aṅkutāṉ kantalē yāḻmuḷai ākiṉa
+   uṟumcuruḷ milāṟuviṉ uru(vu)kku muṟukka(஡)ṇi.
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ
+   uraittāṉ avaṉē uraittāṉ ivvitam:
+   "kantalē yāḻkkuk kaviṉmuḷai kiṭaittatu
+   uṟumcuruḷ milāṟuviṉ uru(vu)kku muṟukka(஡)ṇi 200
+   eṉiṉum iṉṉamum etuvō kuṟaiyuḷa
+   yāḻkkut tēvai nalnaram paintu;
+   eṅkunāṉ peṟuvēṉ inta narampukaḷ
+   toṭaroli eḻuppic curutikaḷ cērttiṭa?"
+   narampukaḷ tēṭi naṉipuṟap paṭṭaṉaṉ
+   aṭivait tēkiṉaṉ aṭaviyiṉ veḷiyil
+   kāṭṭiṉil iruntaṉaḷ kaṉṉi yorutti
+   īrat taraiyiṉil iḷampeṇ ṇorutti
+   arivaiyum aṅkē aḻutaṉaḷ alla
+   āyiṉum uvakaiyil āḻntaṉaḷ alla 210
+   taṉakkuḷ pāṭit tāṉē yiruntaṉaḷ
+   antip poḻutai avaḷkaḻit tiruntaṉaḷ
+   nampi maṇamakaṉ nāṭiyē varumeṉa
+   kātalaṉ niṉaivil kalanta nilaiyilē.
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   metuvāyk kālaṇi **milaiyā nakarntaṉaṉ
+   **viraltuṇi yiṉṟi viraintaṉaṉ aṅkē;
+   avaṉum vantu avviṭam cērntatum
+   iṟaiñcik kēṭṭaṉaṉ iḷampeṇ kūntalai
+   intac coṟkaḷil iyampiṉaṉ avaṉē: 220
+   "kumariyē, ciṟituṉ kūntalait taruvāy!
+   ceḻumeḻiṟ peṇṇē, ciṟituuṉ kūntalai!
+   kantalē yāḻām karuviyiṉ narampāy
+   uyarnilai iṉpat toliyāyt tikaḻntiṭa!"
+   kumariyum ciṟitutaṉ kūntalait tantaṉaḷ
+   tikaḻeḻiṟ kūntalil ciṟitavaḷ tantaṉaḷ
+   aintāṟu kūntalai arivaiyum tantaṉaḷ
+   aḷavō rēḻu avaḷkuḻal tantaṉaḷ
+   kantalē narampukaḷ kaṭitatil amaintaṉa
+   kaviṉiṉ nittiyak karuviyiṉ narampukaḷ. 230
+   yāḻicaik karuvi naṉitayā rāṉatu;
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   orukaṟ pāṟaiyil uvantamarn tiruntaṉaṉ
+   paṭikkaṭ ṭirunta pāṟaiyoṉ ṟiṉilē.
+   karaṅkaḷil eṭuttaṉaṉ kantalēk karuviyai
+   icaiiṉ karuviyai eṭuttaṉaṉ arukiṉil
+   vaittaṉaṉ talaippuṟam vāṉnōk kiyēyatai
+   aḻuttiṉaṉ **muḻaṅkāl atiltōḷ vaittu
+   oḻuṅkāy narampiṉil ōcaiyai amaikka
+   curutiyaic cērttu cukaoli eḻuppa. 240
+   oḻuṅkāy narampiṉiṉ ōcaiyai amaittaṉaṉ
+   curuti yāḻicaik karuviyil cērttaṉaṉ
+   karaṅkaḷiṉ kīḻē karuviyait tiruppiṉaṉ
+   muḻaṅkāṟ kuṟukkāy muḻuyāḻ vaittaṉaṉ
+   paṇittaṉaṉ viralkaḷiṉ pattu nakaṅkaḷai
+   aintu viralkaḷai ataṉmēl vaittaṉaṉ
+   viḷaiyā ṭiṭavē narampumēṟ paṟantu
+   tuḷḷit tirintiṭat toṉiyeḻu tantiyil.
+   mutiya vaiyiṉā moyiṉaṉu māṅkē
+   kantalē eṉṉum kaviṉyāḻ mīṭṭiṉaṉ 250
+   viyaṉciṟu karattāl meṉmai viralkaḷāl
+   peruviral avaitām piṉpuṟam vaḷaintaṉa
+   valicuruḷ milāṟu marampē ciyatu
+   ilaiyuḷa iḷamaram iṉitē yolittatu
+   koḻumpoṉ kuyilkaḷ kūvi yaḻaittaṉa
+   kaṉṉiyiṉ kūntal kaḷippait tantatu.
+   mīṭṭiṉaṉ vaiṉā moyiṉaṉ viralāl
+   kantalē narampukaḷ kaṉivā yolittaṉa
+   paṉmalai muḻaṅkiṉa pāṟaikaḷ mōtiṉa
+   uyarkuṉ ṟaṅkaḷ oruṅkacain tāṭiṉa 260
+   kaṟpā(ṟai) vīḻntu kaṉatirait teṟittaṉa
+   kūḻāṅ kaṟkaḷ kuḷirpuṉal nakarntaṉa
+   tēva tārukaḷ tiḷaittaṉa makiḻcciyil
+   kaviṉpuṟ ṟaraimarak kaṭṭaikaḷ tuḷḷiṉa.
+   kalēvāp peṇkaḷ kaviṉmait tuṉimār
+   cittirat taiyaliṉ mattiyi liruntaṉar
+   natiyiṉaip pōlavē naṅkaiyar viraintaṉar
+   aruviyaip pōlavē aṉaivaru mōṭiṉar
+   nakaitta vāyiḷa naṅkaiyiya rōṭiṉar
+   makiḻnta maṉattuṭaṉ maṉaiviyar kūṭiṉar 270
+   yāḻiṉai mīṭpatai nalamāyk kēṭkavē
+   icaiyiṉ pattai iṉitē nukara.
+   maruṅkiṉil niṉṟa maṉitarkaḷ aṉaivariṉ
+   karaṅkaḷi liruntaṉa kaviḻttavar toppikaḷ;
+   pakkam mutiya pāvaiyar yāvarum
+   kaṉṉam tāṅkik kaikaḷil niṉṟaṉar;
+   pūvaiyar viḻikaḷil puṉaluṭaṉ niṉṟaṉar
+   nilattūṉ(ṟi) muḻaṅkāl niṉṟaṉar maintar
+   kantalē icaiyiṉaik kaviṉuṟak kēṭka
+   icaiyiṉ pattai iṉitē nukara 280
+   orēkura leṭuttu uraittaṉa raṉaivarum
+   orēnā veṭuttē uraittaṉar mīṇṭum:
+   "illaiyē muṉṉar ippaṭi kēṭṭatu
+   iṉṉicai nikaḻcci itupōl oṉṟiṉai
+   vaḷarumiv vulakiṉ vāḻnāḷ eṉṟum
+   poṉṉilāt tikaḻum poṟpoḻu tellām."
+   iṉimai niṟainta icaiyum kēṭṭatu
+   āṟu kirāmam aṉaittum kēṭṭatu;
+   entap pirāṇiyum ilaiyām aṅkē
+   makiḻntu kēṭka varāta pirāṇikaḷ 290
+   iṉiya antayāḻ icaiyiṉ perukkai
+   kantalē tanta kaṉivuṟum oliyiṉai.
+   vāḻum aṉaittu vaṉavilaṅ kukaḷum
+   taraiyil ukiruṟat tāḻntē iruntaṉa
+   kantalē icaiyiṉaik kaṉivāyk kēṭka
+   icaiyiṉ pattai iṉitē nukara;
+   kāṟṟiṟ paṟantu kaṭitalai paṟavaikaḷ
+   maraṅkaḷiṉ kiḷaikaḷil vantoṉ ṟāyiṉa
+   nīrilē vāḻum nīrmīṉ vakaiyelām
+   oṉṟāy nīrkkarai yōram cērntaṉa 300
+   maṇṇataṉ kīḻuṟai maṇpuḻu yāvum
+   maṇṇiṉ mēṟpuṟam vantaṉa metuvāy
+   nakarntavai vantaṉa nallicai kēṭṭaṉa
+   anta yāḻiṉ arummiṉ ṉicaiyiṉai
+   nikaḻkan talēyāḻ nittiya icaiyiṉai
+   vaiṉā moyiṉaṉiṉ vaṇṇanal licaiyiṉai.
+   mutiya vaiyiṉā moyiṉaṉu māṅkē
+   uṇmaiyil ciṟappāy uyaryāḻ mīṭṭiṉaṉ
+   eḻilār oliyai eḻuppi icaittaṉaṉ;
+   icaittaṉaṉ orunāḷ icaittaṉaṉ irunāḷ 310
+   toṭaṅki orēmuṟai toṭarntē icaittaṉaṉ
+   orēyoru kālai uṇavuṭa ṉicaittaṉaṉ
+   iṭuppup paṭṭiyai iṇaittē orumuṟai
+   uṭalil caṭṭaiyai orumuṟai aṇintē.
+   illat tavaṉum icaitta pōtiṉil
+   ūci yilaimarat turuvām aṟaiyiṉil
+   etiroli kūraiyil iruntē eḻuntatu
+   taraiyilē palakaikaḷ cattam pōṭṭaṉa
+   uttaram icaittatu uṭaṉkata volittatu
+   cāḷaram aṉaittum taṉikkaḷip puṟṟaṉa 320
+   aṭukkaḷaik kaṟkaḷ āṭi yacaintaṉa
+   milāṟuviṉ tūṇkaḷ patilāyp pāṭiṉa.
+   **tāruviṉ pakkam tāṉavaṉ celkaiyil
+   **tēvatā riṭai yē tirintavē ḷaiyilē
+   tāru maraṅkaḷ tāḻttiṉa talaikaḷ
+   tēvatā ravaimalait tirumpiyē niṉṟaṉa
+   **kūmpupul mēṭṭil puṟamvīḻn turuṇṭaṉa
+   **cuḷḷikaḷ vērilē corintu paraviṉa
+   poḻiliṭai avaṉum pōynaṭak kaiyilē
+   allatu veḷiyām aṭaviyil celkaiyil 330
+   āṭiṉa cōlaikaḷ āṉan tittaṉa
+   kāṭukaḷ eṉṟum kaḷippō ṭiruntaṉa
+   malarnta malarkaḷ makiḻcciyil tiḷaittaṉa
+   iḷamarak kaṉṟukaḷ eḻiltalai tāḻttiṉa.
+     __________________________________________________________________
+
+  pāṭal 45 - kalēvā mākāṇattil koḷḷai nōy
+  [21]*
+     __________________________________________________________________
+
+   aṭikaḷ 1-190 : vaṭa nāṭṭiṉ talaivi koṭiya nōykaḷaik kalēvā
+   mākāṇattukku aṉuppukiṟāḷ.
+   aṭikaḷ 191-362 : mantira caktiyālum maruttuvattālum vaiṉāmoyiṉaṉ
+   nōykaḷaik kuṇamākkukiṟāṉ.
+     __________________________________________________________________
+
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   ceytikaḷ taṉatu cevikaḷil kēṭṭaṉaḷ
+   *vaiṉolā nāṭṭiṉ vaḷarciṟap paṉaittum
+   kalēvalāp pakutiyiṉ kaviṉvaḷarc cikaḷai
+   avarkaḷ peṟṟaac campōt tuṇṭiṉāl
+   oḷirum mūṭiyiṉ oṇtuṇuk kukaḷāl.
+   ataṉāl avaḷum aḻukkā ṟuṟṟaṉaḷ
+   ataṉaic cintaṉai avaḷcatā ceytaṉaḷ
+   po஢yatōr aḻivaip peṟacceyal eppaṭi
+   evvitam maraṇam ēṟpaṭut tiṭalām 10
+   vaiṉolā nāṭṭu makkaḷuk kaṅkē
+   kalēvalāp pakutiyiṉ kāṇiṉat tōrkku.
+   maṉumutal vaṉaiyē maṟṟavaḷ vaṇaṅkiṉaḷ
+   muḻakka mutalvaṉai muṟaiyī ṭiṭṭaṉaḷ:
+   "ō, mutu maṉitaṉē, uyarmā teyvamē!
+   kalēvā makkaḷaik kaṭṭoṭu vīḻttu
+   irumpuk kuṇṭu ikalmaḻai poḻintu
+   urukku muṉaiyuḷa ūcikaḷ co஡஢ntu
+   allatu nōyāl avarkaḷai aḻippāy
+   avveḷi(ya) iṉattai aṭiyō ṭoḻippāy 20
+   maṉitaraip po஢ya vaṉattōṭ ṭaveḷi
+   peṇkaḷait toḻuvap perumuṟ ṟanilam!"
+   avaḷō tuvōṉalā antakap peṇṇām
+   *loviyattār eṉṟu nuvalmutu mātavaḷ
+   tuvōṉiyiṉ makkaḷil toṭartī maiyavaḷ
+   maraṇat(tu) ulakilē vaṉmikuk koṭiyavaḷ
+   muḻut tīmaikkum muḻukkā raṇamavaḷ
+   āyira maḻivuk kātā ramavaḷ;
+   avaḷvaṭi vaniṟam aṉaittum karumai
+   avaḷatu tōlō atilum kaṭumniṟam. 30
+   antat tuvōṉiyiṉ atikarum peṇṇavaḷ
+   *āḻat tulakil arunōk kiḻantavaḷ
+   paṭukkaiyaip pōṭṭaṉaḷ pātai naṭuvilē
+   tīmaip pūmiyil ciṟiyataṉ amaḷiyai;
+   kāṟṟukku mutukaik kāṭṭip paṭuttaṉaḷ
+   taṉṉoru puṟattai takākkavi **nilaikku
+   kaṭuṅkuḷirp pakkam kāṭṭiṉaḷ piṉpuṟam
+   viṭiyalai nōkkimuṉ puṟamikak kāṭṭiṉaḷ.
+   peruṅkāṟ ṟoṉṟu pīṟiṭ ṭeḻuntatu
+   kiḻakkiṉi liruntu kiḷarntatōr perum puyal 40
+   koṭuttatu karppam koṭumpiṟa vikku
+   naṉaittatu karppam naṉṟāy vaḷarvarai
+   marañceṭi yaṟṟa veṟumtarai yoṉṟilē
+   pulpūṇ ṭillāp poṉṟupāḻ nilattilē.
+   kaṭumaiyāyc cumantaṉaḷ kaṉamuṟu karppam
+   kaṭitē tāṅkiṉaḷ kaṉamniṟai vayiṟṟai
+   mātam iraṇṭu mūṉṟum cumantaṉaḷ
+   cumantaṉaḷ nālilum cumantaṉaḷ aintilum
+   ēḻilum tiṅkaḷ eṭṭilum cumantaṉaḷ
+   oṉpatām mātam muṟṟum cumantaṉaḷ 50
+   kaṉṉiyar paḻaiya kaṇakkataṉ paṭiyē
+   pattām mātam pātiyum cumantaṉaḷ
+   oṉpatām mātam ūrntu muṭintu
+   mātam pattu vantu toṭaṅ kaiyil
+   karppam mikavum kaṭiṉamā yiruntatu
+   cumaiyiṉ aḻuttalāl tōṉṟiya tunō;
+   āyiṉum piṟappō ākiya toṉṟilai
+   ētum paṭaippō ēṟpaṭṭa toṉṟilai.
+   appō iṭattai avaḷtāṉ māṟṟiṉāḷ
+   tērntiṉ ṉō஡஢ṭam ceṉṟāḷ avaḷē 60
+   piracavat tukkāyp parattaip pōntaṉaḷ
+   cicuvaip peṟaṟkāyc ceṉṟaṉaḷ potumakaḷ
+   iraṇṭuceṅ kuttup pāṟaiyiṉ iṭainaṭu
+   aintu malaikaḷiṉ ataṉiṭaip piḷavil;
+   āyiṉum piṟappō ākiya toṉṟilai
+   ētum paṭaippō ēṟpaṭṭa toṉṟilai.
+   īṉuta lukkām iṭattuk keḻuntāḷ
+   vēṟiṭam tēṭi veṟitāk kiṭavayi(ṟu)
+   acaintu nakarum aḻicē ṟuṟaiviṭam
+   nīrōṭi niṟaiyum nīrūṟ ṟuppuṟam; 70
+   eṉiṉum aṅkē iṭametum kiṭaittila
+   vayiṟu veṟituṟa vakaiyum kiṭaittila.
+   īṉutal muyaṟciyum iyaintatu metuvāy
+   utaram veṟituṟa oruṅkē muyaṉṟaṉaḷ
+   ōrpayaṅ karanīr vīḻcciyiṉ nuraiyil
+   ōrvalu nīrccuḻi utippiṉ cuḻippil
+   mūṉṟunīr vīḻcciyiṉ mōtunīr vīḻvukīḻ
+   oṉpatu natikaḷiṉ uṟumaṇai kaḷiṉkīḻ
+   āyiṉum piṟappō ākiya toṉṟilai
+   koṭiyavaḷ karppam etuvum pu஡஢ntila. 80
+   appō(tu) veṟuppoṭu aḻutatu pirāṇi
+   koṭiya vilaṅku toṭaṅkiṟ ṟalaṟa
+   pōkkiṭam etuvum pu஡஢ntilaḷ avaḷē
+   cellum iṭamum to஢ntilaḷ avaḷē
+   taṉatu vayiṟṟiṉait tāṉveṟi tākkiṭa
+   taṉatu makkaḷait tāṉīṉ ṟeṭuttiṭa.
+   mukilmē liruntu moḻintaṉar kaṭavuḷ
+   viṇṇakat tiruntu viḷampiṉar iṟaivaṉ:
+   "cēṟṟilmuk kōṇac ciṟukuṭil oṉṟuḷa
+   kaṭaṟ puṟamākak kaṭaṟkarai yōram 90
+   iruḷniṟai vaṭapāl iyainilat tāṅkē
+   ceṟipu kār nāṭām cā஢yō lāvil;
+   peṟṟiṭap puṟappaṭu piḷḷaikaḷ aṅkē
+   vayiṟṟiṉai veṟumaiyāy māṟṟiṭac celvāy
+   uṉakkoru tēvai uḷḷatu aṅkē
+   aṅketir pārttuḷar avarkaḷuṉ makkaḷai."
+   piṉṉar tuvōṉiyiṉ peṇkaru niṟattāḷ
+   maraṇa ulakiṉ vaṉkoṭum maṅkai
+   vaṭapulat tirukkum vativiṭam vantāḷ
+   cā஢yolā nāṭṭiṉ cavuṉāp pakuti 100
+   taṉatu makkaḷait tāṉpeṟ ṟeṭuttiṭa
+   taṉpiḷ ḷaikaḷait tāṉīṉ ṟeṭuttiṭa.
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   nīkkal eyiṟuḷa nīḷvaṭa mutupeṇ
+   irakaciya māyavaḷ cavuṉāc cērttaṉaḷ
+   aḻaittaṉaḷ kaḷavāyk kuḷippaṟai yataṟkuḷ
+   ūravar evarum uṇarā vaṇṇam
+   kirāmat torucolum kēḷā vaṇṇam.
+   veppamēṟ ṟiṉaḷcavu ṉāmika rakaciyam
+   avviṭam ceṉṟu aṭaintaṉaḷ viraintu 110
+   kapāṭam mītu`pīr`p pāṉam pūciṉaḷ
+   piṇaiyalkaḷ naṉaittaṉaḷ **peytakap `pīrai`
+   katavukaḷ kaṟīccolik kāṭṭā tirukka
+   ōcaiyai eḻuppā toḻiyap piṇaiyalkaḷ.
+   piṉvarum coṟkaḷil piṉavaḷ coṉṉāḷ
+   uraittāḷ avaḷē uraittāḷ ivvitam:
+   "iyaṟkaiyiṉ makaḷē irumutu peṇṇē!
+   aḻakiya pāvāy ampoṉ aṇaṅkē!
+   muḻumā tā஢lum mutiyavaḷ nīyē!
+   māṉuṭa iṉattiṉ varumutal tāynī! 120
+   ōṭuka, kaṭaliṉuḷ uṉmuḻaṅ kālvarai,
+   iṭaippaṭṭi varaikkum iruṅkaṭal alaiyiṉuḷ
+   naṉṉīr **mīṉiṉ naḷirumiḻ nīreṭu
+   vēṟoru **mīṉiṉ mikukaḻi vummeṭu
+   elumpuka ḷiṭaiyē oḻuṅkāyp pūcu
+   pakkaṅka ḷellām patamāyt taṭavu
+   peṇṇavaḷ nōvaip po஢tum akaṟṟa
+   mātavaḷ vayiṟṟu vātaiyait tīrkka
+   intak koṭiya iṉṉali liruntu
+   utara vētaṉait tuyarat tiruntu! 130
+   ituvum pōtā tiṉṉamu meṉṟāl,
+   ō, mutu maṉitaṉē, uyarmā teyvamē!
+   tēvaiyām taruṇam to஢ntiṅ keḻuka
+   kūviyaḻaik kaiyil kuṟaipōk kiṭavā
+   iṅkē orutti irukkiṟāḷ nōvuḷāḷ
+   vaṉitai vayiṟṟu vātaip paṭukiṟāḷ
+   cūḻnteḻum cavuṉā cuṭupukai mattiyil
+   kuṟuṅkirā mattuṟum kuḷikkum kuṭiluḷ.
+   poṉṉilē yāṉa poṟkōl eṭuppīr
+   umvalak karattil uvantataik koḷvīr 140
+   taṭaiccaṭ ṭamelām tavirppīr poṭipaṭa
+   katavut tampaṅ kaḷaiyuṭait teṟivīr
+   paṭaippōṉ pūṭṭait tiruppit tiṟappīr
+   tāḻppāḷ uṭpuṟam takarttut taṟippīr
+   po஢yatum ciṟiyatum cā஢nuḻain tēvara
+   avvāṟu nuḻaintē varappala vīṉarum!"
+   antak koṭitilum koṭiyāḷ ataṉpiṉ
+   pārvai yiḻantavaḷ tuvōṉiyiṉ pāvai
+   ākkiṉaḷ veṟumai avaḷtaṉ vayiṟṟai
+   piḷḷaikaḷ veṟuppāyp peṟṟē eṭuttaṉaḷ 150
+   ceppiḻai poruntit tikaḻmē lāṭaikīḻ
+   meṉmaiyāy neyta vi஡஢ppataṉ kīḻē.
+   puttirar oṉpataip peṟṟaṉaḷ pāvai
+   kōṭaikā lattu kuṟittavō ஡஢ravil
+   nīrāvi yorumuṟai nikaḻttiya pōtilē
+   cavuṉā orumuṟai tāṉcū ṭākaiyil
+   oṟṟai vayiṟṟiṉ uṟukaru viruntu
+   kaṉatta oṟṟaik karppat tiruntu.
+   maintark kataṉpiṉ vaittaṉaḷ peyarkaḷ
+   aṭuttu avarkaḷai āyattam ceytaṉaḷ 160
+   aṉaivarum tattam piḷḷaikkā ṟṟalpōl
+   paṭaitta tamatu paṭaippuk kāṟṟalpōl;
+   ākkiṉaḷ oṉṟai atituḷai nōvāy
+   vayiṟṟu valiyāy vaittaṉaḷ aṭuttatai
+   elumpu nōvā yiṉṉoṉ ṟiyaṟṟiṉaḷ
+   iṉṉoṉ ṟiyaṟṟiṉaḷ iṭarkaṇai nōyāy
+   māṟṟiṉaḷ maṟṟatai vaṉkaṭṭi nōyāy
+   kuṭṭa nōyāyk kuṟittaṉaḷ maṟṟatai
+   vēṟoṉṟaip paṇṇiṉaḷ vempuṟṟu nōyāy
+   maṟṟoṉṟai māṟṟiṉaḷ varutoṟṟu nōyāy. 170
+   iruntatu peyaretum illā toṉṟutāṉ
+   orumakaṉ vaikkōl uṭkū ḷattaṭi
+   avaṉaiyum piṉṉar aṅkē aṉuppiṉaḷ
+   cūṉiyak kāraṉāyt tolpuṉaṟ ṟaḷḷiṉaḷ
+   mantara vātiyāy varavē cēṟṟiṉuḷ
+   tīya caktiyāyt tikaḻntiṭa eṅkaṇum.
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   appāl cella aṉuppiṉaḷ aṉaivarum
+   pukārpaṭi kaṭalataṉ puṇarmuṉai nuṉikku
+   ceṟipaṉip pukāruḷa tīvataṉ karaikku; 180
+   koṭumpiṟap pavaikkuk kōpamuṇ ṭākkiṉaḷ
+   ēviṉaḷ **vaḻakkat tillā nōykaḷai
+   vaiṉolā nāṭṭu makkaḷiṉ mītu
+   eḻiṟkalē vānāṭ ṭiṉattarai aḻikka!
+   vaiṉolāp paiyalkaḷ varunōy vīḻntaṉar
+   kalēvā makkaḷum kaṭumnō yuṟṟaṉar
+   vaḻakkat tillā vaṉnōy vantatāl
+   peyar to஢yāta piṇikaḷ piṭittatāl;
+   uḷuttup pōṉatu uṟṟakīḻp puṟṟarai
+   mēlē paṭukkai vi஡஢ppukaḷ makkiṉa. 190
+   mutiya vaiṉā moyiṉaip pōtu
+   nilaipeṟum māya neṟiyaṟi mutalvaṉ
+   talaikaḷai kākkat talaippaṭ ṭēkiṉaṉ
+   uyirkaḷaik kākka uṭaṉpaṭ ṭēkiṉaṉ
+   cāvuk ketirāyc camā஢ṭac ceṉṟaṉaṉ
+   puṉpiṇik ketirāyp pō஡஢ṭac ceṉṟaṉaṉ.
+   cavuṉā oṉṟiṉil takkacū ṭēṟṟiṉaṉ
+   nīrāvi kaṟkaḷil nērntiṭac ceytaṉaṉ
+   cuttamāy veṭṭiya tuṇṭu maraṅkaḷāl
+   vi஡஢puṉal vaḻikkoṇar viṟakuka ḷālē; 200
+   oḷittut taṇṇīr uṭaṉē koṇarntaṉaṉ
+   kuḷiyal tū஡஢kai maṟaivāyk koṇarntaṉaṉ
+   **kaṭṭilait tū஡஢kai veppamā yākkiṉaṉ
+   **catailait tū஡஢kai taṉaimetu vākkiṉaṉ.
+   tēṉpōl āviyaic ceṟinteḻac ceytaṉaṉ
+   naṟainī rāviyai naṉiyuyar vākkiṉaṉ
+   kaṭuñcū ṭēṟiya kaṟkaḷi liruntu
+   kaṉalai umiḻum kaṟkaḷil iruntu
+   iṉivarum coṟkaḷil ivvitam coṉṉāṉ
+   inta moḻikaḷil ivvitam moḻintāṉ: 210
+   "innī rāviyuḷ iṟaivaṉē, varuka!
+   vāṉakat tantaiyē, varukavep pattuḷ!
+   nalla cukattai nalamāyt tantiṭa!
+   amaitiyaik kaṭṭi aḻakā yeḻuppiṭa!
+   puṉitap poṟikaḷai naṉituṭait **tamarttuka!
+   puṉita nōykaḷai naṉittaṇit takaṟṟuka!
+   koṭiyanī rāviyaip paṭiyaṭit tiṟakku(ka)
+   vilakkuka turatti veyya nīrāviyai
+   atuuṉ maintarai e஡஢yā tiruntiṭa!
+   tīṅku ceyyā tirukkavuṉ paṭaippuk(ku)! 220
+   nāṉē **eṟiyum nannī raṉaittumē
+   e஡஢kaṉaṟ kaṟkaḷil eṟṟunī raṉaittumē
+   tēṉāy māṟit tikaḻak kaṭavatu!
+   poḻinaṟai yākap poliyak kaṭavatu!
+   orutē ṉāṟu ūṟṟeṭut tōṭuka!
+   naṟaikkuḷa mutittu naṉiperu kaṭṭum!
+   aṭukkiya ikkal laṭuppata ṉūṭāy!
+   takupāci pūcumic cavuṉā vūṭāy!
+   uṇṇap paṭō mnām **orukā raṇamilā(tu)
+   kollap paṭō mnām koṭunō yiṉṟi 230
+   arumperum kāttā஢ṉ aṉumati yiṉṟi
+   iṟaivaṉiṉ ceyaltaru maraṇam tavira!
+   emaiyeva rēṉum ētilā tuṇṇil
+   avarman tiraccol avarvā yaṭaiyum
+   avaratu tīcceyal avartalaik kēkum
+   avaratu cintaṉai avaraiyē cērum!
+   maṉitaṉiṉ takaimai vāyntunā ṉilaiyeṉil,
+   māṉuṭa mutalvaṉiṉ makaṉilai nāṉeṉil,
+   koṭuñceya liruntu koṇṭiṭa viṭutalai,
+   tīcceya liruntu ceṉṉiyait tūkkiṭa, 240
+   avarē māṉiṭa mutalvar irukkiṟār!
+   mukiṟkulam purakkum mutukā valaravar!
+   vaṇṇa mukilil vacippiṭam koṇṭavar!
+   nīrāvi aṉaittaiyum nitamāḷ pavaravar!
+   ō, mutu maṉitaṉē, uyarmā teyvamē!
+   mukilmē luṟaiyum mutumē liṟaivaṉē!
+   tēvaiyām taruṇam to஢ntiṅ keḻuka!
+   eṅkō ஡஢kkai iraṅkik kēṭpīr,
+   intat tuyarkaḷai iṉituṇarn taṟika,
+   tuṉpanā ḷivaṟṟait tūra aṉuppiṭa, 250
+   koṭuñceya liruntu koṇarntiṭa viṭutalai,
+   vañceya liruntu vaikka veḷippaṭa!
+   eṭuttu varuka eṉakkoru kaṉalvāḷ!
+   poṟikaṉal alakuṟum putuvāḷ koṇarka!
+   ataṉāl tīyavai aṉaittum aḻippēṉ
+   koṭiyavar evaraiyum aṭiyoṭu muṭippēṉ
+   kāṟṟu vaḻiyilē kāṇtuyar oḻippēṉ
+   kāṭṭu veḷiyiṉil kaṭunō vaippēṉ.
+   nōviṉai aṅkē nāṉē aṉuppuvēṉ
+   aṅkē aṉuppi aṭakkuvēṉ nōvai 260
+   kaṟkaḷāl kaṭṭiya kaṭunila vaṟaikkuḷ
+   irumpiṉā lāṉa iruppiṭat tuḷḷē
+   kaṟkaḷuk kaṅkē kaṭuntuyar koṭukka!
+   pāṟaik kaṟkaḷaip pāṭāyp paṭutta!
+   kaṟkaḷ nōviṉāl kataṟuva tillai
+   pāṟaikaḷ nōvāl palattaḻal illai
+   avaṟṟilev vaḷavai aḻuttiya pōtilum
+   aḷavukku mīṟic cumattiya pōtilum.
+   nōvataṉ peṇṇē, tuvōṉiyiṉ makaḷē!
+   nōveṉum kallil nēramar pavaḷē, 270
+   mūṉṟu natikaḷ muṉaintō ṭiṭattil
+   mūṉṟu aruvikaḷ muṉpi஡஢ viṭattil
+   nōveṉum kallai mēviya raittē
+   nōveṉum malaiyait tāvi muṟukkiyē
+   ceṉṟunī nōvaic cērppāy oṉṟāy
+   nīlap pāṟaiyiṉ neṭuvāy alakiṉuḷ,
+   allatu nīruḷnī aṭitturuṭ ṭiṭuvāy
+   āḻiyiṉ āḻat tavaṟṟainī yeṟivāy
+   avaṟṟaik kāṟṟu aṟiyā tākuka
+   ātavaṉ oḷiyum oḷirā tākuka. 280
+   ituvum pōtā tiṉṉamu meṉṟāl
+   nōviṉ **makaḷē! nā஡஢,nal lavaḷē!
+   ūṉac **caktiyē! **ōrntutērn tavaḷē!
+   cērntunī varuvāy cērntunī pōvāy
+   nalla cukattiṉai nalamāyt taruvāy
+   amaitiyaik kaṭṭi aḻakō ṭeḻuppuvāy
+   nōvaṉait tiṉaiyum nōvaṟac ceyvāy
+   ūṉamā mavaṟṟai upātaiyaṟ ṟiṭaccey
+   nōyuḷō rayarntu nōvaṟat tuyila
+   nalintavar caṟṟu nallā ṟutalpeṟa 290
+   nōvuḷōr ōyvu nēyamāyp peṟṟiṭa
+   kāyam paṭṭō r kaḷnakarn tacaiya!
+   vātaiyai aḷḷiyōr vāḷiyil pōṭu
+   cērnō veṭuttoru ceppup peṭṭiyil
+   vātaiyai aṅkē vā஡஢k koṇṭēka
+   ūṉattai yaṅkē oruṅkāḻt tutaṟku
+   nōveṉum kuṉṟiṉ nērnaṭup pakutiyil
+   nōveṉum malaiyil āmuc ciyiṭam;
+   aṅkē kotikka annō vaittiṭu
+   ciṉṉañ ciṟiyatōr ceṟikala yattil 300
+   oruviral nuḻaiya uvantavak kalayam
+   peruvira laḷavē po஢tām kalayam.
+   acalam mattiyil amaintuḷa torukal
+   kallataṉ mattiyil kāṇum orupuḻai
+   tuḷaiyūci yālatu tuḷaikkap paṭṭatu
+   tuṟappaṇat tālū ṭuruvap paṭṭatu;
+   aṅkē tiṇittu amarttalām nōvai
+   koṭumū ṉattai yaṭaittum vaikkalām
+   valiya vātaiyai vaikkalām taḷḷi
+   aḻuttit tuṉpa nāṭkaḷai yamarttalām 310
+   ceṟinici nēram ceyaṟpaṭā tirukka
+   pakalilē tappip paṭarā tirukka."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   nilaipeṟum māya neṟiyaṟi mutalvaṉ
+   pūciṉaṉ paḻutuṟum puṟamelām toṭarntu
+   pūciṉaṉ taṭavik kāyam mītelām
+   pūccu maruntukaḷ puṇarumoṉ patuvakai
+   mantira maruntukaḷ vakaiyoru eṭṭu
+   iṉivarum coṟkaḷil ivvitam coṉṉāṉ
+   inta moḻikaḷil ivvitam moḻintāṉ: 320
+   "ō, mutu maṉitaṉē, uyarmā teyvamē!
+   viṇṇakat tuṟaiyum mētaku mutiyōy!
+   iyakkuvāy kiḻakki liruntoru mukilai
+   vaṭamēṟ koṉṟu vantutik kaṭṭum
+   mēṟki liruntoru mēkat tiraḷviṭu
+   poḻika tēṉmaḻai poḻika puṉalmaḻai
+   pūccu maruntāyp puṇarnō vuḷaviṭam
+   ūṉaṅka ḷukkoru uṟṟa maruntāy.
+   eṉṉā lāvatu etuvumē yillai
+   āḷameṉ paṭaittōṉ aruḷilā viṭṭāl; 330
+   paṭaittavaṉ varaṭṭum pārttuta vikku
+   iṟaivaṉ utavi eṉakkut taraṭṭum
+   nāṉpārt tōrkkeṉ nayaṉaṅ kaḷiṉāl
+   nāṉeṉ kaikaḷāl naṉkutoṭ ṭavarkku
+   iṉiyaeṉ vāyāl iyampiyark kēnāṉ
+   eṉcuvā cattāl iṉitūti yōrkku.
+   eṉatu kaikaḷ eṭṭit toṭāviṭil
+   āṇṭavaṉ kaikaḷ aṅkē toṭaṭṭum;
+   eṉatu viralkaḷ eṭṭip paṭāviṭil
+   āṇṭavaṉ viralkaḷ aṅkē paṭaṭṭum; 340
+   kaṭavuḷiṉ viralkaḷ kaviṉā yamaintavai
+   kaṭavuḷiṉ karaṅkaḷ cuṟucuṟup pāṉavai.
+   uccāṭaṉam ce(y)ya uṭaṉvā iṟaivaṉē!
+   vāymoḻi pakara varukanal liṟaiyē!
+   aṉaittum vallavā, emaippārt taruḷka!
+   naṟcuka mākkum, naḷirnici eṅkaḷai!
+   pakalilum avvitam nalamā yākkum!
+   uṇarā tirukka uḷaev vātaiyum
+   aṟiyā tirukka annō vetaiyum
+   iṉṉal cērā tirukka itayam 350
+   ciṟitum kūṭa uṇarā tirukka
+   a஡஢tum tuyarai aṟiyā tirukka
+   vaḷarumiv vulakiṉ vāḻnāḷi leṉṟum
+   poṉṉilāt tikaḻum poṟpoḻu tellām."
+   nilaipeṟam mutiya vaiṉā moyiṉaṉ
+   nilaipeṟum māya neṟiyaṟi mutalvaṉ
+   mantira nōykaḷai māṟṟiṉaṉ ivvitam
+   veñceya liruntu veḷippaṭa vaittaṉaṉ;
+   mantira nōykkelām maruttuvam pārttaṉaṉ
+   veṅkoṭum ceyaṟku viṭutalai tantaṉaṉ 360
+   makkaḷai mīṭṭāṉ maraṇat tiruntu
+   kalēvā iṉattaik kāttāṉ aḻivil.
+     __________________________________________________________________
+
+  pāṭal 46 - vaiṉāmoyiṉaṉum karaṭiyum
+  [22]*
+     __________________________________________________________________
+
+   aṭikaḷ 1-20 : kalēvā mākāṇattiṉ kālnaṭaikaḷai aḻikkumpaṭi
+   vaṭanāṭṭut talaivi oru karaṭiyai ēvi viṭukiṟāḷ.
+   aṭikaḷ 21-606 : vaiṉā moyiṉaṉ karaṭiyaik kollukiṟāṉ.
+   ataṟkāka kalēvā mākāṇattil oru po஢ya koṇṭāṭṭam
+   naṭaipeṟukiṟatu.
+   aṭikaḷ 607-644 : vaiṉāmoyiṉaṉ pāṭukiṟāṉ; yāḻ icaikkiṟāṉ;
+   kalēvā mākāṇattukku ciṟappāṉatum makiḻcciyāṉatumāṉa ōr
+   etirkālam varum eṉṟu nampukiṟāṉ.
+     __________________________________________________________________
+
+   ceyti vaṭapulam ceṉṟiṭa lāṉatu
+   pōṉatu kuḷirk kirā mattē putiṉam
+   nāṭu vaiṉō naṉiviṭu paṭṭatāy
+   viṭutalai kalēvalā viraintupeṟ ṟatuvāy
+   mantiram viḷaitta vaṉtuya ஡஢runtu
+   **vaḻakkil nōykaḷiṉ vaṉpiṭi yiruntu.
+   lovhi eṉpavaḷ vaṭanilat talaivi
+   nīkkal eyiṟuḷa nīḷvaṭa mutupeṇ
+   ataṉaik kēṭṭatum aṭaintaṉaḷ kaṭuñciṉam
+   uraittāḷ orucol uraittāḷ ivvitam: 10
+   "iṉṉoru tantiram irukkumeṉ niṉaivil
+   maṟṟoru pātaiyiṉ vaḻivakai yaṟivēṉ
+   eḻuppuvēṉ puṟputa ஡஢runtoru karaṭiyai
+   vaḷainta nakattatai vaṉattiṉi liruntu
+   vaiṉō nāṭṭiṉ vaḷarkāl naṭaimēl
+   kalēvāp pakutiyiṉ kāṇnirai kaḷiṉmēl."
+   eḻuppiṉaḷ puṟputa ஡஢runtoru karaṭiyai
+   kaṭumnilat tiruntoru karaṭiyai eḻuppiṉaḷ
+   vaiṉō nāṭṭiṉ vaḷarpul veḷimēl
+   kalēvāp pakutiyiṉ kāṇnirai kaḷiṉmēl. 20
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "cakōtara, kolla, takaiil mā஢ṉa!
+   putitāy eṉakkoru īṭṭiyaic ceyvāy
+   eḻummuk kūruṟum īṭṭiyaic ceyvāy
+   ceyvāy kaippiṭi ceppilā ṉatuvāy
+   iṅkoru karaṭiyai etirkoḷal vēṇṭum
+   mikupeṟu matiyatai vīḻttiṭa vēṇṭum
+   tākkā tirukkat takumeṉ polippā஢
+   aḻikkā tirukka āṉaeṉ peṇpā஢ 30
+   vīḻttā tirukka mikumeṉ kālnaṭai
+   nacukkā tirukka naṟpacuk kūṭṭam."
+   īṭṭi oṉṟiṉai iyaṟṟiṉaṉ kollaṉ
+   atukuṟi talla atunīṇ ṭatala,
+   ceytaṉaṉ aḷavil tikaḻnaṭut taramāy;
+   **ōṉāy niṉṟatu uyarataṉ nuṉiyil
+   niṉṟatu karaṭi neṭumuruk kalakil
+   poruttiṟkāṭ ṭēṟu caṟukkic ceṉṟatu
+   ceṉṟatu kuṭṭimā tikaḻkaip piṭivaḻi
+   kaippiṭi muṉaiyil kāṭṭuk kalaimāṉ. 40
+   peytatappōtu perumputup paṉimaḻai
+   poḻintatu ciṟanta putiya paṉimaḻai
+   kāṇilai yutirrutuk kampaḷi āṭupōl
+   muḻukkuḷir kāla muyaliṉ taṉmaipōl;
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ
+   uraittāṉ avaṉē uraittāṉ ivvitam:
+   "ippō(tu) nāṉum eṇṇuva tituvē
+   iruṅkā ṉuḷḷē ēkiṭal vēṇṭum
+   kāṉaka makaḷiraik kaṇṭiṭa vēṇṭum
+   nīla niṟattu nā஡஢yar muṉṟilil. 50
+   maṉitarai viṭṭu vaṉattuk kēkiṟēṉ
+   vīrarai viṭṭu veḷiyiṭat tēkiṟēṉ
+   oḷirkāṉ, eṉṉaiyuṉ oruvaṉāyp peṟuka!
+   eṉṉaiyuṉ vīraṉāy ēṟka, tappiyō!
+   atirṣṭam eṉaittoṭa āṟṟuka utavikaḷ
+   aṭarkā ṉakattuṟum **aḻakiṉai vīḻtta!
+   kaviṉmiye likkiyē, kāṭṭiṉ talaiviyē!
+   takamait tellarvō, tappiyō maṉaiviyē!
+   kaṭṭivai yuṅkaḷ kaṭiyanum nāykaḷai
+   piṇaittu vaiyuṅkaḷ perunīca nāykaḷai 60
+   oḻuṅkaiyiṉ **koṭipaṭarn tuḷḷa pakkamāy
+   cintura marattiṉ tikaḻaṭaip poṉṟiṉuḷ!
+   kaviṉār karaṭiyē **kāṉakat tappiḷē!
+   taṭitta **tēṉtōy takunaṟ pātamē!
+   nīkēṭka nērntāl nāṉvaru vataṉai
+   vīraṉeṉ aṭiyoli vīḻilniṉ ceviyil
+   uṉcaṭaik kuḷḷē oḷippāy niṉnakam
+   vāymura cukkuḷ maṟaippāy paṟkaḷai
+   avaiyeṉait tīṇṭā tavvā ṟirukka
+   avainī nakarkaiyil acaiyā tirukka! 70
+   eṉṟaṉ karaṭiyē, **iṇaiyil aṉpē!
+   tēṉār pātamē. tikaḻeṉ aḻakē!
+   uṉṉaip pacumpul uṟutarait tāḻttu
+   eḻilāy amainta iruṅkaṟ pāṟaimēl
+   **tēvatā ruyarē tikaḻn tāṭukaiyil
+   **tāruvum uyarat tāṭic cuḻalkaiyil;
+   aṅkē vaṭṭa maṭippāy karaṭiyē,
+   cuṟṟi aṅkē cuḻalkatēṉ pātamē,
+   kāṭṭuk kōḻitaṉ kūṭṭil iruppapōl
+   vāttaṭai kāttu vākā yiruppapōl." 80
+   mutiya vaiṉā moyiṉaṉu māṅkē
+   naṉku kēṭṭaṉaṉ nāykuraip pataṉai
+   kuṭṭināy urattuk kuraippataṉ oliyai
+   ciṟukaṇ paṭaittatu orumuṟ ṟattē
+   nīṇṭamūk kuṭaiyatu nērttoḻup pakkam
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "iruṅkuyil kūvuva teṉṟē niṉaittēṉ
+   pāṭutal cellap paṟavaiyeṉ ṟeṇṇiṉēṉ
+   āyiṉum kūvuva tallak kuyilumē
+   pāṭutal cellap paṟavaiyu mallavē; 90
+   eṉatu ciṟantanāy iṅkiruk kiṟatu
+   mikavum ciṟappām mirukameṉ ṉuṭaiyatu
+   karaṭiyiṉ vativiṭak kataviṉiṉ vāyilil
+   toleḻil maṉitaṉiṉ tōṭṭa veḷiyiṉil."
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   aṅkē koṉṟaṉaṉ antak karaṭiyai
+   puraṭṭip pōṭṭaṉaṉ paṭṭup paṭukkaiyai
+   taṅkanēr iṭattait talaikkī ḻākkiṉaṉ
+   iṉivarum coṟkaḷil ivvitam coṉṉāṉ
+   inta moḻikaḷil ivvitam moḻintāṉ: 100
+   "nāṉumak kiṟaivaṉē, naṉṟikaḷ pukaṉṟēṉ!
+   ēkaṉē, karttarē, ēttiṉēṉ niṉpukaḻ!
+   eṉakkup paṅkāyk karaṭiīn tamaikku
+   poḻilvaṉap poṉeṉ poruḷā ṉamaikku!"
+   avaṉpiṉ pārttaṉaṉ a஡஢yataṉ **poṉṉai
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "eṉṟaṉ karaṭiyē, eṉṉuṭai aṉpē!
+   tēṉār pātamē, tikaḻeṉ aḻakē!
+   kāraṇa miṉṟik kaṭuñciṉam vēṇṭām
+   uṉṉaivīḻt tiyatu uṇmainā ṉalla 110
+   iḻuvai vaḷaiyat tirunturuṇ ṭatunī
+   tēvatārk kiḷaiyāl tīravīḻn tatunī
+   uṉmarat tuṭaikaḷai uṟakkiḻit tiṭṭāy
+   tārumē lāṭaiyait tāṉpiyt tiṭṭāy;
+   ilaiyutir kālam iruppatu vaḻukkal
+   mukiluṟum nāṭkaḷ mūḷiruḷ niṟaintavai.
+   kāṉaka mataṉiṉ **kaṉakak kuyilē!
+   uyareḻil caṭaitta urōmap pirāṇiyē!
+   ippō(tu) kaiviṭu iruṅkuḷir vīṭṭai
+   viṭukaniṉ vacippiṭam veṟumaiya tāka 120
+   milāṟuk kiḷaikaḷāl vitittaniṉ vīṭṭai
+   piṇaittuc cuḷḷiyāl piṉṉiya kuṭilai;
+   pukaḻniṟain taṉaiyē, puṟappaṭ ṭēkuvāy!
+   aṭaviyiṉ ciṟappē, aṭivait takalvāy!
+   kaṉamilkā laṇiyē, kaṭitakal ippō!
+   nīlkkā luṟaiyē, niṉvaḻi naṭappāy!
+   toṭumic ciṟiya tōṭṭat tiruntu
+   ikkuṟum naṭaivaḻi ivaṟṟiṉai viṭṭu
+   vīrarkaḷ niṟainta mikukaṇat tirukka,
+   makkaḷām kuḻuviṉ mattiyil irukka. 130
+   aṅkē koṭuñceyal amaintatu millai
+   evaraiyum naṭattiya tillaik kaṭumaiyāy:
+   aṅkē uṇavāy aḷippatu tēṉām
+   taruvār parukavum taṉipputu naṟaitāṉ
+   putitāyc cellum putuvirun tiṉarkku
+   aḻaikkappaṭṭa arumaṉi tarkku!
+   iṅkirun tēnī ippō puṟappaṭu
+   icciṟu kukaiyām itaṉuḷ ḷiruntu
+   uṟumeḻiṟ kūrai oṉṟataṉ kīḻē
+   aḻakām kūrai atuoṉ ṟataṉkīḻ; 140
+   paṉittumi mītunī patamāy naṭantucel
+   nīrām palkuḷam nitamitap patupōl,
+   pacumarak kompā஢l pataṉamāy viraintiṭu
+   kompā஢l tāvum koḻumaṇi lataippōl."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   eṉṟumē nilaitta icaippā ṭakaṉavaṉ
+   icaittuc ceṉṟaṉaṉ iruṅkāṉ veḷiyil
+   pacumpuṟ ṟaraikaḷil paṭaittaṉaṉ etiroli
+   mikucīr mikkataṉ viruntiṉar tammuṭaṉ
+   caṭaitta urōmam tāṉuṭai ataṉuṭaṉ; 150
+   eṅkaṇum vīṭelām icaiyoli kēṭṭatu
+   vīṭṭuk kūraikkīḻ kēṭṭoli niṟaintatu.
+   vīṭṭil iruntavar viḷampiṉar ivvitam
+   eḻilār iṉattavar iyampiṉar ivvitam:
+   "kēṭpīr intak kiḷaroli ōcaiyai
+   aṭaviyil icaikkum avaṉatu coṟkaḷai
+   **kiḷarvaṉak kuruviyiṉ kītam pōṉṟatu
+   koḻuvaṉa makaḷi஡஢ṉ kuḻalicaip pōṉṟatu."
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   tōṭṭattu muṉṟilil toṭarntutāṉ ceṉṟaṉaṉ; 160
+   vīṭṭil iruntavar veḷippuṟam vantaṉar
+   oḷireḻil iṉattavar uraittiṭa lāyiṉar:
+   "iṅkē payaṇittu eḻuvatu taṅkamā
+   veḷḷiyā ulāvi veḷiyē varuvatu
+   aṉpuc celvamā aṭivait teḻuvatu
+   kācunā ṇayamā kaviṉvaḻi varuvatu?
+   kāṉakam tantatā tēṉuṇ maṉitaṉai
+   ceṟivaṉat talaivaṉ civiṅki oṉṟiṉai
+   ēṉeṉil nīṅkaḷ icaittē varukiṟīr
+   icaitta vaṇṇamē caṟukki varukiṟīr?" 170
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "mantirac coṟkaḷil vāyttatu **kī஡஢
+   mantirak karuvō vāṉavaṉ celvam
+   pāṭi ataṉāl paṭarkiṟōm nāṅkaḷ
+   icaitta vaṇṇamē caṟukki varukiṟōm.
+   āyiṉum eṉṟumē atukī஡஢ yalla
+   alla kī஡஢yum allavē civiṅkiyum
+   payaṇittu varuvatu pārpukaḻ oṉṟē
+   aṭivait teḻuvatu aṭarvaṉac ciṟappē 180
+   acaintulā varuvatu āti maṉitaṉē
+   āṭi naṭappatu akaṉṟa mēlāṭaiyē
+   viruntiṉar varavara vēṟpatē yāyiṉ
+   akalat tiṟappīr akalkaṭai vāyil!
+   viruntiṉar varavatai veṟuttu otukkilō
+   aṭittē mūṭuka akalkaṭai vāyilai!"
+   makkaḷō ivvitam maṟumoḻi kūṟiṉar
+   eḻilār iṉattār iyampiṉar ivvitam:
+   "vāḻka karaṭiyē, vāḻttuk kūṟiṉōm!
+   niṉvaru kaikkāy, nikartēṉ pātamē! 190
+   cuttamā yirukkumim muṟṟap parappiṉil
+   eḻilār tōṭṭat tinta veḷiyiṉil!
+   etirpārt tiruntēṉ itaṟkāyp palanāḷ
+   vaḻipārt tiruntēṉ vaḷarnta nāḷelām
+   tappiyō ekka(஡)ḷam taruvataṟ kōcai
+   kāṉak kuḻalicaik kātilē viḻaṟku
+   kāṉakat taṅkam kaḷinaṭai payila
+   aṭaviyiṉ veḷḷi aṭaiyavē vantu
+   ciṟiyamuṟ ṟattut tikaḻumip parappil
+   intat tōṭṭat teḻiṟkuṟum veḷiyil. 200
+   orunal varuṭam etirppārt tiruntēṉ
+   varukaiyil kōṭai varumeṉa niṉaittēṉ
+   caṟukkaṇi yāypputup paṉimaḻaik kuṟumeṉa
+   itamāyc caṟukkiṭa iṭaccaṟuk kaṇiyāy
+   iḷaiya maṇamakaṟ kiyaiyiḷam pāvaiyāy
+   kaṉṉam civantuṭaik kaṉṉiyāyt tuṇaikku.
+   mālaiyām nēram cāraḷat tiruntēṉ
+   kālaip poḻutil kūṭap paṭikaḷil
+   vārak kaṇakkāy vāyiṟ kataviṉil
+   mātak kaṇakkāy vaḻiyiṉ mukappiṉil 210
+   kuḷirppoḻu tellām toḻuviṉ veḷiyiṉil;
+   paṉimaḻai kaṭṭiyāyp paṭumvarai niṉṟēṉ
+   paṉikkaṭṭi yuruki naṉaitarai yāmvarai
+   kuḷi஡ṇa rattarai kūḻāṅ ka(l)lām varai
+   noruṅkikkū ḻāṅkal nuṇmaṇa lāmvarai
+   paṭinuṇ maṇalpiṉ pacumaiyā yāmvarai;
+   itaṉaiyō cittēṉ ellāk kālaiyum
+   ellā nāḷilum eṇṇiyē iruntēṉ
+   kāṇumin nāḷvarai karaṭiyeṅ kēyeṉa
+   kāṉaka aṉpiṉ kaḻintanāḷ eṅkeṉa 220
+   estōṉi yāvuk kēki yiruntatō
+   piṉlāntu nāṭṭai pi஡஢ntatō viṭṭu!"
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "eṉvirun tāḷiyai eṅkē amarttalām
+   eṉatu aṉpai evvaḻi naṭattalām
+   uyarpukaḻk kūrai uttarat tiṉkīḻ
+   ivvil lattiṉ eḻiṟkū raiyiṉkīḻ?"
+   makkaḷō ivvitam maṟumoḻi kūṟiṉar
+   eḻilār iṉattār iyampiṉar ivvitam: 230
+   "avvirun tāḷiyai aṅkē amarttalām
+   ematu aṉpiṉai ivvaḻi naṭattalām
+   uyarpukaḻp kūrai uttarat tiṉkīḻ
+   ivvil lattiṉ eḻiṟkū raiyiṉkīḻ;
+   ākāra maṅkē āyatta māyuḷa
+   pāṉamum tayārāyp parukiṭa uḷḷatu
+   toṭartaraip palakaikaḷ cuttamuṟ ṟuḷḷaṉa
+   vaḷanilam perukki vaikkap paṭṭatu,
+   a஡஢vaiyar uṭaiyaṇin taṉaivaru muḷḷaṉar
+   uyarcutta māṉa uṭaiyaṇin tuḷḷaṉar, 240
+   avarkaḷiṉ talaittuṇi aḻakā yuḷḷatu
+   amaintaṉa uṭaikaḷ aru(m)veṇ ṇiṟattil."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   uraittāṉ avaṉē uraittāṉ ivvitam:
+   "eṉṟaṉ karaṭiyē, **iṉiyaeṉ paṟavaiyē!
+   tēṉār pātamē, tikaḻumeṉ** potiyē!
+   nīnaṭa māṭiṭa nilamuḷa iṉṉum
+   tavaḻntu ti஡஢ntiṭa takupul veḷiyuḷa.
+   poṉṉē, ippō puṟappaṭu pōka!
+   aṉpē, nilattil aṭivai ceṉṟiṭa! 250
+   kaṟuppukkā luṟaiyē,kāleṭu naṭakka!
+   tuṇikkāṟ caṭṭaiyē, toṭarntulāp pōka!
+   **ciṟupuḷ cellum ticaivaḻi naṭakka!
+   **ciṭṭuk kuruvi ti஡஢ntulām pātaiyil,
+   kāṇaiṅ kūraik kaimaraṅ kaḷiṉkīḻ,
+   uyaraṟu kūrai uttiraṅ kaḷiṉkīḻ.
+   iruṅkaḷec cā஢kkaiyāy iḻintapeṇ ṭirkaḷē
+   añciṭā tirukkanum a஡஢yakāl naṭaikaḷ
+   payantiṭā tirukkap paṭarciṟu niraikaḷ
+   talaiviyar pacunirai tākkuṟā tirukka 260
+   vantucēr kaiyiliv vaḷarviṭam karaṭi
+   iṅkē nuḻaikaiyil **eḻilurō mattuvāy.
+   paiyaṉkāḷ, muṉkūṭap paṭiyirun tēkuka!
+   a஡஢vaiyīr, katavattu nilaiyirun takaluka!
+   **nāyakaṉ vativiṭa naṉiyuḷ varukaiyil
+   aṭivaittuc ciṟappuṟum āṭavaṉ varukaiyil!
+   kāṭṭiṉil vāḻum karaṭiyē, appiḷē!
+   ceṟivaṉat tuṟaiyum tiraṭciyā ṉavarē!
+   a஡஢vaiyaik kaṇṭum accam koḷātīr
+   piṉṉiya kuḻalārp perumpayam koḷātīr 270
+   tōkaiyarp pārttut tuṇukkuṟ ṟiṭātīr
+   curuṅkiya kāluṟai aṇintōrk **kaḻikalīr!
+   illat tirukkum emmutu mātarum
+   pukaipōkki mūlaiyil pōyamarn tiruppar
+   maṉitaṉ vativiṭam varukaiyil uṭpuṟam
+   arumperum paiyaṉ aṭivait taṭaikaiyil."
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ:
+   "iṟaivaṉē varuvīr, iṅkum varuvīr,
+   uyarpukaḻk kūraiyiṉ uttirat tiṉkīḻ
+   ivvil lattiṉ eḻiṟkū raiyiṉkīḻ! 280
+   eṉataṉ peṭuttunāṉ ēkuva teṅkē
+   koḻuttaeṉ potiyai vaḻippaṭut tuvateṅ(kē)?"
+   makkaḷō ivvitam maṟumoḻi kūṟiṉar:
+   "varukaniṉ varavu nalvara vākuka
+   pārttav viṭamum paṟavaiyaic cērppīr
+   aṉpai vaḻippaṭut(ta) aṅkē celvīr
+   tāruviṉ** vāṅku nērpala kainuṉi
+   irumpā caṉattiṉ iyaintavam muṉaikku,
+   urōma āṭaiyiṉ pā஢cō taṉaikku
+   kampaḷi yataṉaik kavaṉamāyp pārkka! 290
+   karaṭiyē, ataṉāl kaṭuntuyar vēṇṭām!
+   vīṇē maṉanilai pāḻāk kiṭātē
+   urōma mataṉaip pā஢cō tikkaiyil
+   kampaḷi yataṉaik kavaṉamāyp pārkkaiyil
+   evarumum kampaḷi yuṭaicēta mākkiṭār
+   pārkkaiyil māṟip paṭaravum ceytiṭār
+   tā஢ttiram piṭitta tarattaṉar uṭaipōl
+   ēḻai eḷiyavar āṭaika ḷaippōl!"
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   eṭuttāṉ karaṭiyiṉ urōmat tāṭaiyai 300
+   kūṭamēṟ ṟaḷattil koṇṭatai vaittaṉaṉ
+   iṟaicciyaik kalayam oṉṟilē iṭṭaṉaṉ
+   poṉṉāy miṉṉumōr putukkala yattilē
+   ceppiṉāl aṭippuṟam cērkala yattilē.
+   aṉalilē yiruntaṉa aṭuttatāyk kalayam
+   ceppuk karaikaḷ cērkala yaṅkaḷ
+   niṟaintu kiṭantaṉa niṟaintu vaḻintaṉa
+   ciṟuciṟu iṟaicci to஢ntaṉa tuṇṭukaḷ
+   uppuk kaṭṭikaḷ uḷḷē yiruntaṉa
+   tolaitē cattāl nalamāyk koṇarntavai 310
+   jērmaṉ nāṭṭāl nērpeṟal uppu
+   *veṇkaṭaṟ puṟattāl vantanal luppu
+   *uppu nī஡஢ṇai uḷavaḻi vantavai
+   iṟakkik kappali liruntu koṇarntavai.
+   iracam kotittu iyaltayā rāṉatum
+   kalayattai naṉkē kaṉalirun teṭuttatum
+   **koḷḷaic celvam koṇarap paṭṭatu
+   eṭuttēkap paṭṭatu **iṉciṟu kuruvi
+   nuvalnīḷ mēcaiyiṉ nuṉippuṟa māka
+   poṉṉilē yāṉa kiṇṇaṅ kaḷukku 320
+   naṟaippā ṉattai naṉicuvait tarunta
+   `pīr`ppā ṉattaip pīṭuṟak kuṭikka.
+   tēva tāruvil ceytatam mēcai
+   ceppiṉā liyantavai tikaḻkiṇ ṇaṅkaḷ
+   veḷḷiyil āṉavai viḷaṅkum karaṇṭikaḷ
+   iṉiyapoṉ taṭṭi eṭuttavai kattikaḷ;
+   ellāk kalayamum iruntaṉa niṟaintu
+   vayaṅkukiṇ ṇamelām vaḻintaṉa niṟaintu
+   kāṭṭiṉil peṟṟa kaviṉveku matiyāl
+   poṉṉāṉa vaṉattiṉ putiya iraiyiṉāl. 330
+   mutiya vaiṉā moyiṉaṉaip pōtu
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "moympoṉ mārpuṭai mutumā maṉitā!
+   tappiyō vīṭṭiṉ talaivaṉē kēḷāy!
+   naṟkā ṉakamuṟai naṟainikar peṇṇē!
+   kāṭṭakam vāḻum kaviṉār talaivi!
+   takueḻil maṉitā, tappiyō makaṉē!
+   tikaḻeḻil maṉitā, centoppi yuṭaiyōy!
+   taṉittel larvō, tappiyō makaḷē!
+   aṉaittut tappiyō iṉattarum cērntu 340
+   varukanum erutiṉ maṇattiṉuk kāka
+   numcaṭaip pirāṇiyiṉ koṇṭāṭ ṭukku!
+   uṇṭiṭa niṟaiya uḷḷatu ippō
+   ayiṉṟiṭa niṟaiya, aruntiṭa niṟaiya,
+   nīṅkaḷvait tirukkavum niṟaiyavē yuḷḷatu
+   ū஡஢lē koṭukkavum uḷḷatu niṟaiyavē."
+   makkaḷō ivvitam maṟumoḻi kūṟiṉar
+   eḻilār iṉattār iyampiṉar ivvitam:
+   "karaṭi piṟantatek kaviṉār iṭattilē
+   matippuṟum kuṭṭi vaḷarntatum evviṭam 350
+   amaintatā vaikkōl amaḷiyil piṟappu
+   vaḷarppuc cavuṉā aṭuppu mūlaiyil?"
+   mutiya vaiṉā moyiṉaṉaip pōtu
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "vaikkō(li)l karaṭi vantu piṟantila
+   cūḷaiyiṉ kuppaiyil tōṉṟiya tuvumila
+   nikaḻntatu karaṭiyiṉ nērppiṟap paṅkē
+   tēṉpā tattiṉ tikaḻpiṟap pamaintatu
+   tiṅkaḷiṉ iṭattil tiṉakaraṉ karuvil
+   tārakaik kulattiṉ takutōḷ mītu 360
+   kāṟṟiṉ kaṉṉiyar kalantuvā ḻiṭattil
+   iyaṟkaiyiṉ makaḷār iṉituvā ḻiṭattil.
+   vāṉa viḷimpilōr vaṉitai naṭantaṉaḷ
+   cuvarkka mattiyil cuntā஢ naṭantaṉaḷ
+   mukilō rattil moykuḻal tā஢ttaṉaḷ
+   vāṉiṉ ellaiyil vaṉitai iruntaṉaḷ
+   kālkaḷil nīlak kāluṟai yiruntaṉa
+   uyarkutik kālaṇi oḷirntaṉa miṉṉi
+   karaṅkaḷil kūṭai kampaḷi nūloṭu
+   urōmak kūṭaiyum uṟṟatu kakkam; 370
+   vīciṉaḷ kampaḷi vi஡஢puṉal mēlē
+   ataṉai eṟintaṉaḷ alaikaḷiṉ mēlē
+   ataṉaik kāṟṟu ārāṭ ṭiyatu
+   kuṟumpuṭai vāyu tālāṭ ṭiyatu
+   arunīrc cakti acaintāṭ ṭiṭavē
+   alaiyum ceṉṟatu aṭittuk karaikku
+   naṟainikar kāṉaka naṉkarai yataṟku
+   tēṉikar kaṭaliṉ ceṟimuṉai nuṉikku.
+   miyelikki eṉpāḷ miḷirkāṉ talaivi
+   tappiyō lāviṉ taramuṟu maṉaiyāḷ 380
+   kaṇṭaṉaḷ puṉalil kaṭṭiṉai eṭuttaṉaḷ
+   alaiyiṉil peṟṟaṉaḷ a஡஢yameṉ kampaḷi.
+   ataṉai viraintu aṅkē cērttaṉaḷ
+   tuṇiyāl oḻuṅkāyc cuṟṟiyē vaittaṉaḷ
+   **`māppiḷ` marattoru vaṉkū ṭaiyilē
+   aḻakā yāṭumōr aruntoṭ ṭililē;
+   tuṇippotik kayiṟṟai tūkkiṉaḷ uyara
+   paimpoṉ iyainta paṭṭiyai uyarttiṉaḷ
+   caṭaittu vaḷarntatōr taṉimarak kiḷaikku
+   vi஡஢ntu parantatōr viyaṉilaik kiḷaikku. 390
+   tāṉaṟin tataṉai tāṉtā lāṭṭiṉaḷ
+   aṉpuṟum ataṉai avaḷā rāṭṭiṉaḷ
+   ūci(yi)lai marattiṉ uyarceḻum muṭikkuḷ
+   caṭaittanaṟ ṟēva tāruviṉ kīḻē;
+   aṅkē karaṭiyai avaḷum vaḷarttaṉaḷ
+   amcaṭaip pirāṇiyai aṅkē vaḷarttaṉaḷ
+   tēṉai nikarttatōr ceṟiputar arukil
+   naṟaiyai nikarttatōr nalvaṉat tuḷḷē.
+   antak karaṭiyum aḻakāy vaḷarntatu
+   taramuṟum uruvam tāṉum peṟṟatu 400
+   kuṟukiya kālkaḷ kūṉiya ḻuḻaṅkāl
+   meṉmaiyum taṭippum mēviya muṉvāy
+   taṭṭaiyām mūkku talaiyō akaṉṟatu
+   urōmam caṭaittu uṟuceḻip pamaintatu;
+   āyiṉum paṟkaḷ ataṟki(ṉ)ṉum illai
+   ukirkaḷ vaḷaravum oḻuṅkāy illai.
+   miyelikki eṉpāḷ miḷirkāṉ talaivi
+   intac coṟkaḷil iyampiṉaḷ avaḷē:
+   'nakaṅkaḷai itaṟku nāṉuru vākkuvēṉ
+   itaṟku nāṉum eyiṟukaḷ koṇarvēṉ 410
+   ētum koṭuñceyal iḻaiyā tiruppiṉ
+   tīcceyal ētum ceyyā tiruppiṉ.'
+   āṉatāl cattiyam aḷittatu karaṭi
+   kāṉakat talaiviyiṉ kaviṉmuḻaṅ kālmēl
+   oḷimaya māṉa uyā஢ṟai vaṉiṉmuṉ
+   carva vallavaṉ taṉvata ṉakkīḻ
+   ekkoṭum ceyalum iḻaiyēṉ eṉṟu
+   tīcceyal ētum ceyyēṉ eṉṟu.
+   miyelikki eṉpāḷ miḷirkāṉ talaivi
+   tappiyō lāviṉ taramuṟu maṉaiyāḷ 420
+   tēṭip paṟkaḷaic ceṉṟaṉaḷ eḻuntu
+   vicāraṇai ceytaṉaḷ viyaṉukir kēṭṭu
+   palamuṟa niṉṟa **pacumpē ஡஢yiṭam
+   uramuṟa niṉṟa **uyarcū raiyiṭam
+   kaṇukkaḷ niṟainta kaṉamara vō஢ṭam
+   **piciṉvaṭi aṭimarap peruṅkuṟ ṟiyiṭam;
+   avviṭa miruntu avaḷnakam peṟṟilaḷ
+   paṟkaḷait tāṉum pārttilaḷ avviṭam.
+   vaḷarntatōr **ūci(yi)lai marampul veḷiyil
+   tiṭā஢ṉil eḻuntatu tikaḻoru **pacumaram 430
+   ūci(yi)lai maratti luṟuveḷ ḷikkiḷai
+   pacumai marattiṉ paimpoṉ kiḷaiyatu;
+   oṭittaṉaḷ avaṟṟai uvantutaṉ kaikaḷāl
+   avaṟṟilē yiruntu ākkiṉaḷ nakaṅkaḷai
+   iṇaittaṉaḷ tāṭai elumpiṉil avaṟṟai
+   paṟkaḷiṉ **muracil pāṅkuṟap poruttiṉaḷ.
+   piṉṉar caṭaitta pirāṇiyai aṉuppiṉaḷ
+   cellap pirāṇiyai celveḷi viṭṭaṉaḷ
+   cēṟṟu nilaṅkaḷil ti஡஢ntē alaintiṭa
+   putarpaṟ ṟaikaḷil pukuntē puṟappaṭa 440
+   kāṭṭu veḷikaḷil kālvait tēkiṭa
+   pulmē ṭukaḷil pōyttavaḻ tēṟiṭa;
+   naṉṟāy naṭakka naviṉṟaṉaḷ ataṟku
+   aḻakāy ōṭavum ataṟku uraittaṉaḷ
+   makiḻcci mikkatāy vāḻvaik kaḻikkavum
+   pukaḻāy nāṭkaḷaip pōkkavum kūṟiṉaḷ
+   tiṟanta catuppiṉil tikaḻnilap parappiṉil
+   mikutolaip puṟṟarai viḷaiyāṭṭu veḷiyiṉil
+   kōṭaiyil kālaṇi koḷḷātu naṭantiṭa
+   ilaiyutir kālat tiṉṟiyum kāluṟai 450
+   koṭitām nāṭkaḷtām kūṭiṉum vāḻavum
+   kuḷirkāla mēṟpaṭum kuḷi஡஢ṉait tāṅkavum
+   ciṟupaḻac ceṭiyataṉ cērakat tuḷḷilum
+   koḻun tēva tāruviṉ kōṭṭaiyiṉ pakkamum
+   vaḷarciṟappū ci(yi)lai marattataṉ aṭiyilum
+   cūraic cōlaiyiṉ mūlaiyiṉ puṟattilum
+   aintu kampaḷi akalvi஡஢p paṭiyilum
+   eṭṭup pōrvaikaḷ itakkīḻ irukkavum.
+   koḷḷaic celvak kuvaiyaṅ kaṭaintēṉ
+   aṅkirun tivveṉa aruirai koṇarntēṉ." 450
+   iḷaiya makkaḷō ivvitam kūṟiṉar
+   mutiya makkaḷō moḻintaṉar ivvitam:
+   "neṭuvaṉam kaḷippuṟa nikaḻntatu etuvetu?
+   kāṉakam kaḷippuṟa, kaviṉvaṉam makiḻvuṟa?
+   kāṉakat talaivar kaḷittatum evvitam?
+   aṉpuṟum tappiyō āṉantam koṇṭatum
+   a஡஢yaip pirāṇiyai aṉpuṭaṉ aḷittatum
+   tēṉām celvam ceṉṟiṭa viṭṭatum?
+   īṭṭiyoṉ ṟataṉāl itupeṟap paṭṭatā
+   allatu ampiṉāl aṭaintiṭap paṭṭatā?" 470
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   intac coṟkaḷil iyampiṉaṉ avaṉē:
+   "kāṉakam kaḷippuṟa vaittaṉam nāṅkaḷē
+   kāṉakam kaḷippuṟa kaviṉvaṉam makiḻvuṟa
+   kāṉakat talaivar kaḷittatum ivvitam
+   aṉpuṟum tappiyō āṉantam koṇṭatum.
+   miyelikki eṉpāḷ miḷirvaṉat talaivi
+   tellarvō eṉṉum tappiyō tirumakaḷ
+   vaṉamataṉ vaṉitai vaṭivuṟum kā஡஢kai
+   kāṉakat tuṟaiyum orukaviṉ ciṟupeṇ 480
+   vaḻittaṭam kāṭṭa vantaṉaḷ eḻuntu
+   aṭiccuvaṭ ṭukku ayai(஡)ḷam kūṟiṉaḷ
+   pātaiyiṉ pakkam patittāḷ kuṟikaḷai
+   puṟappaṭṭa payaṇam pōmvaḻi kāṭṭiṉaḷ;
+   pukumara vā஢caip puḷḷikaḷ cetukkiṉaḷ
+   aṭaiya(஡)ḷam iṭṭē amaittaṉaḷ malaikaḷil
+   karaṭiyiṉ vāyiṟ katavam varaiyilum
+   maṟṟatu vāḻnta vativiṭam varaiyilum.
+   anta iṭattaināṉ aṭaintiṭ ṭatumē
+   cērum iṭattaic cērntu muṭintatum 490
+   aṅki(l)lai īṭṭiyāl aṭaintiṭum aluvalē
+   aṅki(l)lai eytu aṭaintiṭum vēlaiyē:
+   iḷuvai vaḷaiyat tiruntutā ṉuruṇṭatu
+   kiṭantuū cimarak kiḷaiyāl vīḻntatu
+   vaṟṟiya kiḷaikaḷ mārpelum puṭaittaṉa
+   kiḻittuc cuḷḷikaḷ vayiṟṟait tiṟantaṉa."
+   piṉvarum coṟkaḷil piṉavaṉ coṉṉāṉ
+   uraittāṉ avaṉē uraittāṉ ivvitam:
+   "eṉṟaṉ karaṭiyē, iṇaiyil aṉpē!
+   eṉṟaṉ paṟavaiyē, eṉṟaṉ cellamē! 500
+   ivvitam vaittiṭu iyaitalai yaṇikaḷai
+   uṉṟaṉ paṟkaḷai oṉṟāyc cērttiṭu
+   kū஡஢ya eyiṟṟiṉaik koṇṭuvā veḷiyē
+   akaṉṟa tāṭai avaioṉ ṟāyc cēr.
+   etaiyum koṭitāy eṇṇiṭa vēṇṭām
+   eṅkaḷuk ketutāṉ iyainta pōtilum
+   uṭaital elumpukaḷ, uṭaṉtalai noruṅkutal,
+   paṟkaḷ naṟunaṟu paṭuoli eḻupputal.
+   * * *
+   ippōtu nāṉ karaṭi eḻilnāci yaippeṟuvēṉ
+   eppōtu meṉnācik kirukkaṭṭum maḵtutavi 510
+   appaṭiyē yāyiṭiṉum ataimuṟṟāy nāṉ eṭukkēṉ
+   ceppamatai maṭṭumtāṉ tērnteṭuppē ṉeṉpatillai.
+   ippōtu nāṉkaraṭi irucevika ḷaippeṟuvēṉ
+   eppōtu meṉcevikku irukkaṭṭu maḵtutavi
+   appaṭiyē yāyiṭiṉum ataimuṟṟāy nāṉeṭukkēṉ
+   ceppamatai maṭṭumtāṉ tērnteṭuppē ṉeṉpatillai.
+   ippōtu nāṉkaraṭi iruviḻika ḷaippeṟuvēṉ
+   eppōtu meṉviḻikku irukkaṭṭu maḵtutavi
+   appaṭiyē yāyiṭiṉum atai muṟṟāy nāṉeṭukkēṉ
+   ceppamatai maṭṭumtāṉ tērnteṭuppē ṉeṉpatillai. 520
+   ippōtu nāṉkaraṭi yiṉneṟṟi yaippeṟuvēṉ
+   eppōtu meṉneṟṟik kirukkaṭṭu maḵtutavi
+   appaṭiyē yāyiṭiṉum ataimuṟṟāy nāṉeṭukkēṉ
+   ceppamatai maṭṭumtāṉ tērnteṭuppē ṉeṉpatillai.
+   ippōtu nāṉkaraṭi yiṉvāyaiy peṟukiṉṟēṉ
+   eppōtu meṉvāykku irukkaṭṭu maḵtutavi
+   appaṭiyē yāyiṭiṉum ataimuṟṟāy nāṉeṭukkēṉ
+   ceppamatai maṭṭumtāṉ tērnteṭuppē ṉeṉpatillai.
+   ippōtu nāṉkaraṭi yiṉnākkaip peṟukiṉṟēṉ
+   eppōtu meṉnākkuk kirukkaṭṭu maḵtutavi 530
+   appaṭiyē yāyiṭiṉum ataimuṟṟāy nāṉeṭukkēṉ
+   ceppamatai maṭṭumtāṉ tērnteṭuppē ṉeṉpatillai.
+   * * *
+   avaṉaiyōr maṉitaṉeṉ ṟaḻaikkiṟēṉ ippō
+   māperum vīraṉāy matikkiṟēṉ nāṉē
+   iṟukiya paṟkaḷai evarum kaṇakkiṭil
+   vā஢caiyāy amaintiṭu valleyi ṟiḷakkiṭil
+   urukkil iyaintavāy oṇtā ṭaiyiṉāl
+   kaṭumirum pāṉataṉ kaimuṭ ṭiyatāl."
+   vēṟuap pōtuyāru(m)muṉ vantilar
+   attaku vīrar aṅkilai yevarum 540
+   iṟukiya paṟkaḷai eṇṇit tāṉē
+   vā஢caiyāy amainta eyiṟukaḷ iḷakkiṭa
+   taṉatu muḻaṅkāl taṉiyelum pataṉkīḻ
+   kaṭumirum pāṉataṉ kaimuṭṭi paṟṟi.
+   karaṭiyiṉ paṟkaḷaik kaiyiṉā leṭuttaṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "kāṭṭuk karaṭiyē, kaviṉār appiḷē!
+   koḻuvaṉat taḻakiya koḻutta pirāṇiyē!
+   uṉakkoru payaṇam uḷḷatu ippō
+   piraya(஡)ṇam oṉṟu pēṇavan tuḷḷatu 550
+   intac ciṟiya eḻiṟkū ṭiruntu
+   tāḻnta intat taṉikkuṭi yiruntu
+   uyarvāy amainta oruil lukku
+   vicālamāy amainta vīṭoṉ ṟukku.
+   poṉṉē, ippō puṟappaṭu pōka!
+   aṉpuc celvamē, aṭivait tēka!
+   paṉṟikaḷ cellum pātaiyiṉ pakkam
+   paṉṟik kuṭṭikaḷ paṭarum vaḻiyāy
+   kuṟuṅkā ṭaṭarnta kuṉṟukaḷ mēlē
+   uyarntu ōṅkiya oḷirmalai mītu 560
+   caṭaitta tēva tārukaḷ nōkki
+   nūṟukop pūci(yi)lai nuvalmaram nōkki!
+   aṅkunī iruppatu amaintiṭum naṉṟāy
+   kālattai aṅkē kaḻippatu ciṟappu
+   pacuviṉ maṇiyoli paṭartolaik kēṭkum
+   maṇikaḷ kaṇī஡஢ṭum maṟṟav viṭattil."
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   avviṭa miruntu akaṉṟil vantaṉaṉ
+   iḷaiya makkaḷō ivvita miyampiṉar
+   eḻilār iṉattavar ivvitam kūṟiṉar: 570
+   "koḷḷaic celvam koṇṭeṅ kēkiṉai?
+   tēṭiya iraiyum ceṉṟatu evvaḻi?
+   kaṭṭip paṉimēl viṭṭē kiṉirā?
+   kūḻappaṉi yuḷḷē mūḻkaviṭ ṭīrā?
+   akalacatup pūṟṟil amiḻaviṭ ṭīrā?
+   ampuṟ ṟaraiveḷi aṭakkam ceytirā?"
+   nilaipeṟum mutiya vaiṉā moyiṉaṉ
+   uraittāṉ orucol uraittāṉ ivvitam:
+   "kaṭṭip paṉimēl viṭṭiṭa villai
+   kūḻppaṉi yuḷḷē mūḻkiṭa villai 580
+   kuraināy ataṉaik kuḻappit ti஡஢yum
+   paṟavaik koṭiyavai maṟaintiṭac ceyyum;
+   akalacatup punilat tamiḻttavu millai
+   ampuṟ ṟaraiveḷi aṭakkavu millai
+   puḻukkaḷ ataṉai aḻittē pōṭum
+   kaṟuppu eṟumpukaḷ kaṭittē yuṇṇum.
+   koḷḷaic celvam koṇṭaṅ kēkiṉēṉ
+   tēṭiya iraiyum ceṉṟatu avvaḻi
+   taṅkat tamainta taṉimalai muṭikku
+   veḷḷik kuṉṟiṉ viyaṉtōḷ mēlē; 590
+   akaltuy yamarat tataināṉ vaittēṉ
+   nūṟu kiḷaiyuṭai ūci(yi)lai marattil
+   caṭaittut taḻaitta takumoru kiḷaimēl
+   ilaikaḷ niṟainta itakcuḷ ḷiyiṉmēl
+   maṉitaruk kellām makiḻcciyuṇ ṭāka
+   vaḻippōk karkku matippuṇ ṭāka.
+   kiḻakkē pārttiṭak kiṭattiṉēṉ muracu
+   vaṭamēṟ pakkamāy vaittēṉ viḻikaḷai
+   iruppiṉum cā஢yāy iṭṭilaṉ ucciyil:
+   uṇmaiyi laṅṅaṉam ucciyil vaittāl 600
+   ceṟikāl vantu cētap paṭuttum
+   kuḷirkāṟ ṟeḻuntu koṭuñceyal pu஡஢yum;
+   āṉāl nilattilum ataṉaināṉ vaittilaṉ;
+   aṅṅaṉam nilattilē ataṉaivait tiṭṭāl
+   cērntu paṉṟikaḷ ti஡஢yum tūkki
+   puraṭṭik kūrvāyp pirāṇikaḷ pōṭum."
+   mutiya vaiṉā moyiṉaṉ ataṉpiṉ
+   veṭittup pāṭiṉāṉ veṭittaṉa pāṭalkaḷ
+   kaviṉpukaḻ antiyaik keḷaravap paṭutta
+   niṟaivuṟum nāḷai nērmakiḻ vūṭṭa. 610
+   mutiya vaiṉā moyiṉaṉ moḻintāṉ
+   uraittāṉ avaṉē uraittāṉ ivvitam:
+   "cuṭā஢ṉai ēntiyē, cuṭarkoḻut tiṭuvāy,
+   pāṭum pōtoḷi pārttunāṉ pāṭa,
+   itōvaru kiṉṟatu icaikku meṉnēram
+   vāyviḻai kiṉṟatu vaḻaṅkiṭap pāṭṭoli."
+   piṉṉar pāṭiṉaṉ piṉṉar icaittaṉaṉ
+   mālaip poḻutu makiḻntaṉaṉ muḻuvatum
+   pāṭalkaḷ pāṭi muṭintatum pakarntaṉaṉ
+   iṟutiyil avaṉē ivvitam kūṟiṉaṉ: 620
+   "iṉṉoru nēram iṟaivaṉēt tārum!
+   etirkā lattil iṟainiran taraṉē!
+   ivvitam makiḻntu iṉpuṟ ṟirukka
+   iṉiyum orumuṟai ivvitam ceyaṟpaṭa
+   koḻutta karaṭiyiṉ koṇṭāṭ ṭattil
+   po஢tunīḷ urōmap pirāṇiyiṉ viḻāvil.
+   iṟaivaṉē, emakku eṉṟumē yaruḷum!
+
+References
+
+   1. file:///projectmadurai/pub/pm0032/index.html#notes
+   2. file:///projectmadurai/pub/pm0032/index.html#index
+   3. file:///projectmadurai/pub/pm0032/index.html#characters
+   4. file:///projectmadurai/pub/pm0032/index.html#Intro1
+   5. file:///projectmadurai/pub/pm0032/index.html#Intro2
+   6. file:///projectmadurai/pub/pm0032/index.html#preface
+   7. file:///projectmadurai/pub/pm0044/addendum.html#Index
+   8. file:///projectmadurai/pub/pm0044/addendum.html#Explanations
+   9. file:///projectmadurai/pub/pm0044/addendum.html#References
+  10. mailto:kalyan@geocities.com
+  11. mailto:kumar@vt.edu
+  12. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  13. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  14. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  15. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  16. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  17. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  18. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  19. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  20. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  21. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top
+  22. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0044_01.html#top

@@ -1,60 +1,2589 @@
-[]
 
-------------------------------------------------------------------------
+                                 [pmdr0.gif]
+                     ___________________________________
 
-tirunAvukkaracar tEvAram - tirumuRai 5 part 2, verses (510 -1016) (in tamil script, unicode format)
+                         tirunAvukkaracar tEvAram -
+                   tirumuRai 5 part 2, verses (510 -1016)
+                      (in tamil script, unicode format)
 
-tirunāvukkaracu cuvāmikaḷ aruḷicceyta
-tēvārap patikaṅkaḷ
-aintām tirumuṟi iraṇṭām pakuti
-pāṭalkaḷ ( 510 -1016 )
+                 tirunāvukkaracu cuvāmikaḷ aruḷicceyta
+                          tēvārap patikaṅkaḷ
+                   aintām tirumuṟai iraṇṭām pakuti
+                         pāṭalkaḷ ( 510 -1016 )
+                     ___________________________________
+     __________________________________________________________________
 
-------------------------------------------------------------------------
+   Acknowledgements:
+   Etext preparation (romanized/transliteration format) : Dr. Thomas
+   Malten and Colleagues,
+   Institute of Indology and Tamil Studies, Univ of Koeln Germany.
+   Our sincere thanks go to Mr.Mani Manivannan, Fremont, CA, USA for
+   providing us with a
+   Text Convertor that allowed conversion of romanized version to Tamil
+   script version as per TSCII encoding.
+   Proof-reading and addition of brief comments: Mr. P.K. Ilango, Erode,
+   Tamilnadu, India
+   Web version: Dr. K. Kalyanasundaram, Lausanne, Switzerland
+   PDF version: Mr. P.I.Arasu, Toronto, ON, Canada.
 
-------------------------------------------------------------------------
+   This webpage presents the Etext in Tamil script but in Unicode
+   encoding.
+   To view the Tamil text correctly you need to set up the following:
+   i). You need to have Unicode fonts containing Tamil Block (Latha,
+   Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on
+   your computer
+   and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
+   XP).
+   ii)Use a browser that is capable of handling UTF-8 based pages
+   (Netscape 6, Internet Explorer 5) with the Unicode Tamil font chosen as
+   the default font for the UTF-8 char-set/encoding view.
+   . In case of difficulties send an email request to
+   [1]kalyan@geocities.com or [2]kumar@vt.edu
 
-Acknowledgements:
-Etext preparation (romanized/transliteration format) : Dr. Thomas Malten
-and Colleagues,
-Institute of Indology and Tamil Studies, Univ of Koeln Germany.
-Our sincere thanks go to Mr.Mani Manivannan, Fremont, CA, USA for
-providing us with a
-Text Convertor that allowed conversion of romanized version to Tamil
-script version as per TSCII encoding.
-Proof-reading and addition of brief comments: Mr. P.K. Ilango, Erode,
-Tamilnadu, India
-Web version: Dr. K. Kalyanasundaram, Lausanne, Switzerland
-PDF version: Mr. P.I.Arasu, Toronto, ON, Canada.
+   © Project Madurai 1999 - 2004
+   Project Madurai is an open, voluntary, worldwide initiative devoted to
+   preparation of
+   electronic texts of tamil literary works and to distribute them free on
+   the Internet.
+   Details of Project Madurai are available at the website
+   [3]http://www.projectmadurai.org/
+   You are welcome to freely distribute this file, provided this header
+   page is kept intact.
+     __________________________________________________________________
 
-This webpage presents the Etext in Tamil script but in Unicode encoding.
-To view the Tamil text correctly you need to set up the following:
-i). You need to have Unicode fonts contining Tamil Block (Latha,
-Arial Unicode MS, TSCu_Inimathi, Code2000, UniMyli,...) installed on
-your computer
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
-XP).
-ii)Use a browser that is capable of handling UTF-8 based pages
-(Netscape 6, Internet Explorer 5) with the Unicode Tamil font chosen as
-the default font for the UTF-8 char-set/encoding view.
-. In case of difficulties send an emil request to kalyan@geocities.com
-or kumar@vt.edu
+                 tirunāvukkaracu cuvāmikaḷ aruḷicceyta
+                          tēvārap patikaṅkaḷ
+                   aintām tirumuṟai iraṇṭām pakuti
+                         pāṭalkaḷ (510 - 1006)
 
-© Project Maduri 1999 - 2004
-Project Maduri is an open, voluntary, worldwide initiative devoted to
-preparation of
-electronic texts of tamil literary works and to distribute them free on
-the Internet.
-Detils of Project Maduri are avilable at the website
+   uḷḷuṟai
 
-http://www.projectmaduri.org/
-You are welcome to freely distribute this file, provided this header
-page is kept intact.
+       5.051 tiruppālaittuṟai          (510-520)   [4]miṉpatippu
+       5.052 tirunākēccaram            (521-530)   [5]miṉpatippu
+       5.053 tiruvatikaivīraṭṭam       (531-542)   [6]miṉpatippu
+       5.054 tiruvatikaivīraṭṭam       (543- 552)  [7]miṉpatippu
+       5.055 tirunāraiyūr              (553-562)   [8]miṉpatippu
+       5.056 tirukkōḷili               (563-572)   [9]miṉpatippu
+       5.057 tirukkōḷili               (573 -582)  [10]miṉpatippu
+       5.058 tiruppaḻaiyāṟaivaṭataḷi   (583 -592)  [11]miṉpatippu
+       5.059 tirumāṟpēṟu               (593 -601)  [12]miṉpatippu
+       5.060 tirumāṟpēṟu               (601-610)   [13]miṉpatippu
+       5.061 tiruariciṟkaraipputtūr    (611 -620)  [14]miṉpatippu
+       5.062 tirukkaṭuvāykkaraipputtūr (621-630)   [15]miṉpatippu
+       5.063 tirukkuraṅkāṭutuṟai       (631-641)   [16]miṉpatippu
+       5.064 tirukkōḻampam             (642-652)   [17]miṉpatippu
+       5.065 tiruppūvaṉūr              (653-663)   [18]miṉpatippu
+       5.066 tiruvalañcuḻi             (664-673)   [19]miṉpatippu
+       5.067 tiruvāñciyam              (674- 680)  [20]miṉpatippu
+       5.068 tirunaḷḷāṟu               (681-690)   [21]miṉpatippu
+       5.069 tirukkaruvili             (691 -700)  [22]miṉpatippu
+       5.070 tirukkoṇṭīccaram          (701-710)   [23]miṉpatippu
+       5.071 tiruvicayamaṅkai          (711-720)   [24]miṉpatippu
+       5.072 tirunīlakkuṭi             (721-730)   [25]miṉpatippu
+       5.073 tirumaṅkalakkuṭi          (731-740)   [26]miṉpatippu
+       5.074 tirueṟumpiyūr             (741 -750)  [27]miṉpatippu
+       5.075 tirukkurakkukkā           (751- 760)  [28]miṉpatippu
+       5.076 tirukkāṉūr                (761-769)   [29]miṉpatippu
+       5.077 tiruccēṟai                (770-779)   [30]miṉpatippu
+       5.078 tirukkōṭikā               (780-786)   [31]miṉpatippu
+       5.079 tiruppuḷḷirukkuvēḷūr      (787-795)   [32]miṉpatippu
+       5.080 tiruaṉpilālantuṟai        (796- 805)  [33]miṉpatippu
+       5.081 tiruppāṇṭikkoṭumuṭi       (806-810)   [34]miṉpatippu
+       5.082 tiruvāṉmiyūr              (811-820)   [35]miṉpatippu
+       5.083 tirunākaikkārōṇam         (821-830)   [36]miṉpatippu
+       5.084 tirukkāṭṭuppaḷḷi          (831-840)   [37]miṉpatippu
+       5.085 tiruccirāppaḷḷi           (841-844)   [38]miṉpatippu
+       5.086 tiruvāṭpōkki              (845-854)   [39]miṉpatippu
+       5.087 tirumaṇañcēri             (855-864)   [40]miṉpatippu
+       5.088 tirumarukal               (865- 874)  [41]miṉpatippu
+       5.089 taṉi                      (875-884)   [42]miṉpatippu
+       5.090 taṉi                      (885-894)   [43]miṉpatippu
+       5.091 taṉi                      (895-900)   [44]miṉpatippu
+       5.092 kālapārāyaṇam             (901-914)   [45]miṉpatippu
+       5.093 maṟakkiṟpaṉē eṉṉum        (915-924)   [46]miṉpatippu
+       5.094 toḻaṟpālaṉam eṉṉum        (925-935)   [47]miṉpatippu
+       5.095 iliṅkapurāṇam             (936-946)   [48]miṉpatippu
+       5.096 maṉattokai                (947-956)   [49]miṉpatippu
+       5.097 cittattokai               (957 -986)  [50]miṉpatippu
+       5.098 uḷḷam                     (987-996)   [51]miṉpatippu
+       5.099 pāvanācam                 (997-1006)  [52]miṉpatippu
+       5.100 ātipurāṇam                (1007-1016) [53]miṉpatippu
+              _____________________________________________________
 
-------------------------------------------------------------------------
+  5.51 tiruppālaittuṟai - tirukkuṟuntokai
+       tirucciṟṟampalam
 
-tirunāvukkaracu cuvāmikaḷ aruḷicceyta tēvārap patikaṅkaḷ aintām tirumuṟi iraṇṭām pakuti pāṭalkaḷ (510 - 1006) 
+   510 nīla māmaṇi kaṇṭattar nīḷcaṭaik
+   kōla māmati kaṅkaiyuṅ kūṭṭiṉār
+   cūla māṉmaḻu vēntic cuṭarmuṭip
+   pālney yāṭuvar pālait tuṟaiyarē. 5.51.1
+   511 kavaḷa mālkaḷiṟ ṟiṉṉuri pōrttavar
+   tavaḷa veṇṇakai maṅkaiyōr paṅkiṉar
+   tivaḷa vāṉavar pōṟṟit ticaitoḻum
+   pavaḷa mēṉiyar pālait tuṟaiyarē. 5.51.2 512 miṉṉiṉ nuṇṇiṭaik kaṉṉiyar
+   mikkeṅkum
+   poṉṉi nīrmūḻkip pōṟṟi yaṭitoḻa
+   maṉṉi nāṉmaṟai yōṭupal kītamum
+   paṉṉi ṉāravar pālait tuṟaiyarē. 5.51.3 513 nīṭu kāṭiṭa māyniṉṟa
+   pēykkaṇaṅ
+   kūṭu pūtaṅ kuḻuminiṉ ṟārkkavē
+   āṭi ṉāraḻa kākiya nāṉmaṟai
+   pāṭi ṉāravar pālait tuṟaiyarē. 5.51.4 514 cittar kaṉṉiyar tēvarkaḷ
+   tāṉavar
+   pittar nāṉmaṟai vētiyar pēṇiya
+   atta ṉēnamai yāḷuṭai yāyeṉum
+   pattar kaṭkaṉpar pālait tuṟaiyarē. 5.51.5 515 viṇṇi ṉārpaṇin tētta
+   viyappuṟum
+   maṇṇi ṉārmaṟa vātuci vāyaveṉ
+   ṟeṇṇi ṉārkkiṭa māveḻiṉ vāṉakam
+   paṇṇi ṉāravar pālait tuṟaiyarē. 5.51.6 516 kurava ṉārkoṭu koṭṭiyuṅ
+   kokkarai
+   viravi ṉārpaṇ keḻumiya vīṇaiyum
+   maruvu nāṇmalar mallikai ceṇpakam
+   paravu nīrppoṉṉip pālait tuṟaiyarē. 5.51.7 517 toṭarun toṇṭarait tukkan
+   toṭarntuvan
+   taṭarum pōtara ṉāyaruḷ ceypavar
+   kaṭaliṉ nañcaṇi kaṇṭar kaṭipuṉaṟ
+   paṭaruñ ceñcaṭaip pālait tuṟaiyarē. 5.51.8 518 mēkan tōypiṟai cūṭuvar
+   mēkalai
+   nākan tōynta araiyiṉar nalliyaṟ
+   pōkan tōynta puṇarmulai maṅkaiyōr
+   pākan tōyntavar pālait tuṟaiyarē. 5.51.9 519 veṅkaṇ vāḷara vāṭṭi
+   veruṭṭuvar
+   aṅka ṇāraṭi yārkkaruḷ nalkuvar
+   ceṅkaṇ mālayaṉ tēṭaṟ kariyavar
+   paiṅkaṇ ēṟṟiṉar pālait tuṟaiyarē. 5.51.10 520 uratti ṉālarak kaṉṉuyar
+   māmalai
+   nerukki ṉāṉai nerittavaṉ pāṭalum
+   irakka māvaruḷ ceytapā laittuṟaik
+   karatti ṉāṟṟoḻu vārviṉai yōyumē. 5.51.11
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - pālaivaṉanātar, tēviyār - tavaḷaveṇṇakaiyammai.
+       tirucciṟṟampalam
+       [54]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
 
-------------------------------------------------------------------------
+  5.52 tirunākēccaram - tirukkuṟuntokai
+       tirucciṟṟampalam
 
-This webpage was last updated on 9 Sept 2003
-Please send your comments to the webmasters of this website.
+   521 nallar nallatōr nākaṅkoṇ ṭāṭṭuvar
+   vallar valviṉai tīrkkum maruntukaḷ
+   pallil ōṭukai yēntip palitiri
+   celvar pōltiru nākēc caravarē. 5.52.1
+   522 nāva lamperun tīviṉil vāḻpavar
+   mēvi vantu vaṇaṅki viṉaiyoṭu
+   pāva māyiṉa paṟṟaṟu vittiṭun
+   tēvar pōltiru nākēc caravarē. 5.52.2 523 ōta mārkaṭa liṉviṭa muṇṭavar
+   āti yāraya ṉōṭama rarkkelām
+   mātōr kūṟar maḻuvala ṉēntiya
+   nātar pōltiru nākēc caravarē. 5.52.3 524 canti raṉṉoṭu cūriyar tāmuṭaṉ
+   vantu cīrvaḻi pāṭukaḷ ceytapiṉ
+   ainta laiyara viṉpaṇi koṇṭaruḷ
+   maintar pōlmaṇi nākēc caravarē. 5.52.4 525 paṇṭō r nāḷikaḻ vāṉpaḻit
+   takkaṉār
+   koṇṭa vēḷvik kumaṇṭai yatukeṭat
+   taṇṭa māvitā tāviṉ ṟalaikoṇṭa
+   ceṇṭar pōltiru nākēc caravarē. 5.52.5 526 vampu pūṅkuḻal mātu maṟukavōr
+   kampa yāṉai yuritta karattiṉar
+   cempo ṉārita ḻimmalarc ceñcaṭai
+   nampar pōltiru nākēc caravarē. 5.52.6 527 māṉai yēntiya kaiyiṉar
+   maiyaṟu
+   ñāṉac cōtiyar tiyar nāmantāṉ
+   āṉa añceḻut tōtavan taṇṇikkun
+   tēṉar pōltiru nākēc caravarē. 5.52.7 528 kaḻalkoḷ kāliṉar kālaṉaik
+   kāyntavar
+   taḻalkoḷ mēṉiyar cāntaveṇ ṇīṟaṇi
+   aḻakar ālniḻaṟ kīḻaṟa mōtiya
+   kuḻakar pōlkuḷir nākēc caravarē. 5.52.8 529 vaṭṭa māmatil mūṉṟuṭaṉ
+   vallaraṇ
+   cuṭṭa ceykaiya rākiluñ cūḻntavar
+   kuṭṭa valviṉai tīrttuk kuḷirvikkuñ
+   ciṭṭar pōltiru nākēc caravarē. 5.52.9 530 tūrttaṉ ṟōṇmuṭi tāḷun
+   tolaiyavē
+   cērtti ṉārtirup pātat toruviral
+   ārttu vantula kattava rāṭiṭun
+   tīrttar pōltiru nākēc caravarē. 5.52.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - ceṇpakāraṇiyēcuvarar,
+       tēviyār - kuṉṟamulaināyakiyammai.
+       tirucciṟṟampalam
+       [55]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.53 tiruvatikaivīraṭṭam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   531 kōṇaṉ māmati cūṭiyōr kōvaṇam
+   nāṇil vāḻkkai nayantum payaṉilai
+   pāṇil vīṇai payiṉṟavaṉ vīraṭṭaṅ
+   kāṇil allateṉ kaṇṭuyil koḷḷumē. 5.53.1
+   532 paṇṇi ṉaippava ḷattiraḷ māmaṇi
+   aṇṇa laiyama rartoḻu mātiyaic
+   cuṇṇa veṇpoṭi yāṉṟiru vīraṭṭam
+   naṇṇi lallateṉ kaṇṭuyil koḷḷumē. 5.53.2 533 uṟṟa vartam uṟunōy
+   kaḷaipavar
+   peṟṟa mēṟum piṟaṅku caṭaiyiṉar
+   cuṟṟum pāypuṉal cūḻtiru vīraṭṭaṅ
+   kaṟki lallateṉ kaṇṭuyil koḷḷumē. 5.53.13 534 muṟṟā veṇmati cūṭum
+   mutalvaṉār
+   ceṟṟār vāḻun tiripuran tīyeḻa
+   viṟṟāṉ koṇṭeyi leytavar vīraṭṭaṅ
+   kaṟṟā lallateṉ kaṇṭuyil koḷḷumē. 5.53.4 535 pallā rumpala tēvar
+   paṇipavar
+   nallā runnayan tēttap paṭupavaṉ
+   villāl mūveyi leytavaṉ vīraṭṭaṅ
+   kallē ṉākileṉ kaṇṭuyil koḷḷumē. 5.53.5 536 vaṇṭār koṉṟaiyum mattam
+   vaḷarcaṭaik
+   koṇṭāṉ kōla matiyō ṭaravamum
+   viṇṭār mummati leytavaṉ vīraṭṭaṅ
+   kaṇṭā lallateṉ kaṇṭuyil koḷḷumē. 5.53.6 537 araiyār kōvaṇa āṭaiya
+   ṉāṟelān
+   tiraiyār oṇpuṉal pāykeṭi lakkarai
+   viraiyār nīṟṟaṉ viḷaṅku vīraṭṭaṉpāṟ
+   karaiyē ṉākileṉ kaṇṭuyil koḷḷumē. 5.53.7 538 nīṟu ṭaittaṭan tōḷuṭai
+   niṉmalaṉ
+   āṟu ṭaippuṉal pāykeṭi lakkarai
+   ēṟu ṭaikkoṭi yāṉṟiru vīraṭṭaṅ
+   kūṟi lallateṉ kaṇṭuyil koḷḷumē. 5.53.8 539 ceṅkaṇ mālviṭai yēṟiya
+   celvaṉār
+   paiṅka ṇāṉaiyiṉ īruri pōrttavar
+   aṅkaṇ ñālama tākiya vīraṭṭaṅ
+   kaṅku lākaveṉ kaṇṭuyil koḷḷumē. 5.53.9 540 pūṇā ṇāram porunta
+   vuṭaiyavar
+   nāṇā kavvarai villiṭai yampiṉāṟ
+   pēṇār mummati leytavaṉ vīraṭṭaṅ
+   kāṇē ṉākileṉ kaṇṭuyil koḷḷumē. 5.53.10 541 varaiyārn tavayi rattiraḷ
+   māṇikkan
+   tiraiyārn tapuṉal pāykeṭi lakkarai
+   viraiyār nīṟṟaṉ viḷaṅkiya vīraṭṭam
+   uraiyē ṉākileṉ kaṇṭuyil koḷḷumē. 5.53.11 542 ulantār veṇṭalai uṇkala
+   ṉākavē
+   valantāṉ mikkavaṉ vāḷarak kaṉṟaṉaic
+   cilampār cēvaṭi yūṉṟiṉāṉ vīraṭṭam
+   pulampē ṉākileṉ kaṇṭuyil koḷḷumē. 5.53.12
+       ittalam naṭunāṭṭiluḷḷatu.
+       cuvāmipeyar - vīraṭṭāṉēcuvarar, tēviyār - tiruvatikaināyakiyammai.
+       tirucciṟṟampalam
+       [56]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.54 tiruvatikaivīraṭṭam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   543 eṭṭu nāṇmalar koṇṭavaṉ cēvaṭi
+   maṭṭa lariṭu vārviṉai māyumāṟ
+   kaṭṭit tēṉkalan taṉṉa keṭilavī
+   raṭṭa ṉāraṭi cēru mavarukkē. 5.54.1
+   544 nīḷa māniṉain teṇmalar iṭṭavar
+   kōḷa valviṉai yuṅkuṟai vipparāl
+   vāḷa māliḻi yuṅkeṭi lakkarai
+   vēḷi cūḻntaḻa kāya vīraṭṭarē. 5.54.2 545 kaḷḷiṉ nāṇmala rōriru nāṉkukoṇ
+   ṭuḷkuvā ravar valviṉai yōṭṭuvār
+   teḷḷu nīrvayal pāykeṭi lakkarai
+   veḷḷai nīṟaṇi mēṉivī raṭṭarē. 5.54.3 546 pūṅkot tāyiṉa mūṉṟoṭō raintiṭa
+   vāṅki niṉṟavar valviṉai yōṭṭuvār
+   vīṅku taṇpuṉal pāykeṭi lakkarai
+   vēṅkait tōluṭai yāṭaivī raṭṭarē. 5.54.4 547 tēṉap pōtukaḷ mūṉṟoṭō
+   raintuṭaṉ
+   tāṉap pōtiṭu vārviṉai tīrppavar
+   mīṉat taṇpuṉal pāykeṭi lakkarai
+   vēṉa lāṉai yurittavī raṭṭarē. 5.54.5 548 ēḻit toṉmalar koṇṭu paṇintavar
+   ūḻit tolviṉai yōṭa akaṟṟuvār
+   pāḻit taṇpuṉal pāykeṭi lakkarai
+   vēḻat tiṉṉuri pōrttavī raṭṭarē. 5.54.6 549 uraicey nūlvaḻi yoṇmala
+   reṭṭiṭat
+   tiraikaḷ pōlvaru valviṉai tīrpparāl
+   varaikaḷ vantiḻi yuṅkeṭi lakkarai
+   viraikaḷ cūḻntaḻa kāyavī raṭṭarē. 5.54.7 550 ōli vaṇṭaṟai yoṇmala
+   reṭṭiṉāṟ
+   kālai yētta viṉaiyaik kaḻipparāl
+   āli vantiḻi yuṅkeṭi lakkarai
+   vēli cūḻntaḻa kāyavī raṭṭarē. 5.54.8 551 tārit tuḷḷit taṭamala reṭṭiṉāṟ
+   pārit tēttaval lārviṉai pāṟṟuvār
+   mūrit teṇṭirai pāykeṭi lakkarai
+   vēric ceñcaṭai vēyntavī raṭṭarē. 5.54.9 552 aṭṭa puṭpam avaikoḷu
+   māṟukoṇ
+   ṭaṭṭa mūrtti aṉātitaṉ pālaṇain
+   taṭṭu māṟucey kiṟpa atikaivī
+   raṭṭa ṉāraṭi cēru mavarkaḷē. 5.54.10
+       tirucciṟṟampalam
+       [57]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.55 tirunāraiyūr - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   553 vīṟu tāṉuṭai veṟpaṉ maṭantaiyōr
+   kūṟa ṉākiluṅ kūṉpiṟai cūṭilum
+   nāṟu pūmpoḻil nāraiyūr nampaṉuk
+   kāṟu cūṭalum amma aḻakitē. 5.55.1
+   554 puḷḷi koṇṭa puliyuri yāṭaiyum
+   veḷḷi koṇṭaveṇ pūtimey yāṭalum
+   naḷḷi teṇṭirai nāraiyū rāṉnañcai
+   aḷḷi yuṇṭalum amma aḻakitē. 5.55.2
+   555 vēṭu taṅkiya vēṭamum veṇṭalai
+   ōṭu taṅkiya vuṇpali koḷkaiyum
+   nāṭu taṅkiya nāraiyū rāṉnaṭam
+   āṭu paiṅkaḻal amma aḻakitē. 5.55.3 556 kokkiṉ ṟūvaluṅ kūviḷaṅ kaṇṇiyum
+   mikka veṇṭalai mālai viricaṭai
+   nakka ṉākilum nāraiyūr nampaṉuk
+   kakki ṉāramum amma aḻakitē. 5.55.4 557 vaṭikoḷ veṇmaḻu māṉamar kaikaḷum
+   poṭikoḷ cempava ḷampurai mēṉiyum
+   naṭikoḷ naṉmayil cērtiru nāraiyūr
+   aṭikaḷ tamvaṭi vamma aḻakitē. 5.55.5 558 cūla malkiya kaiyuñ cuṭaroṭu
+   pālu neytayi rāṭiya pāṉmaiyum
+   ñāla malkiya nāraiyūr nampaṉuk
+   kāla nīḻalum amma aḻakitē. 5.55.6 559 paṇṇi ṉāṉmaṟai pāṭalo ṭāṭalum
+   eṇṇi lārpura mūṉṟeri ceytatum
+   naṇṇi ṉārtuyar tīrttalum nāraiyūr
+   aṇṇa lārceykai amma aḻakitē. 5.55.7 560 eṉpu pūṇṭeru tēṟi iḷampiṟai
+   miṉpu rinta caṭaimēl viḷaṅkavē
+   naṉpa kaṟpali tēriṉum nāraiyūr
+   aṉpa ṉukkatu amma aḻakitē. 5.55.8 561 muraluṅ kiṉṉaram montai muḻaṅkavē
+   iravi ṉiṉṟeri yāṭalu nīṭuvāṉ
+   naralum vārinaṉ ṉāraiyūr nampaṉuk
+   karavum pūṇutal amma aḻakitē. 5.55.9 562 kaṭukkai yañcaṭai yaṉkayi
+   laimmalai
+   eṭutta vāḷarak kaṉṟalai īraiñcum
+   naṭukkam vantiṟa nāraiyū rāṉviral
+   aṭutta taṉmaiyum amma aḻakitē. 5.55.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - cavuntarēcuvarar, tēviyār - tirupuracuntaranāyaki.
+       tirucciṟṟampalam
+       [58]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.56 tirukkōḷili - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   563 maikkoḷ kaṇṇumai paṅkiṉaṉ māṉmaḻut
+   tokka kaiyiṉaṉ ceyyatōr cōtiyaṉ
+   kokka marpoḻil cūḻtaru kōḷili
+   nakka ṉaittoḻa namviṉai nācamē. 5.56.1
+   564 mutti ṉaimuta lākiya mūrttiyai
+   vitti ṉaiviḷai vāya vikirtaṉaik
+   kotta larpoḻil cūḻtaru kōḷili
+   atta ṉaittoḻa nīṅkumnam mallalē. 5.56.2 565 veṇṭi raippara vaiviṭa
+   muṇṭatōr
+   kaṇṭa ṉaikkalan tārtamak kaṉpaṉaik
+   koṇṭa lampoḻiṟ kōḷili mēviya
+   aṇṭa ṉaittoḻu vārkkalla lillaiyē. 5.56.3 566 palavum valviṉai pāṟum
+   pariciṉāl
+   ulavuṅ kaṅkaiyun tiṅkaḷum oṇcaṭai
+   kulavi ṉāṉkuḷi rumpoḻiṟ kōḷili
+   nilavi ṉāṉṟaṉai nittal niṉaimiṉē. 5.56.4 567 alla lāyiṉa tīrum aḻakiya
+   mullai veṇmuṟu vallumai yañcavē
+   kollai yāṉai yurittavaṉ kōḷilic
+   celvaṉ cēvaṭi ceṉṟu toḻumiṉē. 5.56.5 568 āviṉ pālkaṇ ṭaḷavil aruntavap
+   pālaṉ vēṇṭaluñ celleṉṟu pāṟkaṭal
+   kūvi ṉāṉkuḷi rumpoḻiṟ kōḷili
+   mēvi ṉāṉait toḻaviṉai vīṭumē. 5.56.6 569 cīrtta naṉmaṉai yāḷuñ
+   ciṟuvarum
+   ārtta cuṟṟamum paṟṟilai yātalāṟ
+   kūtta ṉāruṟai yuntiruk kōḷili
+   ētti nīrtoḻu miṉṉiṭar tīrumē. 5.56.7 570 māla tāki mayaṅku maṉitarkāḷ
+   kālam vantu kaṭaimuṭi yāmuṉaṅ
+   kōla vārpoḻiṟ kōḷili mēviya
+   nīla kaṇṭaṉai niṉṟu niṉaimiṉē. 5.56.8 571 kēṭu mūṭik kiṭantuṇṇu nāṭatu
+   tēṭi nīrtiri yātē civakati
+   kūṭa lāntiruk kōḷili īcaṉaip
+   pāṭu miṉṉira vōṭu pakalumē. 5.56.8 572 maṭuttu māmalai yēntaluṟ
+   ṟāṉṟaṉai
+   aṭarttup piṉṉum iraṅki yavaṟkaruḷ
+   koṭutta vaṉṉuṟai kōḷili yētoḻa
+   viṭuttu nīṅkiṭum mēlai viṉaikaḷē. 5.56.9
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - kōḷilinātar, tēviyār - vaṇṭamarpūṅkuḻalammai.
+       tirucciṟṟampalam
+       [59]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5. 57 tirukkōḷili - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   573 muṉṉa mēniṉai yātoḻin tēṉuṉai
+   iṉṉam nāṉuṉa cēvaṭi yēttilēṉ
+   cenne lārvayal cūḻtiruk kōḷili
+   maṉṉa ṉēyaṭi yēṉai maṟavalē. 5.57.1
+   574 viṇṇu ḷārtoḻu tēttum viḷakkiṉai
+   maṇṇu ḷārviṉai tīrkku maruntiṉaip
+   paṇṇu ḷārpayi luntiruk kōḷili
+   aṇṇa lāraṭi yētoḻu tuymmiṉē. 5.57.2 575 nāḷum nammuṭai nāḷkaḷ aṟikilōm
+   āḷum nōykaḷō raimpatō ṭāṟeṭṭum
+   ēḻai maippaṭ ṭiruntunīr naiyātē
+   kōḷi liyaraṉ pātamē kūṟumē. 5.57.3 576 viḻavi ṉōcai oliyaṟāt taṇpoḻil
+   paḻaki ṉārviṉai tīrkkum paḻampati
+   aḻalkai yāṉama runtiruk kōḷilik
+   kuḻaka ṉārtirup pātamē kūṟumē. 5.57.4 577 mūla mākiya mūvarkku
+   mūrttiyaik
+   kāla ṉākiya kālaṟkuṅ kālaṉaik
+   kōla māmpoḻil cūḻtiruk kōḷilic
+   cūla pāṇitaṉ pātan toḻumiṉē. 5.57.5 578 kāṟṟa ṉaikkaṭal nañcamu
+   tuṇṭaveṇ
+   ṇīṟṟa ṉainimir puṉcaṭai yaṇṇalai
+   āṟṟa ṉaiyama runtiruk kōḷili
+   ēṟṟa ṉāraṭi yētoḻu tēttumē. 5.57.6 579 vēta māyaviṇ ṇōrkaḷ talaivaṉai
+   ōti maṉṉuyi rēttu moruvaṉaik
+   kōti vaṇṭaṟai yuntiruk kōḷili
+   vēta nāyakaṉ pātam virumpumē. 5.57.7 580 nīti yāṟṟoḻu vārkaḷ talaivaṉai
+   vātai yāṉa viṭukkum maṇiyiṉai
+   kōti vaṇṭaṟai yuntiruk kōḷili
+   vēta nāyakaṉ pātam virumpumē. 5.57.8 581 mālum nāṉmuka ṉālum aṟivoṇāp
+   pāliṉ meṉmoḻi yāḷoru paṅkaṉaik
+   kōla māmpoḻil cūḻtiruk kōḷili
+   nīla kaṇṭaṉai nittal niṉaimiṉē. 5.57.9 582 arakka ṉāya ilaṅkaiyar
+   maṉṉaṉai
+   nerukki yammuṭi pattiṟut tāṉavaṟ
+   kirakka mākiya vaṉṟiruk kōḷili
+   arutti yāyaṭi yētoḻu tuymmiṉē. 5.57.10
+       tirucciṟṟampalam
+       [60]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.58 tiruppaḻaiyāṟaivaṭataḷi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   583 talaiye lāmpaṟik kuñcamaṇ kaiyaruḷ
+   nilaiyi ṉāṉmaṟait tāṉmaṟaik koṇṇumē
+   alaiyi ṉārpoḻi lāṟai vaṭataḷi
+   nilaiyi ṉāṉaṭi yēniṉain tuymmiṉē. 5.58.1
+   584 mūkki ṉālmuraṉ ṟōtiyak kuṇṭikai
+   tūkki ṉārkulan tūraṟut tētaṉak
+   kākki ṉāṉaṇi yāṟai vaṭataḷi
+   nōkki ṉārkkillai yālaru nōykaḷē. 5.58.2
+   585 kuṇṭa raikkuṇa millaraik kūṟaiyil
+   miṇṭa raitturan tavima laṉṟaṉai
+   aṇṭa raippaḻai yāṟai vaṭataḷik
+   kaṇṭa raittoḻu tuyntaṉa kaikaḷē. 5.58.3 586 muṭaiya raittalai muṇṭikkum
+   moṭṭarai
+   kaṭaiya raikkaṭin tārkaṉal veṇmaḻup
+   paṭaiya raippaḻai yāṟai vaṭataḷi
+   uṭaiya raikkuḷirn tuḷkumeṉ uḷḷamē. 5.58.4 587 oḷḷa rikkaṇār muṉṉamaṇ
+   niṉṟuṇuṅ
+   kaḷḷa raikkaṭin takarup pūṟalai
+   aḷḷa lampuṉa lāṟai vaṭataḷi
+   vaḷḷa laippuka ḻattuyar vāṭumē. 5.58.5 588 nīti yaikkeṭa niṉṟama
+   ṇēyuṇuñ
+   cāti yaikkeṭu māceyta caṅkaraṉ
+   āti yaippaḻai yāṟai vaṭataḷic
+   cōti yaittoḻu vārtuyar tīrumē. 5.58.6 589 tiraṭṭi raikka vaḷantiṇik
+   kuñcamaṇ
+   piraṭṭa raippirit taperu māṉṟaṉai
+   aruṭṭi ṟattaṇi yāṟai vaṭataḷit
+   teruṭṭa raittoḻat tīviṉai tīrumē. 5.58.7 590 ōti ṉatteḻut tañcuṇa
+   rāccamaṇ
+   *vēti ṉaippaṭut tāṉaiveṅ kūṟṟutai
+   pāta ṉaippaḻai yāṟai vaṭataḷi
+   nāta ṉaittoḻa namviṉai nācamē.
+   * vētu eṉpatu - veppam. 5.58.8 591 vāyi runtami ḻēpaṭit tāḷuṟā
+   āyi rañcama ṇummaḻi vākkiṉāṉ
+   pāyi rumpuṉa lāṟai vaṭataḷi
+   mēya vaṉṉeṉa valviṉai vīṭumē. 5.58.9 592 cerutta ṉaicceyuñ cēṇarak
+   kaṉṉuṭal
+   erutti ṟavira lāliṟai yūṉṟiya
+   arutta ṉaippaḻai yāṟai vaṭataḷit
+   tirutta ṉaittoḻu vārviṉai tēyumē. 5.58.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - cōmēcuvarar, tēviyār - cōmakalānāyakiyammai.
+       tirucciṟṟampalam
+       [61]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.59 tirumāṟpēṟu - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   593 porumāṟ ṟiṉpaṭai vēṇṭinaṟ pūmpuṉal
+   varumāṟ ṟiṉmalar koṇṭu vaḻipaṭuṅ
+   karumāṟ kiṉṉaruḷ ceytavaṉ kāṇṭaku
+   tirumāṟ pēṟu toḻaviṉai tēyumē. 5.59.1
+   594 ālat tārniḻa lillaṟam nālvarkkuk
+   kōlat tālurai ceytavaṉ kuṟṟamil
+   māluk kāraruḷ ceytavaṉ māṟpēṟu
+   ēlat tāṉṟoḻu vārkkiṭa rillaiyē. 5.59.2 595 tuṇivaṇ ṇaccuṭa rāḻikoḷ
+   vāṉeṇṇi
+   aṇivaṇ ṇattalar koṇṭaṭi yarccitta
+   maṇivaṇ ṇaṟkaruḷ ceytavaṉ māṟpēṟu
+   paṇivaṇ ṇattavark killaiyām pāvamē. 5.59.3 596 tīta vaiceytu tīviṉai
+   vīḻātē
+   kātal ceytu karuttiṉil niṉṟanaṉ
+   māta varpayil māṟpēṟu kaitoḻap
+   pōtu miṉviṉai yāyiṉa pōkumē. 5.59.4 597 vārkoḷ meṉmulai maṅkaiyōr
+   paṅkiṉaṉ
+   vārkoḷ naṉmura cammaṟai yavvaṟai
+   vārkoḷ paimpoḻil māṟpēṟu kaitoḻu
+   vārkaḷ maṉṉuvar poṉṉula kattilē. 5.59.5 598 paṇṭai valviṉai paṟṟaṟuk
+   kumvakai
+   uṇṭu colluvaṉ kēṇmiṉ oḷikiḷar
+   vaṇṭu cērpoḻil cūḻtiru māṟpēṟu
+   kaṇṭu kaitoḻat tīruṅ kavalaiyē. 5.59.6 599 maḻuva lāṉṟiru nāmam
+   makiḻnturait
+   taḻava lārkaḷuk kaṉpucey tiṉpoṭum
+   vaḻuvi lāvaruḷ ceytavaṉ māṟpēṟu
+   toḻava lārtamak killai tuyaramē. 5.59.7 600 muṉṉa vaṉula kukku
+   muḻumaṇip
+   poṉṉa vaṉṟikaḻ muttoṭu pōkamām
+   maṉṉa vaṉṟiru māṟpēṟu kaitoḻum
+   aṉṉa varemai yāḷuṭai yārkaḷē. 5.59.8 601 vēṭa ṉāyvica yaṉṉoṭum eytuveṅ
+   kāṭu nīṭukan tāṭiya kaṇṇutal
+   māṭa nīṭuya runtiru māṟpēṟu
+   pāṭu vārpeṟu vārpara lōkamē. 5.59.9 602 karutta ṉāykkayi lāya
+   malaitaṉait
+   tarukki ṉāleṭut tāṉait takaravē
+   varutti yāraruḷ ceytavaṉ māṟpēṟu
+   arutti yāṟṟoḻu vārkkillai allalē. 5.59.10
+       ittalam toṇṭaināṭṭiluḷḷatu.
+       cuvāmipeyar - mālvaṇaṅkumīcar, tēviyār - karuṇaināyakiyammai.
+       tirucciṟṟampalam
+       [62]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.60 tirumāṟpēṟu - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   603 ētu moṉṟu maṟivila rāyiṉum
+   ōti añceḻut tummuṇar vārkaṭkup
+   pēta miṉṟi avaravar uḷḷattē
+   mātun tāmum makiḻvarmāṟ pēṟarē. 5.60.1
+   604 acca millaineñ cēyaraṉ nāmaṅkaḷ
+   nicca lunniṉai yāyviṉai pōyaṟak
+   kacca māviṭa muṇṭakaṇ ṭāveṉa
+   vaicca māniti yāvar māṟpēṟarē. 5.60.2 605 cātti rampala pēcuñ
+   caḻakkarkāḷ
+   kōtti ramuṅku lamuṅkoṇ ṭeṉceyvīr
+   pātti rañciva meṉṟu paṇitirēl
+   mātti raikkuḷ aruḷumāṟ pēṟarē. 5.60.3 606 iruntu colluvaṉ kēṇmiṉkaḷ
+   ēḻaikāḷ
+   arunta vantarum añceḻut tōtiṉāṟ
+   poruntu nōypiṇi pōkat turappatōr
+   maruntu mākuvar maṉṉumāṟ pēṟarē. 5.60.4 607 cāṟṟic colluvaṉ kēṇmiṉ
+   taraṇiyīr
+   ēṟṟiṉ mēlvaru vāṉkaḻa lēttiṉāṟ
+   kūṟṟai nīkkik kuṟaivaṟut tāḷvatōr
+   māṟṟi lāccempo ṉāvarmāṟ pēṟarē. 5.60.5 608 īṭṭu māniti cāla iḻakkiṉum
+   vīṭṭuṅ kālaṉ viraiya aḻaikkiṉuṅ
+   kāṭṭil mānaṭa māṭuvāy kāveṉil
+   vāṭṭan tīrkkavum vallarmāṟ pēṟarē. 5.60.6 609 aiya ṉēyara ṉēyeṉ
+   ṟaraṟṟiṉāl
+   uyya lāmula kattavar pēṇuvar
+   ceyya pāta miraṇṭum niṉaiyavē
+   vaiya māḷavum vaipparmāṟ pēṟarē. 5.60.7 ippatikattil 8,9-m ceyyuṭkaḷ
+   citaintu pōyiṉa. 5.60.8-9
+   610 untic ceṉṟu malaiyai yeṭuttavaṉ
+   cantu tōḷoṭu tāḷiṟa vūṉṟiṉāṉ
+   manti pāypoḻil cūḻumāṟ pēṟeṉa
+   anta millatōr iṉpam aṇukumē. 5.60.10
+       tirucciṟṟampalam
+       [63]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.61 tiruariciṟkaraipputtūr - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   611 muttū rumpuṉal moyyari ciṟkaraip
+   puttū raṉṉaṭi pōṟṟiyeṉ pārelām
+   poyttū rumpula ṉaintoṭu pulkiya
+   maittū rumviṉai māṟṟavum vallarē. 5.61.1
+   612 piṟaikka ṇiccaṭai yemperu māṉeṉṟu
+   kaṟaikka ṇittavar kaṇṭa vaṇakkattāy
+   uṟakka ṇitturu kāmaṉat tārkaḷaip
+   puṟakka ṇittiṭum puttūrp puṉitarē. 5.61.2 613 arici liṉkarai mēlaṇi
+   yārtaru
+   puricai nantirup puttūrp puṉitaṉaip
+   parico ṭumpara vippaṇi vārkkelān
+   turicil naṉṉeṟi tōṉṟiṭuṅ kāṇmiṉē. 5.61.3 614 vēta ṉaimiku vīṇaiyiṉ
+   mēviya
+   kīta ṉaikkiḷa runnaṟuṅ koṉṟaiyam
+   pōta ṉaippuṉal cūḻntaput tūraṉai
+   nāta ṉainniṉain teṉmaṉam naiyumē. 5.61.4 615 aruppup pōṉmulai yārallal
+   vāḻkkaimēl
+   viruppuc cērnilai viṭṭunal liṭṭamāy
+   tirupput tūraṉaic cintai ceyacceyak
+   karuppuc cāṟṟilum aṇṇikkuṅ kāṇmiṉē. 5.61.5 616 pāmpo ṭumati yumpaṭar
+   puṉcaṭaip
+   pūmpu ṉalumpo tintaput tūruḷāṉ
+   nāmpa ṇintaṭi pōṟṟiṭa nāṭoṟuñ
+   cāmpal eṉpu taṉakkaṇi yākumē. 5.61.6 617 kaṉalaṅ kaitaṉi lēntiveṅ
+   kāṭṭiṭai
+   aṉalaṅ keytiniṉ ṟāṭuvar pāṭuvar
+   piṉalañ ceñcaṭai mēṟpiṟai yuntaru
+   puṉaluñ cūṭuvar pōlumput tūrarē. 5.61.7 618 kāṟṟi ṉuṅkaṭi tāki
+   naṭappatōr
+   ēṟṟi ṉummicain tēṟuvar eṉpoṭu
+   nīṟṟi ṉaiyaṇi varniṉai vāyttamaip
+   pōṟṟi yeṉpavark kaṉparput tūrarē. 5.61.8 619 muṉṉu muppurañ ceṟṟaṉa
+   rāyiṉum
+   aṉṉa moppar alantaṭain tārkkelām
+   miṉṉu moppar viricaṭai mēṉicem
+   poṉṉu mopparput tūrem puṉitarē. 5.61.9 620 cerutta ṉāṟṟaṉa tērcela
+   vuyttiṭuṅ
+   karutta ṉāykkayi laiyeṭut tāṉuṭal
+   parutta tōḷkeṭap pātat toruviral
+   porutti ṉārpoḻi lārntaput tūrarē. 5.61.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - paṭikkācuvaittanātar, tēviyār - aḻakāmpikai.
+       tirucciṟṟampalam
+       [64]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.62 tirukkaṭuvāykkaraipputtūr - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   621 orutta ṉaimū vulakoṭu tēvarkkum
+   arutta ṉaiyaṭi yēṉmaṉat tuḷḷamar
+   karutta ṉaikkaṭu vāyppuṉa lāṭiya
+   tirutta ṉaipputtūr ceṉṟukaṇ ṭuyntēṉē. 5.62.1
+   622 yāva rumaṟi taṟkari yāṉṟaṉai
+   mūva riṉmuta lākiya mūrttiyai
+   nāviṉ nallurai yākiya nātaṉait
+   tēvaṉaip puttūr ceṉṟukaṇ ṭuyntēṉē. 5.62.2 623 aṉpa ṉaiyaṭi yāriṭar
+   nīkkiyaic
+   cempo ṉaittika ḻuntiruk kacciyē
+   kampa ṉaikkaṭu vāykkarait teṉputtūr
+   nampa ṉaikkaṇṭu nāṉuyyap peṟṟēṉē. 5.62.3 624 māta ṉattaimā tēvaṉai
+   māṟilāk
+   kōta ṉattilain tāṭiyai veṇkuḻaik
+   kāta ṉaikkaṭu vāykkarait teṉputtūr
+   nāta ṉaikkaṇṭu nāṉuyyap peṟṟēṉē. 5.62.4 625 kuṇṭu paṭṭakuṟ ṟantavirt
+   teṉṉaiyāṭ
+   koṇṭu naṟṟiṟaṅ kāṭṭiya kūttaṉaik
+   kaṇṭa ṉaikkaṭu vāykkarait teṉputtūr
+   aṇṭa ṉaikkaṇ ṭaruviṉai yaṟṟēṉē. 5.62.5 626 panta pāca maṟutteṉai
+   yāṭkoṇṭa
+   mainta ṉaimmaṇa vāḷaṉai māmalark
+   kanta nīrkkaṭu vāykkarait teṉputtūr
+   entai yīcaṉaik kaṇṭiṉi tāyiṟṟē. 5.62.6 627 umpa rāṉai uruttira
+   mūrttiyai
+   ampa rāṉai amalaṉai ātiyaik
+   kampu nīrkkaṭu vāykkarait teṉputtūr
+   empi rāṉaikkaṇ ṭiṉpama tāyiṟṟē. 5.62.7 628 mācār pāca mayakkaṟu
+   vitteṉuḷ
+   nēca mākiya nitta maṇāḷaṉaip
+   pūca nīrkkaṭu vāykkarait teṉputtūr
+   īca ṉēyeṉa iṉpama tāyiṟṟē. 5.62.8 629 iṭuvā riṭṭa kavaḷaṅ kavarntiru
+   kaṭuvā yiṭṭavar kaṭṭurai koḷḷātē
+   kaṭuvāyt teṉkaraip puttū raṭikaṭkāṭ
+   paṭavē peṟṟunāṉ pākkiyañ ceytēṉē. 5.62.9 630 arakka ṉāṟṟal aḻittavaṉ
+   pāṭalkēṭ
+   ṭirakka māki aruḷpuri yīcaṉait
+   tiraikkoḷ nīrkkaṭu vāykkarait teṉputtūr
+   irukku nātaṉaik kāṇappeṟ ṟuyntēṉē. 5.62.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - corṇapurīcuvarar, tēviyār - corṇapurināyakiyammai.
+       tirucciṟṟampalam
+       [65]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.63 tirukkuraṅkāṭutuṟai - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   631 iraṅkā vaṉmaṉat tārkaḷ iyaṅkumup
+   puraṅkā vallaḻi yappoṭi yākkiṉāṉ
+   taraṅkā ṭuntaṭa nīrppoṉṉit teṉkaraik
+   kuraṅkā ṭutuṟaik kōlak kapāliyē. 5.63.1
+   632 mutti ṉaimaṇi yaippava ḷattoḷir
+   totti ṉaiccuṭar cōtiyaic cōlaicūḻ
+   kotta larkuraṅ kāṭu tuṟaiyuṟai
+   atta ṉeṉṉaaṇ ṇittiṭ ṭiruntatē. 5.63.2 633 kuḷirpu ṉaṟkuraṅ kāṭu
+   tuṟaiyaṉait
+   taḷirni ṟattaiyal paṅkaṉait taṇmati
+   oḷiya ṉainniṉain tēṉukkeṉ uḷḷamun
+   teḷivi ṉaitteḷi yatteḷin tiṭṭatē. 5.63.3 634 maṇavaṉ kāṇmalai yāḷneṭu
+   maṅkalak
+   kaṇavaṉ kāṇkalai ñāṉikaḷ kātaleṇ
+   kuṇavaṉ kāṇkuraṅ kāṭu tuṟaitaṉil
+   aṇavaṉ kāṇaṉpu ceyyu maṭiyarkkē. 5.63.4 635 ñālat tārtoḻu tēttiya
+   naṉmaiyaṉ
+   kālat tāṉuyir pōkkiya kāliṉaṉ
+   nīlat tārmiṭaṟ ṟāṉveḷḷai nīṟaṇi
+   kōlat tāṉkuraṅ kāṭu tuṟaiyaṉē. 5.63.5 636 āṭṭi ṉāṉmuṉ amaṇarō ṭeṉṟaṉaip
+   pāṭṭi ṉāṉṟaṉa poṉṉaṭik kiṉṉicai
+   vīṭṭi ṉāṉviṉai meyyaṭi yāroṭuṅ
+   kūṭṭi ṉāṉkuraṅ kāṭu tuṟaiyaṉē. 5.63.6 637 māttaṉ ṟāṉmaṟai yārmuṟai
+   yāṉmaṟai
+   ōttaṉ ṟārukaṉ ṟaṉṉuyi ruṇṭapeṇ
+   pōttaṉ ṟāṉavaḷ poṅku ciṉantaṇi
+   kūttaṉ ṟāṉkuraṅ kāṭu tuṟaiyaṉē. 5.63.7 638 nāṭi nantama rāyiṉa
+   toṇṭarkāḷ
+   āṭu miṉṉaḻu miṉtoḻu miṉṉaṭi
+   pāṭu miṉpara maṉpayi lummiṭaṅ
+   kūṭu miṉkuraṅ kāṭu tuṟaiyaiyē. 5.63.8 639 teṉṟal naṉṉeṭun tēruṭai
+   yāṉuṭal
+   poṉṟa veṅkaṉal poṅka viḻittavaṉ
+   aṉṟa vantaka ṉaiyayiṟ cūlattāṟ
+   koṉṟa vaṉkuraṅ kāṭu tuṟaiyaṉē. 5.63.9 640 naṟṟa vañceyta nālvarkku
+   nallaṟam
+   uṟṟa naṉmoḻi yālaruḷ ceytanaṟ
+   koṟṟa vaṉkuraṅ kāṭu tuṟaitoḻap
+   paṟṟun tīviṉai yāyiṉa pāṟumē. 5.63.10 641 kaṭutta tērarak kaṉkayi
+   laimmalai
+   eṭutta tōḷtalai yiṟṟala ṟavviral
+   aṭutta lumavaṉ iṉṉicai kēṭṭaruḷ
+   koṭutta vaṉkuraṅ kāṭu tuṟaiyaṉē. 5.63.11
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - āpatcakāyar, tēviyār - pavaḷakkoṭiyammai.
+       tirucciṟṟampalam
+       [66]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.64 tirukkōḻampam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   642 vēḻam pattaivar vēṇṭiṟṟu vēṇṭippōy
+   āḻam paṟṟivīḻ vārpala vātarkaḷ
+   kōḻam pattuṟai kūttaṉ kuraikaḻaṟ
+   tāḻum pattarkaḷ cālac caturarē. 5.64.1
+   643 kayilai naṉmalai yāḷuṅ kapāliyai
+   mayili yaṉmalai mātiṉ maṇāḷaṉaik
+   kuyilpa yilpoḻiṟ kōḻampa mēyaveṉ
+   uyiri ṉainiṉain tuḷḷam urukumē. 5.64.2 644 vāḻum pāṉmaiya rākiya
+   vāṉcelvan
+   tāḻum pāṉmaiya rākittam vāyiṉāl
+   tāḻam pūmaṇam nāṟiya tāḻpoḻiṟ
+   kōḻam pāveṉak kūṭiya celvamē. 5.64.3 645 pāṭa lākkiṭum paṇṇoṭu peṇṇivaḷ
+   kūṭa lākkiṭuṅ kuṉṟiṉ maṇaṟkoṭu
+   kōṭal pūttalar kōḻampat tuṇmakiḻn
+   tāṭuṅ kūttaṉuk kaṉpupaṭ ṭāḷaṉṟē. 5.64.4 646 taḷirkoḷ mēṉiyaḷ tāṉmika
+   añcavōr
+   piḷiṟu vāraṇat tīruri pōrttavaṉ
+   kuḷirkoḷ nīḷvayal kōḻampam mēviṉāṉ
+   naḷirkoḷ nīrcaṭai mēlu nayantatē. 5.64.5 647 nāta rāvar namakkum
+   piṟarkkuntām
+   vēta nāvar viṭaikkoṭi yārveṟpiṟ
+   kōtai mātoṭuṅ kōḻampaṅ kōyilkoṇ
+   ṭāti pāta maṭaiyaval lārkaḷē. 5.64.6 648 muṉṉai nāṉceyta pāva mutalaṟap
+   piṉṉai nāṉperi tummaruḷ peṟṟatum
+   aṉṉa mārvayaṟ kōḻampat tuḷḷamar
+   piṉṉal vārcaṭai yāṉaip pitaṟṟiyē. 5.64.7 649 ēḻai māriṭam niṉṟiru
+   kaikkoṭuṇ
+   kōḻai māroṭuṅ kūṭiya kuṟṟamāṅ
+   kūḻai pāyvayaṟ kōḻampat tāṉaṭi
+   ēḻai yēṉmuṉ maṟantaṅ kiruntatē. 5.64.8 650 arava ṇaippayil mālayaṉ
+   vantaṭi
+   parava ṉaippara māmparañ cōtiyaik
+   kurava ṉaikkura vārpoḻiṟ kōḻampat
+   turava ṉaiyoru varkkuṇar voṇṇumē. 5.64.9 651 camara cūrapaṉ māvait
+   taṭintavēṟ
+   kumaraṉ tātainaṟ kōḻampa mēviya
+   amarar kōviṉuk kaṉpuṭait toṇṭarkaḷ
+   amara lōkama tāḷuṭai yārkaḷē. 5.64.10
+   652 tuṭṭa ṉāki malaiyeṭut taḵtiṉkīḻp
+   paṭṭu vīḻntu paṭarntuyyap pōyiṉāṉ
+   koṭṭam nāṟiya kōḻampat tīcaṉeṉ
+   ṟiṭṭa kīta micaitta arakkaṉē. 5.64.11
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - kōkulēcuvarar, tēviyār - cavuntariyammai.
+       tirucciṟṟampalam
+       [67]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.65 tiruppūvaṉūr - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   653 pūva ṉūrppuṉi taṉṟiru nāmantāṉ
+   nāviṉ nūṟunū ṟāyiram naṇṇiṉār
+   pāva māyiṉa pāṟip paṟaiyavē
+   tēvar kōviṉuñ celvarka ḷāvarē. 5.65.1
+   654 eṉṉa ṉeṉmaṉai entaiye ṉāruyir
+   taṉṉaṉ ṟaṉṉaṭi yēṉṟaṉamākiya
+   poṉṉaṉ pūvaṉūr mēviya puṇṇiyaṉ
+   iṉṉa ṉeṉṟaṟi voṇṇāṉ iyaṟkaiyē. 5.65.2 655 kuṟṟaṅ kūṭik kuṇampala
+   kūṭātīr
+   maṟṟun tīviṉai ceytaṉa māykkalām
+   puṟṟa rāviṉaṉ pūvaṉūr īcaṉpēr
+   kaṟṟu vāḻttuṅ kaḻivataṉ muṉṉamē. 5.65.3 656 āviṉ mēviya aintamarn
+   tāṭuvāṉ
+   tūveṇ ṇīṟu tutaintacem mēṉiyāṉ
+   mēva nūlviri veṇṇiyiṉ teṉkaraip
+   pūva ṉūrpuku vārviṉai pōkumē. 5.65.4 657 pulla mūrtiyūr pūvaṉūr
+   pūmpuṉal
+   nalla mūrtinal lūrnaṉi paḷḷiyūr
+   tillai yūrtiru vārūr cīrkāḻinal
+   valla mūreṉa valviṉai māyumē. 5.65.5 658 aṉuca yappaṭṭa tuvitu veṉṉātē
+   kaṉima ṉattoṭu kaṇkaḷum nīrmalkip
+   puṉita ṉaippūva ṉūraṉaip pōṟṟuvār
+   maṉita riṟṟalai yāṉa maṉitarē. 5.65.6 659 āti nātaṉ amararka ḷarccitaṉ
+   vēta nāvaṉveṟ piṉmaṭap pāvaiyōr
+   pāti yāṉāṉ paranta perumpaṭaip
+   pūta nātaṉteṉ pūvaṉūr nātaṉē. 5.65.7 660 pūva ṉūrtaṇ puṟampayam
+   pūmpoḻil
+   nāva lūrnaḷ ḷāṟoṭu naṉṉilaṅ
+   kōva lūrkuṭa vāyil koṭumuṭi
+   mūva lūrumuk kaṇṇaṉūr kāṇmiṉē. 5.65.8 661 ēva mētu milāvama ṇētalar
+   pāva kārikaḷ colvalaip paṭṭunāṉ
+   tēva tēvaṉ tiruneṟi yākiya
+   pūva ṉūrpuku tappeṟṟa nāḷiṉṟē. 5.65.9 662 nāra ṇaṉṉoṭu nāṉmukaṉ intiraṉ
+   vāra ṇaṉkuma raṉvaṇaṅ kuṅkaḻaṟ
+   pūra ṇaṉtirup pūvaṉūr mēviya
+   kāra ṇaṉṉeṉai yāḷuṭaik kāḷaiyē. 5.65.10
+   663 maikka ṭutta niṟattarak kaṉvarai
+   pukke ṭuttalum pūvaṉū raṉṉaṭi
+   mikka ṭutta viralciṟi tūṉṟalum
+   pakka ṭuttapiṉ pāṭiyuyn tāṉaṉṟē. 5.65.11
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - puṣpavaṉanātar tēviyār - kaṟpakavalliyammai.
+       tirucciṟṟampalam
+       [68]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.66 tiruvalañcuḻi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   664 ōta mārkaṭa liṉviṭa muṇṭavaṉ
+   pūta nāyakaṉ poṟkayi laikkiṟai
+   mātor pākaṉ valañcuḻi yīcaṉaip
+   pāta mēttap paṟaiyunam pāvamē. 5.66.1
+   665 kayilai nātaṉ kaṟuttavar muppuram
+   eyilkaḷ tīyeḻa velvala vittakaṉ
+   mayilka ḷālum valañcuḻi yīcaṉaip
+   payilki lārcilar pāvit toḻumparē. 5.66.2 666 iḷaiya kālamem māṉai
+   yaṭaikilāt
+   tuḷaiyi lāccevit toṇṭarkāḷ nummuṭal
+   vaḷaiyuṅ kālam valañcuḻi yīcaṉaik
+   kaḷaika ṇākak karutinīr uymmiṉē. 5.66.3 667 naṟaikoḷ pūmpuṉal koṇṭeḻu
+   māṇikkāyk
+   kuṟaivi lākkoṭuṅ kūṟṟutait tiṭṭavaṉ
+   maṟaikoḷ nāvaṉ valañcuḻi mēviya
+   iṟaiva ṉaiyiṉi eṉṟukol kāṇpatē. 5.66.4 668 viṇṭa varpura mūṉṟu
+   merikoḷat
+   tiṇṭi ṟaṟcilai yāleri ceytavaṉ
+   vaṇṭu paṇmura luntaṇ valañcuḻi
+   aṇṭa ṉukkaṭi maittiṟat tāvaṉē. 5.66.5 669 paṭaṅkoḷ pāmpoṭu pāṉmati
+   yañcaṭai
+   aṭaṅka vāḻaval lāṉumpar tampirāṉ
+   maṭantai pākaṉ valañcuḻi yāṉaṭi
+   aṭainta varkkaṭi maittiṟat tāvaṉē. 5.66.6 670 nākkoṇ ṭupara vummaṭi
+   yārviṉai
+   pōkka valla puricaṭaip puṇṇiyaṉ
+   mākkoḷ cōlai valañcuḻi īcaṉṟaṉ
+   ēkko ḷappura mūṉṟeri yāṉavē. 5.66.7 671 tēṭu vārpira maṉtiru mālavar
+   āṭu pāta mavarum aṟikilār
+   māṭa vīti valañcuḻi yīcaṉait
+   tēṭu vāṉuṟu kiṉṟateṉ cintaiyē. 5.66.8 672 kaṇpa ṉikkuṅ kaikūppuṅ
+   kaṇmūṉṟuṭai
+   naṇpa ṉukkeṉai nāṉkoṭup pēṉeṉum
+   vaṇpo ṉitteṉ valañcuḻi mēviya
+   paṇpa ṉippoṉaic ceyta paricitē. 5.66.9 673 ilaṅkai vēntaṉ irupatu
+   tōḷiṟa
+   nalaṅkoḷ pātat toruvira lūṉṟiṉāṉ
+   malaṅku pāyvayal cūḻnta valañcuḻi
+   valaṅkoḷ vāraṭi yeṉṟalai mēlavē. 5.66.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - valañcuḻinātar, tēviyār - periyanāyakiyammai.
+       tirucciṟṟampalam
+       [69]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.67 tiruvāñciyam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   674 paṭaiyum pūtamum pāmpumpul vāyataḷ
+   uṭaiyun tāṅkiya uttama ṉārkkiṭam
+   puṭaini lāviya pūmpoḻil vāñciyam
+   aṭaiya vallavark kallaloṉ ṟillaiyē. 5.67.1
+   675 paṟappai yumpacu vumpaṭut tuppala
+   tiṟatta vummuṭai yōrtika ḻumpati
+   kaṟaippi ṟaiccaṭaik kaṇṇutal cērtaru
+   ciṟappu ṭaittiru vāñciyañ cērmiṉē. 5.67.2 676 puṟṟi lāṭara vōṭu
+   puṉalmati
+   teṟṟu ceñcaṭait tēvar pirāṉpati
+   cuṟṟu māṭaṅkaḷ cūḻtiru vāñciyam
+   paṟṟip pāṭuvārk kuppāva millaiyē. 5.67.3 677 aṅka māṟum arumaṟai
+   nāṉkuṭaṉ
+   taṅku vēḷviyar tāmpayi lunnakar
+   ceṅkaṇ māliṭa mārtiru vāñciyan
+   taṅku vārnam mamarark kamararē. 5.67.4 678 nīṟu pūci nimircaṭai
+   mēṟpiṟai
+   āṟu cūṭum aṭikaḷ uṟaipati
+   māṟu tāṉoruṅ kumvayal vāñciyan
+   tēṟi vāḻpavark kuccelva mākumē. 5.67.5 679 aṟṟup paṟṟiṉṟi yāraiyu
+   millavark
+   kuṟṟa naṟṟuṇai yāvāṉ uṟaipati
+   teṟṟu māṭaṅkaḷ cūḻtiru vāñciyaṅ
+   kaṟṟuc cērpavark kukkarut tāvatē. 5.67.6 680 arukkaṉ aṅki namaṉoṭu
+   tēvarkaḷ
+   tiruttuñ cēvaṭi yāṉṟika ḻunnakar
+   orutti pāka mukantavaṉ vāñciyam
+   arutti yālaṭai vārkkillai yallalē. 5.67.7 ippatikattil 8,9,10-m
+   ceyyuṭkaḷ citaintu pōyiṉa. 5.67.8-10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - cukavāñcinātar, tēviyār - vāḻavantaammai.
+       tirucciṟṟampalam
+       [70]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.68 tirunaḷḷāṟu - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   681 uḷḷā ṟātatōr puṇṭari kattiraḷ
+   teḷḷā ṟācciva cōtit tiraḷiṉaik
+   kaḷḷā ṟātapoṟ koṉṟai kamaḻcaṭai
+   naḷḷā ṟāveṉa namviṉai nācamē. 5.68.1
+   682 āra ṇapporu ḷāmaru ḷāḷaṉār
+   vāra ṇatturi pōrtta maṇāḷaṉār
+   nāra ṇaṉnaṇṇi yēttunaḷ ḷāṟaṉār
+   kāra ṇakkalai ñāṉak kaṭavuḷē. 5.68.2 683 mēkam pūṇṭatōr mēruviṟ
+   koṇṭeyil
+   cōkam pūṇṭaḻal cōrattoṭ ṭāṉavaṉ
+   pākam pūṇṭamāl paṅkayat tāṉoṭu
+   nākam pūṇṭukūt tāṭunaḷ ḷāṟaṉē. 5.68.3 684 maliyuñ ceñcaṭai vāḷara
+   vammoṭu
+   poliyum pūmpuṉal vaitta puṉitaṉār
+   naliyuṅ kūṟṟai nalintanaḷ ḷāṟartam
+   valiyuṅ kaṇṭiṟu māntu makiḻvaṉē. 5.68.4 685 uṟava ṉāyniṟain tuḷḷaṅ
+   kuḷirppavaṉ
+   iṟaiva ṉākiniṉ ṟeṇṇiṟain tāṉavaṉ
+   naṟava nāṟum poḻiṟṟiru naḷḷāṟaṉ
+   maṟava ṉāyppaṉṟip piṉceṉṟa māyamē. 5.68.5 686 cekka raṅkaḻi ceñcuṭarc
+   cōtiyār
+   nakka raṅkara vārttanaḷ ḷāṟaṉār
+   vakka raṉṉuyir vavviya māyaṟkuc
+   cakka ramaruḷ ceyta caturarē. 5.68.6 687 vañca nañciṟ polikiṉṟa
+   kaṇṭattar
+   viñcai yiṟcelvap pāvaikku vēntaṉār
+   vañca neñcat tavarkku vaḻikoṭār
+   nañca neñcark karuḷunaḷ ḷāṟarē. 5.68.7 688 alla ṉeṉṟu malarkkaru ḷāyiṉa
+   colla ṉeṉṟucol lāmaṟaic cōtiyāṉ
+   valla ṉeṉṟumval lārvaḷa mikkavar
+   nalla ṉeṉṟunal lārkkunaḷ ḷāṟaṉē. 5.68.8 689 pāmpa ṇaippaḷḷi koṇṭa
+   paramaṉum
+   pūmpa ṇaippoli kiṉṟa purāṇaṉun
+   tāmpa ṇintaḷap poṇṇāt taṉittaḻal
+   nāmpa ṇintaṭi pōṟṟunaḷ ḷāṟaṉē. 5.68.9 690 ilaṅkai maṉṉaṉ irupatu tōḷiṟa
+   malaṅka mālvarai mēlviral vaittavar
+   nalaṅkoḷ nīṟṟarnaḷ ḷāṟarai nāṭoṟum
+   valaṅkoḷ vārviṉai yāyiṉa māyumē. 5.68.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - tirunaḷḷāṟṟīcar, tēviyār - pōkamārttapūṇmulaiyammai.
+       tirucciṟṟampalam
+       [71]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.69 tirukkaruvili - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   691 maṭṭiṭ ṭakuḻa lārcuḻa lilvalaip
+   paṭṭiṭ ṭumayaṅ kippari yātunīr
+   kaṭṭiṭ ṭaviṉai pōkak karuvilik
+   koṭṭiṭ ṭaiyuṟai vāṉkaḻal kūṭumē. 5.69.1
+   692 ñāla malku maṉitarkāḷ nāṭoṟum
+   ēla māmala rōṭilai koṇṭunīr
+   kāla ṉārvaru taṉmuṉ karuvilik
+   kōla vārpoḻiṟ koṭṭiṭṭai cērmiṉē. 5.69.2 693 paṅka māyiṉa pēcap
+   paṟaintunīr
+   maṅku māniṉai yātē malarkoṭu
+   kaṅkai cērcaṭai yāṉṟaṉ karuvilik
+   koṅku vārpoḻiṟ koṭṭiṭṭai cērmiṉē. 5.69.3 694 vāṭi nīrvarun tātē
+   maṉitarkāḷ
+   vēṭa ṉāyvica yaṟkaruḷ ceytaveṇ
+   kāṭa ṉāruṟai kiṉṟa karuvilik
+   kōṭu nīḷpoḻiṟ koṭṭiṭṭai cērmiṉē. 5.69.4 695 uyyu māṟitu kēṇmiṉ
+   ulakattīr
+   paikoḷ pāmparai yāṉpaṭai yārmaḻuk
+   kaiyi ṉāṉuṟai kiṉṟa karuvilik
+   koykoḷ pūmpoḻiṟ koṭṭiṭṭai cērmiṉē. 5.69.5 696 āṟṟa vummava lattaḻun
+   tātunīr
+   tōṟṟun tīyoṭu nīrnilan tūveḷi
+   kāṟṟu mākiniṉ ṟāṉṟaṉ karuvilik
+   kūṟṟaṅ kāyntavaṉ koṭṭiṭṭai cērmiṉē. 5.69.6 697 nillā vāḻvu nilaipeṟu
+   meṉṟeṇṇip
+   pollā vāṟu ceyappuri yātunīr
+   kallā rummatil cūḻtaṇ karuvilik
+   kollē ṟūrpavaṉ koṭṭiṭṭai cērmiṉē. 5.69.7 698 piṇitta nōyppiṟa vippiṟi
+   veytumā
+   ṟuṇartta lāmitu kēṇmiṉ uruttira
+   kaṇatti ṉārtoḻu tēttuṅ karuvilik
+   kuṇatti ṉāṉuṟai koṭṭiṭṭai cērmiṉē. 5.69.8 699 nampu vīritu kēṇmiṉkaḷ
+   nāṭoṟum
+   empi rāṉeṉ ṟimaiyava rēttumē
+   kampa ṉāruṟai kiṉṟa karuvilik
+   kompa ṉārpayil koṭṭiṭṭai cērmiṉē. 5.69.9 700 pāru ḷīritu kēṇmiṉ
+   paruvarai
+   pēru māṟeṭut tāṉai yaṭarttavaṉ
+   kārkoḷ nīrvayal cūḻtaṇ karuvilik
+   kūrkoḷ vēliṉaṉ koṭṭiṭṭai cērmiṉē. 5.69.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - caṟkuṇanātar, tēviyār - carvāṅkanāyakiyammai.
+       tirucciṟṟampalam
+       [72]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.70 tirukkoṇṭīccaram - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   701 kaṇṭa pēcciṉiṟ kāḷaiyar taṅkaḷpāl
+   maṇṭi yēccuṇu mātaraic cērātē
+   caṇṭi yīccura varkkaruḷ ceytavak
+   koṇṭi yīccura vaṉkaḻal kūṟumē. 5.70.1
+   702 cuṟṟa muntuṇai naṉmaṭa vāḷoṭu
+   peṟṟa makkaḷum pēṇa loḻintaṉar
+   kuṟṟa milpukaḻk koṇṭīc curavaṉār
+   paṟṟa lāloru paṟṟumaṟ ṟillaiyē. 5.70.2 703 māṭu tāṉatu villeṉiṉ māṉiṭar
+   pāṭu tāṉcelvā rillaipaṉ mālaiyāṟ
+   kūṭa nīrceṉṟu koṇṭīc curavaṉaip
+   pāṭu miṉpara lōkat tiruttumē. 5.70.3 704 tantai tāyoṭu tāra meṉuntaḷaip
+   panta māṅkaṟut tuppayil veytiya
+   konta viḻpoḻiṟ koṇṭīc curavaṉaic
+   cintai ceymmiṉ avaṉaṭi cēravē. 5.70.4 705 kēḷu miṉṉiḷa maiyatu kēṭuvan
+   tīḷai yōṭiru mallatu veytaṉmuṉ
+   kōḷa rāvaṇi koṇṭīc curavaṉai
+   nāḷu mēttit toḻumiṉnaṉ kākumē. 5.70.5 706 vempu nōyum iṭarum veṟumaiyum
+   tuṉpa muntuya rummeṉuñ cūḻviṉai
+   kompa ṉārpayil koṇṭīc curavaṉai
+   empi rāṉeṉa vallavark killaiyē. 5.70.6 707 alla lōṭaru nōyil aḻuntinīr
+   cellu māniṉai yātē kaṉaikuraṟ
+   kollai yēṟuṭaik koṇṭīc curavaṉai
+   valla vāṟu toḻaviṉai māyumē. 5.70.7 708 nāṟu cāntaṇi naṉmulai meṉmoḻi
+   māṟi lāmalai maṅkaiyōr pākamāk
+   kūṟa ṉāruṟai koṇṭīc curaniṉain
+   tūṟu vārtamak kūṉamoṉ ṟillaiyē. 5.70.8 709 ayilār amperi mēruvil lākavē
+   eyilā rumpoṭi yāyviḻa eytavaṉ
+   kuyilā rumpoḻiṟ koṇṭīc curavaṉaip
+   payilvā rumperu maipeṟum pālarē. 5.70.9 710 nilaiyi ṉārvarai niṉṟeṭut
+   tāṉṟaṉai
+   malaiyi ṉālaṭart tuviṟal vāṭṭiṉāṉ
+   kulaiyi ṉārpoḻiṟ koṇṭīc curavaṉait
+   talaiyi ṉālvaṇaṅ kattava mākumē. 5.70.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - pacupatīccuvarar, tēviyār - cāntanāyakiyammai.
+       tirucciṟṟampalam
+       [73]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.71 tiruvicayamaṅkai - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   711 kucaiyum aṅkaiyiṟ kōcamuṅ koṇṭavav
+   vacaiyiṉ maṅkala vācakar vāḻttavē
+   icaiya maṅkaiyun tāṉumoṉ ṟāyiṉāṉ
+   vicaiya maṅkaiyuḷ vētiyaṉ kāṇmiṉē. 5.71.1
+   712 āti nātaṉ aṭalviṭai mēlamar
+   pūta nātaṉ puliyata ḷāṭaiyaṉ
+   vēta nātaṉ vicayamaṅ kaiyuḷāṉ
+   pāta mōtaval lārkkillai pāvamē. 5.71.2 713 koḷḷi ṭakkaraik kōvanta
+   puttūril
+   veḷvi ṭaikkaruḷ ceyvica yamaṅkai
+   uḷḷi ṭattuṟai kiṉṟa uruttiraṉ
+   kiḷḷi ṭattalai yaṟṟa tayaṉukkē. 5.71.3 714 ticaiyu meṅkuṅ kuluṅkat
+   tiripuram
+   acaiya vaṅkeytiṭ ṭāraḻa lūṭṭiṉāṉ
+   vicaiya maṅkai viruttaṉ puṟattaṭi
+   vicaiyiṉ maṅki viḻuntaṉaṉ kālaṉē. 5.71.4 715 poḷḷa lākkai akattilaim
+   pūtaṅkaḷ
+   kaḷḷa mākkik kalakkiya kāriruḷ
+   viḷḷa lākki vicayamaṅ kaippirāṉ
+   uḷḷa nōkkiye ṉuḷḷuḷ uṟaiyumē. 5.71.5 716 kollai yēṟṟuk koṭiyoṭu
+   poṉmalai
+   villai yēṟṟuṭai yāṉvica yamaṅkaic
+   celva pōṟṟiyeṉ pārukkut teṉṟicai
+   ellai yēṟṟalum iṉcolu mākumē. 5.71.6 717 kaṇpal ukkak kapālamaṅ
+   kaikkoṇṭu
+   uṇpa likkuḻal uttama ṉuḷḷoḷi
+   veṇpi ṟaikkaṇṇi yāṉvica yamaṅkai
+   naṇpa ṉaittoḻap peṟṟatu naṉmaiyē. 5.71.7 718 pāṇṭu viṉmakaṉ pārttaṉ
+   paṇiceytu
+   vēṇṭu nalvaraṅ koḷvica yamaṅkai
+   āṇṭa vaṉṉaṭi yēniṉain tācaiyāṟ
+   kāṇṭa lēkarut tāki yiruppaṉē. 5.71.8 719 vantu kēṇmiṉ mayaltīr
+   maṉitarkāḷ
+   venta nīṟṟaṉ vicayamaṅ kaippirāṉ
+   cintai yālniṉai vārkaḷaic cikkeṉap
+   pantu vākki uyakkoḷuṅ kāṇmiṉē. 5.71.9 720 ilaṅkai vēntaṉ irupatu tōḷiṟa
+   vilaṅkaḷ cērvira lāṉvica yamaṅkai
+   valañcey vārkaḷum vāḻtticaip pārkaḷum
+   nalañcey vāravar naṉṉeṟi nāṭiyē. 5.72.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - vicaiyanātēcuvarar, tēviyār - maṅkaināyakiyammai.
+       tirucciṟṟampalam
+       [74]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.72 tirunīlakkuṭi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   721 vaitta māṭum maṉaiviyum makkaḷnīr
+   cetta pōtu ceṟiyār pirivatē
+   nitta nīlak kuṭiyara ṉainniṉai
+   citta mākiṟ civakati cērtirē. 5.72.1
+   722 ceyya mēṉiyaṉ ṟēṉoṭu pāltayir
+   neyya tāṭiya nīlak kuṭiyaraṉ
+   maiya lāymaṟa vāmaṉat tārkkelāṅ
+   kaiyi lāmala kakkaṉi yokkumē. 5.72.2 723 āṟṟa nīḷcaṭai āyiḻai yāḷoru
+   kūṟṟaṉ mēṉiyiṟ kōlama tākiya
+   nīṟṟaṉ nīlak kuṭiyuṭai yāṉaṭi
+   pōṟṟi ṉāriṭar pōkkum puṉitaṉē. 5.72.3 724 nālu vētiyark kiṉṉaruḷ
+   naṉṉiḻal
+   ālaṉ ālanañ cuṇṭakaṇ ṭattamar
+   nīlaṉ nīlak kuṭiyuṟai niṉmalaṉ
+   kāla ṉāruyir pōkkiya kālaṉē. 5.72.4 725 nēca nīlak kuṭiyara ṉēyeṉā
+   nīca rāyneṭu mālceyta māyattāl
+   īca ṉōrcara meyya erintupōy
+   nāca māṉār tiripura nātarē. 5.72.5 726 koṉṟai cūṭiyaik kuṉṟa makaḷoṭu
+   niṉṟa nīlak kuṭiyara ṉēyeṉīr
+   eṉṟum vāḻvukan tēyiṟu mākkunīr
+   poṉṟum pōtu numakkaṟi voṇṇumē. 5.72.6 727 kalli ṉōṭeṉaip pūṭṭi
+   amaṇkaiyar
+   ollai nīrpuka nūkkaveṉ vākkiṉāl
+   nellu nīḷvayal nīlak kuṭiyaraṉ
+   nalla nāmam naviṟṟiyuyn tēṉaṉṟē. 5.72.7 728 aḻaki yōmiḷai yōmeṉu
+   mācaiyāl
+   oḻuki āvi uṭalviṭu muṉṉamē
+   niḻala tārpoḻil nīlak kuṭiyaraṉ
+   kaḻalkoḷ cēvaṭi kaitoḻu tuymmiṉē. 5.72.8 729 kaṟṟaic ceñcaṭaik kāykatir
+   veṇṭiṅkaḷ
+   paṟṟip pāmpuṭaṉ vaitta parāparaṉ
+   neṟṟik kaṇṇuṭai nīlak kuṭiyaraṉ
+   cuṟṟit tēvar toḻuṅkaḻaṟ cōtiyē. 5.72.9 730 tarukki veṟpatu tāṅkiya
+   vīṅkutōḷ
+   arakka ṉāruṭa lāṅkōr viraliṉāl
+   nerittu nīlak kuṭiyaraṉ piṉṉaiyum
+   irakka māyaruḷ ceytaṉaṉ eṉparē. 5.72.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - nīlakaṇṭēcuvarar, tēviyār - nīlaniṟavumaiyammai.
+       tirucciṟṟampalam
+       [75]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.73 tirumaṅkalakkuṭi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   731 taṅka lappiya takkaṉ peruvēḷvi
+   aṅka lakkaḻit tāraruḷ ceytavaṉ
+   koṅka larkkuḻaṟ kompaṉai yāḷoṭu
+   maṅka lakkuṭi mēya maṇāḷaṉē. 5.73.1
+   732 kāvi riyiṉva ṭakaraik kāṇṭaku
+   māvi riyumpo ḻilmaṅ kalakkuṭit
+   tēva riyumpi ramaṉun tēṭoṇāt
+   tūve riccuṭarc cōtiyuṭ cōtiyē. 5.73.2 733 maṅka lakkuṭi īcaṉai mākāḷi
+   veṅka tirccelvaṉ viṇṇoṭu maṇṇunēr
+   caṅku cakkara tāri caturmukaṉ
+   aṅka kattiya ṉummarccit tāraṉṟē. 5.73.3 734 mañcaṉ vārkaṭal cūḻmaṅka
+   lakkuṭi
+   nañca māramu tāka nayantukoṇ
+   ṭañcu māṭa lamarntaṭi yēṉuṭai
+   neñca mālaya mākkoṇṭu niṉṟatē. 5.73.4 735 celva malku tirumaṅ
+   kalakkuṭic
+   celva malku civaniya mattarāyc
+   celva malku ceḻumaṟai yōrtoḻac
+   celvaṉ ṟēviyo ṭuntikaḻ kōyilē. 5.73.5 736 maṉṉu cīrmaṅ kalakkuṭi
+   maṉṉiya
+   piṉṉu vārcaṭaip piññakaṉ ṟaṉpeyar
+   uṉṉu vāru muraikkaval lārkaḷun
+   tuṉṉu vārnaṉ ṉeṟitoṭar veytavē. 5.73.6 737 māta rārmaru vummaṅka
+   lakkuṭi
+   āti nāyakaṉ aṇṭarkaḷ nāyakaṉ
+   vēta nāyakaṉ vētiyar nāyakaṉ
+   pūta nāyakaṉ puṇṇiya mūrttiyē. 5.73.7 738 vaṇṭu cērpoḻil cūḻmaṅka
+   lakkuṭi
+   viṇṭa tātaiyait tāḷaṟa vīciya
+   caṇṭa nāyaka ṉukkaruḷ ceytavaṉ
+   tuṇṭa māmati cūṭiya cōtiyē. 5.73.8 739 kūcu vāralar kuṇṭar kuṇamilar
+   nēca mētu milātavar nīcarkaḷ
+   mācar pālmaṅka lakkuṭi mēviya
+   īcaṉ vēṟu paṭukkavuyn tēṉaṉṟē. 5.73.9 740 maṅka lakkuṭi yāṉkayi
+   laimalai
+   aṅka laitteṭuk kuṟṟa arakkarkōṉ
+   taṉka rattoṭu tāḷtalai tōḷtakarn
+   taṅka laittaḻu tuyntaṉaṉ tāṉaṉṟē. 5.73.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - pirāṇēcavaratar, tēviyār - maṅkaḷanāyakiyammai.
+       tirucciṟṟampalam
+       [76]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.74 tirueṟumpiyūr - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   741 virumpi yūṟu viṭēlmaṭa neñcamē
+   karumpi ṉūṟalkaṇ ṭāykalan tārkkavaṉ
+   irumpi ṉūṟala ṟātatōr veṇṭalai
+   eṟumpi yūrmalai yāṉeṅka ḷīcaṉē. 5.74.1
+   742 piṟaṅku ceñcaṭaip piññakaṉ pēṇucīrk
+   kaṟaṅku pūta kaṇamuṭaik kaṇṇutal
+   naṟuṅku ḻalmaṭa vāḷoṭu nāṭoṟum
+   eṟumpi yūrmalai yāṉeṅka ḷīcaṉē. 5.74.2 743 maruntu vāṉavar tāṉavark
+   kiṉcuvai
+   purinta puṉcaṭaip puṇṇiyaṉ kaṇṇutal
+   poruntu pūṇmulai maṅkainal lāḷoṭum
+   eṟumpi yūrmalai yāṉeṅka ḷīcaṉē. 5.74.3 744 niṟaṅkoḷ kaṇṭattu niṉmalaṉ
+   emmiṟai
+   maṟaṅkoḷ vēṟkaṇṇi vāṇutal pākamā
+   aṟampu rintaruḷ ceytavem aṅkaṇaṉ
+   eṟumpi yūrmalai yāṉeṅka ḷīcaṉē. 5.74.4 745 naṟumpoṉ nāṇmalark koṉṟaiyu
+   nākamun
+   tuṟumpu ceñcaṭait tūmati vaittuvāṉ
+   uṟumpoṉ mālvaraip pētaiyō ṭūrtoṟum
+   eṟumpi yūrmalai yāṉeṅka ḷīcaṉē. 5.74.5 746 kaṟumpi yūrvaṉa aintuḷa
+   kāyattil
+   tiṟampi yūrvaṉa maṟṟum palavuḷa
+   kuṟumpi yūrvatōr kūṭṭakat tiṭṭeṉai
+   eṟumpi yūraraṉ ceyta iyaṟkaiyē. 5.74.6 747 maṟantu maṟṟitu pēriṭar
+   nāṭoṟun
+   tiṟampi nīniṉai yēlmaṭa neñcamē
+   puṟañcey kōlak kurampaiyi liṭṭeṉai
+   eṟumpi yūraraṉ ceyta iyaṟkaiyē. 5.74.7 748 iṉpa mumpiṟap pummiṟap
+   piṉṉoṭu
+   tuṉpa mummuṭa ṉēvaitta cōtiyāṉ
+   aṉpa ṉēyara ṉēyeṉ ṟaraṟṟuvārk
+   kiṉpa ṉākum eṟumpiyū rīcaṉē. 5.74.8 749 kaṇṇi ṟainta kaṉapava ḷattiraḷ
+   viṇṇi ṟainta viricuṭarc cōtiyāṉ
+   uṇṇi ṟainturu vāyuyi rāyavaṉ
+   eṇṇi ṟainta eṟumpiyū rīcaṉē. 5.74.9 750 niṟaṅkoḷ mālvarai ūṉṟi
+   yeṭuttalum
+   naṟuṅku ḻalmaṭa vāḷnaṭuk keytiṭa
+   maṟaṅkoḷ vāḷarak kaṉvali vāṭṭiṉāṉ
+   eṟumpi yūrmalai emmiṟai kāṇmiṉē. 5.74.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - eṟumpīcuvarar,
+       tēviyār - naṟuṅkuḻalnāyakiyammai.
+       tirucciṟṟampalam
+       [77]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.75 tirukkurakkukkā - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   751 marakkok kāmeṉa vāyviṭ ṭalaṟinīr
+   carakkuk kāvit tirintaya rātukāl
+   parakkuṅ kāviri nīralaik kuṅkaraik
+   kurakkuk kāvaṭai yakkeṭuṅ kuṟṟamē. 5.75.1
+   752 kaṭṭā ṟēkaḻi kāviri pāyvayal
+   koṭṭā ṟēpuṉa lūṟu kurakkukkā
+   muṭṭā ṟāvaṭi yētta muyalpavark
+   kiṭṭā ṟāviṭa rōṭa eṭukkumē. 5.75.2 753 kaiya ṉaittuṅ kalanteḻu kāviri
+   ceyya ṉaittiluñ ceṉṟiṭuñ cempuṉal
+   koyya ṉaittuṅ koṇaruṅ kurakkukkā
+   aiya ṉaittoḻu vārkkalla lillaiyē. 5.75.3 754 mikka ṉaittut ticaiyum
+   aruvikaḷ
+   pukkuk kāviri pōnta puṉaṟkaraik
+   kokki ṉampayil cōlaik kurakkukkā
+   nakka ṉainavil vārviṉai nācamē. 5.75.4 755 viṭṭu veḷḷam virinteḻu
+   kāviri
+   iṭṭa nīrvaya leṅkum parantiṭak
+   koṭṭa māmuḻa vōṅku kurakkukkā
+   iṭṭa māyirup pārkkiṭa rillaiyē. 5.75.5 756 mēlai vāṉava rōṭu virikaṭal
+   mālum nāṉmuka ṉālumaḷap poṇāk
+   kōla māḷikaik kōyil kurakkukkāp
+   pāla rāyttiri vārkkillai pāvamē. 5.75.6 757 āla nīḻa lamarnta aḻakaṉār
+   kāla ṉaiyutai koṇṭa karuttaṉār
+   kōla maññaikaḷ ālum kurakkukkāp
+   pāla rukkaruḷ ceyvar parivoṭē. 5.75.7 758 cekka raṅkeḻu ceñcuṭarc
+   cōtiyār
+   akka raiyarem mātipu rāṇaṉār
+   kokki ṉamvayal cēruṅ kurakkukkā
+   nakka ṉaittoḻa namviṉai nācamē. 5.75.8 759 uruki ūṉkuḻain tētti
+   yeḻumiṉnīr
+   kariya kaṇṭaṉ kaḻalaṭi taṉṉaiyē
+   kurava ṉañceḻuṅ kōyil kurakkukkā
+   iravum elliyum ēttit toḻumiṉē. 5.75.9 760 irakka miṉṟi malaiyeṭut
+   tāṉmuṭi
+   urattai yolka aṭarttā ṉuṟaiviṭaṅ
+   kurakki ṉaṅkuti koḷḷuṅ kurakkukkā
+   varatta ṉaippeṟa vāṉula kāḷvarē. 5.75.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - kontaḷakkaruṇainātar, tēviyār - kontaḷanāyakiyammai.
+       tirucciṟṟampalam
+       [78]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.76 tirukkāṉūr - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   761 tiruviṉ nātaṉuñ cemmalar mēluṟai
+   uruva ṉāyula katti ṉuyirkkelāṅ
+   karuva ṉāki muḷaittavaṉ kāṉūriṟ
+   parama ṉāya parañcuṭar kāṇmiṉē. 5.76.1
+   762 peṇṭir makkaḷ peruntuṇai naṉṉiti
+   uṇṭiṉ ṟēyeṉ ṟukavaṉmiṉ ēḻaikāḷ
+   kaṇṭu koṇmiṉnīr kāṉūr muḷaiyiṉaip
+   puṇṭa rīkap potumpi lotuṅkiyē. 5.76.2 763 tāyat tārtamar naṉṉiti
+   yeṉṉumim
+   māyat tēkiṭan tiṭṭu mayaṅkiṭēl
+   kāyat tēyuḷaṉ kāṉūr muḷaiyiṉai
+   vāyat tālvaṇaṅ kīrviṉai māyavē. 5.76.3 764 kuṟiyil niṉṟuṇṭu kūṟaiyi
+   lāccamaṇ
+   neṟiyai viṭṭu niṟaikaḻal paṟṟiṉēṉ
+   aṟiya luṟṟirēl kāṉūr muḷaiyavaṉ
+   ceṟivu ceytiṭ ṭiruppateṉ cintaiyē. 5.76.4 765 pottal maṇcuvarp pollāk
+   kurampaiyai
+   meytta ṉeṉṟu viyantiṭēl ēḻaikāḷ
+   cittar pattarkaḷ cērtiruk kāṉūril
+   attaṉ pāta maṭaital karumamē. 5.76.5 766 kalvi ñāṉak kalaipporu ḷāyavaṉ
+   celva malku tirukkāṉū rīcaṉai
+   elli yumpaka lummicai vāṉavar
+   colli ṭīrnun tuyaraṅkaḷ tīravē. 5.76.6 767 nīrum pārum neruppum
+   arukkaṉuṅ
+   kāru mārutaṅ kāṉūr muḷaittavaṉ
+   cērvu moṉṟaṟi yātu ticaiticai
+   ōrvu moṉṟila rōṭit tirivarē. 5.76.7 768 ōmat tōṭayaṉ mālaṟi yāvaṇam
+   vīmap pēroḷi yāya viḻupporuḷ
+   kāmaṟ kāyntavaṉ kāṉūr muḷaittavaṉ
+   cēmat tālirup pāvateṉ cintaiyē. 5.76.8 ippatikattil 9-m ceyyuḷ citaintu
+   pōyiṟṟu. 5.76.9 769 vaṉṉi koṉṟai erukkaṇin tāṉmalai
+   uṉṉi yēceṉ ṟeṭuttavaṉ oṇṭiṟal
+   taṉṉai vīḻat taṉiviral vaittavaṉ
+   kaṉṉi māmatiṟ kāṉūrk karuttaṉē. 5.76.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - cemmēṉināyakar, tēviyār - civayōkanāyakiyammai.
+       tirucciṟṟampalam
+       [79]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.77 tiruccēṟai - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   770 pūri yāvarum puṇṇiyam poykeṭuṅ
+   kūri tāya aṟivukai kūṭiṭuñ
+   cīri yārpayil cēṟaiyuṭ cenneṟi
+   nāri pākaṉṟaṉ nāmam navilavē. 5.77.1
+   771 eṉṉa mātavañ ceytaṉai neñcamē
+   miṉṉu vārcaṭai vētavi ḻupporuḷ
+   cenne lārvayal cēṟaiyuṭ cenneṟi
+   maṉṉu cōtinam pālvantu vaikavē. 5.77.2 772 piṟappu mūppup perumpaci
+   vāṉpiṇi
+   iṟappu nīṅkiyiṅ kiṉpamvan teytiṭuñ
+   ciṟappar cēṟaiyuṭ cenneṟi yāṉkaḻal
+   maṟappa tiṉṟi maṉattiṉuḷ vaikkavē. 5.77.3 773 māṭu tēṭi mayakkiṉil
+   vīḻntunīr
+   ōṭi yeyttum payaṉilai ūmarkāḷ
+   cēṭar vāḻcēṟaic cenneṟi mēviya
+   āṭa lāṉṟaṉ aṭiyaṭain tuymmiṉē. 5.77.4 774 eṇṇi nāḷum eriyayiṟ kūṟṟuvaṉ
+   tuṇṇeṉ ṟōṉṟiṟ ṟurakkum vaḻikaṇṭēṉ
+   tiṇṇaṉ cēṟait tiruccen neṟiyuṟai
+   aṇṇa lāruḷar añcuva teṉṉukkē. 5.77.5 775 tappil vāṉan taraṇikam
+   pikkileṉ
+   oppil vēntar oruṅkuṭaṉ cīṟileṉ
+   ceppa māñcēṟaic cenneṟi mēviya
+   appa ṉāruḷar añcuva teṉṉukkē. 5.77.6 776 vaitta māṭum maṭantainal
+   lārkaḷum
+   ottov vātavuṟ ṟārkaḷu meṉceyvār
+   cittar cēṟait tiruccen neṟiyuṟai
+   attar tāmuḷar añcuva teṉṉukkē. 5.77.7 777 kulaṅka ḷeṉceyva kuṟṟaṅka
+   ḷeṉceyva
+   tulaṅki nīniṉṟu cōrntiṭal neñcamē
+   ilaṅku cēṟaiyiṟ cenneṟi mēviya
+   alaṅka ṉāruḷar añcuva teṉṉukkē. 5.77.8 778 paḻaki ṉālvarum paṇṭuḷa
+   cuṟṟamum
+   viḻavi ṭāviṭil vēṇṭiya eytoṇā
+   tikaḻkoḷ cēṟaiyiṟ cenneṟi mēviya
+   aḻaka ṉāruḷar añcuva teṉṉukkē. 5.77.9 779 poruntu nīṇmalai yaippiṭit
+   tēntiṉāṉ
+   varunta vūṉṟi malaraṭi vāṅkiṉāṉ
+   tiruntu cēṟaiyiṟ cenneṟi mēviyaṅ
+   kirunta cōtiyeṉ pārkkiṭa rillaiyē. 5.77.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - cenneṟiyappar, tēviyār - ñāṉavalliyammai.
+       tirucciṟṟampalam
+       [80]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.78 tirukkōṭikā - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   780 caṅku lāmuṉkait taiyalōr pākattaṉ
+   veṅku lāmata vēḻam vekuṇṭavaṉ
+   koṅku lāmpoḻiṟ kōṭikā vāveṉa
+   eṅki lātatōr iṉpamvan teytumē. 5.78.1
+   781 vāṭi vāḻvateṉ ṉāvatu mātarpāl
+   ōṭi vāḻviṉai uḷkinīr nāṭoṟuṅ
+   kōṭi kāvaṉaik kūṟīrēṟ kūṟiṉēṉ
+   pāṭi kāvaliṟ paṭṭuk kaḻitirē. 5.78.2 782 mullai naṉmuṟu vallumai
+   paṅkaṉār
+   tillai yampalat tilluṟai celvaṉār
+   kollai yēṟṟiṉar kōṭikā vāveṉṟaṅ
+   kollai yēttuvārk kūṉamoṉ ṟillaiyē. 5.78.3 783 nāva ḷampeṟu māṟuma
+   ṉaṉṉutal
+   āma ḷañcoli aṉpuce yiṉṉalāṟ
+   kōma ḷañcaṭaik kōṭikā vāveṉa
+   ēva ḷiṉṟeṉai ēcumav vēḻaiyē. 5.78.4 784 vīṟu tāṉpeṟu vārcila rākilum
+   nāṟu pūṅkoṉṟai tāṉmika nalkāṉēṟ
+   kūṟu vēṉkōṭi kāvuḷāy eṉṟumāl
+   ēṟu vēṉummāl ēcap paṭuvaṉō. 5.78.5 785 nāṭi nāraṇaṉ nāṉmukaṉ vāṉavar
+   tēṭi yēcaṟa vunteri yātatōr
+   kōṭi kāvaṉaik kūṟāta nāḷelām
+   pāṭi kāvaliṟ paṭṭuk kaḻiyumē. 5.78.6 ippatikattil 7,8,9-m ceyyuṭkaḷ
+   citaintu pōyiṉa. 5.78.7-9 - 786 varaṅka ḷālvarai yaiyeṭut tāṉṟaṉai
+   araṅka vūṉṟi yaruḷceyta appaṉūr
+   kuraṅku cērpoḻiṟ kōṭikā vāveṉa
+   iraṅku vēṉmaṉat tētaṅkaḷ tīravē. 5.78.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - kōṭīcuvarar, tēviyār - vaṭivāmpikaiyammai.
+       tirucciṟṟampalam
+       [81]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.79 tiruppuḷḷirukkuvēḷūr - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   787 veḷḷe rukkara vamvira vuñcaṭaip
+   puḷḷi rukkuvē ḷūraraṉ poṟkaḻal
+   uḷḷi rukku muṇarcciyil lātavar
+   naḷḷi ruppar narakak kuḻiyilē. 5.79.1
+   788 māṟṟa moṉṟaṟi yīrmaṉai vāḻkkaipōyk
+   kūṟṟam vantumaik koḷvataṉ muṉṉamē
+   pōṟṟa vallirēṟ puḷḷiruk kuvēḷūr
+   cīṟṟa māyiṉa tēyntaṟuṅ kāṇmiṉē. 5.79.2 789 aruma ṟaiyaṉai āṇoṭu
+   peṇṇaṉaik
+   karuvi ṭammika vuṇṭaveṅ kaṇṭaṉaip
+   puriveṇ ṇūlaṉaip puḷḷiruk kuvēḷūr
+   uruki naipavar uḷḷaṅ kuḷirumē. 5.79.3 790 taṉṉu ruvai yoruvark kaṟivoṇā
+   miṉṉu ruvaṉai mēṉiveṇ ṇīṟṟaṉaip
+   poṉṉu ruvaṉaip puḷḷiruk kuvēḷūr
+   eṉṉa vallavark killai yiṭarkaḷē. 5.79.4 791 ceṅkaṇ mālpira maṟku
+   maṟivoṇā
+   aṅki yiṉṉuru vāki aḻalvatōr
+   poṅka ravaṉaip puḷḷiruk kuvēḷūr
+   maṅkai pākaṉai vāḻtta varumiṉpē. 5.79.5 792 kuṟṟa milliyaik kōlac
+   cilaiyiṉāṟ
+   ceṟṟa varpurañ centaḻa lākkiyaip
+   puṟṟa ravaṉaip puḷḷiruk kuvēḷūr
+   paṟṟa vallavar pāvam paṟaiyumē. 5.79.6 793 kaiyi ṉōṭukāl kaṭṭi
+   yumarelām
+   aiyaṉ vīṭiṉaṉ eṉpataṉ muṉṉamnīr
+   poyyi lāvaraṉ puḷḷiruk kuvēḷūr
+   maiyu lāviya kaṇṭaṉai vāḻttumē. 5.79.7 794 uḷḷam uḷki ukantu civaṉeṉṟu
+   meḷḷa vuḷka viṉaikeṭum meymmaiyē
+   puḷḷi ṉārpaṇi puḷḷiruk kuvēḷūr
+   vaḷḷal pātam vaṇaṅkit toḻumiṉē. 5.79.8 ippatikattil 9-m ceyyuḷ citaintu
+   pōyiṟṟu. 5.79.9 795 arakka ṉārtalai pattum aḻitara
+   nerukki māmalarp pātam niṟuviya
+   poruppa ṉāruṟai puḷḷiruk kuvēḷūr
+   viruppi ṉāṟṟoḻu vārviṉai vīṭumē. 5.79.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - vaittiyanātar, tēviyār - taiyalnāyakiyammai.
+       tirucciṟṟampalam
+       [82]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.80 tiruaṉpilālantuṟai - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   796 vāṉañ cērmati cūṭiya maintaṉai
+   nīneñ cēkeṭu vāyniṉai kiṟkilai
+   āṉañ cāṭiyai aṉpilā lantuṟaik
+   kōṉeñ celvaṉaik kūṟiṭak kiṟṟiyē. 5.80.1
+   797 kāra ṇattar karuttar kapāliyār
+   vāra ṇatturi pōrtta maṇāḷaṉār
+   āra ṇapporuḷ aṉpilā lantuṟai
+   nāra ṇaṟkari yāṉoru nampiyē. 5.80.2 798 aṉpiṉā ṉañca maintuṭa ṉāṭiya
+   eṉpiṉ āṉai yurittuk kaḷaintavaṉ
+   aṉpi lāṉaiyam māṉaiyaḷ ḷūṟiya
+   aṉpi ṉālniṉain tāraṟin tārkaḷē. 5.80.3 799 caṅkai yuḷḷatuñ cāvatu
+   meyyumai
+   paṅka ṉāraṭi pāviyē ṉāṉuya
+   aṅka ṇaṉentai aṉpilā lantuṟaic
+   ceṅka ṇāraṭic cēravum vallaṉē. 5.80.4 800 kokki ṟakar kuḷirmatic
+   ceṉṉiyar
+   mikka rakkar purameri ceytavar
+   akka raiyiṉar aṉpilā lantuṟai
+   nakku ruvarum nammai yaṟivarē. 5.80.5 801 veḷḷa muḷḷa viricaṭai
+   nantiyaik
+   kaḷḷa muḷḷa maṉattavar kāṇkilār
+   aḷḷa lārvayal aṉpilā lantuṟai
+   uḷḷa vāṟaṟi yārcilar ūmarē. 5.80.6 802 piṟavi māyap piṇakkil aḻuntiṉum
+   uṟave lāñcintit tuṉṉi ukavātē
+   aṟavaṉ empirāṉ aṉpilā lantuṟai
+   maṟavā tētoḻu tētti vaṇaṅkumē. 5.80.7 803 nuṇaṅku nūlayaṉ mālum
+   iruvarum
+   piṇaṅki yeṅkun tirinteyttuṅ kāṇkilā
+   aṇaṅkaṉ empirāṉ aṉpilā lantuṟai
+   vaṇaṅkum numviṉai māyntaṟum vaṇṇamē. 5.80.8 804 poyye lāmuraik kuñcamaṇ
+   cākkiyak
+   kaiyaṉ mārurai kēḷā teḻumiṉō
+   aiyaṉ empirāṉ aṉpilā lantuṟai
+   meyyaṉ cēvaṭi yēttuvār meyyarē. 5.80.9 805 ilaṅkai vēntaṉ irupatu
+   tōḷiṟṟu
+   malaṅka māmalai mēlviral vaittavaṉ
+   alaṅkal empirāṉ aṉpilā lantuṟai
+   valaṅkoḷ vāraivā ṉōrvalaṅ koḷvarē. 5.80.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - cattivākīcar, tēviyār - cavuntaranāyakiyammai.
+       tirucciṟṟampalam
+       [83]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.81 tiruppāṇṭikkoṭumuṭi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   806 ciṭṭa ṉaicciva ṉaicceḻuñ cōtiyai
+   aṭṭa mūrttiyai āla niḻalamar
+   paṭṭa ṉaittirup pāṇṭik koṭumuṭi
+   naṭṭa ṉaittoḻa namviṉai nācamē. 5.81.1
+   807 piramaṉ mālaṟi yāta perumaiyaṉ
+   taruma mākiya tattuvaṉ empirāṉ
+   parama ṉāruṟai pāṇṭik koṭumuṭi
+   karuma mākat toḻumaṭa neñcamē. 5.81.2 808 ūca lāḷallaḷ oṇkaḻa lāḷallaḷ
+   tēca māntirup pāṇṭik koṭumuṭi
+   īca ṉēyeṉum ittaṉai yallatu
+   pēcu māṟaṟi yāḷoru pētaiyē. 5.81.3 809 tūṇṭi yacuṭar pōlokkuñ cōtiyāṉ
+   kāṇṭa lumeḷi yaṉṉaṭi yārkaṭkup
+   pāṇṭik koṭumuṭi mēya paramaṉaik
+   kāṇṭu meṉpavark kētuṅ karuttoṇāṉ. 5.81.4 810 nerukki yammuṭi niṉṟicai
+   vāṉavar
+   irukko ṭumpaṇin tētta iruntavaṉ
+   tirukko ṭumuṭi yeṉṟalun tīviṉaik
+   karukke ṭumitu kaikaṇṭa yōkamē. 5.81.5 ippatikattil 6,7,8,9,10-m
+   ceyyuṭkaḷ citaintu pōyiṉa. 5.81.6-10
+       ittalam koṅkunāṭṭiluḷḷatu.
+       cuvāmipeyar - koṭumuṭinātēcuvarar, tēviyār - paṇmoḻināyakiyammai.
+       tirucciṟṟampalam
+       [84]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.82 tiruvāṉmiyūr - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   811 viṇṭa māmalar koṇṭu viraintunīr
+   aṇṭa nāyakaṉ ṟaṉṉaṭi cūḻmiṉkaḷ
+   paṇṭu nīrceyta pāvam paṟaintiṭum
+   vaṇṭu cērpoḻil vāṉmiyū rīcaṉē. 5.82.1
+   812 poruḷuñ cuṟṟamum poymmaiyum viṭṭunīr
+   maruḷum māntarai māṟṟi mayakkaṟut
+   taruḷu māvalla ātiyā yeṉṟalum
+   maruḷa ṟuttiṭum vāṉmiyū rīcaṉē. 5.82.2 813 manta mākiya cintai
+   mayakkaṟut
+   tanta milkuṇat tāṉai yaṭaintuniṉ
+   ṟentai yīcaṉeṉ ṟēttiṭa vallirēl
+   vantu niṉṟiṭum vāṉmiyū rīcaṉē. 5.82.3 814 uḷḷa muḷkalan tēttaval
+   lārkkalāṟ
+   kaḷḷa muḷḷa vaḻikkaci vāṉalaṉ
+   veḷḷa mumara vumvira vuñcaṭai
+   vaḷḷa lākiya vāṉmiyū rīcaṉē. 5.82.4 815 paṭaṅkoḷ pāmparaip pāṉmati
+   cūṭiyai
+   vaṭaṅkoḷ meṉmulai mātoru kūṟaṉait
+   toṭarntu niṉṟu toḻuteḻu vārviṉai
+   maṭaṅka niṉṟiṭum vāṉmiyū rīcaṉē. 5.82.5 816 neñci laivar niṉaikka
+   niṉaikkuṟār
+   pañciṉ mellaṭi yāḷumai paṅkaveṉ
+   ṟañci nāṇmalar tūvi yaḻutirēl
+   vañcan tīrttiṭum vāṉmiyū rīcaṉē. 5.82.6 817 nuṇaṅku nūlayaṉ mālu
+   maṟikilāk
+   kuṇaṅkaḷ tāmpara vikkuṟain tukkavar
+   cuṇaṅku pūṇmulait tūmoḻi yāravar
+   vaṇaṅka niṉṟiṭum vāṉmiyū rīcaṉē. 5.82.7 818 āti yummara ṉāyayaṉ
+   mālumāyp
+   pāti peṇṇuru vāya paramaṉeṉ
+   ṟōti yuḷkuḻain tēttaval lāravar
+   vātai tīrttiṭum vāṉmiyū rīcaṉē. 5.82.8 819 ōṭṭai māṭatti loṉpatu
+   vācaluṅ
+   kāṭṭil vēvataṉ muṉṉaṅ kaḻalaṭi
+   nāṭṭi nāṇmalar tūvi valañceyil
+   vāṭṭan tīrttiṭum vāṉmiyū rīcaṉē. 5.82.9 820 pāra māka malaiyeṭut
+   tāṉṟaṉaic
+   cīra mākat tiruvira lūṉṟiṉāṉ
+   ārva māka aḻaittava ṉēttalum
+   vāra māyiṉaṉ vāṉmiyū rīcaṉē. 5.82.10
+       ittalam toṇṭaināṭṭiluḷḷatu.
+       cuvāmipeyar - maruntīcuvarar, tēviyār - cokkanāyakiyammai.
+       tirucciṟṟampalam
+       [85]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.83 tirunākaikkārōṇam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   821 pāṇat tāṉmatil mūṉṟu merittavaṉ
+   pūṇat tāṉara vāmai poṟuttavaṉ
+   kāṇat tāṉiṉi yāṉkaṭal nākaikkā
+   rōṇat tāṉeṉa namviṉai ōyumē. 5.83.1
+   822 vaṇṭa lampiya vārcaṭai īcaṉai
+   viṇṭa lampaṇin tēttum vikirtaṉaik
+   kaṇṭa laṅkamaḻ nākaikkā rōṇaṉaik
+   kaṇṭa lumviṉai yāṉa kaḻalumē. 5.83.2 823 puṉaiyu māmalar koṇṭu
+   puricaṭai
+   naṉaiyu māmalar cūṭiya nampaṉaik
+   kaṉaiyum vārkaṭal nākaikkā rōṇaṉai
+   niṉaiya vēviṉai yāyiṉa nīṅkumē. 5.83.3 824 kollai mālviṭai yēṟiya
+   kōviṉai
+   elli mānaṭa māṭum iṟaivaṉaik
+   kalli ṉārmatil nākaikkā rōṇaṉaic
+   colla vēviṉai yāṉavai cōrumē. 5.83.4 825 meyya ṉaiviṭai yūrtiyai
+   veṇmaḻuk
+   kaiya ṉaikkaṭal nākaikkā rōṇaṉai
+   maiya ṉukkiya kaṇṭaṉai vāṉavar
+   aiya ṉaittoḻu vārkkalla lillaiyē. 5.83.5 826 alaṅkal cērcaṭai āti
+   purāṇaṉai
+   vilaṅkal melliyal pākam viruppaṉaik
+   kalaṅkaḷ cērkaṭal nākaikkā rōṇaṉai
+   valaṅkoḷ vārviṉai yāyiṉa māyumē. 5.83.6 827 ciṉaṅkoḷ mālkari cīṟiya
+   ēṟiṉai
+   iṉaṅkoḷ vāṉava rēttiya īcaṉaik
+   kaṉaṅkoḷ māmatil nākaikkā rōṇaṉai
+   maṉaṅkoḷ vārviṉai yāyiṉa māyumē. 5.83.7 828 anta milpukaḻ āyiḻai
+   yārpaṇin
+   tentai yīcaṉeṉ ṟēttum iṟaivaṉaik
+   kanta vārpoḻil nākaikkā rōṇaṉaic
+   cintai ceyyak keṭuntuyar tiṇṇamē. 5.83.8 829 karuva ṉaikkaṭal nākaikkā
+   rōṇaṉai
+   iruva rukkaṟi voṇṇā iṟaivaṉai
+   oruva ṉaiyuṇa rārpura mūṉṟeyta
+   ceruva ṉaittoḻat tīviṉai tīrumē. 5.83.9 830 kaṭalka ḻitaḻi nākaikkā
+   rōṇaṉṟaṉ
+   vaṭava raiyeṭut tārtta arakkaṉai
+   aṭara vūṉṟiya pātam aṇaitarat
+   toṭara añcun tuyakkaṟuṅ kālaṉē. 5.83.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - kāyārōkaṇēcuvarar, tēviyār - nīlayatāṭciyammai.
+       tirucciṟṟampalam
+       [86]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.84 tirukkāṭṭuppaḷḷi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   831 māṭṭup paḷḷi makiḻntuṟai vīrkkelāṅ
+   kēṭṭup paḷḷikaṇ ṭīrkeṭu vīritu
+   ōṭṭup paḷḷiviṭ ṭō ṭa luṟāmuṉaṅ
+   kāṭṭup paḷḷiyu ḷāṉkaḻal cērmiṉē. 5.84.1
+   832 māṭṭait tēṭi makiḻntunīr nummuḷē
+   nāṭṭup poyyelām pēciṭu nāṇilīr
+   kūṭṭai viṭṭuyir pōvataṉ muṉṉamē
+   kāṭṭup paḷḷiyu ḷāṉkaḻal cērmiṉē. 5.84.2 833 tēṉai veṉṟacol lāḷoṭu
+   celvamum
+   ūṉai viṭṭuyir pōvataṉ muṉṉamē
+   kāṉa vēṭar karutuṅkāṭ ṭuppaḷḷi
+   ñāṉa nāyaka ṉaicceṉṟu naṇṇumē. 5.84.3 834 arutta mumaṉai yāḷoṭu
+   makkaḷum
+   porutta millai pollātatu pōkkiṭuṅ
+   karuttaṉ kaṇṇutal aṇṇalkāṭ ṭuppaḷḷit
+   tiruttaṉ cēvaṭi yaicceṉṟu cērmiṉē. 5.84.4 835 cuṟṟa muntuṇai yummaṉai
+   vāḻkkaiyum
+   aṟṟa pōtaṇai yārava reṉṟeṉṟē
+   kaṟṟa varkaḷ karutuṅkāṭ ṭuppaḷḷip
+   peṟṟa mēṟum pirāṉaṭi cērmiṉē. 5.84.5 836 aṭumpuṅ koṉṟaiyum vaṉṉiyum
+   mattamun
+   tuṭumpal ceycaṭait tūmaṇic cōtiyāṉ
+   kaṭampaṉ tātai karutuṅkāṭ ṭuppaḷḷi
+   uṭampi ṉārkkōr uṟutuṇai yākumē. 5.84.6 837 meyyiṉ mācuṭai yāruṭal
+   mūṭuvār
+   poyyai meyyeṉṟu pukkuṭaṉ vīḻaṉmiṉ
+   kaiyiṉ māṉuṭai yāṉkāṭṭup paḷḷiyem
+   aiyaṉ ṟaṉṉaṭi yēyaṭain tuymiṉē. 5.84.7 838 vēlai veṉṟakaṇ ṇārai
+   virumpinīr
+   cīlaṅ keṭṭut tikaiyaṉmiṉ pētaikāḷ
+   kālai yētoḻuṅ kāṭṭuppaḷ ḷiyuṟai
+   nīla kaṇṭaṉai nittal niṉaimiṉē. 5.84.8 839 iṉṟu ḷārnāḷai illai
+   yeṉumporuḷ
+   oṉṟu mōrā tuḻitarum ūmarkāḷ
+   aṉṟu vāṉavark kāka viṭamuṇṭa
+   kaṇṭa ṉārkāṭṭup paḷḷikaṇ ṭuymmiṉē. 5.84.9 840 eṇṇi lāvarak kaṉmalai
+   yēntiṭa
+   eṇṇi nīṇmuṭi pattu miṟuttavaṉ
+   kaṇṇu ḷārkaru tuṅkāṭṭup paḷḷiyai
+   naṇṇu vāravar tamviṉai nācamē. 5.84.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - āraṇiyacuntarar, tēviyār - akilāṇṭanāyakiyammai.
+       tirucciṟṟampalam
+       [87]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.85 tiruccirāppaḷḷi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   841 maṭṭu vārkuḻa lāḷoṭu mālviṭai
+   iṭṭa māvukan tēṟum iṟaivaṉār
+   kaṭṭu nīttavark kiṉṉaru ḷēceyuñ
+   ciṭṭar pōluñ cirāppaḷḷic celvarē. 5.85.1
+   842 ariya yaṉṟalai veṭṭivaṭ ṭāṭiṉār
+   ariya yaṉṟoḻu tēttum arumporuḷ
+   periya vaṉcirāp paḷḷiyaip pēṇuvār
+   ariya yaṉṟoḻa aṅkirup pārkaḷē. 5.85.2 843 aricci rāppakal aivarā
+   lāṭṭuṇṭu
+   curicci rātuneñ cēyoṉṟu collakkēḷ
+   tiricci rāppaḷḷi yeṉṟalun tīviṉai
+   naricci rātu naṭakkum naṭakkumē. 5.85.3 844 tāyu māyeṉak kētalai
+   kaṇṇumāyp
+   pēya ṉēṉaiyum āṇṭa peruntakai
+   tēya nātaṉ cirāppaḷḷi mēviya
+   nāya ṉāreṉa namviṉai nācamē. 5.85.4 ippatikattil 5,6,7,8,9,10-m
+   ceyyuṭkaḷ citaintu pōyiṉa. 5.85.5-10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - tāyumāṉēcuvarar, tēviyār - maṭṭuvārkuḻalammai.
+       tirucciṟṟampalam
+       [88]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.86 tiruvāṭpōkki - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   845 kāla pācam piṭitteḻu tūtuvar
+   pāla karvirut tarpaḻai yāreṉār
+   āla nīḻa lamarntavāṭ pōkkiyār
+   cīla mārntavar cemmaiyuḷ niṟparē. 5.86.1
+   846 viṭutta tūtuvar vantu viṉaikkuḻip
+   paṭutta pōtu payaṉilai pāvikāḷ
+   aṭutta kiṉṉaraṅ kēṭkumvāṭ pōkkiyai
+   eṭuttu mēttiyum iṉpuṟu miṉkaḷē. 5.86.2 847 vantiv vāṟu vaḷaitteḻu
+   tūtuvar
+   unti yōṭi narakat tiṭāmuṉam
+   anti yiṉṉoḷi tāṅkumvāṭ pōkkiyār
+   cinti yāveḻu vārviṉai tīrpparē. 5.86.3 848 kūṟṟam vantu kumaittiṭum
+   pōtiṉāṟ
+   tēṟṟam vantu teḷivuṟa lākumē
+   āṟṟa vumaruḷ ceyyumvāṭ pōkkipāl
+   ēṟṟu miṉviḷak kaiyiruḷ nīṅkavē. 5.86.4 849 māṟu koṇṭu vaḷaitteḻu
+   tūtuvar
+   vēṟu vēṟu paṭuppataṉ muṉṉamē
+   āṟu ceñcaṭai vaittavāṭ pōkkiyārk
+   kūṟi yūṟi urukumeṉ ṉuḷḷamē. 5.86.5 850 kāṉa mōṭik kaṭiteḻu tūtuvar
+   tāṉa mōṭu talaipiṭi yāmuṉam
+   āṉañ cāṭi yukantavāṭ pōkkiyār
+   ūṉa millavark kuṇmaiyil niṟparē. 5.86.6 851 pārttup pācam piṭitteḻu
+   tūtuvar
+   kūrtta vēlāṟ kumaippataṉ muṉṉamē
+   ārtta kaṅkai yaṭakkumvāṭ pōkkiyār
+   kīrtti maikaḷ kiḷarnturai miṉkaḷē. 5.86.7 852 nāṭi vantu namaṉtamar
+   nalliruḷ
+   kūṭi vantu kumaippataṉ muṉṉamē
+   āṭal pāṭal ukantavāṭ pōkkiyai
+   vāṭi yēttanam vāṭṭan tavirumē. 5.86.8 853 kaṭṭa ṟuttuk kaṭiteḻu tūtuvar
+   poṭṭa nūkkip puṟappaṭā muṉṉamē
+   aṭṭa māmalar cūṭumvāṭ pōkkiyārk
+   kiṭṭa māki yiṇaiyaṭi yēttumē. 5.86.9 854 irakka muṉṉaṟi yāteḻu tūtuvar
+   parakka ḻittavar paṟṟutaṉ muṉṉamē
+   arakka ṉukkaruḷ ceytavāṭ pōkkiyār
+   karappa tuṅkarap pāravar taṅkaṭkē. 5.86.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - irattiṉakirīcuvarar, tēviyār - curumpārkuḻalammai.
+       tirucciṟṟampalam
+       [89]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.87 tirumaṇañcēri - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   855 paṭṭa neṟṟiyar pāypulit tōliṉar
+   naṭṭa niṉṟu navilpavar nāṭoṟuñ
+   ciṭṭar vāḻtiru vārmaṇañ cēriyem
+   vaṭṭa vārcaṭai yārvaṇṇam vāḻttumē. 5.87.1
+   856 tuṉṉu vārkuḻa lāḷumai yāḷoṭum
+   piṉṉu vārcaṭai mēṟpiṟai vaittavar
+   maṉṉu vārmaṇañ cēri maruntiṉai
+   uṉṉu vārviṉai yāyiṉa ōyumē. 5.87.2 857 puṟṟi lāṭara vāṭṭum puṉitaṉār
+   teṟṟi ṉārpuran tīyeḻac ceṟṟavar
+   cuṟṟi ṉārmatil cūḻmaṇañ cēriyār
+   paṟṟi ṉāravar paṟṟavar kāṇmiṉē. 5.87.3 858 matta mummati yumvaḷar
+   ceñcaṭai
+   muttar mukkuṇar mūcara vammaṇi
+   cittar tīvaṇar cīrmaṇañ cēriyem
+   vittar tāmvirup pārai virupparē. 5.87.4 859 tuḷḷu māṉmaṟi tūmaḻu
+   vāḷiṉar
+   veḷḷa nīrkaran tārcaṭai mēlavar
+   aḷḷa lārvayal cūḻmaṇañ cēriyem
+   vaḷḷa lārkaḻal vāḻttavāḻ vāvatē. 5.87.5 860 nīrpa ranta nimirpuṉ
+   caṭaiyiṉmēl
+   ūrpa ranta urakam aṇipavar
+   cīrpa ranta tirumaṇañ cēriyār
+   ērpa rantaṅ kilaṅkucū lattarē. 5.87.6 861 cuṇṇat tarcuṭu nīṟukan
+   tāṭalār
+   viṇṇat tammati cūṭiya vētiyar
+   maṇṇat tammuḻa vārmaṇañ cēriyār
+   vaṇṇat tammulai yāḷumai vaṇṇarē. 5.87.7
+   862 tuṉṉa vāṭaiyar tūmaḻu vāḷiṉar
+   piṉṉu ceñcaṭai mēṟpiṟai vaittavar
+   maṉṉu vārpoḻil cūḻmaṇañ cēriyem
+   maṉṉa ṉārkaḻa lētoḻa vāykkumē. 5.87.8 863 cittar tēvarkaḷ māloṭu
+   nāṉmukaṉ
+   puttar tēramaṇ kaiyar pukaḻavē
+   mattar tāmaṟi yārmaṇañ cēriyem
+   atta ṉāraṭi yārkkalla lillaiyē. 5.87.9 864 kaṭutta mēṉi arakkaṉ
+   kayilaiyai
+   eṭutta vaṉeṭu nīṇmuṭi pattiṟap
+   paṭutta lumaṇañ cēri yaruḷeṉak
+   koṭutta ṉaṉkoṟṟa vāḷoṭu nāmamē. 5.87.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - aruḷvaḷḷalnāyakar, tēviyār - yāḻiṉmoḻiyammai.
+       tirucciṟṟampalam
+       [90]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.88 tirumarukal - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   865 peruka lāntavam pētaimai tīralān
+   tiruka lākiya cintai tiruttalām
+   paruka lāmpara māyatō rāṉantam
+   maruka lāṉaṭi vāḻtti vaṇaṅkavē. 5.88.1
+   866 pāṭaṅ koḷpaṉu vaṟṟiṟaṅ kaṟṟuppōy
+   nāṭaṅ kuḷḷaṉa taṭṭiya nāṇilīr
+   māṭañ cūḻmaru kaṟperu māṉṟiru
+   vēṭaṅ kaitoḻa vīṭeḷi tākumē. 5.88.2 867 ciṉatti ṉālvaruñ ceytoḻi
+   lāmavai
+   aṉaittum nīṅkiniṉ ṟātara vāymika
+   maṉatti ṉālmaru kaṟperu māṉṟiṟam
+   niṉaippi ṉārkkillai nīṇila vāḻkkaiyē. 5.88.3 868 ōtu paiṅkiḷik koṇpāl
+   amutūṭṭip
+   pātu kāttup palapala kaṟpittu
+   mātu tāṉmaru kaṟperu māṉukkut
+   tūtu colla viṭattāṉ toṭaṅkumē. 5.88.4 869 iṉṉa vāṟeṉpa tuṇṭaṟi yēṉiṉṟu
+   tuṉṉu kaivaḷai cōrakkaṇ nīrmalkum
+   maṉṉu teṉmaru kaṟperu māṉṟiṟam
+   uṉṉi yoṇkoṭi uḷḷa murukumē. 5.88.5 870 caṅku cōrak kalaiyuñ cariyavē
+   maṅkai tāṉmaru kaṟperu māṉvarum
+   aṅka vīti arukaṇai yāniṟkum
+   naṅkai mīritaṟ keṉceykēṉ nāḷumē. 5.88.6 871 kāṭci peṟṟila ḷākiluṅ
+   kātalē
+   mīṭci yoṉṟaṟi yātu mikuvatē
+   māṭci yārmaru kaṟperu māṉukkut
+   tāḻcci cālavuṇ ṭākumeṉ taiyalē. 5.88.7 872 nīṭu neñcuḷ niṉaintukaṇ
+   ṇīrmalkum
+   ōṭu māliṉō ṭoṇkoṭi mātarāḷ
+   māṭa nīṇmaru kaṟperu māṉvariṟ
+   kūṭu nīyeṉṟu kūṭa liḻaikkumē. 5.88.8 873 kanta vārkuḻal kaṭṭilaḷ
+   kārikai
+   anti mālviṭai yōṭumaṉ pāymika
+   vanti ṭāymaru kaṟperu māṉeṉṟu
+   cintai ceytu tikaittiṭuṅ kāṇmiṉē. 5.88.9 874 āti māmalai aṉṟeṭut
+   tāṉiṟṟuc
+   cōti yeṉṟalun tollaruḷ ceytiṭum
+   āti yāṉmaru kaṟperu māṉṟiṟam
+   ōti vāḻpavar umparkkum umparē. 5.88.10
+       ittalam cōḻanāṭṭiluḷḷatu.
+       cuvāmipeyar - māṇikkavaṇṇavīcuvarar, tēviyār - vaṇṭuvārkuḻalammai.
+       tirucciṟṟampalam
+       [91]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.89 taṉi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   875 oṉṟu veṇpiṟaik kaṇṇiyōr kōvaṇam
+   oṉṟu kīḷumai yōṭu muṭuttatu
+   oṉṟu veṇṭalai yēntiyem muḷḷattē
+   oṉṟi niṉṟaṅ kuṟaiyum oruvaṉē. 5.89.1
+   876 iraṇṭu māmavark kuḷḷaṉa ceytoḻil
+   iraṇṭu māmavark kuḷḷaṉa kōlaṅkaḷ
+   iraṇṭu milliḷa māṉemai yāḷukan
+   tiraṇṭu pōtumeṉ cintaiyuḷ vaikumē. 5.89.2 877 mūṉṟu mūrttiyuḷ niṉṟiya
+   luntoḻil
+   mūṉṟu māyiṉa mūvilaic cūlattaṉ
+   mūṉṟu kaṇṇiṉaṉ tīttoḻil mūṉṟiṉaṉ
+   mūṉṟu pōtumeṉ cintaiyuḷ mūḻkumē. 5.89.3 878 nāliṉ mēṉmukañ ceṟṟatu
+   maṉṉiḻal
+   nālu naṉkuṇarn tiṭṭatu miṉpamām
+   nālu vētañ carittatu naṉṉeṟi
+   nālu pōlem akattuṟai nātaṉē. 5.89.4 879 añcu mañcumō rāṭi yaraimicai
+   añcu pōlarai yārttatiṉ ṟattuvam
+   añcu mañcumō rōraiñcu māyavaṉ
+   añcu māmem akattuṟai ātiyē. 5.89.5 880 āṟu kālvaṇṭu mūciya koṉṟaiyaṉ
+   āṟu cūṭiya aṇṭa mutalvaṉār
+   āṟu kūrmaiyark kaccama yapporuḷ
+   āṟu pōlem akattuṟai ātiyē. 5.89.6 881 ēḻu māmalai ēḻpoḻil cūḻkaṭal
+   ēḻu pōṟṟumi rāvaṇaṉ kainnaram
+   pēḻu kēṭṭaruḷ ceytavaṉ poṟkaḻal
+   ēḻuñ cūḻaṭi yēṉmaṉat tuḷḷavē. 5.89.7 882 eṭṭu mūrttiyāy niṉṟiya
+   luntoḻil
+   eṭṭu vāṉkuṇat tīcaṉem māṉṟaṉai
+   eṭṭu mūrttiyu memmiṟai yemmuḷē
+   eṭṭu mūrttiyu memmu ḷoṭuṅkumē. 5.89.8 883 oṉpa toṉpati yāṉai yoḷikaḷi
+   ṟoṉpa toṉpatu palkaṇañ cūḻavē
+   oṉpa tāmavai tīttoḻi liṉṉurai
+   oṉpa tottuniṉ ṟeṉṉu ḷoṭuṅkumē. 5.89.9 884 pattu nūṟavaṉ veṅkaṇveḷ
+   ḷēṟṟaṇṇal
+   pattu nūṟavaṉ palcaṭai tōṇmicai
+   patti yāmila mātaliṉ ñāṉattāṟ
+   patti yāṉiṭaṅ koṇṭatu paḷḷiyē. 5.89.10
+       tirucciṟṟampalam
+       [92]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.90 taṉi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   885 mācil vīṇaiyum mālai matiyamum
+   vīcu teṉṟalum vīṅkiḷa vēṉilum
+   mūcu vaṇṭaṟai poykaiyum pōṉṟatē
+   īcaṉ entai iṇaiyaṭi nīḻalē. 5.90.1
+   886 namacci vāyavē ñāṉamuṅ kalviyum
+   namacci vāyavē nāṉaṟi viccaiyum
+   namacci vāyavē nānaviṉ ṟēttumē
+   namacci vāyavē naṉṉeṟi kāṭṭumē. 5.90.2 887 āḷā kārāḷā ṉārai aṭaintuyyār
+   mīḷā vāṭceytu meymmaiyuḷ niṟkilār
+   *tōḷā tacurai yōtoḻum parcevi
+   vāḷā māyntumaṇ ṇākik kaḻivarē.
+   * tōḷāta curaiyeṉpatu tuvāramiṭāta curaikkāy 5.90.3 888 naṭalai
+   vāḻvukoṇ ṭeṉceytir nāṇilīr
+   cuṭalai cērvatu coṟpira māṇamē
+   kaṭaliṉ nañcamu tuṇṭavar kaiviṭṭāl
+   uṭali ṉārkiṭan tūrmuṉi paṇṭamē. 5.90.4 889 pūkkaik koṇṭaraṉ poṉṉaṭi
+   pōṟṟilār
+   nākkaik koṇṭaraṉ nāmam navilkilār
+   ākkaik kēyirai tēṭi alamantu
+   kākkaik kēyirai yākik kaḻivarē. 5.90.5 890 kuṟika ḷumaṭai yāḷamuṅ
+   kōyilum
+   neṟika ḷumavar niṉṟatōr nērmaiyum
+   aṟiya āyiram āraṇam ōtilum
+   poṟiyi līrmaṉa meṉkol pukātatē. 5.90.6 891 vāḻtta vāyum niṉaikka
+   maṭaneñcum
+   tāḻttac ceṉṉiyun tanta talaivaṉaic
+   cūḻtta māmalar tūvit tutiyātē
+   vīḻtta vāviṉai yēṉneṭuṅ kālamē. 5.90.7 892 eḻutu pāvainal lārtiṟam
+   viṭṭunāṉ
+   toḻutu pōṟṟiniṉ ṟēṉaiyuñ cūḻntukoṇ
+   ṭuḻuta cālvaḻi yēyuḻu vāṉporuṭ
+   ṭiḻutai neñcami teṉpaṭu kiṉṟatē. 5.90.8 893 nekku nekku niṉaipavar
+   neñcuḷē
+   pukku niṟkumpoṉ ṉārcaṭaip puṇṇiyaṉ
+   pokka mikkavar pūvunī ruṅkaṇṭu
+   nakku niṟpa ravartamai nāṇiyē. 5.90.9 894 viṟakiṟ ṟīyiṉaṉ pāliṟ
+   paṭuneypōl
+   maṟaiya niṉṟuḷaṉ māmaṇic cōtiyāṉ
+   uṟavu kōlnaṭ ṭuṇarvu kayiṟṟiṉāṉ
+   muṟuka vāṅkik kaṭaiyamuṉ ṉiṟkumē. 5.90.10
+       tirucciṟṟampalam
+       [93]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.91 taṉi - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   895 ēyi lāṉaiye ṉiccai yakampaṭik
+   kōyi lāṉaik kuṇapperuṅ kuṉṟiṉai
+   vāyi lāṉai maṉōṉmaṉi yaippeṟṟa
+   tāyi lāṉait taḻuvumeṉ āviyē. 5.91.1
+   896 muṉṉai ñāṉa mutaṟṟaṉi vittiṉaip
+   piṉṉai ñāṉap piṟaṅku caṭaiyaṉai
+   eṉṉai ñāṉat tiruḷaṟut tāṇṭavaṉ
+   taṉṉai ñāṉat taḷaiyiṭṭu vaippaṉē. 5.91.2 897 ñāṉat tāṟṟoḻu vārcila
+   ñāṉikaḷ
+   ñāṉat tāṟṟoḻu vēṉuṉai nāṉalēṉ
+   ñāṉat tāṟṟoḻu vārkaḷ toḻakkaṇṭu
+   ñāṉat tāyuṉai nāṉun toḻuvaṉē. 5.91.3 898 puḻuvuk kuṅkuṇam nāṉkeṉak
+   kummatē
+   puḻuvuk kiṅkeṉak kuḷḷapol lāṅkillai
+   puḻuvi ṉuṅkaṭaiyēṉpuṉi taṉṟamar
+   kuḻuvuk kevviṭat tēṉceṉṟu kūṭavē. 5.91.4 899 malaiyē vantu viḻiṉum
+   maṉitarkāḷ
+   nilaiyi ṉiṉṟu kalaṅkap peṟutirēl
+   talaiva ṉākiya īcaṉ ṟamarkaḷaik
+   kolaikai yāṉaitāṉ koṉṟiṭu kiṟkumē. 5.91.5 900 kaṟṟuk koḷvaṉa vāyuḷa
+   nāvuḷa
+   iṭṭuk koḷvaṉa pūvuḷa nīruḷa
+   kaṟṟaic ceñcaṭai yāṉuḷaṉ nāmuḷōm
+   eṟṟuk kōnama ṉālmuṉi vuṇpatē. 5.91.6 901 maṉitar kāḷiṅkē vammoṉṟu
+   collukēṉ
+   kaṉitan tāṟkaṉi yuṇṇavum vallirē
+   puṉitaṉ poṟkaḻal īcaṉe ṉuṅkaṉi
+   iṉitu cālavum ēcaṟ ṟavarkaṭkē. 5.91.7 902 eṉṉai yētum aṟintilaṉ empirāṉ
+   taṉṉai nāṉumu ṉētu maṟintilēṉ
+   eṉṉait taṉṉaṭi yāṉeṉ ṟaṟitalun
+   taṉṉai nāṉum pirāṉeṉ ṟaṟinteṉē. 5.91.8 903 teḷḷat tēṟit teḷintutit
+   tippatōr
+   uḷḷat tēṟal amuta oḷiveḷi
+   kaḷḷat tēṉkaṭi yēṉkava laikkaṭal
+   veḷḷat tēṉukkev vāṟu viḷaintatē. 5.91.9 ippatikattil 10-m ceyyuḷ
+   citaintu pōyiṟṟu. 5.91.10
+       tirucciṟṟampalam
+       [94]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.92 kālapārāyaṇam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   904 kaṇṭu koḷḷari yāṉaik kaṉivittup
+   paṇṭu nāṉceyta pāḻimai kēṭṭirēl
+   koṇṭa pāṇi koṭukoṭṭi tāḷaṅkaik
+   koṇṭa toṇṭarait tuṉṉiluñ cūḻalē. 5.92.1
+   905 naṭukkat tuḷḷum nakaiyuḷum nampaṟkuk
+   kaṭukkak kalla vaṭamiṭu vārkaṭkuk
+   koṭukkak koḷka veṉavuraip pārkaḷai
+   iṭukkaṇ ceyyap peṟīriṅku nīṅkumē. 5.92.2 906 kārkoḷ koṉṟaik kaṭimalark
+   kaṇṇiyāṉ
+   cīrkoḷ nāmañ civaṉeṉ ṟaraṟṟuvār
+   ārka ḷākilu māka avarkaḷai
+   nīrkaḷ cārap peṟīriṅku nīṅkumē. 5.92.3 907 cāṟṟi ṉēṉcaṭai nīṇmuṭic
+   caṅkaraṉ
+   cīṟṟaṅ kāmaṉkaṇ vaittavaṉ cēvaṭi
+   āṟṟa vuṅkaḷi paṭṭa maṉattarāyp
+   pōṟṟi yeṉṟuraip pārpuṭai pōkalē. 5.92.4 908 iṟaiyeṉ coṉmaṟa vēlnamaṉ
+   ṟūtuvīr
+   piṟaiyum pāmpu muṭaipperu māṉṟamar
+   naṟavam nāṟiya naṉṉaṟuñ cāntilum
+   niṟaiya nīṟaṇi vāretir cellalē. 5.92.5 909 vāma tēvaṉ vaḷanakar
+   vaikaluṅ
+   kāma moṉṟila rāykkai viḷakkoṭu
+   tāman tūpamun taṇṇaṟuñ cāntamum
+   ēma mumpuṉai vāretir cellalē. 5.92.6 910 paṭaiyum pācamum paṟṟiya
+   kaiyiṉīr
+   aṭaiyaṉ miṉṉama tīcaṉ aṭiyarai
+   viṭaiko ḷūrtiyi ṉāṉaṭi yārkuḻām
+   puṭaipu kātunīr pōṟṟiyē pōmiṉē. 5.92.7 911 viccai yāvatum vēṭkaimai
+   yāvatum
+   niccal nīṟaṇi vārai niṉaippatē
+   acca meyti arukaṇai yātunīr
+   piccai pukkavaṉ aṉparaip pēṇumē. 5.92.8 912 iṉṉaṅ kēṇmiṉ iḷampiṟai
+   cūṭiya
+   maṉṉaṉ pātam maṉattuṭa ṉēttuvār
+   maṉṉum añceḻut tākiya mantiran
+   taṉṉi loṉṟuval lāraiyuñ cāralē. 5.92.9 913 maṟṟuṅ kēṇmiṉ maṉapparip
+   poṉṟiṉṟic
+   cuṟṟum pūciya nīṟṟoṭu kōvaṇam
+   oṟṟai yēṟuṭai yāṉaṭiyē yallāṟ
+   paṟṟoṉ ṟillikaḷ mēṟpaṭai pōkalē. 5.92.10
+   914 arakkaṉ īrain talaiyumōr tāḷiṉāl
+   nerukki yūṉṟiyiṭ ṭāṉtamar niṟkiluñ
+   curukke ṉātaṅkup pērmiṉkaṇ maṟṟunīr
+   curukke ṉiṟcuṭa rāṉkaḻal cūṭumē. 5.92.11
+       tirucciṟṟampalam
+       [95]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.93 maṟakkiṟpaṉē eṉṉum - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   915 kāca ṉaikkaṉa laikkatir māmaṇit
+   tēca ṉaippuka ḻārcilar teṇṇarkaḷ
+   māci ṉaikkaḻit tāṭkoḷa vallavem
+   īca ṉaiyiṉi nāṉmaṟak kiṟpaṉē. 5.93.1
+   916 puntik kuviḷak kāya purāṇaṉaic
+   cantik kaṇṇaṭa māṭuñ caturaṉai
+   anti vaṇṇaṉai āraḻal mūrttiyai
+   vante ṉuḷḷaṅkoṇ ṭāṉai maṟappaṉē. 5.93.2 917 īcaṉ īcaṉeṉ ṟeṉṟum
+   araṟṟuvaṉ
+   īcaṉ ṟāṉeṉ maṉattiṟ pirivilaṉ
+   īcaṉ ṟaṉṉaiyu meṉmaṉat tukkoṇṭu
+   īcaṉ ṟaṉṉaiyum yāṉmaṟak kiṟpaṉē. 5.93.3 918 īcaṉ eṉṉai yaṟinta
+   taṟintaṉaṉ
+   īcaṉ cēvaṭi yēṟṟap peṟutalāl
+   īcaṉ cēvaṭi yēttap peṟṟēṉiṉi
+   īcaṉ ṟaṉṉaiyum yāṉmaṟak kiṟpaṉē. 5.93.4 919 tēṉaip pāliṉait tiṅkaḷai
+   ñāyiṟṟai
+   vāṉa veṇmati cūṭiya maintaṉai
+   vēṉi lāṉai melivucey tīyaḻal
+   ñāṉa mūrttiyai nāṉmaṟak kiṟpaṉē. 5.93.5 920 kaṉṉa laikkarum pūṟiya
+   tēṟalai
+   miṉṉa ṉaimiṉ ṉaṉaiya vuruvaṉaip
+   poṉṉa ṉaimaṇik kuṉṟu piṟaṅkiya
+   eṉṉa ṉaiyiṉi yāṉmaṟak kiṟpaṉē. 5.93.6 921 karumpi ṉaikkaṭṭi yaikkanta
+   māmalarc
+   curumpi ṉaiccuṭarc cōtiyuṭ cōtiyai
+   arumpi ṉiṟperum pōtukoṇ ṭāymalar
+   virumpum īcaṉai nāṉmaṟak kiṟpaṉē. 5.93.7 922 tuñcum pōtuñ cuṭarviṭu
+   cōtiyai
+   neñcuḷ niṉṟu niṉaippikku nītiyai
+   nañcu kaṇṭat taṭakkiya nampaṉai
+   vañca ṉēṉiṉi yāṉmaṟak kiṟpaṉē. 5.93.8 923 putiya pūviṉaip puṇṇiya
+   nātaṉai
+   nitiyai nītiyai nittilak kuṉṟiṉaik
+   katiyaik kaṇṭaṅ kaṟutta kaṭavuḷai
+   matiyai maintaṉai nāṉmaṟak kiṟpaṉē. 5.93.9 924 karuku kārmukil pōlvatōr
+   kaṇṭaṉai
+   uruva nōkkiyai ūḻi mutalvaṉaip
+   paruku pālaṉaip pāṉmati cūṭiyai
+   maruvu maintaṉai nāṉmaṟak kiṟpaṉē. 5.93.10
+       tirucciṟṟampalam
+       [96]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.94 toḻaṟpālaṉam eṉṉum - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   925 aṇṭat tāṉai amarar toḻappaṭum
+   paṇṭat tāṉaip pavittira māntiru
+   muṇṭat tāṉaimuṟ ṟāta iḷampiṟait
+   tuṇṭat tāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.1
+   926 muttop pāṉai muḷaitteḻu kaṟpaka
+   vittop pāṉai viḷakkiṭai nēroḷi
+   ottop pāṉai oḷipava ḷattiraḷ
+   tottop pāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.2 927 paṇṇot tāṉaip pavaḷan
+   tiraṇṭatōr
+   vaṇṇat tāṉai vakaiyuṇar vāṉṟaṉai
+   eṇṇat tāṉai iḷampiṟai pōlveḷḷaic
+   cuṇṇat tāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.3 928 viṭalai yāṉai viraikamaḻ
+   tēṉkoṉṟaip
+   paṭalai yāṉaip palitiri vāṉcelum
+   naṭalai yāṉai naripiri yātatōr
+   cuṭalai yāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.4 929 pariti yāṉaippal vēṟu
+   camayaṅkaḷ
+   karuti yāṉaikkaṇ ṭārmaṉam mēviya
+   piriti yāṉaip piṟaraṟi yātatōr
+   curuti yāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.5 930 āti yāṉai amarar
+   toḻappaṭum
+   nīti yāṉai niyama neṟikaḷai
+   ōti yāṉai uṇartaṟ kariyatōr
+   cōti yāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.6 931 ñālat tāṉainal lāṉaival
+   lārtoḻuṅ
+   kōlat tāṉaik kuṇapperuṅ kuṉṟiṉai
+   mūlat tāṉai mutalvaṉai mūvilaic
+   cūlat tāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.7 932 ātip pālaṭṭa mūrttiyai
+   āṉañcum
+   vētip pāṉainam mēlviṉai ventaṟac
+   cātip pāṉait tavattiṭai māṟṟaṅkaḷ
+   cōtip pāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.8 933 nīṟṟi ṉāṉai nikarilveṇ
+   kōvaṇak
+   kīṟṟi ṉāṉaik kiḷaroḷic ceñcaṭai
+   āṟṟi ṉāṉai amarartam āruyir
+   tōṟṟi ṉāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.9 934 viṭṭiṭ ṭāṉaimeyñ ñāṉattu
+   meypporuḷ
+   kaṭṭiṭ ṭāṉaik kaṉaṅkuḻai pālaṉpu
+   paṭṭiṭ ṭāṉaip pakaittavar muppurañ
+   cuṭṭiṭ ṭāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.10 935 muṟṟi ṉāṉai irāvaṇaṉ
+   nīṇmuṭi
+   oṟṟi ṉāṉai oruvira lāluṟap
+   paṟṟi ṉāṉaiyōr veṇṭalaip pāmparaic
+   cuṟṟi ṉāṉaikkaṇ ṭīrtoḻaṟ pālatē. 5.94.11
+       tirucciṟṟampalam
+       [97]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.95 iliṅkapurāṇam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   936 pukka ṇaintu purintala riṭṭilar
+   nakka ṇaintu naṟumalar koytilar
+   cokka ṇainta cuṭaroḷi vaṇṇaṉai
+   mikkuk kāṇaluṟ ṟāraṅ kiruvarē. 5.95.1
+   937 alaru nīruṅkoṇ ṭāṭṭit teḷintilar
+   tilaka maṇṭalan tīṭṭit tirintilar
+   ulaka mūrtti yoḷiniṟa vaṇṇaṉaic
+   celavu kāṇaluṟ ṟāraṅ kiruvarē. 5.95.2 938 āppi nīrō ṭalakukaik koṇṭilar
+   pūppey kūṭai puṉaintu cumantilar
+   kāppuk koḷḷi kapālitaṉ vēṭattai
+   ōppik kāṇaluṟ ṟāraṅ kiruvarē. 5.95.3 939 neyyum pāluṅkoṇ ṭāṭṭi
+   niṉaintilar
+   poyyum pokkamum pōkkip pukaḻntilar
+   aiyaṉ veyya aḻalniṟa vaṇṇaṉai
+   meyyaik kāṇaluṟ ṟāraṅ kiruvarē. 5.95.4 940 erukkaṅ kaṇṇikoṇ ṭiṇṭai
+   puṉaintilar
+   perukkak kōvaṇam pīṟi yuṭuttilar
+   tarukki ṉāṟceṉṟu tāḻcaṭai yaṇṇalai
+   nerukkik kāṇaluṟ ṟāraṅ kiruvarē. 5.95.5 941 maraṅka ḷēṟi malarpaṟit
+   tiṭṭilar
+   nirampa nīrcuman tāṭṭi niṉaintilar
+   urampo runti yoḷiniṟa vaṇṇaṉai
+   nirampak kāṇaluṟ ṟāraṅ kiruvarē. 5.95.6 942 kaṭṭu vāṅkaṅ kapālaṅkaik
+   koṇṭilar
+   aṭṭa māṅkaṅ kiṭantaṭi vīḻntilar
+   ciṭṭaṉ cēvaṭi ceṉṟeytik kāṇiya
+   paṭṭa kaṭṭamuṟ ṟāraṅ kiruvarē. 5.95.7 943 venta nīṟu viḷaṅka aṇintilar
+   kanta māmalar iṇṭai puṉaintilar
+   entai ēṟukan tēṟeri vaṇṇaṉai
+   antaṅ kāṇaluṟ ṟāraṅ kiruvarē. 5.95.8 944 iḷave ḻunta iruṅkuva ḷaimmalar
+   piḷavu ceytu piṇaittaṭi yiṭṭilar
+   kaḷavu ceytoḻiṟ kāmaṉaik kāyntavaṉ
+   aḷavu kāṇaluṟ ṟāraṅ kiruvarē. 5.95.9 945 kaṇṭi pūṇṭu kapālaṅkaik
+   koṇṭilar
+   viṇṭa vāṉcaṅkam vimmavāy vaittilar
+   aṇṭa mūrtti aḻalniṟa vaṇṇaṉaik
+   keṇṭik kāṇaluṟ ṟāraṅ kiruvarē. 5.95.10 946 ceṅka ṇāṉum piramaṉun
+   tammuḷē
+   eṅkun tēṭit tirintavar kāṇkilār
+   iṅkuṟ ṟēṉeṉṟi liṅkattē tōṉṟiṉāṉ
+   poṅku ceñcaṭaip puṇṇiya mūrttiyē. 11 5.95.11
+       tirucciṟṟampalam
+       [98]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.96 maṉattokai - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   947 poṉṉuḷ ḷattiraḷ puṉcaṭai yiṉpuṟam
+   miṉṉuḷ ḷattiraḷ veṇpiṟai yāyiṟai
+   niṉṉuḷ ḷattaruḷ koṇṭiruḷ nīṅkutal
+   eṉṉuḷ ḷattuḷa tentai pirāṉirē. 5.96.1
+   948 mukka ṇummuṭai yāymuṉi kaḷpalar
+   tokke ṇuṅkaḻa lāyoru tōliṉō
+   ṭakka ṇummarai yāyaru ḷeytalā
+   tekka ṇummilaṉ entai pirāṉirē. 5.96.2 949 paṉiyāy veṅkatir pāypaṭar
+   puṉcaṭai
+   muṉiyāy nīyula kammuḻu tāḷiṉun
+   taṉiyāy nīcaraṇ nīcala mēperi
+   tiṉiyāy nīyeṉak kentai pirāṉirē. 5.96.3 950 maṟaiyum pāṭutir mātavar
+   māliṉuk
+   kuṟaiyu māyiṉai kōḷara vōṭoru
+   piṟaiyuñ cūṭiṉai yeṉpata lāṟpiṟi
+   tiṟaiyuñ collilai entai pirāṉirē. 5.96.4 951 pūttār koṉṟaiyi ṉāypuli
+   yiṉṉataḷ
+   ārttā yāṭara vōṭaṉa lāṭiya
+   kūttā niṉkurai yārkaḻa lēyala
+   tēttā nāveṉak kentai pirāṉirē. 5.96.5 952 paimmā lummara vāpara māpacu
+   maimmāl kaṇṇiyō ṭēṟumain tāveṉum
+   ammā lallatu maṟṟaṭi nāyiṉēṟ
+   kemmā lummilaṉ entai pirāṉirē. 5.96.6 953 veppat tiṉmaṉa mācu viḷakkiya
+   ceppat tāṟciva ṉeṉpavar tīviṉai
+   oppat tīrttiṭum oṇkaḻa lāṟkalla
+   teppaṟ ṟummilaṉ entai pirāṉirē. 5.96.7 954 tikaḻuñ cūḻcuṭar vāṉoṭu
+   vaikalum
+   nikaḻu moṇporu ḷāyiṉa nītiyeṉ
+   pukaḻu māṟu malāṉuṉa poṉṉaṭi
+   ikaḻu māṟilaṉ entai pirāṉirē. 5.96.8 955 kaippaṟ ṟittiru mālpira
+   maṉṉuṉai
+   eppaṟ ṟiyaṟi taṟkari yāyaruḷ
+   appaṟ ṟallatu maṟṟaṭi nāyiṉēṉ
+   eppaṟ ṟummilaṉ entai pirāṉirē. 5.96.9 956 entai yempirāṉ eṉṟavar
+   mēlmaṉam
+   entai yempirāṉ eṉṟiṟaiñ cittoḻu
+   tentai yempirāṉ eṉṟaṭi yēttuvār
+   entai yempirāṉ eṉṟaṭi cērvarē. 5.96.10
+       tirucciṟṟampalam
+       [99]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.97 cittattokai - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   957 cintip pārmaṉat tāṉcivaṉ ceñcuṭar
+   anti vāṉiṟat tāṉaṇi yārmati
+   muntic cūṭiya mukkaṇṇi ṉāṉaṭi
+   vantip pāravar vāṉula kāḷvarē. 5.97.1
+   958 aṇṭa māriru ḷūṭu kaṭantumpar
+   uṇṭu pōlumō roṇcuṭa raccuṭar
+   kaṇṭiṅ kāraṟi vāraṟi vārelām
+   veṇṭiṅ kaṭkaṇṇi vētiyaṉ eṉparē. 5.97.2 959 āti yāyava ṉāru milātavaṉ
+   pōtu cērpuṉai nīṇmuṭip puṇṇiyaṉ
+   pāti peṇṇuru vākip parañcuṭarc
+   cōti yuṭcōti yāyniṉṟa cōtiyē. 5.97.3 960 iṭṭa tiṭṭatō rēṟukan tēṟiyūr
+   paṭṭi tuṭṭaṅka ṉāyppali tērvatōr
+   kaṭṭa vāḻkkaiya ṉākilum vāṉavar
+   aṭṭa mūrtti yaruḷeṉ ṟaṭaivarē. 5.97.4 961 īṟil kūṟaiya ṉāki erintaveṇ
+   ṇīṟu pūci nilāmati cūṭilum
+   vīṟi lātaṉa ceyyiṉum viṇṇavar
+   ūṟa lāyaru ḷāyeṉ ṟuraipparē. 5.97.5 962 ucci veṇmati cūṭilum ūṉaṟāp
+   paccai veṇṭalai yēntip palailam
+   piccai yēpuku mākilum vāṉavar
+   accan tīrttaru ḷāyeṉ ṟaṭaivarē. 5.97.6 963 ūri lāyeṉṟoṉ ṟāka
+   vuraippatōr
+   pēri lāypiṟai cūṭiya piññakā
+   kāru lāṅkaṇṭa ṉēyuṉ kaḻalaṭi
+   cērvi lārkaṭkut tīyavai tīyavē. 5.97.7 964 entai yēyem pirāṉē
+   yeṉavuḷkic
+   cintip pāravar tīviṉai tīrumāl
+   venta nīṟumey pūciya vētiyaṉ
+   anta māvaḷap pāraṭain tārkaḷē. 5.97.8 965 ēṉa veṇmarup pōṭeṉpu pūṇṭeḻil
+   āṉai yīruri pōrttaṉa lāṭilun
+   tāṉa vaṇṇatta ṉākilun taṉṉaiyē
+   vāṉa nāṭar vaṇaṅkuvar vaikalē. 5.97.9 966 aiyaṉ antaṇaṉ āṇoṭu peṇṇumām
+   meyyaṉ mētaku veṇpoṭip pūciya
+   maikoḷ kaṇṭattaṉ māṉmaṟik kaiyiṉāṉ
+   paikoḷ pāmparai yārtta paramaṉē. 5.97.10 967 oruva ṉākiniṉ ṟāṉiv
+   vulakelām
+   iruva rākiniṉ ṟārkaṭ kaṟikilāṉ
+   aruva rāvarai ārttava ṉārkaḻal
+   paravu vāravar pāvam paṟaiyumē. 5.97.11 968 ōta vaṇṇaṉum oṇmalarc
+   celvaṉum
+   nāta ṉēyaru ḷāyeṉṟu nāṭoṟuṅ
+   kātal ceytu karutap paṭumavar
+   pāta mēttap paṟaiyunam pāvamē. 5.97.12 969 va taṉmai yavarava rākkaiyāṉ
+   vevva taṉmaiya ṉeṉpa toḻimiṉō
+   mauval nīṇmalar mēluṟai vāṉoṭu
+   pauva vaṇṇaṉu māyppaṇi vārkaḷē. 5.97.13 970 akkum āmaiyum pūṇṭaṉa
+   lēntiil
+   pukkup palpali tērum purāṇaṉai
+   nakku nīrkaḷ narakam pukēṉmiṉō
+   tokka vāṉava rāṟṟoḻu vāṉaiyē. 5.97.14 971 kaṅkai taṅkiya ceñcaṭai
+   mēliḷan
+   tiṅkaḷ cūṭiya tīniṟa vaṇṇaṉār
+   iṅka ṇāreḻil vāṉam vaṇaṅkavē
+   aṅka ṇāṟkatu vālavaṉ taṉmaiyē. 5.97.15 972 nakara velkoṭi yāṉoṭu
+   naṉṉeñcē
+   nukara nīyuṉaik koṇṭuyap pōkkuṟil
+   makara velkoṭi maintaṉaik kāyntavaṉ
+   pukaril cēvaṭi yēpuka lākumē. 5.97.16 973 caraṇa māmpaṭi yārpiṟa
+   riyāvarō
+   karaṇan tīrttuyir kaiyi likaḻntapiṉ
+   maraṇa meytiya piṉṉavai nīkkuvāṉ
+   araṇa mūveyi leytava ṉallaṉē. 5.97.17 974 ñamaṉeṉ pāṉnara karkku
+   namakkelāñ
+   civaṉeṉ pāṉceḻu māṉmaṟik kaiyiṉāṉ
+   kavaṉañ ceyyuṅ kaṉaviṭai yūrtiyāṉ
+   tamareṉ ṟāluṅ keṭuntaṭu māṟṟamē. 5.97.18 975 iṭapa mēṟiyum ilpali
+   yēṟpavar
+   aṭavi kātalit tāṭuvar aintalaip
+   paṭavam pāmparai yārtta paramaṉaik
+   kaṭavi rāycceṉṟu kaitoḻu tuymmiṉē. 5.97.19 976 iṇarntu koṉṟaipoṟ ṟātu
+   corintiṭum
+   puṇarnta vāḷara vammati yōṭuṭaṉ
+   aṇainta añcaṭai yāṉavaṉ pātamē
+   uṇarnta uḷḷat tavaruṇar vārkaḷē. 5.97.20 977 taruman tāṉṟavan tāṉṟavat
+   tālvaruṅ
+   karuman tāṉkaru māṉmaṟik kaiyiṉāṉ
+   aruman taṉṉa atirkaḻal cērmiṉō
+   ciramañ cēraḻal tīviṉai yāḷarē. 5.97.21 978 namacci vāyaveṉ pāruḷa
+   rēlavar
+   tamacca nīṅkat tavaneṟi cārtalāl
+   amaittuk koṇṭatōr vāḻkkaiya ṉākilum
+   imaittu niṟpatu cāla ariyatē. 5.97.22 979 paṟpal kālam payiṟṟip
+   paramaṉaic
+   coṟpal kālamniṉ ṟēttumiṉ tolviṉai
+   veṟpil tōṉṟiya veṅkatir kaṇṭavap
+   puṟpa ṉikkeṭu māṟatu pōlumē. 5.97.23 980 maṇicey kaṇṭattu māṉmaṟik
+   kaiyiṉāṉ
+   kaṇicey vēṭattar āyavar kāppiṉāṟ
+   paṇikaḷ tāñceya vallavar yāvartam
+   piṇicey yākkaiyai nīkkuvar pēyarē. 5.97.24 981 iyakkar kiṉṉarar intiraṉ
+   tāṉavar
+   nayakka niṉṟavaṉ nāṉmukaṉ āḻiyāṉ
+   mayakka meytavaṉ māleri yāyiṉāṉ
+   viyakkun taṉmaiyi ṉāṉem vikirtaṉē. 5.97.25 982 arava mārttaṉa lāṭiya
+   aṇṇalaip
+   paravu vāravar pāvam paṟaitaṟkuk
+   kuravai kōttava ṉuṅkuḷir pōtiṉmēl
+   karavil nāṉmuka ṉuṅkari yallarē. 5.97.26 983 aḻalaṅ kaiyiṉaṉ antarat
+   tōṅkiniṉ
+   ṟuḻalum mūveyil oḷḷaḻa lūṭṭiṉāṉ
+   taḻalun tāmarai yāṉoṭu tāviṉāṉ
+   kaḻaluñ ceṉṉiyuṅ kāṇṭaṟ kariyaṉē. 5.97.27 984 iḷamai kaiviṭ ṭakaṟalum
+   mūppiṉār
+   vaḷamai pōyppiṇi yōṭu varutalāl
+   uḷame lāmoḷi yāymati āyiṉāṉ
+   kiḷamai yēkiḷai yāka niṉaippaṉē. 5.97.28 985 taṉṉiṟ ṟaṉṉai aṟiyun
+   talaimakaṉ
+   taṉṉiṟ ṟaṉṉai aṟiyiṟ ṟalaippaṭun
+   taṉṉiṟ ṟaṉṉai aṟivila ṉāyiṭiṟ
+   taṉṉiṟ ṟaṉṉaiyuñ cārtaṟ kariyaṉē. 5.97.29 986 ilaṅkai maṉṉaṉai īraintu
+   pattumaṉ
+   ṟalaṅka lōṭuṭa ṉēcela vūṉṟiya
+   nalaṅkoḷ cēvaṭi nāṭoṟum nāṭoṟum
+   valamkoṇ ṭēttuvār vāṉula kāḷvarē. 5.97.30
+       tirucciṟṟampalam
+       [100]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.98 uḷḷam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   987 nīṟa laittatōr mēṉi nimircaṭai
+   āṟa laikkaniṉ ṟāṭum amutiṉait
+   tēṟa laitteḷi yaitteḷi vāyttatōr
+   ūṟa laikkaṇṭu koṇṭate ṉuḷḷamē. 5.98.1
+   988 pontai yaippukku nīkkap pukuntiṭun
+   tantai yaittaḻal pōlvatōr mēṉiyaic
+   cintai yaitteḷi vaitteḷi vāyttatōr
+   entai yaikkaṇṭu koṇṭate ṉuḷḷamē. 5.98.2 989 veḷḷat tārviñcai yārkaḷ
+   virumpavē
+   veḷḷat taiccaṭai vaitta vikirtaṉār
+   kaḷḷat taikkaḻi yammaṉa moṉṟiniṉ
+   ṟuḷḷat tilloḷi yaikkaṇṭa tuḷḷamē. 5.98.3 990 ammā ṉaiyamu tiṉṉamu
+   tēyeṉṟu
+   tammā ṉaittattu vattaṭi yārtoḻuñ
+   cemmā ṉaniṟam pōlvatōr cintaiyuḷ
+   emmā ṉaikkaṇṭu koṇṭate ṉuḷḷamē. 5.98.4 991 kūṟē ṟummumai pākamōr
+   pālarāy
+   āṟē ṟuñcaṭai mēṟpiṟai cūṭuvar
+   pāṟē ṟuntalai yēntip palailam
+   ēṟēṟu mentaiyaik kaṇṭate ṉuḷḷamē. 5.98.5 992 muṉṉeñ cammiṉṟi mūrkkarāyc
+   cākiṉṟār
+   taṉṉeñ cantamak kuttām ilātavar
+   vaṉṉeñ cammatu nīṅkutal vallirē
+   eṉṉeñci līcaṉaik kaṇṭate ṉuḷḷamē. 5.98.6 993 veṉṟā ṉaippula ṉaintumeṉ
+   tīviṉai
+   koṉṟā ṉaikkuṇat tālē vaṇaṅkiṭa
+   naṉṟā naṉmaṉam vaittiṭu ñāṉamām
+   oṉṟā ṉaikkaṇṭu koṇṭate ṉuḷḷamē. 5.98.7 994 maruvi ṉaimaṭa neñcam
+   maṉampukuṅ
+   kuruvi ṉaikkuṇat tālē vaṇaṅkiṭun
+   tiruvi ṉaiccintai yuṭciva ṉāyniṉṟa
+   uruvi ṉaikkaṇṭu koṇṭate ṉuḷḷamē. 5.98.8 995 tēca ṉaittiru mālpira
+   maṉceyum
+   pūca ṉaippuṇa riṟpuṇar vāyatōr
+   nēca ṉaineñci ṉuḷniṟai vāyniṉṟa
+   īca ṉaikkaṇṭu koṇṭate ṉuḷḷamē. 5.98.9 996 veṟuttā ṉaimpula ṉumpira
+   maṉṟalai
+   aṟuttā ṉaiyarak kaṉkayi lāyattaik
+   kaṟuttā ṉaikkā lilvira loṉṟiṉāl
+   oṟuttā ṉaikkaṇṭu koṇṭate ṉuḷḷamē. 5.98.10
+       tirucciṟṟampalam
+       [101]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.99 pāvanācam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   997 pāva mumpaḻi paṟṟaṟa vēṇṭuvīr
+   āvil añcukan tāṭu mavaṉkaḻal
+   mēva rāymika vummakiḻn tuḷkumiṉ
+   kāva lāḷaṉ kalantaruḷ ceyyumē. 5.99.1
+   998 kaṅkai yāṭileṉ kāviri yāṭileṉ
+   koṅku taṇkuma rittuṟai yāṭileṉ
+   oṅku mākaṭa lōtanī rāṭileṉ
+   eṅku mīcaṉe ṉātavark killaiyē. 5.99.2 999 paṭṭa rākileṉ cāttiraṅ
+   kēṭkileṉ
+   iṭṭu maṭṭiyu mītoḻil pūṇileṉ
+   eṭṭu moṉṟum iraṇṭu maṟiyileṉ
+   iṭṭa mīcaṉe ṉātavark killaiyē. 5.99.3 1000 vēta mōtileṉ vēḷvikaḷ
+   ceykileṉ
+   nīti nūlpala nittal payiṟṟileṉ
+   ōti yaṅkamō rāṟum uṇarileṉ
+   īca ṉaiyuḷku vārkkaṉṟi illaiyē. 5.99.4 1001 kālai ceṉṟu kalantunīr
+   mūḻkileṉ
+   vēlai tōṟum vitivaḻi niṟkileṉ
+   ālai vēḷvi yaṭaintatu vēṭkileṉ
+   ēla īcaṉeṉ pārkkaṉṟi illaiyē. 5.99.5 1002 kāṉa nāṭu kalantu tiriyileṉ
+   īṉa miṉṟi iruntavañ ceyyileṉ
+   ūṉai yuṇṭal oḻintuvā ṉōkkileṉ
+   ñāṉa ṉeṉpavark kaṉṟinaṉ killaiyē. 5.99.6 1003 kūṭa vēṭatta rākik
+   kuḻuvileṉ
+   vāṭi yūṉai varuttit tiriyileṉ
+   āṭal vēṭattaṉ ampalak kūttaṉaip
+   pāṭa lāḷarkkal lāṟpayaṉ illaiyē. 5.99.7 1004 naṉṟu nōṟkileṉ paṭṭiṉi
+   yākileṉ
+   kuṉṟa mēṟi yiruntavañ ceyyileṉ
+   ceṉṟu nīriṟ kuḷittut tiriyileṉ
+   eṉṟu mīcaṉeṉ pārkkaṉṟi illaiyē. 5.99.8
+   1005 kōṭit tīrttaṅ kalantu kuḷittavai
+   āṭi ṉālum araṉukkaṉ pillaiyēl
+   ōṭum nīriṉai ōṭṭaik kuṭattaṭṭi
+   mūṭi vaittiṭṭa mūrkkaṉō ṭokkumē. 5.99.9 1006 maṟṟu naṟṟavañ ceytu
+   varuntileṉ
+   poṟṟai yuṟṟeṭut tāṉuṭal pukkiṟak
+   kuṟṟa naṟkurai yārkaḻaṟ cēvaṭi
+   paṟṟi lātavark kuppayaṉ illaiyē. 5.99.10
+       tirucciṟṟampalam
+       [102]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+              _____________________________________________________
+
+  5.100 ātipurāṇam - tirukkuṟuntokai
+       tirucciṟṟampalam
+
+   1007 vēta nāyakaṉ vētiyar nāyakaṉ
+   mātiṉ nāyakaṉ mātavar nāyakaṉ
+   āti nāyakaṉ ātirai nāyakaṉ
+   pūta nāyakaṉ puṇṇiya mūrttiyē. 5.100.1
+   1008 cettuc cettup piṟappatē tēveṉṟu
+   patti ceymaṉap pāṟaikaṭ kēṟumō
+   atta ṉeṉṟari yōṭu piramaṉun
+   tutti yañceya niṉṟanaṟ cōtiyē. 5.100.2 1009 nūṟu kōṭi piramarkaḷ
+   nontiṉār
+   āṟu kōṭi nārāyaṇa raṅṅaṉē
+   ēṟu kaṅkai maṇaleṇṇil intirar
+   īṟi lātavaṉ īcaṉ oruvaṉē. 5.100.3 1010 vātu ceytu mayaṅku maṉattarāy
+   ētu colluvī rākilum ēḻaikāḷ
+   yātōr tēva reṉappaṭu vārk kellām
+   mātē vaṉalāṟ ṟēvarmaṟ ṟillaiyē. 5.100.4 1011 kūva lāmai kuraikaṭa
+   lāmaiyaik
+   kūva lōṭokku mōkaṭa leṉṟalpōṟ
+   pāva kārikaḷ pārppari teṉparāṟ
+   tēva tēvaṉ civaṉperun taṉmaiyē. 5.100.5 1012 pēyva ṉattamar vāṉaippi
+   rārttittārk
+   kīva ṉaiyimai yōrmuṭi taṉṉaṭic
+   cāyva ṉaiccala vārkaḷ tamakkuṭaṟ
+   cīva ṉaicciva ṉaiccinti yārkaḷē. 5.100.6 1013 eripe rukkuvar avveri
+   īcaṉa
+   turuva rukkama tāva tuṇarkilār
+   ariya yaṟkari yāṉai ayarttuppōy
+   narivi ruttama tākuvar nāṭarē. 5.100.7 1014 arukkaṉ pātam vaṇaṅkuvar
+   antiyil
+   arukka ṉāvāṉ araṉuru vallaṉō
+   irukku nāṉmaṟai īcaṉai yētoḻuṅ
+   karutti ṉainiṉai yārkaṉ maṉavarē. 5.100.8 1015 tāyi ṉumnalla caṅkara
+   ṉukkaṉpar
+   āya vuḷḷat tamutarun tappeṟār
+   pēyar pēymulai yuṇṭuyir pōkkiya
+   māyaṉ māyattup paṭṭa maṉattarē. 5.100.9 1016 arakkaṉ vallaraṭ ṭāṅkoḻit
+   tāraruḷ
+   perukkac ceyta pirāṉperun taṉmaiyai
+   arutti ceytaṟi yappeṟu kiṉṟilar
+   karutti lākkaya vakkaṇat tōrkaḷē. 5.100.10
+       tirucciṟṟampalam
+       tirunāvukkaracucuvāmikaḷ aruḷicceyta tēvārappatikaṅkaḷ
+       aintām tirumuṟai muṟṟum. [103]uḷḷuṟai aṭṭavaṇaikkut tirumpa
+     __________________________________________________________________
+
+   This webpage was last updated on 9 Sept 2003
+   Please send your comments to the [104]webmasters of this website.
+
+References
+
+   1. mailto:kalyan@geocities.com
+   2. mailto:kumar@vt.edu
+   3. http://www.projectmadurai.org/
+   4. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5051
+   5. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5052
+   6. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5053
+   7. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5054
+   8. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5055
+   9. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5056
+  10. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5057
+  11. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5058
+  12. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5059
+  13. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5060
+  14. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5061
+  15. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5062
+  16. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5063
+  17. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5064
+  18. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5065
+  19. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5066
+  20. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5067
+  21. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5068
+  22. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5069
+  23. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5070
+  24. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5071
+  25. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5072
+  26. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5073
+  27. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5074
+  28. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5075
+  29. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5076
+  30. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5077
+  31. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5078
+  32. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5079
+  33. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5080
+  34. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5081
+  35. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5082
+  36. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5083
+  37. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5084
+  38. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5085
+  39. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5086
+  40. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5087
+  41. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5088
+  42. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5089
+  43. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5090
+  44. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5091
+  45. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5092
+  46. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5093
+  47. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5094
+  48. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5095
+  49. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5096
+  50. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5097
+  51. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5098
+  52. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5099
+  53. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#dt5100
+  54. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5051
+  55. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5052
+  56. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5053
+  57. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5054
+  58. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5055
+  59. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5056
+  60. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5057
+  61. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5058
+  62. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5059
+  63. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5060
+  64. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5061
+  65. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5062
+  66. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5063
+  67. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5064
+  68. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5065
+  69. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5066
+  70. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5067
+  71. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5068
+  72. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5069
+  73. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5070
+  74. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5071
+  75. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5072
+  76. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5073
+  77. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5074
+  78. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5075
+  79. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5076
+  80. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5077
+  81. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5078
+  82. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5079
+  83. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5080
+  84. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5081
+  85. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5082
+  86. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5083
+  87. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5084
+  88. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5085
+  89. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5086
+  90. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5087
+  91. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5088
+  92. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5089
+  93. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5090
+  94. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5091
+  95. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5092
+  96. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5093
+  97. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5094
+  98. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5095
+  99. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5096
+ 100. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5097
+ 101. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5098
+ 102. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5099
+ 103. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0188.html#hd5100
+ 104. mailto:kalyan@softhome.net, kumar@vt.edu?subject=PM187 .tEvAram-5th tirumurai part 2

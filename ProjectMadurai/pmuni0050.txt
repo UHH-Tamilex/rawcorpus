@@ -1,176 +1,174 @@
-[pm logo]
+                                   pm logo
+                     ___________________________________
 
-------------------------------------------------------------------------
+               kulacEkara pAnTiyan's maturApuri ampikai mAlai
+                   (in tamil script, unicode/utf-8 format)
+                    kulacēkara pāṇṭiyaṉ aruḷiya
+                         maturāpuri ampikai mālai
+                     ___________________________________
+     __________________________________________________________________
 
-kulacEkara pAnTiyan's maturApuri ampiki mAli (in tamil script, unicode/utf-8 format)  kulacēkara pāṇṭiyaṉ aruḷiya maturāpuri ampiki māli
+   Acknowledgement:
+   Our sincere thanks go to the following persons for their assistance in
+   the preparation of this work.
+   Etext Preparation (input, webpage) : Dr. Kumar Mallikarjunan,
+   Blacksburg, Virginia, U.S.A.
+   Etext Preparation (proof-reading) : Dr. Nagamanickam Ganesan, Houston,
+   TX, U.S.A.
+   Note: This 16th century work has been provided to the Project Madurai
+   by Dr. N. Ganesan of Texas, U.S.A.
+   Special thanks to him.
+   This webpage presents Etext in Tamil script in Unicode encoding (utf-8
+   format).
+   © Project Madurai, 1998-2021.
+   Project Madurai is an open, voluntary, worldwide initiative devoted to
+   preparation
+   of electronic texts of tamil literary works and to distribute them free
+   on the Internet.
+   Details of Project Madurai are available at the website
+   https://www.projectmadurai.org/
+   You are welcome to freely distribute this file, provided this header
+   page is kept intact.
+     __________________________________________________________________
 
-------------------------------------------------------------------------
+     kulacēkara pāṇṭiyaṉ aruḷiya "maturāpuri ampikai mālai"
 
-------------------------------------------------------------------------
+   vināyakar kāppu
+   kaṭṭaḷaik kalittuṟai
+   naṭakkum tiru viḷaiyāṭṭu ōr aṟupattu nālum cokkar
+   aṭakkum teṉ kūṭalil ampikai mālaikku aruvi matat,
+   taṭak kumpa, kampac, ciṟu kaṇ, pukar mukattu, āla vaṭṭam
+   muṭakkum taṭakkai, oru kōṭṭu vāraṇam muṉ niṟkavē.
+   nūl
+   tiruvē! viḷainta centēṉē! vaṭi iṭṭa teḷ amutiṉ
+   uruvē! maṭap piḷḷai ōtimamē! oṟṟai āṭakap pūn
+   taruvē! niṉ tāmarait tāḷē caraṇam, caraṇam kaṇṭāy,
+   aruvē! aṇaṅku aracē! maturāpuri ampikaiyē!         1.
+   nāḷ koṇṭa koṅkait tuṇaiyum, poṉ mēṉiyum, nañcu aḷitta
+   vāḷ koṇṭa nāṭṭamum, toṇṭaic cev vāyum, maruṅku uṭuttut
+   tōḷ koṇṭa cem paṭṭum, muttu āramum koṇṭu tōṉṟi eṉai
+   āḷ koṇṭa nāyakiyē! maturāpuri ampikaiyē!         2.
+   karumpum, kaṇai aintum, pāca aṅkucamum, kaik koṇṭu aṭiyēṉ
+   tirumpum ticai toṟum tōṟṟu kaṇṭāy - icai tēkku maṇic
+   curumpu uṇṭa kāviyum, cōti nilāvum, tuḷirum caṟṟē
+   arumpum kaṉam kuḻalāy! maturāpuri ampikaiyē!         3.
+   kuṉṟē eṉum mulaiyār tarum kātal koṭumai ellām
+   veṉṟēṉ, maṟaliyai viṭṭu viṭṭēṉ, virait tāmarait tāḷ
+   eṉṟē eṉ ceṉṉi vaittāy, piṉṉai yāṉ ceyyum ēval ellām
+   aṉṟē uṉ ēval kaṇṭāy, maturāpuri ampikaiyē!         4.
+   vaṭi vaitta vēl viḻiyār anurāka mayakkil ceṉṟu
+   kuṭi vaitta neñcu eṉṟu mīḷum kolō! aṉpu koṇṭa toṇṭar
+   muṭi vaittavāṟu, eṉ pulait talai mēl vaitta muttiṉ taṇṭai
+   aṭi vaitta pēr iṉpamē! maturāpuri ampikaiyē!         5.
+   vaṭak kuṉṟa mēruvum, mūtu aṇṭam eṭṭi vaḷaintu puṟam
+   kiṭakkum kaṭalum, puvaṉaṅkaḷ ēḻum, kiḷar marupput
+   taṭak kuñcaram eṭṭum, ellām tiru untit tāmaraiyil
+   aṭakkum parācaktiyē! maturāpuri ampikaiyē!         6.
+   oḷi koṇṭa veṇ piṟait tōṭum, poṉ ōlaiyum, ūṟiya tēṉ
+   tuḷi koṇṭa ceṅkaṉi vāyum, muttāramum, tōḷum eṉṟaṉ
+   kaḷi koṇṭa neñcam kuṭi koṇṭavā icai kakku maṇi
+   aḷi koṇṭa pūṅkuḻalāy! maturāpuri ampikaiyē!         7.
+   maṇiyum, taraḷamum, veṇ nakaiyō? vaḻi mūvar ceyat
+   tuṇiyum, toḻilum uṉ cey toḻilō? pattit tutti muṭip
+   paṇiyum, cuṭarum, kaṭal ēḻum niṉ kaḻal paṅkayattil
+   aṇiyum tiru uruvē! maturāpuri ampikaiyē!         8.
+   ceḻum tuṅkak koṅkaiyum, muttu āramum, poṉ cilampum, tiṅkaḷ
+   koḻuntum, makarak kuḻaiyum ellām, vaṇṭu koṇṭu cuṟṟi
+   uḻum tumpai cūṭum tiru mēṉiyum, uṉ uṭalum oṉṟāy
+   aḻuntum parācaktiyē! maturāpuri ampikaiyē!         9.
+   kaṇaiyum, kumiḻum, iṇai neṭum cāpamum, kārum, vaḷḷait
+   tuṇaiyum, pavaḷamum, cōti nilāvum, tuvaṇṭa paccaip
+   paṇaiyum, paṉit taṭam kāntaḷum, pāntaḷum pattum oṉṟāy
+   aṇaiyum tiru uruvē! maturāpuri ampikaiyē!         10.
+   iṇaṅkēṉ oruvarai; niṉ iru tāḷ aṉṟi eppoḻutum
+   vaṇaṅkēṉ oruvarai vāḻttukilēṉ; vañca neñcar uṭaṉ
+   piṇaṅkēṉ - amutam perukum cem pātip piṟai muṭitta
+   aṇaṅkē! caraṇam kaṇṭāy, maturāpuri ampikaiyē!         11.
+   mulaikkē avacat tuyar viḷaippār iṉpa mōkam eṉṉum
+   valaikkē akappaṭṭu aḻunti viṭāmal, valiya vantu eṉ
+   talaikkē patam vaitta taṇ aḷiyāy! muttam tattu tirai
+   alaikkē viḻi tuyilvāy! maturāpuri ampikaiyē!         12.
+   koṭik koṇṭa ciṟu iṭaiyār maṇi nūpuram koñcum aṭip
+   poṭik koṇṭa ceṉṉi uṉ kāl vaikkumō? puṟṟu araveṭuttu
+   muṭik koṇṭa cokkar aḻiyā viratam muṭikka eṉṟē,
+   aṭik koṇṭa pūṇ mulaiyāy! maturāpuri ampikaiyē!         13.
+   viḷaiyum karuk kuḻi vīḻāmal, eṉ taṉ viṉaip piṟavi
+   kaḷaiyum paṭikkum karutu kaṇṭāy - kaḻunīrai veṉṟu
+   vaḷaiyum taraḷa maṇit tōṭu aḻuttiya vaḷḷaiyaic ceṉṟu
+   aḷaiyum kayal viḻiyāy! maturāpuri ampikaiyē!         14.
+   ūṭum poḻutu uṉ karuṇai viṭāmal uvappataṟkuk
+   kūṭum toḻilai maṟappatu uṇṭō ? naṟaik koṉṟai am tār
+   cūṭum talaivar tiru mārpil, vāri cori taraḷam
+   āṭum tuṇai mulaiyāy! maturāpuri ampikaiyē!         15.
+   maḻaik kontu aḷaka maṭavār tam kātal valait talaippaṭṭu
+   uḻaikkum tuyaram oḻippatu eṉṟō? iraṇṭu ūcal maṇik
+   kuḻaikkum kalanta pacumai elām kuḻai ūṭu naṭantu
+   aḻaikkum kayal viḻiyāy! maturāpuri ampikaiyē!         16.
+   iṇaik kumpa meṉ mulaiyār viḻi vēlukkum, eyyu mataṉ
+   kaṇaikkum taṉi ilaikkā viṭavō? maṇik kaccu akalāt
+   tuṇaik kumpa meṉ mulaiyāy! cokkar mēṉi tuvaḷak kaṭṭi
+   aṇaikkum kamalam uḷḷāy! maturāpuri ampikaiyē!         17.
+   num kēḷvar pākattum, an nāṉ maṟai eṉum nūl iṭattum,
+   koṅku ēy pokuṭṭuk kamala ālayattum, kuṭi koṇṭa nī
+   eṅkē irukkiṉum nāy aṭiyēṉukku iṭar varum pōtu
+   aṅkē veḷippaṭuvāy! maturāpuri ampikaiyē!         18.
+   poṉṉē! nava maṇiyē! amutē! puvi pūttu aṭaṅkā
+   miṉṉē! oḷi uṟṟa mey poruḷē! karu mētiyiṉ mēl
+   en nēram kālaṉ vantu āvi viṭṭālum, eṉakku añcēl eṉṟu
+   an nēram vantu aruḷvāy! maturāpuri ampikaiyē!         19.
+   viruntu uṇṭu pōkaikku nāyēṉ caṭalattai vem kaḻukum,
+   paruntum cuḻalu muṉṉē varuvāy - maṇap pantalilē
+   tiruntum karam paṟṟi niṟpār tiru mukac cevvi ellām
+   aruntum kayal viḻiyāy! maturāpuri ampikaiyē!         20.
+   nāraṇaṉ koñcum pukaḻ nāṉmukaṟkum, poṉ nāṭṭavarkkum
+   kāraṇam koñcum niṉ ciṟu aṭikkē ticai kaṭṭum eṭṭu
+   vāraṇam koñcum kaṭampu aṭaviyiṉ makiḻnaruṭaṉ
+   āraṇam koñcum ammē! maturāpuri ampikaiyē!         21.
+   neḷikkum puḻuvukku iṭam ām kurampaiyiṉ niṉṟum, uyir
+   oḷikkum poḻutu veḷippaṭuvāy - oḻiyāp piṟavic
+   cuḷikkum kaṭalil cuḻalāmal vāḻvait tuṟantu, paṭaittu,
+   aḷikkum parācaktiyē! maturāpuri ampikaiyē!         22.
+   oḻiyāp paṉit taṭam kaṇ nīr coriya vantu, uṉ aṭikkē
+   poḻiyāp putu malar iṭṭu niṟpārkku, uṉ poḻi karuṇai
+   viḻiyāl curappa, alarnta cem tāmarai vīṭu oṉṟavē
+   aḻiyāp patam taruvāy, maturāpuri ampikaiyē!         23.
+   ēlam aṭaṅkum kuḻalār kuṟu ēvalil eyttu, aṭiyēṉ
+   kālam aṭaṅkum muṉṉē varuvāy - viṇ kaṭantu niṉṟa
+   kōlam aṭaṅkum aṟiyāta paccaik kuḻaviyaip pōl
+   ālam aṭaṅkum ammē! maturāpuri ampikaiyē!         24.
+   pōrkkum kalā matiyum, koṉṟai mālaiyum, poṉ muṭi mēl
+   cērkkum talaivar muṉ cellum ap pōtu, tiraṇṭa muttiṉ
+   vārk kuṅkumak koṅkai yāṉaikku muṉṉam maṇi muracam
+   ārkkum parācaktiyē! maturāpuri ampikaiyē!         25.
+   nōkkum karuṇai viḻiyāl potu aṟa nōkki, eṉṉaik
+   kākkum paṭikkum karutu kaṇṭāy - oḷi kakku nilā
+   vīkkum caṭai aṭaviyār uṇṭa kāḷa viṭattai amutu
+   ākkum civa āṉantamē! maturāpuri ampikaiyē!         26.
+   ulai kutikkum taḻal ūṟiya kāṉalai uṉṉic ceṉṟu,
+   kalai kutikkumpaṭi pōl iḻaittēṉ - kaḻic cēl vekuṇṭu
+   valai kutikkum cem kaḻunīr uṭaintu vaḻinta cem tēṉ
+   alai kutikkum taṭam cūḻ maturāpuri ampikaiyē!         27.
+   poṭi paṭṭa piṭṭukkut tōḷ koṇṭu kūṭai maṇ pōṭṭup, poṅki
+   veṭi paṭṭa vaiyai aṭaitta an nāḷ, cokkar mēṉi cuṟṟum
+   koṭi paṭṭa pōtu muḻu nīlak kōmaḷa mēṉiyilum
+   aṭi paṭṭatō? aṇaṅkē! maturāpuri ampikaiyē!         28.
+   pūṇṭa kai vārip, putu malar tūvi, niṉ poṉ aṭikkē
+   kūṇṭa kai, ceṉṉi kuvikkap peṟṟēṉ - piṟaik kōṭu aṇintu,
+   nīṇṭa kai vēḻap piṭar ēṟi, vaṭṭa nilam purakkum
+   āṇ takaiyē! aṇaṅkē! maturāpuri ampikaiyē!         29.
+   koñcum kutalai miṉṉārkku aṉpu pūṇṭu kulaiyum eṉ taṉ
+   neñcu, uṉ poṉ pātam niṉaippatu uṇṭō ? veṇ nilā matik kūṉ
+   piñcum, kaṇai villum, aṅkuca pācamum, piñcu malar
+   añcum tarittavaḷē! maturāpuri ampikaiyē!         30.
+   nūṟpayaṉ
+   piṭittāraik kaṭṭi aṇaittu, amutu ūṭṭiya pēyiṉ mulai
+   kuṭittu āṭum māyaṉ, kulacēkaraṉ, vaṭa kuṉṟaic ceṇṭāl
+   aṭittāṉ vaṭitta col ampikai mālai, ai āṟu kavi
+   paṭittārkaḷ kaṟpakak kāvum, poṉ nāṭum paṭaippavarē.
+   ----
+   maturāpuri ampikai mālai muṟṟum.
+     __________________________________________________________________
 
-Acknowledgement:
-Our sincere thanks go to the following persons for their assistance in
-the preparation of this work.
-Etext Preparation (input, webpage) : Dr. Kumar Mallikarjunan,
-Blacksburg, Virginia, U.S.A.
-Etext Preparation (proof-reading) : Dr. Nagamanickam Ganesan, Houston,
-TX, U.S.A.
-Note: This 16th century work has been provided to the Project Maduri by
-Dr. N. Ganesan of Texas, U.S.A.
-Special thanks to him.
-This webpage presents Etext in Tamil script in Unicode encoding (utf-8
-format).
-© Project Maduri, 1998-2021.
-Project Maduri is an open, voluntary, worldwide initiative devoted to
-preparation
-of electronic texts of tamil literary works and to distribute them free
-on the Internet.
-Detils of Project Maduri are avilable at the website
-https://www.projectmaduri.org/
-You are welcome to freely distribute this file, provided this header
-page is kept intact.
-
-------------------------------------------------------------------------
-
-kulacēkara pāṇṭiyaṉ aruḷiya "maturāpuri ampiki māli"
-
-vināyakar kāppu
-kaṭṭaḷik kalittuṟi
-naṭakkum tiru viḷiyāṭṭu ōr aṟupattu nālum cokkar
-aṭakkum teṉ kūṭalil ampiki mālikku aruvi matat,
-taṭak kumpa, kampac, ciṟu kaṇ, pukar mukattu, āla vaṭṭam
-muṭakkum taṭakki, oru kōṭṭu vāraṇam muṉ niṟkavē.
-nūl
-tiruvē! viḷinta centēṉē! vaṭi iṭṭa teḷ amutiṉ
-uruvē! maṭap piḷḷi ōtimamē! oṟṟi āṭakap pūn
-taruvē! niṉ tāmarit tāḷē caraṇam, caraṇam kaṇṭāy,
-aruvē! aṇaṅku aracē! maturāpuri ampikiyē!         1.
-nāḷ koṇṭa koṅkit tuṇiyum, poṉ mēṉiyum, nañcu aḷitta
-vāḷ koṇṭa nāṭṭamum, toṇṭic cev vāyum, maruṅku uṭuttut
-tōḷ koṇṭa cem paṭṭum, muttu āramum koṇṭu tōṉṟi eṉi
-āḷ koṇṭa nāyakiyē! maturāpuri ampikiyē!         2.
-karumpum, kaṇi aintum, pāca aṅkucamum, kik koṇṭu aṭiyēṉ
-tirumpum tici toṟum tōṟṟu kaṇṭāy - ici tēkku maṇic
-curumpu uṇṭa kāviyum, cōti nilāvum, tuḷirum caṟṟē
-arumpum kaṉam kuḻalāy! maturāpuri ampikiyē!         3.
-kuṉṟē eṉum muliyār tarum kātal koṭumi ellām
-veṉṟēṉ, maṟaliyi viṭṭu viṭṭēṉ, virit tāmarit tāḷ
-eṉṟē eṉ ceṉṉi vittāy, piṉṉi yāṉ ceyyum ēval ellām
-aṉṟē uṉ ēval kaṇṭāy, maturāpuri ampikiyē!         4.
-vaṭi vitta vēl viḻiyār anurāka mayakkil ceṉṟu
-kuṭi vitta neñcu eṉṟu mīḷum kolō! aṉpu koṇṭa toṇṭar
-muṭi vittavāṟu, eṉ pulit tali mēl vitta muttiṉ taṇṭi
-aṭi vitta pēr iṉpamē! maturāpuri ampikiyē!         5.
-vaṭak kuṉṟa mēruvum, mūtu aṇṭam eṭṭi vaḷintu puṟam
-kiṭakkum kaṭalum, puvaṉaṅkaḷ ēḻum, kiḷar marupput
-taṭak kuñcaram eṭṭum, ellām tiru untit tāmariyil
-aṭakkum parācaktiyē! maturāpuri ampikiyē!         6.
-oḷi koṇṭa veṇ piṟit tōṭum, poṉ ōliyum, ūṟiya tēṉ
-tuḷi koṇṭa ceṅkaṉi vāyum, muttāramum, tōḷum eṉṟaṉ
-kaḷi koṇṭa neñcam kuṭi koṇṭavā ici kakku maṇi
-aḷi koṇṭa pūṅkuḻalāy! maturāpuri ampikiyē!         7.
-maṇiyum, taraḷamum, veṇ nakiyō? vaḻi mūvar ceyat
-tuṇiyum, toḻilum uṉ cey toḻilō? pattit tutti muṭip
-paṇiyum, cuṭarum, kaṭal ēḻum niṉ kaḻal paṅkayattil
-aṇiyum tiru uruvē! maturāpuri ampikiyē!         8.
-ceḻum tuṅkak koṅkiyum, muttu āramum, poṉ cilampum, tiṅkaḷ
-koḻuntum, makarak kuḻiyum ellām, vaṇṭu koṇṭu cuṟṟi
-uḻum tumpi cūṭum tiru mēṉiyum, uṉ uṭalum oṉṟāy
-aḻuntum parācaktiyē! maturāpuri ampikiyē!         9.
-kaṇiyum, kumiḻum, iṇi neṭum cāpamum, kārum, vaḷḷit
-tuṇiyum, pavaḷamum, cōti nilāvum, tuvaṇṭa paccip
-paṇiyum, paṉit taṭam kāntaḷum, pāntaḷum pattum oṉṟāy
-aṇiyum tiru uruvē! maturāpuri ampikiyē!         10.
-iṇaṅkēṉ oruvari; niṉ iru tāḷ aṉṟi eppoḻutum
-vaṇaṅkēṉ oruvari vāḻttukilēṉ; vañca neñcar uṭaṉ
-piṇaṅkēṉ - amutam perukum cem pātip piṟi muṭitta
-aṇaṅkē! caraṇam kaṇṭāy, maturāpuri ampikiyē!         11.
-mulikkē avacat tuyar viḷippār iṉpa mōkam eṉṉum
-valikkē akappaṭṭu aḻunti viṭāmal, valiya vantu eṉ
-talikkē patam vitta taṇ aḷiyāy! muttam tattu tiri
-alikkē viḻi tuyilvāy! maturāpuri ampikiyē!         12.
-koṭik koṇṭa ciṟu iṭiyār maṇi nūpuram koñcum aṭip
-poṭik koṇṭa ceṉṉi uṉ kāl vikkumō? puṟṟu araveṭuttu
-muṭik koṇṭa cokkar aḻiyā viratam muṭikka eṉṟē,
-aṭik koṇṭa pūṇ muliyāy! maturāpuri ampikiyē!         13.
-viḷiyum karuk kuḻi vīḻāmal, eṉ taṉ viṉip piṟavi
-kaḷiyum paṭikkum karutu kaṇṭāy - kaḻunīri veṉṟu
-vaḷiyum taraḷa maṇit tōṭu aḻuttiya vaḷḷiyic ceṉṟu
-aḷiyum kayal viḻiyāy! maturāpuri ampikiyē!         14.
-ūṭum poḻutu uṉ karuṇi viṭāmal uvappataṟkuk
-kūṭum toḻili maṟappatu uṇṭō ? naṟik koṉṟi am tār
-cūṭum talivar tiru mārpil, vāri cori taraḷam
-āṭum tuṇi muliyāy! maturāpuri ampikiyē!         15.
-maḻik kontu aḷaka maṭavār tam kātal valit talippaṭṭu
-uḻikkum tuyaram oḻippatu eṉṟō? iraṇṭu ūcal maṇik
-kuḻikkum kalanta pacumi elām kuḻi ūṭu naṭantu
-aḻikkum kayal viḻiyāy! maturāpuri ampikiyē!         16.
-iṇik kumpa meṉ muliyār viḻi vēlukkum, eyyu mataṉ
-kaṇikkum taṉi ilikkā viṭavō? maṇik kaccu akalāt
-tuṇik kumpa meṉ muliyāy! cokkar mēṉi tuvaḷak kaṭṭi
-aṇikkum kamalam uḷḷāy! maturāpuri ampikiyē!         17.
-num kēḷvar pākattum, an nāṉ maṟi eṉum nūl iṭattum,
-koṅku ēy pokuṭṭuk kamala ālayattum, kuṭi koṇṭa nī
-eṅkē irukkiṉum nāy aṭiyēṉukku iṭar varum pōtu
-aṅkē veḷippaṭuvāy! maturāpuri ampikiyē!         18.
-poṉṉē! nava maṇiyē! amutē! puvi pūttu aṭaṅkā
-miṉṉē! oḷi uṟṟa mey poruḷē! karu mētiyiṉ mēl
-en nēram kālaṉ vantu āvi viṭṭālum, eṉakku añcēl eṉṟu
-an nēram vantu aruḷvāy! maturāpuri ampikiyē!         19.
-viruntu uṇṭu pōkikku nāyēṉ caṭalatti vem kaḻukum,
-paruntum cuḻalu muṉṉē varuvāy - maṇap pantalilē
-tiruntum karam paṟṟi niṟpār tiru mukac cevvi ellām
-aruntum kayal viḻiyāy! maturāpuri ampikiyē!         20.
-nāraṇaṉ koñcum pukaḻ nāṉmukaṟkum, poṉ nāṭṭavarkkum
-kāraṇam koñcum niṉ ciṟu aṭikkē tici kaṭṭum eṭṭu
-vāraṇam koñcum kaṭampu aṭaviyiṉ makiḻnaruṭaṉ
-āraṇam koñcum ammē! maturāpuri ampikiyē!         21.
-neḷikkum puḻuvukku iṭam ām kurampiyiṉ niṉṟum, uyir
-oḷikkum poḻutu veḷippaṭuvāy - oḻiyāp piṟavic
-cuḷikkum kaṭalil cuḻalāmal vāḻvit tuṟantu, paṭittu,
-aḷikkum parācaktiyē! maturāpuri ampikiyē!         22.
-oḻiyāp paṉit taṭam kaṇ nīr coriya vantu, uṉ aṭikkē
-poḻiyāp putu malar iṭṭu niṟpārkku, uṉ poḻi karuṇi
-viḻiyāl curappa, alarnta cem tāmari vīṭu oṉṟavē
-aḻiyāp patam taruvāy, maturāpuri ampikiyē!         23.
-ēlam aṭaṅkum kuḻalār kuṟu ēvalil eyttu, aṭiyēṉ
-kālam aṭaṅkum muṉṉē varuvāy - viṇ kaṭantu niṉṟa
-kōlam aṭaṅkum aṟiyāta paccik kuḻaviyip pōl
-ālam aṭaṅkum ammē! maturāpuri ampikiyē!         24.
-pōrkkum kalā matiyum, koṉṟi māliyum, poṉ muṭi mēl
-cērkkum talivar muṉ cellum ap pōtu, tiraṇṭa muttiṉ
-vārk kuṅkumak koṅki yāṉikku muṉṉam maṇi muracam
-ārkkum parācaktiyē! maturāpuri ampikiyē!         25.
-nōkkum karuṇi viḻiyāl potu aṟa nōkki, eṉṉik
-kākkum paṭikkum karutu kaṇṭāy - oḷi kakku nilā
-vīkkum caṭi aṭaviyār uṇṭa kāḷa viṭatti amutu
-ākkum civa āṉantamē! maturāpuri ampikiyē!         26.
-uli kutikkum taḻal ūṟiya kāṉali uṉṉic ceṉṟu,
-kali kutikkumpaṭi pōl iḻittēṉ - kaḻic cēl vekuṇṭu
-vali kutikkum cem kaḻunīr uṭintu vaḻinta cem tēṉ
-ali kutikkum taṭam cūḻ maturāpuri ampikiyē!         27.
-poṭi paṭṭa piṭṭukkut tōḷ koṇṭu kūṭi maṇ pōṭṭup, poṅki
-veṭi paṭṭa viyi aṭitta an nāḷ, cokkar mēṉi cuṟṟum
-koṭi paṭṭa pōtu muḻu nīlak kōmaḷa mēṉiyilum
-aṭi paṭṭatō? aṇaṅkē! maturāpuri ampikiyē!         28.
-pūṇṭa ki vārip, putu malar tūvi, niṉ poṉ aṭikkē
-kūṇṭa ki, ceṉṉi kuvikkap peṟṟēṉ - piṟik kōṭu aṇintu,
-nīṇṭa ki vēḻap piṭar ēṟi, vaṭṭa nilam purakkum
-āṇ takiyē! aṇaṅkē! maturāpuri ampikiyē!         29.
-koñcum kutali miṉṉārkku aṉpu pūṇṭu kuliyum eṉ taṉ
-neñcu, uṉ poṉ pātam niṉippatu uṇṭō ? veṇ nilā matik kūṉ
-piñcum, kaṇi villum, aṅkuca pācamum, piñcu malar
-añcum tarittavaḷē! maturāpuri ampikiyē!         30.
-nūṟpayaṉ
-piṭittārik kaṭṭi aṇittu, amutu ūṭṭiya pēyiṉ muli
-kuṭittu āṭum māyaṉ, kulacēkaraṉ, vaṭa kuṉṟic ceṇṭāl
-aṭittāṉ vaṭitta col ampiki māli, ai āṟu kavi
-paṭittārkaḷ kaṟpakak kāvum, poṉ nāṭum paṭippavarē.
-----
-maturāpuri ampiki māli muṟṟum.
-
-------------------------------------------------------------------------
-
-This webpage was last revised on 3 August 2021
-Feel free to send the corrections by emil to the webmaster
-(pmaduri@gmil.com).
+   This webpage was last revised on 3 August 2021
+   Feel free to send the corrections by email to the webmaster
+   (pmadurai@gmail.com).

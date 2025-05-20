@@ -1,574 +1,568 @@
-[pm logo]
+                                   pm logo
+                     ___________________________________
 
-------------------------------------------------------------------------
+                             Works of Auvaiyar :
+                  AticuTi, konRai vEntan, mUturai & nalvazi
+                   (in Tamil Script, unicode/UTF-8 format)
 
-Works of Auviyar : AticuTi, konRai vEntan, mUturi & nalvazi (in Tamil Script, unicode/UTF-8 format)
+                     auvaiyār nūlkaḷ: ātticcūṭi,
+                  koṉṟaivēntaṉ, mūturai & nalvaḻi
+                     ___________________________________
+     __________________________________________________________________
 
-auviyār nūlkaḷ: ātticcūṭi,
-koṉṟivēntaṉ, mūturi & nalvaḻi
+   Acknowledgements:
+   Our Sincere thanks go to Dr. K. Kalyanasundaram, Lausanne, Switzerland
+   for the preparation of this work for publication.
+   This page was first put up on the Internet on June 21, 2001
+   The work is presented in Unicode encoding (utf-8 format)
+   © Project Madurai, 1998-2021.
+   Project Madurai is an open, voluntary, worldwide initiative devoted to
+   preparation
+   of electronic texts of tamil literary works and to distribute them free
+   on the Internet.
+   Details of Project Madurai are available at the website
+   https://www.projectmadurai.org/
+   You are welcome to freely distribute this file, provided this header
+   page is kept intact.
+   Feel free to send the corrections by email to the webmaster
+   "pmadurai@gmail.com".
+     __________________________________________________________________
 
-------------------------------------------------------------------------
+                            auvaiyār nūlkaḷ:
 
-------------------------------------------------------------------------
+                               1. ātticūṭi
 
-Acknowledgements:
-Our Sincere thanks go to Dr. K. Kalyanasundaram, Lausanne, Switzerland
-for the preparation of this work for publication.
-This page was first put up on the Internet on June 21, 2001
-The work is presented in Unicode encoding (utf-8 format)
-© Project Maduri, 1998-2021.
-Project Maduri is an open, voluntary, worldwide initiative devoted to
-preparation
-of electronic texts of tamil literary works and to distribute them free
-on the Internet.
-Detils of Project Maduri are avilable at the website
-https://www.projectmaduri.org/
-You are welcome to freely distribute this file, provided this header
-page is kept intact.
-Feel free to send the corrections by emil to the webmaster
-"pmaduri@gmil.com".
+   kaṭavuḷ vāḻttu
 
-------------------------------------------------------------------------
+   ātti cūṭi amarnta tēvaṉai
+   ētti ēttit toḻuvōm yāmē.
+   uyir varukkam
+   1. aṟam ceya virumpu.
+   2. āṟuvatu ciṉam.
+   3. iyalvatu karavēl.
+   4. īvatu vilakkēl.
+   5. uṭaiyatu viḷampēl.
+   6. ūkkamatu kaiviṭēl.
+   7. eṇ eḻuttu ikaḻēl.
+   8. ēṟpatu ikaḻcci.
+   9. aiyam iṭṭu uṇ.
+   10. oppuravu oḻuku.
+   11. ōtuvatu oḻiyēl.
+   12. auviyam pēcēl.
+   13. aḵkam curukkēl.
+   uyirmey varukkam
+   14. kaṇṭoṉṟu collēl.
+   15. ṅap pōl vaḷai.
+   16. caṉi nīrāṭu.
+   17. ñayampaṭa urai.
+   18. iṭampaṭa vīṭu eṭēl.
+   19. iṇakkam aṟintu iṇaṅku.
+   20. tantai tāyp pēṇ.
+   21. naṉṟi maṟavēl.
+   22. paruvattē payir cey.
+   23. maṇ paṟittu uṇṇēl.
+   24. iyalpu alātaṉa ceyyēl.
+   25. aravam āṭṭēl.
+   26. ilavam pañcil tuyil.
+   27. vañcakam pēcēl.
+   28. aḻaku alātaṉa ceyyēl.
+   29. iḷamaiyil kal.
+   30. araṉai maṟavēl.
+   31. aṉantal āṭēl.
+   kakara varukkam
+   32. kaṭivatu maṟa.
+   33. kāppatu viratam.
+   34. kiḻamaippaṭa vāḻ.
+   35. kīḻmai akaṟṟu.
+   36. kuṇamatu kaiviṭēl.
+   37. kūṭip piriyēl.
+   38. keṭuppatu oḻi.
+   39. kēḷvi muyal.
+   40. kaiviṉai karavēl.
+   41. koḷḷai virumpēl.
+   42. kōtāṭṭu oḻi.
+   43. kauvai akaṟṟu.
+   cakara varukkam
+   44. cakkara neṟi nil.
+   45. cāṉṟōr iṉattu iru.
+   46. cittiram pēcēl.
+   47. cīrmai maṟavēl.
+   48. cuḷikkac collēl.
+   49. cūtu virumpēl.
+   50. ceyvaṉa tiruntac cey.
+   51. cēriṭam aṟintu cēr.
+   52. caiyeṉat tiriyēl.
+   53. coṟ cōrvu paṭēl.
+   54. cōmpit tiriyēl.
+   takara varukkam
+   55. takkōṉ eṉat tiri.
+   56. tāṉamatu virumpu.
+   57. tirumālukku aṭimai cey.
+   58. tīviṉai akaṟṟu.
+   59. tuṉpattiṟku iṭam koṭēl.
+   60. tūkki viṉai cey.
+   61. teyvam ikaḻēl.
+   62. tēcattōṭu oṭṭi vāḻ.
+   63. taiyal col kēḷēl.
+   64. toṉmai maṟavēl.
+   65. tōṟpaṉa toṭarēl.
+   nakara varukkam
+   66. naṉmai kaṭaippiṭi.
+   67. nāṭu oppaṉa cey.
+   68. nilaiyil piriyēl.
+   69. nīr viḷaiyāṭēl.
+   70. nuṇmai nukarēl.
+   71. nūl pala kal.
+   72. neṟpayir viḷaivu cey.
+   73. nērpaṭa oḻuku.
+   74. naiviṉai naṇukēl.
+   75. noyya uraiyēl.
+   76. nōykku iṭam koṭēl.
+   pakara varukkam
+   77. paḻippaṉa pakarēl.
+   78. pāmpoṭu paḻakēl.
+   79. piḻaipaṭac collēl.
+   80. pīṭu peṟa nil.
+   81. pukaḻntāraip pōṟṟi vāḻ.
+   82. pūmi tirutti uṇ.
+   83. periyārait tuṇaik koḷ.
+   84. pētaimai akaṟṟu.
+   85. paiyalōṭu iṇaṅkēl.
+   86. poruḷtaṉaip pōṟṟi vāḻ.
+   87. pōrt toḻil puriyēl.
+   makara varukkam
+   88. maṉam taṭumāṟēl.
+   89. māṟṟāṉukku iṭam koṭēl.
+   90. mikaipaṭac collēl.
+   91. mītūṇ virumpēl.
+   92. muṉaimukattu nillēl.
+   93. mūrkkarōṭu iṇaṅkēl.
+   94. melli nallāḷ tōḷcēr.
+   95. mēṉmakkaḷ col kēḷ.
+   96. mai viḻiyār maṉai akal.
+   97. moḻivatu aṟa moḻi.
+   98. mōkattai muṉi.
+   vakara varukkam
+   99. vallamai pēcēl.
+   100. vātu muṟkūṟēl.
+   101. vittai virumpu.
+   102. vīṭu peṟa nil.
+   103. uttamaṉāy iru.
+   104. ūruṭaṉ kūṭi vāḻ.
+   105. veṭṭeṉap pēcēl.
+   106. vēṇṭi viṉai ceyēl.
+   107. vaikaṟait tuyil eḻu.
+   108. oṉṉārait tēṟēl.
+   109. ōram collēl.
+                 __________________________________________
 
-auviyār nūlkaḷ:
+                           2. koṉṟai vēntaṉ
 
-1. ātticūṭi
+   kaṭavuḷ vāḻttu
+   koṉṟai vēntaṉ celvaṉ aṭiyiṉai
+   eṉṟum ēttit toḻuvōm yāmē.
+   uyir varukkam
+   1. aṉṉaiyum pitāvum muṉṉaṟi teyvam.
+   2. ālayam toḻuvatu cālavum naṉṟu.
+   3. illaṟam allatu nallaṟam aṉṟu.
+   4. īyār tēṭṭai tīyār koḷvar.
+   5. uṇṭi curuṅkutal peṇṭirkku aḻaku.
+   6. ūruṭaṉ pakaikkiṉ vēruṭaṉ keṭum.
+   7. eṇṇum eḻuttum kaṇ eṉat takum.
+   8. ēvā makkaḷ mūvā maruntu.
+   9. aiyam pukiṉum ceyvaṉa cey.
+   10. oruvaṉaip paṟṟi orakattu iru.
+   11. ōtaliṉ naṉṟē vētiyarkku oḻukkam.
+   12. auviyam pēcutal ākkattiṟku aḻivu.
+   13. aḵkamum kācum cikkeṉat tēṭu.
+   kakara varukkam
+   14. kaṟpeṉappaṭuvatu col tiṟampāmai.
+   15. kāvaltāṉē pāvaiyarkku aḻaku.
+   16. kiṭṭātāyiṉ veṭṭeṉa maṟa.
+   17. kīḻōr āyiṉum tāḻa urai.
+   18. kuṟṟam pārkkil cuṟṟam illai.
+   19. kūr ampu āyiṉum vīriyam pēcēl.
+   20. keṭuvatu ceyyiṉ viṭuvatu karumam.
+   21. kēṭṭil uṟuti kūṭṭum uṭaimai.
+   22. kaip poruḷ taṉṉiṉ meypporuḷ kalvi.
+   23. koṟṟavaṉ aṟital uṟṟa iṭattu utavi.
+   24. kōḷ cevik kuṟaḷai kāṟṟuṭaṉ neruppu.
+   25. kauvai colliṉ evvarukkum pakai.
+   cakara varukkam
+   26. cannatikku aḻaku vanti ceyyāmai.
+   27. cāṉṟōr eṉkai īṉṟōrkku aḻaku.
+   28. ciṉattaip pēṇiṉ tavattiṟku aḻaku.
+   29. cīrait tēṭiṉ ērait tēṭu.
+   30. cuṟṟattiṟku aḻaku cūḻa iruttal.
+   31. cūtum vātum vētaṉai ceyyum.
+   32. ceytavam maṟantāl kaitavam āḷum.
+   33. cēmam pukiṉum yāmattu uṟaṅku.
+   34. cai ottu iruntāl aiyam iṭṭu uṇ.
+   35. cokkar eṉpavar attam peṟuvar.
+   36. cōmpar eṉpavar tēmpit tirivar.
+   takara varukkam
+   37. tantai col mikka mantiram illai.
+   38. tāyiṟ ciṟantatoru kōyilum illai.
+   39. tiraikaṭal ōṭiyum tiraviyam tēṭu.
+   40. tīrāk kōpam pōrāy muṭiyum.
+   41. tuṭiyāp peṇṭir maṭiyil neruppu.
+   42. tūṟṟum peṇṭir kūṟṟu eṉat takum.
+   43. teyvam cīṟiṉ kaittavam māḷum.
+   44. tēṭātu aḻikkiṉ pāṭāy muṭiyum.
+   45. taiyum māciyum vaiyakattu uṟaṅku.
+   46. toḻutūṇ cuvaiyiṉ uḻutūṇ iṉitu.
+   47. tōḻaṉōṭum ēḻaimai pēcēl.
+   nakara varukkam
+   48. nalliṇakkam allal paṭuttum.
+   49. nāṭeṅkum vāḻak kēṭoṉṟum illai.
+   50. niṟkak kaṟṟal col tiṟampāmai.
+   51. nīrakam poruntiya ūrakattu iru.
+   52. nuṇṇiya karumamum eṇṇit tuṇi.
+   53. nūlmuṟai terintu cīlattu oḻuku.
+   54. neñcai oḷittu oru vañcakam illai.
+   55. nērā nōṉpu cīrākātu.
+   56. naipavar eṉiṉum noyya uraiyēl.
+   57. noyyavar eṉpavar veyyavar āvar.
+   58. nōṉpu eṉpatuvē (? eṉpatu) koṉṟu tiṉṉāmai.
+   pakara varukkam
+   59. paṇṇiya payiril puṇṇiyam teriyum.
+   60. pālōṭu āyiṉum kālam aṟintu uṇ.
+   61. piṟaṉ maṉai pukāmai aṟam eṉat takum.
+   62. pīram pēṇi pāram tāṅkum.
+   63. pulaiyum kolaiyum kaḷavum tavir.
+   64. pūriyōrkku illai cīriya oḻukkam.
+   65. peṟṟōrkku illai cuṟṟamum ciṉamum.
+   66. pētaimai eṉpatu mātarkku aṇikalam.
+   67. paiyac ceṉṟāl vaiyam tāṅkum.
+   68. pollāṅku eṉpavai ellām tavir.
+   69. pōṉakam eṉpatu tāṉ uḻantu uṇṭal.
+   makara varukkam
+   70. maruntē āyiṉum viruntōṭu uṇ.
+   71. māri allatu kāriyam illai.
+   72. miṉṉukku ellām piṉṉukku maḻai.
+   73. mīkāmaṉ illā marakkalam ōṭātu.
+   74. muṟpakal ceyyiṉ piṟpakal viḷaiyum.
+   75. mūttōr col vārttai amirtam.
+   76. mettaiyil paṭuttal nittiraikku aḻaku.
+   77. mēḻic celvam kōḻai paṭātu.
+   78. mai viḻiyār tam maṉaiyakaṉṟu oḻuku.
+   79. moḻivatu maṟukkiṉ aḻivatu karumam.
+   80. mōṉam eṉpatu ñāṉa varampu.
+   vakara varukkam
+   81. vaḷavaṉ āyiṉum aḷavaṟintu aḻittu uṇ.
+   82. vāṉam curuṅkiṉ tāṉam curuṅkum.
+   83. viruntilōrkku illai poruntiya oḻukkam.
+   84. vīraṉ kēṇmai kūrampu ākum.
+   85. uravōr eṉkai iravātu iruttal.
+   86. ūkkam uṭaimai ākkattiṟku aḻaku.
+   87. veḷḷaikku illai kaḷḷac cintai.
+   88. vēntaṉ cīṟiṉ ām tuṇai illai.
+   89. vaikal tōṟum teyvam toḻu.
+   90. otta iṭattu nittirai koḷ.
+   91. ōtātārkku illai uṇarvoṭum oḻukkam.
+                 __________________________________________
 
-kaṭavuḷ vāḻttu
+                                 3. mūturai
 
-ātti cūṭi amarnta tēvaṉi
-ētti ēttit toḻuvōm yāmē.
-uyir varukkam
-1. aṟam ceya virumpu.
-2. āṟuvatu ciṉam.
-3. iyalvatu karavēl.
-4. īvatu vilakkēl.
-5. uṭiyatu viḷampēl.
-6. ūkkamatu kiviṭēl.
-7. eṇ eḻuttu ikaḻēl.
-8. ēṟpatu ikaḻcci.
-9. aiyam iṭṭu uṇ.
-10. oppuravu oḻuku.
-11. ōtuvatu oḻiyēl.
-12. auviyam pēcēl.
-13. aḵkam curukkēl.
-uyirmey varukkam
-14. kaṇṭoṉṟu collēl.
-15. ṅap pōl vaḷi.
-16. caṉi nīrāṭu.
-17. ñayampaṭa uri.
-18. iṭampaṭa vīṭu eṭēl.
-19. iṇakkam aṟintu iṇaṅku.
-20. tanti tāyp pēṇ.
-21. naṉṟi maṟavēl.
-22. paruvattē payir cey.
-23. maṇ paṟittu uṇṇēl.
-24. iyalpu alātaṉa ceyyēl.
-25. aravam āṭṭēl.
-26. ilavam pañcil tuyil.
-27. vañcakam pēcēl.
-28. aḻaku alātaṉa ceyyēl.
-29. iḷamiyil kal.
-30. araṉi maṟavēl.
-31. aṉantal āṭēl.
-kakara varukkam
-32. kaṭivatu maṟa.
-33. kāppatu viratam.
-34. kiḻamippaṭa vāḻ.
-35. kīḻmi akaṟṟu.
-36. kuṇamatu kiviṭēl.
-37. kūṭip piriyēl.
-38. keṭuppatu oḻi.
-39. kēḷvi muyal.
-40. kiviṉi karavēl.
-41. koḷḷi virumpēl.
-42. kōtāṭṭu oḻi.
-43. kuvi akaṟṟu.
-cakara varukkam
-44. cakkara neṟi nil.
-45. cāṉṟōr iṉattu iru.
-46. cittiram pēcēl.
-47. cīrmi maṟavēl.
-48. cuḷikkac collēl.
-49. cūtu virumpēl.
-50. ceyvaṉa tiruntac cey.
-51. cēriṭam aṟintu cēr.
-52. ciyeṉat tiriyēl.
-53. coṟ cōrvu paṭēl.
-54. cōmpit tiriyēl.
-takara varukkam
-55. takkōṉ eṉat tiri.
-56. tāṉamatu virumpu.
-57. tirumālukku aṭimi cey.
-58. tīviṉi akaṟṟu.
-59. tuṉpattiṟku iṭam koṭēl.
-60. tūkki viṉi cey.
-61. teyvam ikaḻēl.
-62. tēcattōṭu oṭṭi vāḻ.
-63. tiyal col kēḷēl.
-64. toṉmi maṟavēl.
-65. tōṟpaṉa toṭarēl.
-nakara varukkam
-66. naṉmi kaṭippiṭi.
-67. nāṭu oppaṉa cey.
-68. niliyil piriyēl.
-69. nīr viḷiyāṭēl.
-70. nuṇmi nukarēl.
-71. nūl pala kal.
-72. neṟpayir viḷivu cey.
-73. nērpaṭa oḻuku.
-74. niviṉi naṇukēl.
-75. noyya uriyēl.
-76. nōykku iṭam koṭēl.
-pakara varukkam
-77. paḻippaṉa pakarēl.
-78. pāmpoṭu paḻakēl.
-79. piḻipaṭac collēl.
-80. pīṭu peṟa nil.
-81. pukaḻntārip pōṟṟi vāḻ.
-82. pūmi tirutti uṇ.
-83. periyārit tuṇik koḷ.
-84. pētimi akaṟṟu.
-85. piyalōṭu iṇaṅkēl.
-86. poruḷtaṉip pōṟṟi vāḻ.
-87. pōrt toḻil puriyēl.
-makara varukkam
-88. maṉam taṭumāṟēl.
-89. māṟṟāṉukku iṭam koṭēl.
-90. mikipaṭac collēl.
-91. mītūṇ virumpēl.
-92. muṉimukattu nillēl.
-93. mūrkkarōṭu iṇaṅkēl.
-94. melli nallāḷ tōḷcēr.
-95. mēṉmakkaḷ col kēḷ.
-96. mi viḻiyār maṉi akal.
-97. moḻivatu aṟa moḻi.
-98. mōkatti muṉi.
-vakara varukkam
-99. vallami pēcēl.
-100. vātu muṟkūṟēl.
-101. vitti virumpu.
-102. vīṭu peṟa nil.
-103. uttamaṉāy iru.
-104. ūruṭaṉ kūṭi vāḻ.
-105. veṭṭeṉap pēcēl.
-106. vēṇṭi viṉi ceyēl.
-107. vikaṟit tuyil eḻu.
-108. oṉṉārit tēṟēl.
-109. ōram collēl.
+   kaṭavuḷ vāḻttu
 
-------------------------------------------------------------------------
+   vākkuṇṭām nalla maṉamuṇṭām māmalarāḷ
+   nōkkuṇṭām mēṉi nuṭaṅkātu -pūkkoṇṭu
+   tuppār tirumēṉi tumpikkai yāṉpātam
+   tappāmal cārvār tamakku.
+   naṉṟi oruvarkkuc ceytakkāl annaṉṟi
+   eṉṟu taruṅkōl eṉa vēṇṭā - niṉṟu
+   taḷarā vaḷarteṅku tāḷuṇṭa nīrait
+   talaiyālē tāṉtaruta lāl.       1
+   nallār oruvarkkuc ceyta upakāram
+   kalmēl eḻuttuppōl kāṇumē - allāta
+   īramilā neñcattārk kīnta upakāram
+   nīr mēl eḻuttukku nēr.       2
+   iṉṉā iḷamai vaṟumaivan teytiyakkāl
+   iṉṉā aḷavil iṉiyavum-iṉṉāta
+   nāḷallā nāḷpūnta naṉmalarum pōlumē
+   āḷillā maṅkaik kaḻaku.      3
+   aṭṭālum pāl cuvaiyil kuṉṟā(tu) aḷavaḷavāy
+   naṭṭālum naṇpallār naṇpallar
+   keṭṭālum mēṉmakkaḷ mēṉmakkaḷē; caṅku
+   cuṭṭālum veṇmai tarum.      4
+   aṭuttu muyaṉṟālum ākumnāḷ aṉṟi
+   eṭutta karumaṅkaḷ ākā - toṭutta
+   uruvattāl nīṇṭa uyarmaraṅkaḷ ellām
+   paruvattāl aṉṟip paḻā .      5
+   uṟṟa iṭattil uyirvaḻaṅkum taṉmaiyōr
+   paṟṟalaraik kaṇṭāl paṇivarō - kaṟṟūṇ
+   piḷantiṟuva tallāl perumpāram tāṅkiṉ
+   taḷarntu vaḷaiyumō tāṉ.      6
+   nīr aḷavē ākumām nīr āmpal tāṉkaṟṟa
+   nūl aḷavē ākumām nuṇ aṟivu - mēlait
+   tavattu aḷavē ākumām tāṉpeṟṟa celvam
+   kulattu aḷavē ākumām kuṇam .      7
+   nallāraik kāṇpatuvum naṉṟē nalamikka
+   nallārcol kēṭpatuvum naṉṟē - nallār
+   kuṇaṅkaḷ uraippatuvum naṉṟē; avarōṭu
+   iṇaṅki iruppatuvum naṉṟu.      8
+   tīyāraik kāṇpatuvum tītē tiruvaṟṟa
+   tīyārcol kēṭpatuvum tītē - tīyār
+   kuṇaṅkaḷ uraippatuvum tītē; avarōṭu
+   iṇaṅki iruppatuvum tītu.      9
+   nelluk kiṟaittanīr vāykkāl vaḻiyōṭip
+   pullukkum āṅkē pociyumām - tol ulakil
+   nallār oruvar uḷarēl avarporuṭṭu
+   ellārkkum peyyum maḻai.      10
+   paṇṭu muḷaippatu ariciyē āṉālum
+   viṇṭu umipōṉāl muḷaiyātām - koṇṭapēr
+   āṟṟal uṭaiyārk(ku) ākātu aḷavu iṉṟi
+   ēṟṟa karumam ceyal.      11
+   maṭal peritu tāḻai (;) makiḻ iṉitu kantam
+   uṭalciṟiyar eṉṟu irukka vēṇṭā - kaṭalperitu
+   maṇṇīrum ākā(tu) ataṉarukē ciṟṟūṟal
+   uṇṇīrum āki viṭum.      12
+   kavaiyākik kompākik kāṭṭakattē niṟkum
+   avaiyalla nalla maraṅkaḷ - avainaṭuvē
+   nīṭṭō lai vāciyā niṉṟāṉ kuṟippaṟiya
+   māṭṭātavaṉ naṉmaram.      13
+   kāṉa mayilāṭak kaṇṭirunta vāṉkōḻi
+   tāṉum atuvākap pāvittut - tāṉum taṉ
+   pollāc ciṟakaivirit(tu) āṭiṉāl pōlumē
+   kallātāṉ kaṟṟa kavi.      14
+   vēṅkai varippulinōy tīrtta viṭakāri
+   āṅkataṉuk(ku) ākāram āṉālpōl - pāṅkaṟiyāp
+   pullaṟi vāḷarkkuc ceyta upakāram
+   kalliṉmēl iṭṭa kalam.      15
+   aṭakkam uṭaiyār aṟivilar eṉṟeṇṇik
+   kaṭakkak karutavum vēṇṭā - maṭait talaiyil
+   ōṭumīṉ ōṭa uṟumīṉ varumaḷavum
+   vāṭi irukkumām kokku.      16
+   aṟṟa kuḷattil aṟunīrp paṟavaipōl
+   uṟṟuḻit tīrvar uṟavallar -akkuḷattil
+   koṭṭiyum āmpalum neytalum pōlavē
+   oṭṭi uṟuvār uṟavu.      17
+   cīriyar keṭṭālum cīriyarē; cīriyar maṟ(ṟu)
+   allātār keṭṭāl aṅ keṉṉākum? - cīriya
+   poṉṉiṉ kuṭamuṭaintāl poṉṉākum eṉṉākum
+   maṇṇiṉ kuṭam uṭaintak kāl.      18
+   āḻa amukki mukakkiṉum āḻkaṭalnīr
+   nāḻi mukavātu nālnāḻi - tōḻi
+   nitiyum kaṇavaṉum nērpaṭiṉum tattam
+   vitiyiṉ payaṉē payaṉ.      19
+   uṭaṉpiṟantār cuṟṟattār eṉṟirukka vēṇṭā
+   uṭaṉpiṟantē kollum viyāti - uṭaṉ piṟavā
+   māmalaiyil uḷḷa maruntē piṇitīrkkum
+   ammaruntu pōlvārum uṇṭu.      20
+   illāḷ akattirukka illātatu oṉṟillai
+   illāḷum illāḷē āmāyiṉ - illāḷ
+   valikiṭanta māṟṟam uraikkumēl avvil
+   pulikiṭanta tūṟāy viṭum.      21
+   eḻutiyavā ṟēkāṇa iraṅku maṭaneñcē
+   karutiyavā ṟāmē karumam - karutippōyk
+   kaṟpakattaic cērntārkkuk kāñciraṅkāy īntatēl
+   muṟpavattil ceyta viṉai.      22
+   kaṟpiḷavō(ṭu) oppar kayavar kaṭuñciṉattup
+   poṟpiḷavō(ṭu) oppārum pōlvārē - viṟpiṭittu
+   nīrkiḻiya eyta vaṭuppōla māṟumē
+   cīroḻuku cāṉṟōr ciṉam.      23
+   naṟṟāmaraik kayattil nal aṉṉam cērtāṟpōl
+   kaṟṟāraik kaṟṟāṟē kāmuṟuvar - kaṟpilā
+   mūrkkarai mūrkkarē mukappar mutukāṭṭil
+   kākkai ukakkum piṇam.      24
+   nañcuṭaimai tāṉaṟintu nākam karantuṟaiyum
+   añcāp puṟaṅkiṭakkum nīrppāmpu - neñcil
+   karavuṭaiyār tammaik karappar karavār
+   karavilā neñcat tavar.      25
+   maṉṉaṉum mācaṟak kaṟṟōṉum cīrtūkkiṉ
+   maṉṉaṉil kaṟṟōṉ ciṟappuṭaiyaṉ - maṉṉarkkut
+   taṉtēcam allāl ciṟappillai kaṟṟōṟkuc
+   ceṉṟaiṭam ellām ciṟappu.      26
+   kallāta māntarkkuk kaṟṟuṇarntār colkūṟṟam
+   allāta māntark(ku) aṟamkūṟṟam - melliya
+   vāḻaikkut tāṉīṉṟa kāykūṟṟam kūṟṟamē
+   illiṟ(ku) icaintu oḻukāp peṇ.      27
+   cantaṉa meṉkuṟaṭu tāṉtēynta kālattum
+   kantam kuṟaipaṭā (tu;) ātalāl - tamtam
+   taṉamciṟiyar āyiṉum tārvēntar kēṭṭāl
+   maṉamciṟiyar āvarō maṟṟu.      28
+   maruviṉiya cuṟṟamum vāṉporuḷum nalla
+   uruvum uyarkulamum ellām -tirumaṭantai
+   ākumpō(tu) avaḷōṭum ākum; avaḷpirintu
+   pōmpō(tu) avaḷōṭu (m) pōm.      29
+   cāntaṉaiyum tīyaṉavē ceytiṭiṉum tāmavarai
+   āntaṉaiyum kāppar aṟivuṭaiyōr - māntar
+   kuṟaikkum taṉaiyum kuḷirniḻalait tantu
+   maṟaikkumām kaṇṭīr maram.      30
+                 __________________________________________
 
-2. koṉṟi vēntaṉ
+                                4. nalvaḻi
 
-kaṭavuḷ vāḻttu
-koṉṟi vēntaṉ celvaṉ aṭiyiṉi
-eṉṟum ēttit toḻuvōm yāmē.
-uyir varukkam
-1. aṉṉiyum pitāvum muṉṉaṟi teyvam.
-2. ālayam toḻuvatu cālavum naṉṟu.
-3. illaṟam allatu nallaṟam aṉṟu.
-4. īyār tēṭṭi tīyār koḷvar.
-5. uṇṭi curuṅkutal peṇṭirkku aḻaku.
-6. ūruṭaṉ pakikkiṉ vēruṭaṉ keṭum.
-7. eṇṇum eḻuttum kaṇ eṉat takum.
-8. ēvā makkaḷ mūvā maruntu.
-9. aiyam pukiṉum ceyvaṉa cey.
-10. oruvaṉip paṟṟi orakattu iru.
-11. ōtaliṉ naṉṟē vētiyarkku oḻukkam.
-12. auviyam pēcutal ākkattiṟku aḻivu.
-13. aḵkamum kācum cikkeṉat tēṭu.
-kakara varukkam
-14. kaṟpeṉappaṭuvatu col tiṟampāmi.
-15. kāvaltāṉē pāviyarkku aḻaku.
-16. kiṭṭātāyiṉ veṭṭeṉa maṟa.
-17. kīḻōr āyiṉum tāḻa uri.
-18. kuṟṟam pārkkil cuṟṟam illi.
-19. kūr ampu āyiṉum vīriyam pēcēl.
-20. keṭuvatu ceyyiṉ viṭuvatu karumam.
-21. kēṭṭil uṟuti kūṭṭum uṭimi.
-22. kip poruḷ taṉṉiṉ meypporuḷ kalvi.
-23. koṟṟavaṉ aṟital uṟṟa iṭattu utavi.
-24. kōḷ cevik kuṟaḷi kāṟṟuṭaṉ neruppu.
-25. kuvi colliṉ evvarukkum paki.
-cakara varukkam
-26. cannatikku aḻaku vanti ceyyāmi.
-27. cāṉṟōr eṉki īṉṟōrkku aḻaku.
-28. ciṉattip pēṇiṉ tavattiṟku aḻaku.
-29. cīrit tēṭiṉ ērit tēṭu.
-30. cuṟṟattiṟku aḻaku cūḻa iruttal.
-31. cūtum vātum vētaṉi ceyyum.
-32. ceytavam maṟantāl kitavam āḷum.
-33. cēmam pukiṉum yāmattu uṟaṅku.
-34. ci ottu iruntāl aiyam iṭṭu uṇ.
-35. cokkar eṉpavar attam peṟuvar.
-36. cōmpar eṉpavar tēmpit tirivar.
-takara varukkam
-37. tanti col mikka mantiram illi.
-38. tāyiṟ ciṟantatoru kōyilum illi.
-39. tirikaṭal ōṭiyum tiraviyam tēṭu.
-40. tīrāk kōpam pōrāy muṭiyum.
-41. tuṭiyāp peṇṭir maṭiyil neruppu.
-42. tūṟṟum peṇṭir kūṟṟu eṉat takum.
-43. teyvam cīṟiṉ kittavam māḷum.
-44. tēṭātu aḻikkiṉ pāṭāy muṭiyum.
-45. tiyum māciyum viyakattu uṟaṅku.
-46. toḻutūṇ cuviyiṉ uḻutūṇ iṉitu.
-47. tōḻaṉōṭum ēḻimi pēcēl.
-nakara varukkam
-48. nalliṇakkam allal paṭuttum.
-49. nāṭeṅkum vāḻak kēṭoṉṟum illi.
-50. niṟkak kaṟṟal col tiṟampāmi.
-51. nīrakam poruntiya ūrakattu iru.
-52. nuṇṇiya karumamum eṇṇit tuṇi.
-53. nūlmuṟi terintu cīlattu oḻuku.
-54. neñci oḷittu oru vañcakam illi.
-55. nērā nōṉpu cīrākātu.
-56. nipavar eṉiṉum noyya uriyēl.
-57. noyyavar eṉpavar veyyavar āvar.
-58. nōṉpu eṉpatuvē (? eṉpatu) koṉṟu tiṉṉāmi.
-pakara varukkam
-59. paṇṇiya payiril puṇṇiyam teriyum.
-60. pālōṭu āyiṉum kālam aṟintu uṇ.
-61. piṟaṉ maṉi pukāmi aṟam eṉat takum.
-62. pīram pēṇi pāram tāṅkum.
-63. puliyum koliyum kaḷavum tavir.
-64. pūriyōrkku illi cīriya oḻukkam.
-65. peṟṟōrkku illi cuṟṟamum ciṉamum.
-66. pētimi eṉpatu mātarkku aṇikalam.
-67. piyac ceṉṟāl viyam tāṅkum.
-68. pollāṅku eṉpavi ellām tavir.
-69. pōṉakam eṉpatu tāṉ uḻantu uṇṭal.
-makara varukkam
-70. maruntē āyiṉum viruntōṭu uṇ.
-71. māri allatu kāriyam illi.
-72. miṉṉukku ellām piṉṉukku maḻi.
-73. mīkāmaṉ illā marakkalam ōṭātu.
-74. muṟpakal ceyyiṉ piṟpakal viḷiyum.
-75. mūttōr col vārtti amirtam.
-76. mettiyil paṭuttal nittirikku aḻaku.
-77. mēḻic celvam kōḻi paṭātu.
-78. mi viḻiyār tam maṉiyakaṉṟu oḻuku.
-79. moḻivatu maṟukkiṉ aḻivatu karumam.
-80. mōṉam eṉpatu ñāṉa varampu.
-vakara varukkam
-81. vaḷavaṉ āyiṉum aḷavaṟintu aḻittu uṇ.
-82. vāṉam curuṅkiṉ tāṉam curuṅkum.
-83. viruntilōrkku illi poruntiya oḻukkam.
-84. vīraṉ kēṇmi kūrampu ākum.
-85. uravōr eṉki iravātu iruttal.
-86. ūkkam uṭimi ākkattiṟku aḻaku.
-87. veḷḷikku illi kaḷḷac cinti.
-88. vēntaṉ cīṟiṉ ām tuṇi illi.
-89. vikal tōṟum teyvam toḻu.
-90. otta iṭattu nittiri koḷ.
-91. ōtātārkku illi uṇarvoṭum oḻukkam.
+   kaṭavuḷ vāḻttu
 
-------------------------------------------------------------------------
+   pālum teḷitēṉum pākum paruppumivai
+   nālum kalantuṉakku nāṉ taruvēṉ - kōlamcey
+   tuṅkak karimukattu tūmaṇiyē nī eṉakku
+   caṅkat tamiḻ mūṉṟum tā
+   nūl
+   puṇṇiyamām pāvampōl pōṉanāḷ ceytaavai
+   maṇṇil piṟantārkku vaittaporuḷ -eṇṇuṅkāl
+   ītoḻiya vēṟillai; eccamayattōr collum
+   tītoḻiya naṉmai ceyal.      1
+   cāti iraṇṭoḻiya vēṟillai cāṟṟuṅkāl
+   nīti vaḻuvā neṟimuṟaiyiṉ - mētiṉiyil
+   iṭṭār periyār iṭātār iḻikulattār
+   paṭṭāṅkil uḷḷa paṭi.      2
+   iṭumpaik(ku) iṭumpai iyaluṭam(pu) itaṉṟē
+   iṭumpoyyai meyyeṉ(ṟu) irātē - iṭuṅkaṭuka
+   uṇṭāyiṉ uṇṭākum ūḻil peruvalinōy
+   viṇṭāraik koṇṭāṭum vīṭu.      3
+   eṇṇi orukarumam yārkkumcey oṇṇātu
+   puṇṇiyam vanteytu pōtallāl - kaṇṇillāṉ
+   māṅkāy viḻaveṟinta māttiraikkōl okkumē
+   āṅkālam ākum avarkku.      4
+   varunti aḻaittālum vārāta vārā
+   poruntuvaṉa pōmi(ṉ) eṉṟāl pōkā - iruntēṅki
+   neñcam puṇṇāka neṭuntūram tāmniṉaintu
+   tuñcuvatē māntar toḻil.      5
+   uḷḷatu oḻiya oruvark(ku) oruvarcukam
+   koḷḷak kiṭaiyā kuvalayattil -veḷḷak
+   kaṭalōṭi mīṇṭum karaiyēṟiṉāl eṉ
+   uṭalōṭu vāḻum uyirkku.      6
+   ellāppaṭiyālum eṇṇiṉāl ivvuṭampu
+   pollāp puḻumalinōy puṉkurampai -nallār
+   aṟintiruppār ātaliṉāl āmkamala nīrpōl
+   piṟintiruppār pēcār piṟarkku.      7
+   īṭṭum poruḷmuyaṟci eṇṇiṟanta āyiṉumūḻ
+   kūṭṭum paṭiyaṉṟik kūṭāvām - tēṭṭam
+   mariyātai kāṇum makitalattīr kēṇmiṉ
+   tariyātu kāṇum taṉam.      8
+   āṟṟup perukkaṟ ṟaṭicuṭuman nāḷumavvā(ṟu)
+   ūṟṟup perukkāl ulakūṭṭum - ēṟṟavarkku
+   nalla kuṭipiṟantār nalkūrntār āṉālum
+   illai eṉa māṭṭār icaintu .      9
+   āṇṭāṇṭu tōṟum aḻutu puraṇṭālum
+   māṇṭār varuvarō mānilattīr - vēṇṭā!
+   namakkum atuvaḻiyē! nāmpōm aḷavum
+   emakkeṉ? eṉ(ṟu) iṭṭu, uṇṭu, irum      11
+   orunāḷ uṇavai oḻiyeṉṟāl oḻiyāy
+   irunāḷukku ēleṉṟāl ēlāy - orunāḷum
+   eṉnō(vu) aṟiyāy iṭumpaikūr eṉvayiṟē
+   uṉṉōṭu vāḻtal aṟitu.      11
+   āṟṟaṅ karaiyiṉ maramum aracaṟiya
+   vīṟṟirunta vāḻvum viḻum aṉṟē - ēṟṟam
+   uḻutuṇṭu vāḻvataṟku oppillai kaṇṭīr
+   paḻutuṇṭu vēṟōr paṇikku,      12
+   āvārai yārē aḻippar atuvaṉṟic
+   cāvārai yārē tavirppavar- ōvāmal
+   aiyam pukuvārai yārē vilakkuvār
+   meyam puviyataṉ mēl.      13
+   piccaikku mūtta kuṭivāḻkkai pēcuṅkāl
+   iccaipala colli iṭittuṇkai - ciccī
+   vayiṟu vaḷarkkaikku māṉam aḻiyātu
+   uyirviṭukai cāla uṟum.      14
+   civāya nama eṉṟu cintit tiruppōrkku
+   apāyam orunāḷum illai - upāyam
+   ituvē(;) matiyākum allāta ellām
+   vitiyē matiyāy viṭum.      15
+   taṇṇīr nilanalattāl takkōr kuṇamkoṭaiyāl
+   kaṇṇīrmai māṟāk karuṇaiyāl - peṇṇīrmai
+   kaṟpaḻiyā āṟṟal kaṭalcūḻnta vaiyakattuḷ
+   aṟputamām eṉṟē aṟi.      16
+   ceytī viṉaiyirukkat teyvattai nontakkāl
+   eyta varumō irunitiyam?- vaiyattu
+   "aṟum-pāvam!" eṉṉa aṟintu aṉṟiṭārkku iṉṟu
+   veṟumpāṉai poṅkumō mēl?      17
+   peṟṟār piṟantār perunāṭṭār pērulakil
+   uṟṟār ukantār eṉavēṇṭār - maṟṟōr
+   iraṇam koṭuttāl iṭuvar(;) iṭārē
+   caraṇam koṭuttālum tām.      18
+   cēvittum ceṉṟirantum teṇṇīrk kaṭalkaṭantum
+   pāvittum pārāṇṭum pāṭṭicaittum - pōvippam
+   pāḻiṉ uṭampai vayiṟṟiṉ koṭumaiyāl
+   nāḻi aricikkē nām.      19
+   ammi tuṇaiyāka āṟiḻinta vāṟokkum
+   kommai mulaipakarvār koṇṭāṭṭam -immai
+   maṟumaikkum naṉṟaṉṟu mānitiyam pōkki
+   veṟumaikku vittāy viṭum.      20
+   nīrum niḻalum nilampotiyum neṟkaṭṭum
+   pērum pukaḻum peruvāḻvum - ūrum
+   varuntiruvum vāḻnāḷum vañcamillārk keṉṟum
+   tarumcivanta tāmaraiyāḷ tāṉ.      21
+   pāṭupaṭṭut tēṭip paṇattaip putaittuvaittuk
+   kēṭukeṭṭa māṉiṭarē kēḷuṅkaḷ - kūṭuviṭṭuṅ(ku)
+   āvitāṉ pōyiṉapiṉ yārē aṉupavippār
+   pāvikāḷ antap paṇam.      22
+   vētāḷam cērumē veḷḷerukkup pūkkumē
+   pātāḷa mūli paṭarumē - mūtēvi
+   ceṉṟiruntu vāḻvaḷē cēṭaṉ kuṭipukumē
+   maṉṟōram coṉṉār maṉai.      23
+   nīṟillā neṟṟipāḻ(;) neyyillā uṇṭipāḻ
+   āṟillā ūruk (ku) aḻakupāḻ - māṟil
+   uṭaṉpiṟap pillā uṭampupāḻ (;) pāḻē
+   maṭakkoṭi illā maṉai.      24
+   āṉa mutalil atikam celavāṉāl
+   māṉam aḻintu matikeṭṭup - pōṉaticai
+   ellārkkum kaḷḷaṉāy ēḻpiṟappum tīyaṉāy
+   nallārkkum pollaṉām nāṭu.      25
+   māṉam kulam kalvi vaṇmai aṟivuṭaimai
+   tāṉam tavaruyarcci tāḷāṇmai - tēṉiṉ
+   kacivanta colliyarmēl kāmuṟutal pattum
+   pacivantiṭap paṟantu pōm.      26
+   oṉṟai niṉaikkiṉ atuoḻintiṭ ṭoṉṟākum
+   aṉṟi atuvariṉum vanteytum - oṉṟai
+   niṉaiyāta muṉvantu niṟpiṉum niṟkum
+   eṉaiyāḷum īcaṉ ceyal.      27
+   uṇpatu nāḻi uṭuppatu nāṉkumuḻam
+   eṇpatu kōṭi niṉaintu eṇṇuvaṉa - kaṇputainta
+   māntar kuṭivāḻkkai maṇṇiṉ kalampōlac
+   cāntuṇaiyum cañcalamē tāṉ.      28
+   marampaḻuttāl vauvālai vāveṉṟu kūvi
+   irantaḻaippār yāvarumaṅ killai - curantamutam
+   kaṟṟā taralpōl karavātu aḷipparēl
+   uṟṟār ulakat tavar.      29
+   tāmtāmmuṉ ceytaviṉai tāmē aṉupavippār
+   pūntā marai yōṉ poṟivaḻiyē - vēntē
+   oṟuttārai eṉceyalām ūrellām oṉṟā
+   veṟuttālum pōmō viti .      30
+   iḻukkuṭaiya pāṭṭiṟ(ku) icainaṉṟu(;) cālum
+   oḻukkam uyarkulattiṉ naṉṟu - vaḻukkuṭaiya
+   vīrattiṉ naṉṟu viṭānōy(;) paḻikkañcāt
+   tārattiṉ naṉṟu taṉi.      31
+   āṟiṭum mēṭum maṭuvumpō lāmcelvam
+   māṟiṭum ēṟiṭum mānilattīr - cōṟiṭum
+   taṇṇīrum vārum tarumamē cārpāka
+   uṇṇīrmai vīṟum uyarntu.      32
+   veṭṭeṉavai mettaṉavai vellāvām(;) vēḻattil
+   paṭṭuruvum kōlpañcil pāyātu - neṭṭiruppup
+   pāraikku nekkuviṭāp pāṟai pacumarattiṉ
+   vērukku nekku viṭum.      33
+   kallāṉē āṉālum kaipporuḷoṉ ṟuṇṭāyiṉ
+   ellārum ceṉṟaṅ ketirkoḷvar - illāṉai
+   illāḷum vēṇṭāḷ(;) maṟ ṟīṉṟeṭutta tāyvēṇṭāḷ
+   cellā(tu) avaṉvāyiṟ col.      34
+   pūvātē kāykkum maramuḷa makkaḷuḷum
+   ēvātē niṉṟuṇarvār tāmuḷarē - tūvā
+   viraittālum naṉṟākā vitteṉavē pētaikku
+   uraittālum tōṉṟā(tu) uṇarvu.      35
+   naṇṭucippi vēykatali nācamuṟuṅ kālattil
+   koṇṭa karuvaḷikkum koḷkaipōl - oṇtoṭī
+   pōtam taṉamkalvi poṉṟavarum kālamayal
+   mātarmēl vaippār maṉam.      36
+   viṉaippayaṉai velvataṟku vētam mutalām
+   aṉaittāya nūlakattum illai - niṉaippateṉak
+   kaṇṇuṟuva tallāl kavalaip paṭēl neñcē
+   viṇṇuṟuvārk killai viti.      37
+   naṉṟeṉṟum tīteṉṟum nāṉeṉṟum tāṉeṉṟum
+   aṉṟeṉṟum āmeṉṟum ākātē - niṉṟanilai
+   tāṉatām tattuvamām campaṟuttār yākkaikkup
+   pōṉavā tēṭum poruḷ.      38
+   muppatām āṇṭaḷavil mūṉṟaṟṟu oruporuḷait
+   tappāmal taṉṉuḷ peṟāṉāyiṉ - ceppum
+   kalaiyaḷavē ākumām kārikaiyār taṅkaḷ
+   mulaiyaḷavē ākumām mūppu.      39
+   tēvar kuṟaḷum tirunāṉ maṟaimuṭivum
+   mūvar tamiḻum muṉimoḻiyum - kōvai
+   tiruvā cakamum tirumūlar collum
+   oruvā cakameṉ ṟuṇar.      40
+     __________________________________________________________________
 
-3. mūturi
-
-kaṭavuḷ vāḻttu
-
-vākkuṇṭām nalla maṉamuṇṭām māmalarāḷ
-nōkkuṇṭām mēṉi nuṭaṅkātu -pūkkoṇṭu
-tuppār tirumēṉi tumpikki yāṉpātam
-tappāmal cārvār tamakku.
-naṉṟi oruvarkkuc ceytakkāl annaṉṟi
-eṉṟu taruṅkōl eṉa vēṇṭā - niṉṟu
-taḷarā vaḷarteṅku tāḷuṇṭa nīrit
-taliyālē tāṉtaruta lāl.       1
-nallār oruvarkkuc ceyta upakāram
-kalmēl eḻuttuppōl kāṇumē - allāta
-īramilā neñcattārk kīnta upakāram
-nīr mēl eḻuttukku nēr.       2
-iṉṉā iḷami vaṟumivan teytiyakkāl
-iṉṉā aḷavil iṉiyavum-iṉṉāta
-nāḷallā nāḷpūnta naṉmalarum pōlumē
-āḷillā maṅkik kaḻaku.      3
-aṭṭālum pāl cuviyil kuṉṟā(tu) aḷavaḷavāy
-naṭṭālum naṇpallār naṇpallar
-keṭṭālum mēṉmakkaḷ mēṉmakkaḷē; caṅku
-cuṭṭālum veṇmi tarum.      4
-aṭuttu muyaṉṟālum ākumnāḷ aṉṟi
-eṭutta karumaṅkaḷ ākā - toṭutta
-uruvattāl nīṇṭa uyarmaraṅkaḷ ellām
-paruvattāl aṉṟip paḻā .      5
-uṟṟa iṭattil uyirvaḻaṅkum taṉmiyōr
-paṟṟalarik kaṇṭāl paṇivarō - kaṟṟūṇ
-piḷantiṟuva tallāl perumpāram tāṅkiṉ
-taḷarntu vaḷiyumō tāṉ.      6
-nīr aḷavē ākumām nīr āmpal tāṉkaṟṟa
-nūl aḷavē ākumām nuṇ aṟivu - mēlit
-tavattu aḷavē ākumām tāṉpeṟṟa celvam
-kulattu aḷavē ākumām kuṇam .      7
-nallārik kāṇpatuvum naṉṟē nalamikka
-nallārcol kēṭpatuvum naṉṟē - nallār
-kuṇaṅkaḷ urippatuvum naṉṟē; avarōṭu
-iṇaṅki iruppatuvum naṉṟu.      8
-tīyārik kāṇpatuvum tītē tiruvaṟṟa
-tīyārcol kēṭpatuvum tītē - tīyār
-kuṇaṅkaḷ urippatuvum tītē; avarōṭu
-iṇaṅki iruppatuvum tītu.      9
-nelluk kiṟittanīr vāykkāl vaḻiyōṭip
-pullukkum āṅkē pociyumām - tol ulakil
-nallār oruvar uḷarēl avarporuṭṭu
-ellārkkum peyyum maḻi.      10
-paṇṭu muḷippatu ariciyē āṉālum
-viṇṭu umipōṉāl muḷiyātām - koṇṭapēr
-āṟṟal uṭiyārk(ku) ākātu aḷavu iṉṟi
-ēṟṟa karumam ceyal.      11
-maṭal peritu tāḻi (;) makiḻ iṉitu kantam
-uṭalciṟiyar eṉṟu irukka vēṇṭā - kaṭalperitu
-maṇṇīrum ākā(tu) ataṉarukē ciṟṟūṟal
-uṇṇīrum āki viṭum.      12
-kaviyākik kompākik kāṭṭakattē niṟkum
-aviyalla nalla maraṅkaḷ - avinaṭuvē
-nīṭṭō li vāciyā niṉṟāṉ kuṟippaṟiya
-māṭṭātavaṉ naṉmaram.      13
-kāṉa mayilāṭak kaṇṭirunta vāṉkōḻi
-tāṉum atuvākap pāvittut - tāṉum taṉ
-pollāc ciṟakivirit(tu) āṭiṉāl pōlumē
-kallātāṉ kaṟṟa kavi.      14
-vēṅki varippulinōy tīrtta viṭakāri
-āṅkataṉuk(ku) ākāram āṉālpōl - pāṅkaṟiyāp
-pullaṟi vāḷarkkuc ceyta upakāram
-kalliṉmēl iṭṭa kalam.      15
-aṭakkam uṭiyār aṟivilar eṉṟeṇṇik
-kaṭakkak karutavum vēṇṭā - maṭit taliyil
-ōṭumīṉ ōṭa uṟumīṉ varumaḷavum
-vāṭi irukkumām kokku.      16
-aṟṟa kuḷattil aṟunīrp paṟavipōl
-uṟṟuḻit tīrvar uṟavallar -akkuḷattil
-koṭṭiyum āmpalum neytalum pōlavē
-oṭṭi uṟuvār uṟavu.      17
-cīriyar keṭṭālum cīriyarē; cīriyar maṟ(ṟu)
-allātār keṭṭāl aṅ keṉṉākum? - cīriya
-poṉṉiṉ kuṭamuṭintāl poṉṉākum eṉṉākum
-maṇṇiṉ kuṭam uṭintak kāl.      18
-āḻa amukki mukakkiṉum āḻkaṭalnīr
-nāḻi mukavātu nālnāḻi - tōḻi
-nitiyum kaṇavaṉum nērpaṭiṉum tattam
-vitiyiṉ payaṉē payaṉ.      19
-uṭaṉpiṟantār cuṟṟattār eṉṟirukka vēṇṭā
-uṭaṉpiṟantē kollum viyāti - uṭaṉ piṟavā
-māmaliyil uḷḷa maruntē piṇitīrkkum
-ammaruntu pōlvārum uṇṭu.      20
-illāḷ akattirukka illātatu oṉṟilli
-illāḷum illāḷē āmāyiṉ - illāḷ
-valikiṭanta māṟṟam urikkumēl avvil
-pulikiṭanta tūṟāy viṭum.      21
-eḻutiyavā ṟēkāṇa iraṅku maṭaneñcē
-karutiyavā ṟāmē karumam - karutippōyk
-kaṟpakattic cērntārkkuk kāñciraṅkāy īntatēl
-muṟpavattil ceyta viṉi.      22
-kaṟpiḷavō(ṭu) oppar kayavar kaṭuñciṉattup
-poṟpiḷavō(ṭu) oppārum pōlvārē - viṟpiṭittu
-nīrkiḻiya eyta vaṭuppōla māṟumē
-cīroḻuku cāṉṟōr ciṉam.      23
-naṟṟāmarik kayattil nal aṉṉam cērtāṟpōl
-kaṟṟārik kaṟṟāṟē kāmuṟuvar - kaṟpilā
-mūrkkari mūrkkarē mukappar mutukāṭṭil
-kākki ukakkum piṇam.      24
-nañcuṭimi tāṉaṟintu nākam karantuṟiyum
-añcāp puṟaṅkiṭakkum nīrppāmpu - neñcil
-karavuṭiyār tammik karappar karavār
-karavilā neñcat tavar.      25
-maṉṉaṉum mācaṟak kaṟṟōṉum cīrtūkkiṉ
-maṉṉaṉil kaṟṟōṉ ciṟappuṭiyaṉ - maṉṉarkkut
-taṉtēcam allāl ciṟappilli kaṟṟōṟkuc
-ceṉṟiṭam ellām ciṟappu.      26
-kallāta māntarkkuk kaṟṟuṇarntār colkūṟṟam
-allāta māntark(ku) aṟamkūṟṟam - melliya
-vāḻikkut tāṉīṉṟa kāykūṟṟam kūṟṟamē
-illiṟ(ku) icintu oḻukāp peṇ.      27
-cantaṉa meṉkuṟaṭu tāṉtēynta kālattum
-kantam kuṟipaṭā (tu;) ātalāl - tamtam
-taṉamciṟiyar āyiṉum tārvēntar kēṭṭāl
-maṉamciṟiyar āvarō maṟṟu.      28
-maruviṉiya cuṟṟamum vāṉporuḷum nalla
-uruvum uyarkulamum ellām -tirumaṭanti
-ākumpō(tu) avaḷōṭum ākum; avaḷpirintu
-pōmpō(tu) avaḷōṭu (m) pōm.      29
-cāntaṉiyum tīyaṉavē ceytiṭiṉum tāmavari
-āntaṉiyum kāppar aṟivuṭiyōr - māntar
-kuṟikkum taṉiyum kuḷirniḻalit tantu
-maṟikkumām kaṇṭīr maram.      30
-
-------------------------------------------------------------------------
-
-4. nalvaḻi
-
-kaṭavuḷ vāḻttu
-
-pālum teḷitēṉum pākum paruppumivi
-nālum kalantuṉakku nāṉ taruvēṉ - kōlamcey
-tuṅkak karimukattu tūmaṇiyē nī eṉakku
-caṅkat tamiḻ mūṉṟum tā
-nūl
-puṇṇiyamām pāvampōl pōṉanāḷ ceytaavi
-maṇṇil piṟantārkku vittaporuḷ -eṇṇuṅkāl
-ītoḻiya vēṟilli; eccamayattōr collum
-tītoḻiya naṉmi ceyal.      1
-cāti iraṇṭoḻiya vēṟilli cāṟṟuṅkāl
-nīti vaḻuvā neṟimuṟiyiṉ - mētiṉiyil
-iṭṭār periyār iṭātār iḻikulattār
-paṭṭāṅkil uḷḷa paṭi.      2
-iṭumpik(ku) iṭumpi iyaluṭam(pu) itaṉṟē
-iṭumpoyyi meyyeṉ(ṟu) irātē - iṭuṅkaṭuka
-uṇṭāyiṉ uṇṭākum ūḻil peruvalinōy
-viṇṭārik koṇṭāṭum vīṭu.      3
-eṇṇi orukarumam yārkkumcey oṇṇātu
-puṇṇiyam vanteytu pōtallāl - kaṇṇillāṉ
-māṅkāy viḻaveṟinta māttirikkōl okkumē
-āṅkālam ākum avarkku.      4
-varunti aḻittālum vārāta vārā
-poruntuvaṉa pōmi(ṉ) eṉṟāl pōkā - iruntēṅki
-neñcam puṇṇāka neṭuntūram tāmniṉintu
-tuñcuvatē māntar toḻil.      5
-uḷḷatu oḻiya oruvark(ku) oruvarcukam
-koḷḷak kiṭiyā kuvalayattil -veḷḷak
-kaṭalōṭi mīṇṭum kariyēṟiṉāl eṉ
-uṭalōṭu vāḻum uyirkku.      6
-ellāppaṭiyālum eṇṇiṉāl ivvuṭampu
-pollāp puḻumalinōy puṉkurampi -nallār
-aṟintiruppār ātaliṉāl āmkamala nīrpōl
-piṟintiruppār pēcār piṟarkku.      7
-īṭṭum poruḷmuyaṟci eṇṇiṟanta āyiṉumūḻ
-kūṭṭum paṭiyaṉṟik kūṭāvām - tēṭṭam
-mariyāti kāṇum makitalattīr kēṇmiṉ
-tariyātu kāṇum taṉam.      8
-āṟṟup perukkaṟ ṟaṭicuṭuman nāḷumavvā(ṟu)
-ūṟṟup perukkāl ulakūṭṭum - ēṟṟavarkku
-nalla kuṭipiṟantār nalkūrntār āṉālum
-illi eṉa māṭṭār icintu .      9
-āṇṭāṇṭu tōṟum aḻutu puraṇṭālum
-māṇṭār varuvarō mānilattīr - vēṇṭā!
-namakkum atuvaḻiyē! nāmpōm aḷavum
-emakkeṉ? eṉ(ṟu) iṭṭu, uṇṭu, irum      11
-orunāḷ uṇavi oḻiyeṉṟāl oḻiyāy
-irunāḷukku ēleṉṟāl ēlāy - orunāḷum
-eṉnō(vu) aṟiyāy iṭumpikūr eṉvayiṟē
-uṉṉōṭu vāḻtal aṟitu.      11
-āṟṟaṅ kariyiṉ maramum aracaṟiya
-vīṟṟirunta vāḻvum viḻum aṉṟē - ēṟṟam
-uḻutuṇṭu vāḻvataṟku oppilli kaṇṭīr
-paḻutuṇṭu vēṟōr paṇikku,      12
-āvāri yārē aḻippar atuvaṉṟic
-cāvāri yārē tavirppavar- ōvāmal
-aiyam pukuvāri yārē vilakkuvār
-meyam puviyataṉ mēl.      13
-piccikku mūtta kuṭivāḻkki pēcuṅkāl
-iccipala colli iṭittuṇki - ciccī
-vayiṟu vaḷarkkikku māṉam aḻiyātu
-uyirviṭuki cāla uṟum.      14
-civāya nama eṉṟu cintit tiruppōrkku
-apāyam orunāḷum illi - upāyam
-ituvē(;) matiyākum allāta ellām
-vitiyē matiyāy viṭum.      15
-taṇṇīr nilanalattāl takkōr kuṇamkoṭiyāl
-kaṇṇīrmi māṟāk karuṇiyāl - peṇṇīrmi
-kaṟpaḻiyā āṟṟal kaṭalcūḻnta viyakattuḷ
-aṟputamām eṉṟē aṟi.      16
-ceytī viṉiyirukkat teyvatti nontakkāl
-eyta varumō irunitiyam?- viyattu
-"aṟum-pāvam!" eṉṉa aṟintu aṉṟiṭārkku iṉṟu
-veṟumpāṉi poṅkumō mēl?      17
-peṟṟār piṟantār perunāṭṭār pērulakil
-uṟṟār ukantār eṉavēṇṭār - maṟṟōr
-iraṇam koṭuttāl iṭuvar(;) iṭārē
-caraṇam koṭuttālum tām.      18
-cēvittum ceṉṟirantum teṇṇīrk kaṭalkaṭantum
-pāvittum pārāṇṭum pāṭṭicittum - pōvippam
-pāḻiṉ uṭampi vayiṟṟiṉ koṭumiyāl
-nāḻi aricikkē nām.      19
-ammi tuṇiyāka āṟiḻinta vāṟokkum
-kommi mulipakarvār koṇṭāṭṭam -immi
-maṟumikkum naṉṟaṉṟu mānitiyam pōkki
-veṟumikku vittāy viṭum.      20
-nīrum niḻalum nilampotiyum neṟkaṭṭum
-pērum pukaḻum peruvāḻvum - ūrum
-varuntiruvum vāḻnāḷum vañcamillārk keṉṟum
-tarumcivanta tāmariyāḷ tāṉ.      21
-pāṭupaṭṭut tēṭip paṇattip putittuvittuk
-kēṭukeṭṭa māṉiṭarē kēḷuṅkaḷ - kūṭuviṭṭuṅ(ku)
-āvitāṉ pōyiṉapiṉ yārē aṉupavippār
-pāvikāḷ antap paṇam.      22
-vētāḷam cērumē veḷḷerukkup pūkkumē
-pātāḷa mūli paṭarumē - mūtēvi
-ceṉṟiruntu vāḻvaḷē cēṭaṉ kuṭipukumē
-maṉṟōram coṉṉār maṉi.      23
-nīṟillā neṟṟipāḻ(;) neyyillā uṇṭipāḻ
-āṟillā ūruk (ku) aḻakupāḻ - māṟil
-uṭaṉpiṟap pillā uṭampupāḻ (;) pāḻē
-maṭakkoṭi illā maṉi.      24
-āṉa mutalil atikam celavāṉāl
-māṉam aḻintu matikeṭṭup - pōṉatici
-ellārkkum kaḷḷaṉāy ēḻpiṟappum tīyaṉāy
-nallārkkum pollaṉām nāṭu.      25
-māṉam kulam kalvi vaṇmi aṟivuṭimi
-tāṉam tavaruyarcci tāḷāṇmi - tēṉiṉ
-kacivanta colliyarmēl kāmuṟutal pattum
-pacivantiṭap paṟantu pōm.      26
-oṉṟi niṉikkiṉ atuoḻintiṭ ṭoṉṟākum
-aṉṟi atuvariṉum vanteytum - oṉṟi
-niṉiyāta muṉvantu niṟpiṉum niṟkum
-eṉiyāḷum īcaṉ ceyal.      27
-uṇpatu nāḻi uṭuppatu nāṉkumuḻam
-eṇpatu kōṭi niṉintu eṇṇuvaṉa - kaṇputinta
-māntar kuṭivāḻkki maṇṇiṉ kalampōlac
-cāntuṇiyum cañcalamē tāṉ.      28
-marampaḻuttāl vuvāli vāveṉṟu kūvi
-irantaḻippār yāvarumaṅ killi - curantamutam
-kaṟṟā taralpōl karavātu aḷipparēl
-uṟṟār ulakat tavar.      29
-tāmtāmmuṉ ceytaviṉi tāmē aṉupavippār
-pūntā mari yōṉ poṟivaḻiyē - vēntē
-oṟuttāri eṉceyalām ūrellām oṉṟā
-veṟuttālum pōmō viti .      30
-iḻukkuṭiya pāṭṭiṟ(ku) icinaṉṟu(;) cālum
-oḻukkam uyarkulattiṉ naṉṟu - vaḻukkuṭiya
-vīrattiṉ naṉṟu viṭānōy(;) paḻikkañcāt
-tārattiṉ naṉṟu taṉi.      31
-āṟiṭum mēṭum maṭuvumpō lāmcelvam
-māṟiṭum ēṟiṭum mānilattīr - cōṟiṭum
-taṇṇīrum vārum tarumamē cārpāka
-uṇṇīrmi vīṟum uyarntu.      32
-veṭṭeṉavi mettaṉavi vellāvām(;) vēḻattil
-paṭṭuruvum kōlpañcil pāyātu - neṭṭiruppup
-pārikku nekkuviṭāp pāṟi pacumarattiṉ
-vērukku nekku viṭum.      33
-kallāṉē āṉālum kipporuḷoṉ ṟuṇṭāyiṉ
-ellārum ceṉṟaṅ ketirkoḷvar - illāṉi
-illāḷum vēṇṭāḷ(;) maṟ ṟīṉṟeṭutta tāyvēṇṭāḷ
-cellā(tu) avaṉvāyiṟ col.      34
-pūvātē kāykkum maramuḷa makkaḷuḷum
-ēvātē niṉṟuṇarvār tāmuḷarē - tūvā
-virittālum naṉṟākā vitteṉavē pētikku
-urittālum tōṉṟā(tu) uṇarvu.      35
-naṇṭucippi vēykatali nācamuṟuṅ kālattil
-koṇṭa karuvaḷikkum koḷkipōl - oṇtoṭī
-pōtam taṉamkalvi poṉṟavarum kālamayal
-mātarmēl vippār maṉam.      36
-viṉippayaṉi velvataṟku vētam mutalām
-aṉittāya nūlakattum illi - niṉippateṉak
-kaṇṇuṟuva tallāl kavalip paṭēl neñcē
-viṇṇuṟuvārk killi viti.      37
-naṉṟeṉṟum tīteṉṟum nāṉeṉṟum tāṉeṉṟum
-aṉṟeṉṟum āmeṉṟum ākātē - niṉṟanili
-tāṉatām tattuvamām campaṟuttār yākkikkup
-pōṉavā tēṭum poruḷ.      38
-muppatām āṇṭaḷavil mūṉṟaṟṟu oruporuḷit
-tappāmal taṉṉuḷ peṟāṉāyiṉ - ceppum
-kaliyaḷavē ākumām kārikiyār taṅkaḷ
-muliyaḷavē ākumām mūppu.      39
-tēvar kuṟaḷum tirunāṉ maṟimuṭivum
-mūvar tamiḻum muṉimoḻiyum - kōvi
-tiruvā cakamum tirumūlar collum
-oruvā cakameṉ ṟuṇar.      40
-
-------------------------------------------------------------------------
-
-This unicode version was last revised on 8 July 2021.
-Please send your comments and corrections to the webmaster
-(pmaduri@gmil.com)
+   This unicode version was last revised on 8 July 2021.
+   Please send your comments and corrections to the webmaster
+   (pmadurai@gmail.com)

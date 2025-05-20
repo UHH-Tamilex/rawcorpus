@@ -1,788 +1,931 @@
-[]
+                                 [pmdr0.gif]
+                     ___________________________________
 
-------------------------------------------------------------------------
+                               ponniyin celvan
+                              of kalki, part 2F
+                      (in tamil script, unicode format)
 
-ponniyin celvan of kalki, part 2F (in tamil script, unicode format)
+                         amarar kalki avarkaḷiṉ
+                           poṉṉiyiṉ celvaṉ
+                  iraṇṭām pākam - cuḻaṟkāṟṟu
+                     ___________________________________
 
-amarar kalki avarkaḷiṉ poṉṉiyiṉ celvaṉ  iraṇṭām pākam - cuḻaṟkāṟṟu
+   [1]nūlaṭakkam
+   [2]mutalāvatu pākam - putu veḷḷam
+   [3]iraṇṭām pākam - cuḻaṟkāṟṟu
+   [4]mūṉṟām pākam - kolai vāḷ
+   [5]nāṉkām pākam - maṇimakuṭam
+   [6]aintām pākam - tiyākac cikaram
+   [7]muṭivurai
+     __________________________________________________________________
 
-------------------------------------------------------------------------
+   Acknowledgements:
+   Etext donation : AU-KBC Research Center (Mr. Baskaran), Anna
+   University, Chennai, India
+   Proof-reading: Mr. S. Anbumani, Mr. N.D. Logasundaram, Mr. Narayanan
+   Govindarajan, Ms. Pavithra Srinivasan, Mr. Ramachandran Mahadevan, Ms.
+   Sathya, Mr. Sreeram Krishnamoorthy, Dr. Sridhar Rathinam, Mrs. Srilatha
+   Rajagopal, Mr. Vinoth Jagannathan
+   Web version: Mr. S. Anbumani, Blacksburg, Virginia, USA
 
-nūlaṭakkam
-mutalāvatu pākam - putu veḷḷam
-iraṇṭām pākam - cuḻaṟkāṟṟu
-mūṉṟām pākam - koli vāḷ
-nāṉkām pākam - maṇimakuṭam
-aintām pākam - tiyākac cikaram
-muṭivuri
-
-------------------------------------------------------------------------
-
-Acknowledgements:
-Etext donation : AU-KBC Research Center (Mr. Baskaran), Anna University,
-Chenni,India
-Proof-reading: Mr. S. Anbumani, Mr. N.D. Logasundaram,Mr. Narayanan
-Govindarajan, Ms. Pavithra Srinivasan, Mr. Ramachandran Mahadevan,Ms.
-Sathya, Mr. Sreeram Krishnamoorthy, Dr. Sridhar Rathinam, Mrs. Srilatha
-Rajagopal, Mr. VinothJagannathan
-Web version: Mr. S. Anbumani, Blacksburg, Virginia, USA
-
-This webpage presents the Etxt in Tamil script but in Unicode encoding.
-To view the Tamil text correctly you need to set up the following:
-i). You need to have Unicode fonts contining Tamil Block (Latha,
-Arial Unicode MS, TSCu_Inimathi, Code2000, UniMyli,...) installed on
-your computer
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
-XP).
-ii)Use a browser that is capable of handling UTF-8 based pages
-(Netscape 6, Internet Explorer 5) with the Unicode Tamil fontchosen as
-the default font for the UTF-8 char-set/encoding view.
-. In case of difficulties send an emil request to kalyan@geocities.com
-or kumar@vt.edu
-© Project Maduri 1999 - 2003
-Project Maduri is an open, voluntary, worldwide initiative devotedto
-preparation of electronic texts of tamil literary works and to
-distributethem free on the Internet. Detils of Project Maduri are
-avilable atthe website
-
-http://www.projectmaduri.org/
-
-You are welcome to freely distribute this file, provided this headerpage
-is kept intact.
-
-------------------------------------------------------------------------
+   This webpage presents the Etxt in Tamil script but in Unicode encoding.
+   To view the Tamil text correctly you need to set up the following:
+   i). You need to have Unicode fonts containing Tamil Block (Latha,
+   Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on
+   your computer
+   and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows
+   XP).
+   ii)Use a browser that is capable of handling UTF-8 based pages
+   (Netscape 6, Internet Explorer 5) with the Unicode Tamil fontchosen as
+   the default font for the UTF-8 char-set/encoding view.
+   . In case of difficulties send an email request to
+   [8]kalyan@geocities.com or [9]kumar@vt.edu
+   © Project Madurai 1999 - 2003
+   Project Madurai is an open, voluntary, worldwide initiative devoted to
+   preparation of electronic texts of tamil literary works and to
+   distribute them free on the Internet. Details of Project Madurai are
+   available at the website
+   [10]http://www.projectmadurai.org/
+   You are welcome to freely distribute this file, provided this header
+   page is kept intact.
+     __________________________________________________________________
 
 iraṇṭām pākam - cuḻaṟkāṟṟu
 
-aimpattoṉṟām attiyāyam - cuḻik kāṟṟu
-aimpattiraṇṭām attiyāyam - uṭinta paṭaku
-aimpattu mūṉṟām attiyāyam - apaya kītam
+   [11]aimpattoṉṟām attiyāyam - cuḻik kāṟṟu
+   [12]aimpattiraṇṭām attiyāyam - uṭainta paṭaku
+   [13]aimpattu mūṉṟām attiyāyam - apaya kītam
+     __________________________________________________________________
 
-------------------------------------------------------------------------
+   aimpattoṉṟām attiyāyam
+   cuḻik kāṟṟu
+   kāṟṟu acaiyavillai; kaṭal āṭavillai; kappalum nakaravillai. alaiyaṟṟa
+   amaitiyāṉa ēriyaippōl kāṇappaṭṭa kaṭalai nōkkiyavaṇṇam vantiyattēvaṉ
+   ciṟitu nēram cummāyiruntāṉ.avaṉ uḷḷattil maṭṭum pēralaikaḷ eḻuntu
+   viḻuntaṉa. tiṭīreṉṟu iru karaṅkaḷaiyum kaṭalai nōkki nīṭṭik koṇṭu, 'ōm
+   hrīm hrām vaṣaṭ!' eṉṟu kūviṉāṉ. maṟukaṇattil kaiyil kattiyai
+   eṭuttukkoṇṭāṉ. cakkarākāramāka iraṇṭu taṭavai cuḻaṟṟiṉāṉ.
+   "ām! ām! camuttira rājaṉ pali kēṭkiṟāṉ! iraṭṭaip pali kēṭkiṟāṉ.
+   tūṅkukiṟavarkaḷait tākkik kollum iraṇṭu cūrarkaḷaip paliyākak koṭu eṉṟu
+   kēṭkiṟāṉ! pali koṭuttāl tāṉ mēlē inta marakkalattaip pōka viṭuvēṉ
+   eṉkiṟāṉ. eṅkē! uṭaṉē appaṭi iraṇṭu pērum vantu talaiyai nīṭṭuṅkaḷ!
+   cīkkiram!" eṉṟu ārpparittāṉ.
+   ravitāsaṉ vantiyattēvaṉai viyappuṭaṉ uṟṟup pārttāṉ. "hā! hā! hā!" eṉṟa
+   maṟupaṭiyum pēy cirippatu pōl cirittāṉ. "tampi! itu eṉṉa viḷaiyāṭṭu?"
+   eṉṟāṉ.
+   "aṇṇaṉmārkaḷē! itu viḷaiyāṭṭu alla; viṉai! caṟṟu muṉ nāṉ kīḻē
+   kaṭṭappaṭṭuk kiṭantapōtu ciṟitu tūṅkip pōṉēṉ. appōtu kaṉavu kaṇṭēṉ.
+   kaṭalaiyum vāṉattaiyum oṉṟucērtta pūtam pōṉṟa nīla niṟa uruvama oṉṟu eṉ
+   muṉṉāl niṉṟatu. ētō colliyatu. atu eṉṉaveṉṟu appōtu puriyavillai;
+   ippōtu purintatu! mantira tantiraṅkaḷil tērnta kāḷi pakatarkaḷ iraṇṭu
+   pēruṭaiya uyirp pali vēṇṭum eṉṟu camuttira rājaṉ
+   kōrukiṟāṉ.koṭukkāviṭṭāl intak kappalai mēlē pōka viṭamuṭiyātu eṉṟum
+   collukiṟāṉ. āṟu muraṭṭu arāpiyarkaḷiṉ uyirp paliyiṉāl avaṉ tirupti
+   aṭaiyavillai. vāruṅkaḷ! cīkkiram!" eṉṟu kūṟi, vantiyattēvaṉ kaiyil
+   piṭitta kattiyai vāṉai nōkki uyarttiṉāṉ.
+   ravitāsaṉum, tēvarāḷaṉum oruvar mukattai oruvar pārttuk koṇṭārkaḷ.
+   ravitāsaṉum, "tampi! katai kaṭṭuvatil uṉṉaip pōṉṟa keṭṭikkāraṉai nāṉ
+   pārttatēyillai!" eṉṟāṉ.
+   vantiyattēvaṉ, "ō! nāṉ colluvatil uṅkaḷukku nampikkai illaiyā? katai
+   kaṭṭukiṟēṉā? camuttira rājaṉē inta mūṭarkaḷukku nīyē maṟumoḻi col!"
+   eṉṟu kūviṉāṉ. avaṉ avvāṟu kūviya kural camuttira rājaṉuṭaiya kātilē
+   kēṭpatu pōlum. ataṟku maṟumoḻi kūṟavum camuttiram rājaṉ virumpiṉāṉ
+   pōlum!
+   kaṭalil appōtu oru vintaiyāṉa kāṭci teṉpaṭṭatu. kaṇṇuk keṭṭiya tūram
+   nālu ticaikaḷilum kaṭal oru cilirppuc cilirttatu. ciṟiya ciṟiya ciṉṉañ
+   ciṟiya alaikaḷ āyiramāyiram eḻuntu viḻuntaṉa. itu oru nimiru nērantāṉ.
+   aṭutta nimiruttil avvaḷavu alaikaḷum veḷḷiya nuraiyiṉ nuṇ tuḷikaḷāka
+   māṟiṉa. virintu paranta kaṭaṟ piratēcameṅkum anta veṇ nuraittuḷikaḷ
+   tuḷḷi viḷaiyāṭiṉa. vicālamāṉa pacumpul taraiyil kōṭi kōṭi kōṭit tumpai
+   malarkaḷai iḷaṅkāṟṟil uruṇṭu uruṇṭu uruṇṭu pōyk koṇṭiruntāl eppaṭi
+   irukkum! avvāṟu iruntatu accamayam kaṭaliṉ kāṭci!
+   ām; ilēcāṉa iḷaṅkāṟṟu, - iṉiya kuḷirnta kāṟṟa - anta marakkalattaiyum
+   oru kaṇam taḻuvikkoṇṭu appāl ceṉṟatu. kappalil oru cilirppuc
+   cilirttatu. veppattiṉāl vaṟaṇṭirunta vantiyattēvaṉuṭaiya uṭalum
+   cilirḻūttatu. ravitāsaṉum, tēvarāḷaṉum 'hā hā hā!' eṉṟu cirittārkaḷ!
+   "tampi! camuttira rājaṉē uṉ kēḷvikku maṟumoḻi colliviṭṭāṉ! nāṅkaḷ
+   eṅkaḷaip pali koṭukka āyattamāka vēṇṭiyatutāṉ!" eṉṟāṉ ravitāsaṉ.
+   vantiyattēvaṉ uḷḷam kalakkamuṟṟu. kaṭalilē ēṟpaṭṭa antac cilu ciluppum
+   uṭaṉē ēṟpaṭṭa māṟutalum avaṉait tikaikkac ceytiruntaṉa. ākā! itu eṉṉa?
+   avvaḷavu āyiramāyiram ciṟiya alaikaḷum kōṭāṉu kōṭi veṇ nuraittuḷikaḷum
+   eṅkē pōyiṉa? māyamāyp pōy viṭṭaṉavē? maṟupaṭiyum kaṭal amaitiyuṟṟup
+   paccai niṟattakaṭu pōl kāṇappaṭukiṉṟatē! caṟṟu muṉ kaṇṭa kāṭci
+   uṇmaiyāka nikaḻntatā? allatu veṟum piramaiyā? oruvēḷai inta mantiravāti
+   ravitāsaṉiṉ mantira caktiyākattāṉ irukkumō!
+   "atō pārttāyā? tampi! kaṭal kūṟiyatai vāṉamum āmōtikkiṟatu!" eṉṟu
+   ravitāsaṉ teṉmēṟkut ticaiyaic cuṭṭik kāṭṭiṉāṉ. avaṉ kāṭṭiya ticaiyil -
+   paccaik kaṭalum nīla vāṉamum oṉṟu cērum mūlaiyil, - oru ciṉṉañ ciṟu
+   kariyamēkat tuṇukku oru cāṇ uyaram eḻuntu niṉṟatu. antak kariya mēkat
+   tuṇukkiṉ uccip pakuti cekkac cevēleṉṟu irattac cikappu varṇattuṭaṉ
+   tikaḻntatu. cātāraṇa nāṭkaḷil intat tōṟṟattai vantiyattēvaṉ
+   kavaṉittirukkavē māṭṭāṉ. kaṭalum vāṉum cērum mūlaiyil mēkattiraḷ
+   kāṇappaṭuvatu ōr āccariyamā, eṉṉa? illaitāṉ! āyiṉum antac ciṟiya
+   tōṟṟamum anta vēḷaiyil nam katānāyakaṉuṭaiya maṉattaic ciṟitu kalakki
+   viṭṭatu.
+   maṟu kaṇattil vantiyattēvaṉ camāḷittuk koṇṭāṉ. inta mantirava ātiyiṉ
+   valaiyil nām viḻuntu viṭakkūṭātu. eṉṟu maṉattiṟkuḷ uṟuti ceytu koṇṭāṉ.
+   ravitāsaṉ oru taṭavaiyum tēvarāḷaṉai oru taṭavaiyum viḻittuppārttu,
+   "appaṭiyāṉāl ēṉ tāmatam? vāruṅkaḷ!" eṉṟu collik kattiyai vīciṉāṉ.
+   "appaṉē! nāṅkaḷ paliyāvataṟku muṉṉāl eṅkaḷ kulateyvattaip pirārttaṉai
+   ceyya virumpukiṟōm. arai nāḻikai avakācam koṭu!" eṉṟāṉ ravitācaṉ.
+   "cari! pirārttaṉaiyaic colli viṭṭu uṭaṉē vāruṅkaḷ. uṅkaḷ tantira
+   mantiram oṉṟaiyum eṉṉiṭam kāṭṭavēṇṭām. kāṭṭiṉālum palikkātu!" eṉṟāṉ
+   vantiyattēvaṉ.
+   "itō vantuviṭukiṟōm. eṅkaḷuṭaiya āyutattaiyum iṅkēyē pōṭṭuviṭṭup
+   pōkiṟōm, pār!" eṉṟāṉ ravitāsaṉ. appaṭiyē iruvarum āyutaṅkaḷaik kīḻē
+   pōṭṭuviṭṭu ammarakkalattiṉ iṉṉoru puṟattukkuc ceṉṟārkaḷ. anta arai
+   nāḻikai, accamayam vantiyattēvaṉukkum tēvaiyāyiruntatu. kaṭalilum
+   vāṉilum ēṟpaṭṭa tōṟṟaṅkaḷiṉāl viḷakkamillāta kalakkam avaṉuṭaiya
+   uḷḷattil eḻuntu avaṉ uṭampaiyum ciṟitu taḷarac ceytiruntatu.avaciyam
+   nērntāl orē katti vīccil anta kirātakarkaḷ iruvaraiyum tīrttukkaṭṭa
+   avaṉ muṭivu ceytiruntāṉ. āṉāl ataṟku vēṇṭiya palam taṉ kaiyil accamayam
+   irukkumā eṉṟa aiyam ēṟpaṭṭiruntatu. ākaiyāl maṉattait
+   tiṭappaṭuttikkoṇṭu kaiyilum pūraṇa palattai varuvittuk koḷḷac ciṟitu
+   avakācam avaṉukku vēṇṭiyiruntatu.
+   teṉmēṟku mūlaiyil kavaṉam maṟupaṭiyum taṟceyalākac ceṉṟatu. caṟṟumuṉṉāl
+   cāṇ uyaram tōṉṟiya mēkattiraḷ ippōtu muḻu uyaramāka vaḷarntiruntatu.
+   ucciyil irattac cikappu niṟam ciṟitu maṅkiyiruntatu. mēkattiraḷ mēlum
+   mēlum uyarntu varuvatākata tōṉṟiyatu.
+   mutalāvatu cilu ciluppuṭaṉ niṉṟu viṭṭirunta kāṟṟu maṟupaṭiyum
+   nitāṉamāka varattoṭaṅkiyatu. kaṭalilum kalakkam kāṇapaṭṭatu. ciṟiya
+   ciṟiya alaikaḷ naṭaṉamāṭat toṭaṅkiyiruntaṉa. mēkattiraḷ mēlum mēlum
+   vāṉil uyarntu vantu koṇṭiruntatu. kāṟṟiṉ vēkamum atikarittu varuvatākat
+   tōṉṟiyatu. kappal ilēcāka acaiya ārampittatu.
+   kāṟṟiṉ rīṅkārattukkum alaikaḷiṉ calacalappukkum iṭaiyil, atu eṉṉa
+   cattam? kaṭalil ētō viḻuntatu pōl cattam kēṭṭatē! vantiyattēvaṉ
+   piṉpakkam tirumpip pārttāṉ. ravitācaṉaiyum tēvarāḷaṉaiyum kāṇavillai.
+   atil aticayamum illai. kappaliṉ maṟuppakkattilē avarkaḷ iruppārkaḷ.
+   pāymaraṅkaḷum kappaliṉ maiyamēṭaiyum avarkaḷai maṟaittirukkiṉṟaṉa.
+   ā! itu eṉṉa? tuṭuppukaḷiṉāl paṭaku taḷḷum cattam allavā kēṭkiṟatu?..
+   vantiyattēvaṉ uṭaṉē ōṭic ceṉṟu kappaliṉ maṟupakkattai aṭaintāṉ.avaṉ
+   aṅkē kaṇṭa kāṭci uṇmaiyil avaṉait tiṭukkiṭac ceytatu. appaṭi naṭakkak
+   kūṭum eṉṟu avaṉ ciṟitum etirpārkkavillai.taṉṉaic
+   camaracappaṭuttuvataṟkāka avarkaḷ kalantu yōcaṉai ceyyap
+   pōyirukkiṟārkaḷ eṉṟē niṉaittāṉ. āṉāl avarkaḷ kappaliṉ maṟupakkattil
+   cērttuk kaṭṭiyirunta ciṟu paṭakai aṟuttuviṭṭuk kaṭalilē, iṟaṅki atil
+   ēṟikkoṇṭiruntārkaḷ! tuṭuppu valittup paṭakait taḷḷavum ārampittu
+   viṭṭārkaḷ!
+   vantiyattēvaṉaip pārttatum ravitāsaṉ cirittāṉ."tampi! camuttira
+   rājaṉukkup paliyāka eṅkaḷukku viruppam illai.terikiṟatā?" eṉṟāṉ.
+   vantiyattēvaṉ oru noṭiyil taṉ nilaiyai uṇarntāṉ antap periya
+   marakkalattil taṉṉait taṉiyāka viṭṭuviṭṭu, avarkaḷ pōkiṟārkaḷ. kappal
+   ōṭṭa um kalaiyaip paṟṟi avaṉukku oṉṟumē teriyātu. kaṭalil enta iṭattil
+   kappal niṟkiṟatu, entat ticaiyākap pōṉāl eṅkē pōyccēralām eṉpatoṉṟum
+   avaṉukkut teriyātu. appaṭippaṭṭa anātaravāṉa nilaiyil avaṉai viṭṭuviṭṭu
+   avarkaḷ pōkiṟārkaḷ.
+   "pāvikaḷē! eṉṉaiyum aḻaittukkoṇṭu pōkak kūṭātā?" eṉṟu kēṭṭāṉ.
+   "tampi! camuttira rājaṉukku oru palikūṭa illāmaṟ pōkalāmā?" eṉṟāṉ
+   ravitācaṉ. paṭaku kappalai viṭṭu akaṉṟu pōykkoṇṭēyiruntatu.
+   'kaṭalil kutittup paṭakaip pōyp piṭikkalāmā?' eṉṟu vantiyattēvaṉ oru
+   kaṇam niṉaittāṉ. uṭaṉē anta eṇṇattaik kaiviṭṭāṉ. avaṉukkō naṉṟāka
+   nīntat teriyātu. kappaliliruntu kutippataṟkē maṉam tiṭappaṭātu. appaṭik
+   kutittut taṭṭut taṭumāṟic ceṉṟu paṭakaip piṭittālum antak kirātakarkaḷ
+   eṉṉa ceyvārkaḷō, eṉṉamō? taṉṉiṭam avarkaḷuṭaiya irakaciyattai vauiyiṭṭu
+   viṭṭārkaḷ! tāṉ avarkaḷuṭaṉ orunāḷum cērap pōvatillaiyeṉpataiyum terintu
+   koṇṭārkaḷ. paṭakaip piṭikkap pōkum camayattil avarkaḷ taṉṉait
+   tuṭuppiṉāl aṭittuk kollap pārkkalām. tāṉ taṇṇīril tattaḷittuk koṇṭē
+   paṭakil uḷḷavarkaḷuṭaṉ caṇṭai pōṭa muṭiyātallavā?
+   'pōkaṭṭum! pōyt tolaiyaṭṭum! antac caṇṭāḷak kolaikkārarkaḷuṭaṉ oru
+   paṭakilē iruppataik kāṭṭilum intap periya kappalil taṉṉantaṉiyāka
+   iruppatē mēl! itaṟku muṉṉāl ettaṉaiyō caṅkaṭaṅkaḷiliruntu kaṭavuḷiṉ
+   kirupaiyiṉāltāṉ tappip piḻaikkavillaiyā? inta apāyattiliruntu
+   tappuvataṟkum kaṭavuḷ ētēṉum vaḻi kāṭṭuvār! pāvikaḷ pōkaṭṭum...
+   āṉāl avarkaḷai uyiruṭaṉ pōkaviṭṭatu cariyā? avarkaḷ eṅkē pōyk karai
+   ēṟuvārkaḷō? iṉṉum eṉṉeṉṉa ca ḻccikaḷaiyum kōra kirutyaṅkaḷaiyum
+   ceyvārkaḷō? kaṭavuḷ irukkiṟār, nām eṉṉa ceyya muṭiyum? eppaṭiyāvatu
+   iḷavaracaruṭaṉ maṟumuṟai cērntu viṭṭāl pōtum! iruntālum avar ippaṭi
+   eṉṉaik kaiviṭṭirukkakkūṭātu! pūṅkuḻaliyuṭaṉ eṉṉaiyum yāṉai mītu ēṟṟi
+   aḻaittup pōyirukkalām. maṟupaṭiyum avaraic cantikka nērntāl, kaṭṭāyam
+   palamākac caṇṭai piṭikka vēṇṭum. "uṅkaḷ paḻamaiyāṉa cōḻa kulattiṉ
+   cinēkatarmam itutāṉā?" eṉṟu kēṭka vēṇṭum. āṉāl appaṭik kēṭkum
+   cantarppam varappōkiṟatā?..iḷavaracarai mīṇṭum pārkkap pōkiṟōmā?... ēṉ
+   pārkka muṭiyātu? nāṉ intac caṅkaṭattil akappaṭṭuk koṇṭataic
+   cēnātipatiyum āḻvārkkaṭiyāṉum pārttirukkiṟārkaḷ. avarkaḷ ētāvatu
+   ceyyāmalā iruppārkaḷ? iḷavaracarai avarkaḷ cantittiruntāl kaṭṭāyam
+   colliyiruppārkaḷ allavā?'
+   ippaṭi vantiyattēvaṉ yōcittuk koṇṭu niṉṟa nērattil paṭaku kaṭalil
+   vekutūram pōyviṭṭatu eṉpataik kavaṉittāṉ. paṭaku avvaḷavu vēkamākac
+   ceṉṟatu. eppaṭi? paṭaku maṭṭum pōkavillai; tāṉ ēṟiyirunta kappalum
+   ilēcāka acaintu nakarntu koṇṭirukkiṟatu. ataṉālētāṉ kappalukkum
+   paṭakukkum avvaḷavu cīkkirattil avvaḷavu tūram ēṟpaṭṭuviṭṭatu! kaṭalil
+   alaikaḷ peritākik koṇṭu varuvataiyum vantiyattēvaṉ pārttāṉ. atu
+   maṭṭuntāṉā? itu eṉṉa? paṭṭappakalil tiṭīreṉṟu oru pakkam iruṇṭu
+   varukiṟatē!
+   teṉmēṟkut ticaiyai vantiyattēvaṉ nōkkiṉāṉ. caṟṟu muṉṉāl muḻa uyaram
+   terinta mēkam ataṟkuḷ pirammāṇṭamāka vaḷarntu paṭarntu mēṟku vāṉattaip
+   perumpālum maṟaittu viṭṭataik kaṇṭāṉ.iṉṉum ammēkaṅkaḷ tiṭṭuttiṭṭākat
+   tiraṇṭu puraṇṭu vāṉattil eku vēkamāka mēlēṟi vantaṉa. avaṉ pārttuk
+   koṇṭirukkum pōtē mēṟku vāṉattil pāti tūram iṟaṅkiyirunta cūriyaṉai
+   maṟaittu viṭṭaṉa. piṟaku mēṟkut ticaiyum teṟkutticaiyum mēlum iruṇṭu
+   vantaṉa. vāṉattiṉ kariya mēkaṅkaḷ kaṭalilum piratipalittuk
+   kaṭalnīraiyum kariya mai niṟamākac ceytaṉa. kaṭal eṅkē muṭikiṟatu.
+   vāṉam eṅkē toṭaṅkukiṟatu eṉṟu kaṇṭu piṭikka muṭiyāmal kaṭalum vāṉamum
+   orē kaṉṉaṅkariya iruḷniṟam peṟṟiruntaṉa.
+   mēkattiraḷkaḷ mēlum puraṇṭu uruṇṭu vantiyattēvaṉuṭaiya talaikku mēlē
+   vantaṉa. piṟaku kīḻt ticaiyilum iṟaṅkat toṭaṅkiṉa. paṭaku ceṉṟa
+   ticaiyai vantiyattēvaṉ nōkkiṉāṉ. paṭaku irunta iṭamē teriyavillai.
+   avaṉuṭaiya pārvaiyiṉ ellaikku appāl pōyviṭṭatu pōlum! kāṟṟiṉ melliya
+   rīṅkāram 'hō' eṉṟa perum iraiccalāka māṟiviṭṭatu.
+   attuṭaṉ, nimiṣattukku nimiṣam peritāki vanta alaikaḷiṉ iraiccalum
+   cērntatu. kappalil virittirunta pāykaḷ caṭapaṭaveṉṟu aṭittuk koṇṭaṉa.
+   maraṅkaḷum kaṭṭaikaḷum oṉṟōṭoṉṟu urāyntu āyiram kuṭumik katavukaḷaik
+   tiṟantu mūṭum cattattai uṇṭākkiṉa. pāymaraṅkaḷai vantiyattēvaṉ aṇṇāntu
+   pārttāṉ. avaṟṟiṉ nilaiyiliruntu kappal oru ticaiyākap pōkāmal cuḻaṉṟu
+   cuḻaṉṟu varukiṟatu eṉṟu terintu koṇṭāṉ.
+   'cuḻikkāṟṟu' eṉṟu aṭikkaṭi coṉṉārkaḷē! antac cuḻikkāṟṟutāṉ
+   aṭikkappōkiṟatu pōlum! cuḻikkāṟṟu aṭikkum pōtu pāy maraṅkaḷiliruntu
+   pāykaḷaic cuḻaṟṟic cuṟṟi vaikka vēṇṭum eṉṟu vantiyattēvaṉuṭaiya
+   aṟivukkup pulappaṭṭatu. āṉāl avaṉ oruvaṉāl atu eppaṭi muṭiyum? pattup
+   pēr cērntu ceyya vēṇṭiya kāriyam allavā? pattuppēr illāviṭṭālum nāla u
+   pērāvatu vēṇṭum. oruvaṉ taṉiyāka eṉṉa ceyvatu? kaṭavuḷ viṭṭavaḻi
+   viṭukiṟār. kappal aṭainta katiyai aṭaikiṟatu eṉṟu cummā irukka
+   vēṇṭiyatutāṉ!
+   kappal aṭaiyappōkiṟa kati eṉṉaveṉṟu avaṉukkuc cīkkirattilēyē terintu
+   pōyiṟṟu. appaṭiyum ippaṭiyum ciṟitu nēram alaip puṇṭiruntu piṟaku
+   kaṭalil muḻukippōka vēṇṭiyatutāṉ! muḻukuvataṟku muṉṉāl cukkuc cukkāka
+   uṭaintu pōṉālum pōkum! kappaliṉ kati eppaṭiyāṉālum, taṉṉuṭaiya katiyaip
+   paṟṟic cantēkamillai!
+   naṭukkaṭalil maraṇam! antak kumpakōṇattuc cōtiṭaṉ itaippaṟṟi oru
+   vārttaiyum collavillai. pār! cōtiṭaṉām cōtiṭaṉ! avaṉai maṟupaṭi pārkka
+   nērntāl... paittiyakkārattaṉam! avaṉai maṟupaṭi pārppatu ētu?
+   tiṭīreṉṟu vantiyattēvaṉ tōḷil keṭṭiyāṉa poruḷ ētō viḻuntatu.
+   caṭapaṭaveṉṟu kappal muḻuvatum ciṟiya ciṟiya kūḻāṅ kaṟkaḷ viḻuntaṉa.
+   antak kūḻāṅ kaṟkaḷ eppaṭip paḷiṅkupōl pirakācikkiṉṟaṉa! vāṉattiliruntu
+   ivai eppaṭi viḻukiṉṟaṉa!
+   iṉṉum iraṇṭu mūṉṟu kaṟkaḷ avaṉ talaiyilum mutukilum tōḷkaḷilum
+   viḻuntaṉa. avai viḻunta iṭattil mutalil vali; piṟaku oru kuḷircci.
+   kappalil viḻunta kaṟkaḷaip pārttāl, ā! avai urukik karaintu pōy
+   koṇṭirukkiṉṟaṉavē? ā! avai urukik karaintu pōy koṇṭirukkiṉṟaṉavē? ām;
+   itupaṉikkaṭṭi maḻai; atuvarai vantiyattēvaṉ attakaiya maḻaiyaip
+   pārttatumillai; anupavittatumillai.maṭivataṟku muṉṉāl inta aṟputattaip
+   pārkka muṭintatē eṉṟa kutūkalam avaṉ uḷḷattil tōṉṟiyatu.
+   kappal taḷattil uṭkārntu, karaintu koṇṭirunta paṉikkaṭṭik kaṟkaḷait
+   toṭṭup pārttu makiḻntāṉ. appā eṉṉa cilirppu! toṭumpōtu tīyait
+   oṭuvatupōl allavā irukkiṟatu? āṉāl tī tōlaic cuṭṭut tīyppatu pōl atu
+   ceyyavillai. viraivil cūṭu kuḷircciyāki viṭukiṟatu. kal maḻai
+   etirpārāmal vantatu pōlavē caṭṭeṉṟu niṉṟatu. peyta nēram araikkāl
+   nāḻikai kūṭa irātu.
+   piṟaku cātāraṇa maḻai peyyat toṭaṅkiyatu. maḻai jalam kappalil viḻuntu
+   citaṟi ōṭik kaṭalil viḻuntuviṭuvatai vantiyattēvaṉ kavaṉittāṉ. cōḻa
+   nāṭṭu marakkalat taccarkaḷiṉ keṭṭikkārattaṉattai viyantāṉ. ettaṉai
+   maḻai peytālum ettaṉai periya alaikaḷ mōtik kaṭal jalam kappalil
+   vantālum, mīṇṭum kaṭalilēyē taṇṇīr pōy viḻumpaṭiyāka akkappal
+   amaikkappaṭṭiruntatu. kappaliṉ kīḻppakuti uṭaintu kaṭalnīr uḷḷē
+   pukuntālaṉṟi atai mūḻkaṭikka muṭiyātu!
+   itaip pārttatum avaṉukkuc ciṟitut tairiyam uṇṭāyiṟṟu. uṭaṉē oru niṉaivu
+   vantatu. taṉṉaik kaṭṭip pōṭṭirunta aṟaikkatavu tiṟantiruntāl ataṉ
+   vaḻiyākat taṇṇīr uḷḷē pukuntuviṭalām. ōṭip pōyp pārttāṉ. avaṉ
+   niṉaittapaṭi katavu tiṟantu kāṟṟil aṭittuk koṇṭiruntatu. katavai
+   iṟukkic cāttit tāḷiṭṭāṉ.
+   mēlē kāṟṟum maḻaiyum poṟukka muṭiyāmaṟ pōṉāl anta aṟaikkuḷḷē
+   pukuntukūṭat tāṉ katavait tāḷiṭṭuk koḷḷalām. piṟaku kaṭavuḷ viṭṭa vaḻi
+   viṭukiṟār eṉṟu nimmatiyāka irukkalām. ivvaḷavu pattiramāṉa kappalai
+   viṭṭu anta muṭṭāḷkaḷ iruvarum paṭakil ēṟippōy viṭṭatai niṉaittu
+   vantiyattēvaṉ anutāpappaṭṭāṉ. āṉāl antap paṭakil amaippum
+   vicittiramāṉatu tāṉ. evvaḷavu kāṟṟu aṭittālum maḻai peytālum atai mūḻka
+   aṭikka muṭiyātu. appaṭip paṭaku uṭaintu muḻukiṉālum pakkattil ataṉōṭu
+   cērttuk kaṭṭiyuḷḷa kaṭṭai oṉṟu irukkiṟatu.a aip piṭittukkoṇṭu antak
+   kolai pātakarkaḷ tappik karaicērntu viṭuvārkaḷ! anēkamākak kōṭik
+   karaikkuc camīpamākap pōykkarai ēṟuvārkaḷ.
+   kōṭikkaraiyiliruntu vantiyattēvaṉuṭaiya uḷḷam paḻaiyāṟaikkut tāviyatu.
+   cakkaravartti tirukkumārikkut taṉakku nērnta kati eppaṭit
+   teriyappōkiṟatu? avaḷ iṭṭa paṇiyai niṟaivēṟṟum muyaṟciyilē tāṉ
+   naṭukkaṭalil muḻukiyatai yār avaḷukkut terivikkap pōkiṟārkaḷ? kaṭal
+   terivikkumā? kāṟṟu ceṉṟu collumā? - kaṭavuḷē! anta mātaraciyaic
+   cantippataṟku muṉṉālēyē nāṉ iṟantu pōyirukkakkūṭātā? pōrkkaḷattil
+   vīramaraṇam eytiyirukkak kūṭātā? corkka pūmiyaik kaṇṇāl pārkkac
+   ceytuviṭṭu uṭaṉē atala pātāḷattil taḷḷuvatu pōl allavā irukkiṟatu!.
+   kāṟṟiṉ vēkam atikamākik koṇṭiruntatu. kaṭaliṉ kontaḷippu mikutiyākak
+   koṇṭiruntatu. kappaliṉ pāy maraṅkaḷ pēy picācukaḷaip pōl payaṅkaramāṉa
+   captamiṭṭuk koṇṭu āṭiṉa.
+   iruḷ mēlum mēlum kariyatākik koṇṭu vantatu. iruṭṭai viṭakkariyatāṉa
+   iruṭṭu eppaṭi irukka muṭiyum? appaṭiyum irukka muṭiyum eṉṟu
+   tōṉṟukiṟatu. tiṭīreṉṟu vāṉattil oru miṉṉal tōṉṟi oru mūlaiyiliruntu oru
+   mūlaivarai pāyntatu. ataṟkuppiṟaku tōṉṟiya iruṭṭu iruḷaiviṭak
+   kariyatāyiruntatu. miṉṉalait toṭarntu iṭimuḻakkam kēṭṭatu; kappal
+   atirntatu; kaṭal atirntatu; ticaikaḷ atirntaṉa.
+   iṉṉoru miṉṉal aṭivāṉattil iruḷaik kiḻittukkoṇṭu puṟappaṭṭatu. atu mēlum
+   mēlum nīṇṭu, kappum kiḷaiyum viṭṭup paṭarntu, paṟpala oḷikkōlaṅkaḷ
+   ākācameṅkum pōṭṭu vāṉaiyum kaṭalaiyum jōti mayamākac ceytuviṭṭu, aṭutta
+   kaṇattil aṭiyōṭu maṟaintatu. iṭi muḻakkam toṭarntatu. ammammā!
+   aṇṭakaṭākaṅkaḷ veṭittu viḻukiṉṟaṉa eṉpatil cantēkamillai. mēlum
+   miṉṉalkaḷ; iṭi muḻakkaṅkaḷ. 'iṉṉum vāṉam piḷakkavillaiyē; itu eṉṉa
+   aticayam!" eṉṟu vantiyattēvaṉ eṇṇamiṭṭāṉō, illaiyō, antak kaṇamē ākācam
+   veṭittup piḷantatu. veṭitta piḷappiṉ vaḻiyākap piraḷaya veḷḷam
+   poḻintatu.
+   ām; atai maḻai eṉṟē colvataṟkillai. vāṉa vauiyil oru kaṭal kumuṟik
+   koṇṭiruntatu. atu tiṭīreṉṟu tōṉṟiya piḷaviṉ vaḻiyākak koṭṭuvatu pōlavē
+   iruntatu.
+   kaṭal alaikaḷ āvēca tāṇṭavamāṭiṉa. miṉṉal vauiccattil kaṇṇukkeṭṭiya
+   tūram āṭum malaic cikaraṅkaḷ kāṭci aḷittaṉa. kāṟṟiṉ kummāḷam uccattai
+   aṭaintatu. āṭum malaic cikaraṅkaḷai appaṭiyē peyarttu eṭuttu vāyu
+   pakavāṉ vāṉa vauiyil viciṟi eṟintu viḷaiyāṭiṉār. vantiyattēvaṉuṭaiya
+   kappalmītum anta nīrmalaikaḷil cila vantu mōtiṉa.
+   mēlēyiruntu maḻai veḷḷam topu topuveṉṟu koṭṭiyatu; nālā pakkamiruntum
+   alaimalaikaḷ vantu mōtittākkiṉa. viritta pāymaraṅkaḷ mītu cuḻaṟkāṟṟu
+   tākkippaṭuttiya pāṭṭaic colli muṭiyātu.ivvaḷavaiyum poṟuttukkoṇṭu antac
+   cōḻa nāṭṭut taccarkaḷ kaṭṭiya aticaya marakkalam cuḻaṉṟu cuḻaṉṟu vantu
+   koṇṭiruntatu.
+   āṉāl evvaḷavu nērantāṉ cuḻaṉṟu koṇṭirukka muṭiyum? evvaḷavu nēram anta
+   māperum pūtaṅkaḷiṉ tākkutalaik kappaliṉāl camāḷikka muṭiyum? -
+   muṭiyātu, inta viṉāṭiyō, aṭutta viṉāṭiyō, kappal muḻuka vēṇṭiyatutāṉ.
+   attuṭaṉ vantiyattēvaṉum muḻuka vēṇṭiyatutāṉ!
+   eṉiṉum, anta eṇṇam avaṉukku ippōtu cōrvai aḷikkavillai. appaṭit taṉakku
+   nērappōkum maraṇam ōr aṟputamāṉa maraṇam eṉṟu karutiṉāṉ. eḻumpik
+   kutitta alaikaḷaippōl avaṉ uḷḷamum kutūkalat tāṇṭavam āṭat toṭaṅkiyatu.
+   kāṟṟiṉ pēriraiccal, alaikaḷiṉ pēroli, iṭikaḷiṉ perumuḻakkam ivaṟṟuṭaṉē,
+   vantiyattēvaṉuṭaiya kuralum cērntatu. "hā! hā hā!" eṉṟu vāyviṭṭuc
+   cirittāṉ. antak kāṭciyaiyellām naṉṟāyp pārkka vēṇṭum eṉpataṟkākavē avaṉ
+   muṉ jākkirataiyuṭaṉ pāy marattiṉ aṭittaṇṭuṭaṉ cērttut taṉṉaik kaṭṭik
+   koṇṭiruntāṉ. kappal cuḻaṉṟapōtu pāymaramum cuḻaṉṟatu; vantiyattēvaṉum
+   cuḻaṉṟāṉ. ippaṭi ettaṉai nēram kappalum pāymaramum vantiyattēvaṉum
+   cuḻaṉṟu koṇṭiruntārkaḷ eṉṟu teriyātu. pala yukaṅkaḷākavum irukkalām,
+   cila viṉāṭikaḷākavum irukkalām. kālatēca varttamāṉa uṇarccikaḷaiyellām
+   kaṭanta amaranilaiyai vantiyattēvaṉ appōtu aṭaintiruntāṉ.
+   kāṟṟiṉ vēkam ciṟitum kuṟaivatupōlat tōṉṟiyatu. piraḷayamākak koṭṭiya
+   maḻai niṉṟu viṭṭatu.ciṟu tūṟalkaḷ pōṭṭuk koṇṭiruntaṉa. miṉṉalum iṭiyum
+   niṉṟuviṭṭatu pōlat tōṉṟiyatu. kaṭal kaṉṉaṅkariya iruḷ piḻampākat
+   tōṉṟiyatu.
+   vantiyattēvaṉ ciṟitu nērattukku muṉṉāl miṉṉalkaḷiṉ oḷi vīccait tāṅka
+   muṭiyāmal kaṇkaḷai mūṭikkoṇṭiruntāṉ. iṭikaḷiṉ peru muḻakattaik kēṭka
+   muṭiyāmal kātukaḷait taṉ kaikaḷiṉāl iṟukkip pottik koṇṭiruntāṉ. ippōtu
+   kaṇṇaittiṟantu pārttāṉ; kaikaḷai akaṟṟik kātukaḷaiyum tiṟantuviṭṭāṉ.
+   'ākā! ivvaḷavu periya cuḻikkāṟṟu vipattiliruntu nāṉ tappittukkoṇṭēṉā!
+   kaṭavuḷ kāppāṟṟi viṭṭārā? mīṇṭum paḻaiyāṟai araciḷaṅkumariyai inta
+   jaṉmattil kāṇappōkiṟēṉā? iḷavaracaraic cantittu aḷavaḷāvap
+   pōkiṟēṉā?...'
+   'ataṟkuḷ avacarappaṭakkūṭātu. intak kappal ippōtu eṅkē iru kiṟatō, yār
+   kaṇṭatu? itu pattiramāyk karaicērum eṉṟu eppaṭic colla muṭiyum? kappal
+   tappiṉālum, nāṉ uyirōṭu tappik karaiyēṟuvēṉ eṉpatu eṉṉa niccayam?'
+   'iṉṉum ettaṉai ettaṉai apāyaṅkaḷai irukkiṉṟaṉavō...?'
+   vantiyattēvaṉuṭaiya maṉattil intak kēḷvi eḻuntatum ataṟkup patil
+   colvatupōl vāṉattaik kīṟik koṇṭu oru miṉṉal miṉṉiyatu. ataṉ pirakācam
+   avaṉ kaṇṇetirē nūṟu cūriyaṉaik koṇṭuvantu niṟuttiyatu pōliruntatu.
+   iruṭṭilāvatu koñcam pārkkalām; antap payaṅkarap pirakācattil oṉṟumē
+   pārkka muṭiyavillai. taṉ kaṇkaḷaiyē ammiṉṉal paṟittuviṭṭatō eṉṟu
+   vantiyattēvaṉ añciṉāṉ. ericcal eṭutta kaṇattilēyē avaṉ cevikaḷukkum
+   āpattu vantuviṭṭatu. ettaṉaiyō iṭi muḻakkaṅkaḷai vantiyattēvaṉ muṉṉam
+   kēṭṭirukkiṟāṉ; iṉṟaikkum ettaṉaiyō kēṭṭāṉ. āṉāl ippōtu iṭitta iṭiyaip
+   pōl - cē! atu iṭiyā? intiraṉuṭaiya vajrāyutam avaṉuṭaiya kātiṉ
+   vaḻiyākap piravēcittu maṇṭaikkuḷḷēyē nuḻaintu tākkiyatu pōliruntatu.
+   caṟṟu nēram vantiyattēvaṉ kaṇkaḷaiyum tiṟakka muṭiyavillai; kātilō 'ōy'
+   eṉṟa captam kēṭṭukkoṇṭiruntatu. mūṭiyirunta kaṇkaḷ ētō camīpattil
+   talaikku mēlē putiya vauiccam paraviyiruppatai uṇarntāṉ. kātilum 'ōy'
+   cattattukku mattiyil vēṟoru vinōta captam kēṭṭatu. kāṭṭil tīppaṟṟi
+   eriyumpōtu, maraṅkaḷil tīppiṭikkumpōtu, uṇṭākum captattaip pōl
+   toṉittatu.
+   vantiyattēvaṉ kaṇṇait tiṟantu pārttāṉ. avaṉ irunta kappaliṉ pāymaram
+   ucciyil tīppaṟṟi erivataik kaṇṭāṉ.ākā! ippōtu purikiṟatu! anta miṉṉal
+   ēṉ avvaḷavu pirakācamāyiruntatu. anta iṭi ēṉ avvaḷavu cattamāka
+   olittatu eṉṟu ipa pōtu viḷaṅkukiṟatu.
+   antak kappal mēlēyō allatu, veku camīpattilō iṭi viḻuntirukkiṟatu!
+   ataṉāl pāymarattil tīppiṭittirukkiṟatu! pañca pūtaṅkaḷil iraṇṭu
+   pūtaṅkaḷ antac cōḻa nāṭṭu marakkalattait tākki aḻikkap pārttaṉa. nīrum,
+   kāṟṟum tōlviyuṟṟaṉa. varuṇaṉum, vāyuvum cātikka, muṭiyā kāriyattaik
+   cātikka ippōtu akkiṉi pakavāṉ tōṉṟiyirukkiṟār!
 
-aimpattoṉṟām attiyāyam
-cuḻik kāṟṟu
-kāṟṟu aciyavilli; kaṭal āṭavilli; kappalum nakaravilli. aliyaṟṟa amitiyāṉēriyippōl
-kāṇappaṭṭa kaṭali nōkkiyavaṇṇam vantiyattēvaṉ ciṟitu nēram cummāyiruntāṉ.avaṉuḷḷattil
-maṭṭum pēralikaḷ eḻuntu viḻuntaṉa. tiṭīreṉṟu iru karaṅkaḷiyum kaṭali nōkki
-nīṭṭikkoṇṭu, 'ōm hrīm hrām vaṣaṭ!' eṉṟu kūviṉāṉ. maṟukaṇattil kiyil kattiyi
-eṭuttukkoṇṭāṉ.cakkarākāramāka iraṇṭu taṭavi cuḻaṟṟiṉāṉ.
-"ām! ām! camuttira rājaṉ pali kēṭkiṟāṉ! iraṭṭip pali kēṭkiṟāṉ. tūṅkukiṟavarkaḷit
-tākkik kollum iraṇṭu cūrarkaḷip paliyākak koṭu eṉṟu kēṭkiṟāṉ! palikoṭuttāl tāṉ
-mēlē inta marakkalattip pōka viṭuvēṉ eṉkiṟāṉ. eṅkē! uṭaṉē appaṭi iraṇṭupērum vantu
-taliyi nīṭṭuṅkaḷ! cīkkiram!" eṉṟu ārpparittāṉ.
-ravitāsaṉ vantiyattēvaṉi viyappuṭaṉ uṟṟup pārttāṉ. "hā! hā! hā!" eṉṟa
-maṟupaṭiyumpēy cirippatu pōl cirittāṉ. "tampi! itu eṉṉa viḷiyāṭṭu?" eṉṟāṉ.
-"aṇṇaṉmārkaḷē! itu viḷiyāṭṭu alla; viṉi! caṟṟu muṉ nāṉ kīḻē kaṭṭappaṭṭuk
-kiṭantapōtu ciṟitu tūṅkip pōṉēṉ. appōtu kaṉavu kaṇṭēṉ. kaṭaliyum vāṉattiyum
-oṉṟucērtta pūtam pōṉṟa nīla niṟa uruvama  oṉṟu eṉ muṉṉāl niṉṟatu. ētō colliyatu.
-atu eṉṉaveṉṟu appōtu puriyavilli; ippōtupurintatu! mantira tantiraṅkaḷil tērnta
-kāḷi pakatarkaḷ iraṇṭu pēruṭiya uyirp pali vēṇṭum eṉṟucamuttira rājaṉ
-kōrukiṟāṉ.koṭukkāviṭṭāl intak kappali mēlē pōka viṭamuṭiyātu eṉṟumcollukiṟāṉ.
-āṟu muraṭṭu arāpiyarkaḷiṉ uyirp paliyiṉāl avaṉ tirupti aṭiyavilli. vāruṅkaḷ!
-cīkkiram!" eṉṟu kūṟi, vantiyattēvaṉ kiyil piṭitta kattiyi vāṉi nōkkiuyarttiṉāṉ.
-ravitāsaṉum, tēvarāḷaṉum oruvar mukatti oruvar pārttuk koṇṭārkaḷ.
-ravitāsaṉum,"tampi! kati kaṭṭuvatil uṉṉip pōṉṟa keṭṭikkāraṉi nāṉ pārttatēyilli!"
-eṉṟāṉ.
-vantiyattēvaṉ, "ō! nāṉ colluvatil uṅkaḷukku nampikki illiyā? kati kaṭṭukiṟēṉā?
-camuttirarājaṉē inta mūṭarkaḷukku nīyē maṟumoḻi col!" eṉṟu kūviṉāṉ. avaṉ avvāṟu
-kūviya kuralcamuttira rājaṉuṭiya kātilē kēṭpatu pōlum. ataṟku maṟumoḻi kūṟavum
-camuttiram rājaṉvirumpiṉāṉ pōlum!
-kaṭalil appōtu oru vintiyāṉa kāṭci teṉpaṭṭatu. kaṇṇuk keṭṭiya tūram
-nāluticikaḷilum kaṭal oru cilirppuc cilirttatu. ciṟiya ciṟiya ciṉṉañ ciṟiya
-alikaḷāyiramāyiram eḻuntu viḻuntaṉa. itu oru nimiru nērantāṉ. aṭutta nimiruttil
-avvaḷavu alikaḷumveḷḷiya nuriyiṉ nuṇ tuḷikaḷāka māṟiṉa. virintu paranta kaṭaṟ
-piratēcameṅkum anta veṇnurittuḷikaḷ tuḷḷi viḷiyāṭiṉa. vicālamāṉa pacumpul tariyil
-kōṭi kōṭi kōṭit tumpi malarkaḷiiḷaṅkāṟṟil uruṇṭu uruṇṭu uruṇṭu pōyk
-koṇṭiruntāl eppaṭi irukkum! avvāṟu iruntatu accamayamkaṭaliṉ kāṭci!
-ām; ilēcāṉa iḷaṅkāṟṟu, - iṉiya kuḷirnta kāṟṟa - anta marakkalattiyum oru
-kaṇamtaḻuvikkoṇṭu appāl ceṉṟatu. kappalil oru cilirppuc cilirttatu. veppattiṉāl
-vaṟaṇṭiruntavantiyattēvaṉuṭiya uṭalum cilirḻūttatu. ravitāsaṉum, tēvarāḷaṉum 'hā hā
-hā!' eṉṟucirittārkaḷ!
-"tampi! camuttira rājaṉē uṉ kēḷvikku maṟumoḻi colliviṭṭāṉ! nāṅkaḷeṅkaḷip pali
-koṭukka āyattamāka vēṇṭiyatutāṉ!" eṉṟāṉ ravitāsaṉ.
-vantiyattēvaṉ uḷḷam kalakkamuṟṟu. kaṭalilē ēṟpaṭṭa antac cilu ciluppum uṭaṉē
-ēṟpaṭṭamāṟutalum avaṉit tikikkac ceytiruntaṉa. ākā! itu eṉṉa? avvaḷavu āyiramāyiram
-ciṟiya alikaḷumkōṭāṉu kōṭi veṇ nurittuḷikaḷum eṅkē pōyiṉa? māyamāyp pōy
-viṭṭaṉavē? maṟupaṭiyum kaṭalamitiyuṟṟup pacci niṟattakaṭu pōl kāṇappaṭukiṉṟatē! caṟṟu
-muṉ kaṇṭa kāṭci uṇmiyākanikaḻntatā? allatu veṟum piramiyā? oruvēḷi inta
-mantiravāti ravitāsaṉiṉ mantiracaktiyākattāṉ irukkumō!
-"atō pārttāyā? tampi! kaṭal kūṟiyati vāṉamum āmōtikkiṟatu!" eṉṟu
-ravitāsaṉteṉmēṟkut ticiyic cuṭṭik kāṭṭiṉāṉ. avaṉ kāṭṭiya ticiyil - paccik
-kaṭalum nīla vāṉamumoṉṟu cērum mūliyil, - oru ciṉṉañ ciṟu kariyamēkat tuṇukku oru
-cāṇ uyaram eḻuntu niṉṟatu. antakkariya mēkat tuṇukkiṉ uccip pakuti cekkac
-cevēleṉṟu irattac cikappu varṇattuṭaṉ tikaḻntatu. cātāraṇa nāṭkaḷil intat tōṟṟatti
-vantiyattēvaṉ kavaṉittirukkavē māṭṭāṉ. kaṭalum vāṉumcērum mūliyil mēkattiraḷ
-kāṇappaṭuvatu ōr āccariyamā, eṉṉa? illitāṉ! āyiṉum antac ciṟiyatōṟṟamum anta
-vēḷiyil nam katānāyakaṉuṭiya maṉattic ciṟitu kalakki viṭṭatu.
-maṟu kaṇattil vantiyattēvaṉ camāḷittuk koṇṭāṉ. inta mantirava ātiyiṉ valiyil
-nāmviḻuntu viṭakkūṭātu. eṉṟu maṉattiṟkuḷ uṟuti ceytu koṇṭāṉ. ravitāsaṉ oru
-taṭaviyumtēvarāḷaṉi oru taṭaviyum viḻittuppārttu,
-"appaṭiyāṉāl ēṉ tāmatam? vāruṅkaḷ!" eṉṟu collik kattiyi vīciṉāṉ.
-"appaṉē! nāṅkaḷ paliyāvataṟku muṉṉāl eṅkaḷ kulateyvattip pirārttaṉiceyya
-virumpukiṟōm. ari nāḻiki avakācam koṭu!" eṉṟāṉ ravitācaṉ.
-"cari! pirārttaṉiyic colli viṭṭu uṭaṉē vāruṅkaḷ. uṅkaḷ tantira mantiramoṉṟiyum
-eṉṉiṭam kāṭṭavēṇṭām. kāṭṭiṉālum palikkātu!" eṉṟāṉ vantiyattēvaṉ.
-"itō vantuviṭukiṟōm. eṅkaḷuṭiya āyutattiyum iṅkēyē pōṭṭuviṭṭup pōkiṟōm,pār!"
-eṉṟāṉ ravitāsaṉ. appaṭiyē iruvarum āyutaṅkaḷik kīḻē pōṭṭuviṭṭu
-ammarakkalattiṉiṉṉoru puṟattukkuc ceṉṟārkaḷ. anta ari nāḻiki, accamayam
-vantiyattēvaṉukkumtēviyāyiruntatu. kaṭalilum vāṉilum ēṟpaṭṭa tōṟṟaṅkaḷiṉāl
-viḷakkamillāta kalakkam avaṉuṭiyuḷḷattil eḻuntu avaṉ uṭampiyum ciṟitu taḷarac
-ceytiruntatu.avaciyam nērntāl orē kattivīccil anta kirātakarkaḷ iruvariyum
-tīrttukkaṭṭa avaṉ muṭivu ceytiruntāṉ. āṉāl ataṟku vēṇṭiyapalam taṉ kiyil accamayam
-irukkumā eṉṟa aiyam ēṟpaṭṭiruntatu. ākiyāl maṉattittiṭappaṭuttikkoṇṭu kiyilum
-pūraṇa palatti varuvittuk koḷḷac ciṟitu avakācam avaṉukkuvēṇṭiyiruntatu.
-teṉmēṟku mūliyil kavaṉam maṟupaṭiyum taṟceyalākac ceṉṟatu. caṟṟumuṉṉāl cāṇ
-uyaramtōṉṟiya mēkattiraḷ ippōtu muḻu uyaramāka vaḷarntiruntatu. ucciyil irattac
-cikappu niṟamciṟitu maṅkiyiruntatu. mēkattiraḷ mēlum mēlum uyarntu varuvatākata
-tōṉṟiyatu.
-mutalāvatu cilu ciluppuṭaṉ niṉṟu viṭṭirunta kāṟṟu maṟupaṭiyum nitāṉamāka
-varattoṭaṅkiyatu. kaṭalilum kalakkam kāṇapaṭṭatu. ciṟiya ciṟiya alikaḷ naṭaṉamāṭat
-toṭaṅkiyiruntaṉa. mēkattiraḷmēlum mēlum vāṉil uyarntu vantu koṇṭiruntatu. kāṟṟiṉ
-vēkamum atikarittu varuvatākattōṉṟiyatu. kappal ilēcāka aciya ārampittatu.
-kāṟṟiṉ rīṅkārattukkum alikaḷiṉ calacalappukkum iṭiyil, atu eṉṉa cattam? kaṭalilētō
-viḻuntatu pōl cattam kēṭṭatē! vantiyattēvaṉ piṉpakkam tirumpip pārttāṉ.
-ravitācaṉiyum tēvarāḷaṉiyum kāṇavilli. atil aticayamum illi. kappaliṉ
-maṟuppakkattilēavarkaḷ iruppārkaḷ. pāymaraṅkaḷum kappaliṉ miyamēṭiyum avarkaḷi
-maṟittirukkiṉṟaṉa.
-ā! itu eṉṉa? tuṭuppukaḷiṉāl paṭaku taḷḷum cattam allavā kēṭkiṟatu?..
-vantiyattēvaṉuṭaṉē ōṭic ceṉṟu kappaliṉ maṟupakkatti aṭintāṉ.avaṉ aṅkē kaṇṭa kāṭci
-uṇmiyil avaṉittiṭukkiṭac ceytatu. appaṭi naṭakkak kūṭum eṉṟu avaṉ ciṟitum
-etirpārkkavilli.taṉṉiccamaracappaṭuttuvataṟkāka avarkaḷ kalantu yōcaṉi ceyyap
-pōyirukkiṟārkaḷ eṉṟē niṉittāṉ. āṉālavarkaḷ kappaliṉ maṟupakkattil cērttuk
-kaṭṭiyirunta ciṟu paṭaki aṟuttuviṭṭuk kaṭalilē, iṟaṅkiatil ēṟikkoṇṭiruntārkaḷ!
-tuṭuppu valittup paṭakit taḷḷavum ārampittu viṭṭārkaḷ!
-vantiyattēvaṉip pārttatum ravitāsaṉ cirittāṉ."tampi! camuttira rājaṉukkuppaliyāka
-eṅkaḷukku viruppam illi.terikiṟatā?" eṉṟāṉ.
-vantiyattēvaṉ oru noṭiyil taṉ niliyi uṇarntāṉ antap periya marakkalattil taṉṉit
-taṉiyāka viṭṭuviṭṭu, avarkaḷ pōkiṟārkaḷ. kappal ōṭṭa um kaliyip paṟṟi avaṉukku
-oṉṟumē teriyātu. kaṭalil enta iṭattil kappal niṟkiṟatu, entat ticiyākap pōṉāl
-eṅkē pōyccēralām eṉpatoṉṟum avaṉukkutteriyātu. appaṭippaṭṭa anātaravāṉa niliyil
-avaṉi viṭṭuviṭṭu avarkaḷ pōkiṟārkaḷ.
-"pāvikaḷē! eṉṉiyum aḻittukkoṇṭu pōkak kūṭātā?" eṉṟu kēṭṭāṉ.
-"tampi! camuttira rājaṉukku oru palikūṭa illāmaṟ pōkalāmā?" eṉṟāṉ ravitācaṉ. paṭaku
-kappali viṭṭuakaṉṟu pōykkoṇṭēyiruntatu.
-'kaṭalil kutittup paṭakip pōyp piṭikkalāmā?' eṉṟu vantiyattēvaṉ oru kaṇamniṉittāṉ.
-uṭaṉē anta eṇṇattik kiviṭṭāṉ. avaṉukkō naṉṟāka nīntat teriyātu. kappaliliruntu
-kutippataṟkē maṉam tiṭappaṭātu. appaṭik kutittut taṭṭut taṭumāṟic ceṉṟu
-paṭakippiṭittālum antak kirātakarkaḷ eṉṉa ceyvārkaḷō, eṉṉamō? taṉṉiṭam avarkaḷuṭiya
-irakaciyattivuiyiṭṭu viṭṭārkaḷ! tāṉ avarkaḷuṭaṉ orunāḷum cērap pōvatilliyeṉpatiyum
-terintukoṇṭārkaḷ. paṭakip piṭikkap pōkum camayattil avarkaḷ taṉṉit tuṭuppiṉāl
-aṭittuk kollappārkkalām. tāṉ taṇṇīril tattaḷittuk koṇṭē paṭakil uḷḷavarkaḷuṭaṉ caṇṭi
-pōṭa muṭiyātallavā?
-'pōkaṭṭum! pōyt toliyaṭṭum! antac caṇṭāḷak kolikkārarkaḷuṭaṉ oru paṭakilēiruppatik
-kāṭṭilum intap periya kappalil taṉṉantaṉiyāka iruppatē mēl! itaṟku muṉṉāl
-ettaṉiyōcaṅkaṭaṅkaḷiliruntu kaṭavuḷiṉ kirupiyiṉāltāṉ tappip piḻikkavilliyā? inta
-apāyattiliruntutappuvataṟkum kaṭavuḷ ētēṉum vaḻi kāṭṭuvār! pāvikaḷ pōkaṭṭum...
-āṉāl avarkaḷi uyiruṭaṉ pōkaviṭṭatu cariyā? avarkaḷ eṅkē pōyk kari ēṟuvārkaḷō?iṉṉum
-eṉṉeṉṉa ca ḻccikaḷiyum kōra kirutyaṅkaḷiyum ceyvārkaḷō? kaṭavuḷ irukkiṟār, nām
-eṉṉaceyya muṭiyum? eppaṭiyāvatu iḷavaracaruṭaṉ maṟumuṟi cērntu viṭṭāl pōtum!
-iruntālum avar ippaṭieṉṉik kiviṭṭirukkakkūṭātu! pūṅkuḻaliyuṭaṉ eṉṉiyum yāṉi
-mītu ēṟṟi aḻittup pōyirukkalām. maṟupaṭiyum avaric cantikka nērntāl, kaṭṭāyam
-palamākac caṇṭi piṭikka vēṇṭum. "uṅkaḷ paḻamiyāṉacōḻa kulattiṉ cinēkatarmam itutāṉā?"
-eṉṟu kēṭka vēṇṭum. āṉāl appaṭik kēṭkum cantarppamvarappōkiṟatā?..iḷavaracari mīṇṭum
-pārkkap pōkiṟōmā?... ēṉ pārkka muṭiyātu? nāṉintac caṅkaṭattil akappaṭṭuk koṇṭatic
-cēnātipatiyum āḻvārkkaṭiyāṉum pārttirukkiṟārkaḷ. avarkaḷ ētāvatu ceyyāmalā
-iruppārkaḷ? iḷavaracari avarkaḷ cantittiruntāl kaṭṭāyamcolliyiruppārkaḷ allavā?'
-ippaṭi vantiyattēvaṉ yōcittuk koṇṭu niṉṟa nērattil paṭaku kaṭalil
-vekutūrampōyviṭṭatu eṉpatik kavaṉittāṉ. paṭaku avvaḷavu vēkamākac ceṉṟatu. eppaṭi?
-paṭaku maṭṭumpōkavilli; tāṉ ēṟiyirunta kappalum ilēcāka acintu nakarntu
-koṇṭirukkiṟatu. ataṉālētāṉkappalukkum paṭakukkum avvaḷavu cīkkirattil avvaḷavu tūram
-ēṟpaṭṭuviṭṭatu! kaṭalil alikaḷ peritākikkoṇṭu varuvatiyum vantiyattēvaṉ pārttāṉ.
-atu maṭṭuntāṉā? itu eṉṉa? paṭṭappakalil tiṭīreṉṟuoru pakkam iruṇṭu varukiṟatē!
-teṉmēṟkut ticiyi vantiyattēvaṉ nōkkiṉāṉ. caṟṟu muṉṉāl muḻa uyaram terintamēkam
-ataṟkuḷ pirammāṇṭamāka vaḷarntu paṭarntu mēṟku vāṉattip perumpālum maṟittu
-viṭṭatikkaṇṭāṉ.iṉṉum ammēkaṅkaḷ tiṭṭuttiṭṭākat tiraṇṭu puraṇṭu vāṉattil eku
-vēkamāka mēlēṟivantaṉa. avaṉ pārttuk koṇṭirukkum pōtē mēṟku vāṉattil pāti tūram
-iṟaṅkiyirunta cūriyaṉimaṟittu viṭṭaṉa. piṟaku mēṟkut ticiyum teṟkutticiyum
-mēlum iruṇṭu vantaṉa. vāṉattiṉ kariyamēkaṅkaḷ kaṭalilum piratipalittuk kaṭalnīriyum
-kariya mi niṟamākac ceytaṉa. kaṭal eṅkēmuṭikiṟatu. vāṉam eṅkē toṭaṅkukiṟatu eṉṟu
-kaṇṭu piṭikka muṭiyāmal kaṭalum vāṉamum orē kaṉṉaṅkariyiruḷniṟam peṟṟiruntaṉa.
-mēkattiraḷkaḷ mēlum puraṇṭu uruṇṭu vantiyattēvaṉuṭiya talikku mēlē vantaṉa. piṟaku
-kīḻtticiyilum iṟaṅkat toṭaṅkiṉa. paṭaku ceṉṟa ticiyi vantiyattēvaṉ nōkkiṉāṉ. paṭaku
-iruntiṭamē teriyavilli. avaṉuṭiya pārviyiṉ ellikku appāl pōyviṭṭatu pōlum!
-kāṟṟiṉmelliya rīṅkāram 'hō' eṉṟa perum iriccalāka māṟiviṭṭatu.
-attuṭaṉ, nimiṣattukku nimiṣam peritāki vanta alikaḷiṉ iriccalum cērntatu. kappalil
-virittirunta pāykaḷ caṭapaṭaveṉṟu aṭittuk koṇṭaṉa. maraṅkaḷum kaṭṭikaḷum
-oṉṟōṭoṉṟuurāyntu āyiram kuṭumik katavukaḷik tiṟantu mūṭum cattatti uṇṭākkiṉa.
-pāymaraṅkaḷi vantiyattēvaṉaṇṇāntu pārttāṉ. avaṟṟiṉ niliyiliruntu kappal oru
-ticiyākap pōkāmal cuḻaṉṟu cuḻaṉṟuvarukiṟatu eṉṟu terintu koṇṭāṉ.
-'cuḻikkāṟṟu' eṉṟu aṭikkaṭi coṉṉārkaḷē! antac cuḻikkāṟṟutāṉ
-aṭikkappōkiṟatupōlum! cuḻikkāṟṟu aṭikkum pōtu pāy maraṅkaḷiliruntu pāykaḷic
-cuḻaṟṟic cuṟṟi vikka vēṇṭumeṉṟu vantiyattēvaṉuṭiya aṟivukkup pulappaṭṭatu. āṉāl
-avaṉ oruvaṉāl atu eppaṭi muṭiyum? pattup pērcērntu ceyya vēṇṭiya kāriyam allavā?
-pattuppēr illāviṭṭālum nāla u pērāvatu vēṇṭum. oruvaṉtaṉiyāka eṉṉa ceyvatu?
-kaṭavuḷ viṭṭavaḻi viṭukiṟār. kappal aṭinta katiyi aṭikiṟatu eṉṟu cummāirukka
-vēṇṭiyatutāṉ!
-kappal aṭiyappōkiṟa kati eṉṉaveṉṟu avaṉukkuc cīkkirattilēyē terintu pōyiṟṟu.
-appaṭiyum ippaṭiyum ciṟitu nēram alip puṇṭiruntu piṟaku kaṭalil muḻukippōka
-vēṇṭiyatutāṉ!muḻukuvataṟku muṉṉāl cukkuc cukkāka uṭintu pōṉālum pōkum!
-kappaliṉ kati eppaṭiyāṉālum, taṉṉuṭiyakatiyip paṟṟic cantēkamilli!
-naṭukkaṭalil maraṇam! antak kumpakōṇattuc cōtiṭaṉ itippaṟṟi oru vārttiyumcollavilli.
-pār! cōtiṭaṉām cōtiṭaṉ! avaṉi maṟupaṭi pārkka nērntāl... pittiyakkārattaṉam! avaṉi
-maṟupaṭi pārppatu ētu?
-tiṭīreṉṟu vantiyattēvaṉ tōḷil keṭṭiyāṉa poruḷ ētō viḻuntatu. caṭapaṭaveṉṟu
-kappalmuḻuvatum ciṟiya ciṟiya kūḻāṅ kaṟkaḷ viḻuntaṉa. antak kūḻāṅ kaṟkaḷ eppaṭip
-paḷiṅkupōlpirakācikkiṉṟaṉa! vāṉattiliruntu ivi eppaṭi viḻukiṉṟaṉa!
-iṉṉum iraṇṭu mūṉṟu kaṟkaḷ avaṉ taliyilum mutukilum tōḷkaḷilum viḻuntaṉa. avi
-viḻuntiṭattil mutalil vali; piṟaku oru kuḷircci. kappalil viḻunta kaṟkaḷip
-pārttāl, ā! aviurukik karintu pōy koṇṭirukkiṉṟaṉavē? ā! avi urukik karintu
-pōy koṇṭirukkiṉṟaṉavē?ām; itupaṉikkaṭṭi maḻi; atuvari vantiyattēvaṉ attakiya maḻiyip
-pārttatumilli;anupavittatumilli.maṭivataṟku muṉṉāl inta aṟputattip pārkka
-muṭintatē eṉṟa kutūkalam avaṉuḷḷattil tōṉṟiyatu.
-kappal taḷattil uṭkārntu, karintu koṇṭirunta paṉikkaṭṭik kaṟkaḷit toṭṭup
-pārttumakiḻntāṉ. appā eṉṉa cilirppu! toṭumpōtu tīyit oṭuvatupōl allavā
-irukkiṟatu? āṉāltī tōlic cuṭṭut tīyppatu pōl atu ceyyavilli. virivil cūṭu
-kuḷircciyāki viṭukiṟatu. kal maḻi etirpārāmal vantatu pōlavē caṭṭeṉṟu niṉṟatu.
-peyta nēram arikkāl nāḻiki kūṭirātu.
-piṟaku cātāraṇa maḻi peyyat toṭaṅkiyatu. maḻi jalam kappalil viḻuntu citaṟi ōṭikkaṭalil
-viḻuntuviṭuvati vantiyattēvaṉ kavaṉittāṉ. cōḻa nāṭṭu marakkalat
-taccarkaḷiṉkeṭṭikkārattaṉatti viyantāṉ. ettaṉi maḻi peytālum ettaṉi periya alikaḷ
-mōtik kaṭal jalamkappalil vantālum, mīṇṭum kaṭalilēyē taṇṇīr pōy viḻumpaṭiyāka akkappal
-amikkappaṭṭiruntatu. kappaliṉ kīḻppakuti uṭintu kaṭalnīr uḷḷē pukuntālaṉṟi ati
-mūḻkaṭikka muṭiyātu!
-itip pārttatum avaṉukkuc ciṟitut tiriyam uṇṭāyiṟṟu. uṭaṉē oru niṉivu vantatu.
-taṉṉik kaṭṭip pōṭṭirunta aṟikkatavu tiṟantiruntāl ataṉ vaḻiyākat taṇṇīr uḷḷē
-pukuntuviṭalām. ōṭip pōyp pārttāṉ. avaṉ niṉittapaṭi katavu tiṟantu kāṟṟil
-aṭittuk koṇṭiruntatu. kataviiṟukkic cāttit tāḷiṭṭāṉ.
-mēlē kāṟṟum maḻiyum poṟukka muṭiyāmaṟ pōṉāl anta aṟikkuḷḷē pukuntukūṭat
-tāṉkatavit tāḷiṭṭuk koḷḷalām. piṟaku kaṭavuḷ viṭṭa vaḻi viṭukiṟār eṉṟu nimmatiyāka
-irukkalām.ivvaḷavu pattiramāṉa kappali viṭṭu anta muṭṭāḷkaḷ iruvarum paṭakil ēṟippōy
-viṭṭati niṉittuvantiyattēvaṉ anutāpappaṭṭāṉ. āṉāl antap paṭakil amippum
-vicittiramāṉatu tāṉ. evvaḷavukāṟṟu aṭittālum maḻi peytālum ati mūḻka aṭikka
-muṭiyātu. appaṭip paṭaku uṭintu muḻukiṉālumpakkattil ataṉōṭu cērttuk kaṭṭiyuḷḷa
-kaṭṭi oṉṟu irukkiṟatu.a aip piṭittukkoṇṭu antak kolipātakarkaḷ tappik karicērntu
-viṭuvārkaḷ! anēkamākak kōṭik karikkuc camīpamākap pōykkariēṟuvārkaḷ.
-kōṭikkariyiliruntu vantiyattēvaṉuṭiya uḷḷam paḻiyāṟikkut tāviyatu.
-cakkaravarttitirukkumārikkut taṉakku nērnta kati eppaṭit teriyappōkiṟatu? avaḷ iṭṭa
-paṇiyi niṟivēṟṟummuyaṟciyilē tāṉ naṭukkaṭalil muḻukiyati yār avaḷukkut
-terivikkap pōkiṟārkaḷ? kaṭalterivikkumā? kāṟṟu ceṉṟu collumā? - kaṭavuḷē! anta
-mātaraciyic cantippataṟku muṉṉālēyēnāṉ iṟantu pōyirukkakkūṭātā? pōrkkaḷattil
-vīramaraṇam eytiyirukkak kūṭātā? corkkapūmiyik kaṇṇāl pārkkac ceytuviṭṭu uṭaṉē atala
-pātāḷattil taḷḷuvatu pōl allavā irukkiṟatu!.
-kāṟṟiṉ vēkam atikamākik koṇṭiruntatu. kaṭaliṉ kontaḷippu
-mikutiyākakkoṇṭiruntatu. kappaliṉ pāy maraṅkaḷ pēy picācukaḷip pōl payaṅkaramāṉa
-captamiṭṭuk koṇṭuāṭiṉa.
-iruḷ mēlum mēlum kariyatākik koṇṭu vantatu. iruṭṭi viṭakkariyatāṉa iruṭṭu
-eppaṭiirukka muṭiyum? appaṭiyum irukka muṭiyum eṉṟu tōṉṟukiṟatu. tiṭīreṉṟu
-vāṉattil oru miṉṉal tōṉṟioru mūliyiliruntu oru mūlivari pāyntatu.
-ataṟkuppiṟaku tōṉṟiya iruṭṭu iruḷiviṭakkariyatāyiruntatu. miṉṉalit toṭarntu
-iṭimuḻakkam kēṭṭatu; kappal atirntatu; kaṭal atirntatu;ticikaḷ atirntaṉa.
-iṉṉoru miṉṉal aṭivāṉattil iruḷik kiḻittukkoṇṭu puṟappaṭṭatu. atu mēlum
-mēlumnīṇṭu, kappum kiḷiyum viṭṭup paṭarntu, paṟpala oḷikkōlaṅkaḷ ākācameṅkum pōṭṭu
-vāṉiyumkaṭaliyum jōti mayamākac ceytuviṭṭu, aṭutta kaṇattil aṭiyōṭu maṟintatu. iṭi
-muḻakkam toṭarntatu.ammammā! aṇṭakaṭākaṅkaḷ veṭittu viḻukiṉṟaṉa eṉpatil cantēkamilli.
-mēlum miṉṉalkaḷ; iṭimuḻakkaṅkaḷ. 'iṉṉum vāṉam piḷakkavilliyē; itu eṉṉa aticayam!"
-eṉṟu vantiyattēvaṉeṇṇamiṭṭāṉō, illiyō, antak kaṇamē ākācam veṭittup piḷantatu.
-veṭitta piḷappiṉ vaḻiyākappiraḷaya veḷḷam poḻintatu.
-ām; ati maḻi eṉṟē colvataṟkilli. vāṉa vuiyil oru kaṭal kumuṟik koṇṭiruntatu.atu
-tiṭīreṉṟu tōṉṟiya piḷaviṉ vaḻiyākak koṭṭuvatu pōlavē iruntatu.
-kaṭal alikaḷ āvēca tāṇṭavamāṭiṉa. miṉṉal vuiccattil kaṇṇukkeṭṭiya tūram āṭum
-maliccikaraṅkaḷ kāṭci aḷittaṉa. kāṟṟiṉ kummāḷam uccatti aṭintatu. āṭum malic
-cikaraṅkaḷiappaṭiyē peyarttu eṭuttu vāyu pakavāṉ vāṉa vuiyil viciṟi eṟintu
-viḷiyāṭiṉār. vantiyattēvaṉuṭiya kappalmītum anta nīrmalikaḷil cila vantu mōtiṉa.
-mēlēyiruntu maḻi veḷḷam topu topuveṉṟu koṭṭiyatu; nālā pakkamiruntum
-alimalikaḷvantu mōtittākkiṉa. viritta pāymaraṅkaḷ mītu cuḻaṟkāṟṟu tākkippaṭuttiya
-pāṭṭic collimuṭiyātu.ivvaḷaviyum poṟuttukkoṇṭu antac cōḻa nāṭṭut taccarkaḷ
-kaṭṭiya aticaya marakkalam cuḻaṉṟucuḻaṉṟu vantu koṇṭiruntatu.
-āṉāl evvaḷavu nērantāṉ cuḻaṉṟu koṇṭirukka muṭiyum? evvaḷavu nēram anta
-māperumpūtaṅkaḷiṉ tākkutalik kappaliṉāl camāḷikka muṭiyum? - muṭiyātu, inta
-viṉāṭiyō, aṭuttaviṉāṭiyō, kappal muḻuka vēṇṭiyatutāṉ. attuṭaṉ vantiyattēvaṉum
-muḻuka vēṇṭiyatutāṉ!
-eṉiṉum, anta eṇṇam avaṉukku ippōtu cōrvi aḷikkavilli. appaṭit taṉakkunērappōkum
-maraṇam ōr aṟputamāṉa maraṇam eṉṟu karutiṉāṉ. eḻumpik kutitta alikaḷippōl avaṉuḷḷamum
-kutūkalat tāṇṭavam āṭat toṭaṅkiyatu. kāṟṟiṉ pēririccal, alikaḷiṉ pēroli,iṭikaḷiṉ
-perumuḻakkam ivaṟṟuṭaṉē, vantiyattēvaṉuṭiya kuralum cērntatu. "hā! hā hā!"
-eṉṟuvāyviṭṭuc cirittāṉ. antak kāṭciyiyellām naṉṟāyp pārkka vēṇṭum
-eṉpataṟkākavē avaṉ muṉjākkiratiyuṭaṉ pāy marattiṉ aṭittaṇṭuṭaṉ cērttut taṉṉik kaṭṭik
-koṇṭiruntāṉ. kappalcuḻaṉṟapōtu pāymaramum cuḻaṉṟatu; vantiyattēvaṉum cuḻaṉṟāṉ. ippaṭi
-ettaṉi nēram kappalum pāymaramumvantiyattēvaṉum cuḻaṉṟu koṇṭiruntārkaḷ eṉṟu
-teriyātu. pala yukaṅkaḷākavum irukkalām, cilaviṉāṭikaḷākavum irukkalām. kālatēca
-varttamāṉa uṇarccikaḷiyellām kaṭanta amaraniliyivantiyattēvaṉ appōtu aṭintiruntāṉ.
-kāṟṟiṉ vēkam ciṟitum kuṟivatupōlat tōṉṟiyatu. piraḷayamākak koṭṭiya maḻi
-niṉṟuviṭṭatu.ciṟu tūṟalkaḷ pōṭṭuk koṇṭiruntaṉa. miṉṉalum iṭiyum niṉṟuviṭṭatu
-pōlat tōṉṟiyatu. kaṭal kaṉṉaṅkariya iruḷ piḻampākat tōṉṟiyatu.
-vantiyattēvaṉ ciṟitu nērattukku muṉṉāl miṉṉalkaḷiṉ oḷi vīccit tāṅka
-muṭiyāmalkaṇkaḷi mūṭikkoṇṭiruntāṉ. iṭikaḷiṉ peru muḻakattik kēṭka muṭiyāmal
-kātukaḷit taṉ kikaḷiṉāliṟukkip pottik koṇṭiruntāṉ. ippōtu kaṇṇittiṟantu
-pārttāṉ; kikaḷi akaṟṟikkātukaḷiyum tiṟantuviṭṭāṉ. 'ākā! ivvaḷavu periya
-cuḻikkāṟṟu vipattiliruntu nāṉtappittukkoṇṭēṉā! kaṭavuḷ kāppāṟṟi viṭṭārā?
-mīṇṭum paḻiyāṟi araciḷaṅkumariyi intajaṉmattil kāṇappōkiṟēṉā? iḷavaracaric cantittu
-aḷavaḷāvap pōkiṟēṉā?...'
-'ataṟkuḷ avacarappaṭakkūṭātu. intak kappal ippōtu eṅkē iru kiṟatō, yār kaṇṭatu?
-itupattiramāyk karicērum eṉṟu eppaṭic colla muṭiyum? kappal tappiṉālum, nāṉ
-uyirōṭu tappikkariyēṟuvēṉ eṉpatu eṉṉa niccayam?' 'iṉṉum ettaṉi ettaṉi apāyaṅkaḷi
-irukkiṉṟaṉavō...?'
-vantiyattēvaṉuṭiya maṉattil intak kēḷvi eḻuntatum ataṟkup patil colvatupōlvāṉattik
-kīṟik koṇṭu oru miṉṉal miṉṉiyatu. ataṉ pirakācam avaṉ kaṇṇetirē nūṟu
-cūriyaṉikkoṇṭuvantu niṟuttiyatu pōliruntatu. iruṭṭilāvatu koñcam pārkkalām;
-antap payaṅkarappirakācattil oṉṟumē pārkka muṭiyavilli. taṉ kaṇkaḷiyē ammiṉṉal
-paṟittuviṭṭatō eṉṟuvantiyattēvaṉ añciṉāṉ. ericcal eṭutta kaṇattilēyē avaṉ
-cevikaḷukkum āpattu vantuviṭṭatu. ettaṉiyō iṭi muḻakkaṅkaḷi vantiyattēvaṉ muṉṉam
-kēṭṭirukkiṟāṉ; iṉṟikkum ettaṉiyō kēṭṭāṉ. āṉāl ippōtu iṭitta iṭiyip pōl -
-cē! atu iṭiyā? intiraṉuṭiya vajrāyutam avaṉuṭiya kātiṉvaḻiyākap piravēcittu
-maṇṭikkuḷḷēyē nuḻintu tākkiyatu pōliruntatu.
-caṟṟu nēram vantiyattēvaṉ kaṇkaḷiyum tiṟakka muṭiyavilli; kātilō 'ōy' eṉṟa
-captamkēṭṭukkoṇṭiruntatu. mūṭiyirunta kaṇkaḷ ētō camīpattil talikku mēlē putiya
-vuiccamparaviyiruppati uṇarntāṉ. kātilum 'ōy' cattattukku mattiyil vēṟoru vinōta
-captam kēṭṭatu.kāṭṭil tīppaṟṟi eriyumpōtu, maraṅkaḷil tīppiṭikkumpōtu, uṇṭākum
-captattip pōltoṉittatu.
-vantiyattēvaṉ kaṇṇit tiṟantu pārttāṉ. avaṉ irunta kappaliṉ pāymaram ucciyiltīppaṟṟi
-erivatik kaṇṭāṉ.ākā! ippōtu purikiṟatu! anta miṉṉal ēṉ
-avvaḷavupirakācamāyiruntatu. anta iṭi ēṉ avvaḷavu cattamāka olittatu eṉṟu ipa pōtu
-viḷaṅkukiṟatu.
-antak kappal mēlēyō allatu, veku camīpattilō iṭi viḻuntirukkiṟatu!
-ataṉālpāymarattil tīppiṭittirukkiṟatu! pañca pūtaṅkaḷil iraṇṭu pūtaṅkaḷ antac cōḻa
-nāṭṭu marakkalattittākki aḻikkap pārttaṉa. nīrum, kāṟṟum tōlviyuṟṟaṉa. varuṇaṉum,
-vāyuvum cātikka, muṭiyākāriyattik cātikka ippōtu akkiṉi pakavāṉ
-tōṉṟiyirukkiṟār!
+   [14]pakka talaippu
+     __________________________________________________________________
 
-pakka talippu
+   aimpattiraṇṭām attiyāyam
+   uṭainta paṭaku
+   iṭi viḻuntatiṉāl pāymarattiṉ ucciyil tīppiṭittu erivataip pārttatum iṉi
+   ammarakkalam tappikka muṭiyātu eṉṟu vantiyattēvaṉ niccayamaṭaintāṉ.
+   eṉavē, tāṉum uyirōṭu tappikka muṭiyātu. vantiyattēvaṉukku appōtum
+   ciṟitum maṉakkilēcam uṇṭākavillai. uṟcākantāṉ mikuntatu. kalakalaveṉṟu
+   cirittāṉ. pāymarattōṭu taṉṉaik kaṭṭiyirunta kayiṟṟai aviḻttu viṭṭāṉ.
+   naṭukkaṭalil tīyil ventu cākavēṇṭiyatillaiyallavā? ataik kāṭṭilum
+   kuḷirnta nīril muḻukik kaṭaliṉ aṭiyil ceṉṟu amaitiyāka uyir viṭuvatu
+   mēl allavā?
+   āyuḷil miccamuḷḷa ciṟitu nērattai vīṇākka vantiyattēvaṉ virumpavillai.
+   tīppaṟṟi kappaliṉ vauiccattil cuṟṟumuṟṟum naṉṟākap pārttuk kontaḷitta
+   kaṭaliṉ cauntariyattai anupavikka virumpiṉāṉ. taṉ uṭal camāti
+   aṭaiyappōkum iṭattai naṉṟākap pārttuk koḷvatu nallatallavā? immātiri
+   akāla maraṇamaṭaintavarkaḷ, āvi uruvattil iṟanta iṭattaiccuṟṟi vantu
+   koṇṭiruppārkaḷ eṉṟu colvārkaḷē? ammātiri taṉ āviyum intak kaṭaliṉ
+   mēlēyē vaṭṭamiṭṭuk koṇṭirukkumō! kāṟṟil mitakkumō? alaikaḷiṉ mēlē
+   ulāvumō? cuḻaṟkāṟṟu aṭikku pōtu taṉ āviyum cuṟṟic cuṟṟi varumō?
+   'ākā! eppōtāvatu orunāḷ intak kaṭalil araciḷaṅkumari, kappal
+   ēṟippōṉālum pōvāḷ. kappalai ōṭṭum mālumikaḷ "vantiyattēvaṉ kappalōṭu
+   muḻukiya iṭam itutāṉ!" eṉṟu kāṭṭuvārkaḷ avaḷuṭaiya vēl viḻikaḷil kaṇṇīr
+   tuḷittu avaḷatu muḻumati mukattil muttu muttākac cintum, āvi
+   vaṭivattilē atai arukiliruntu tāṉ pārkkumpaṭi nērntāl, avaḷuṭaiya
+   kaṇṇīrait taṉṉāl tuṭaikka muṭiyumā?...' kappal oru pēralaiyiṉ
+   cikarattiṉ mēlē ēṟiyatu. pāymarat tīvartti pōṭṭa vauiccattil cuṟṟilum
+   vekutūram terintatu. karum paḷiṅku niṟam peṟṟut tikaḻnta kaṭalnīril
+   pāymarat tīyiṉ oḷi viḻunta iṭam maṭṭum poṉ veḷḷamākat tikaḻntatu. inta
+   aḻakiṉ aṟputattai vantiyattēvaṉ pārttu makiḻntu muṭivataṟkuḷ avaṉuṭaiya
+   kaṇṇaiyum kavaṉattaiyum vēṟoṉṟu kavarntatu.
+   caṟṟuttūrattil avaṉ oru marakkalattaip pārttāṉ. atil pulikkoṭi paṟakkak
+   kaṇṭāṉ. 'kaṭavuḷē! uṉ vintaikaḷukku ellaiyē illai pōlum! - anta
+   marakkalattilē varukiṟavar iḷavaracar aruḷmoḻi varmarākat tāṉ
+   irukkavēṇṭum. taṉṉait tēṭik koṇṭutāṉ avar varukiṟār;' - eṉṟu avaṉuṭaiya
+   uḷḷuṇarcci kūṟiyatu!
+   vantiyattēvaṉ ēṟiyirunta kappal cikkikkoṇṭu tattaḷitta atē cuḻik kāṟṟil
+   pārttipēntiraṉuṭaiya kappalum akappaṭṭuk koṇṭatu. āṉāl intak kappalil
+   accuḻik kāṟṟiṉ taṉmaiyai aṟintavarkaḷum kappalōṭṭum kalaiyil
+   vallavarkaḷumāṉa mālumikaḷ iruntārkaḷ. pāy maraṅkaḷil virittirunta
+   pāykaḷai avarkaḷ iṟakkic cuṟṟi vaittārkaḷ. kāṟṟiṉ vēkam muḻuvataiyum
+   kappal etirttu niṟpatu avaciyamillāta vaṇṇamākak kappaliṉ cu kkāṉaip
+   piṭittu iyakki vantārkaḷ. oru nimiṣam kappal aṭiyōṭu cāyntu, 'itō
+   kaviḻntu viṭṭatu' eṉṟu tōṉṟum; maṟu nimiṣam camāḷittuk koṇṭu nimirntu
+   niṟkum. malai pōṉṟa alaikaḷ antak kappalai ettaṉaitāṉ tākkiyum atil
+   iṇaikkappaṭṭirunta maraṅkaḷum palakaikaḷum ciṟitēṉum piḷantu koṭukka
+   vēṇṭumē! kiṭaiyavē kiṭaiyātu! camuttirarājaṉ antak kappalaip pantu
+   āṭuvatupōl tūkki eṟintu viḷaiyāṭiṉāṉ. cuḻikkāṟṟu akkappalaip pamparam
+   cuṟṟuvatupōlac cuḻaṟṟic cuḻaṟṟi alaittatu. vāṉattiliruntu veḷḷam
+   poḻintu antak kappalaik kaṭalil amukki aḻittuviṭap pārttatu. cōḻanāṭṭut
+   taccuvēlai nipuṇarkaḷ kaṭṭiya akkappalai, - tamiḻakattiṉ pukaḻpeṟṟa
+   mālumikaḷ celuttiya akkappalai - kaṭalum maḻaiyum kāṟṟum cērntu
+   tākkiyum oṉṟum ceyyamuṭiyavillai.
+   "itaik kāṭṭilum koṭiya cuḻikkāṟṟukaḷaiyum caṇṭamārutaṅkaḷaiyum nāṉ
+   pārttirukkiṟēṉ; camāḷittirukkiṟēṉ. ākaiyāl kavalaippaṭat tēvaiyillai!"
+   eṉṟu kalapati kūṟiṉāṉ. āṉāl avaṉ pārttipēntiraṉiṭam iḷavaracariṭamum
+   vēṟōr apāyattaip paṟṟit taṉ payattai vauiyiṭṭāṉ.
+   'kariya mēkaṅkaḷ tiraṇṭu vanta vāṉai mūṭi nālāpuṟamum iruḷ cūḻac
+   ceytuviṭṭaṉa. pōtātaṟkuc cōṉāmāriyāka maḻaiyum peytatu. kaṭalil eḻunta
+   alaikaḷō varicai varicaiyāṉa malait toṭarkaḷaippōl kappalaic cuṟṟit
+   tiraiyiṭṭu maṟaittaṉa. inta nilaiyil avarkaḷ entak kappalait tēṭic
+   ceṉṟārkaḷō atu veku camīpattil vantālum pārkka muṭiyātu antak kappalum
+   itaip pōlattāṉ cuṟṟic cuḻaṉṟu tattaḷittuk koṇṭirukkum. kappalkaḷ
+   oṉṟōṭoṉṟu mōtiṉāl iraṇṭum cukkal cukkalākip pōyviṭum. kappalil uḷa
+   ḷavarkaḷiṉ kati atōkatitāṉ!" 'ākavē cuḻikkāṟṟiṉ apāyattaik kāṭṭilum
+   cuṟṟilum oṉṟum pārkka muṭiyāmaliruppatutāṉ atika apāyam' eṉṟu
+   ammarakkalat talaivaṉ kūṟiṉāṉ.
+   itu iḷavaracarukkut terinta viṣayantāṉ. ākavē avar attaṉaik kāṟṟilum
+   maḻaiyilum kappaliṉ ōramāka niṉṟu koṇṭu taṉ kūriya kaṇkaḷiṉ pārvaiyai
+   nālāpuṟamum celuttik koṇṭiruntār. miṉṉal miṉṉiya pōtellām avaruṭaiya
+   kaṇkaḷ ativēkamākac cuḻaṉṟu cuṟṟuppuṟameṅkum uṟṟup pārttaṉa. avaruṭaiya
+   uḷḷam eppaṭit tattaḷittuk koṇṭiruntatu eṉpataic colli muṭiyātu. taṉ
+   arumait tamakkai aṉuppiya tūtaṉ muraṭṭu arāpiyarkaḷiṭamum, kolaikāra
+   mantiravātikaḷiṭamum akappaṭṭuk koṇṭirukkiṟāṉ. atu pōtātu eṉṟu intac
+   cuḻikkāṟṟu vēṟu vantu cērntatu. oruvēḷai avvīra vālipaṉ ēṟiyuḷḷa
+   kappalaik kaṇṭupiṭikka muṭiyāmalē pōyviṭumō? kaṇṭupiṭittālum, avaṉai
+   uyirōṭu kāṇpatu cāttiyamā? kalapati añcuvatupōl avaṉ ēṟiyirukkum kappal
+   mēl nam kappal mōti iraṇṭum kaṭalil mūḻkiṉāl vēṭikkaiyākattāṉirukkum!
+   āṉāl tantaiyiṭam collavēṇṭiya ceytiyaic colluvatu yār?
+   pārttipēntiraṉiṭam antak kuṭumpa irakaciyattaik kūṟuvatu iyalāta
+   kāriyam. kūṟiṉāl antap pallavaṉukku atu kēliyāyirukkum; ataṉ
+   mukkiyattuvattai avaṉ uṇaramāṭṭāṉ. itukāṟum iḷavaracar ceyya eṇṇiya
+   kāriyam etilum tōlviyaṭaintatillai. ippōtu tōlvi ēṟpaṭṭuviṭumō? -
+   illai, orunāḷum illai. poṉṉiyiṉ celvaṉukkut tīṅku nēruvataiyō, tōlvi
+   ēṟpaṭuvataiyō camuttira rājaṉ pārttuk koṇṭirukkamāṭṭāṉ!
+   iruḷaiyum maḻaiyaiyum kiḻittukkoṇṭu ellāt ticaikaḷaiyum pārttuk koṇṭira
+   nta iḷavaracarum antap pēriṭi muḻakkattaik kēṭṭār. appōtu miṉṉiya
+   miṉṉalukku avarum kaṇkaḷaic ciṟitu mūṭikkoḷḷa vēṇṭiyatāyiṟṟu. kaṇṇait
+   tiṟantu pārttapōtu miṉṉal vauiccamillāta vēṟoru vauiccattaik kaṇṭār.
+   caṟṟut tūrattil oru kappal viritta pāymaraṅkaḷuṭaṉ pēyāṭuvatu pōl
+   āṭikkoṇṭiruntatu! ataṉ pāymarattiṉ ucciyil tīppaṟṟi erintatu! antat
+   tīyiṉ vauiccattil iḷavaracar atil oru maṉitaṉ pāymarattōṭu cērttu
+   niṟpataik kaṇṭār! kaṭavuḷē! ittakaiya aṟputamum naṭakkak kūṭumā? avaṉ
+   anta vīra iḷaiñaṉākiya vantiyattēvaṉtāṉ! avaṉ maṭṭum ēṉ taṉiyāka
+   niṟkiṟāṉ? maṟṟavarkaḷ eṉṉa āṉārkaḷ? ataip paṟṟiyellām yōcippataṟku
+   ippōtu nēramillai. ceyyavēṇṭiyatu iṉṉateṉpatai oru noṭip poḻutil
+   iḷavaracar tīrmāṉittuk koṇṭār.
+   avar pārtta kāṭciyaik kappalil irunta maṟṟavarkaḷ palarum pārttārkaḷ.
+   "atō!" eṉṟu avarkaḷ ēkakālattil eḻuppiya periya kūccal kāṟṟiṉ
+   payaṅkarac captattaiyum mīṟikkoṇṭu eḻuntatu. kappalōṭu cērttuk
+   kaṭṭiyirunta paṭakaṇṭai pōy iḷavaracar niṉṟu koṇṭu, arukil niṉṟa
+   mālumikaḷaip pārttu, "uṅkaḷil yār eṉṉuṭaṉ varuvīrkaḷ?" eṉṟu uratta
+   kuralil kēṭṭār. avar ceyya uttēcitta kāriyam iṉṉateṉṟu ūkittaṟintu
+   mālumikaḷ tikaittārkaḷ. āyiṉum palar pōṭṭiyiṭṭu muṉvantārkaḷ.
+   pārttipēntiraṉum, kalapatiyum vantu taṭukkap pārttārkaḷ.
+   "iḷavaracē! itu eṉṉa kāriyam! intak kontaḷikkum kaṭalil paṭaku eppaṭic
+   celutta muṭiyum? erikiṉṟa kappalil uḷḷavaṉai eppaṭik kāppāṟṟa muṭiyum?
+   āṉālum muyaṟci ceytu pārkkalām. tāṅkaḷ pōkavēṇṭām. pōvataṟku eṅkaḷil
+   ettaṉa yō pēr irukkiṟārkaḷ" eṉṟāṉ pārttipēntiraṉ.
+   "jākkiratai! iccamayam eṉṉait taṭukkap pārkkiṟavarkaḷai nāṉ oru nāḷum
+   maṉṉikka muṭiyātu." eṉṟu irājakampīramāṉa atikāra tōraṇaiyil kūṟiṉār
+   iḷavaracar. atē camayattil paṭakai aviḻttu viṭṭār."uṅkaḷil iraṇṭu pēr
+   pōtum; vāruṅkaḷ!" eṉṟār.
+   paṭaku kaṭalil iṟaṅkiyatu. iḷavaracar, avar kuṟippiṭṭa iruvarum atil
+   kutittārkaḷ.maṟu kaṇamē paṭaku kappalai viṭṭu akaṉṟu ceṉṟatu.
+   alaikaḷiṉmēl āvēcakkūttu āṭiyatu. iḷavaracarum maṟṟa iruvarum
+   tuṭuppukaḷaip palaṅkoṇṭa maṭṭum valittārkaḷ. ciṟitu ciṟitākap paṭaku
+   erikiṉṟa kappalai aṇukiyatu. itaṟkuḷ tī ucciyiliruntu pāti pāymaram
+   varaiyil iṟaṅkiviṭṭiruntatu. āṉāl vantiyattēvaṉō aṅkē niṉṟu
+   koṇṭiruntāṉ. avaṉ tīyiṉ vauiccattil kappalaip pārttāṉ; kappaliliruntu
+   iṟakkappaṭṭu vanta paṭakaiyum pārttāṉ. anta aticayattil taṉṉai
+   maṟantiruntāṉ. tāṉ ētēṉum ceyya vēṇṭum eṉṟē avaṉukkut tōṉṟavillai.
+   "kuti kaṭalil kuti!" eṉṟu kattiṉār iḷavaracar. avaṉ kātil atu
+   viḻavillai. ceyalaṟṟa patumaiyaippōl niṉṟu koṇṭiruntāṉ. āyiṟṟu; iṉṉum
+   ciṟitu nēram tāmatittāl kappal aṭittaḷattiṟku neruppu vantuviṭum;
+   kappal muḻukiviṭum. appuṟam avaṉaik kāppāṟṟuvatu iyalāta kāriyamāki
+   viṭum.
+   eṉṉa ceyyavēṇṭum eṉpatai maṟupaṭiyum iḷavaracar oru noṭiyil muṭivu
+   ceytār. ittakaiya cantarppaṅkaḷukkeṉṟu anta apāyap paṭakil cērttuk
+   kaṭṭiyirunta nīḷakkayiṟṟiṉ iṉṉoru nuṉiyait tamatu iṭuppil cuṟṟi iṟukkik
+   kaṭṭik koṇṭār. mālumikaḷ iruvarukkum eccarikkai ceytuviṭṭuk kaṭalil
+   kutittār.ittaṉai nēram paṭa uṭaṉ viḷaiyāṭiya alaikaḷ ippōtu
+   iḷavaracaruṭaṉ viḷaiyāṭiṉa. oru kaṇam avarai vāṉattukku uyarttiṉa;
+   maṟukaṇam pātāḷattil taḷḷiṉa. eṉiṉum iḷavaracar ticaiyum kuṟiyum
+   tavaṟāmal erikiṉṟa kappalai nōkki vēkamākap pōyk koṇṭiruntār.
+   oru periya, mikap periya alai vantatu! iḷavaracar mēlē atu
+   viḻuntiruntāl avarai amukkik kaṭaliṉ aṭiyil koṇṭu pōyirukkak kūṭum!
+   āṉāl atu nalla alai; iḷavaracarukku ēval ceyya vantatu. avarait taṉ
+   ucciyil vaittuk tūkkikkoṇṭu pōy erikiṉṟa kappaliṉ mēl taḷattil
+   eṟintatu.
+   ēṟkeṉavē kaṭṭu aviḻttuk koṇṭirunta vantiyattēvaṉ iḷavaracaraip
+   pārttatum, 'ā' eṉṟu alaṟi avarai eṭuppataṟkākat tāvik kuṉintāṉ.
+   iḷavaracar avaṉuṭaiya kaḻuttai appaṭiyē iṟukkik kaṭṭik koṇṭār. avaṉ
+   kātukkuḷ "eṉṉaip piṭittukkoṇṭu vā! viṭṭu viṭātē!" eṉṟār. colli muṭinta
+   taṭcaṇamē iruvarum maṟupaṭiyum kaṭalil mitantu alaikaḷiṉāl
+   mottuṇṭārkaḷ. mālumikaḷ tuṭupput taḷḷuvatai niṟuttik kayiṟṟaip piṭittu
+   iḻukkalāṉārkaḷ. iḷavaracarum avarai uṭumpup piṭiyākap piṭittuk
+   koṇṭirunta vantiyattēvaṉum paṭakai aṇukiṉārkaḷ. paṭakaippiṭittu atil
+   ēṟuvatu eḷiya kāriyamillai. alaikaḷuṭaṉ pōrāṭikkoṇṭu vantiyattēvaṉaiyum
+   tāṅkik koṇṭu paṭakil ēṟuvataṟku muyaṉṟa ovvoru kaṇamum oru yukamāka
+   iruntatu.
+   itō paṭaku kaikku akappaṭuvatu pōlirukkum; aṭutta kaṇam eṭṭāta tūrattil
+   pōyviṭum. kaṭaiciyāka, ataṟkum oru periya alai utavi ceytatu. paṭakiṉ
+   arukil uyaramāka eḻunta antap pēralaiyōṭu avarkaḷum eḻuntārkaḷ.
+   mālumikaḷiṉ utaviyuṭaṉ paṭakil kutittārkaḷ.
+   "tuṭuppai valiyuṅkaḷ! vēkamāy valiyuṅkaḷ!" eṉṟār iḷavaracar. ēṉeṉi ,
+   erikiṉṟa kappal kaṭalil muḻukum nēram neruṅkik koṇṭiruntatu. appaṭi
+   muḻukumpōtu ēṟpaṭum kontaḷippil paṭaku kaviḻntālum kaviḻntuviṭum. atu
+   maṭṭumaṉṟu; kappal muḻukit tī aṇaintu viṭṭāl piṟaku maṟṟoru kappalai
+   avarkaḷ piṭippatu acāttiyamāki viṭalām.
+   ākā! atō kappal muḻukat toṭaṅkiviṭṭatu. koḻuntuviṭṭu erinta
+   pāymaraṅkaḷuṭaṉē atu kaṭalil muḻukiya kāṭcitāṉ eṉṉa payaṅkara
+   cauntaryamāyiruntatu! atai avarkaḷāl atikanēram anupavikka
+   muṭiyavillai. iḷavaracar etirpārttatu pōlavē kaṭalil oru periya
+   kontaḷippu. vāṉaḷāvi mēleḻunta alaikaḷ.
+   paṭaku eṉṉamō alaikaḷaic camāḷittuk koṇṭatu. āṉāl erinta kappal
+   mūḻkiyatum cuṟṟilum cūḻnta iruḷil maṟṟoru kappal irunta iṭamē teriyāmal
+   pōyiṟṟu. tikkutticai oṉṟumē teriyavillai. paṭakum, kappalum oṉṟaiyoṉṟu
+   neruṅkikkoṇṭirukkiṉṟaṉavō, akaṉṟu pōy koṇṭirukkiṉṟaṉavō, - atait
+   terintu koḷḷavum vaḻiyillai. iraṇṭilum apāyam uṇṭu.
+   iruṭṭil kappal irukkumiṭam teriyāmal atai neruṅkicceṉṟu muṭṭikkoṇṭāl,
+   paṭaku tukaḷ tukaḷākum. vilakip pōyviṭṭāl, kēṭpāṉēṉ? naṭukkaṭalil,
+   kāriruḷil antac ciṉṉañciṟu paṭakiṉāl eṉṉa ceyya muṭiyum? camuttira
+   rājaṉē! uṉ kātali poṉṉi nati tanta arumaic celvaṉai nītāṉ
+   kāppāṟṟavēṇṭum!
+   vāyu pakavāṉuṭaiya līlaikaḷ vekuveku aticayamāṉavai. antap perum
+   cuḻikkāṟṟu evvaḷavu avacaramāka vantatō avvaḷavu avacaramākavē
+   pōyviṭṭatu. pōkum vaḻiyilellām kaṭalaip paṭātapāṭu paṭuttiviṭṭup pōy
+   viṭṭatu.
+   cuḻikkāṟṟu pōyviṭṭatu caritāṉ; āṉāl ataṉāl kaṭalil ēṟpaṭṭa kontaḷippu
+   ilēcil aṭaṅkiviṭātu. oru iravum, oru paka um nīṭittiruntālum irukkum.
+   antak kontaḷippiṉ vēkam neṭuntūram pirayāṇam ceyyum kōṭikkaraiyil
+   vistāramāṉa maṇaṟ piratēcattaiyellām kaṭal ēṟimūṭiviṭum.
+   nākappaṭṭiṉattiṉ kaṭaṟkaraimītu pēralaikaḷ mōti iṭittuk takarkkap
+   pārkkum. iṉṉum akkontaḷippu kāṅkēcaṉtuṟai - tirikōṇa malai varaiyil
+   paravum. mātōṭṭattaiyum, irāmēcurattaiyum kūṭa oru kai pārttuviṭum.
+   iḷavaracar mutaliyōr ēṟiyirunta paṭaku alaikaḷāl mottuṇṭu mitantu
+   koṇṭēyiruntatu. ciṟitu nērattukkellām tuṭuppu valippataiyum niṟutti
+   viṭṭārkaḷ. tikkum ticaiyum teriyātapōtu, kappal eṅkē irukkiṟateṉṟum
+   teriyāta pōtu, tuṭuppu valittu āvatu eṉṉa? kāṟṟu ōyntuviṭṭatu; maḻai
+   ōyntuviṭṭatu; iṭiyum miṉṉalum niṉṟu viṭṭaṉa. āṉāl alaikaḷiṉ āṅkāram
+   maṭṭum ciṟitaḷavum kuṉṟavillai.
+   paṭaku anta alaikaḷil tattaḷittuk koṇṭēyiruntatu. caṟṟum etirpārāta ōr
+   apāyam atai neruṅki neruṅki vantu koṇṭiruntatu. itō vantuviṭṭatu!
+   erinta kappal muḻukiṟṟallavā! appōtu muḻutum eriyāta oru pāymaram
+   atiliruntu pirintatu. kaṭalil atu mitantu mitantu paṭakukku arukil
+   vantatu. iruṭṭiṉ kāraṇamāka veku camīpattil varumvaraiyil atai oruvarum
+   pārkkavillai.
+   pārttavuṭaṉē, "tuṭuppu valiyuṅkaḷ! tuṭuppu valiyuṅkaḷ!" eṉṟu iḷavaracar
+   kūviṉār. avar kūvi vāy mūṭuvataṟkuḷ antap pāymaram paṭakiṉ
+   aṭippakutiyil iṭittatu. iṭitta vēkattil paṭaku 'paṭār' eṉṟu piḷantatu.
+   mutalil iraṇṭu pakutikaḷākap pirintatu. piṟaku ciṟiya ciṟiya palakait
+   tuṇṭukaḷākap piḷantu citaṟiyatu. "naṇpā! payappaṭātē! intap paṭakaik
+   kāṭṭilum antap pāymaram pattiramāṉata . tāvi ataip paṟṟikkoḷ!" eṉṟār
+   iḷavaracar.
 
-------------------------------------------------------------------------
+   [15]pakka talaippu
+     __________________________________________________________________
 
-aimpattiraṇṭām attiyāyam
-uṭinta paṭaku
-iṭi viḻuntatiṉāl pāymarattiṉ ucciyil tīppiṭittu erivatip pārttatum iṉiammarakkalam
-tappikka muṭiyātu eṉṟu vantiyattēvaṉ niccayamaṭintāṉ. eṉavē, tāṉum uyirōṭutappikka
-muṭiyātu. vantiyattēvaṉukku appōtum ciṟitum maṉakkilēcam uṇṭākavilli.
-uṟcākantāṉmikuntatu. kalakalaveṉṟu cirittāṉ. pāymarattōṭu taṉṉik kaṭṭiyirunta
-kayiṟṟi aviḻttuviṭṭāṉ. naṭukkaṭalil tīyil ventu cākavēṇṭiyatilliyallavā? atik
-kāṭṭilum kuḷirnta nīrilmuḻukik kaṭaliṉ aṭiyil ceṉṟu amitiyāka uyir viṭuvatu
-mēl allavā?
-āyuḷil miccamuḷḷa ciṟitu nēratti vīṇākka vantiyattēvaṉ virumpavilli. tīppaṟṟikappaliṉ
-vuiccattil cuṟṟumuṟṟum naṉṟākap pārttuk kontaḷitta kaṭaliṉ cuntariyatti
-anupavikkavirumpiṉāṉ. taṉ uṭal camāti aṭiyappōkum iṭatti naṉṟākap pārttuk koḷvatu
-nallatallavā?immātiri akāla maraṇamaṭintavarkaḷ, āvi uruvattil iṟanta iṭatticcuṟṟi vantu
-koṇṭiruppārkaḷeṉṟu colvārkaḷē? ammātiri taṉ āviyum intak kaṭaliṉ mēlēyē
-vaṭṭamiṭṭuk koṇṭirukkumō!kāṟṟil mitakkumō? alikaḷiṉ mēlē ulāvumō? cuḻaṟkāṟṟu
-aṭikku pōtu taṉ āviyum cuṟṟiccuṟṟi varumō?
-'ākā! eppōtāvatu orunāḷ intak kaṭalil araciḷaṅkumari, kappal ēṟippōṉālumpōvāḷ.
-kappali ōṭṭum mālumikaḷ "vantiyattēvaṉ kappalōṭu muḻukiya iṭam itutāṉ!"
-eṉṟukāṭṭuvārkaḷ avaḷuṭiya vēl viḻikaḷil kaṇṇīr tuḷittu avaḷatu muḻumati mukattil
-muttu muttākaccintum, āvi vaṭivattilē ati arukiliruntu tāṉ pārkkumpaṭi
-nērntāl, avaḷuṭiya kaṇṇīrittaṉṉāl tuṭikka muṭiyumā?...' kappal oru pēraliyiṉ
-cikarattiṉ mēlē ēṟiyatu. pāymarattīvartti pōṭṭa vuiccattil cuṟṟilum vekutūram
-terintatu. karum paḷiṅku niṟam peṟṟuttikaḻnta kaṭalnīril pāymarat tīyiṉ oḷi viḻunta
-iṭam maṭṭum poṉ veḷḷamākat tikaḻntatu. intaaḻakiṉ aṟputatti vantiyattēvaṉ pārttu
-makiḻntu muṭivataṟkuḷ avaṉuṭiya kaṇṇiyum kavaṉattiyumvēṟoṉṟu kavarntatu.
-caṟṟuttūrattil avaṉ oru marakkalattip pārttāṉ. atil pulikkoṭi paṟakkak kaṇṭāṉ.
-'kaṭavuḷē! uṉ vintikaḷukku elliyē illi pōlum! - anta marakkalattilē varukiṟavar
-iḷavaracararuḷmoḻi varmarākat tāṉ irukkavēṇṭum. taṉṉit tēṭik koṇṭutāṉ avar
-varukiṟār;' - eṉṟuavaṉuṭiya uḷḷuṇarcci kūṟiyatu!
-vantiyattēvaṉ ēṟiyirunta kappal cikkikkoṇṭu tattaḷitta atē cuḻik
-kāṟṟilpārttipēntiraṉuṭiya kappalum akappaṭṭuk koṇṭatu. āṉāl intak kappalil accuḻik
-kāṟṟiṉtaṉmiyi aṟintavarkaḷum kappalōṭṭum kaliyil vallavarkaḷumāṉa mālumikaḷ
-iruntārkaḷ. pāymaraṅkaḷil virittirunta pāykaḷi avarkaḷ iṟakkic cuṟṟi vittārkaḷ.
-kāṟṟiṉ vēkam muḻuvatiyumkappal etirttu niṟpatu avaciyamillāta vaṇṇamākak kappaliṉ cu
-kkāṉip piṭittu iyakki vantārkaḷ. oru nimiṣam kappal aṭiyōṭu cāyntu, 'itō
-kaviḻntu viṭṭatu' eṉṟu tōṉṟum; maṟu nimiṣamcamāḷittuk koṇṭu nimirntu niṟkum.
-mali pōṉṟa alikaḷ antak kappali ettaṉitāṉ tākkiyumatil iṇikkappaṭṭirunta maraṅkaḷum
-palakikaḷum ciṟitēṉum piḷantu koṭukka vēṇṭumē! kiṭiyavēkiṭiyātu! camuttirarājaṉ
-antak kappalip pantu āṭuvatupōl tūkki eṟintu viḷiyāṭiṉāṉ. cuḻikkāṟṟu akkappalip
-pamparam cuṟṟuvatupōlac cuḻaṟṟic cuḻaṟṟi alittatu. vāṉattiliruntu veḷḷampoḻintu
-antak kappalik kaṭalil amukki aḻittuviṭap pārttatu. cōḻanāṭṭut taccuvēlinipuṇarkaḷ
-kaṭṭiya akkappali, - tamiḻakattiṉ pukaḻpeṟṟa mālumikaḷ celuttiya akkappali -
-kaṭalummaḻiyum kāṟṟum cērntu tākkiyum oṉṟum ceyyamuṭiyavilli.
-"itik kāṭṭilum koṭiya cuḻikkāṟṟukaḷiyum caṇṭamārutaṅkaḷiyum nāṉ
-pārttirukkiṟēṉ;camāḷittirukkiṟēṉ. ākiyāl kavalippaṭat tēviyilli!" eṉṟu kalapati
-kūṟiṉāṉ. āṉāl avaṉpārttipēntiraṉiṭam iḷavaracariṭamum vēṟōr apāyattip paṟṟit taṉ
-payatti vuiyiṭṭāṉ.
-'kariya mēkaṅkaḷ tiraṇṭu vanta vāṉi mūṭi nālāpuṟamum iruḷ cūḻac ceytuviṭṭaṉa.
-pōtātaṟkuc cōṉāmāriyāka maḻiyum peytatu. kaṭalil eḻunta alikaḷō varici variciyāṉa
-malittoṭarkaḷippōl kappalic cuṟṟit tiriyiṭṭu maṟittaṉa. inta niliyil avarkaḷ entak
-kappalittēṭic ceṉṟārkaḷō atu veku camīpattil vantālum pārkka muṭiyātu antak
-kappalum itip pōlattāṉcuṟṟic cuḻaṉṟu tattaḷittuk koṇṭirukkum. kappalkaḷ oṉṟōṭoṉṟu
-mōtiṉāl iraṇṭum cukkalcukkalākip pōyviṭum. kappalil uḷa ḷavarkaḷiṉ kati
-atōkatitāṉ!" 'ākavē cuḻikkāṟṟiṉapāyattik kāṭṭilum cuṟṟilum oṉṟum pārkka
-muṭiyāmaliruppatutāṉ atika apāyam' eṉṟu ammarakkalattalivaṉ kūṟiṉāṉ.
-itu iḷavaracarukkut terinta viṣayantāṉ. ākavē avar attaṉik kāṟṟilum maḻiyilumkappaliṉ
-ōramāka niṉṟu koṇṭu taṉ kūriya kaṇkaḷiṉ pārviyi nālāpuṟamum celuttik
-koṇṭiruntār.miṉṉal miṉṉiya pōtellām avaruṭiya kaṇkaḷ ativēkamākac cuḻaṉṟu
-cuṟṟuppuṟameṅkum uṟṟuppārttaṉa. avaruṭiya uḷḷam eppaṭit tattaḷittuk koṇṭiruntatu
-eṉpatic colli muṭiyātu. taṉarumit tamakki aṉuppiya tūtaṉ muraṭṭu
-arāpiyarkaḷiṭamum, kolikāra mantiravātikaḷiṭamum akappaṭṭukkoṇṭirukkiṟāṉ. atu
-pōtātu eṉṟu intac cuḻikkāṟṟu vēṟu vantu cērntatu. oruvēḷi avvīravālipaṉ
-ēṟiyuḷḷa kappalik kaṇṭupiṭikka muṭiyāmalē pōyviṭumō? kaṇṭupiṭittālum, avaṉi
-uyirōṭukāṇpatu cāttiyamā? kalapati añcuvatupōl avaṉ ēṟiyirukkum kappal mēl nam
-kappal mōti iraṇṭumkaṭalil mūḻkiṉāl vēṭikkiyākattāṉirukkum! āṉāl tantiyiṭam
-collavēṇṭiya ceytiyic colluvatuyār? pārttipēntiraṉiṭam antak kuṭumpa irakaciyattik
-kūṟuvatu iyalāta kāriyam. kūṟiṉāl antappallavaṉukku atu kēliyāyirukkum; ataṉ
-mukkiyattuvatti avaṉ uṇaramāṭṭāṉ. itukāṟum iḷavaracar ceyyeṇṇiya kāriyam etilum
-tōlviyaṭintatilli. ippōtu tōlvi ēṟpaṭṭuviṭumō? - illi,orunāḷum illi.
-poṉṉiyiṉ celvaṉukkut tīṅku nēruvatiyō, tōlvi ēṟpaṭuvatiyō camuttirarājaṉ pārttuk
-koṇṭirukkamāṭṭāṉ!
-iruḷiyum maḻiyiyum kiḻittukkoṇṭu ellāt ticikaḷiyum pārttuk koṇṭira nta
-iḷavaracarumantap pēriṭi muḻakkattik kēṭṭār. appōtu miṉṉiya miṉṉalukku avarum
-kaṇkaḷic ciṟitumūṭikkoḷḷa vēṇṭiyatāyiṟṟu. kaṇṇit tiṟantu pārttapōtu miṉṉal
-vuiccamillāta vēṟoruvuiccattik kaṇṭār. caṟṟut tūrattil oru kappal viritta
-pāymaraṅkaḷuṭaṉ pēyāṭuvatu pōlāṭikkoṇṭiruntatu! ataṉ pāymarattiṉ ucciyil tīppaṟṟi
-erintatu! antat tīyiṉ vuiccattiliḷavaracar atil oru maṉitaṉ pāymarattōṭu cērttu
-niṟpatik kaṇṭār! kaṭavuḷē! ittakiya aṟputamumnaṭakkak kūṭumā? avaṉ anta vīra iḷiñaṉākiya
-vantiyattēvaṉtāṉ! avaṉ maṭṭum ēṉ taṉiyākaniṟkiṟāṉ? maṟṟavarkaḷ eṉṉa āṉārkaḷ? atip
-paṟṟiyellām yōcippataṟku ippōtu nēramilli. ceyyavēṇṭiyatu iṉṉateṉpati oru noṭip
-poḻutil iḷavaracar tīrmāṉittuk koṇṭār.
-avar pārtta kāṭciyik kappalil irunta maṟṟavarkaḷ palarum pārttārkaḷ. "atō!"
-eṉṟuavarkaḷ ēkakālattil eḻuppiya periya kūccal kāṟṟiṉ payaṅkarac captattiyum
-mīṟikkoṇṭu eḻuntatu. kappalōṭu cērttuk kaṭṭiyirunta paṭakaṇṭi pōy iḷavaracar niṉṟu
-koṇṭu, arukil niṉṟa mālumikaḷippārttu, "uṅkaḷil yār eṉṉuṭaṉ varuvīrkaḷ?" eṉṟu
-uratta kuralil kēṭṭār. avar ceyyuttēcitta kāriyam iṉṉateṉṟu ūkittaṟintu mālumikaḷ
-tikittārkaḷ. āyiṉum palar pōṭṭiyiṭṭumuṉvantārkaḷ. pārttipēntiraṉum, kalapatiyum
-vantu taṭukkap pārttārkaḷ.
-"iḷavaracē! itu eṉṉa kāriyam! intak kontaḷikkum kaṭalil paṭaku eppaṭic celutta
-muṭiyum?erikiṉṟa kappalil uḷḷavaṉi eppaṭik kāppāṟṟa muṭiyum? āṉālum muyaṟci
-ceytu pārkkalām. tāṅkaḷpōkavēṇṭām. pōvataṟku eṅkaḷil ettaṉa yō pēr irukkiṟārkaḷ"
-eṉṟāṉ pārttipēntiraṉ.
-"jākkirati! iccamayam eṉṉit taṭukkap pārkkiṟavarkaḷi nāṉ oru nāḷum
-maṉṉikkamuṭiyātu." eṉṟu irājakampīramāṉa atikāra tōraṇiyil kūṟiṉār iḷavaracar. atē
-camayattil paṭakiaviḻttu viṭṭār."uṅkaḷil iraṇṭu pēr pōtum; vāruṅkaḷ!" eṉṟār.
-paṭaku kaṭalil iṟaṅkiyatu. iḷavaracar, avar kuṟippiṭṭa iruvarum atil
-kutittārkaḷ.maṟukaṇamē paṭaku kappali viṭṭu akaṉṟu ceṉṟatu. alikaḷiṉmēl āvēcakkūttu
-āṭiyatu. iḷavaracarum maṟṟiruvarum tuṭuppukaḷip palaṅkoṇṭa maṭṭum valittārkaḷ. ciṟitu
-ciṟitākap paṭaku erikiṉṟa kappaliaṇukiyatu. itaṟkuḷ tī ucciyiliruntu pāti pāymaram
-variyil iṟaṅkiviṭṭiruntatu. āṉālvantiyattēvaṉō aṅkē niṉṟu koṇṭiruntāṉ. avaṉ
-tīyiṉ vuiccattil kappalip pārttāṉ;kappaliliruntu iṟakkappaṭṭu vanta paṭakiyum
-pārttāṉ. anta aticayattil taṉṉi maṟantiruntāṉ. tāṉ ētēṉum ceyya vēṇṭum eṉṟē
-avaṉukkut tōṉṟavilli.
-"kuti kaṭalil kuti!" eṉṟu kattiṉār iḷavaracar. avaṉ kātil atu viḻavilli. ceyalaṟṟa
-patumiyippōl niṉṟu koṇṭiruntāṉ. āyiṟṟu; iṉṉum ciṟitu nēram tāmatittāl
-kappalaṭittaḷattiṟku neruppu vantuviṭum; kappal muḻukiviṭum. appuṟam avaṉik
-kāppāṟṟuvatu iyalātakāriyamāki viṭum.
-eṉṉa ceyyavēṇṭum eṉpati maṟupaṭiyum iḷavaracar oru noṭiyil muṭivu ceytār.
-ittakiyacantarppaṅkaḷukkeṉṟu anta apāyap paṭakil cērttuk kaṭṭiyirunta nīḷakkayiṟṟiṉ
-iṉṉoru nuṉiyittamatu iṭuppil cuṟṟi iṟukkik kaṭṭik koṇṭār. mālumikaḷ
-iruvarukkum eccarikki ceytuviṭṭukkaṭalil kutittār.ittaṉi nēram paṭa uṭaṉ
-viḷiyāṭiya alikaḷ ippōtu iḷavaracaruṭaṉ viḷiyāṭiṉa. oru kaṇam avari vāṉattukku
-uyarttiṉa; maṟukaṇam pātāḷattil taḷḷiṉa. eṉiṉum iḷavaracar ticiyumkuṟiyum tavaṟāmal
-erikiṉṟa kappali nōkki vēkamākap pōyk koṇṭiruntār.
-oru periya, mikap periya ali vantatu! iḷavaracar mēlē atu viḻuntiruntāl
-avariamukkik kaṭaliṉ aṭiyil koṇṭu pōyirukkak kūṭum! āṉāl atu nalla ali;
-iḷavaracarukku ēval ceyyavantatu. avarit taṉ ucciyil vittuk tūkkikkoṇṭu pōy
-erikiṉṟa kappaliṉ mēl taḷattileṟintatu.
-ēṟkeṉavē kaṭṭu aviḻttuk koṇṭirunta vantiyattēvaṉ iḷavaracarip pārttatum, 'ā'
-eṉṟualaṟi avari eṭuppataṟkākat tāvik kuṉintāṉ. iḷavaracar avaṉuṭiya kaḻutti appaṭiyē
-iṟukkik kaṭṭikkoṇṭār. avaṉ kātukkuḷ "eṉṉip piṭittukkoṇṭu vā! viṭṭu
-viṭātē!" eṉṟār. collimuṭinta taṭcaṇamē iruvarum maṟupaṭiyum kaṭalil mitantu
-alikaḷiṉāl mottuṇṭārkaḷ. mālumikaḷ tuṭupputtaḷḷuvati niṟuttik kayiṟṟip piṭittu
-iḻukkalāṉārkaḷ. iḷavaracarum avari uṭumpup piṭiyākappiṭittuk koṇṭirunta
-vantiyattēvaṉum paṭaki aṇukiṉārkaḷ. paṭakippiṭittu atil ēṟuvatu eḷiyakāriyamilli.
-alikaḷuṭaṉ pōrāṭikkoṇṭu vantiyattēvaṉiyum tāṅkik koṇṭu paṭakil ēṟuvataṟkumuyaṉṟa
-ovvoru kaṇamum oru yukamāka iruntatu.
-itō paṭaku kikku akappaṭuvatu pōlirukkum; aṭutta kaṇam eṭṭāta tūrattil pōyviṭum.
-kaṭiciyāka, ataṟkum oru periya ali utavi ceytatu. paṭakiṉ arukil uyaramāka eḻunta
-antappēraliyōṭu avarkaḷum eḻuntārkaḷ. mālumikaḷiṉ utaviyuṭaṉ paṭakil kutittārkaḷ.
-"tuṭuppi valiyuṅkaḷ! vēkamāy valiyuṅkaḷ!" eṉṟār iḷavaracar. ēṉeṉi , erikiṉṟakappal
-kaṭalil muḻukum nēram neruṅkik koṇṭiruntatu. appaṭi muḻukumpōtu ēṟpaṭum
-kontaḷippilpaṭaku kaviḻntālum kaviḻntuviṭum. atu maṭṭumaṉṟu; kappal muḻukit tī
-aṇintu viṭṭāl piṟakumaṟṟoru kappali avarkaḷ piṭippatu acāttiyamāki viṭalām.
-ākā! atō kappal muḻukat toṭaṅkiviṭṭatu. koḻuntuviṭṭu erinta pāymaraṅkaḷuṭaṉē
-atukaṭalil muḻukiya kāṭcitāṉ eṉṉa payaṅkara cuntaryamāyiruntatu! ati avarkaḷāl
-atikanēramanupavikka muṭiyavilli. iḷavaracar etirpārttatu pōlavē kaṭalil oru periya
-kontaḷippu. vāṉaḷāvi mēleḻunta alikaḷ.
-paṭaku eṉṉamō alikaḷic camāḷittuk koṇṭatu. āṉāl erinta kappal mūḻkiyatum
-cuṟṟilumcūḻnta iruḷil maṟṟoru kappal irunta iṭamē teriyāmal pōyiṟṟu. tikkuttici
-oṉṟumēteriyavilli. paṭakum, kappalum oṉṟiyoṉṟu neruṅkikkoṇṭirukkiṉṟaṉavō, akaṉṟu
-pōykoṇṭirukkiṉṟaṉavō, - atit terintu koḷḷavum vaḻiyilli. iraṇṭilum apāyam
-uṇṭu.
-iruṭṭil kappal irukkumiṭam teriyāmal ati neruṅkicceṉṟu muṭṭikkoṇṭāl, paṭaku
-tukaḷtukaḷākum. vilakip pōyviṭṭāl, kēṭpāṉēṉ? naṭukkaṭalil, kāriruḷil antac
-ciṉṉañciṟupaṭakiṉāl eṉṉa ceyya muṭiyum? camuttira rājaṉē! uṉ kātali poṉṉi nati tanta
-arumic celvaṉinītāṉ kāppāṟṟavēṇṭum!
-vāyu pakavāṉuṭiya līlikaḷ vekuveku aticayamāṉavi. antap perum cuḻikkāṟṟu
-evvaḷavuavacaramāka vantatō avvaḷavu avacaramākavē pōyviṭṭatu. pōkum vaḻiyilellām kaṭalip
-paṭātapāṭupaṭuttiviṭṭup pōy viṭṭatu.
-cuḻikkāṟṟu pōyviṭṭatu caritāṉ; āṉāl ataṉāl kaṭalil ēṟpaṭṭa kontaḷippu
-ilēcilaṭaṅkiviṭātu. oru iravum, oru paka um nīṭittiruntālum irukkum. antak
-kontaḷippiṉ vēkamneṭuntūram pirayāṇam ceyyum kōṭikkariyil vistāramāṉa maṇaṟ
-piratēcattiyellām kaṭalēṟimūṭiviṭum. nākappaṭṭiṉattiṉ kaṭaṟkarimītu pēralikaḷ mōti
-iṭittuk takarkkap pārkkum. iṉṉumakkontaḷippu kāṅkēcaṉtuṟi - tirikōṇa mali
-variyil paravum. mātōṭṭattiyum,irāmēcurattiyum kūṭa oru ki pārttuviṭum.
-iḷavaracar mutaliyōr ēṟiyirunta paṭaku alikaḷāl mottuṇṭu mitantu koṇṭēyiruntatu.
-ciṟitu nērattukkellām tuṭuppu valippatiyum niṟutti viṭṭārkaḷ. tikkum
-ticiyumteriyātapōtu, kappal eṅkē irukkiṟateṉṟum teriyāta pōtu, tuṭuppu valittu
-āvatu eṉṉa? kāṟṟuōyntuviṭṭatu; maḻi ōyntuviṭṭatu; iṭiyum miṉṉalum niṉṟu viṭṭaṉa.
-āṉāl alikaḷiṉ āṅkāram maṭṭumciṟitaḷavum kuṉṟavilli.
-paṭaku anta alikaḷil tattaḷittuk koṇṭēyiruntatu. caṟṟum etirpārāta ōr apāyam
-atineruṅki neruṅki vantu koṇṭiruntatu. itō vantuviṭṭatu! erinta kappal
-muḻukiṟṟallavā! appōtumuḻutum eriyāta oru pāymaram atiliruntu pirintatu. kaṭalil
-atu mitantu mitantu paṭakukku arukilvantatu. iruṭṭiṉ kāraṇamāka veku camīpattil
-varumvariyil ati oruvarum pārkkavilli.
-pārttavuṭaṉē, "tuṭuppu valiyuṅkaḷ! tuṭuppu valiyuṅkaḷ!" eṉṟu iḷavaracar kūviṉār.
-avarkūvi vāy mūṭuvataṟkuḷ antap pāymaram paṭakiṉ aṭippakutiyil iṭittatu. iṭitta
-vēkattil paṭaku'paṭār' eṉṟu piḷantatu. mutalil iraṇṭu pakutikaḷākap pirintatu. piṟaku
-ciṟiya ciṟiya palakittuṇṭukaḷākap piḷantu citaṟiyatu. "naṇpā! payappaṭātē! intap paṭakik
-kāṭṭilum antap pāymarampattiramāṉata . tāvi atip paṟṟikkoḷ!" eṉṟār iḷavaracar.
+   aimpattu mūṉṟām attiyāyam
+   apaya kītam
+   iḷavaracar aruḷmoḻivarmar pārttipēntiraṉuṭaiya kappalukkup pōyccērum
+   varaiyil, toṇṭaimāṉ natiyiṉ mukattuvārattil niṉṟavarkaḷ pārttuk
+   koṇṭiruntārkaḷ. kappalil iḷavaracar ēṟikkoṇṭa uṭaṉē avarai ēṟṟic ceṉṟa
+   paṭaku tirumpiyatu. cēnātipati pūti vikkiramakēcari kutūkalam
+   aṭaintiruntār eṉṟu avaruṭaiya mukakkuṟi kāṭṭiyatu. "āṇṭavaṉ nam
+   kaṭciyil irukkiṟār; cantēkamillai. iḷavaracariṉ tirumēṉiyil uḷḷa
+   caṅkucakkarac ciṉṉaṅkaḷ paḻutākap pōyviṭumā? pārttipēntiraṉ avaraip
+   pattiramākak kāñci koṇṭupōyc cērttuviṭuvāṉ. nāmum nam paṭaikaḷuṭaṉ
+   tañcaiyai nōkkip puṟappaṭa vēṇṭiyatutāṉ!" eṉṟu tamakkuttāmē
+   collukiṟavar pōl koṭumpāḷūr vēḷār urattuc collik koṇṭār.
+   uṭaṉē pakkattilirunta āḻvārkkaṭiyāṉaip pārttār. "vaiṣṇavaṉē! nī iṅku
+   niṟkiṟāyā? ataṉāl pātakam illai. mutaṉ mantiriyiṉ antaraṅka oṟṟaṉukkut
+   teriyātatu eṉṉa irukkiṟatu? cari, nī eṉṉa ceyyap pōkiṟāy? mātōṭṭattukku
+   eṉṉuṭaṉ varap pōkiṟāyā?" eṉṟu kēṭṭār.
+   "illai, aiyā! mutaṉ mantiri eṉakku iṭṭa iṉṉum oru vēlai nāṉ
+   ceyyavēṇṭiyirukkiṟatu..."
+   "atu eṉṉa, appā?"
+   āḻvārkkaṭiyāṉ caṟṟut tūrattil ūmairāṇiyum pūṅkuḻaliyum niṉṟa iṭattai
+   nōkkiṉāṉ.
+   "antap peṇkaḷaip paṟṟiya viṣayamā?" eṉṟār cēnātipati.
+   "avarkaḷil oruvaraip paṟṟiyatutāṉ; ilaṅkaiyil ittakaiya ūmai stirī
+   oruttiyaip pārkka nērntāl avaḷai eppaṭiyāvatu tañcāvūrukku aḻaittu
+   varumpaṭi mutaṉ mantiri ka ṭṭaḷaiyiṭṭirukkiṟār."
+   "nalla vēlai uṉakkuk koṭuttār. ataik kāṭṭilum ilaṅkaik kaṭalkaḷil
+   aṭikkum puyaṟ kāṟṟukaḷil oṉṟaip piṭittukkoṇṭu varumpaṭi uṉakkuc
+   colliyirukkalām.anta ūmai stirīyaip piṭittukkoṇṭu pōvatu avvaḷavu
+   culapamāyirukkum. avaḷ yārō teriyavillai. nam iḷavaracariṭam mikka
+   apimāṉam vaittirukkiṟāḷ. uṉakku ētāvatu avaḷaippaṟṟit teriyumā?"
+   "avaḷ ūmai eṉpatum, piṟavicceviṭu eṉpatum teriyum. avaḷai aḻaittuc
+   celvataik kāṭṭilum puyaṟkāṟṟaik kūṇṭil aṭaittukkoṇṭu pōvatu culapam
+   eṉṟum teriyum. āyiṉum eṉ ejamāṉar colliyirukkiṟa paṭiyāl oru
+   pirayattaṉam ceytu pārppēṉ."
+   "inta ōṭakkārap peṇṇukkum avaḷukkumkūṭac cinēkam pōlirukkiṟatu. iraṇṭu
+   pērum jāṭaikaḷiṉāl pēcikkoḷvataip pār! antap peṇṇai iṅkē kūppiṭu!
+   avaḷukku ōr eccarikkai ceyya vēṇṭum!..."
+   āḻvārkkaṭiyāṉ antap peṇkaḷiṉ arukil ceṉṟu pūṅkuḻaliyiṭam cēnātipati
+   aḻaippataik kūṟiṉāṉ. pūṅkuḻali ūmai rāṇiyai viṭṭup pirintu
+   cēnātipatiyai aṇukiṉāḷ. "itō pār, peṇṇē! nī veku putticāli! nalla
+   camayattil vantu, mukkiyamāṉa ceyti coṉṉāy. cōḻakulattukkup periya
+   utavi ceytāy. itai nāṉ eṉṟum maṟakka māṭṭēṉ. takka camayattil takunta
+   paricil koṭuppēṉ" eṉṟār.
+   pūṅkuḻali, "vantaṉam, aiyā! eṉakkup paricil etuvum tēvaiyillai" eṉṟu
+   paṇivuṭaṉ coṉṉāḷ.
+   "tēvaiyillai eṉṟāl yār viṭukiṟārkaḷ? intak kuḻappamellām koñcam
+   aṭaṅkaṭṭum. piṟaku...piṟaku cōḻa nāṭṭuc caiṉyattil vīrāti vīraṉākap
+   pārttu uṉakkut tirumaṇam ceytu vaikkiṟēṉ. uṉakku vāykkiṉṟa kaṇavaṉ aṟpa
+   coṟpamāṉavaṉa y iruntāl pōtātu. pīmacēṉaṉāka irukkavēṇṭum. illāviṭṭāl
+   avaṉaik kaṇṇilē viralaik koṭuttu āṭṭi vaittuviṭa māṭṭāyā?" eṉṟu
+   cēnātipati kūṟip puṉṉakai purintār.
+   pūṅkuḻali taraiyaip pārttapaṭi niṉṟāḷ. avaḷ uḷḷattil kōpam poṅkiyatu.
+   āṉāl atai accamayam kāṭṭikoḷḷa virumpavillai. inta muraṭṭuk kiḻavariṭam
+   caṇṭai piṭippatil payaṉ eṉṉa? kōpattai aṭakkik koḷḷa muyaṉṟāṉ.
+   "āṉāl oru viṣayattai maṭṭum ñāpakam vaittuk koḷ, iḷavaracarukku ētō
+   utavi ceytuviṭṭa paṭiyāl, avar pēril pāttiyatai koṇṭāṭalām eṉṟu eṇṇātē!
+   kaṭalil valai pōṭṭu mīṉ piṭippatōṭu niṟuttikkoḷ! iḷavaracarai valai
+   pōṭṭup piṭikkalām eṉṟu ācaippaṭātē! jākkiratai, peṇṇē! iṉi avar arukil
+   neruṅkiṉālum uṉakku āpattu varum!" eṉṟār cēnātipati.
+   avaruṭaiya kural appōtu mikak kaṭumaiyāka iruntatu. avaruṭaiya ovvoru
+   vārttaiyum kāycciya īyattuḷiyai viṭuvatu pōl pūṅkuḻaliyiṉ kātil
+   viḻuntatu. antak kiḻavaṉārukkup patilukkup patil kāracāramāṉa
+   vārttaikaḷaic colla vēṇṭum eṉṟu pūṅkuḻali virumpiṉāḷ. āṉāl pēca
+   iyalavillai. toṇṭaiyai aṭaittatu. kātil viḻunta kāycciya īyat tuḷikaḷ
+   kaṇ vaḻiyāka vaui vantaṉa pōl veppamāṉa kaṇṇīrttuḷikaḷ tōṉṟik kaṇkaḷai
+   eriyacceytaṉa.
+   kuṉinta talai nimirāmal pūṅkuḻali tirumpiṉāḷ. kaṭaṟkaraikku etirppakkam
+   nōkki naṭantāḷ. naṭai metuvāka ārampamāyiṟṟu. varavaravēkam
+   atikarittatu. ūmai rāṇi irunta ticaiyai oru kaṇam kaṭaikkaṇṇāl pārttāḷ.
+   avaḷ arukil āḻvārkkaṭiyāṉ niṉṟu ētō avaḷiṭam terivikka muyaṉṟu
+   koṇṭiruppataik kaṇṭāḷ. maṉitarkaḷ uḷḷa iṭattilēyē tāṉ irukkakkūṭātu
+   eṉṟa eṇṇam avaḷukkut tōṉṟiyatu. maṉitak kuralaiyē kēṭkap piṭikkavillai.
+   ā! maṉitarkaḷ ettaṉai koṭūramāṉavarkaḷ? etaṟkāka ivvaḷavu kurūramāṉa
+   coṟkaḷaip pēcukiṟārkaḷ! ellārum ūmaikaḷākavē iruntuviṭṭāl evvaḷavu
+   naṉṟāyirukkum?
+   ciṟitu tūram kāṭṭil pukuntu ceṉṟa piṟaku, toṇṭaimāṉāṟṟiṉ karaiyai
+   aṭaintāḷ. antak karaiyōṭu uḷnāṭṭai nōkki naṭantāḷ. avaḷuṭaiya paṭakai
+   viṭṭirunta iṭattaik kuṟi vaittu naṭantāḷ. ām. cīkkiram antap
+   paṭakaippōyc cēravēṇṭum. paṭakil ēṟik koḷḷavēṇṭum. taṉṉantaṉiyākak
+   kaṭalil cella vēṇṭum. maṉitarkaḷuṭaiya kural kātil viḻa muṭiyāta
+   naṭukkaṭalukkē pōyviṭa vēṇṭum.tuṭuppaic cummā vaittuviṭavēṇṭum.
+   alaikaḷil mottuṇṭu paṭaku mitantu mitantu pōkavēṇṭum. tāṉum atil pōy
+   koṇṭirukka vēṇṭum. ellaiyillāta kaṭalil muṭivillāmal pōyk koṇṭirukka
+   vēṇṭum. appōtutāṉ alaipaṭṭa taṉ uḷḷam amaiti peṟum. cēnātipatiyiṉ
+   vārttaikaḷiṉāl nonta uḷḷattiṉ vētaṉai tīrum. āttiram taṇintu āṟutal
+   uṇṭākum.
+   antap pollāta kiḻavaṉ eṉṉa coṉṉāṉ! "valai pōṭṭuk kaṭalil mīṉ
+   piṭippatōṭu niṟuttik koḷ! iḷavaracarukku valai pōṭātē!" eṉṟāṉ. nāṉā
+   iḷavaracarukku valai pōṭukiṟēṉ! cīccī! antak kiḻavaṉiṉ putti pōṉa
+   pōkkaip pār!... ām; taraiyil vāḻum maṉitarkaḷaik kāṭṭilum kaṭalil vāḻum
+   mīṉkaḷ evvaḷavō nalla jantukkaḷ. avai ippaṭiyellām koṭūramākap
+   pēcuvatillai. āḻkaṭalil nīntiyum mitantum evvaḷavu āṉantamākak
+   kālaṅkaḻikkiṉṟaṉa! avaṟṟukkuk kavalai ētu? tuyaram ētu? ākā! nāṉ
+   kaṭalil vāḻum mīṉākap piṟantirukkakkūṭātā? appaṭip piṟantiruntāl, inta
+   ulakattiṉ tuyaraṅkaḷ, tuvēṣaṅkaḷ, ācāpācaṅkaḷ, kōpatāpaṅkaḷ, ivaṟa ṟil
+   akappaṭṭuk koḷḷāmal catā carva kālamum āḻkaṭalil nīnti nīntip pōyk
+   koṇṭirukkalām allavā? appōtu taṉṉaiyum iḷavaracaraiyum pirippataṟkō
+   vañcakam ceyvataṟkō vijamamākap pēcuvataṟkō yārum irukka māṭṭārkaḷ
+   allavā?... illai, illai! atuvum niccayamillai. aṅkēyum intap pollāta
+   maṉitarkaḷ vantu valai pōṭṭup piṭittuk koṇṭu pōkap pārppārkaḷ! iraṇṭu
+   mīṉkaḷil oṉṟai maṭṭum koṇṭu pōṉālum pōvārkaḷ! pātakarkaḷ!..."
+   pūṅkuḻaliyiṉ maṉattil poṅkiya āttiram avaḷuṭaiya kālkaḷukku aḷavillāta
+   viraivaik koṭuttatu. cūriyaṉ uccivāṉukku vanta camayam avaḷ paṭakai
+   viṭṭirunta iṭattai aṭaintuviṭṭāḷ.nalla vēḷai; paṭaku viṭṭirunta iṭattil
+   kaṭṭip pōṭṭapaṭiyē iruntatu.avaḷuṭaiya āruyirttōḻi antap paṭakutāṉ.
+   avaḷuṭaiya aṭaikkala stāṉam antap paṭakutāṉ. tuṉpamum, turōkamum cūḻnta
+   intap pollāta ulakattil taṉakku amaitiyum āṉantamum aḷippatu antac cāṇ
+   akalattup paṭakutāṉ. atai yārum aṭittukkoṇṭu pōkāmal viṭṭu vaittatu
+   periya kāriyam.
+   'iṉi etu eppaṭiyāvatu pōkaṭṭum. iḷavaracarai antak kiḻac cēnātipati
+   kāval puriyaṭṭum. koṭumpāḷūr vīṭṭup peṇṇaiyē avar kaḻuttil
+   kaṭṭiviṭaṭṭum. ataṉāl eṉakku eṉṉa? eṉ paṭaku irukkiṟatu; tuṭuppu
+   irukkiṟatu; kaiyil valivu irukkiṟatu; vicālamāṉa kaṭalum irukkiṟatu.
+   camuttira rājaṉē! uṉ arumaip putalviyai vēṟu yār kaiviṭṭālum nī kaiviṭa
+   māṭṭāy allavā? "camuttira kumāri" eṉṟu iḷavaracar tiruvāyiṉāl
+   kūṟiyataip poyyākka māṭṭāy allavā?
+   pūṅkuḻali paṭakil ēṟikkoṇṭāḷ. kaṭalai nōkkip paṭakaic celuttiṉāḷ.
+   natiyiṉ ōṭṭattōṭu ceṉṟapaṭiyāl cīkkirattilēyē toṇṭaimāṉāṟṟa ṉ
+   mukattuvarāttai aṭaintuviṭṭāḷ. piṉṉar kaṭalil paṭakaic celuttiṉāḷ.
+   ciṟitu nērattukkellām cuḻikkāṟṟu aṭikkap pōkiṟatu eṉṟu avaḷukkut
+   terintu pōyiṟṟu.cuḻikkāṟṟiṉ muṉ aṟikuṟikaḷai avaḷ naṉku aṟintiruntāḷ.
+   mutalnāḷ iravu cantiraṉaic cuṟṟic cāmpal niṟa vaṭṭam kāṇappaṭṭatu.
+   iṉṟaikkup pakalellām orē puḻukkamāyiruntatu. maraṅkaḷil ilai
+   acaiyavillai. atō teṉmēṟku mūlaiyil kariya mēkattiṭṭukkaḷ
+   kiḷampiviṭṭaṉa. cīkkirattil cuḻikkāṟṟu aṭikkappōvatu niccayam. kaṭaliṉ
+   kontaḷippu aṟputak kāṭciyirukkum. āṉāl cuḻikkāṟṟu aṭikkap pōvatu
+   niccayam. kaṭaliṉ kontaḷippu aṟputak kaṭalil akappaṭṭuk koḷḷak kūṭātu.
+   pūtat tīvukkup pōyt taṅkiyiruppatu nallatu. aṅkē taṅkiyiruntāl
+   cuḻikkāṟṟiṉāl kaṭalilē uṇṭākum allōla kallōlattai naṉṟākap pārttuk
+   kaḷikkalām. kāṟṟu aṭittuviṭṭup pōṉa piṟaku, kaṭalilum kontaḷippuc
+   ciṟitu aṭaṅkiya piṟaku, paṭakaik kaṭalil celuttikkoṇṭu kōṭikkaraikkup
+   pōkalām. ippōtu eṉṉa avacaram? kōṭikkaraikku ippōtu anta marakkalam
+   anēkamākap pōyirukkum. nallavēḷai cuḻikkāṟṟil atu akappaṭṭuk koṇṭirātu.
+   iḷavaracar ittaṉai nēram pattiramākap pōy aṅkē iṟaṅkiyiruppār.allatu
+   oruvēḷai māmallapurattukkē pōyiruntālum pōyiruppār. eṅkē pōyiruntāl
+   namakku eṉṉa? cuḻikkāṟṟil akappaṭṭuk koṇṭirukkamāṭṭār; anta varaikkum
+   tirupti aṭaiyalām.
+   cuḻikkāṟṟut toṭaṅkuvataṟku muṉṉāl aṭiyōṭu kāṟṟu niṉṟu pōyiruntapaṭiyāl
+   marakkalaṅkaḷ pāy virittiruntum kaṭalil pōka muṭiyavillai eṉpatu
+   pūṅkuḻalikkut teriyātu. ākaiyāl itta ai nēram akkarai pōyc cērntirukkum
+   eṉṟē niṉaittāḷ. cēnātipati, "iḷavaracarukku valai pōṭātē!" eṉṟu coṉṉatu
+   aṭikkaṭi avaḷuṭaiya maṉattil tōṉṟi tuṉpuṟuttik koṇṭiruntatu. ākaiyāl,
+   kōṭikkaraikkut tāṉum uṭaṉē pōkavēṇṭām eṉṟu eṇṇiṉāḷ. pūtat tīvilē
+   taṅkiyiruntatu. cuḻikkāṟṟiṉ aṭṭakācaṅkaḷai vēṭikkaip pārttuk
+   koṇṭiruntuviṭṭup piṟaku cāvakācamākap puṟappaṭat
+   tīrmāṉittāḷ.toṇṭaimāṉāṟṟiṉ mukattuvārattiliruntu pūtattīvu atika
+   tūrattil illai ākaiyāl puṟappaṭṭa oru nāḻikai nērattukkuḷ aṅkē pōyc
+   cērntuviṭṭāḷ. pūṅkuḻali pūtattīvaic cērntataṟkum cuḻikkāṟṟu aṭikkat
+   toṭaṅkiyataṟkum cariyāyiruntatu.
+   paṭakaik karaiyil ēṟṟik kuppuṟak kaviḻttup pattiramāyk kaṭṭip
+   pōṭṭuviṭṭu, pūṅkuḻali attīvil irunta oru ciṟiya putta stūpattai
+   aṭaintāḷ. mutalil caṟṟu nēram ataṉ aṭivārattuk kukai aṟaiyil kāṟṟilum
+   maḻaiyilum aṭipaṭātiruntu pārttāḷ. atika nēram avaḷāl appaṭi irukka
+   muṭiyavillai. vāyu pakavāṉiṉ kōlākalat tiruviḷaiyāṭalkaḷaip pārkkum
+   ācai uṇṭāyiṟṟu. kukaiyiliruntu vauivantu paṭikkaṭṭil ēṟi stūpattiṉ
+   ucciyai aṭaintāḷ.appōtu cuṟṟuppuṟattuc cūḻnilai avaḷ uḷḷattiṉ nilaikku
+   ottatāka iruntatu. pūtattīvil oṅki vaḷarntirunta nūṟṟukkaṇakkāṉa teṉṉai
+   maraṅkaḷ talaiviri kōlamāka ūḻik kālattil camhāra mūrttiyaic cuṟṟi
+   niṉṟu pūtakaṇaṅkaḷ āṭuvatu pōl āṭiṉa. kaṭal alaikaḷ atteṉṉai maraṅkaḷiṉ
+   uyaram cila camayam eḻumpi imayamalaiyiṉ paṉic cikaraṅkaḷaippōl oru
+   viṉāṭi kāṭci aḷittu, maṟu viṉāṭi nūṟu kōṭi nurait tuḷikaḷākac citaṟi
+   viḻuntaṉa. cuḻaṉṟu cuḻaṉṟu aṭa tta kāṟṟiṉ captamum alaikaḷiṉ pēroliyum
+   iṭaiyiṭaiyē kēṭṭa iṭimuḻakkamum cērntu tikkut tikāntaṅkaḷ ellām iṭintu
+   takarntu viḻukiṉṟaṉa eṉṟu eṇṇac ceytaṉa. vāṉattai veṭṭip piḷappatupōl
+   avvappōtu tōṉṟik kappum kiḷaiyum viṭṭup paṭarntu ōṭi maṟainta miṉṉalkaḷ
+   oru viṉāṭi nēram kontaḷitta alai kaṭalaiyum, pēyāṭṭam āṭiya
+   maraṅkaḷaiyum, vauiccam pōṭṭuk kāṭṭiviṭṭu maṟuviṉāṭi kaṉṉaṅkariya
+   kāriruḷil āḻac ceytaṉa.
+   ivvaḷavu allōlakallōlaṅkaḷaiyum pārttuk koṇṭu pūṅkuḻali vekunēram
+   niṉṟāḷ. avaḷ uṭampu kāṟṟil āṭiya maraṅkaḷaip pōl āṭiyatu. avaḷ kūntal
+   aviḻntu kāṟṟil paṟantatu. maḻai avaḷ uṭalai naṉaittatu. iṭimuḻakkam
+   avaḷ cevikaḷaip piḷantatu. miṉveṭṭu avaḷ kaṇkaḷaip paṟittatu.
+   itaiyellām avaḷ poruṭpaṭuttavēyillai. veku nēram akkāṟṟilum maḻaiyilum
+   avaḷ niṉṟāḷ. avaḷ uḷḷam veṟi koṇṭu kontaḷittatu. taṉṉaic cuṟṟilum
+   naṭaipeṟum aṟputa kōlākalamellām tāṉ pārttuk kaḷippataṟkākavē
+   naṭappatāka eṇṇip perumitattuṭaṉ anupavittuk koṇṭiruntāḷ.
+   iṭaiyiṭaiyē avaḷukku iḷavaracar aruḷmoḻivarmariṉ niṉaivu
+   vantukoṇṭiruntatu. accamayam avar kōṭikkarai cērntu pattiramāṉa iṭattil
+   taṅkiyiruppār eṉṟu eṇṇiṉāḷ. oru vēḷai taṉ peṟṟōr vīṭṭilē kūṭat
+   taṅkiyirukkalām; allatu nākappaṭṭiṉam ceṉṟu aṅkē irāja māḷikaiyil
+   taṅkiyirukkalām. oru vēḷai kaṭalil kappalilēyē iruntiruppārō? iruntāl
+   eṉṉa? avar ēṟic ceṉṟa periya marakkalattai entac cuḻikkāṟṟutāṉ eṉṉa
+   ceytuviṭum? avaraip pātukākka ettaṉaiyō pēr cuṟṟilum cūḻntiruppārkaḷ.
+   taṉṉaip paṟṟi avar ñāpakappaṭuttik koḷḷa vārā? 'antap pētai pūṅkuḻali
+   iccamayam eṅkirukkiṟāḷō? eṉṟu eṇṇik koḷvārā? oru nāḷum māṭṭār.
+   avaḷuṭaiya cakōtari aṉuppiya vantiyattēvaṉaip paṟṟi niṉaittuk koḷvār.
+   koṭumpaḷūrk kōmakaḷaippaṟṟiyum niṉaittuk koḷḷalām. inta ēḻaik karaiyar
+   kulap peṇṇai avarukku eṅkē niṉaivirukkappōkiṟatu?
+   iravu veku nēram cuḻikkāṟṟiṉ kōlākalattai anupavittu viṭṭup pūṅkuḻali
+   stūpattiṉ aṭivārak kukaikkuc ceṉṟu kaṇṇayarntāḷ. tūkkattil avaḷ
+   amaitiyaṭaiyavillai. ētētō kaṉavukaḷ kaṇṭu koṇṭiruntāḷ. kaṭalil paṭakil
+   ceṉṟu valai vīcuvatu pōlavum, atil iḷavaracar akappaṭuvatu pōlavum oru
+   taṭavai kaṉavu kaṇṭāḷ. maṟṟoru camayam avaḷum iḷavaracarum mīṉkaḷāka
+   māṟik kaṭalil arukarukē nīntip pōvatākak kaṉavu kaṇṭāḷ. ovvoru kaṉaviṉ
+   pōtum naṭuvil viḻitteḻuntu, "itu eṉṉa paittiyakkārat taṉam?" eṉṟu eṇṇi
+   maṉattait tauivākkik koḷḷa muyaṉṟu maṟupaṭiyum uṟaṅkiṉāḷ.
+   poḻutu viṭintu avaḷ naṉṟāy viḻitteḻunta pōtu cuḻikkāṟṟiṉ kōlākalam
+   oruvāṟu aṭaṅki viṭṭiruntatu. iṭiyillai; miṉṉal illai; maḻaiyum niṉṟu
+   pōyiruntatu. eḻuntu kaṭaṟkaraikkuc ceṉṟāḷ. nēṟṟiravu pōl avvaḷavu
+   periya alaikaḷ ippōtu kaṭalil aṭikkavillai. āyiṉum kaṭal iṉṉum
+   kontaḷippākavē iruntatu. muṉṉāḷiravu cuḻikkāṟṟu attīvai eṉṉa
+   pāṭupaṭuttiviṭṭatu eṉpataṟku aṟikuṟiyāṉa kāṭcikaḷ nālāpakkamum
+   kāṇappaṭṭaṉa. vēruṭaṉ peyarntu taraiyil viḻuntu kiṭanta maraṅkaḷum,
+   muṭikaḷ vaḷaintu tāḻntirunta neṭiya periya maraṅkaḷum kāṭci aḷittuk
+   koṇṭiruntaṉa.
+   pūṅkuḻali akkāṭcikaḷaiyellām pārttuk koṇṭiruntapōtu kaṭalil caṟṟut
+   tūrattil oru kaṭṭumara m mitappatu pōl terintatu. atu kaṭaṟkaraiyōrattu
+   alaikaḷiṉāl pala taṭavai appaṭiyum ippaṭiyum alaippuṇṭa piṟaku
+   kaṭaiciyākak karaiyil vantu otuṅkiyatu. appōtutāṉ atilē oru maṉitaṉ
+   iruppataip pūṅkuḻali kavaṉittāḷ. ōṭip pōyp pārttāḷ. kaṭṭumarattil
+   kaṭṭappaṭṭirunta anta maṉitaṉ kuṟṟuyirāyiruntāṉ. avaṉaik kaṭṭu aviḻttu
+   viṭṭu ācuvācappaṭuttiṉāḷ. avaṉ īḻattuk kaṭaṟkaraik kirāmam oṉṟaic
+   cērnta valaiñaṉ. mīṉ piṭikkapōṉa iṭattil cuḻikkāṟṟil akappaṭṭuk
+   koṇṭatākak kūṟiṉāṉ. taṉṉuṭaṉ irunta tōḻaṉaik kaṭal iraiyākkik
+   koṇṭatākavum tāṉ piḻaittatu puṉarjaṉmam eṉṟum terivittāṉ. iṉṉum
+   mukkiyamāṉa oru ceytiyaiyum avaṉ kūṟiṉāṉ.
+   "muṉṉiravu nērattil, kaṭumaiyāṉa cuḻikkāṟṟu aṭittuk koñcam niṉṟatu
+   pōliruntatu. eṅkaḷaic cuṟṟilum kāriruḷ cūḻntiruntatu. tiṭīreṉṟu oru
+   pēriṭi iṭittatu. appōtu tōṉṟiya miṉṉal vauiccattil iraṇṭu marakkalaṅkaḷ
+   terintaṉa. oru marakkalam tīppiṭittu eriyat toṭaṅkiyatu. antap
+   payaṅkaramāṉa kāṭciyaic ciṟitunēram pārttuk koṇṭiruntōm. atil
+   maṉitarkaḷ avacara naṭamāṭṭamum terintatu. piṟaku tīppiṭitta kappal
+   kaṭalil muḻukiviṭṭatu. maṟṟoru marakkalam iruṭṭil maṟaintu viṭṭatu!"
+   eṉṟu ammaṉitaṉ taṭṭut taṭumāṟik kūṟiṉāṉ.
+   itaik kēṭṭavuṭaṉē pūṅkuḻalikku iḷavaracarai ēṟṟic ceṉṟa kappal avaṟṟil
+   oṉṟāyirukkumō eṉṟa aiyam utittatu. appaṭi irukka muṭiyātu eṉṟu niccayam
+   aṭaintāḷ. kaṭalil ettaṉaiyō kappalkaḷ vantu koṇṭum pōyk koṇṭum irukkum.
+   ataippaṟṟi namakku eṉṉa kavalai? āṉālum tīppiṭitta kappalil
+   iruntavarkaḷil cilar kaṭalil viḻuntirukkaka kūṭum. intak kaṭṭumarattu
+   valaiñaṉaip pōl avarkaḷil yārāvatu kaiyil akappaṭṭataip piṭittukkoṇṭu
+   tattaḷikkak kūṭum. avarkaḷukku ēṉ nām utavi ceyyakkūṭātu? paṭakil ēṟic
+   ceṉṟu appaṭit tattaḷikkiṟavarkaḷai ēṟṟikkoṇṭu vantu ēṉ karai cērkkak
+   kūṭātu? piṉṉē, inta jaṉmam etaṟkākattāṉ irukkiṟatu?...
+   avvaḷavutāṉ; inta eṇṇam tōṉṟiyatō illaiyō, pūṅkuḻali paṭakaik
+   kaṭṭaviḻttu nimirttik kaṭalil taḷḷi viṭṭāḷ. tāṉum ēṟik koṇṭāḷ.
+   avaḷuṭaiya irumpuk karaṅkaḷiṉ palam muḻuvataiyum upayōkittut tuṭuppai
+   valittāḷ. karaiyil vantu mōtiya alaikaḷait tāṇṭi appāl pōkum varaiyil
+   mikak kaṭiṉamāṉa vēlaiyāyiruntatu. appuṟam avvaḷavu kaṣṭamāka illai
+   vaḻakkampōl carvacātāraṇamāka avaḷuṭaiya karaṅkaḷ tuṭuppai valittaṉa.
+   paṭaku ullāsamāka āṭik koṇṭu meḷḷa meḷḷa nakarntu ceṉṟatu.
+   pūṅkuḻaliyiṉ uḷḷattil kutūkalamum poṅkiyatu. avaḷ paṭakilē vaḻakkamākap
+   pāṭum paḻaiya kītam tāṉākavē putiya uruvam koṇṭatu. alaikaḷiṉ
+   iraiccalai aṭakkik koṇṭu antak kītam avaḷuṭaiya kampīramāṉa iṉiya kural
+   vaḻiyāka vauivantu nāṟṟicaiyum paraviyatu:-
 
-pakka talippu
+        "alaikaṭal kontaḷikkaiyilē akakkaṭaltāṉ kaḷippatumēṉ?
 
-------------------------------------------------------------------------
+        nilamakaḷum tuṭikkaiyilē neñcakantāṉ tuḷḷuvatēṉ?
 
-aimpattu mūṉṟām attiyāyam
-apaya kītam
-iḷavaracar aruḷmoḻivarmar pārttipēntiraṉuṭiya kappalukkup pōyccērum
-variyil,toṇṭimāṉ natiyiṉ mukattuvārattil niṉṟavarkaḷ pārttuk koṇṭiruntārkaḷ.
-kappalil iḷavaracarēṟikkoṇṭa uṭaṉē avari ēṟṟic ceṉṟa paṭaku tirumpiyatu. cēnātipati
-pūti vikkiramakēcarikutūkalam aṭintiruntār eṉṟu avaruṭiya mukakkuṟi kāṭṭiyatu.
-"āṇṭavaṉ nam kaṭciyil irukkiṟār;cantēkamilli. iḷavaracariṉ tirumēṉiyil uḷḷa
-caṅkucakkarac ciṉṉaṅkaḷ paḻutākap pōyviṭumā?pārttipēntiraṉ avarip pattiramākak kāñci
-koṇṭupōyc cērttuviṭuvāṉ. nāmum nampaṭikaḷuṭaṉ tañciyi nōkkip puṟappaṭa
-vēṇṭiyatutāṉ!" eṉṟu tamakkuttāmē collukiṟavar pōlkoṭumpāḷūr vēḷār urattuc
-collik koṇṭār.
-uṭaṉē pakkattilirunta āḻvārkkaṭiyāṉip pārttār. "viṣṇavaṉē! nī iṅkuniṟkiṟāyā?
-ataṉāl pātakam illi. mutaṉ mantiriyiṉ antaraṅka oṟṟaṉukkut teriyātatu
-eṉṉirukkiṟatu? cari, nī eṉṉa ceyyap pōkiṟāy? mātōṭṭattukku eṉṉuṭaṉ varap
-pōkiṟāyā?" eṉṟukēṭṭār.
-"illi, aiyā! mutaṉ mantiri eṉakku iṭṭa iṉṉum oru vēli
-nāṉceyyavēṇṭiyirukkiṟatu..."
-"atu eṉṉa, appā?"
-āḻvārkkaṭiyāṉ caṟṟut tūrattil ūmirāṇiyum pūṅkuḻaliyum niṉṟa iṭatti nōkkiṉāṉ.
-"antap peṇkaḷip paṟṟiya viṣayamā?" eṉṟār cēnātipati.
-"avarkaḷil oruvarip paṟṟiyatutāṉ; ilaṅkiyil ittakiya ūmi stirī oruttiyippārkka
-nērntāl avaḷi eppaṭiyāvatu tañcāvūrukku aḻittu varumpaṭi mutaṉ mantirika
-ṭṭaḷiyiṭṭirukkiṟār."
-"nalla vēli uṉakkuk koṭuttār. atik kāṭṭilum ilaṅkik kaṭalkaḷil aṭikkum
-puyaṟkāṟṟukaḷil oṉṟip piṭittukkoṇṭu varumpaṭi uṉakkuc colliyirukkalām.anta ūmi
-stirīyippiṭittukkoṇṭu pōvatu avvaḷavu culapamāyirukkum. avaḷ yārō teriyavilli.
-nam iḷavaracariṭammikka apimāṉam vittirukkiṟāḷ. uṉakku ētāvatu avaḷippaṟṟit
-teriyumā?"
-"avaḷ ūmi eṉpatum, piṟavicceviṭu eṉpatum teriyum. avaḷi aḻittuc
-celvatikkāṭṭilum puyaṟkāṟṟik kūṇṭil aṭittukkoṇṭu pōvatu culapam eṉṟum
-teriyum. āyiṉum eṉ ejamāṉarcolliyirukkiṟa paṭiyāl oru pirayattaṉam ceytu
-pārppēṉ."
-"inta ōṭakkārap peṇṇukkum avaḷukkumkūṭac cinēkam pōlirukkiṟatu. iraṇṭu pērum
-jāṭikaḷiṉāl pēcikkoḷvatip pār! antap peṇṇi iṅkē kūppiṭu! avaḷukku ōr
-eccarikki ceyya vēṇṭum!..."
-āḻvārkkaṭiyāṉ antap peṇkaḷiṉ arukil ceṉṟu pūṅkuḻaliyiṭam cēnātipati
-aḻippatikkūṟiṉāṉ. pūṅkuḻali ūmi rāṇiyi viṭṭup pirintu cēnātipatiyi
-aṇukiṉāḷ. "itō pār,peṇṇē! nī veku putticāli! nalla camayattil vantu, mukkiyamāṉa
-ceyti coṉṉāy. cōḻakulattukkup periya utavi ceytāy. iti nāṉ eṉṟum maṟakka
-māṭṭēṉ. takka camayattil takuntaparicil koṭuppēṉ" eṉṟār.
-pūṅkuḻali, "vantaṉam, aiyā! eṉakkup paricil etuvum tēviyilli" eṉṟu
-paṇivuṭaṉcoṉṉāḷ.
-"tēviyilli eṉṟāl yār viṭukiṟārkaḷ? intak kuḻappamellām koñcam aṭaṅkaṭṭum.
-piṟaku...piṟaku cōḻa nāṭṭuc ciṉyattil vīrāti vīraṉākap pārttu uṉakkut tirumaṇam
-ceytuvikkiṟēṉ. uṉakku vāykkiṉṟa kaṇavaṉ aṟpa coṟpamāṉavaṉa y iruntāl pōtātu.
-pīmacēṉaṉākirukkavēṇṭum. illāviṭṭāl avaṉik kaṇṇilē viralik koṭuttu āṭṭi
-vittuviṭa māṭṭāyā?" eṉṟucēnātipati kūṟip puṉṉaki purintār.
-pūṅkuḻali tariyip pārttapaṭi niṉṟāḷ. avaḷ uḷḷattil kōpam poṅkiyatu. āṉālati
-accamayam kāṭṭikoḷḷa virumpavilli. inta muraṭṭuk kiḻavariṭam caṇṭi piṭippatil payaṉ
-eṉṉa?kōpatti aṭakkik koḷḷa muyaṉṟāṉ.
-"āṉāl oru viṣayatti maṭṭum ñāpakam vittuk koḷ, iḷavaracarukku ētō utavi
-ceytuviṭṭapaṭiyāl, avar pēril pāttiyati koṇṭāṭalām eṉṟu eṇṇātē! kaṭalil vali
-pōṭṭu mīṉpiṭippatōṭu niṟuttikkoḷ! iḷavaracari vali pōṭṭup piṭikkalām eṉṟu
-ācippaṭātē! jākkirati,peṇṇē! iṉi avar arukil neruṅkiṉālum uṉakku āpattu
-varum!" eṉṟār cēnātipati.
-avaruṭiya kural appōtu mikak kaṭumiyāka iruntatu. avaruṭiya ovvoru vārttiyum
-kāycciya īyattuḷiyiviṭuvatu pōl pūṅkuḻaliyiṉ kātil viḻuntatu. antak
-kiḻavaṉārukkup patilukkup patil kāracāramāṉavārttikaḷic colla vēṇṭum eṉṟu
-pūṅkuḻali virumpiṉāḷ. āṉāl pēca iyalavilli. toṇṭiyiaṭittatu. kātil viḻunta
-kāycciya īyat tuḷikaḷ kaṇ vaḻiyāka vui vantaṉa pōl veppamāṉakaṇṇīrttuḷikaḷ tōṉṟik
-kaṇkaḷi eriyacceytaṉa.
-kuṉinta tali nimirāmal pūṅkuḻali tirumpiṉāḷ. kaṭaṟkarikku etirppakkam
-nōkkinaṭantāḷ. naṭi metuvāka ārampamāyiṟṟu. varavaravēkam atikarittatu. ūmi rāṇi
-irunta ticiyioru kaṇam kaṭikkaṇṇāl pārttāḷ. avaḷ arukil āḻvārkkaṭiyāṉ niṉṟu ētō
-avaḷiṭam terivikkamuyaṉṟu koṇṭiruppatik kaṇṭāḷ. maṉitarkaḷ uḷḷa iṭattilēyē tāṉ
-irukkakkūṭātu eṉṟa eṇṇamavaḷukkut tōṉṟiyatu. maṉitak kuraliyē kēṭkap piṭikkavilli.
-ā! maṉitarkaḷ ettaṉikoṭūramāṉavarkaḷ? etaṟkāka ivvaḷavu kurūramāṉa coṟkaḷip
-pēcukiṟārkaḷ! ellārum ūmikaḷākavēiruntuviṭṭāl evvaḷavu naṉṟāyirukkum?
-ciṟitu tūram kāṭṭil pukuntu ceṉṟa piṟaku, toṇṭimāṉāṟṟiṉ kariyi aṭintāḷ.
-antakkariyōṭu uḷnāṭṭi nōkki naṭantāḷ. avaḷuṭiya paṭaki viṭṭirunta iṭattik kuṟi
-vittu naṭantāḷ.ām. cīkkiram antap paṭakippōyc cēravēṇṭum. paṭakil ēṟik koḷḷavēṇṭum.
-taṉṉantaṉiyākak kaṭalil cella vēṇṭum. maṉitarkaḷuṭiya kural kātil viḻa muṭiyāta
-naṭukkaṭalukkēpōyviṭa vēṇṭum.tuṭuppic cummā vittuviṭavēṇṭum. alikaḷil mottuṇṭu
-paṭaku mitantu mitantupōkavēṇṭum. tāṉum atil pōy koṇṭirukka vēṇṭum. elliyillāta
-kaṭalil muṭivillāmalpōyk koṇṭirukka vēṇṭum. appōtutāṉ alipaṭṭa taṉ uḷḷam amiti
-peṟum. cēnātipatiyiṉvārttikaḷiṉāl nonta uḷḷattiṉ vētaṉi tīrum. āttiram taṇintu
-āṟutal uṇṭākum.
-antap pollāta kiḻavaṉ eṉṉa coṉṉāṉ! "vali pōṭṭuk kaṭalil mīṉ piṭippatōṭuniṟuttik
-koḷ! iḷavaracarukku vali pōṭātē!" eṉṟāṉ. nāṉā iḷavaracarukku vali pōṭukiṟēṉ!cīccī!
-antak kiḻavaṉiṉ putti pōṉa pōkkip pār!... ām; tariyil vāḻum maṉitarkaḷikkāṭṭilum
-kaṭalil vāḻum mīṉkaḷ evvaḷavō nalla jantukkaḷ. avi ippaṭiyellām
-koṭūramākappēcuvatilli. āḻkaṭalil nīntiyum mitantum evvaḷavu āṉantamākak
-kālaṅkaḻikkiṉṟaṉa! avaṟṟukkukkavali ētu? tuyaram ētu? ākā! nāṉ kaṭalil vāḻum mīṉākap
-piṟantirukkakkūṭātā? appaṭippiṟantiruntāl, inta ulakattiṉ tuyaraṅkaḷ, tuvēṣaṅkaḷ,
-ācāpācaṅkaḷ, kōpatāpaṅkaḷ, ivaṟa ṟilakappaṭṭuk koḷḷāmal catā carva kālamum āḻkaṭalil
-nīnti nīntip pōyk koṇṭirukkalāmallavā? appōtu taṉṉiyum iḷavaracariyum pirippataṟkō
-vañcakam ceyvataṟkō vijamamākappēcuvataṟkō yārum irukka māṭṭārkaḷ allavā?... illi,
-illi! atuvum niccayamilli. aṅkēyum intap pollāta maṉitarkaḷ vantu vali pōṭṭup
-piṭittuk koṇṭu pōkap pārppārkaḷ!iraṇṭu mīṉkaḷil oṉṟi maṭṭum koṇṭu pōṉālum
-pōvārkaḷ! pātakarkaḷ!..."
-pūṅkuḻaliyiṉ maṉattil poṅkiya āttiram avaḷuṭiya kālkaḷukku aḷavillāta
-virivikkoṭuttatu. cūriyaṉ uccivāṉukku vanta camayam avaḷ paṭaki viṭṭirunta iṭatti
-aṭintuviṭṭāḷ.nallavēḷi; paṭaku viṭṭirunta iṭattil kaṭṭip pōṭṭapaṭiyē
-iruntatu.avaḷuṭiya āruyirttōḻi antappaṭakutāṉ. avaḷuṭiya aṭikkala stāṉam antap
-paṭakutāṉ. tuṉpamum, turōkamum cūḻnta intap pollātulakattil taṉakku amitiyum
-āṉantamum aḷippatu antac cāṇ akalattup paṭakutāṉ. ati yārumaṭittukkoṇṭu pōkāmal
-viṭṭu vittatu periya kāriyam.
-'iṉi etu eppaṭiyāvatu pōkaṭṭum. iḷavaracari antak kiḻac cēnātipati kāvalpuriyaṭṭum.
-koṭumpāḷūr vīṭṭup peṇṇiyē avar kaḻuttil kaṭṭiviṭaṭṭum. ataṉāl eṉakku eṉṉa?
-eṉpaṭaku irukkiṟatu; tuṭuppu irukkiṟatu; kiyil valivu irukkiṟatu; vicālamāṉa
-kaṭalum irukkiṟatu. camuttira rājaṉē! uṉ arumip putalviyi vēṟu yār kiviṭṭālum nī
-kiviṭa māṭṭāy allavā?"camuttira kumāri" eṉṟu iḷavaracar tiruvāyiṉāl kūṟiyatip
-poyyākka māṭṭāy allavā?
-pūṅkuḻali paṭakil ēṟikkoṇṭāḷ. kaṭali nōkkip paṭakic celuttiṉāḷ. natiyiṉōṭṭattōṭu
-ceṉṟapaṭiyāl cīkkirattilēyē toṇṭimāṉāṟṟa ṉ mukattuvarātti aṭintuviṭṭāḷ. piṉṉar
-kaṭalil paṭakic celuttiṉāḷ. ciṟitu nērattukkellām cuḻikkāṟṟu aṭikkap pōkiṟatu
-eṉṟuavaḷukkut terintu pōyiṟṟu.cuḻikkāṟṟiṉ muṉ aṟikuṟikaḷi avaḷ naṉku
-aṟintiruntāḷ. mutalnāḷ iravu cantiraṉic cuṟṟic cāmpal niṟa vaṭṭam kāṇappaṭṭatu.
-iṉṟikkup pakalellām orēpuḻukkamāyiruntatu. maraṅkaḷil ili aciyavilli. atō
-teṉmēṟku mūliyil kariya mēkattiṭṭukkaḷkiḷampiviṭṭaṉa. cīkkirattil cuḻikkāṟṟu
-aṭikkappōvatu niccayam. kaṭaliṉ kontaḷippu aṟputakkāṭciyirukkum. āṉāl cuḻikkāṟṟu
-aṭikkap pōvatu niccayam. kaṭaliṉ kontaḷippu aṟputakkaṭalil akappaṭṭuk koḷḷak kūṭātu.
-pūtat tīvukkup pōyt taṅkiyiruppatu nallatu. aṅkētaṅkiyiruntāl cuḻikkāṟṟiṉāl
-kaṭalilē uṇṭākum allōla kallōlatti naṉṟākap pārttukkaḷikkalām. kāṟṟu aṭittuviṭṭup
-pōṉa piṟaku, kaṭalilum kontaḷippuc ciṟitu aṭaṅkiya piṟaku,paṭakik kaṭalil
-celuttikkoṇṭu kōṭikkarikkup pōkalām. ippōtu eṉṉa avacaram? kōṭikkarikkuippōtu
-anta marakkalam anēkamākap pōyirukkum. nallavēḷi cuḻikkāṟṟil atu
-akappaṭṭukkoṇṭirātu. iḷavaracar ittaṉi nēram pattiramākap pōy aṅkē
-iṟaṅkiyiruppār.allatu oruvēḷimāmallapurattukkē pōyiruntālum pōyiruppār. eṅkē
-pōyiruntāl namakku eṉṉa? cuḻikkāṟṟilakappaṭṭuk koṇṭirukkamāṭṭār; anta varikkum
-tirupti aṭiyalām.
-cuḻikkāṟṟut toṭaṅkuvataṟku muṉṉāl aṭiyōṭu kāṟṟu niṉṟu pōyiruntapaṭiyāl
-marakkalaṅkaḷpāy virittiruntum kaṭalil pōka muṭiyavilli eṉpatu pūṅkuḻalikkut
-teriyātu. ākiyāl itta ainēram akkari pōyc cērntirukkum eṉṟē niṉittāḷ.
-cēnātipati, "iḷavaracarukku valipōṭātē!" eṉṟu coṉṉatu aṭikkaṭi avaḷuṭiya maṉattil
-tōṉṟi tuṉpuṟuttik koṇṭiruntatu. ākiyāl, kōṭikkarikkut tāṉum uṭaṉē pōkavēṇṭām
-eṉṟu eṇṇiṉāḷ. pūtat tīvilētaṅkiyiruntatu. cuḻikkāṟṟiṉ aṭṭakācaṅkaḷi vēṭikkip
-pārttuk koṇṭiruntuviṭṭup piṟakucāvakācamākap puṟappaṭat
-tīrmāṉittāḷ.toṇṭimāṉāṟṟiṉ mukattuvārattiliruntu pūtattīvu atikatūrattil illi
-ākiyāl puṟappaṭṭa oru nāḻiki nērattukkuḷ aṅkē pōyc cērntuviṭṭāḷ. pūṅkuḻali
-pūtattīvic cērntataṟkum cuḻikkāṟṟu aṭikkat toṭaṅkiyataṟkum cariyāyiruntatu.
-paṭakik kariyil ēṟṟik kuppuṟak kaviḻttup pattiramāyk kaṭṭip pōṭṭuviṭṭu,
-pūṅkuḻaliattīvil irunta oru ciṟiya putta stūpatti aṭintāḷ. mutalil caṟṟu nēram
-ataṉ aṭivārattuk kukiaṟiyil kāṟṟilum maḻiyilum aṭipaṭātiruntu pārttāḷ. atika
-nēram avaḷāl appaṭi irukkamuṭiyavilli. vāyu pakavāṉiṉ kōlākalat tiruviḷiyāṭalkaḷip
-pārkkum āci uṇṭāyiṟṟu. kukiyiliruntu vuivantu paṭikkaṭṭil ēṟi stūpattiṉ
-ucciyi aṭintāḷ.appōtu cuṟṟuppuṟattuccūḻnili avaḷ uḷḷattiṉ nilikku ottatāka
-iruntatu. pūtattīvil oṅki vaḷarntirunta nūṟṟukkaṇakkāṉateṉṉi maraṅkaḷ taliviri kōlamāka
-ūḻik kālattil camhāra mūrttiyic cuṟṟi niṉṟu pūtakaṇaṅkaḷāṭuvatu pōl āṭiṉa. kaṭal
-alikaḷ atteṉṉi maraṅkaḷiṉ uyaram cila camayam eḻumpi imayamaliyiṉpaṉic cikaraṅkaḷippōl
-oru viṉāṭi kāṭci aḷittu, maṟu viṉāṭi nūṟu kōṭi nurit tuḷikaḷākaccitaṟi
-viḻuntaṉa. cuḻaṉṟu cuḻaṉṟu aṭa tta kāṟṟiṉ captamum alikaḷiṉ pēroliyum iṭiyiṭiyē
-kēṭṭiṭimuḻakkamum cērntu tikkut tikāntaṅkaḷ ellām iṭintu takarntu viḻukiṉṟaṉa
-eṉṟu eṇṇac ceytaṉa. vāṉatti veṭṭip piḷappatupōl avvappōtu tōṉṟik kappum kiḷiyum
-viṭṭup paṭarntu ōṭi maṟintamiṉṉalkaḷ oru viṉāṭi nēram kontaḷitta ali kaṭaliyum,
-pēyāṭṭam āṭiya maraṅkaḷiyum, vuiccampōṭṭuk kāṭṭiviṭṭu maṟuviṉāṭi kaṉṉaṅkariya
-kāriruḷil āḻac ceytaṉa.
-ivvaḷavu allōlakallōlaṅkaḷiyum pārttuk koṇṭu pūṅkuḻali vekunēram niṉṟāḷ.
-avaḷuṭampu kāṟṟil āṭiya maraṅkaḷip pōl āṭiyatu. avaḷ kūntal aviḻntu kāṟṟil
-paṟantatu. maḻi avaḷuṭali naṉittatu. iṭimuḻakkam avaḷ cevikaḷip piḷantatu. miṉveṭṭu
-avaḷ kaṇkaḷip paṟittatu. itiyellām avaḷ poruṭpaṭuttavēyilli. veku nēram
-akkāṟṟilum maḻiyilum avaḷ niṉṟāḷ. avaḷ uḷḷam veṟi koṇṭu kontaḷittatu. taṉṉic
-cuṟṟilum naṭipeṟum aṟputa kōlākalamellāmtāṉ pārttuk kaḷippataṟkākavē naṭappatāka
-eṇṇip perumitattuṭaṉ anupavittuk koṇṭiruntāḷ.
-iṭiyiṭiyē avaḷukku iḷavaracar aruḷmoḻivarmariṉ niṉivu vantukoṇṭiruntatu.
-accamayamavar kōṭikkari cērntu pattiramāṉa iṭattil taṅkiyiruppār eṉṟu eṇṇiṉāḷ. oru
-vēḷi taṉpeṟṟōr vīṭṭilē kūṭat taṅkiyirukkalām; allatu nākappaṭṭiṉam ceṉṟu aṅkē
-irāja māḷikiyiltaṅkiyirukkalām. oru vēḷi kaṭalil kappalilēyē iruntiruppārō?
-iruntāl eṉṉa? avar ēṟicceṉṟa periya marakkalatti entac cuḻikkāṟṟutāṉ eṉṉa
-ceytuviṭum? avarip pātukākka ettaṉiyōpēr cuṟṟilum cūḻntiruppārkaḷ. taṉṉip
-paṟṟi avar ñāpakappaṭuttik koḷḷa vārā? 'antap pētipūṅkuḻali iccamayam
-eṅkirukkiṟāḷō? eṉṟu eṇṇik koḷvārā? oru nāḷum māṭṭār. avaḷuṭiyacakōtari
-aṉuppiya vantiyattēvaṉip paṟṟi niṉittuk koḷvār. koṭumpaḷūrk
-kōmakaḷippaṟṟiyumniṉittuk koḷḷalām. inta ēḻik kariyar kulap peṇṇi avarukku eṅkē
-niṉivirukkappōkiṟatu?
-iravu veku nēram cuḻikkāṟṟiṉ kōlākalatti anupavittu viṭṭup pūṅkuḻali
-stūpattiṉaṭivārak kukikkuc ceṉṟu kaṇṇayarntāḷ. tūkkattil avaḷ amitiyaṭiyavilli.
-ētētō kaṉavukaḷkaṇṭu koṇṭiruntāḷ. kaṭalil paṭakil ceṉṟu vali vīcuvatu pōlavum, atil
-iḷavaracar akappaṭuvatupōlavum oru taṭavi kaṉavu kaṇṭāḷ. maṟṟoru camayam avaḷum iḷavaracarum
-mīṉkaḷāka māṟik kaṭalilarukarukē nīntip pōvatākak kaṉavu kaṇṭāḷ. ovvoru kaṉaviṉ pōtum
-naṭuvil viḻitteḻuntu, "itueṉṉa pittiyakkārat taṉam?" eṉṟu eṇṇi maṉattit
-tuivākkik koḷḷa muyaṉṟu maṟupaṭiyumuṟaṅkiṉāḷ.
-poḻutu viṭintu avaḷ naṉṟāy viḻitteḻunta pōtu cuḻikkāṟṟiṉ kōlākalam
-oruvāṟuaṭaṅki viṭṭiruntatu. iṭiyilli; miṉṉal illi; maḻiyum niṉṟu pōyiruntatu.
-eḻuntu kaṭaṟkarikkucceṉṟāḷ. nēṟṟiravu pōl avvaḷavu periya alikaḷ ippōtu kaṭalil
-aṭikkavilli. āyiṉum kaṭaliṉṉum kontaḷippākavē iruntatu. muṉṉāḷiravu cuḻikkāṟṟu
-attīvi eṉṉa pāṭupaṭuttiviṭṭatueṉpataṟku aṟikuṟiyāṉa kāṭcikaḷ nālāpakkamum
-kāṇappaṭṭaṉa. vēruṭaṉ peyarntu tariyil viḻuntukiṭanta maraṅkaḷum, muṭikaḷ vaḷintu
-tāḻntirunta neṭiya periya maraṅkaḷum kāṭci aḷittukkoṇṭiruntaṉa.
-pūṅkuḻali akkāṭcikaḷiyellām pārttuk koṇṭiruntapōtu kaṭalil caṟṟut tūrattil
-orukaṭṭumara m mitappatu pōl terintatu. atu kaṭaṟkariyōrattu alikaḷiṉāl pala taṭavi
-appaṭiyumippaṭiyum alippuṇṭa piṟaku kaṭiciyākak kariyil vantu otuṅkiyatu.
-appōtutāṉ atilē oru maṉitaṉiruppatip pūṅkuḻali kavaṉittāḷ. ōṭip pōyp pārttāḷ.
-kaṭṭumarattil kaṭṭappaṭṭirunta antamaṉitaṉ kuṟṟuyirāyiruntāṉ. avaṉik kaṭṭu aviḻttu
-viṭṭu ācuvācappaṭuttiṉāḷ. avaṉ īḻattukkaṭaṟkarik kirāmam oṉṟic cērnta valiñaṉ. mīṉ
-piṭikkapōṉa iṭattil cuḻikkāṟṟil akappaṭṭukkoṇṭatākak kūṟiṉāṉ. taṉṉuṭaṉ irunta
-tōḻaṉik kaṭal iriyākkik koṇṭatākavum tāṉ piḻittatupuṉarjaṉmam eṉṟum terivittāṉ.
-iṉṉum mukkiyamāṉa oru ceytiyiyum avaṉ kūṟiṉāṉ.
-"muṉṉiravu nērattil, kaṭumiyāṉa cuḻikkāṟṟu aṭittuk koñcam niṉṟatu pōliruntatu.
-eṅkaḷic cuṟṟilum kāriruḷ cūḻntiruntatu. tiṭīreṉṟu oru pēriṭi iṭittatu.
-appōtu tōṉṟiyamiṉṉal vuiccattil iraṇṭu marakkalaṅkaḷ terintaṉa. oru marakkalam
-tīppiṭittu eriyattoṭaṅkiyatu. antap payaṅkaramāṉa kāṭciyic ciṟitunēram pārttuk
-koṇṭiruntōm. atilmaṉitarkaḷ avacara naṭamāṭṭamum terintatu. piṟaku tīppiṭitta kappal
-kaṭalil muḻukiviṭṭatu. maṟṟorumarakkalam iruṭṭil maṟintu viṭṭatu!" eṉṟu ammaṉitaṉ
-taṭṭut taṭumāṟik kūṟiṉāṉ.
-itik kēṭṭavuṭaṉē pūṅkuḻalikku iḷavaracari ēṟṟic ceṉṟa kappal avaṟṟil
-oṉṟāyirukkumōeṉṟa aiyam utittatu. appaṭi irukka muṭiyātu eṉṟu niccayam aṭintāḷ.
-kaṭalil ettaṉiyō kappalkaḷvantu koṇṭum pōyk koṇṭum irukkum. atippaṟṟi namakku eṉṉa
-kavali? āṉālum tīppiṭittakappalil iruntavarkaḷil cilar kaṭalil viḻuntirukkaka  kūṭum.
-intak kaṭṭumarattu valiñaṉip pōlavarkaḷil yārāvatu kiyil akappaṭṭatip piṭittukkoṇṭu
-tattaḷikkak kūṭum. avarkaḷukku ēṉ nāmutavi ceyyakkūṭātu? paṭakil ēṟic ceṉṟu
-appaṭit tattaḷikkiṟavarkaḷi ēṟṟikkoṇṭu vantu ēṉ karicērkkak kūṭātu? piṉṉē, inta
-jaṉmam etaṟkākattāṉ irukkiṟatu?...
-avvaḷavutāṉ; inta eṇṇam tōṉṟiyatō illiyō, pūṅkuḻali paṭakik kaṭṭaviḻttunimirttik
-kaṭalil taḷḷi viṭṭāḷ. tāṉum ēṟik koṇṭāḷ. avaḷuṭiya irumpuk karaṅkaḷiṉ
-palammuḻuvatiyum upayōkittut tuṭuppi valittāḷ. kariyil vantu mōtiya alikaḷit
-tāṇṭi appālpōkum variyil mikak kaṭiṉamāṉa vēliyāyiruntatu. appuṟam avvaḷavu
-kaṣṭamāka illi vaḻakkampōlcarvacātāraṇamāka avaḷuṭiya karaṅkaḷ tuṭuppi valittaṉa. paṭaku
-ullāsamāka āṭik koṇṭu meḷḷa meḷḷanakarntu ceṉṟatu.
-pūṅkuḻaliyiṉ uḷḷattil kutūkalamum poṅkiyatu. avaḷ paṭakilē vaḻakkamākap pāṭum
-paḻiyakītam tāṉākavē putiya uruvam koṇṭatu. alikaḷiṉ iriccali aṭakkik koṇṭu antak
-kītamavaḷuṭiya kampīramāṉa iṉiya kural vaḻiyāka vuivantu nāṟṟiciyum paraviyatu:-
+        iṭi iṭittu eṇticaiyum veṭipaṭum avvēḷaiyilē
 
-        "alikaṭal kontaḷikkiyilē akakkaṭaltāṉ kaḷippatumēṉ?     nilamakaḷum tuṭikkiyilē neñcakantāṉ tuḷḷuvatēṉ?    iṭi iṭittu eṇticiyum veṭipaṭum avvēḷiyilē   naṭaṉak kalivallavarpōl nāṭṭiyantāṉ āṭuvatēṉ?" 
+        naṭaṉak kalaivallavarpōl nāṭṭiyantāṉ āṭuvatēṉ?"
 
-pāymarak kaṭṭiyip piṭittukkoṇṭa iḷavaracarum, vantiyattēvaṉum alikaṭalil
-mottuṇṭumottuṇṭu mitantu koṇṭiruntārkaḷ. aṉṟu ōr iravutāṉ avarkaḷ avvāṟu
-kaṭalil mitantārkaḷ. āṉāl vantiyattēvaṉukku atu ettaṉiyō yukaṅkaḷ eṉat tōṉṟiyatu.
-avaṉ cīkkirattilēyē nirāciaṭintu viṭṭāṉ; pa iḻittuk kariyēṟuvōm eṉṟa nampikkiyi
-aṭiyōṭu iḻantu viṭṭāṉ.
-ovvoru taṭavi ali uccikku avaṉ pōyk kīḻē vanta pōtum, "ittuṭaṉ cettēṉ"
-eṉṟueṇṇik koṇṭāṉ. maṟupaṭiyum uyirum uṇarvum iruppatik kaṇṭu viyantāṉ. aṭikkaṭi
-iḷavaracarippārttu, "eṉṉuṭiya avacara puttiyiṉāl taṅkaḷiyum inta āpattukku
-uḷḷākkiṉēṉē" eṉṟu pulampiṉāṉ.iḷavaracar avaṉukku āṟutal kūṟit tiriyam ūṭṭi
-vantār. "mūṉṟu nāḷ, nālu nāḷ variyil kaṭalilimmātiri mitantu piḻittu vantavarkaḷ
-uṇṭu" eṉṟu aṭikkaṭi colli vantār.
-"nām kaṭalil viḻuntu ettaṉi nāḷ āyiṉa?" eṉṟu vantiyattēvaṉ kēṭṭāṉ.
-"iṉṉum oru rāttirikūṭa ākavilliyē?" eṉṟār iḷavaracar.
-"poy! poy! pala nāṭkaḷ ākiyirukka vēṇṭum" eṉṟāṉ vantiyattēvaṉ.
-koñca nērattukkellām avaṉukku iṉṉoru kaṣṭam ēṟpaṭṭatu. toṇṭivaṟaṇṭupōyt tākam
-eṭuttatu. taṇṇīrilēyē mitantu koṇṭiruntāṉ; āṉāl tākattukkuk kuṭikkattaṇṇīr illi.
-itu periya cittiravatiyāyiruntatu. iḷavaracariṭam kūṟiṉāṉ.
-"koñcam poṟumiyāyiru! cīkkiram poḻutu viṭiyum! eṅkēyāvatu kariyilē
-pōyotuṅkuvōm" eṉṟār iḷavaracar.
-ciṟitu nēram poṟuttup pārttāṉ; muṭiyavilli.
-"aiyā! eṉṉāl intac cittiravatiyip poṟukka muṭiyātu. kaṭṭi aviḻttu viṭuṅkaḷ!
-kaṭalil muḻukic cākiṟēṉ!"eṉṟāṉ.
-iḷavaracar mīṇṭum tiriyam kūṟa muyaṉṟār. āṉāl palikkavilli. vantiyattēvaṉukku
-veṟimūṇṭatu. taṉṉuṭiya kaṭṭukkaḷit tāṉē aviḻttuk koḷḷa muyaṉṟāṉ. iḷavaracar atip
-pārttār. arukil neruṅkic ceṉṟu avaṉuṭiya taliyil ōṅki iraṇṭu aṟi aṟittār.
-vantiyattēvaṉ uṇarva iḻantāṉ!
-avaṉ maṟupaṭi uṇarvu peṟṟapōtu poḻutu viṭintu vuiccamāyiruppatik kaṇṭāṉ.
-alikaḷiṉāravāramum ciṟitu aṭaṅkiyiruntatu. cūriyaṉ eṅkēyō utayamākiyirukka
-vēṇṭum. āṉāl eṅkēutayamākiyirukkiṟatu eṉṟu pārkka muṭiyavilli. iḷavaracar avaṉi
-aṉpuṭaṉ nōkki, "tōḻā!camīpattil eṅkēyō kari irukkavēṇṭum. teṉṉi maram oṉṟiṉ
-ucciyic caṟṟu muṉ pārttēṉ. iṉṉum koñcam poṟumiyāyiru!" eṉṟu coṉṉār.
-"iḷavaracē! eṉṉik kiviṭṭuviṭuṅkaḷ! tāṅkaḷ eppaṭiyāvatu tappip piḻiyuṅkaḷ!"
-eṉṟāṉvantiyattēvaṉ.
-"vēṇṭām! atiriyappaṭātē! uṉṉi appaṭi nāṉ viṭṭuviṭamāṭṭēṉ! ākā! atueṉṉa! yārō
-pāṭukiṟa kuralpōl toṉikkiṟatē!" eṉṟār iḷavaracar.
-ām; appōtu avarkaḷuṭiya kātil pūṅkuḻali paṭakiliruntu pāṭiya pāṭṭuttāṉ kēṭṭatu.
-"alikaṭal kontaḷikkiyilē akakkaṭaltāṉ kaḷippatumēṉ?" eṉṟa kītam avarkaḷuṭiya kātil apaya
-kītamākat toṉittatu. uṭaṟcōrvum maṉaccōrvum uṟṟu, mukkāl pirāṇaṉi iḻantirunta
-vantiyattēvaṉukkukkūṭa antak kītamputtuyir aḷittu uṟcākam ūṭṭiyatu.
-"iḷavaracē! pūṅkuḻaliyiṉ kuraltāṉ atu! paṭaku ōṭṭikkoṇṭu varukiṟāḷ. nām
-piḻittuppōṉōm!" eṉṟu coṉṉāṉ.
-ciṟitu nērattukkellām paṭaku avarkaḷ kaṇṇukkut teṉpaṭṭatu. neruṅki neruṅki
-arukil vantatu.
-pūṅkuḻali , "itu uṇmiyil naṭappatutāṉā?" eṉṟu cantēkittucceyaliḻantu niṉṟāḷ.
-iḷavaracar, vantiyattēvaṉik kaṭṭu aviḻttu viṭṭār. mutalil tām paṭakilētāvi
-ēṟikkoṇṭār. piṉṉar vantiyattēvaṉiyum ēṟṟi viṭṭār. pūṅkuḻali kiyil
-piṭittatuṭuppuṭaṉē cittirapāviyip pōl ceyalaṟṟu niṉṟāḷ.
 
-pakka talippu
+   pāymarak kaṭṭaiyaip piṭittukkoṇṭa iḷavaracarum, vantiyattēvaṉum
+   alaikaṭalil mottuṇṭu mottuṇṭu mitantu koṇṭiruntārkaḷ. aṉṟu ōr iravutāṉ
+   avarkaḷ avvāṟu kaṭalil mitantārkaḷ. āṉāl vantiyattēvaṉukku atu
+   ettaṉaiyō yukaṅkaḷ eṉat tōṉṟiyatu. avaṉ cīkkirattilēyē nirācai aṭaintu
+   viṭṭāṉ; pa iḻaittuk karaiyēṟuvōm eṉṟa nampikkaiyai aṭiyōṭu iḻantu
+   viṭṭāṉ.
+   ovvoru taṭavai alai uccikku avaṉ pōyk kīḻē vanta pōtum, "ittuṭaṉ
+   cettēṉ" eṉṟu eṇṇik koṇṭāṉ. maṟupaṭiyum uyirum uṇarvum iruppataik kaṇṭu
+   viyantāṉ. aṭikkaṭi iḷavaracaraip pārttu, "eṉṉuṭaiya avacara puttiyiṉāl
+   taṅkaḷaiyum inta āpattukku uḷḷākkiṉēṉē" eṉṟu pulampiṉāṉ. iḷavaracar
+   avaṉukku āṟutal kūṟit tairiyam ūṭṭi vantār. "mūṉṟu nāḷ, nālu nāḷ
+   varaiyil kaṭalil immātiri mitantu piḻaittu vantavarkaḷ uṇṭu" eṉṟu
+   aṭikkaṭi colli vantār.
+   "nām kaṭalil viḻuntu ettaṉai nāḷ āyiṉa?" eṉṟu vantiyattēvaṉ kēṭṭāṉ.
+   "iṉṉum oru rāttirikūṭa ākavillaiyē?" eṉṟār iḷavaracar.
+   "poy! poy! pala nāṭkaḷ ākiyirukka vēṇṭum" eṉṟāṉ vantiyattēvaṉ.
+   koñca nērattukkellām avaṉukku iṉṉoru kaṣṭam ēṟpaṭṭatu. toṇṭai
+   vaṟaṇṭupōyt tākam eṭuttatu. taṇṇīrilēyē mitantu koṇṭiruntāṉ; āṉāl
+   tākattukkuk kuṭikkat taṇṇīr illai. itu periya cittiravataiyāyiruntatu.
+   iḷavaracariṭam kūṟiṉāṉ.
+   "koñcam poṟumaiyāyiru! cīkkiram poḻutu viṭiyum! eṅkēyāvatu karaiyilē
+   pōy otuṅkuvōm" eṉṟār iḷavaracar.
+   ciṟitu nēram poṟuttup pārttāṉ; muṭiyavillai.
+   "aiyā! eṉṉāl intac cittiravataiyaip poṟukka muṭiyātu. kaṭṭai aviḻttu
+   viṭuṅkaḷ! kaṭalil muḻukic cākiṟēṉ!" eṉṟāṉ.
+   iḷavaracar mīṇṭum tairiyam kūṟa muyaṉṟār. āṉāl palikkavillai.
+   vantiyattēvaṉukku veṟi mūṇṭatu. taṉṉuṭaiya kaṭṭukkaḷait tāṉē aviḻttuk
+   koḷḷa muyaṉṟāṉ. iḷavaracar ataip pārttār. arukil neruṅkic ceṉṟu
+   avaṉuṭaiya talaiyil ōṅki iraṇṭu aṟai aṟaittār. vantiyattēvaṉ uṇarva
+   iḻantāṉ!
+   avaṉ maṟupaṭi uṇarvu peṟṟapōtu poḻutu viṭintu vauiccamāyiruppataik
+   kaṇṭāṉ. alaikaḷiṉ āravāramum ciṟitu aṭaṅkiyiruntatu. cūriyaṉ eṅkēyō
+   utayamākiyirukka vēṇṭum. āṉāl eṅkē utayamākiyirukkiṟatu eṉṟu pārkka
+   muṭiyavillai. iḷavaracar avaṉai aṉpuṭaṉ nōkki, "tōḻā! camīpattil eṅkēyō
+   karai irukkavēṇṭum. teṉṉai maram oṉṟiṉ ucciyaic caṟṟu muṉ pārttēṉ.
+   iṉṉum koñcam poṟumaiyāyiru!" eṉṟu coṉṉār.
+   "iḷavaracē! eṉṉaik kaiviṭṭuviṭuṅkaḷ! tāṅkaḷ eppaṭiyāvatu tappip
+   piḻaiyuṅkaḷ!" eṉṟāṉ vantiyattēvaṉ.
+   "vēṇṭām! atairiyappaṭātē! uṉṉai appaṭi nāṉ viṭṭuviṭamāṭṭēṉ! ākā! atu
+   eṉṉa! yārō pāṭukiṟa kuralpōl toṉikkiṟatē!" eṉṟār iḷavaracar.
+   ām; appōtu avarkaḷuṭaiya kātil pūṅkuḻali paṭakiliruntu pāṭiya pāṭṭuttāṉ
+   kēṭṭatu.
+   "alaikaṭal kontaḷikkaiyilē akakkaṭaltāṉ kaḷippatumēṉ?" eṉṟa kītam
+   avarkaḷuṭaiya kātil apaya kītamākat toṉittatu. uṭaṟcōrvum maṉaccōrvum
+   uṟṟu, mukkāl pirāṇaṉai iḻantirunta vantiyattēvaṉukkukkūṭa antak kītam
+   puttuyir aḷittu uṟcākam ūṭṭiyatu.
+   "iḷavaracē! pūṅkuḻaliyiṉ kuraltāṉ atu! paṭaku ōṭṭikkoṇṭu varukiṟāḷ. nām
+   piḻaittup pōṉōm!" eṉṟu coṉṉāṉ.
+   ciṟitu nērattukkellām paṭaku avarkaḷ kaṇṇukkut teṉpaṭṭatu. neruṅki
+   neruṅki arukil vantatu.
+   pūṅkuḻali , "itu uṇmaiyil naṭappatutāṉā?" eṉṟu cantēkittuc ceyaliḻantu
+   niṉṟāḷ. iḷavaracar, vantiyattēvaṉaik kaṭṭu aviḻttu viṭṭār. mutalil tām
+   paṭakilē tāvi ēṟikkoṇṭār. piṉṉar vantiyattēvaṉaiyum ēṟṟi viṭṭār.
+   pūṅkuḻali kaiyil piṭitta tuṭuppuṭaṉē cittirapāvaiyaip pōl ceyalaṟṟu
+   niṉṟāḷ.
 
-------------------------------------------------------------------------
+   [16]pakka talaippu
+     __________________________________________________________________
 
-This file was last revised on Apr. 12, 2003
-Please send your comments to the webmastersof this website.
+   This file was last revised on Apr. 12, 2003
+   Please send your comments to the [17]webmasters of this website.
+
+References
+
+   1. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_00.html
+   2. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_01_01.html
+   3. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_02_01.html
+   4. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_03_01.html
+   5. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_04_01.html
+   6. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_05_01.html
+   7. file:///var/www/tamilex/rawcorpus/pmuni/html/mp169end.html
+   8. mailto:kalyan@geocities.com
+   9. mailto:kumar@vt.edu
+  10. http://www.projectmadurai.org/
+  11. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_02_06.html#1
+  12. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_02_06.html#2
+  13. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_02_06.html#3
+  14. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_02_06.html#top
+  15. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_02_06.html#top
+  16. file:///var/www/tamilex/rawcorpus/pmuni/html/pmuni0169_02_06.html#top
+  17. mailto:kalyan@softhome.net, kumar@vt.edu?subject=PM0169. ponniyin celvan
