@@ -5,6 +5,9 @@ Sourced from:
 * Tamilex
     * Kuṟuntokai — rough transcriptions reconstructed from the apparatus criticus
 
+* NETamil
+    * e-texts converted from Word files found in the NETamil archive
+
 * Project Madurai (https://projectmadurai.org)
     * downloaded & transliterated on 20 May 2025
 
