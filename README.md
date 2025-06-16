@@ -4,7 +4,7 @@ Sourced from:
 
 * Tamilex
     * Kuṟuntokai — rough transcriptions reconstructed from the apparatus criticus
-    * Cīvakacintāmaṇi — initial transcription commissioned from Thomas Malten & team
+    * Cīvakacintāmaṇi — transcription commissioned from Thomas Malten & team
 
 * NETamil
     * e-texts converted from Word files found in the NETamil archive
