@@ -1,12 +1,12 @@
 # OCR files from Archive.org, etc.
 
-## perunkatai.txt
+## Perunkatai/
 
 Konkuvēḷir iyarriya Peruṅkatai, edited by U. V. Cāminātaiyar, 2nd ed. (Ceṉṉai: Kēcari Accukkūṭam, 1935). Copy of T. V. Gopal Iyer.
 
 https://archive.org/details/perunkatai
 
-Currently being proofread and corrected by Kamalambal.
+Proofread and corrected by T. V. Kamalambal.
 
 ## maimkalai00matu.txt
 
@@ -28,10 +28,13 @@ _Peruntokai_, a collection of verses compiled by Mu. Irākavaiyaṅkār in 1935.
 https://archive.org/details/Perunthokai
 
 ## TVA\_BOK\_0011710_புறத்திரட்டு.txt
+## Purattirattu/
 
 _Puṟattiraṭṭu_, ed. Es. Vaiyāpurippiḷḷai, 2nd. edition reprint 2001 [1939].
 
 https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0011710_%E0%AE%AA%E0%AF%81%E0%AE%B1%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81.pdf
+
+Currently being proofread by T. V. Kamalambal.
 
 ## tva-bok-0017240_djvu.txt
 
