@@ -61,3 +61,9 @@ https://archive.org/details/vrajeshkumar_gmail_01
 _Tamiḻil Islāmiya Meyññāṉa Illakiyaṅkaḷ_
 
 https://archive.org/details/ThamizhilIslamiyaMeygnanaIlakkiyangal
+
+## Seeraapuranam/
+
+_Cīṟāpurāṇam mūlamum poḻippuraiyum_
+
+https://archive.org/details/acc.-no.-16830-seeraappuranam-moolamum-pozhippuraiyum-1912
