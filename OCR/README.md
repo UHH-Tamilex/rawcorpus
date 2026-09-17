@@ -55,3 +55,9 @@ https//www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZt1lJh
 with commentary.
 
 https://archive.org/details/vrajeshkumar_gmail_01
+
+## Thamizhil_Islamiya_Meygnana_Ilakkiyangal.txt
+
+_Tamiḻil Islāmiya Meyññāṉa Illakiyaṅkaḷ_
+
+https://archive.org/details/ThamizhilIslamiyaMeygnanaIlakkiyangal
