@@ -21,7 +21,7 @@ Edition of U. Vē. Cāminātaiyar, 1920. From the UVSL Library.
 https://archive.org/details/naRRinai/%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%B1%E0%AF%8D%E2%80%8D%E0%AE%B1%E0%AF%81%E0%AE%AA%E0%AF%8D%20%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81
 
 
-## பெருந்தொகை-1935\_djvu.txt 
+## பெருந்தொகை-1935.txt
 
 _Peruntokai_, a collection of verses compiled by Mu. Irākavaiyaṅkār in 1935.
 
@@ -41,7 +41,7 @@ Proofread and corrected by T. V. Kamalambal.
 https://archive.org/details/patin-2ooran-tirumu-rai-1852/ — missing pages 132–133.
 https://tamildigitallibrary.in/Articles/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-23588-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%B2%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%81%E0%AE%9F%E0%AF%88%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%20%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9A%E0%AF%81%E0%AE%B0%E0%AE%AE%E0%AF%8D%20%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AE%BF%E0%AE%AF%20%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%AA%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%85%E0%AE%9F%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF%20%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8A%E0%AE%B0%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88
 
-Currently being proofread by T. V. Kamalambal.
+Proofread by T. V. Kamalambal.
 
 ## tva-bok-0017240_djvu.txt
 
