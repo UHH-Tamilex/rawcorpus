@@ -67,3 +67,9 @@ https://archive.org/details/ThamizhilIslamiyaMeygnanaIlakkiyangal
 _Cīṟāpurāṇam mūlamum poḻippuraiyum_
 
 https://archive.org/details/acc.-no.-16830-seeraappuranam-moolamum-pozhippuraiyum-1912
+
+## Tamil_Proverbs.txt
+
+_Tamil Proverbs with their English Translation_, Rev. P. Percival, Second Edition, 1874.
+
+https://en.wikisource.org/wiki/Tamil_Proverbs
